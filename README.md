@@ -10,6 +10,12 @@
 2. [css] [第3天 在页面上隐藏元素的方法有哪些？](https://github.com/haizhilin2013/interview/issues/8)
 3. [js] [第3天 去除字符串中最后一个指定的字符](https://github.com/haizhilin2013/interview/issues/9)
 
+### 类库面试专题（敬请期待）
+- [jQuery](lib/jQuery.md)
+- [Vue](lib/Vue.md)
+- [React](lib/React.md)
+- [AngularJs](lib/AngularJs.md)
+
 ## 历史面试题
 - 第2天 (2019.04.18)
     - [html] [html的元素有哪些（包含H5）？](https://github.com/haizhilin2013/interview/issues/4)
