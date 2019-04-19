@@ -19,9 +19,9 @@
 
 ## 历史面试题
 - 第3天 (2019.04.19)
-    - [html] [第3天 HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizhilin2013/interview/issues/7)
-    - [css] [第3天 在页面上隐藏元素的方法有哪些？](https://github.com/haizhilin2013/interview/issues/8)
-    - [js] [第3天 去除字符串中最后一个指定的字符](https://github.com/haizhilin2013/interview/issues/9)
+    - [html] [HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizhilin2013/interview/issues/7)
+    - [css] [在页面上隐藏元素的方法有哪些？](https://github.com/haizhilin2013/interview/issues/8)
+    - [js] [去除字符串中最后一个指定的字符](https://github.com/haizhilin2013/interview/issues/9)
 
 - 第2天 (2019.04.18)
     - [html] [html的元素有哪些（包含H5）？](https://github.com/haizhilin2013/interview/issues/4)
