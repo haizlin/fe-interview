@@ -6,10 +6,10 @@
 ## 起源于一道面试题
 ![起源图](resource/images/begin.jpg)
 
-## 今日面试题 (2019.04.19 周五)
-1. [html] [第3天 HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizhilin2013/interview/issues/7)
-2. [css] [第3天 在页面上隐藏元素的方法有哪些？](https://github.com/haizhilin2013/interview/issues/8)
-3. [js] [第3天 去除字符串中最后一个指定的字符](https://github.com/haizhilin2013/interview/issues/9)
+## 今日面试题 (2019.04.20 周六)
+1. [html] [第4天 HTML5的文件离线储存怎么使用，工作原理是什么？](https://github.com/haizhilin2013/interview/issues/10)
+2. [css] [第4天 CSS选择器有哪些？哪些属性可以继承？](https://github.com/haizhilin2013/interview/issues/11)
+3. [js] [第4天 写一个方法把下划线命名转成大驼峰命名](https://github.com/haizhilin2013/interview/issues/12)
 
 ### 类库面试专题（敬请期待）
 - [jQuery](lib/jQuery.md)
@@ -18,6 +18,11 @@
 - [AngularJs](lib/AngularJs.md)
 
 ## 历史面试题
+- 第3天 (2019.04.19)
+    - [html] [第3天 HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizhilin2013/interview/issues/7)
+    - [css] [第3天 在页面上隐藏元素的方法有哪些？](https://github.com/haizhilin2013/interview/issues/8)
+    - [js] [第3天 去除字符串中最后一个指定的字符](https://github.com/haizhilin2013/interview/issues/9)
+
 - 第2天 (2019.04.18)
     - [html] [html的元素有哪些（包含H5）？](https://github.com/haizhilin2013/interview/issues/4)
     - [css] [CSS3有哪些新增的特性？](https://github.com/haizhilin2013/interview/issues/5)
