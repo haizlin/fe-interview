@@ -7,10 +7,10 @@
 ## 起源于一道面试题
 ![起源图](resource/images/begin.jpg)
 
-## 今日面试题 (2019.04.21 周日)
-1. [html] [第5天 简述超链接target属性的取值和作用](https://github.com/haizhilin2013/interview/issues/13)
-2. [css] [第5天 CSS3新增伪类有哪些并简要描述](https://github.com/haizhilin2013/interview/issues/14)
-3. [js] [第5天 写一个把字符串大小写切换的方法](https://github.com/haizhilin2013/interview/issues/15)
+## 今日面试题 (2019.04.21 周日) —— 第5天
+1. [html] [简述超链接target属性的取值和作用](https://github.com/haizhilin2013/interview/issues/13)
+2. [css] [CSS3新增伪类有哪些并简要描述](https://github.com/haizhilin2013/interview/issues/14)
+3. [js] [写一个把字符串大小写切换的方法](https://github.com/haizhilin2013/interview/issues/15)
 
 ### 类库面试专题（敬请期待）
 - [jQuery](lib/jQuery.md)
