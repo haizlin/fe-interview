@@ -20,9 +20,9 @@
 
 ## 历史面试题
 - 第4天 (2019.04.20)
-    - [html] [HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizhilin2013/interview/issues/7)
-    - [css] [在页面上隐藏元素的方法有哪些？](https://github.com/haizhilin2013/interview/issues/8)
-    - [js] [去除字符串中最后一个指定的字符](https://github.com/haizhilin2013/interview/issues/9)
+    - [html] [HTML5的文件离线储存怎么使用，工作原理是什么？](https://github.com/haizhilin2013/interview/issues/10)
+    - [css] [CSS选择器有哪些？哪些属性可以继承？](https://github.com/haizhilin2013/interview/issues/11)
+    - [js] [写一个方法把下划线命名转成大驼峰命名](https://github.com/haizhilin2013/interview/issues/12)
 
 - 第3天 (2019.04.19)
     - [html] [HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizhilin2013/interview/issues/7)
