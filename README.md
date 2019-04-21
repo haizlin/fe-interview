@@ -7,10 +7,10 @@
 ## 起源于一道面试题
 ![起源图](resource/images/begin.jpg)
 
-## 今日面试题 (2019.04.21 周日) —— 第5天
-1. [html] [简述超链接target属性的取值和作用](https://github.com/haizhilin2013/interview/issues/13)
-2. [css] [CSS3新增伪类有哪些并简要描述](https://github.com/haizhilin2013/interview/issues/14)
-3. [js] [写一个把字符串大小写切换的方法](https://github.com/haizhilin2013/interview/issues/15)
+## 今日面试题 (2019.04.22 周一) —— 第6天
+1. [html] [label都有哪些作用？并举相应的例子说明](https://github.com/haizhilin2013/interview/issues/16)
+2. [css] [用css创建一个三角形，并简述原理](https://github.com/haizhilin2013/interview/issues/17)
+3. [js] [写一个去除制表符和换行符的方法](https://github.com/haizhilin2013/interview/issues/18)
 
 ### 类库面试专题（敬请期待）
 - [jQuery](lib/jQuery.md)
@@ -19,6 +19,11 @@
 - [AngularJs](lib/AngularJs.md)
 
 ## 历史面试题
+- 第5天 (2019.04.21)
+    - [html] [简述超链接target属性的取值和作用](https://github.com/haizhilin2013/interview/issues/13)
+    - [css] [CSS3新增伪类有哪些并简要描述](https://github.com/haizhilin2013/interview/issues/14)
+    - [js] [写一个把字符串大小写切换的方法](https://github.com/haizhilin2013/interview/issues/15)
+
 - 第4天 (2019.04.20)
     - [html] [HTML5的文件离线储存怎么使用，工作原理是什么？](https://github.com/haizhilin2013/interview/issues/10)
     - [css] [CSS选择器有哪些？哪些属性可以继承？](https://github.com/haizhilin2013/interview/issues/11)
