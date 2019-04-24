@@ -7,10 +7,10 @@
 ## 起源于一道面试题
 ![起源图](resource/images/begin.jpg)
 
-## 今日面试题 (2019.04.24 周三) —— 第8天
-1. [html] [简述下html5的离线储存原理，同时说明如何使用？](https://github.com/haizhilin2013/interview/issues/22)
-2. [css] [清除浮动的方式有哪些及优缺点？](https://github.com/haizhilin2013/interview/issues/23)
-3. [js] [写一个加密字符串的方法](https://github.com/haizhilin2013/interview/issues/24)
+## 今日面试题 (2019.04.25 周四) —— 第9天
+1. [html] [浏览器内多个标签页之间的通信方式有哪些？](https://github.com/haizhilin2013/interview/issues/25)
+2. [css] [简述下你理解的优雅降级和渐进增强](https://github.com/haizhilin2013/interview/issues/26)
+3. [js] [写一个判断数据类型的方法](https://github.com/haizhilin2013/interview/issues/27)
 
 ### 类库面试专题（敬请期待）
 - [jQuery](lib/jQuery.md)
@@ -19,6 +19,11 @@
 - [AngularJs](lib/AngularJs.md)
 
 ## 历史面试题
+- 第8天 (2019.04.24)
+    - [html] [简述下html5的离线储存原理，同时说明如何使用？](https://github.com/haizhilin2013/interview/issues/22)
+    - [css] [清除浮动的方式有哪些及优缺点？](https://github.com/haizhilin2013/interview/issues/23)
+    - [js] [写一个加密字符串的方法](https://github.com/haizhilin2013/interview/issues/24)
+
 - 第7天 (2019.04.23)
     - [html] [iframe框架都有哪些优缺点？](https://github.com/haizhilin2013/interview/issues/19)
     - [css] [简述你对BFC规范的理解](https://github.com/haizhilin2013/interview/issues/20)
