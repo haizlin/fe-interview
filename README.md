@@ -8,7 +8,7 @@
 ![起源图](resource/images/begin.jpg)
 
 ## 今日面试题 (2019.04.24 周三) —— 第8天
-1. [html] [简述下html5的离线储存原理，同时如何说明使用？](https://github.com/haizhilin2013/interview/issues/22)
+1. [html] [简述下html5的离线储存原理，同时说明如何使用？](https://github.com/haizhilin2013/interview/issues/22)
 2. [css] [清除浮动的方式有哪些及优缺点？](https://github.com/haizhilin2013/interview/issues/23)
 3. [js] [写一个加密字符串的方法](https://github.com/haizhilin2013/interview/issues/24)
 
