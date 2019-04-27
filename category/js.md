@@ -2,8 +2,11 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.04.25
+> 最新：2019.04.28
 
+- [写一个获取当前url查询字符串中的参数的方法](https://github.com/haizlin/fe-interview/issues/36)
+- [简要描述下JS有哪些内置的对象](https://github.com/haizlin/fe-interview/issues/33)
+- [简要描述下什么是回调函数并写一个例子出来](https://github.com/haizlin/fe-interview/issues/30)
 - [写一个加密字符串的方法](https://github.com/haizhilin2013/interview/issues/24)
 - [统计某一字符或字符串在另一个字符串中出现的次数](https://github.com/haizhilin2013/interview/issues/21)
 - [写一个去除制表符和换行符的方法](https://github.com/haizhilin2013/interview/issues/18)
