@@ -11,6 +11,7 @@
 1. [html] [常见的浏览器内核都有哪些？并介绍下你对内核的理解](https://github.com/haizlin/fe-interview/issues/34)
 2. [css] [说说你对css盒子模型的理解](https://github.com/haizlin/fe-interview/issues/35)
 3. [js] [写一个获取当前url查询字符串中的参数的方法](https://github.com/haizlin/fe-interview/issues/36)
+4. [软技能] [网页应用从服务器主动推送到客户端有那些方式？](https://github.com/haizlin/fe-interview/issues/37)
 
 ### 类库面试专题（敬请期待）
 - [jQuery](lib/jQuery.md)
