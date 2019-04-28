@@ -1,4 +1,4 @@
-# 前端面试每日三题（每日三问）
+# 前端面试每日 **3+1**（每日三问）
 
 > 《论语》，曾子曰：**“吾日三省吾身**。  
 > 前端面试每日三题，以面试题来驱动学习，每天进步一点！  
@@ -13,16 +13,22 @@
 3. [js] [写一个获取当前url查询字符串中的参数的方法](https://github.com/haizlin/fe-interview/issues/36)
 4. [软技能] [网页应用从服务器主动推送到客户端有那些方式？](https://github.com/haizlin/fe-interview/issues/37)
 
-### 类库面试专题（敬请期待）
+## 类库面试专题（敬请期待）
 - [jQuery](lib/jQuery.md)
 - [Vue](lib/Vue.md)
 - [React](lib/React.md)
 - [AngularJs](lib/AngularJs.md)
 
-### 试题分类
+## 试题分类
 - [html](category/html.md)
 - [css](category/css.md)
 - [js](category/js.md)
+
+## 重大事件
+- v1.0.1: 2019.04.17 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
+- v1.0.2: 2019.04.25 添加了面试题的分类
+- v1.0.3: 2019.04.27 添加了Issues的模板
+- v1.0.4: 2019.04.28 每日3题改成每日3+1，即添加了一个软技能题
 
 ## 历史面试题
 - 第11天 (2019.04.27)
