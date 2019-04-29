@@ -13,17 +13,17 @@
 3. [js] [什么是闭包？优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/44)
 4. [软技能] [你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/haizlin/fe-interview/issues/45)
 
-## 类库面试专题（敬请期待）
-- [jQuery](lib/jQuery.md)
-- [Vue](lib/Vue.md)
-- [React](lib/React.md)
-- [AngularJs](lib/AngularJs.md)
-
 ## 试题分类
 - [html](category/html.md)
 - [css](category/css.md)
 - [js](category/js.md)
 - [软技能](category/软技能.md)
+
+## 类库面试专题（敬请期待）
+- [jQuery](lib/jQuery.md)
+- [Vue](lib/Vue.md)
+- [React](lib/React.md)
+- [AngularJs](lib/AngularJs.md)
 
 ## 重大事件
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
