@@ -7,11 +7,11 @@
 ## 起源于一道面试题
 ![起源图](resource/images/begin.jpg)
 
-## 今日面试题 (2019.04.30 周二) —— 第14天
-1. [html] [为什么HTML5只需要写`<!DOCTYPE HTML>`就可以？](https://github.com/haizlin/fe-interview/issues/42)
-2. [css] [position:fixed;在ios下无效该怎么办？](https://github.com/haizlin/fe-interview/issues/43)
-3. [js] [什么是闭包？优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/44)
-4. [软技能] [你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/haizlin/fe-interview/issues/45)
+## 今日面试题 (2019.05.01 周三) —— 第15天
+1. [html] [title与h1的区别、b与strong的区别、i与em的区别？](https://github.com/haizlin/fe-interview/issues/46)
+2. [css] [style标签写在body前和body后的区别是什么？](https://github.com/haizlin/fe-interview/issues/47)
+3. [js] [写一个数组去重的方法（支持多维数组）](https://github.com/haizlin/fe-interview/issues/48)
+4. [软技能] [对于加班你是怎么看的？](https://github.com/haizlin/fe-interview/issues/49)
 
 ## 试题分类
 - [html](category/html.md)
@@ -43,6 +43,12 @@
 ![QQ群](resource/images/qq_qrcode.png)
 
 ## 历史面试题
+- 第14天 (2019.04.30)
+    - [html] [为什么HTML5只需要写`<!DOCTYPE HTML>`就可以？](https://github.com/haizlin/fe-interview/issues/42)
+    - [css] [position:fixed;在ios下无效该怎么办？](https://github.com/haizlin/fe-interview/issues/43)
+    - [js] [什么是闭包？优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/44)
+    - [软技能] [你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/haizlin/fe-interview/issues/45)
+
 - 第13天 (2019.04.29)
     - [html] [html5中的form怎么关闭自动完成？](https://github.com/haizlin/fe-interview/issues/38)
     - [css] [::before和:after中单冒号和双冒号的区别是什么，这两个伪元素有什么作用？](https://github.com/haizlin/fe-interview/issues/39)
