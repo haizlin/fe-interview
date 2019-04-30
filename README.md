@@ -8,7 +8,7 @@
 ![起源图](resource/images/begin.jpg)
 
 ## 今日面试题 (2019.04.30 周二) —— 第14天
-1. [html] [为什么HTML5只需要写<!DOCTYPE HTML>就可以？](https://github.com/haizlin/fe-interview/issues/42)
+1. [html] [为什么HTML5只需要写`<!DOCTYPE HTML>`就可以？](https://github.com/haizlin/fe-interview/issues/42)
 2. [css] [position:fixed;在ios下无效该怎么办？](https://github.com/haizlin/fe-interview/issues/43)
 3. [js] [什么是闭包？优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/44)
 4. [软技能] [你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/haizlin/fe-interview/issues/45)
