@@ -88,3 +88,6 @@
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
 
 ![微信公众号和微信群](resource/images/qrcode.jpg)
+
+## License
+[MIT](LICENSE.md)
