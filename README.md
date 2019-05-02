@@ -67,36 +67,6 @@
     - [js] [写一个获取当前url查询字符串中的参数的方法](https://github.com/haizlin/fe-interview/issues/36)
     - [软技能] [网页应用从服务器主动推送到客户端有那些方式？](https://github.com/haizlin/fe-interview/issues/37)
 
-- 第11天 (2019.04.27)
-    - [html] [你对标签语义化的理解是什么？](https://github.com/haizlin/fe-interview/issues/31)
-    - [css] [css常用的布局方式有哪些？](https://github.com/haizlin/fe-interview/issues/32)
-    - [js] [简要描述下JS有哪些内置的对象](https://github.com/haizlin/fe-interview/issues/33)
-
-- 第10天 (2019.04.26)
-    - [html] [viewport常见设置都有哪些？](https://github.com/haizlin/fe-interview/issues/28)
-    - [css] [对比下px、em、rem有什么不同？](https://github.com/haizlin/fe-interview/issues/29)
-    - [js] [简要描述下什么是回调函数并写一个例子出来](https://github.com/haizlin/fe-interview/issues/30)
-
-- 第9天 (2019.04.25)
-    - [html] [浏览器内多个标签页之间的通信方式有哪些？](https://github.com/haizlin/fe-interview/issues/25)
-    - [css] [简述下你理解的优雅降级和渐进增强](https://github.com/haizlin/fe-interview/issues/26)
-    - [js] [写一个判断数据类型的方法](https://github.com/haizlin/fe-interview/issues/27)
-
-- 第8天 (2019.04.24)
-    - [html] [简述下html5的离线储存原理，同时说明如何使用？](https://github.com/haizlin/fe-interview/issues/22)
-    - [css] [清除浮动的方式有哪些及优缺点？](https://github.com/haizlin/fe-interview/issues/23)
-    - [js] [写一个加密字符串的方法](https://github.com/haizlin/fe-interview/issues/24)
-
-- 第7天 (2019.04.23)
-    - [html] [iframe框架都有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/19)
-    - [css] [简述你对BFC规范的理解](https://github.com/haizlin/fe-interview/issues/20)
-    - [js] [统计某一字符或字符串在另一个字符串中出现的次数](https://github.com/haizlin/fe-interview/issues/21)
-
-- 第6天 (2019.04.22)
-    - [html] [label都有哪些作用？并举相应的例子说明](https://github.com/haizlin/fe-interview/issues/16)
-    - [css] [用css创建一个三角形，并简述原理](https://github.com/haizlin/fe-interview/issues/17)
-    - [js] [写一个去除制表符和换行符的方法](https://github.com/haizlin/fe-interview/issues/18)
-
 - **[查看全部](category/history.md)**
 
 ## 特别感谢（排名不分先后）
