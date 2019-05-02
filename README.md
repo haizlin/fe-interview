@@ -90,4 +90,4 @@
 ![微信公众号和微信群](resource/images/qrcode.jpg)
 
 ## License
-[MIT](LICENSE.md)
+[MIT](./LICENSE)
