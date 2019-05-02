@@ -5,9 +5,9 @@
 > 让努力成为一种习惯，让奋斗成为一种享受！
 
 ---
-- 学习不打烊，充电加油只为**遇到更好的自己**，一年366天没有节假日，每天早上5点左右纯手工发布面试题（**死磕自己**）。
+- 学习不打烊，充电加油只为**遇到更好的自己**，365天没有节假日，每天早上5点纯手工发布面试题（**死磕自己**）。
 - 希望大家在这**浮夸**的前端圈里，保持**冷静**，坚持每天花20分钟学习与思考。
-- 鼓励**PR**，谢谢**Star**，大家有啥好的建议可以加我微信一起讨论！
+- 鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 
 ## 起源
 > 故事起源于一张离职同事发来的求助面试题，然后在部门企业微信群里炸开了，答题完后大家觉得如果每天来一题，是不是会更爽呢？**以面代练**，突发其想说干就干，所以就有了这个开源仓库，只为利他利己！
@@ -34,27 +34,9 @@
 - [React](lib/React.md)
 - [AngularJs](lib/AngularJs.md)
 
-## 重大事件
-- 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
-- 2019.04.25 — 添加了面试题的分类
-- 2019.04.27 — 添加了Issues的模板
-- 2019.04.28 — 每日3题改成每日3+1，即添加了一个软技能题
-- 2019.04.29 — 添加了特别感谢的朋友
-- 2019.04.30 — 添加了QQ讨论群
-- 2019.05.02 — 去除QQ讨论群二维码，添加公众号及个人微信二维码
-
-## 特别感谢（排名不分先后）
-- [雨辰](https://github.com/qq674785876)
-- [鱼利平](https://github.com/undefinedYu)
-- [张庆磊](https://github.com/qingleizhang123)
-- [夜半微清凉](https://github.com/yxkhaha)
-
-## 交流讨论
-欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
-
-![微信公众号和微信群](resource/images/qrcode.jpg)
-
 ## 历史面试题
+- [**查看全部**](category/history.md)
+
 - 第15天 (2019.05.01)
     - [html] [title与h1的区别、b与strong的区别、i与em的区别？](https://github.com/haizlin/fe-interview/issues/46)
     - [css] [style标签写在body前和body后的区别是什么？](https://github.com/haizlin/fe-interview/issues/47)
@@ -109,30 +91,22 @@
     - [css] [用css创建一个三角形，并简述原理](https://github.com/haizlin/fe-interview/issues/17)
     - [js] [写一个去除制表符和换行符的方法](https://github.com/haizlin/fe-interview/issues/18)
 
-- 第5天 (2019.04.21)
-    - [html] [简述超链接target属性的取值和作用](https://github.com/haizlin/fe-interview/issues/13)
-    - [css] [CSS3新增伪类有哪些并简要描述](https://github.com/haizlin/fe-interview/issues/14)
-    - [js] [写一个把字符串大小写切换的方法](https://github.com/haizlin/fe-interview/issues/15)
+## 重大事件
+- 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
+- 2019.04.25 — 添加了面试题的分类
+- 2019.04.27 — 添加了Issues的模板
+- 2019.04.28 — 每日3题改成每日3+1，即添加了一个软技能题
+- 2019.04.29 — 添加了特别感谢的朋友
+- 2019.04.30 — 添加了QQ讨论群
+- 2019.05.02 — 去除QQ讨论群二维码，添加公众号及个人微信二维码
 
-- 第4天 (2019.04.20)
-    - [html] [HTML5的文件离线储存怎么使用，工作原理是什么？](https://github.com/haizlin/fe-interview/issues/10)
-    - [css] [CSS选择器有哪些？哪些属性可以继承？](https://github.com/haizlin/fe-interview/issues/11)
-    - [js] [写一个方法把下划线命名转成大驼峰命名](https://github.com/haizlin/fe-interview/issues/12)
+## 特别感谢（排名不分先后）
+- [雨辰](https://github.com/qq674785876)
+- [鱼利平](https://github.com/undefinedYu)
+- [张庆磊](https://github.com/qingleizhang123)
+- [夜半微清凉](https://github.com/yxkhaha)
 
-- 第3天 (2019.04.19)
-    - [html] [HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizlin/fe-interview/issues/7)
-    - [css] [在页面上隐藏元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/8)
-    - [js] [去除字符串中最后一个指定的字符](https://github.com/haizlin/fe-interview/issues/9)
+## 交流讨论
+欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
 
-- 第2天 (2019.04.18)
-    - [html] [html的元素有哪些（包含H5）？](https://github.com/haizlin/fe-interview/issues/4)
-    - [css] [CSS3有哪些新增的特性？](https://github.com/haizlin/fe-interview/issues/5)
-    - [js] [写一个方法去掉字符串中的空格](https://github.com/haizlin/fe-interview/issues/6)
-
-- 第1天 (2019.04.17)
-    - [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
-    - [css] [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)
-    - [js] [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizlin/fe-interview/issues/3)
-
-
-
+![微信公众号和微信群](resource/images/qrcode.jpg)
