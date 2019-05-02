@@ -15,10 +15,10 @@
 ![起源图](resource/images/begin.jpg)
 
 ## 今日面试题 (2019.05.02 周四) —— 第16天
-1. [html] [元素的alt和title有什么区别？](https://github.com/haizlin/fe-interview/issues/50)
-2. [css] [请描述margin边界叠加是什么及解决方案](https://github.com/haizlin/fe-interview/issues/51)
-3. [js] [返回到顶部的方法有哪些？把其中一个方法出来](https://github.com/haizlin/fe-interview/issues/52)
-4. [软技能] [你在的公司有没有做代码审查（CodeReview）？如果有是怎么做的？如果没有你觉得应该怎么做才更好？](https://github.com/haizlin/fe-interview/issues/53)
+- [html] [元素的alt和title有什么区别？](https://github.com/haizlin/fe-interview/issues/50)
+- [css] [请描述margin边界叠加是什么及解决方案](https://github.com/haizlin/fe-interview/issues/51)
+- [js] [返回到顶部的方法有哪些？把其中一个方法出来](https://github.com/haizlin/fe-interview/issues/52)
+- [软技能] [你在的公司有没有做代码审查（CodeReview）？如果有是怎么做的？如果没有你觉得应该怎么做才更好？](https://github.com/haizlin/fe-interview/issues/53)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -28,7 +28,7 @@
 - [js](category/js.md)
 - [软技能](category/软技能.md)
 
-## 类库面试专题（敬请期待）
+## 类库面试专题（敬请期待、欢迎PR）
 - [jQuery](lib/jQuery.md)
 - [Vue](lib/Vue.md)
 - [React](lib/React.md)
@@ -90,6 +90,8 @@
     - [html] [label都有哪些作用？并举相应的例子说明](https://github.com/haizlin/fe-interview/issues/16)
     - [css] [用css创建一个三角形，并简述原理](https://github.com/haizlin/fe-interview/issues/17)
     - [js] [写一个去除制表符和换行符的方法](https://github.com/haizlin/fe-interview/issues/18)
+
+- [**查看全部**](category/history.md)
 
 ## 重大事件
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
