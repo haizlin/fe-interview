@@ -14,11 +14,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今日面试题 (2019.05.03 周五) —— 第17天
-- [html] [你认为table的作用和优缺点是什么呢？](https://github.com/haizlin/fe-interview/issues/54)
-- [css] [解释下 CSS sprites的原理和优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/55)
-- [js] [typeof('abc')和typeof 'abc'都是string, 那么typeof是操作符还是函数？](https://github.com/haizlin/fe-interview/issues/56)
-- [软技能] [说说你对SVN和GIT的理解和区别](https://github.com/haizlin/fe-interview/issues/57)
+## 今日面试题 (2019.05.04 周六) —— 第18天
+- [html] [怎样在页面上实现一个圆形的可点击区域？](https://github.com/haizlin/fe-interview/issues/58)
+- [css] [什么是FOUC？你是如何避免FOUC的？](https://github.com/haizlin/fe-interview/issues/59)
+- [js] [你理解的"use strict";是什么?使用它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/60)
+- [软技能] [你如何看待团建的？你们团建一般都怎么实施？](https://github.com/haizlin/fe-interview/issues/61)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -36,6 +36,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第17天 (2019.05.03)
+    - [html] [你认为table的作用和优缺点是什么呢？](https://github.com/haizlin/fe-interview/issues/54)
+    - [css] [解释下 CSS sprites的原理和优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/55)
+    - [js] [typeof('abc')和typeof 'abc'都是string, 那么typeof是操作符还是函数？](https://github.com/haizlin/fe-interview/issues/56)
+    - [软技能] [说说你对SVN和GIT的理解和区别](https://github.com/haizlin/fe-interview/issues/57)
 
 - 第16天 (2019.05.02)
     - [html] [元素的alt和title有什么区别？](https://github.com/haizlin/fe-interview/issues/50)
