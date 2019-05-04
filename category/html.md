@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.04.28
+> 最新：2019.05.05
 
+- [说说你对html中的置换元素和非置换元素的理解](https://github.com/haizlin/fe-interview/issues/62)
+- [怎样在页面上实现一个圆形的可点击区域？](https://github.com/haizlin/fe-interview/issues/58)
+- [你认为table的作用和优缺点是什么呢？](https://github.com/haizlin/fe-interview/issues/54)
+- [元素的alt和title有什么区别？](https://github.com/haizlin/fe-interview/issues/50)
+- [title与h1的区别、b与strong的区别、i与em的区别？](https://github.com/haizlin/fe-interview/issues/46)
+- [为什么HTML5只需要写`<!DOCTYPE HTML>`就可以？](https://github.com/haizlin/fe-interview/issues/42)
+- [html5中的form怎么关闭自动完成？](https://github.com/haizlin/fe-interview/issues/38)
 - [常见的浏览器内核都有哪些？并介绍下你对内核的理解](https://github.com/haizlin/fe-interview/issues/34)
 - [你对标签语义化的理解是什么？](https://github.com/haizlin/fe-interview/issues/31)
 - [viewport常见设置都有哪些？](https://github.com/haizlin/fe-interview/issues/28)

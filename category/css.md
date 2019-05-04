@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.04.28
+> 最新：2019.05.05
 
+- [css的属性content有什么作用呢？有哪些场景可以用到？](https://github.com/haizlin/fe-interview/issues/63)
+- [什么是FOUC？你是如何避免FOUC的？](https://github.com/haizlin/fe-interview/issues/59)
+- [解释下 CSS sprites的原理和优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/55)
+- [请描述margin边界叠加是什么及解决方案](https://github.com/haizlin/fe-interview/issues/51)
+- [style标签写在body前和body后的区别是什么？](https://github.com/haizlin/fe-interview/issues/47)
+- [position:fixed;在ios下无效该怎么办？](https://github.com/haizlin/fe-interview/issues/43)
+- [::before和:after中单冒号和双冒号的区别是什么，这两个伪元素有什么作用？](https://github.com/haizlin/fe-interview/issues/39)
 - [说说你对css盒子模型的理解](https://github.com/haizlin/fe-interview/issues/35)
 - [css常用的布局方式有哪些？](https://github.com/haizlin/fe-interview/issues/32)
 - [对比下px、em、rem有什么不同？](https://github.com/haizlin/fe-interview/issues/29)
