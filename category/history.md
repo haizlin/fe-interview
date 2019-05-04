@@ -1,6 +1,18 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第18天 (2019.05.04)
+    - [html] [怎样在页面上实现一个圆形的可点击区域？](https://github.com/haizlin/fe-interview/issues/58)
+    - [css] [什么是FOUC？你是如何避免FOUC的？](https://github.com/haizlin/fe-interview/issues/59)
+    - [js] [你理解的"use strict";是什么?使用它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/60)
+    - [软技能] [你如何看待团建的？你们团建一般都怎么实施？](https://github.com/haizlin/fe-interview/issues/61)
+
+- 第17天 (2019.05.03)
+    - [html] [你认为table的作用和优缺点是什么呢？](https://github.com/haizlin/fe-interview/issues/54)
+    - [css] [解释下 CSS sprites的原理和优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/55)
+    - [js] [typeof('abc')和typeof 'abc'都是string, 那么typeof是操作符还是函数？](https://github.com/haizlin/fe-interview/issues/56)
+    - [软技能] [说说你对SVN和GIT的理解和区别](https://github.com/haizlin/fe-interview/issues/57)
+
 - 第16天 (2019.05.02)
     - [html] [元素的alt和title有什么区别？](https://github.com/haizlin/fe-interview/issues/50)
     - [css] [请描述margin边界叠加是什么及解决方案](https://github.com/haizlin/fe-interview/issues/51)

@@ -14,11 +14,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今日面试题 (2019.05.04 周六) —— 第18天
-- [html] [怎样在页面上实现一个圆形的可点击区域？](https://github.com/haizlin/fe-interview/issues/58)
-- [css] [什么是FOUC？你是如何避免FOUC的？](https://github.com/haizlin/fe-interview/issues/59)
-- [js] [你理解的"use strict";是什么?使用它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/60)
-- [软技能] [你如何看待团建的？你们团建一般都怎么实施？](https://github.com/haizlin/fe-interview/issues/61)
+## 今日面试题 (2019.05.05 周日) —— 第19天
+- [html] [说说你对html中的置换元素和非置换元素的理解](https://github.com/haizlin/fe-interview/issues/62)
+- [css] [css的属性content有什么作用呢？有哪些场景可以用到？](https://github.com/haizlin/fe-interview/issues/63)
+- [js] ["attribute"和"property"有什么不同？](https://github.com/haizlin/fe-interview/issues/64)
+- [软技能] [最近都流行些什么？你经常会浏览哪些网站？](https://github.com/haizlin/fe-interview/issues/65)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -29,6 +29,7 @@
 - [软技能](category/软技能.md)
 
 ## 类库面试专题（敬请期待、欢迎PR）
+- [ES6](lib/jQuery.md)
 - [jQuery](lib/jQuery.md)
 - [Vue](lib/Vue.md)
 - [React](lib/React.md)
@@ -36,6 +37,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第18天 (2019.05.04)
+    - [html] [怎样在页面上实现一个圆形的可点击区域？](https://github.com/haizlin/fe-interview/issues/58)
+    - [css] [什么是FOUC？你是如何避免FOUC的？](https://github.com/haizlin/fe-interview/issues/59)
+    - [js] [你理解的"use strict";是什么?使用它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/60)
+    - [软技能] [你如何看待团建的？你们团建一般都怎么实施？](https://github.com/haizlin/fe-interview/issues/61)
 
 - 第17天 (2019.05.03)
     - [html] [你认为table的作用和优缺点是什么呢？](https://github.com/haizlin/fe-interview/issues/54)
@@ -60,18 +67,6 @@
     - [css] [position:fixed;在ios下无效该怎么办？](https://github.com/haizlin/fe-interview/issues/43)
     - [js] [什么是闭包？优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/44)
     - [软技能] [你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/haizlin/fe-interview/issues/45)
-
-- 第13天 (2019.04.29)
-    - [html] [html5中的form怎么关闭自动完成？](https://github.com/haizlin/fe-interview/issues/38)
-    - [css] [::before和:after中单冒号和双冒号的区别是什么，这两个伪元素有什么作用？](https://github.com/haizlin/fe-interview/issues/39)
-    - [js] [说说你对javascript的作用域的理解](https://github.com/haizlin/fe-interview/issues/40)
-    - [软技能] [http都有哪些状态码？](https://github.com/haizlin/fe-interview/issues/41)
-
-- 第12天 (2019.04.28)
-    - [html] [常见的浏览器内核都有哪些？并介绍下你对内核的理解](https://github.com/haizlin/fe-interview/issues/34)
-    - [css] [说说你对css盒子模型的理解](https://github.com/haizlin/fe-interview/issues/35)
-    - [js] [写一个获取当前url查询字符串中的参数的方法](https://github.com/haizlin/fe-interview/issues/36)
-    - [软技能] [网页应用从服务器主动推送到客户端有那些方式？](https://github.com/haizlin/fe-interview/issues/37)
 
 - **[查看全部](category/history.md)**
 
