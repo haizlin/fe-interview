@@ -22,11 +22,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今日面试题 (2019.05.05 周日) —— 第19天
-- [html] [说说你对html中的置换元素和非置换元素的理解](https://github.com/haizlin/fe-interview/issues/62)
-- [css] [css的属性content有什么作用呢？有哪些场景可以用到？](https://github.com/haizlin/fe-interview/issues/63)
-- [js] ["attribute"和"property"有什么不同？](https://github.com/haizlin/fe-interview/issues/64)
-- [软技能] [最近都流行些什么？你经常会浏览哪些网站？](https://github.com/haizlin/fe-interview/issues/65)
+## 今日面试题 (2019.05.06 周一) —— 第20天
+- [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
+- [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)
+- [js] [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68)
+- [软技能] [你会手写原生js代码吗？](https://github.com/haizlin/fe-interview/issues/69)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -43,8 +43,17 @@
 - [React](lib/React.md)
 - [AngularJs](lib/AngularJs.md)
 
+## 汇总
+- [周](category/week.md)
+
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第19天 (2019.05.05)
+    - [html] [说说你对html中的置换元素和非置换元素的理解](https://github.com/haizlin/fe-interview/issues/62)
+    - [css] [css的属性content有什么作用呢？有哪些场景可以用到？](https://github.com/haizlin/fe-interview/issues/63)
+    - [js] ["attribute"和"property"有什么不同？](https://github.com/haizlin/fe-interview/issues/64)
+    - [软技能] [最近都流行些什么？你经常会浏览哪些网站？](https://github.com/haizlin/fe-interview/issues/65)
 
 - 第18天 (2019.05.04)
     - [html] [怎样在页面上实现一个圆形的可点击区域？](https://github.com/haizlin/fe-interview/issues/58)
