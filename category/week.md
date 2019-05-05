@@ -80,8 +80,6 @@
 - [对于加班你是怎么看的？](https://github.com/haizlin/fe-interview/issues/49)
 - [你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/haizlin/fe-interview/issues/45)
 - [http都有哪些状态码？](https://github.com/haizlin/fe-interview/issues/41)
-- [你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/haizlin/fe-interview/issues/45)
-- [http都有哪些状态码？](https://github.com/haizlin/fe-interview/issues/41)
 
 ## 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
