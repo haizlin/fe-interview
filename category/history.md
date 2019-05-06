@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第20天 (2019.05.06)
+    - [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
+    - [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)
+    - [js] [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68)
+    - [软技能] [你会手写原生js代码吗？](https://github.com/haizlin/fe-interview/issues/69)
+
 - 第19天 (2019.05.05)
     - [html] [说说你对html中的置换元素和非置换元素的理解](https://github.com/haizlin/fe-interview/issues/62)
     - [css] [css的属性content有什么作用呢？有哪些场景可以用到？](https://github.com/haizlin/fe-interview/issues/63)

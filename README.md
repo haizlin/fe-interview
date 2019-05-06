@@ -23,11 +23,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今日面试题 (2019.05.06 周一) —— 第20天
-- [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
-- [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)
-- [js] [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68)
-- [软技能] [你会手写原生js代码吗？](https://github.com/haizlin/fe-interview/issues/69)
+## 今天的面试题 (2019.05.07 周二) —— 第21天
+- [html] [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
+- [css] [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
+- [js] [写一个方法验证是否为中文](https://github.com/haizlin/fe-interview/issues/72)
+- [软技能] [来说说你对重绘和重排的理解，以及如何优化？](https://github.com/haizlin/fe-interview/issues/73)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -49,6 +49,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第20天 (2019.05.06)
+    - [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
+    - [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)
+    - [js] [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68)
+    - [软技能] [你会手写原生js代码吗？](https://github.com/haizlin/fe-interview/issues/69)
 
 - 第19天 (2019.05.05)
     - [html] [说说你对html中的置换元素和非置换元素的理解](https://github.com/haizlin/fe-interview/issues/62)
@@ -73,18 +79,6 @@
     - [css] [请描述margin边界叠加是什么及解决方案](https://github.com/haizlin/fe-interview/issues/51)
     - [js] [返回到顶部的方法有哪些？把其中一个方法出来](https://github.com/haizlin/fe-interview/issues/52)
     - [软技能] [你在的公司有没有做代码审查（CodeReview）？如果有是怎么做的？如果没有你觉得应该怎么做才更好？](https://github.com/haizlin/fe-interview/issues/53)
-
-- 第15天 (2019.05.01)
-    - [html] [title与h1的区别、b与strong的区别、i与em的区别？](https://github.com/haizlin/fe-interview/issues/46)
-    - [css] [style标签写在body前和body后的区别是什么？](https://github.com/haizlin/fe-interview/issues/47)
-    - [js] [写一个数组去重的方法（支持多维数组）](https://github.com/haizlin/fe-interview/issues/48)
-    - [软技能] [对于加班你是怎么看的？](https://github.com/haizlin/fe-interview/issues/49)
-
-- 第14天 (2019.04.30)
-    - [html] [为什么HTML5只需要写`<!DOCTYPE HTML>`就可以？](https://github.com/haizlin/fe-interview/issues/42)
-    - [css] [position:fixed;在ios下无效该怎么办？](https://github.com/haizlin/fe-interview/issues/43)
-    - [js] [什么是闭包？优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/44)
-    - [软技能] [你最喜欢用哪些编辑器？喜欢它的理由是什么？](https://github.com/haizlin/fe-interview/issues/45)
 
 - **[查看全部](category/history.md)**
 
