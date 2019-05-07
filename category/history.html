@@ -1,0 +1,454 @@
+<!DOCTYPE html><html><head>
+      <title>history</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:///C:\Users\wangjian\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.3.13\node_modules\@shd101wyy\mume\dependencies\katex\katex.min.css">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      <style> 
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: none;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.4;
+
+  -moz-tab-size: 8;
+  -o-tab-size: 8;
+  tab-size: 8;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .8em;
+  overflow: auto;
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  /* background: #fff; */
+  background: #f5f5f5;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+  background: #f5f5f5;
+}
+
+.token.comment,
+.token.blockquote {
+  color: #969896;
+}
+
+.token.cdata {
+  color: #183691;
+}
+
+.token.doctype,
+.token.punctuation,
+.token.variable,
+.token.macro.property {
+  color: #333;
+}
+
+.token.operator,
+.token.important,
+.token.keyword,
+.token.rule,
+.token.builtin {
+  color: #a71d5d;
+}
+
+.token.string,
+.token.url,
+.token.regex,
+.token.attr-value {
+  color: #183691;
+}
+
+.token.property,
+.token.number,
+.token.boolean,
+.token.entity,
+.token.atrule,
+.token.constant,
+.token.symbol,
+.token.command,
+.token.code {
+  color: #0086b3;
+}
+
+.token.tag,
+.token.selector,
+.token.prolog {
+  color: #63a35c;
+}
+
+.token.function,
+.token.namespace,
+.token.pseudo-element,
+.token.class,
+.token.class-name,
+.token.pseudo-class,
+.token.id,
+.token.url-reference .token.variable,
+.token.attr-name {
+  color: #795da3;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+.token.title,
+.token.title .token.punctuation {
+  font-weight: bold;
+  color: #1d3e81;
+}
+
+.token.list {
+  color: #ed6a43;
+}
+
+.token.inserted {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.token.deleted {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+
+/* JSON */
+.language-json .token.property {
+  color: #183691;
+}
+
+.language-markup .token.tag .token.punctuation {
+  color: #333;
+}
+
+/* CSS */
+code.language-css,
+.language-css .token.function {
+  color: #0086b3;
+}
+
+/* YAML */
+.language-yaml .token.atrule {
+  color: #63a35c;
+}
+
+code.language-yaml {
+  color: #183691;
+}
+
+/* Ruby */
+.language-ruby .token.function {
+  color: #333;
+}
+
+/* Markdown */
+.language-markdown .token.url {
+  color: #795da3;
+}
+
+/* Makefile */
+.language-makefile .token.symbol {
+  color: #795da3;
+}
+
+.language-makefile .token.variable {
+  color: #183691;
+}
+
+.language-makefile .token.builtin {
+  color: #0086b3;
+}
+
+/* Bash */
+.language-bash .token.keyword {
+  color: #0086b3;
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{padding:0 1.6em;margin-top:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc li{margin-bottom:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{list-style-type:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  150px);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+ 
+      </style>
+    </head>
+    <body for="html-export">
+      <div class="mume markdown-preview   ">
+      <h1 class="mume-header" id="%E5%8E%86%E5%8F%B2%E9%A2%98%E7%9B%AE">&#x5386;&#x53F2;&#x9898;&#x76EE;</h1>
+
+<blockquote>
+<p>&#x6CE8;&#xFF1A;&#x4E0D;&#x5305;&#x542B;&#x5F53;&#x5929;&#x7684;&#x9898;&#xFF0C;&#x5F53;&#x5929;&#x7684;&#x9898;&#x5728;&#x9996;&#x9875;&#x663E;&#x793A;</p>
+</blockquote>
+<ul>
+<li>
+<p>&#x7B2C;20&#x5929; (2019.05.06)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/66">&#x8BF7;&#x63CF;&#x8FF0;HTML&#x5143;&#x7D20;&#x7684;&#x663E;&#x793A;&#x4F18;&#x5148;&#x7EA7;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/67">&#x8981;&#x8BA9;Chrome&#x652F;&#x6301;&#x5C0F;&#x4E8E;12px&#x7684;&#x6587;&#x5B57;&#x600E;&#x4E48;&#x505A;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/68">&#x5199;&#x4E00;&#x4E2A;&#x9A8C;&#x8BC1;&#x8EAB;&#x4EFD;&#x8BC1;&#x53F7;&#x7684;&#x65B9;&#x6CD5;</a></li>
+<li>[&#x8F6F;&#x6280;&#x80FD;] <a href="https://github.com/haizlin/fe-interview/issues/69">&#x4F60;&#x4F1A;&#x624B;&#x5199;&#x539F;&#x751F;js&#x4EE3;&#x7801;&#x5417;&#xFF1F;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;19&#x5929; (2019.05.05)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/62">&#x8BF4;&#x8BF4;&#x4F60;&#x5BF9;html&#x4E2D;&#x7684;&#x7F6E;&#x6362;&#x5143;&#x7D20;&#x548C;&#x975E;&#x7F6E;&#x6362;&#x5143;&#x7D20;&#x7684;&#x7406;&#x89E3;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/63">css&#x7684;&#x5C5E;&#x6027;content&#x6709;&#x4EC0;&#x4E48;&#x4F5C;&#x7528;&#x5462;&#xFF1F;&#x6709;&#x54EA;&#x4E9B;&#x573A;&#x666F;&#x53EF;&#x4EE5;&#x7528;&#x5230;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/64">&quot;attribute&quot;&#x548C;&quot;property&quot;&#x6709;&#x4EC0;&#x4E48;&#x4E0D;&#x540C;&#xFF1F;</a></li>
+<li>[&#x8F6F;&#x6280;&#x80FD;] <a href="https://github.com/haizlin/fe-interview/issues/65">&#x6700;&#x8FD1;&#x90FD;&#x6D41;&#x884C;&#x4E9B;&#x4EC0;&#x4E48;&#xFF1F;&#x4F60;&#x7ECF;&#x5E38;&#x4F1A;&#x6D4F;&#x89C8;&#x54EA;&#x4E9B;&#x7F51;&#x7AD9;&#xFF1F;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;18&#x5929; (2019.05.04)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/58">&#x600E;&#x6837;&#x5728;&#x9875;&#x9762;&#x4E0A;&#x5B9E;&#x73B0;&#x4E00;&#x4E2A;&#x5706;&#x5F62;&#x7684;&#x53EF;&#x70B9;&#x51FB;&#x533A;&#x57DF;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/59">&#x4EC0;&#x4E48;&#x662F;FOUC&#xFF1F;&#x4F60;&#x662F;&#x5982;&#x4F55;&#x907F;&#x514D;FOUC&#x7684;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/60">&#x4F60;&#x7406;&#x89E3;&#x7684;&quot;use strict&quot;;&#x662F;&#x4EC0;&#x4E48;?&#x4F7F;&#x7528;&#x5B83;&#x6709;&#x4EC0;&#x4E48;&#x4F18;&#x7F3A;&#x70B9;&#xFF1F;</a></li>
+<li>[&#x8F6F;&#x6280;&#x80FD;] <a href="https://github.com/haizlin/fe-interview/issues/61">&#x4F60;&#x5982;&#x4F55;&#x770B;&#x5F85;&#x56E2;&#x5EFA;&#x7684;&#xFF1F;&#x4F60;&#x4EEC;&#x56E2;&#x5EFA;&#x4E00;&#x822C;&#x90FD;&#x600E;&#x4E48;&#x5B9E;&#x65BD;&#xFF1F;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;17&#x5929; (2019.05.03)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/54">&#x4F60;&#x8BA4;&#x4E3A;table&#x7684;&#x4F5C;&#x7528;&#x548C;&#x4F18;&#x7F3A;&#x70B9;&#x662F;&#x4EC0;&#x4E48;&#x5462;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/55">&#x89E3;&#x91CA;&#x4E0B; CSS sprites&#x7684;&#x539F;&#x7406;&#x548C;&#x4F18;&#x7F3A;&#x70B9;&#x5206;&#x522B;&#x662F;&#x4EC0;&#x4E48;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/56">typeof(&apos;abc&apos;)&#x548C;typeof &apos;abc&apos;&#x90FD;&#x662F;string, &#x90A3;&#x4E48;typeof&#x662F;&#x64CD;&#x4F5C;&#x7B26;&#x8FD8;&#x662F;&#x51FD;&#x6570;&#xFF1F;</a></li>
+<li>[&#x8F6F;&#x6280;&#x80FD;] <a href="https://github.com/haizlin/fe-interview/issues/57">&#x8BF4;&#x8BF4;&#x4F60;&#x5BF9;SVN&#x548C;GIT&#x7684;&#x7406;&#x89E3;&#x548C;&#x533A;&#x522B;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;16&#x5929; (2019.05.02)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/50">&#x5143;&#x7D20;&#x7684;alt&#x548C;title&#x6709;&#x4EC0;&#x4E48;&#x533A;&#x522B;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/51">&#x8BF7;&#x63CF;&#x8FF0;margin&#x8FB9;&#x754C;&#x53E0;&#x52A0;&#x662F;&#x4EC0;&#x4E48;&#x53CA;&#x89E3;&#x51B3;&#x65B9;&#x6848;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/52">&#x8FD4;&#x56DE;&#x5230;&#x9876;&#x90E8;&#x7684;&#x65B9;&#x6CD5;&#x6709;&#x54EA;&#x4E9B;&#xFF1F;&#x628A;&#x5176;&#x4E2D;&#x4E00;&#x4E2A;&#x65B9;&#x6CD5;&#x51FA;&#x6765;</a></li>
+<li>[&#x8F6F;&#x6280;&#x80FD;] <a href="https://github.com/haizlin/fe-interview/issues/53">&#x4F60;&#x5728;&#x7684;&#x516C;&#x53F8;&#x6709;&#x6CA1;&#x6709;&#x505A;&#x4EE3;&#x7801;&#x5BA1;&#x67E5;&#xFF08;CodeReview&#xFF09;&#xFF1F;&#x5982;&#x679C;&#x6709;&#x662F;&#x600E;&#x4E48;&#x505A;&#x7684;&#xFF1F;&#x5982;&#x679C;&#x6CA1;&#x6709;&#x4F60;&#x89C9;&#x5F97;&#x5E94;&#x8BE5;&#x600E;&#x4E48;&#x505A;&#x624D;&#x66F4;&#x597D;&#xFF1F;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;15&#x5929; (2019.05.01)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/46">title&#x4E0E;h1&#x7684;&#x533A;&#x522B;&#x3001;b&#x4E0E;strong&#x7684;&#x533A;&#x522B;&#x3001;i&#x4E0E;em&#x7684;&#x533A;&#x522B;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/47">style&#x6807;&#x7B7E;&#x5199;&#x5728;body&#x524D;&#x548C;body&#x540E;&#x7684;&#x533A;&#x522B;&#x662F;&#x4EC0;&#x4E48;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/48">&#x5199;&#x4E00;&#x4E2A;&#x6570;&#x7EC4;&#x53BB;&#x91CD;&#x7684;&#x65B9;&#x6CD5;&#xFF08;&#x652F;&#x6301;&#x591A;&#x7EF4;&#x6570;&#x7EC4;&#xFF09;</a></li>
+<li>[&#x8F6F;&#x6280;&#x80FD;] <a href="https://github.com/haizlin/fe-interview/issues/49">&#x5BF9;&#x4E8E;&#x52A0;&#x73ED;&#x4F60;&#x662F;&#x600E;&#x4E48;&#x770B;&#x7684;&#xFF1F;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;14&#x5929; (2019.04.30)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/42">&#x4E3A;&#x4EC0;&#x4E48;HTML5&#x53EA;&#x9700;&#x8981;&#x5199;<code>&lt;!DOCTYPE HTML&gt;</code>&#x5C31;&#x53EF;&#x4EE5;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/43">position:fixed;&#x5728;ios&#x4E0B;&#x65E0;&#x6548;&#x8BE5;&#x600E;&#x4E48;&#x529E;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/44">&#x4EC0;&#x4E48;&#x662F;&#x95ED;&#x5305;&#xFF1F;&#x4F18;&#x7F3A;&#x70B9;&#x5206;&#x522B;&#x662F;&#x4EC0;&#x4E48;&#xFF1F;</a></li>
+<li>[&#x8F6F;&#x6280;&#x80FD;] <a href="https://github.com/haizlin/fe-interview/issues/45">&#x4F60;&#x6700;&#x559C;&#x6B22;&#x7528;&#x54EA;&#x4E9B;&#x7F16;&#x8F91;&#x5668;&#xFF1F;&#x559C;&#x6B22;&#x5B83;&#x7684;&#x7406;&#x7531;&#x662F;&#x4EC0;&#x4E48;&#xFF1F;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;13&#x5929; (2019.04.29)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/38">html5&#x4E2D;&#x7684;form&#x600E;&#x4E48;&#x5173;&#x95ED;&#x81EA;&#x52A8;&#x5B8C;&#x6210;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/39">::before&#x548C;:after&#x4E2D;&#x5355;&#x5192;&#x53F7;&#x548C;&#x53CC;&#x5192;&#x53F7;&#x7684;&#x533A;&#x522B;&#x662F;&#x4EC0;&#x4E48;&#xFF0C;&#x8FD9;&#x4E24;&#x4E2A;&#x4F2A;&#x5143;&#x7D20;&#x6709;&#x4EC0;&#x4E48;&#x4F5C;&#x7528;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/40">&#x8BF4;&#x8BF4;&#x4F60;&#x5BF9;javascript&#x7684;&#x4F5C;&#x7528;&#x57DF;&#x7684;&#x7406;&#x89E3;</a></li>
+<li>[&#x8F6F;&#x6280;&#x80FD;] <a href="https://github.com/haizlin/fe-interview/issues/41">http&#x90FD;&#x6709;&#x54EA;&#x4E9B;&#x72B6;&#x6001;&#x7801;&#xFF1F;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;12&#x5929; (2019.04.28)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/34">&#x5E38;&#x89C1;&#x7684;&#x6D4F;&#x89C8;&#x5668;&#x5185;&#x6838;&#x90FD;&#x6709;&#x54EA;&#x4E9B;&#xFF1F;&#x5E76;&#x4ECB;&#x7ECD;&#x4E0B;&#x4F60;&#x5BF9;&#x5185;&#x6838;&#x7684;&#x7406;&#x89E3;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/35">&#x8BF4;&#x8BF4;&#x4F60;&#x5BF9;css&#x76D2;&#x5B50;&#x6A21;&#x578B;&#x7684;&#x7406;&#x89E3;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/36">&#x5199;&#x4E00;&#x4E2A;&#x83B7;&#x53D6;&#x5F53;&#x524D;url&#x67E5;&#x8BE2;&#x5B57;&#x7B26;&#x4E32;&#x4E2D;&#x7684;&#x53C2;&#x6570;&#x7684;&#x65B9;&#x6CD5;</a></li>
+<li>[&#x8F6F;&#x6280;&#x80FD;] <a href="https://github.com/haizlin/fe-interview/issues/37">&#x7F51;&#x9875;&#x5E94;&#x7528;&#x4ECE;&#x670D;&#x52A1;&#x5668;&#x4E3B;&#x52A8;&#x63A8;&#x9001;&#x5230;&#x5BA2;&#x6237;&#x7AEF;&#x6709;&#x90A3;&#x4E9B;&#x65B9;&#x5F0F;&#xFF1F;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;11&#x5929; (2019.04.27)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/31">&#x4F60;&#x5BF9;&#x6807;&#x7B7E;&#x8BED;&#x4E49;&#x5316;&#x7684;&#x7406;&#x89E3;&#x662F;&#x4EC0;&#x4E48;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/32">css&#x5E38;&#x7528;&#x7684;&#x5E03;&#x5C40;&#x65B9;&#x5F0F;&#x6709;&#x54EA;&#x4E9B;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/33">&#x7B80;&#x8981;&#x63CF;&#x8FF0;&#x4E0B;JS&#x6709;&#x54EA;&#x4E9B;&#x5185;&#x7F6E;&#x7684;&#x5BF9;&#x8C61;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;10&#x5929; (2019.04.26)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/28">viewport&#x5E38;&#x89C1;&#x8BBE;&#x7F6E;&#x90FD;&#x6709;&#x54EA;&#x4E9B;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/29">&#x5BF9;&#x6BD4;&#x4E0B;px&#x3001;em&#x3001;rem&#x6709;&#x4EC0;&#x4E48;&#x4E0D;&#x540C;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/30">&#x7B80;&#x8981;&#x63CF;&#x8FF0;&#x4E0B;&#x4EC0;&#x4E48;&#x662F;&#x56DE;&#x8C03;&#x51FD;&#x6570;&#x5E76;&#x5199;&#x4E00;&#x4E2A;&#x4F8B;&#x5B50;&#x51FA;&#x6765;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;9&#x5929; (2019.04.25)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/25">&#x6D4F;&#x89C8;&#x5668;&#x5185;&#x591A;&#x4E2A;&#x6807;&#x7B7E;&#x9875;&#x4E4B;&#x95F4;&#x7684;&#x901A;&#x4FE1;&#x65B9;&#x5F0F;&#x6709;&#x54EA;&#x4E9B;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/26">&#x7B80;&#x8FF0;&#x4E0B;&#x4F60;&#x7406;&#x89E3;&#x7684;&#x4F18;&#x96C5;&#x964D;&#x7EA7;&#x548C;&#x6E10;&#x8FDB;&#x589E;&#x5F3A;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/27">&#x5199;&#x4E00;&#x4E2A;&#x5224;&#x65AD;&#x6570;&#x636E;&#x7C7B;&#x578B;&#x7684;&#x65B9;&#x6CD5;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;8&#x5929; (2019.04.24)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/22">&#x7B80;&#x8FF0;&#x4E0B;html5&#x7684;&#x79BB;&#x7EBF;&#x50A8;&#x5B58;&#x539F;&#x7406;&#xFF0C;&#x540C;&#x65F6;&#x8BF4;&#x660E;&#x5982;&#x4F55;&#x4F7F;&#x7528;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/23">&#x6E05;&#x9664;&#x6D6E;&#x52A8;&#x7684;&#x65B9;&#x5F0F;&#x6709;&#x54EA;&#x4E9B;&#x53CA;&#x4F18;&#x7F3A;&#x70B9;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/24">&#x5199;&#x4E00;&#x4E2A;&#x52A0;&#x5BC6;&#x5B57;&#x7B26;&#x4E32;&#x7684;&#x65B9;&#x6CD5;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;7&#x5929; (2019.04.23)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/19">iframe&#x6846;&#x67B6;&#x90FD;&#x6709;&#x54EA;&#x4E9B;&#x4F18;&#x7F3A;&#x70B9;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/20">&#x7B80;&#x8FF0;&#x4F60;&#x5BF9;BFC&#x89C4;&#x8303;&#x7684;&#x7406;&#x89E3;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/21">&#x7EDF;&#x8BA1;&#x67D0;&#x4E00;&#x5B57;&#x7B26;&#x6216;&#x5B57;&#x7B26;&#x4E32;&#x5728;&#x53E6;&#x4E00;&#x4E2A;&#x5B57;&#x7B26;&#x4E32;&#x4E2D;&#x51FA;&#x73B0;&#x7684;&#x6B21;&#x6570;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;6&#x5929; (2019.04.22)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/16">label&#x90FD;&#x6709;&#x54EA;&#x4E9B;&#x4F5C;&#x7528;&#xFF1F;&#x5E76;&#x4E3E;&#x76F8;&#x5E94;&#x7684;&#x4F8B;&#x5B50;&#x8BF4;&#x660E;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/17">&#x7528;css&#x521B;&#x5EFA;&#x4E00;&#x4E2A;&#x4E09;&#x89D2;&#x5F62;&#xFF0C;&#x5E76;&#x7B80;&#x8FF0;&#x539F;&#x7406;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/18">&#x5199;&#x4E00;&#x4E2A;&#x53BB;&#x9664;&#x5236;&#x8868;&#x7B26;&#x548C;&#x6362;&#x884C;&#x7B26;&#x7684;&#x65B9;&#x6CD5;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;5&#x5929; (2019.04.21)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/13">&#x7B80;&#x8FF0;&#x8D85;&#x94FE;&#x63A5;target&#x5C5E;&#x6027;&#x7684;&#x53D6;&#x503C;&#x548C;&#x4F5C;&#x7528;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/14">CSS3&#x65B0;&#x589E;&#x4F2A;&#x7C7B;&#x6709;&#x54EA;&#x4E9B;&#x5E76;&#x7B80;&#x8981;&#x63CF;&#x8FF0;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/15">&#x5199;&#x4E00;&#x4E2A;&#x628A;&#x5B57;&#x7B26;&#x4E32;&#x5927;&#x5C0F;&#x5199;&#x5207;&#x6362;&#x7684;&#x65B9;&#x6CD5;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;4&#x5929; (2019.04.20)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/10">HTML5&#x7684;&#x6587;&#x4EF6;&#x79BB;&#x7EBF;&#x50A8;&#x5B58;&#x600E;&#x4E48;&#x4F7F;&#x7528;&#xFF0C;&#x5DE5;&#x4F5C;&#x539F;&#x7406;&#x662F;&#x4EC0;&#x4E48;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/11">CSS&#x9009;&#x62E9;&#x5668;&#x6709;&#x54EA;&#x4E9B;&#xFF1F;&#x54EA;&#x4E9B;&#x5C5E;&#x6027;&#x53EF;&#x4EE5;&#x7EE7;&#x627F;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/12">&#x5199;&#x4E00;&#x4E2A;&#x65B9;&#x6CD5;&#x628A;&#x4E0B;&#x5212;&#x7EBF;&#x547D;&#x540D;&#x8F6C;&#x6210;&#x5927;&#x9A7C;&#x5CF0;&#x547D;&#x540D;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;3&#x5929; (2019.04.19)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/7">HTML&#x5168;&#x5C40;&#x5C5E;&#x6027;(global attribute)&#x6709;&#x54EA;&#x4E9B;&#xFF08;&#x5305;&#x542B;H5&#xFF09;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/8">&#x5728;&#x9875;&#x9762;&#x4E0A;&#x9690;&#x85CF;&#x5143;&#x7D20;&#x7684;&#x65B9;&#x6CD5;&#x6709;&#x54EA;&#x4E9B;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/9">&#x53BB;&#x9664;&#x5B57;&#x7B26;&#x4E32;&#x4E2D;&#x6700;&#x540E;&#x4E00;&#x4E2A;&#x6307;&#x5B9A;&#x7684;&#x5B57;&#x7B26;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;2&#x5929; (2019.04.18)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/4">html&#x7684;&#x5143;&#x7D20;&#x6709;&#x54EA;&#x4E9B;&#xFF08;&#x5305;&#x542B;H5&#xFF09;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/5">CSS3&#x6709;&#x54EA;&#x4E9B;&#x65B0;&#x589E;&#x7684;&#x7279;&#x6027;&#xFF1F;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/6">&#x5199;&#x4E00;&#x4E2A;&#x65B9;&#x6CD5;&#x53BB;&#x6389;&#x5B57;&#x7B26;&#x4E32;&#x4E2D;&#x7684;&#x7A7A;&#x683C;</a></li>
+</ul>
+</li>
+<li>
+<p>&#x7B2C;1&#x5929; (2019.04.17)</p>
+<ul>
+<li>[html] <a href="https://github.com/haizlin/fe-interview/issues/1">&#x9875;&#x9762;&#x5BFC;&#x5165;&#x6837;&#x5F0F;&#x65F6;&#xFF0C;&#x4F7F;&#x7528;link&#x548C;@import&#x6709;&#x4EC0;&#x4E48;&#x533A;&#x522B;&#xFF1F;</a></li>
+<li>[css] <a href="https://github.com/haizlin/fe-interview/issues/2">&#x5723;&#x676F;&#x5E03;&#x5C40;&#x548C;&#x53CC;&#x98DE;&#x7FFC;&#x5E03;&#x5C40;&#x7684;&#x7406;&#x89E3;&#x548C;&#x533A;&#x522B;&#xFF0C;&#x5E76;&#x7528;&#x4EE3;&#x7801;&#x5B9E;&#x73B0;</a></li>
+<li>[js] <a href="https://github.com/haizlin/fe-interview/issues/3">&#x7528;&#x9012;&#x5F52;&#x7B97;&#x6CD5;&#x5B9E;&#x73B0;&#xFF0C;&#x6570;&#x7EC4;&#x957F;&#x5EA6;&#x4E3A;5&#x4E14;&#x5143;&#x7D20;&#x7684;&#x968F;&#x673A;&#x6570;&#x5728;2-32&#x95F4;&#x4E0D;&#x91CD;&#x590D;&#x7684;&#x503C;</a></li>
+</ul>
+</li>
+</ul>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    </body></html>
