@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第21天 (2019.05.07)
+    - [html] [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
+    - [css] [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
+    - [js] [写一个方法验证是否为中文](https://github.com/haizlin/fe-interview/issues/72)
+    - [软技能] [来说说你对重绘和重排的理解，以及如何优化？](https://github.com/haizlin/fe-interview/issues/73)
+
 - 第20天 (2019.05.06)
     - [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
     - [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)

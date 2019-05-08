@@ -24,11 +24,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今天的面试题 (2019.05.07 周二) —— 第21天
-- [html] [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
-- [css] [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
-- [js] [写一个方法验证是否为中文](https://github.com/haizlin/fe-interview/issues/72)
-- [软技能] [来说说你对重绘和重排的理解，以及如何优化？](https://github.com/haizlin/fe-interview/issues/73)
+## 今天的面试题 (2019.05.08 周三) —— 第22天
+- [html] [js放在html的`<body>`和`<head>`有什么区别？](https://github.com/haizlin/fe-interview/issues/74)
+- [css] [说说浏览器解析CSS选择器的过程？](https://github.com/haizlin/fe-interview/issues/75)
+- [js] [你对new操作符的理解是什么？手动实现一个new方法](https://github.com/haizlin/fe-interview/issues/76)
+- [软技能] [前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/haizlin/fe-interview/issues/77)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -50,6 +50,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第21天 (2019.05.07)
+    - [html] [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
+    - [css] [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
+    - [js] [写一个方法验证是否为中文](https://github.com/haizlin/fe-interview/issues/72)
+    - [软技能] [来说说你对重绘和重排的理解，以及如何优化？](https://github.com/haizlin/fe-interview/issues/73)
 
 - 第20天 (2019.05.06)
     - [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
@@ -75,12 +81,6 @@
     - [js] [typeof('abc')和typeof 'abc'都是string, 那么typeof是操作符还是函数？](https://github.com/haizlin/fe-interview/issues/56)
     - [软技能] [说说你对SVN和GIT的理解和区别](https://github.com/haizlin/fe-interview/issues/57)
 
-- 第16天 (2019.05.02)
-    - [html] [元素的alt和title有什么区别？](https://github.com/haizlin/fe-interview/issues/50)
-    - [css] [请描述margin边界叠加是什么及解决方案](https://github.com/haizlin/fe-interview/issues/51)
-    - [js] [返回到顶部的方法有哪些？把其中一个方法出来](https://github.com/haizlin/fe-interview/issues/52)
-    - [软技能] [你在的公司有没有做代码审查（CodeReview）？如果有是怎么做的？如果没有你觉得应该怎么做才更好？](https://github.com/haizlin/fe-interview/issues/53)
-
 - **[查看全部](category/history.md)**
 
 ## 特别感谢（排名不分先后）
@@ -103,6 +103,7 @@
 ## 在哪可以看到
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
 - [知乎专栏](https://zhuanlan.zhihu.com/fe-interview)（每天同步更新）
+- [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
 - 「前端剑解」 微信公众号（扫描下方二维码，每天同步更新）
 
