@@ -1,7 +1,7 @@
 # 前端面试每日 **3+1**（每日三问）
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
-> 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
+> 前端面试每日3+1，以面试题来驱动学习，每天进步一点！  
 > 让努力成为一种习惯，让奋斗成为一种享受！
 > 相信 **坚持** 的力量！！！
 
@@ -10,7 +10,7 @@
 - 希望大家在这**浮夸**的前端圈里，保持**冷静**，坚持每天花20分钟来学习与思考。
 - 在这千变万化，类库层出不穷的前端，不建议大家等到要找工作时，才狂刷题，提倡**每日学习**！（**不忘初心**，html、css、javascript才是基石！）
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
-> 希望大家**每日**去学习与思考，这才达到来这的目的！！！（不要为了谁而来，要为自己而来！）
+> 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
 
 ## 转载说明
@@ -26,11 +26,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今天的面试题 (2019.05.08 周三) —— 第22天
-- [html] [js放在html的`<body>`和`<head>`有什么区别？](https://github.com/haizlin/fe-interview/issues/74)
-- [css] [说说浏览器解析CSS选择器的过程？](https://github.com/haizlin/fe-interview/issues/75)
-- [js] [你对new操作符的理解是什么？手动实现一个new方法](https://github.com/haizlin/fe-interview/issues/76)
-- [软技能] [前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/haizlin/fe-interview/issues/77)
+## 今天的面试题 (2019.05.09 周四) —— 第23天
+- [html] [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
+- [css] [说说CSS的优先级是如何计算的？](https://github.com/haizlin/fe-interview/issues/79)
+- [js] [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
+- [软技能] [说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/haizlin/fe-interview/issues/81)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -52,6 +52,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第22天 (2019.05.08)
+    - [html] [js放在html的`<body>`和`<head>`有什么区别？](https://github.com/haizlin/fe-interview/issues/74)
+    - [css] [说说浏览器解析CSS选择器的过程？](https://github.com/haizlin/fe-interview/issues/75)
+    - [js] [你对new操作符的理解是什么？手动实现一个new方法](https://github.com/haizlin/fe-interview/issues/76)
+    - [软技能] [前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/haizlin/fe-interview/issues/77)
 
 - 第21天 (2019.05.07)
     - [html] [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
@@ -76,12 +82,6 @@
     - [css] [什么是FOUC？你是如何避免FOUC的？](https://github.com/haizlin/fe-interview/issues/59)
     - [js] [你理解的"use strict";是什么?使用它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/60)
     - [软技能] [你如何看待团建的？你们团建一般都怎么实施？](https://github.com/haizlin/fe-interview/issues/61)
-
-- 第17天 (2019.05.03)
-    - [html] [你认为table的作用和优缺点是什么呢？](https://github.com/haizlin/fe-interview/issues/54)
-    - [css] [解释下 CSS sprites的原理和优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/55)
-    - [js] [typeof('abc')和typeof 'abc'都是string, 那么typeof是操作符还是函数？](https://github.com/haizlin/fe-interview/issues/56)
-    - [软技能] [说说你对SVN和GIT的理解和区别](https://github.com/haizlin/fe-interview/issues/57)
 
 - **[查看全部](category/history.md)**
 
