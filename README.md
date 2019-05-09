@@ -26,11 +26,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今天的面试题 (2019.05.09 周四) —— 第23天
-- [html] [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
-- [css] [说说CSS的优先级是如何计算的？](https://github.com/haizlin/fe-interview/issues/79)
-- [js] [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
-- [软技能] [说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/haizlin/fe-interview/issues/81)
+## 今天的面试题 (2019.05.10 周五) —— 第24天
+- [html] [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
+- [css] [你有用过CSS预处理器吗？喜欢用哪个？原理是什么？](https://github.com/haizlin/fe-interview/issues/83)
+- [js] [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
+- [软技能] [你经历过老板要求兼容IE吗？IE几？有什么感悟？](https://github.com/haizlin/fe-interview/issues/85)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -52,6 +52,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第23天 (2019.05.09)
+    - [html] [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
+    - [css] [说说CSS的优先级是如何计算的？](https://github.com/haizlin/fe-interview/issues/79)
+    - [js] [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
+    - [软技能] [说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/haizlin/fe-interview/issues/81)
 
 - 第22天 (2019.05.08)
     - [html] [js放在html的`<body>`和`<head>`有什么区别？](https://github.com/haizlin/fe-interview/issues/74)
@@ -76,12 +82,6 @@
     - [css] [css的属性content有什么作用呢？有哪些场景可以用到？](https://github.com/haizlin/fe-interview/issues/63)
     - [js] ["attribute"和"property"有什么不同？](https://github.com/haizlin/fe-interview/issues/64)
     - [软技能] [最近都流行些什么？你经常会浏览哪些网站？](https://github.com/haizlin/fe-interview/issues/65)
-
-- 第18天 (2019.05.04)
-    - [html] [怎样在页面上实现一个圆形的可点击区域？](https://github.com/haizlin/fe-interview/issues/58)
-    - [css] [什么是FOUC？你是如何避免FOUC的？](https://github.com/haizlin/fe-interview/issues/59)
-    - [js] [你理解的"use strict";是什么?使用它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/60)
-    - [软技能] [你如何看待团建的？你们团建一般都怎么实施？](https://github.com/haizlin/fe-interview/issues/61)
 
 - **[查看全部](category/history.md)**
 

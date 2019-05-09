@@ -1,6 +1,18 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第23天 (2019.05.09)
+    - [html] [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
+    - [css] [说说CSS的优先级是如何计算的？](https://github.com/haizlin/fe-interview/issues/79)
+    - [js] [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
+    - [软技能] [说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/haizlin/fe-interview/issues/81)
+
+- 第22天 (2019.05.08)
+    - [html] [js放在html的`<body>`和`<head>`有什么区别？](https://github.com/haizlin/fe-interview/issues/74)
+    - [css] [说说浏览器解析CSS选择器的过程？](https://github.com/haizlin/fe-interview/issues/75)
+    - [js] [你对new操作符的理解是什么？手动实现一个new方法](https://github.com/haizlin/fe-interview/issues/76)
+    - [软技能] [前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/haizlin/fe-interview/issues/77)
+
 - 第21天 (2019.05.07)
     - [html] [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
     - [css] [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
