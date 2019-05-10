@@ -27,7 +27,7 @@
 ![起源图](resource/images/begin.jpg)
 
 ## 今天的面试题 (2019.05.11 周六) —— 第25天
-- [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别。](https://github.com/haizlin/fe-interview/issues/86)
+- [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
 - [css] [在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/haizlin/fe-interview/issues/87)
 - [js] [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
 - [软技能] [说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/haizlin/fe-interview/issues/89)
@@ -83,12 +83,6 @@
     - [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)
     - [js] [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68)
     - [软技能] [你会手写原生js代码吗？](https://github.com/haizlin/fe-interview/issues/69)
-
-- 第19天 (2019.05.05)
-    - [html] [说说你对html中的置换元素和非置换元素的理解](https://github.com/haizlin/fe-interview/issues/62)
-    - [css] [css的属性content有什么作用呢？有哪些场景可以用到？](https://github.com/haizlin/fe-interview/issues/63)
-    - [js] ["attribute"和"property"有什么不同？](https://github.com/haizlin/fe-interview/issues/64)
-    - [软技能] [最近都流行些什么？你经常会浏览哪些网站？](https://github.com/haizlin/fe-interview/issues/65)
 
 - **[查看全部](category/history.md)**
 

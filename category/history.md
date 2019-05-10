@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第24天 (2019.05.10)
+    - [html] [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
+    - [css] [你有用过CSS预处理器吗？喜欢用哪个？原理是什么？](https://github.com/haizlin/fe-interview/issues/83)
+    - [js] [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
+    - [软技能] [你经历过老板要求兼容IE吗？IE几？有什么感悟？](https://github.com/haizlin/fe-interview/issues/85)
+    
 - 第23天 (2019.05.09)
     - [html] [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
     - [css] [说说CSS的优先级是如何计算的？](https://github.com/haizlin/fe-interview/issues/79)
