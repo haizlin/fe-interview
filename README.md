@@ -26,11 +26,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今天的面试题 (2019.05.10 周五) —— 第24天
-- [html] [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
-- [css] [你有用过CSS预处理器吗？喜欢用哪个？原理是什么？](https://github.com/haizlin/fe-interview/issues/83)
-- [js] [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
-- [软技能] [你经历过老板要求兼容IE吗？IE几？有什么感悟？](https://github.com/haizlin/fe-interview/issues/85)
+## 今天的面试题 (2019.05.11 周六) —— 第25天
+- [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别。](https://github.com/haizlin/fe-interview/issues/86)
+- [css] [在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/haizlin/fe-interview/issues/87)
+- [js] [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
+- [软技能] [说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/haizlin/fe-interview/issues/89)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -41,17 +41,24 @@
 - [软技能](category/软技能.md)
 
 ## 类库面试专题（敬请期待、欢迎PR）
-- [ES6](lib/jQuery.md)
+- [ES6](category/es6.md)
 - [jQuery](lib/jQuery.md)
 - [Vue](lib/Vue.md)
 - [React](lib/React.md)
 - [AngularJs](lib/AngularJs.md)
+- [小程序](lib/wxapp.md)
 
 ## 汇总
 - [周](category/week.md)
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第24天 (2019.05.10)
+    - [html] [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
+    - [css] [你有用过CSS预处理器吗？喜欢用哪个？原理是什么？](https://github.com/haizlin/fe-interview/issues/83)
+    - [js] [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
+    - [软技能] [你经历过老板要求兼容IE吗？IE几？有什么感悟？](https://github.com/haizlin/fe-interview/issues/85)
 
 - 第23天 (2019.05.09)
     - [html] [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
