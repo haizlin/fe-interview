@@ -1,0 +1,129 @@
+[中文](./README.md) | [English](./README-en.md)
+
+# Front-end interview **3+1** per day（Three questions per day）
+
+> 《论语》，曾子曰：**“吾日三省吾身”**（I reflect on myself many times every day）。  
+> Front-end interview 3+1 per day，Driven by interview questions, make progress every day！  
+> Let hard work become a habit, let struggle become a kind of enjoyment!
+> Believe in the power of **perseverance**！！！
+
+---
+- Learn without closing, strive to meet better oneself, 365 days without holidays, 5 a.m. every day to publish interview questions by hand.（**Knock oneself**）。
+- I hope you can stay calm in this **grandiose** front-end circle and stick to spending 20 minutes a day studying and thinking.
+- In this ever-changing, class library emerges endlessly at the front end, I suggest that you do not wait until you find a job before brushing the test question, advocating daily learning! (Don't forget the beginning, html, css, JavaScript is the cornerstone!)
+- Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
+> I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
+
+
+## Reprint
+> Recently, many friends on the Internet abused links, packaged and charged, so that needy friends can not find the latest test questions, contrary to my original intention, added some statements:
+
+- Statement:
+  1. You can reprint all the interview questions in it anywhere, but please add the address of the warehouse, because you seldom update it after reprinting, but the warehouse will be updated on time every day.
+  2. I don't charge anything, I don't, I won't, I won't, I won't, I won't authorize anybody to charge.
+  3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
+
+## Origin
+> The story originated from an interview question sent by a departing colleague, and then exploded in a group of micro-letters from departments and enterprises. After answering the question, people thought it would be better if they came to ask one question every day. Face-to-face training, suddenly want to do what they want to say, so there is this open source warehouse, only for the benefit of others!
+
+![origin picture](resource/images/begin.jpg)
+
+## Today's Interview Question (2019.05.12) —— 26 days
+- [html] [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
+- [css] [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
+- [js] [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
+- [Skill] [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
+
+> Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
+
+## Classification
+- [html](category/html.md)
+- [css](category/css.md)
+- [js](category/js.md)
+- [Skill](category/软技能.md)
+
+## Topics（Please look forward to and welcome PR）
+- [ES6](category/es6.md)
+- [jQuery](lib/jQuery.md)
+- [Vue](lib/Vue.md)
+- [React](lib/React.md)
+- [AngularJs](lib/AngularJs.md)
+- [wxapp](lib/wxapp.md)
+
+## Summary
+- [week](category/week.md)
+
+## History
+- **[All](category/history.md)**
+
+- 25 days (2019.05.11)
+    - [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
+    - [css] [在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/haizlin/fe-interview/issues/87)
+    - [js] [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
+    - [Skill] [说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/haizlin/fe-interview/issues/89)
+
+- 24 days (2019.05.10)
+    - [html] [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
+    - [css] [你有用过CSS预处理器吗？喜欢用哪个？原理是什么？](https://github.com/haizlin/fe-interview/issues/83)
+    - [js] [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
+    - [Skill] [你经历过老板要求兼容IE吗？IE几？有什么感悟？](https://github.com/haizlin/fe-interview/issues/85)
+
+- 23 days (2019.05.09)
+    - [html] [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
+    - [css] [说说CSS的优先级是如何计算的？](https://github.com/haizlin/fe-interview/issues/79)
+    - [js] [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
+    - [Skill] [说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/haizlin/fe-interview/issues/81)
+
+- 22 days (2019.05.08)
+    - [html] [js放在html的`<body>`和`<head>`有什么区别？](https://github.com/haizlin/fe-interview/issues/74)
+    - [css] [说说浏览器解析CSS选择器的过程？](https://github.com/haizlin/fe-interview/issues/75)
+    - [js] [你对new操作符的理解是什么？手动实现一个new方法](https://github.com/haizlin/fe-interview/issues/76)
+    - [Skill] [前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/haizlin/fe-interview/issues/77)
+
+- 21 days (2019.05.07)
+    - [html] [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
+    - [css] [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
+    - [js] [写一个方法验证是否为中文](https://github.com/haizlin/fe-interview/issues/72)
+    - [Skill] [来说说你对重绘和重排的理解，以及如何优化？](https://github.com/haizlin/fe-interview/issues/73)
+
+- 20 days (2019.05.06)
+    - [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
+    - [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)
+    - [js] [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68)
+    - [Skill] [你会手写原生js代码吗？](https://github.com/haizlin/fe-interview/issues/69)
+
+- **[All](category/history.md)**
+
+## Thanks（No ranking）
+- [雨辰](https://github.com/qq674785876)
+- [鱼利平](https://github.com/undefinedYu)
+- [张庆磊](https://github.com/qingleizhang123)
+- [夜半微清凉](https://github.com/yxkhaha)
+
+## Events
+- 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
+- 2019.04.25 — 添加了面试题的分类
+- 2019.04.27 — 添加了Issues的模板
+- 2019.04.28 — 每日3题改成每日3+1，即添加了一个软技能题
+- 2019.04.29 — 添加了特别感谢的朋友
+- 2019.04.30 — 添加了QQ讨论群
+- 2019.05.02 — 去除QQ讨论群二维码，添加公众号及个人微信二维码
+- 2019.05.05 — 看到很多网络上的朋友滥用链接，让有需要的朋友找不到最新的试题，特添加了转载说明
+- 2019.05.07 — 为了把开源项目更好的延续下去，帮助更多爱学习的朋友，开通了掘金专栏、知乎专栏和看云
+- 2019.05.07 — 下午star数突破100，看来爱学习的人很多，也为自己的坚持而感到欣慰！利他利已！
+- 2019.05.08 — 看到点赞数破100了，但每天答题的人很少很少！我在反思问题出在我身上还是什么原因？所有特加了提示：不要为了谁而来，要为自己而来！
+
+## Source
+- [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
+- [zhihu](https://zhuanlan.zhihu.com/fe-interview)（Daily Synchronized Updates）
+- [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
+- [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
+- 「前端剑解」 微信公众号（扫描下方二维码，Daily Synchronized Updates）
+
+## Exchange
+Welcome to discuss, if you think it is helpful for your study, please order [**Star**](https://github.com/haizlin/fe-interview), and welcome to join the **"front-end interview daily 3 + 1"** Wechat group (sweep personal micro-signal invitation group) to communicate with each other.
+
+![wechat qrcode](resource/images/qrcode.jpg)
+
+## License
+[MIT](./LICENSE)
