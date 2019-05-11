@@ -2,8 +2,14 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.05
+> 最新：2019.05.11
 
+- [在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/haizlin/fe-interview/issues/87)
+- [你有用过CSS预处理器吗？喜欢用哪个？原理是什么？](https://github.com/haizlin/fe-interview/issues/83)
+- [说说CSS的优先级是如何计算的？](https://github.com/haizlin/fe-interview/issues/79)
+- [说说浏览器解析CSS选择器的过程？](https://github.com/haizlin/fe-interview/issues/75)
+- [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
+- [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)
 - [css的属性content有什么作用呢？有哪些场景可以用到？](https://github.com/haizlin/fe-interview/issues/63)
 - [什么是FOUC？你是如何避免FOUC的？](https://github.com/haizlin/fe-interview/issues/59)
 - [解释下 CSS sprites的原理和优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/55)

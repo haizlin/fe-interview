@@ -2,8 +2,14 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.05
+> 最新：2019.05.11
 
+- [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
+- [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
+- [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
+- [js放在html的`<body>`和`<head>`有什么区别？](https://github.com/haizlin/fe-interview/issues/74)
+- [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
+- [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
 - [说说你对html中的置换元素和非置换元素的理解](https://github.com/haizlin/fe-interview/issues/62)
 - [怎样在页面上实现一个圆形的可点击区域？](https://github.com/haizlin/fe-interview/issues/58)
 - [你认为table的作用和优缺点是什么呢？](https://github.com/haizlin/fe-interview/issues/54)

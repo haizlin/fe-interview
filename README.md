@@ -26,11 +26,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今天的面试题 (2019.05.11 周六) —— 第25天
-- [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
-- [css] [在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/haizlin/fe-interview/issues/87)
-- [js] [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
-- [软技能] [说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/haizlin/fe-interview/issues/89)
+## 今天的面试题 (2019.05.12 周日) —— 第26天
+- [html] [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
+- [css] [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
+- [js] [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
+- [软技能] [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -53,6 +53,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第25天 (2019.05.11)
+    - [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
+    - [css] [在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/haizlin/fe-interview/issues/87)
+    - [js] [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
+    - [软技能] [说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/haizlin/fe-interview/issues/89)
 
 - 第24天 (2019.05.10)
     - [html] [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)

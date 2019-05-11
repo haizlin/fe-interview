@@ -2,8 +2,14 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.05
+> 最新：2019.05.11
 
+- [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
+- [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
+- [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
+- [你对new操作符的理解是什么？手动实现一个new方法](https://github.com/haizlin/fe-interview/issues/76)
+- [写一个方法验证是否为中文](https://github.com/haizlin/fe-interview/issues/72)
+- [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68)
 - ["attribute"和"property"有什么不同？](https://github.com/haizlin/fe-interview/issues/64)
 - [你理解的"use strict";是什么?使用它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/60)
 - [typeof('abc')和typeof 'abc'都是string, 那么typeof是操作符还是函数？](https://github.com/haizlin/fe-interview/issues/56)
