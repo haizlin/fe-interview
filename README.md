@@ -28,11 +28,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今天的面试题 (2019.05.12 周日) —— 第26天
-- [html] [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
-- [css] [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
-- [js] [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
-- [软技能] [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
+## 今天的面试题 (2019.05.13) —— 第27天
+- [html] [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
+- [css] [怎样修改chrome记住密码后自动填充表单的黄色背景？](https://github.com/haizlin/fe-interview/issues/95)
+- [js] [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
+- [软技能] [你为什么离职呢？](https://github.com/haizlin/fe-interview/issues/97)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -55,6 +55,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第26天 (2019.05.12)
+    - [html] [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
+    - [css] [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
+    - [js] [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
+    - [软技能] [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
 
 - 第25天 (2019.05.11)
     - [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
@@ -85,12 +91,6 @@
     - [css] [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
     - [js] [写一个方法验证是否为中文](https://github.com/haizlin/fe-interview/issues/72)
     - [软技能] [来说说你对重绘和重排的理解，以及如何优化？](https://github.com/haizlin/fe-interview/issues/73)
-
-- 第20天 (2019.05.06)
-    - [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
-    - [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)
-    - [js] [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68)
-    - [软技能] [你会手写原生js代码吗？](https://github.com/haizlin/fe-interview/issues/69)
 
 - **[查看全部](category/history.md)**
 

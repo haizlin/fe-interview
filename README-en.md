@@ -28,11 +28,11 @@
 
 ![origin picture](resource/images/begin.jpg)
 
-## Today's Interview Question (2019.05.12) —— 26 days
-- [html] [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
-- [css] [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
-- [js] [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
-- [Skill] [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
+## Today's Interview Question (2019.05.13) —— 27 days
+- [html] [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
+- [css] [怎样修改chrome记住密码后自动填充表单的黄色背景？](https://github.com/haizlin/fe-interview/issues/95)
+- [js] [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
+- [软技能] [你为什么离职呢？](https://github.com/haizlin/fe-interview/issues/97)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -55,6 +55,12 @@
 
 ## History
 - **[All](category/history.md)**
+
+- 26 days (2019.05.12)
+    - [html] [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
+    - [css] [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
+    - [js] [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
+    - [软技能] [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
 
 - 25 days (2019.05.11)
     - [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
@@ -79,18 +85,6 @@
     - [css] [说说浏览器解析CSS选择器的过程？](https://github.com/haizlin/fe-interview/issues/75)
     - [js] [你对new操作符的理解是什么？手动实现一个new方法](https://github.com/haizlin/fe-interview/issues/76)
     - [Skill] [前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/haizlin/fe-interview/issues/77)
-
-- 21 days (2019.05.07)
-    - [html] [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
-    - [css] [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
-    - [js] [写一个方法验证是否为中文](https://github.com/haizlin/fe-interview/issues/72)
-    - [Skill] [来说说你对重绘和重排的理解，以及如何优化？](https://github.com/haizlin/fe-interview/issues/73)
-
-- 20 days (2019.05.06)
-    - [html] [请描述HTML元素的显示优先级](https://github.com/haizlin/fe-interview/issues/66)
-    - [css] [要让Chrome支持小于12px的文字怎么做？](https://github.com/haizlin/fe-interview/issues/67)
-    - [js] [写一个验证身份证号的方法](https://github.com/haizlin/fe-interview/issues/68)
-    - [Skill] [你会手写原生js代码吗？](https://github.com/haizlin/fe-interview/issues/69)
 
 - **[All](category/history.md)**
 
