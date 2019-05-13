@@ -14,15 +14,6 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-
-## 转载说明
-> 近期，看到很多网络上的朋友滥用链接，包装了下就收费了，让有需要的朋友找不到最新的试题，违背了我的初衷，特添加了些声明：
-
-- 声明
-  1. 可以转载里面的所有面试题用到任何地方，但请添加仓库的地址，因为转载后你们很少会更新了，但此仓库每天都会准时更新。
-  2. 此开源仓库从不收取任何费用，**现在不会，以后也不会**，也不会授权任何人/机构进行收费。
-  3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
-
 ## 起源
 > 故事起源于离职同事发来的一道求助面试题，然后在部门企业微信群里炸开了，答题完后大家觉得如果要是每天来一题，是不是会更爽呢？**以面代练**，突发其想说干就干，所以就有了这个开源仓库，只为利他利己！
 
@@ -86,19 +77,13 @@
     - [js] [你对new操作符的理解是什么？手动实现一个new方法](https://github.com/haizlin/fe-interview/issues/76)
     - [软技能] [前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/haizlin/fe-interview/issues/77)
 
-- 第21天 (2019.05.07)
-    - [html] [谈谈你对input元素中readonly和disabled属性的理解](https://github.com/haizlin/fe-interview/issues/70)
-    - [css] [说说你对line-height是如何理解的？](https://github.com/haizlin/fe-interview/issues/71)
-    - [js] [写一个方法验证是否为中文](https://github.com/haizlin/fe-interview/issues/72)
-    - [软技能] [来说说你对重绘和重排的理解，以及如何优化？](https://github.com/haizlin/fe-interview/issues/73)
-
 - **[查看全部](category/history.md)**
 
 ## 特别感谢（排名不分先后）
-- [雨辰](https://github.com/qq674785876)
-- [鱼利平](https://github.com/undefinedYu)
-- [张庆磊](https://github.com/qingleizhang123)
-- [夜半微清凉](https://github.com/yxkhaha)
+- [qq674785876](https://github.com/qq674785876)
+- [undefinedYu](https://github.com/undefinedYu)
+- [qingleizhang123](https://github.com/qingleizhang123)
+- [yxkhaha](https://github.com/yxkhaha)
 
 ## 重大事件
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -125,6 +110,14 @@
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
 
 ![微信公众号和微信群](resource/images/qrcode.jpg)
+
+## 转载说明
+> 近期，看到很多网络上的朋友滥用链接，包装了下就收费了，让有需要的朋友找不到最新的试题，违背了我的初衷，特添加了些声明：
+
+- 声明
+  1. 可以转载里面的所有面试题用到任何地方，但请添加仓库的地址，因为转载后你们很少会更新了，但此仓库每天都会准时更新。
+  2. 此开源仓库从不收取任何费用，**现在不会，以后也不会**，也不会授权任何人/机构进行收费。
+  3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
 
 ## License
 [MIT](./LICENSE)

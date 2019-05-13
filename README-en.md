@@ -1,8 +1,8 @@
-[中文](./README.md) | [English](./README-en.md)
+[Chinese](./README.md) | [English](./README-en.md)
 
 # Front-end interview **3+1** per day（Three questions per day）
 
-> 《论语》，曾子曰：**“吾日三省吾身”**（I reflect on myself many times every day）。  
+> "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day)。  
 > Front-end interview 3+1 per day，Driven by interview questions, make progress every day！  
 > Let hard work become a habit, let struggle become a kind of enjoyment!
 > Believe in the power of **perseverance**！！！
@@ -14,14 +14,6 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-
-## Reprint
-> Recently, many friends on the Internet abused links, packaged and charged, so that needy friends can not find the latest test questions, contrary to my original intention, added some statements:
-
-- Statement:
-  1. You can reprint all the interview questions in it anywhere, but please add the address of the warehouse, because you seldom update it after reprinting, but the warehouse will be updated on time every day.
-  2. I don't charge anything, I don't, I won't, I won't, I won't, I won't authorize anybody to charge.
-  3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## Origin
 > The story originated from an interview question sent by a departing colleague, and then exploded in a group of micro-letters from departments and enterprises. After answering the question, people thought it would be better if they came to ask one question every day. Face-to-face training, suddenly want to do what they want to say, so there is this open source warehouse, only for the benefit of others!
@@ -89,10 +81,10 @@
 - **[All](category/history.md)**
 
 ## Thanks（No ranking）
-- [雨辰](https://github.com/qq674785876)
-- [鱼利平](https://github.com/undefinedYu)
-- [张庆磊](https://github.com/qingleizhang123)
-- [夜半微清凉](https://github.com/yxkhaha)
+- [qq674785876](https://github.com/qq674785876)
+- [undefinedYu](https://github.com/undefinedYu)
+- [qingleizhang123](https://github.com/qingleizhang123)
+- [yxkhaha](https://github.com/yxkhaha)
 
 ## Events
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -113,12 +105,20 @@
 - [zhihu](https://zhuanlan.zhihu.com/fe-interview)（Daily Synchronized Updates）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
-- 「前端剑解」 微信公众号（扫描下方二维码，Daily Synchronized Updates）
+- 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）
 
 ## Exchange
 Welcome to discuss, if you think it is helpful for your study, please order [**Star**](https://github.com/haizlin/fe-interview), and welcome to join the **"front-end interview daily 3 + 1"** Wechat group (sweep personal micro-signal invitation group) to communicate with each other.
 
 ![wechat qrcode](resource/images/qrcode.jpg)
+
+## Reprint
+> Recently, many friends on the Internet abused links, packaged and charged, so that needy friends can not find the latest test questions, contrary to my original intention, added some statements:
+
+- Statement:
+  1. You can reprint all the interview questions in it anywhere, but please add the address of the warehouse, because you seldom update it after reprinting, but the warehouse will be updated on time every day.
+  2. I don't charge anything, I don't, I won't, I won't, I won't, I won't authorize anybody to charge.
+  3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## License
 [MIT](./LICENSE)
