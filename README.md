@@ -19,11 +19,11 @@
 
 ![起源图](resource/images/begin.jpg)
 
-## 今天的面试题 (2019.05.13) —— 第27天
-- [html] [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
-- [css] [怎样修改chrome记住密码后自动填充表单的黄色背景？](https://github.com/haizlin/fe-interview/issues/95)
-- [js] [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
-- [软技能] [你为什么离职呢？](https://github.com/haizlin/fe-interview/issues/97)
+## 今天的面试题 (2019.05.14) —— 第28天
+- [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
+- [css] [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/98)
+- [js] [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
+- [软技能] [在浏览器中输入url到页面显示出来的过程发生了什么？](https://github.com/haizlin/fe-interview/issues/101)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -46,6 +46,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第27天 (2019.05.13)
+    - [html] [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
+    - [css] [怎样修改chrome记住密码后自动填充表单的黄色背景？](https://github.com/haizlin/fe-interview/issues/95)
+    - [js] [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
+    - [软技能] [你为什么离职呢？](https://github.com/haizlin/fe-interview/issues/97)
 
 - 第26天 (2019.05.12)
     - [html] [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
@@ -71,12 +77,6 @@
     - [js] [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
     - [软技能] [说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/haizlin/fe-interview/issues/81)
 
-- 第22天 (2019.05.08)
-    - [html] [js放在html的`<body>`和`<head>`有什么区别？](https://github.com/haizlin/fe-interview/issues/74)
-    - [css] [说说浏览器解析CSS选择器的过程？](https://github.com/haizlin/fe-interview/issues/75)
-    - [js] [你对new操作符的理解是什么？手动实现一个new方法](https://github.com/haizlin/fe-interview/issues/76)
-    - [软技能] [前端工程师这个职位你是怎么样理解的？聊聊它的前景？](https://github.com/haizlin/fe-interview/issues/77)
-
 - **[查看全部](category/history.md)**
 
 ## 特别感谢（排名不分先后）
@@ -98,6 +98,8 @@
 - 2019.05.07 — 下午star数突破100，看来爱学习的人很多，也为自己的坚持而感到欣慰！利他利已！
 - 2019.05.08 — 看到点赞数破100了，但每天答题的人很少很少！我在反思问题出在我身上还是什么原因？所有特加了提示：不要为了谁而来，要为自己而来！
 - 2019.05.12 — 与国际接轨，代码与学习无国界，所以添加了英文版本，后续会继续优化，先解决有的问题！
+- 2019.05.13 — star数突破300！
+- 2019.05.14 — issues题目数量突破100！继续努力前行！
 
 ## 在哪可以看到
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
