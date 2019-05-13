@@ -18,7 +18,7 @@
 ## Origin
 > The story originated from an interview question sent by a departing colleague, and then exploded in a group of micro-letters from departments and enterprises. After answering the question, people thought it would be better if they came to ask one question every day. Face-to-face training, suddenly want to do what they want to say, so there is this open source warehouse, only for the benefit of others!
 
-![origin picture](resource/images/begin.jpg)
+![origin picture](https://github.com/haizlin/fe-interview/raw/master/resource/images/begin.jpg)
 
 ## Today's Interview Question (2019.05.13) —— 27 days
 - [html] [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
@@ -110,7 +110,7 @@
 ## Exchange
 Welcome to discuss, if you think it is helpful for your study, please order [**Star**](https://github.com/haizlin/fe-interview), and welcome to join the **"front-end interview daily 3 + 1"** Wechat group (sweep personal micro-signal invitation group) to communicate with each other.
 
-![wechat qrcode](resource/images/qrcode.jpg)
+![wechat qrcode](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
 
 ## Reprint
 > Recently, many friends on the Internet abused links, packaged and charged, so that needy friends can not find the latest test questions, contrary to my original intention, added some statements:
