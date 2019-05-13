@@ -21,7 +21,7 @@
 
 ## 今天的面试题 (2019.05.14) —— 第28天
 - [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
-- [css] [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/98)
+- [css] [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
 - [js] [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
 - [软技能] [在浏览器中输入url到页面显示出来的过程发生了什么？](https://github.com/haizlin/fe-interview/issues/101)
 
