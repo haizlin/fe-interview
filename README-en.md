@@ -1,4 +1,4 @@
-[Chinese](./README.md) | [English](./README-en.md)
+[Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 # Front-end interview **3+1** per day（Three questions per day）
 
@@ -13,12 +13,6 @@
 - In this ever-changing, class library emerges endlessly at the front end, I suggest that you do not wait until you find a job before brushing the test question, advocating daily learning! (Don't forget the beginning, html, css, JavaScript is the cornerstone!)
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
-
-
-## Origin
-> The story originated from an interview question sent by a departing colleague, and then exploded in a group of micro-letters from departments and enterprises. After answering the question, people thought it would be better if they came to ask one question every day. Face-to-face training, suddenly want to do what they want to say, so there is this open source warehouse, only for the benefit of others!
-
-![origin picture](https://github.com/haizlin/fe-interview/raw/master/resource/images/begin.jpg)
 
 ## Today's Interview Question (2019.05.14) —— 28 days
 - [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
@@ -80,6 +74,11 @@
 
 - **[All](category/history.md)**
 
+## Origin
+> The story originated from an interview question sent by a departing colleague, and then exploded in a group of micro-letters from departments and enterprises. After answering the question, people thought it would be better if they came to ask one question every day. Face-to-face training, suddenly want to do what they want to say, so there is this open source warehouse, only for the benefit of others!
+
+![origin picture](https://github.com/haizlin/fe-interview/raw/master/resource/images/begin.jpg)
+
 ## Thanks（No ranking）
 - [qq674785876](https://github.com/qq674785876)
 - [undefinedYu](https://github.com/undefinedYu)
@@ -123,4 +122,4 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
   3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## License
-[MIT](./LICENSE)
+[MIT](https://github.com/haizlin/fe-interview/blob/master/LICENSE)

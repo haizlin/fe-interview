@@ -1,4 +1,4 @@
-[中文](./README.md) | [English](./README-en.md)
+[中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 # 前端面试每日 **3+1**（每日三问）
 
@@ -13,11 +13,6 @@
 - 在这千变万化，类库层出不穷的前端，建议大家不要等到找工作时，才狂刷题，提倡**每日学习**！（**不忘初心**，html、css、javascript才是基石！）
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
-
-## 起源
-> 故事起源于离职同事发来的一道求助面试题，然后在部门企业微信群里炸开了，答题完后大家觉得如果要是每天来一题，是不是会更爽呢？**以面代练**，突发其想说干就干，所以就有了这个开源仓库，只为利他利己！
-
-![起源图](resource/images/begin.jpg)
 
 ## 今天的面试题 (2019.05.14) —— 第28天
 - [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
@@ -79,6 +74,11 @@
 
 - **[查看全部](category/history.md)**
 
+## 起源
+> 故事起源于离职同事发来的一道求助面试题，然后在部门企业微信群里炸开了，答题完后大家觉得如果要是每天来一题，是不是会更爽呢？**以面代练**，突发其想说干就干，所以就有了这个开源仓库，只为利他利己！
+
+![起源图](https://github.com/haizlin/fe-interview/raw/master/resource/images/begin.jpg)
+
 ## 特别感谢（排名不分先后）
 - [qq674785876](https://github.com/qq674785876)
 - [undefinedYu](https://github.com/undefinedYu)
@@ -111,7 +111,7 @@
 ## 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
 
-![微信公众号和微信群](resource/images/qrcode.jpg)
+![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
 
 ## 转载说明
 > 近期，看到很多网络上的朋友滥用链接，包装了下就收费了，让有需要的朋友找不到最新的试题，违背了我的初衷，特添加了些声明：
@@ -122,4 +122,4 @@
   3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
 
 ## License
-[MIT](./LICENSE)
+[MIT](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
