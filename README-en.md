@@ -24,11 +24,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.05.15) —— 29 days
-- [html] [你了解什么是无障碍web（WAI）吗？在开发过程中要怎么做呢？](https://github.com/haizlin/fe-interview/issues/102)
-- [css] [请描述css的权重计算规则](https://github.com/haizlin/fe-interview/issues/103)
-- [js] [写一个获取数组的最大值、最小值的方法](https://github.com/haizlin/fe-interview/issues/104)
-- [skill] [在工作中能让你最有成就感的是什么？并介绍下你最得意的作品吧](https://github.com/haizlin/fe-interview/issues/105)
+## Today's Interview Question (2019.05.16) —— 30 days
+- [html] [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
+- [css] [描述下你所了解的图片格式及使用场景](https://github.com/haizlin/fe-interview/issues/107)
+- [js] [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
+- [skill] [解释下CRLF是什么？](https://github.com/haizlin/fe-interview/issues/109)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -51,6 +51,12 @@
 
 ## History
 - **[All](category/history.md)**
+
+- 29 days (2019.05.16)
+    - [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
+    - [css] [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
+    - [js] [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
+    - [软技能] [在浏览器中输入url到页面显示出来的过程发生了什么？](https://github.com/haizlin/fe-interview/issues/101)
 
 - 28 days (2019.05.14)
     - [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
@@ -75,12 +81,6 @@
     - [css] [在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/haizlin/fe-interview/issues/87)
     - [js] [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
     - [Skill] [说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/haizlin/fe-interview/issues/89)
-
-- 24 days (2019.05.10)
-    - [html] [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
-    - [css] [你有用过CSS预处理器吗？喜欢用哪个？原理是什么？](https://github.com/haizlin/fe-interview/issues/83)
-    - [js] [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
-    - [Skill] [你经历过老板要求兼容IE吗？IE几？有什么感悟？](https://github.com/haizlin/fe-interview/issues/85)
 
 - **[All](category/history.md)**
 
