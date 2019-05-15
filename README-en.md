@@ -1,12 +1,12 @@
 [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
-<p align="center"><a rel="noopener noreferrer"><img width="100" src="https://github.com/haizlin/fe-interview/raw/master/resource/images/logo.jpg" alt="fe-interview logo"></a></p>
+<!-- <p align="center"><a rel="noopener noreferrer"><img width="100" src="https://github.com/haizlin/fe-interview/raw/master/resource/images/logo.jpg" alt="fe-interview logo"></a></p> -->
 
 <p align="center">
   <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=html" alt="Status"></a>
   <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="Status"></a>
   <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg" alt="Status"></a>
-  <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=软技能" alt="Status"></a>
+  <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=skill" alt="Status"></a>
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Status"></a>
 </p>
 
@@ -28,7 +28,7 @@
 - [html] [你了解什么是无障碍web（WAI）吗？在开发过程中要怎么做呢？](https://github.com/haizlin/fe-interview/issues/102)
 - [css] [请描述css的权重计算规则](https://github.com/haizlin/fe-interview/issues/103)
 - [js] [写一个获取数组的最大值、最小值的方法](https://github.com/haizlin/fe-interview/issues/104)
-- [软技能] [在工作中能让你最有成就感的是什么？并介绍下你最得意的作品吧](https://github.com/haizlin/fe-interview/issues/105)
+- [skill] [在工作中能让你最有成就感的是什么？并介绍下你最得意的作品吧](https://github.com/haizlin/fe-interview/issues/105)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 

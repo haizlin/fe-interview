@@ -1,12 +1,10 @@
 [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
-<p align="center"><a rel="noopener noreferrer"><img width="100" src="https://github.com/haizlin/fe-interview/raw/master/resource/images/logo.jpg" alt="fe-interview logo"></a></p>
-
 <p align="center">
   <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=html" alt="Status"></a>
   <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="Status"></a>
   <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg" alt="Status"></a>
-  <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=软技能" alt="Status"></a>
+  <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=skill" alt="Status"></a>
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Status"></a>
 </p>
 
