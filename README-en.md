@@ -82,12 +82,6 @@
     - [js] [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
     - [Skill] [你经历过老板要求兼容IE吗？IE几？有什么感悟？](https://github.com/haizlin/fe-interview/issues/85)
 
-- 23 days (2019.05.09)
-    - [html] [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
-    - [css] [说说CSS的优先级是如何计算的？](https://github.com/haizlin/fe-interview/issues/79)
-    - [js] [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
-    - [Skill] [说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/haizlin/fe-interview/issues/81)
-
 - **[All](category/history.md)**
 
 ## Origin
@@ -116,6 +110,7 @@
 - 2019.05.12 — 与国际接轨，代码与学习无国界，所以添加了英文版本，后续会继续优化，先解决有的问题！
 - 2019.05.13 — star数突破300！
 - 2019.05.14 — issues题目数量突破100！继续努力前行！
+- 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
