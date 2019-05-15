@@ -128,4 +128,4 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
   3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## License
-[MIT](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
