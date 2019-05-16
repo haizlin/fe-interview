@@ -82,10 +82,21 @@
 
 - **[查看全部](category/history.md)**
 
+## 怎样学习
+- 不管题目懂与不懂都要先思考再百度，思考后一定要去写出来
+- 如果是原生js的题，不要依赖第三方库，如jquery等
+- 每天的题目都是独立的，不需要按顺序来，但建议每道题都去答下，有你会的和有你不会的，答了才知道
+- 不懂的题百度后，不要直接复制一大段过来，要用自己的话精简地总结概括出来
+
 ## 起源
 > 故事起源于离职同事发来的一道求助面试题，然后在部门企业微信群里炸开了，答题完后大家觉得如果要是每天来一题，是不是会更爽呢？**以面代练**，突发其想说干就干，所以就有了这个开源仓库，只为利他利己！
 
 ![起源图](https://github.com/haizlin/fe-interview/raw/master/resource/images/begin.jpg)
+
+## 交流讨论
+欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
+
+![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
 
 ## 特别感谢（排名不分先后）
 - [qq674785876](https://github.com/qq674785876)
@@ -109,6 +120,7 @@
 - 2019.05.13 — star数突破300！
 - 2019.05.14 — issues题目数量突破100！继续努力前行！
 - 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
+- 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法
 
 ## 在哪可以看到
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
@@ -116,11 +128,6 @@
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
 - 「前端剑解」 微信公众号（扫描下方二维码，每天同步更新）
-
-## 交流讨论
-欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
-
-![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
 
 ## 转载说明
 > 近期，看到很多网络上的朋友滥用链接，包装了下就收费了，让有需要的朋友找不到最新的试题，违背了我的初衷，特添加了些声明：

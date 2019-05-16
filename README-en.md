@@ -84,10 +84,21 @@
 
 - **[All](category/history.md)**
 
+## How to learn
+- Whether you understand the topic or not, you have to think first and then Baidu. After thinking, you must write it out.
+- If it's a native JS question, don't rely on third-party libraries, such as jquery, etc.
+- Every day's questions are independent and do not need to be sequenced, but it is suggested that each question should be answered. If you will or will not, the answer will be known.
+- After you don't understand Baidu's title, don't copy a large paragraph directly, you should summarize it in your own words concisely.
+
 ## Origin
 > The story originated from an interview question sent by a departing colleague, and then exploded in a group of micro-letters from departments and enterprises. After answering the question, people thought it would be better if they came to ask one question every day. Face-to-face training, suddenly want to do what they want to say, so there is this open source warehouse, only for the benefit of others!
 
 ![origin picture](https://github.com/haizlin/fe-interview/raw/master/resource/images/begin.jpg)
+
+## Exchange
+Welcome to discuss, if you think it is helpful for your study, please order [**Star**](https://github.com/haizlin/fe-interview), and welcome to join the **"front-end interview daily 3 + 1"** Wechat group (sweep personal micro-signal invitation group) to communicate with each other.
+
+![wechat qrcode](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
 
 ## Thanks（No ranking）
 - [qq674785876](https://github.com/qq674785876)
@@ -111,6 +122,7 @@
 - 2019.05.13 — star数突破300！
 - 2019.05.14 — issues题目数量突破100！继续努力前行！
 - 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
+- 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
@@ -118,11 +130,6 @@
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）
-
-## Exchange
-Welcome to discuss, if you think it is helpful for your study, please order [**Star**](https://github.com/haizlin/fe-interview), and welcome to join the **"front-end interview daily 3 + 1"** Wechat group (sweep personal micro-signal invitation group) to communicate with each other.
-
-![wechat qrcode](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
 
 ## Reprint
 > Recently, many friends on the Internet abused links, packaged and charged, so that needy friends can not find the latest test questions, contrary to my original intention, added some statements:
