@@ -22,33 +22,31 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.16) —— 第30天
-- [html] [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
-- [css] [描述下你所了解的图片格式及使用场景](https://github.com/haizlin/fe-interview/issues/107)
-- [js] [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
-- [软技能] [解释下CRLF是什么？](https://github.com/haizlin/fe-interview/issues/109)
+## 今天的面试题 (2019.05.17) —— 第31天
+- [html] [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
+- [css] [让网页的字体变得清晰，变细用CSS怎么做？](https://github.com/haizlin/fe-interview/issues/111)
+- [js] [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
+- [软技能] [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
 ## 试题分类
-- [html](category/html.md)
-- [css](category/css.md)
-- [js](category/js.md)
-- [软技能](category/软技能.md)
+- 分类（3+1）
+    [html](category/html.md) ｜ [css](category/css.md) ｜ [js](category/js.md) ｜ [软技能](category/软技能.md)
 
-## 类库面试专题（敬请期待、欢迎PR）
-- [ES6](category/es6.md)
-- [jQuery](lib/jQuery.md)
-- [Vue](lib/Vue.md)
-- [React](lib/React.md)
-- [AngularJs](lib/AngularJs.md)
-- [小程序](lib/wxapp.md)
-
-## 汇总
-- [周](category/week.md)
+- 专题（敬请期待、欢迎PR）
+    [ES6](category/es6.md) ｜ [jQuery](lib/jQuery.md) ｜ [Vue](lib/Vue.md) ｜ [React](lib/React.md) ｜ [AngularJs](lib/AngularJs.md) ｜ [小程序](lib/wxapp.md)
+- 汇总
+    [周](category/week.md)
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第30天 (2019.05.16)
+    - [html] [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
+    - [css] [描述下你所了解的图片格式及使用场景](https://github.com/haizlin/fe-interview/issues/107)
+    - [js] [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
+    - [软技能] [解释下CRLF是什么？](https://github.com/haizlin/fe-interview/issues/109)
 
 - 第29天 (2019.05.15)
     - [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
@@ -73,12 +71,6 @@
     - [css] [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
     - [js] [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
     - [软技能] [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
-
-- 第25天 (2019.05.11)
-    - [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
-    - [css] [在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/haizlin/fe-interview/issues/87)
-    - [js] [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
-    - [软技能] [说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/haizlin/fe-interview/issues/89)
 
 - **[查看全部](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第30天 (2019.05.16)
+    - [html] [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
+    - [css] [描述下你所了解的图片格式及使用场景](https://github.com/haizlin/fe-interview/issues/107)
+    - [js] [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
+    - [软技能] [解释下CRLF是什么？](https://github.com/haizlin/fe-interview/issues/109)
+
 - 第29天 (2019.05.15)
     - [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
     - [css] [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
