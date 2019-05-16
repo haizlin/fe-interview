@@ -33,12 +33,12 @@
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
 ## Classification
-- class（3+1）
+- class(3+1)  
     [html](category/html.md) ｜ [css](category/css.md) ｜ [js](category/js.md) ｜ [Skill](category/软技能.md)
 
-- Topics（Please look forward to and welcome PR）
+- Topics(Please look forward to and welcome PR)  
     [ES6](category/es6.md) ｜ [jQuery](lib/jQuery.md) ｜ [Vue](lib/Vue.md) ｜ [React](lib/React.md) ｜ [AngularJs](lib/AngularJs.md) ｜ [小程序](lib/wxapp.md)
-- Summary
+- Summary  
     [week](category/week.md)
 
 ## History

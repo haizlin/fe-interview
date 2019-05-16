@@ -31,12 +31,12 @@
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
 ## 试题分类
-- 分类（3+1）
+- 分类（3+1）  
     [html](category/html.md) ｜ [css](category/css.md) ｜ [js](category/js.md) ｜ [软技能](category/软技能.md)
 
-- 专题（敬请期待、欢迎PR）
+- 专题（敬请期待、欢迎PR）  
     [ES6](category/es6.md) ｜ [jQuery](lib/jQuery.md) ｜ [Vue](lib/Vue.md) ｜ [React](lib/React.md) ｜ [AngularJs](lib/AngularJs.md) ｜ [小程序](lib/wxapp.md)
-- 汇总
+- 汇总  
     [周](category/week.md)
 
 ## 历史面试题
