@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第31天 (2019.05.17)
+    - [html] [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
+    - [css] [让网页的字体变得清晰，变细用CSS怎么做？](https://github.com/haizlin/fe-interview/issues/111)
+    - [js] [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
+    - [软技能] [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)
+
 - 第30天 (2019.05.16)
     - [html] [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
     - [css] [描述下你所了解的图片格式及使用场景](https://github.com/haizlin/fe-interview/issues/107)

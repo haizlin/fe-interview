@@ -22,25 +22,31 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.17) —— 第31天
-- [html] [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
-- [css] [让网页的字体变得清晰，变细用CSS怎么做？](https://github.com/haizlin/fe-interview/issues/111)
-- [js] [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
-- [软技能] [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)
+## 今天的面试题 (2019.05.18) —— 第32天
+- [html] [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
+- [css] [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
+- [js] [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
+- [软技能] [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
 ## 试题分类
 - 分类（3+1）  
-    [html](category/html.md) ｜ [css](category/css.md) ｜ [js](category/js.md) ｜ [软技能](category/软技能.md)
+    [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [软技能](category/软技能.md)
 
 - 专题（敬请期待、欢迎PR）  
-    [ES6](category/es6.md) ｜ [jQuery](lib/jQuery.md) ｜ [Vue](lib/Vue.md) ｜ [React](lib/React.md) ｜ [AngularJs](lib/AngularJs.md) ｜ [小程序](lib/wxapp.md)
+    [ES6](category/es6.md) | [jQuery](lib/jQuery.md) | [Vue](lib/Vue.md) | [React](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
 - 汇总  
     [周](category/week.md)
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第31天 (2019.05.17)
+    - [html] [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
+    - [css] [让网页的字体变得清晰，变细用CSS怎么做？](https://github.com/haizlin/fe-interview/issues/111)
+    - [js] [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
+    - [软技能] [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)
 
 - 第30天 (2019.05.16)
     - [html] [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
@@ -65,12 +71,6 @@
     - [css] [怎样修改chrome记住密码后自动填充表单的黄色背景？](https://github.com/haizlin/fe-interview/issues/95)
     - [js] [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
     - [软技能] [你为什么离职呢？](https://github.com/haizlin/fe-interview/issues/97)
-
-- 第26天 (2019.05.12)
-    - [html] [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
-    - [css] [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
-    - [js] [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
-    - [软技能] [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
 
 - **[查看全部](category/history.md)**
 
