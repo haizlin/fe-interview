@@ -32,7 +32,7 @@
 
 ## 试题分类
 - 分类（3+1）  
-    [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [软技能](category/软技能.md)
+    [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [软技能](category/skill.md)
 
 - 专题（敬请期待、欢迎PR）  
     [ES6](category/es6.md) | [jQuery](lib/jQuery.md) | [Vue](lib/Vue.md) | [React](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
