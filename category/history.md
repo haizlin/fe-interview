@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第32天 (2019.05.18)
+    - [html] [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
+    - [css] [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
+    - [js] [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
+    - [软技能] [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
+
 - 第31天 (2019.05.17)
     - [html] [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
     - [css] [让网页的字体变得清晰，变细用CSS怎么做？](https://github.com/haizlin/fe-interview/issues/111)

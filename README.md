@@ -22,11 +22,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.18) —— 第32天
-- [html] [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
-- [css] [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
-- [js] [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
-- [软技能] [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
+## 今天的面试题 (2019.05.19) —— 第33天
+- [html] [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
+- [css] [用CSS绘制一个三角形](https://github.com/haizlin/fe-interview/issues/119)
+- [js] [说说你对this的理解](https://github.com/haizlin/fe-interview/issues/120)
+- [软技能] [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -41,6 +41,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第32天 (2019.05.18)
+    - [html] [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
+    - [css] [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
+    - [js] [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
+    - [软技能] [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
 
 - 第31天 (2019.05.17)
     - [html] [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
@@ -65,12 +71,6 @@
     - [css] [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
     - [js] [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
     - [软技能] [在浏览器中输入url到页面显示出来的过程发生了什么？](https://github.com/haizlin/fe-interview/issues/101)
-
-- 第27天 (2019.05.13)
-    - [html] [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
-    - [css] [怎样修改chrome记住密码后自动填充表单的黄色背景？](https://github.com/haizlin/fe-interview/issues/95)
-    - [js] [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
-    - [软技能] [你为什么离职呢？](https://github.com/haizlin/fe-interview/issues/97)
 
 - **[查看全部](category/history.md)**
 

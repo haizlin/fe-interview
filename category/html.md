@@ -2,8 +2,16 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.11
+> 最新：2019.05.19
 
+- [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
+- [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
+- [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
+- [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
+- [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
+- [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
+- [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
+- [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
 - [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
 - [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
 - [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)

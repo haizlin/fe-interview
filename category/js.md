@@ -2,8 +2,16 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.11
+> 最新：2019.05.19
 
+- [说说你对this的理解](https://github.com/haizlin/fe-interview/issues/120)
+- [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
+- [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
+- [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
+- [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
+- [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
+- [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
+- [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
 - [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
 - [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
 - [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
