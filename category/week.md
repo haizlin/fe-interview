@@ -15,7 +15,6 @@
 - [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
 - [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
 - [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
-- [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
 - [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
 - [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
 - [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
@@ -49,7 +48,6 @@
 - [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
 - [让网页的字体变得清晰，变细用CSS怎么做？](https://github.com/haizlin/fe-interview/issues/111)
 - [描述下你所了解的图片格式及使用场景](https://github.com/haizlin/fe-interview/issues/107)
-- [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
 - [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
 - [怎样修改chrome记住密码后自动填充表单的黄色背景？](https://github.com/haizlin/fe-interview/issues/95)
 - [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
@@ -85,7 +83,6 @@
 - [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
 - [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
 - [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
-- [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
 - [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
 - [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
 - [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
@@ -114,7 +111,7 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
-- [软技能] [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
+- [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
 - [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
 - [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)
 - [解释下CRLF是什么？](https://github.com/haizlin/fe-interview/issues/109)
