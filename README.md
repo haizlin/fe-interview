@@ -25,7 +25,7 @@
 ## 今天的面试题 (2019.05.20) —— 第34天
 - [html] [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
 - [css] [浏览器是怎样判断元素是否和某个CSS选择器匹配？](https://github.com/haizlin/fe-interview/issues/123)
-- [js] [请手写一个幻灯片的效果](https://github.com/haizlin/fe-interview/issues/124)
+- [js] [请用canvas写一个关于520浪漫表白的代码](https://github.com/haizlin/fe-interview/issues/124)
 - [软技能] [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
