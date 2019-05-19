@@ -8,7 +8,7 @@
 - [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
 - [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
 - [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
-- [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
+- [你了解什么是无障碍web（WAI）吗？在开发过程中要怎么做呢？](https://github.com/haizlin/fe-interview/issues/102)
 - [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
 - [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
 - [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)

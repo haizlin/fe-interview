@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第33天 (2019.05.19)
+    - [html] [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
+    - [css] [用CSS绘制一个三角形](https://github.com/haizlin/fe-interview/issues/119)
+    - [js] [说说你对this的理解](https://github.com/haizlin/fe-interview/issues/120)
+    - [软技能] [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
+
 - 第32天 (2019.05.18)
     - [html] [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
     - [css] [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
@@ -20,10 +26,10 @@
     - [软技能] [解释下CRLF是什么？](https://github.com/haizlin/fe-interview/issues/109)
 
 - 第29天 (2019.05.15)
-    - [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
-    - [css] [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
-    - [js] [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
-    - [软技能] [在浏览器中输入url到页面显示出来的过程发生了什么？](https://github.com/haizlin/fe-interview/issues/101)
+    - [html] [你了解什么是无障碍web（WAI）吗？在开发过程中要怎么做呢？](https://github.com/haizlin/fe-interview/issues/102)
+    - [css] [请描述css的权重计算规则](https://github.com/haizlin/fe-interview/issues/103)
+    - [js] [写一个获取数组的最大值、最小值的方法](https://github.com/haizlin/fe-interview/issues/104)
+    - [软技能] [在工作中能让你最有成就感的是什么？并介绍下你最得意的作品吧](https://github.com/haizlin/fe-interview/issues/105)
 
 - 第28天 (2019.05.14)
     - [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)

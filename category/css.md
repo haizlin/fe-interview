@@ -8,7 +8,7 @@
 - [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
 - [让网页的字体变得清晰，变细用CSS怎么做？](https://github.com/haizlin/fe-interview/issues/111)
 - [描述下你所了解的图片格式及使用场景](https://github.com/haizlin/fe-interview/issues/107)
-- [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
+- [请描述css的权重计算规则](https://github.com/haizlin/fe-interview/issues/103)
 - [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
 - [怎样修改chrome记住密码后自动填充表单的黄色背景？](https://github.com/haizlin/fe-interview/issues/95)
 - [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)

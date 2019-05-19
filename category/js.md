@@ -8,7 +8,7 @@
 - [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
 - [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
 - [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
-- [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
+- [写一个获取数组的最大值、最小值的方法](https://github.com/haizlin/fe-interview/issues/104)
 - [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
 - [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
 - [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
