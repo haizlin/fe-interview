@@ -22,11 +22,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.20) —— 第34天
-- [html] [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
-- [css] [浏览器是怎样判断元素是否和某个CSS选择器匹配？](https://github.com/haizlin/fe-interview/issues/123)
-- [js] [请用canvas写一个关于520浪漫表白的代码](https://github.com/haizlin/fe-interview/issues/124)
-- [软技能] [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
+## 今天的面试题 (2019.05.21) —— 第35天
+- [html] [用一个 div 模拟 textarea 的实现]()
+- [css] [使用 flex 实现三栏布局，两边固定，中间自适应]()
+- [js] [请你解释一个为什么 10.toFixed(10) 会报错？]()
+- [软技能] [谈一谈你知道的前端性能优化方案]()
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -43,6 +43,11 @@
 ## 历史面试题
 - **[查看全部](category/history.md)**
 
+- 第34天 (2019.05.20)
+    - [html] [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
+    - [css] [浏览器是怎样判断元素是否和某个CSS选择器匹配？](https://github.com/haizlin/fe-interview/issues/123)
+    - [js] [请用canvas写一个关于520浪漫表白的代码](https://github.com/haizlin/fe-interview/issues/124)
+    - [软技能] [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
 - 第33天 (2019.05.19)
     - [html] [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
     - [css] [用CSS绘制一个三角形](https://github.com/haizlin/fe-interview/issues/119)
