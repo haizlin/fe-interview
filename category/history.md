@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第34天 (2019.05.20)
+    - [html] [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
+    - [css] [浏览器是怎样判断元素是否和某个CSS选择器匹配？](https://github.com/haizlin/fe-interview/issues/123)
+    - [js] [请用canvas写一个关于520浪漫表白的代码](https://github.com/haizlin/fe-interview/issues/124)
+    - [软技能] [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
+
 - 第33天 (2019.05.19)
     - [html] [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
     - [css] [用CSS绘制一个三角形](https://github.com/haizlin/fe-interview/issues/119)

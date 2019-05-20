@@ -23,10 +23,10 @@
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
 ## 今天的面试题 (2019.05.21) —— 第35天
-- [html] [用一个 div 模拟 textarea 的实现]()
-- [css] [使用 flex 实现三栏布局，两边固定，中间自适应]()
-- [js] [请你解释一个为什么 10.toFixed(10) 会报错？]()
-- [软技能] [谈一谈你知道的前端性能优化方案]()
+- [html] [用一个div模拟textarea的实现](https://github.com/haizlin/fe-interview/issues/128)
+- [css] [使用flex实现三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/129)
+- [js] [请你解释一个为什么10.toFixed(10)会报错？](https://github.com/haizlin/fe-interview/issues/130)
+- [软技能] [谈一谈你知道的前端性能优化方案有哪些？](https://github.com/haizlin/fe-interview/issues/131)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -48,6 +48,7 @@
     - [css] [浏览器是怎样判断元素是否和某个CSS选择器匹配？](https://github.com/haizlin/fe-interview/issues/123)
     - [js] [请用canvas写一个关于520浪漫表白的代码](https://github.com/haizlin/fe-interview/issues/124)
     - [软技能] [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
+
 - 第33天 (2019.05.19)
     - [html] [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
     - [css] [用CSS绘制一个三角形](https://github.com/haizlin/fe-interview/issues/119)
@@ -71,12 +72,6 @@
     - [css] [描述下你所了解的图片格式及使用场景](https://github.com/haizlin/fe-interview/issues/107)
     - [js] [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
     - [软技能] [解释下CRLF是什么？](https://github.com/haizlin/fe-interview/issues/109)
-
-- 第29天 (2019.05.15)
-    - [html] [你了解什么是无障碍web（WAI）吗？在开发过程中要怎么做呢？](https://github.com/haizlin/fe-interview/issues/102)
-    - [css] [请描述css的权重计算规则](https://github.com/haizlin/fe-interview/issues/103)
-    - [js] [写一个获取数组的最大值、最小值的方法](https://github.com/haizlin/fe-interview/issues/104)
-    - [软技能] [在工作中能让你最有成就感的是什么？并介绍下你最得意的作品吧](https://github.com/haizlin/fe-interview/issues/105)
 
 - **[查看全部](category/history.md)**
 
