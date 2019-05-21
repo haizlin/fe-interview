@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第35天 (2019.05.21)
+    - [html] [用一个div模拟textarea的实现](https://github.com/haizlin/fe-interview/issues/128)
+    - [css] [使用flex实现三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/129)
+    - [js] [请你解释一个为什么10.toFixed(10)会报错？](https://github.com/haizlin/fe-interview/issues/130)
+    - [软技能] [谈一谈你知道的前端性能优化方案有哪些？](https://github.com/haizlin/fe-interview/issues/131)
+
 - 第34天 (2019.05.20)
     - [html] [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
     - [css] [浏览器是怎样判断元素是否和某个CSS选择器匹配？](https://github.com/haizlin/fe-interview/issues/123)
