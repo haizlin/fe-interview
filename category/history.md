@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第36天 (2019.05.22)
+    - [html] [HTML与XHTML二者有不同?](https://github.com/haizlin/fe-interview/issues/132)
+    - [css] [写出主流浏览器内核私有属性的css前缀](https://github.com/haizlin/fe-interview/issues/133)
+    - [js] [请手写一个幻灯片的效果](https://github.com/haizlin/fe-interview/issues/134)
+    - [软技能] [对于前端安全，你了解多少？说说你对XSS和CSRF的理解](https://github.com/haizlin/fe-interview/issues/135)
+
 - 第35天 (2019.05.21)
     - [html] [用一个div模拟textarea的实现](https://github.com/haizlin/fe-interview/issues/128)
     - [css] [使用flex实现三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/129)
