@@ -1,4 +1,4 @@
-## 四大宗旨：勤思考，多动手，善总结，能坚持   
+# 前端面试每日 **3+1**（每日三问）
 
 [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
@@ -10,7 +10,7 @@
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
 </p>
 
-# 前端面试每日 **3+1**（每日三问）
+## 四大宗旨：勤思考，多动手，善总结，能坚持  
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1，以面试题来驱动学习，每天进步一点！  

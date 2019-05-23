@@ -1,4 +1,4 @@
-## Four goals：diligent thinking，more hands-on，good summary，can adhere to   
+# Front-end interview **3+1** per day（Three questions per day）
 
 [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
@@ -12,7 +12,7 @@
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
 </p>
 
-# Front-end interview **3+1** per day（Three questions per day）
+## Four goals：diligent thinking，more hands-on，good summary，can adhere to   
 
 > "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day)。  
 > Front-end interview 3+1 per day，Driven by interview questions, make progress every day！  
