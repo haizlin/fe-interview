@@ -1,4 +1,4 @@
-## Four goals：**diligent thinking**，**more hands-on**，**good summary**，**can adhere to**  
+## Four goals：diligent thinking，more hands-on，good summary，can adhere to   
 
 [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 

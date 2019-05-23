@@ -1,4 +1,4 @@
-## 四大宗旨：**勤思考**，**多动手**，**善总结**，**能坚持**  
+## 四大宗旨：勤思考，多动手，善总结，能坚持   
 
 [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
