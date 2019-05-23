@@ -1,3 +1,5 @@
+## 四大宗旨：**勤思考**，**多动手**，**善总结**，**能坚持**  
+
 [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <p align="left">
@@ -114,6 +116,7 @@
 - 2019.05.14 — issues题目数量突破100！继续努力前行！
 - 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
 - 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法
+- 2019.05.23 — 发现很多朋友都好奇这个开源项目，所以特加了本开源项目的四大宗旨。
 
 ## 在哪可以看到
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）

@@ -1,3 +1,5 @@
+## Four goals：**diligent thinking**，**more hands-on**，**good summary**，**can adhere to**  
+
 [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <!-- <p align="center"><a rel="noopener noreferrer"><img width="100" src="https://github.com/haizlin/fe-interview/raw/master/resource/images/logo.jpg" alt="fe-interview logo"></a></p> -->
@@ -116,6 +118,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.05.14 — issues题目数量突破100！继续努力前行！
 - 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
 - 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法
+- 2019.05.23 — 发现很多朋友都好奇这个开源项目，所以特加了本开源项目的四大宗旨。
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
