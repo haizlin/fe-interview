@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第37天 (2019.05.23)
+    - [html] [html5哪些标签可以优化SEO?](https://github.com/haizlin/fe-interview/issues/136)
+    - [css] [不使用border画出1px高的线，在不同浏览器的标准和怪异模式下都能保持效果一样](https://github.com/haizlin/fe-interview/issues/137)
+    - [js] [找到字符串中最长的单词，并返回它的长度](https://github.com/haizlin/fe-interview/issues/138)
+    - [软技能] [如果让你快速使用一门你不熟悉的新技术，你该怎么办？](https://github.com/haizlin/fe-interview/issues/139)
+
 - 第36天 (2019.05.22)
     - [html] [HTML与XHTML二者有不同?](https://github.com/haizlin/fe-interview/issues/132)
     - [css] [写出主流浏览器内核私有属性的css前缀](https://github.com/haizlin/fe-interview/issues/133)
