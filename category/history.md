@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第38天 (2019.05.24)
+    - [html] [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
+    - [css] [实现单行文本居中和多行文本左对齐并超出显示"..."](https://github.com/haizlin/fe-interview/issues/141)
+    - [js] [说说你对eval的理解](https://github.com/haizlin/fe-interview/issues/142)
+    - [软技能] [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
+
 - 第37天 (2019.05.23)
     - [html] [html5哪些标签可以优化SEO?](https://github.com/haizlin/fe-interview/issues/136)
     - [css] [不使用border画出1px高的线，在不同浏览器的标准和怪异模式下都能保持效果一样](https://github.com/haizlin/fe-interview/issues/137)
