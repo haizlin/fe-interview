@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.19
+> 最新：2019.05.26
 
+- [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
+- [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
+- [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
+- [如果让你快速使用一门你不熟悉的新技术，你该怎么办？](https://github.com/haizlin/fe-interview/issues/139)
+- [对于前端安全，你了解多少？说说你对XSS和CSRF的理解](https://github.com/haizlin/fe-interview/issues/135)
+- [谈一谈你知道的前端性能优化方案有哪些？](https://github.com/haizlin/fe-interview/issues/131)
+- [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
 - [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
 - [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
 - [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)

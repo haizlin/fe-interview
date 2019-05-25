@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.25) —— 第39天
-- [html] [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
-- [css] [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
-- [js] [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
-- [软技能] [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
+## 今天的面试题 (2019.05.26) —— 第40天
+- [html] [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
+- [css] [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
+- [js] [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
+- [软技能] [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -44,6 +44,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第39天 (2019.05.25)
+    - [html] [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
+    - [css] [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
+    - [js] [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
+    - [软技能] [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
 
 - 第38天 (2019.05.24)
     - [html] [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
@@ -68,24 +74,6 @@
     - [css] [使用flex实现三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/129)
     - [js] [请你解释一个为什么10.toFixed(10)会报错？](https://github.com/haizlin/fe-interview/issues/130)
     - [软技能] [谈一谈你知道的前端性能优化方案有哪些？](https://github.com/haizlin/fe-interview/issues/131)
-
-- 第34天 (2019.05.20)
-    - [html] [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
-    - [css] [浏览器是怎样判断元素是否和某个CSS选择器匹配？](https://github.com/haizlin/fe-interview/issues/123)
-    - [js] [请用canvas写一个关于520浪漫表白的代码](https://github.com/haizlin/fe-interview/issues/124)
-    - [软技能] [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
-
-- 第33天 (2019.05.19)
-    - [html] [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
-    - [css] [用CSS绘制一个三角形](https://github.com/haizlin/fe-interview/issues/119)
-    - [js] [说说你对this的理解](https://github.com/haizlin/fe-interview/issues/120)
-    - [软技能] [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
-
-- 第32天 (2019.05.18)
-    - [html] [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
-    - [css] [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
-    - [js] [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
-    - [软技能] [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
 
 - **[查看全部](category/history.md)**
 

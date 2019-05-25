@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第39天 (2019.05.25)
+    - [html] [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
+    - [css] [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
+    - [js] [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
+    - [软技能] [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
+
 - 第38天 (2019.05.24)
     - [html] [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
     - [css] [实现单行文本居中和多行文本左对齐并超出显示"..."](https://github.com/haizlin/fe-interview/issues/141)

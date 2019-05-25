@@ -1,4 +1,4 @@
-# 周汇总 2019.05.19
+# 周汇总 2019.05.26
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -10,6 +10,13 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 
 ## html
+- [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
+- [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
+- [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
+- [html5哪些标签可以优化SEO?](https://github.com/haizlin/fe-interview/issues/136)
+- [HTML与XHTML二者有不同?](https://github.com/haizlin/fe-interview/issues/132)
+- [用一个div模拟textarea的实现](https://github.com/haizlin/fe-interview/issues/128)
+- [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
 - [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
 - [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
 - [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
@@ -44,6 +51,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
+- [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
+- [实现单行文本居中和多行文本左对齐并超出显示"..."](https://github.com/haizlin/fe-interview/issues/141)
+- [不使用border画出1px高的线，在不同浏览器的标准和怪异模式下都能保持效果一样](https://github.com/haizlin/fe-interview/issues/137)
+- [写出主流浏览器内核私有属性的css前缀](https://github.com/haizlin/fe-interview/issues/133)
+- [使用flex实现三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/129)
+- [浏览器是怎样判断元素是否和某个CSS选择器匹配？](https://github.com/haizlin/fe-interview/issues/123)
 - [用CSS绘制一个三角形](https://github.com/haizlin/fe-interview/issues/119)
 - [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
 - [让网页的字体变得清晰，变细用CSS怎么做？](https://github.com/haizlin/fe-interview/issues/111)
@@ -78,6 +92,13 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
+- [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
+- [说说你对eval的理解](https://github.com/haizlin/fe-interview/issues/142)
+- [找到字符串中最长的单词，并返回它的长度](https://github.com/haizlin/fe-interview/issues/138)
+- [请手写一个幻灯片的效果](https://github.com/haizlin/fe-interview/issues/134)
+- [请你解释一个为什么10.toFixed(10)会报错？](https://github.com/haizlin/fe-interview/issues/130)
+- [请用canvas写一个关于520浪漫表白的代码](https://github.com/haizlin/fe-interview/issues/124)
 - [说说你对this的理解](https://github.com/haizlin/fe-interview/issues/120)
 - [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
 - [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
@@ -111,6 +132,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
+- [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
+- [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
+- [如果让你快速使用一门你不熟悉的新技术，你该怎么办？](https://github.com/haizlin/fe-interview/issues/139)
+- [对于前端安全，你了解多少？说说你对XSS和CSRF的理解](https://github.com/haizlin/fe-interview/issues/135)
+- [谈一谈你知道的前端性能优化方案有哪些？](https://github.com/haizlin/fe-interview/issues/131)
+- [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
 - [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
 - [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
 - [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)
