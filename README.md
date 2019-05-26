@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.26) —— 第40天
-- [html] [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
-- [css] [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
-- [js] [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
-- [软技能] [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
+## 今天的面试题 (2019.05.27) —— 第41天
+- [html] [webSocket怎么做兼容处理？](https://github.com/haizlin/fe-interview/issues/152)
+- [css] [怎么让英文单词的首字母大写？](https://github.com/haizlin/fe-interview/issues/153)
+- [js] [说说你对IIFE的理解](https://github.com/haizlin/fe-interview/issues/154)
+- [软技能] [你有自己的博客吗？平时自己有写一些技术文章吗？](https://github.com/haizlin/fe-interview/issues/155)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -44,6 +44,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第40天 (2019.05.26)
+    - [html] [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
+    - [css] [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
+    - [js] [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
+    - [软技能] [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
 
 - 第39天 (2019.05.25)
     - [html] [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
@@ -68,12 +74,6 @@
     - [css] [写出主流浏览器内核私有属性的css前缀](https://github.com/haizlin/fe-interview/issues/133)
     - [js] [请手写一个幻灯片的效果](https://github.com/haizlin/fe-interview/issues/134)
     - [软技能] [对于前端安全，你了解多少？说说你对XSS和CSRF的理解](https://github.com/haizlin/fe-interview/issues/135)
-
-- 第35天 (2019.05.21)
-    - [html] [用一个div模拟textarea的实现](https://github.com/haizlin/fe-interview/issues/128)
-    - [css] [使用flex实现三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/129)
-    - [js] [请你解释一个为什么10.toFixed(10)会报错？](https://github.com/haizlin/fe-interview/issues/130)
-    - [软技能] [谈一谈你知道的前端性能优化方案有哪些？](https://github.com/haizlin/fe-interview/issues/131)
 
 - **[查看全部](category/history.md)**
 
