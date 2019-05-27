@@ -1,6 +1,18 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第41天 (2019.05.27)
+    - [html] [webSocket怎么做兼容处理？](https://github.com/haizlin/fe-interview/issues/152)
+    - [css] [怎么让英文单词的首字母大写？](https://github.com/haizlin/fe-interview/issues/153)
+    - [js] [说说你对IIFE的理解](https://github.com/haizlin/fe-interview/issues/154)
+    - [软技能] [你有自己的博客吗？平时自己有写一些技术文章吗？](https://github.com/haizlin/fe-interview/issues/155)
+
+- 第40天 (2019.05.26)
+    - [html] [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
+    - [css] [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
+    - [js] [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
+    - [软技能] [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
+
 - 第39天 (2019.05.25)
     - [html] [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
     - [css] [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
