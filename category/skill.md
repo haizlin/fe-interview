@@ -2,8 +2,23 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.11
+> 最新：2019.05.26
 
+- [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
+- [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
+- [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
+- [如果让你快速使用一门你不熟悉的新技术，你该怎么办？](https://github.com/haizlin/fe-interview/issues/139)
+- [对于前端安全，你了解多少？说说你对XSS和CSRF的理解](https://github.com/haizlin/fe-interview/issues/135)
+- [谈一谈你知道的前端性能优化方案有哪些？](https://github.com/haizlin/fe-interview/issues/131)
+- [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
+- [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
+- [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
+- [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)
+- [解释下CRLF是什么？](https://github.com/haizlin/fe-interview/issues/109)
+- [在工作中能让你最有成就感的是什么？并介绍下你最得意的作品吧](https://github.com/haizlin/fe-interview/issues/105)
+- [在浏览器中输入url到页面显示出来的过程发生了什么？](https://github.com/haizlin/fe-interview/issues/101)
+- [你为什么离职呢？](https://github.com/haizlin/fe-interview/issues/97)
+- [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
 - [说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/haizlin/fe-interview/issues/89)
 - [你经历过老板要求兼容IE吗？IE几？有什么感悟？](https://github.com/haizlin/fe-interview/issues/85)
 - [说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/haizlin/fe-interview/issues/81)

@@ -1,6 +1,16 @@
-[中文](./README.md) | [English](./README-en.md)
-
 # 前端面试每日 **3+1**（每日三问）
+
+[中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
+
+<p align="left">
+  <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=html" alt="html"></a>
+  <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="css"></a>
+  <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
+  <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=skill" alt="skill"></a>
+  <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
+</p>
+
+## 四大宗旨：勤思考，多动手，善总结，能坚持  
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1，以面试题来驱动学习，每天进步一点！  
@@ -14,70 +24,74 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 起源
-> 故事起源于离职同事发来的一道求助面试题，然后在部门企业微信群里炸开了，答题完后大家觉得如果要是每天来一题，是不是会更爽呢？**以面代练**，突发其想说干就干，所以就有了这个开源仓库，只为利他利己！
-
-![起源图](resource/images/begin.jpg)
-
-## 今天的面试题 (2019.05.14) —— 第28天
-- [html] [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
-- [css] [rgba()和opacity这两个的透明效果有什么区别呢？](https://github.com/haizlin/fe-interview/issues/99)
-- [js] [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
-- [软技能] [在浏览器中输入url到页面显示出来的过程发生了什么？](https://github.com/haizlin/fe-interview/issues/101)
+## 今天的面试题 (2019.05.28) —— 第42天
+- [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
+- [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
+- [js] [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
+- [软技能] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
 ## 试题分类
-- [html](category/html.md)
-- [css](category/css.md)
-- [js](category/js.md)
-- [软技能](category/软技能.md)
+- 分类（3+1）  
+    [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [软技能](category/skill.md)
 
-## 类库面试专题（敬请期待、欢迎PR）
-- [ES6](category/es6.md)
-- [jQuery](lib/jQuery.md)
-- [Vue](lib/Vue.md)
-- [React](lib/React.md)
-- [AngularJs](lib/AngularJs.md)
-- [小程序](lib/wxapp.md)
+- 专题（敬请期待、欢迎PR）  
+    [ES6](category/es6.md) | [jQuery](lib/jQuery.md) | [Vue](lib/Vue.md) | [React](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
 
-## 汇总
-- [周](category/week.md)
+- 汇总  
+    [周](category/week.md)
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
 
-- 第27天 (2019.05.13)
-    - [html] [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
-    - [css] [怎样修改chrome记住密码后自动填充表单的黄色背景？](https://github.com/haizlin/fe-interview/issues/95)
-    - [js] [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
-    - [软技能] [你为什么离职呢？](https://github.com/haizlin/fe-interview/issues/97)
+- 第41天 (2019.05.27)
+    - [html] [webSocket怎么做兼容处理？](https://github.com/haizlin/fe-interview/issues/152)
+    - [css] [怎么让英文单词的首字母大写？](https://github.com/haizlin/fe-interview/issues/153)
+    - [js] [说说你对IIFE的理解](https://github.com/haizlin/fe-interview/issues/154)
+    - [软技能] [你有自己的博客吗？平时自己有写一些技术文章吗？](https://github.com/haizlin/fe-interview/issues/155)
 
-- 第26天 (2019.05.12)
-    - [html] [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
-    - [css] [说说你对z-index的理解](https://github.com/haizlin/fe-interview/issues/91)
-    - [js] [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
-    - [软技能] [你对Git的branch及工作流的理解是什么？](https://github.com/haizlin/fe-interview/issues/93)
+- 第40天 (2019.05.26)
+    - [html] [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
+    - [css] [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
+    - [js] [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
+    - [软技能] [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
 
-- 第25天 (2019.05.11)
-    - [html] [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
-    - [css] [在页面中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/haizlin/fe-interview/issues/87)
-    - [js] [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
-    - [软技能] [说说你工作中遇到过比较难的技术问题是什么？是如何解决的？](https://github.com/haizlin/fe-interview/issues/89)
+- 第39天 (2019.05.25)
+    - [html] [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
+    - [css] [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
+    - [js] [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
+    - [软技能] [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
 
-- 第24天 (2019.05.10)
-    - [html] [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
-    - [css] [你有用过CSS预处理器吗？喜欢用哪个？原理是什么？](https://github.com/haizlin/fe-interview/issues/83)
-    - [js] [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
-    - [软技能] [你经历过老板要求兼容IE吗？IE几？有什么感悟？](https://github.com/haizlin/fe-interview/issues/85)
+- 第38天 (2019.05.24)
+    - [html] [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
+    - [css] [实现单行文本居中和多行文本左对齐并超出显示"..."](https://github.com/haizlin/fe-interview/issues/141)
+    - [js] [说说你对eval的理解](https://github.com/haizlin/fe-interview/issues/142)
+    - [软技能] [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
 
-- 第23天 (2019.05.09)
-    - [html] [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)
-    - [css] [说说CSS的优先级是如何计算的？](https://github.com/haizlin/fe-interview/issues/79)
-    - [js] [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
-    - [软技能] [说说一件或几件（介绍下除了工作外）你觉得能为你面试加分的事](https://github.com/haizlin/fe-interview/issues/81)
+- 第37天 (2019.05.23)
+    - [html] [html5哪些标签可以优化SEO?](https://github.com/haizlin/fe-interview/issues/136)
+    - [css] [不使用border画出1px高的线，在不同浏览器的标准和怪异模式下都能保持效果一样](https://github.com/haizlin/fe-interview/issues/137)
+    - [js] [找到字符串中最长的单词，并返回它的长度](https://github.com/haizlin/fe-interview/issues/138)
+    - [软技能] [如果让你快速使用一门你不熟悉的新技术，你该怎么办？](https://github.com/haizlin/fe-interview/issues/139)
 
 - **[查看全部](category/history.md)**
+
+## 怎样学习
+- 不管题目懂与不懂都要先思考再百度，思考后一定要去写出来
+- 如果是原生js的题，不要依赖第三方库，如jquery等
+- 每天的题目都是独立的，不需要按顺序来，但建议每道题都去答下，有你会的和有你不会的，答了才知道
+- 不懂的题百度后，不要直接复制一大段过来，要用自己的话精简地总结概括出来
+
+## 起源
+> 故事起源于离职同事发来的一道求助面试题，然后在部门企业微信群里炸开了，答题完后大家觉得如果要是每天来一题，是不是会更爽呢？**以面代练**，突发其想说干就干，所以就有了这个开源仓库，只为利他利己！
+
+![起源图](https://github.com/haizlin/fe-interview/raw/master/resource/images/begin.jpg)
+
+## 交流讨论
+欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
+
+![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
 
 ## 特别感谢（排名不分先后）
 - [qq674785876](https://github.com/qq674785876)
@@ -100,6 +114,9 @@
 - 2019.05.12 — 与国际接轨，代码与学习无国界，所以添加了英文版本，后续会继续优化，先解决有的问题！
 - 2019.05.13 — star数突破300！
 - 2019.05.14 — issues题目数量突破100！继续努力前行！
+- 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
+- 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法
+- 2019.05.23 — 发现很多朋友都好奇这个开源项目，所以特加了本开源项目的四大宗旨。
 
 ## 在哪可以看到
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
@@ -107,11 +124,6 @@
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
 - 「前端剑解」 微信公众号（扫描下方二维码，每天同步更新）
-
-## 交流讨论
-欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
-
-![微信公众号和微信群](resource/images/qrcode.jpg)
 
 ## 转载说明
 > 近期，看到很多网络上的朋友滥用链接，包装了下就收费了，让有需要的朋友找不到最新的试题，违背了我的初衷，特添加了些声明：
@@ -122,4 +134,4 @@
   3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
 
 ## License
-[MIT](./LICENSE)
+[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)

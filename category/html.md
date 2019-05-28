@@ -2,8 +2,23 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.11
+> 最新：2019.05.26
 
+- [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
+- [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
+- [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
+- [html5哪些标签可以优化SEO?](https://github.com/haizlin/fe-interview/issues/136)
+- [HTML与XHTML二者有不同?](https://github.com/haizlin/fe-interview/issues/132)
+- [用一个div模拟textarea的实现](https://github.com/haizlin/fe-interview/issues/128)
+- [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
+- [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
+- [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
+- [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
+- [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
+- [你了解什么是无障碍web（WAI）吗？在开发过程中要怎么做呢？](https://github.com/haizlin/fe-interview/issues/102)
+- [说说你对`<meta>`标签的理解](https://github.com/haizlin/fe-interview/issues/98)
+- [说说你对影子(Shadow)DOM的了解](https://github.com/haizlin/fe-interview/issues/94)
+- [解释下你对GBK和UTF-8的理解？并说说页面上产生乱码的可能原因](https://github.com/haizlin/fe-interview/issues/90)
 - [请说说`<script>`、`<script async>`和`<script defer>`的区别](https://github.com/haizlin/fe-interview/issues/86)
 - [说说你对属性data-的理解](https://github.com/haizlin/fe-interview/issues/82)
 - [关于`<form>`标签的enctype属性你有哪些了解？](https://github.com/haizlin/fe-interview/issues/78)

@@ -2,8 +2,23 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.11
+> 最新：2019.05.26
 
+- [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
+- [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
+- [说说你对eval的理解](https://github.com/haizlin/fe-interview/issues/142)
+- [找到字符串中最长的单词，并返回它的长度](https://github.com/haizlin/fe-interview/issues/138)
+- [请手写一个幻灯片的效果](https://github.com/haizlin/fe-interview/issues/134)
+- [请你解释一个为什么10.toFixed(10)会报错？](https://github.com/haizlin/fe-interview/issues/130)
+- [请用canvas写一个关于520浪漫表白的代码](https://github.com/haizlin/fe-interview/issues/124)
+- [说说你对this的理解](https://github.com/haizlin/fe-interview/issues/120)
+- [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
+- [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
+- [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
+- [写一个获取数组的最大值、最小值的方法](https://github.com/haizlin/fe-interview/issues/104)
+- [解释下这段代码的意思！](https://github.com/haizlin/fe-interview/issues/100)
+- [说说你对arguments的理解，它是数组吗？](https://github.com/haizlin/fe-interview/issues/96)
+- [说说bind、call、apply的区别？并手写实现一个bind的方法](https://github.com/haizlin/fe-interview/issues/92)
 - [写一个判断设备来源的方法](https://github.com/haizlin/fe-interview/issues/88)
 - [如何快速让一个数组乱序，写出来](https://github.com/haizlin/fe-interview/issues/84)
 - [0.1 + 0.2、0.1 + 0.3和0.1 * 0.2分别等于多少？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/80)
