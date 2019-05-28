@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第42天 (2019.05.28)
+    - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
+    - [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
+    - [js] [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
+    - [软技能] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
+
 - 第41天 (2019.05.27)
     - [html] [webSocket怎么做兼容处理？](https://github.com/haizlin/fe-interview/issues/152)
     - [css] [怎么让英文单词的首字母大写？](https://github.com/haizlin/fe-interview/issues/153)
