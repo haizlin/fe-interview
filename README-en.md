@@ -27,10 +27,10 @@
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
 ## Today's Interview Question (2019.05.29) —— 43 days
-- [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/160)
-- [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/161)
-- [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/162)
-- [软技能] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/163)
+- [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
+- [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/162)
+- [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
+- [软技能] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,12 +76,6 @@
     - [css] [实现单行文本居中和多行文本左对齐并超出显示"..."](https://github.com/haizlin/fe-interview/issues/141)
     - [js] [说说你对eval的理解](https://github.com/haizlin/fe-interview/issues/142)
     - [skill] [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
-
-- 37 days (2019.05.23)
-    - [html] [html5哪些标签可以优化SEO?](https://github.com/haizlin/fe-interview/issues/136)
-    - [css] [不使用border画出1px高的线，在不同浏览器的标准和怪异模式下都能保持效果一样](https://github.com/haizlin/fe-interview/issues/137)
-    - [js] [找到字符串中最长的单词，并返回它的长度](https://github.com/haizlin/fe-interview/issues/138)
-    - [skill] [如果让你快速使用一门你不熟悉的新技术，你该怎么办？](https://github.com/haizlin/fe-interview/issues/139)
 
 - **[All](category/history.md)**
 
