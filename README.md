@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.28) —— 第42天
-- [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
-- [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
-- [js] [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
-- [软技能] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
+## 今天的面试题 (2019.05.29) —— 第43天
+- [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/160)
+- [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/161)
+- [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/162)
+- [软技能] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/163)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -44,6 +44,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第42天 (2019.05.28)
+    - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
+    - [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
+    - [js] [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
+    - [软技能] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
 
 - 第41天 (2019.05.27)
     - [html] [webSocket怎么做兼容处理？](https://github.com/haizlin/fe-interview/issues/152)
