@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第43天 (2019.05.29)（感谢：邓旭辉 提供的题目）
+    - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
+    - [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
+    - [js] [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
+    - [软技能] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
+
 - 第42天 (2019.05.28)
     - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
     - [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
@@ -43,7 +49,7 @@
     - [js] [请手写一个幻灯片的效果](https://github.com/haizlin/fe-interview/issues/134)
     - [软技能] [对于前端安全，你了解多少？说说你对XSS和CSRF的理解](https://github.com/haizlin/fe-interview/issues/135)
 
-- 第35天 (2019.05.21)
+- 第35天 (2019.05.21)（第35天，感谢：九旬大爷的梦 提供的题目）
     - [html] [用一个div模拟textarea的实现](https://github.com/haizlin/fe-interview/issues/128)
     - [css] [使用flex实现三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/129)
     - [js] [请你解释一个为什么10.toFixed(10)会报错？](https://github.com/haizlin/fe-interview/issues/130)

@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.29) —— 第43天（感谢：邓旭辉 提供的题目）
-- [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
-- [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/162)
-- [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
-- [软技能] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
+## 今天的面试题 (2019.05.30) —— 第44天
+- [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
+- [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
+- [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
+- [软技能] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -44,6 +44,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第43天 (2019.05.29)（感谢：邓旭辉 提供的题目）
+    - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
+    - [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
+    - [js] [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
+    - [软技能] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
 
 - 第42天 (2019.05.28)
     - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
@@ -68,12 +74,6 @@
     - [css] [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
     - [js] [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
     - [软技能] [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
-
-- 第38天 (2019.05.24)
-    - [html] [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
-    - [css] [实现单行文本居中和多行文本左对齐并超出显示"..."](https://github.com/haizlin/fe-interview/issues/141)
-    - [js] [说说你对eval的理解](https://github.com/haizlin/fe-interview/issues/142)
-    - [软技能] [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
 
 - **[查看全部](category/history.md)**
 

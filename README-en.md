@@ -26,11 +26,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.05.29) —— 43 days
-- [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
-- [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/162)
-- [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
-- [软技能] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
+## Today's Interview Question (2019.05.30) —— 44 days
+- [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
+- [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
+- [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
+- [skill] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -47,11 +47,17 @@
 ## History
 - **[All](category/history.md)**
 
+- 43 days (2019.05.29)
+    - [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
+    - [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/162)
+    - [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
+    - [skill] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
+
 - 42 days (2019.05.28)
     - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
     - [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
     - [js] [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
-    - [软技能] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
+    - [skill] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
 
 - 41 days (2019.05.27)
     - [html] [webSocket怎么做兼容处理？](https://github.com/haizlin/fe-interview/issues/152)
@@ -70,12 +76,6 @@
     - [css] [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
     - [js] [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
     - [skill] [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
-
-- 38 days (2019.05.24)
-    - [html] [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
-    - [css] [实现单行文本居中和多行文本左对齐并超出显示"..."](https://github.com/haizlin/fe-interview/issues/141)
-    - [js] [说说你对eval的理解](https://github.com/haizlin/fe-interview/issues/142)
-    - [skill] [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
 
 - **[All](category/history.md)**
 
