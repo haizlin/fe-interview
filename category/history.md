@@ -1,11 +1,17 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第44天 (2019.05.30)
+    - [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
+    - [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
+    - [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
+    - [软技能] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
+
 - 第43天 (2019.05.29)（感谢：邓旭辉 提供的题目）
-    - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
-    - [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
-    - [js] [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
-    - [软技能] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
+    - [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
+    - [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/162)
+    - [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
+    - [软技能] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
 
 - 第42天 (2019.05.28)
     - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
@@ -49,7 +55,7 @@
     - [js] [请手写一个幻灯片的效果](https://github.com/haizlin/fe-interview/issues/134)
     - [软技能] [对于前端安全，你了解多少？说说你对XSS和CSRF的理解](https://github.com/haizlin/fe-interview/issues/135)
 
-- 第35天 (2019.05.21)（第35天，感谢：九旬大爷的梦 提供的题目）
+- 第35天 (2019.05.21)（感谢：九旬大爷的梦 提供的题目）
     - [html] [用一个div模拟textarea的实现](https://github.com/haizlin/fe-interview/issues/128)
     - [css] [使用flex实现三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/129)
     - [js] [请你解释一个为什么10.toFixed(10)会报错？](https://github.com/haizlin/fe-interview/issues/130)

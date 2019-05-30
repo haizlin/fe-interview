@@ -26,11 +26,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.05.30) —— 44 days
-- [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
-- [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
-- [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
-- [skill] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
+## Today's Interview Question (2019.05.31) —— 45 days
+- [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
+- [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
+- [js] [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
+- [软技能] [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -46,6 +46,12 @@
 
 ## History
 - **[All](category/history.md)**
+
+- 44 days (2019.05.30)
+    - [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
+    - [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
+    - [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
+    - [skill] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
 
 - 43 days (2019.05.29)
     - [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)

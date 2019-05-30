@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.30) —— 第44天
-- [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
-- [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
-- [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
-- [软技能] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
+## 今天的面试题 (2019.05.31) —— 第45天
+- [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
+- [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
+- [js] [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
+- [软技能] [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -45,11 +45,17 @@
 ## 历史面试题
 - **[查看全部](category/history.md)**
 
+- 第44天 (2019.05.30)
+    - [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
+    - [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
+    - [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
+    - [软技能] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
+
 - 第43天 (2019.05.29)（感谢：邓旭辉 提供的题目）
-    - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
-    - [css] [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
-    - [js] [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
-    - [软技能] [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
+    - [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
+    - [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/162)
+    - [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
+    - [软技能] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
 
 - 第42天 (2019.05.28)
     - [html] [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
@@ -68,12 +74,6 @@
     - [css] [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
     - [js] [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
     - [软技能] [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
-
-- 第39天 (2019.05.25)
-    - [html] [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
-    - [css] [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
-    - [js] [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
-    - [软技能] [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
 
 - **[查看全部](category/history.md)**
 
