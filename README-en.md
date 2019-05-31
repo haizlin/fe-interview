@@ -26,11 +26,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.05.31) —— 45 days
-- [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
-- [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
-- [js] [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
-- [软技能] [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
+## Today's Interview Question (2019.06.01) —— 46 days
+- [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
+- [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
+- [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
+- [skill] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -46,6 +46,12 @@
 
 ## History
 - **[All](category/history.md)**
+
+- 45 days (2019.05.31)
+    - [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
+    - [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
+    - [js] [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
+    - [skill] [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
 
 - 44 days (2019.05.30)
     - [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
@@ -76,12 +82,6 @@
     - [css] [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
     - [js] [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
     - [skill] [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
-
-- 39 days (2019.05.25)
-    - [html] [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
-    - [css] [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
-    - [js] [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
-    - [skill] [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
 
 - **[All](category/history.md)**
 

@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.05.31) —— 第45天
-- [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
-- [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
-- [js] [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
-- [软技能] [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
+## 今天的面试题 (2019.06.01) —— 第46天
+- [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
+- [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
+- [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
+- [软技能] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -44,6 +44,12 @@
 
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第45天 (2019.05.31)
+    - [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
+    - [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
+    - [js] [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
+    - [软技能] [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
 
 - 第44天 (2019.05.30)
     - [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
@@ -68,12 +74,6 @@
     - [css] [怎么让英文单词的首字母大写？](https://github.com/haizlin/fe-interview/issues/153)
     - [js] [说说你对IIFE的理解](https://github.com/haizlin/fe-interview/issues/154)
     - [软技能] [你有自己的博客吗？平时自己有写一些技术文章吗？](https://github.com/haizlin/fe-interview/issues/155)
-
-- 第40天 (2019.05.26)
-    - [html] [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
-    - [css] [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
-    - [js] [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
-    - [软技能] [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
 
 - **[查看全部](category/history.md)**
 

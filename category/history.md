@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第45天 (2019.05.31)
+    - [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
+    - [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
+    - [js] [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
+    - [软技能] [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
+
 - 第44天 (2019.05.30)
     - [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
     - [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
