@@ -1,4 +1,4 @@
-# 周汇总 2019.05.26
+# 周汇总 2019.06.02
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -10,6 +10,13 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 
 ## html
+- [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
+- [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
+- [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
+- [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
+- [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
+- [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
+- [webSocket怎么做兼容处理？](https://github.com/haizlin/fe-interview/issues/152)
 - [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
 - [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
 - [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
@@ -51,6 +58,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
+- [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
+- [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
+- [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
+- [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/162)
+- [重置（初始化）css的作用是什么？](https://github.com/haizlin/fe-interview/issues/158)
+- [怎么让英文单词的首字母大写？](https://github.com/haizlin/fe-interview/issues/153)
 - [怎么才能让图文不可复制？](https://github.com/haizlin/fe-interview/issues/149)
 - [写出你知道的CSS水平和垂直居中的方法](https://github.com/haizlin/fe-interview/issues/145)
 - [实现单行文本居中和多行文本左对齐并超出显示"..."](https://github.com/haizlin/fe-interview/issues/141)
@@ -92,6 +106,13 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
+- [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
+- [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
+- [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
+- [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
+- [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
+- [说说你对IIFE的理解](https://github.com/haizlin/fe-interview/issues/154)
 - [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
 - [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
 - [说说你对eval的理解](https://github.com/haizlin/fe-interview/issues/142)
@@ -132,6 +153,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
+- [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
+- [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
+- [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
+- [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
+- [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
+- [你有自己的博客吗？平时自己有写一些技术文章吗？](https://github.com/haizlin/fe-interview/issues/155)
 - [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
 - [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
 - [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
