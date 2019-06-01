@@ -26,11 +26,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.06.01) —— 46 days
-- [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
-- [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
-- [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
-- [skill] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
+## Today's Interview Question (2019.06.02) —— 47 days
+- [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
+- [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
+- [js] [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
+- [skill] [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -46,6 +46,12 @@
 
 ## History
 - **[All](category/history.md)**
+
+- 46 days (2019.06.01)
+    - [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
+    - [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
+    - [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
+    - [skill] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
 
 - 45 days (2019.05.31)
     - [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)

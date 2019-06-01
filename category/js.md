@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.26
+> 最新：2019.06.02
 
+- [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
+- [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
+- [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
+- [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
+- [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
+- [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
+- [说说你对IIFE的理解](https://github.com/haizlin/fe-interview/issues/154)
 - [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
 - [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)
 - [说说你对eval的理解](https://github.com/haizlin/fe-interview/issues/142)
@@ -35,6 +42,7 @@
 - [写一个获取当前url查询字符串中的参数的方法](https://github.com/haizlin/fe-interview/issues/36)
 - [简要描述下JS有哪些内置的对象](https://github.com/haizlin/fe-interview/issues/33)
 - [简要描述下什么是回调函数并写一个例子出来](https://github.com/haizlin/fe-interview/issues/30)
+- [写一个判断数据类型的方法](https://github.com/haizlin/fe-interview/issues/27)
 - [写一个加密字符串的方法](https://github.com/haizhilin2013/interview/issues/24)
 - [统计某一字符或字符串在另一个字符串中出现的次数](https://github.com/haizhilin2013/interview/issues/21)
 - [写一个去除制表符和换行符的方法](https://github.com/haizhilin2013/interview/issues/18)

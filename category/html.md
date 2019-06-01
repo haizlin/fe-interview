@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.26
+> 最新：2019.06.02
 
+- [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
+- [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
+- [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
+- [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
+- [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
+- [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
+- [webSocket怎么做兼容处理？](https://github.com/haizlin/fe-interview/issues/152)
 - [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
 - [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
 - [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)

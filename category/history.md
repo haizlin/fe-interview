@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第46天 (2019.06.01)
+    - [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
+    - [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
+    - [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
+    - [软技能] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
+
 - 第45天 (2019.05.31)
     - [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
     - [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)

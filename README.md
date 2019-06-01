@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.01) —— 第46天
-- [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
-- [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
-- [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
-- [软技能] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
+## 今天的面试题 (2019.06.02) —— 第47天
+- [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
+- [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
+- [js] [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
+- [软技能] [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -42,8 +42,30 @@
 - 汇总  
     [周](category/week.md)
 
+## 第1、2、3天的面试题
+- 第1天 (2019.04.17)
+    - [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
+    - [css] [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)
+    - [js] [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizlin/fe-interview/issues/3)
+
+- 第2天 (2019.04.18)
+    - [html] [html的元素有哪些（包含H5）？](https://github.com/haizlin/fe-interview/issues/4)
+    - [css] [CSS3有哪些新增的特性？](https://github.com/haizlin/fe-interview/issues/5)
+    - [js] [写一个方法去掉字符串中的空格](https://github.com/haizlin/fe-interview/issues/6)
+
+- 第3天 (2019.04.19)
+    - [html] [HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizlin/fe-interview/issues/7)
+    - [css] [在页面上隐藏元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/8)
+    - [js] [去除字符串中最后一个指定的字符](https://github.com/haizlin/fe-interview/issues/9)
+
 ## 历史面试题
 - **[查看全部](category/history.md)**
+
+- 第46天 (2019.06.01)
+    - [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
+    - [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
+    - [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
+    - [软技能] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
 
 - 第45天 (2019.05.31)
     - [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
@@ -115,8 +137,10 @@
 - 2019.05.13 — star数突破300！
 - 2019.05.14 — issues题目数量突破100！继续努力前行！
 - 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
-- 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法
+- 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法。
 - 2019.05.23 — 发现很多朋友都好奇这个开源项目，所以特加了本开源项目的四大宗旨。
+- 2019.06.01 — 为了指引新关注的朋友，就把第1、2、3天的题也显示出来了。
+- 2019.06.01 — 世上本无竞争，只是参与的人多了而已，特加了相关优质开源项目的链接，欢迎大家关注，找到适合自己的。
 
 ## 在哪可以看到
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
@@ -124,6 +148,20 @@
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
 - 「前端剑解」 微信公众号（扫描下方二维码，每天同步更新）
+
+## 友情链接（大家有好的开源项目，欢迎推荐）
+* [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+* [刘小夕](https://github.com/YvetteLau/Step-By-Step)
+* [每周面试题](https://github.com/airuikun/Weekly-FE-Interview)
+* [CS-Notes](https://github.com/CyC2018/CS-Notes)
+* [前端晚练课](https://github.com/fezaoduke/fe-practice-hard)
+* [每日一题](https://juejin.im/user/5c31b0176fb9a049f7465912)
+* [前端词典](https://juejin.im/user/5b6d656ef265da0f7c4ff4fd/posts)
+* [前端漫谈](https://juejin.im/user/585a2f52128fe10069ba1b95/posts)
+* [前端帮帮忙](https://juejin.im/user/57b26b806be3ff006bb97122/posts)
+* [面试官](https://juejin.im/user/58d8cd0644d9040069433edb/posts)
+* 洞见前端小程序-(微信搜索)
+* 前端荣耀小程序-(微信搜索)
 
 ## 转载说明
 > 近期，看到很多网络上的朋友滥用链接，包装了下就收费了，让有需要的朋友找不到最新的试题，违背了我的初衷，特添加了些声明：

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.26
+> 最新：2019.06.02
 
+- [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
+- [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
+- [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
+- [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
+- [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
+- [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
+- [你有自己的博客吗？平时自己有写一些技术文章吗？](https://github.com/haizlin/fe-interview/issues/155)
 - [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
 - [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
 - [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
