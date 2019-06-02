@@ -26,11 +26,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.06.02) —— 47 days
-- [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
-- [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
-- [js] [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
-- [skill] [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
+## Today's Interview Question (2019.06.03) —— 48 days
+- [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
+- [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
+- [js] [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
+- [skill] [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -46,6 +46,12 @@
 
 ## History
 - **[All](category/history.md)**
+
+- 47 days (2019.06.02)
+    - [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
+    - [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
+    - [js] [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
+    - [skill] [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
 
 - 46 days (2019.06.01)
     - [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)

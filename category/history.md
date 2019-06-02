@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第47天 (2019.06.02)
+    - [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
+    - [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
+    - [js] [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
+    - [软技能] [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
+
 - 第46天 (2019.06.01)
     - [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
     - [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
