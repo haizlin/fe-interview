@@ -26,11 +26,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.06.03) —— 48 days
-- [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
-- [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
-- [js] [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
-- [skill] [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
+## Today's Interview Question (2019.06.04) —— 49 days
+- [html] [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
+- [css] [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)
+- [js] [写个还剩下多少天过年的倒计时](https://github.com/haizlin/fe-interview/issues/187)
+- [skill] [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -46,6 +46,12 @@
 
 ## History
 - **[All](category/history.md)**
+
+- 48 days (2019.06.03)
+    - [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
+    - [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
+    - [js] [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
+    - [skill] [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
 
 - 47 days (2019.06.02)
     - [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
@@ -70,12 +76,6 @@
     - [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
     - [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
     - [skill] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
-
-- 43 days (2019.05.29)
-    - [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
-    - [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/162)
-    - [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
-    - [skill] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
 
 - **[All](category/history.md)**
 
@@ -119,6 +119,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
 - 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法
 - 2019.05.23 — 发现很多朋友都好奇这个开源项目，所以特加了本开源项目的四大宗旨。
+- 2019.06.01 — 世上本无竞争，只是参与的人多了而已，特加了相关优质开源项目的链接，欢迎大家关注，找到适合自己的。
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
@@ -126,6 +127,20 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）
+
+## Friendship Links (you have good open source projects, welcome to recommend)
+* [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)
+* [刘小夕](https://github.com/YvetteLau/Step-By-Step)
+* [每周面试题](https://github.com/airuikun/Weekly-FE-Interview)
+* [CS-Notes](https://github.com/CyC2018/CS-Notes)
+* [前端晚练课](https://github.com/fezaoduke/fe-practice-hard)
+* [每日一题](https://juejin.im/user/5c31b0176fb9a049f7465912)
+* [前端词典](https://juejin.im/user/5b6d656ef265da0f7c4ff4fd/posts)
+* [前端漫谈](https://juejin.im/user/585a2f52128fe10069ba1b95/posts)
+* [前端帮帮忙](https://juejin.im/user/57b26b806be3ff006bb97122/posts)
+* [面试官](https://juejin.im/user/58d8cd0644d9040069433edb/posts)
+* 洞见前端小程序-(微信搜索)
+* 前端荣耀小程序-(微信搜索)
 
 ## Reprint
 > Recently, many friends on the Internet abused links, packaged and charged, so that needy friends can not find the latest test questions, contrary to my original intention, added some statements:

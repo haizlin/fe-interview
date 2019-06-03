@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.03) —— 第48天
-- [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
-- [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
-- [js] [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
-- [软技能] [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
+## 今天的面试题 (2019.06.04) —— 第49天
+- [html] [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
+- [css] [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)
+- [js] [写个还剩下多少天过年的倒计时](https://github.com/haizlin/fe-interview/issues/187)
+- [软技能] [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -61,6 +61,12 @@
 ## 历史面试题
 - **[查看全部](category/history.md)**
 
+- 第48天 (2019.06.03)
+    - [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
+    - [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
+    - [js] [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
+    - [软技能] [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
+
 - 第47天 (2019.06.02)
     - [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
     - [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
@@ -84,12 +90,6 @@
     - [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
     - [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
     - [软技能] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
-
-- 第43天 (2019.05.29)（感谢：邓旭辉 提供的题目）
-    - [html] [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
-    - [css] [span与span之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/haizlin/fe-interview/issues/162)
-    - [js] [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
-    - [软技能] [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
 
 - **[查看全部](category/history.md)**
 

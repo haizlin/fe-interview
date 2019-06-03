@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第48天 (2019.06.03)
+    - [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
+    - [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
+    - [js] [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
+    - [软技能] [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
+
 - 第47天 (2019.06.02)
     - [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
     - [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
