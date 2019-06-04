@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第49天 (2019.06.04)
+    - [html] [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
+    - [css] [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)
+    - [js] [写个还剩下多少天过年的倒计时](https://github.com/haizlin/fe-interview/issues/187)
+    - [软技能] [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
+
 - 第48天 (2019.06.03)
     - [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
     - [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)

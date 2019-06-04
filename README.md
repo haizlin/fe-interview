@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.04) —— 第49天
-- [html] [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
-- [css] [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)
-- [js] [写个还剩下多少天过年的倒计时](https://github.com/haizlin/fe-interview/issues/187)
-- [软技能] [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
+## 今天的面试题 (2019.06.05) —— 第50天
+- [html] [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
+- [css] [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
+- [js] [请写出一个函数求出N的阶乘（即N!）](https://github.com/haizlin/fe-interview/issues/191)
+- [软技能] [说说你对http、https的理解](https://github.com/haizlin/fe-interview/issues/192)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -61,6 +61,12 @@
 ## 历史面试题
 - **[查看全部](category/history.md)**
 
+- 第49天 (2019.06.04)
+    - [html] [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
+    - [css] [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)
+    - [js] [写个还剩下多少天过年的倒计时](https://github.com/haizlin/fe-interview/issues/187)
+    - [软技能] [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
+
 - 第48天 (2019.06.03)
     - [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
     - [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
@@ -84,12 +90,6 @@
     - [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
     - [js] [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
     - [软技能] [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
-
-- 第44天 (2019.05.30)
-    - [html] [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
-    - [css] [手写一个满屏品字布局的方案](https://github.com/haizlin/fe-interview/issues/166)
-    - [js] [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
-    - [软技能] [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
 
 - **[查看全部](category/history.md)**
 
