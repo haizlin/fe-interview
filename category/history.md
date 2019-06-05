@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第50天 (2019.06.05)
+    - [html] [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
+    - [css] [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
+    - [js] [请写出一个函数求出N的阶乘（即N!）](https://github.com/haizlin/fe-interview/issues/191)
+    - [软技能] [说说你对http、https的理解](https://github.com/haizlin/fe-interview/issues/192)
+
 - 第49天 (2019.06.04)
     - [html] [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
     - [css] [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)

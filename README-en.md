@@ -26,11 +26,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.06.05) —— 50 days
-- [html] [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
-- [css] [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
-- [js] [请写出一个函数求出N的阶乘（即N!）](https://github.com/haizlin/fe-interview/issues/191)
-- [skill] [说说你对http、https的理解](https://github.com/haizlin/fe-interview/issues/192)
+## Today's Interview Question (2019.06.06) —— 51 days
+- [html] [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
+- [css] [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
+- [js] [字符串相连有哪些方式？哪种最好？为什么？](https://github.com/haizlin/fe-interview/issues/200)
+- [skill] [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -46,6 +46,12 @@
 
 ## History
 - **[All](category/history.md)**
+
+- 50 days (2019.06.05)
+    - [html] [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
+    - [css] [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
+    - [js] [请写出一个函数求出N的阶乘（即N!）](https://github.com/haizlin/fe-interview/issues/191)
+    - [skill] [说说你对http、https的理解](https://github.com/haizlin/fe-interview/issues/192)
 
 - 49 days (2019.06.04)
     - [html] [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
@@ -70,12 +76,6 @@
     - [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
     - [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
     - [skill] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
-
-- 45 days (2019.05.31)
-    - [html] [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
-    - [css] [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
-    - [js] [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
-    - [skill] [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
 
 - **[All](category/history.md)**
 
