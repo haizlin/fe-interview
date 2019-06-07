@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.06) —— 第51天
-- [html] [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
-- [css] [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
-- [js] [字符串相连有哪些方式？哪种最好？为什么？](https://github.com/haizlin/fe-interview/issues/200)
-- [软技能] [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
+## 今天的面试题 (2019.06.07) —— 第52天
+- [html] [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
+- [css] [要是position跟display、overflow、float这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/203)
+- [js] [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
+- [软技能] [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -61,6 +61,12 @@
 ## 历史面试题
 - **[查看全部](category/history.md)**
 
+- 第51天 (2019.06.06)
+    - [html] [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
+    - [css] [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
+    - [js] [字符串相连有哪些方式？哪种最好？为什么？](https://github.com/haizlin/fe-interview/issues/200)
+    - [软技能] [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
+    
 - 第50天 (2019.06.05)
     - [html] [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
     - [css] [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
@@ -84,12 +90,6 @@
     - [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
     - [js] [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
     - [软技能] [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
-
-- 第46天 (2019.06.01)
-    - [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
-    - [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
-    - [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
-    - [软技能] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
 
 - **[查看全部](category/history.md)**
 
@@ -167,3 +167,4 @@
 
 ## License
 [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+151.101.228.133
