@@ -26,11 +26,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.06.06) —— 51 days
-- [html] [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
-- [css] [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
-- [js] [字符串相连有哪些方式？哪种最好？为什么？](https://github.com/haizlin/fe-interview/issues/200)
-- [skill] [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
+## Today's Interview Question (2019.06.08) —— 53 days
+- [html] [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/202)
+- [css] [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/203)
+- [js] [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/204)
+- [skill] [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/205)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -47,6 +47,24 @@
 ## History
 - **[All](category/history.md)**
 
+- 第53天 (2019.06.08)
+    - [html] [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/202)
+    - [css] [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/203)
+    - [js] [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/204)
+    - [skill] [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/205)
+
+- 第52天 (2019.06.07)
+    - [html] [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
+    - [css] [要是position跟display、overflow、float这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/203)
+    - [js] [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
+    - [skill] [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
+
+- 第51天 (2019.06.06)
+    - [html] [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
+    - [css] [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
+    - [js] [字符串相连有哪些方式？哪种最好？为什么？](https://github.com/haizlin/fe-interview/issues/200)
+    - [skill] [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
+
 - 50 days (2019.06.05)
     - [html] [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
     - [css] [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
@@ -58,24 +76,6 @@
     - [css] [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)
     - [js] [写个还剩下多少天过年的倒计时](https://github.com/haizlin/fe-interview/issues/187)
     - [skill] [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
-
-- 48 days (2019.06.03)
-    - [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
-    - [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
-    - [js] [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
-    - [skill] [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
-
-- 47 days (2019.06.02)
-    - [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
-    - [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
-    - [js] [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
-    - [skill] [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
-
-- 46 days (2019.06.01)
-    - [html] [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
-    - [css] [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
-    - [js] [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
-    - [skill] [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
 
 - **[All](category/history.md)**
 

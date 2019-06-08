@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.07) —— 第52天
-- [html] [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
-- [css] [要是position跟display、overflow、float这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/203)
-- [js] [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
-- [软技能] [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
+## 今天的面试题 (2019.06.08) —— 第53天
+- [html] [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/202)
+- [css] [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/203)
+- [js] [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/204)
+- [软技能] [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/205)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -61,6 +61,18 @@
 ## 历史面试题
 - **[查看全部](category/history.md)**
 
+- 第53天 (2019.06.08)
+    - [html] [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/202)
+    - [css] [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/203)
+    - [js] [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/204)
+    - [软技能] [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/205)
+
+- 第52天 (2019.06.07)
+    - [html] [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
+    - [css] [要是position跟display、overflow、float这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/203)
+    - [js] [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
+    - [软技能] [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
+
 - 第51天 (2019.06.06)
     - [html] [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
     - [css] [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
@@ -78,18 +90,6 @@
     - [css] [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)
     - [js] [写个还剩下多少天过年的倒计时](https://github.com/haizlin/fe-interview/issues/187)
     - [软技能] [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
-
-- 第48天 (2019.06.03)
-    - [html] [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
-    - [css] [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
-    - [js] [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
-    - [软技能] [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
-
-- 第47天 (2019.06.02)
-    - [html] [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
-    - [css] [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
-    - [js] [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
-    - [软技能] [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
 
 - **[查看全部](category/history.md)**
 

@@ -1,6 +1,24 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第53天 (2019.06.08)
+    - [html] [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/202)
+    - [css] [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/203)
+    - [js] [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/204)
+    - [软技能] [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/205)
+
+- 第52天 (2019.06.07)
+    - [html] [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
+    - [css] [要是position跟display、overflow、float这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/203)
+    - [js] [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
+    - [软技能] [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
+
+- 第51天 (2019.06.06)
+    - [html] [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
+    - [css] [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
+    - [js] [字符串相连有哪些方式？哪种最好？为什么？](https://github.com/haizlin/fe-interview/issues/200)
+    - [软技能] [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
+
 - 第50天 (2019.06.05)
     - [html] [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
     - [css] [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
