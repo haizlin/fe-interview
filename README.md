@@ -25,10 +25,10 @@
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
 ## 今天的面试题 (2019.06.08) —— 第53天
-- [html] [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/210)
-- [css] [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/209)
-- [js] [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/208)
-- [软技能] [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/207)
+- [html] [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/207)
+- [css] [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/208)
+- [js] [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/209)
+- [软技能] [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/210)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
