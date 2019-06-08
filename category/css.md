@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.02
+> 最新：2019.06.09
 
+- [css3的:nth-child和:nth-of-type的区别是什么？](https://github.com/haizlin/fe-interview/issues/208)
+- [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/208)
+- [要是position跟display、overflow、float这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/203)
+- [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
+- [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
+- [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)
+- [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
 - [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
 - [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
 - [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)

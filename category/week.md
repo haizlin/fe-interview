@@ -1,4 +1,4 @@
-# 周汇总 2019.06.02
+# 周汇总 2019.06.09
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -10,6 +10,13 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 
 ## html
+- [你有了解HTML5的地理定位吗？怎么使用？](https://github.com/haizlin/fe-interview/issues/207)
+- [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/207)
+- [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
+- [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
+- [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
+- [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
+- [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
 - [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
 - [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
 - [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
@@ -58,6 +65,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [css3的:nth-child和:nth-of-type的区别是什么？](https://github.com/haizlin/fe-interview/issues/208)
+- [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/208)
+- [要是position跟display、overflow、float这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/203)
+- [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
+- [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
+- [假如设计稿使用了非标准的字体，你该如何去实现它？](https://github.com/haizlin/fe-interview/issues/186)
+- [你知道全屏滚动的原理是什么吗？它用到了CSS的那些属性？](https://github.com/haizlin/fe-interview/issues/182)
 - [你是怎样抽离样式模块的？](https://github.com/haizlin/fe-interview/issues/178)
 - [说说你对媒体查询的理解](https://github.com/haizlin/fe-interview/issues/174)
 - [你知道的等高布局有多少种？写出来](https://github.com/haizlin/fe-interview/issues/170)
@@ -106,6 +120,13 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [写一个函数找出给定数组中的最大差值](https://github.com/haizlin/fe-interview/issues/209)
+- [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/209)
+- [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
+- [字符串相连有哪些方式？哪种最好？为什么？](https://github.com/haizlin/fe-interview/issues/200)
+- [请写出一个函数求出N的阶乘（即N!）](https://github.com/haizlin/fe-interview/issues/191)
+- [写个还剩下多少天过年的倒计时](https://github.com/haizlin/fe-interview/issues/187)
+- [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
 - [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
 - [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
 - [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
@@ -153,6 +174,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [和你的上级领导意见不一致时你该怎么办？](https://github.com/haizlin/fe-interview/issues/210)
+- [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/210)
+- [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
+- [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
+- [说说你对http、https的理解](https://github.com/haizlin/fe-interview/issues/192)
+- [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
+- [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
 - [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
 - [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
 - [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)

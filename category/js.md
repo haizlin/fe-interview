@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.02
+> 最新：2019.06.09
 
+- [写一个函数找出给定数组中的最大差值](https://github.com/haizlin/fe-interview/issues/209)
+- [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/209)
+- [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
+- [字符串相连有哪些方式？哪种最好？为什么？](https://github.com/haizlin/fe-interview/issues/200)
+- [请写出一个函数求出N的阶乘（即N!）](https://github.com/haizlin/fe-interview/issues/191)
+- [写个还剩下多少天过年的倒计时](https://github.com/haizlin/fe-interview/issues/187)
+- [你对事件循环有了解吗？说说看！](https://github.com/haizlin/fe-interview/issues/183)
 - [请说说你对事件冒泡机制的理解？](https://github.com/haizlin/fe-interview/issues/179)
 - [写一个使两个整数进行交换的方法（不能使用临时变量）](https://github.com/haizlin/fe-interview/issues/175)
 - [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.02
+> 最新：2019.06.09
 
+- [你有了解HTML5的地理定位吗？怎么使用？](https://github.com/haizlin/fe-interview/issues/207)
+- [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/207)
+- [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
+- [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
+- [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
+- [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
+- [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
 - [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
 - [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
 - [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)

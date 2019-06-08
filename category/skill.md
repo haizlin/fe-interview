@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.02
+> 最新：2019.06.09
 
+- [和你的上级领导意见不一致时你该怎么办？](https://github.com/haizlin/fe-interview/issues/210)
+- [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/210)
+- [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
+- [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
+- [说说你对http、https的理解](https://github.com/haizlin/fe-interview/issues/192)
+- [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
+- [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
 - [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
 - [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
 - [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
