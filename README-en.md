@@ -27,10 +27,10 @@
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
 ## Today's Interview Question (2019.06.11) —— 56 days
-- [html] [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/218)
-- [css] [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/219)
-- [js] [JSONP的原理是什么？解决什么问题？](https://github.com/haizlin/fe-interview/issues/220)
-- [skill] [说说你对域名收敛和域名发散的理解？分别在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/221)
+- [html] [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
+- [css] [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/220)
+- [js] [JSONP的原理是什么？解决什么问题？](https://github.com/haizlin/fe-interview/issues/221)
+- [软技能] [说说你对域名收敛和域名发散的理解？分别在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/222)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
