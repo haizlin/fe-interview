@@ -47,17 +47,22 @@
 ## History
 - **[All](category/history.md)**
 
-- 第54天 (2019.06.09)
-    - [html] [你有了解HTML5的地理定位吗？怎么使用？](https://github.com/haizlin/fe-interview/issues/211)
-    - [css] [css3的:nth-child和:nth-of-type的区别是什么？](https://github.com/haizlin/fe-interview/issues/212)
-    - [js] [写一个函数找出给定数组中的最大差值](https://github.com/haizlin/fe-interview/issues/213)
-    - [skill] [和你的上级领导意见不一致时你该怎么办？](https://github.com/haizlin/fe-interview/issues/214)
+- 第1天 (2019.04.17)
+    - [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
+    - [css] [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)
+    - [js] [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizlin/fe-interview/issues/3)
 
-- 第53天 (2019.06.08)
-    - [html] [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/207)
-    - [css] [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/208)
-    - [js] [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/209)
-    - [skill] [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/210)
+- 第2天 (2019.04.18)
+    - [html] [html的元素有哪些（包含H5）？](https://github.com/haizlin/fe-interview/issues/4)
+    - [css] [CSS3有哪些新增的特性？](https://github.com/haizlin/fe-interview/issues/5)
+    - [js] [写一个方法去掉字符串中的空格](https://github.com/haizlin/fe-interview/issues/6)
+
+- 第3天 (2019.04.19)
+    - [html] [HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizlin/fe-interview/issues/7)
+    - [css] [在页面上隐藏元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/8)
+    - [js] [去除字符串中最后一个指定的字符](https://github.com/haizlin/fe-interview/issues/9)
+
+…………  
 
 - 第52天 (2019.06.07)
     - [html] [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
@@ -65,17 +70,17 @@
     - [js] [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
     - [skill] [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
 
-- 第51天 (2019.06.06)
-    - [html] [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
-    - [css] [有用过Flex吗？简要说下你对它的了解](https://github.com/haizlin/fe-interview/issues/198)
-    - [js] [字符串相连有哪些方式？哪种最好？为什么？](https://github.com/haizlin/fe-interview/issues/200)
-    - [skill] [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
+- 第53天 (2019.06.08)
+    - [html] [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/207)
+    - [css] [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/208)
+    - [js] [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/209)
+    - [skill] [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/210)
 
-- 50 days (2019.06.05)
-    - [html] [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
-    - [css] [列举CSS优化、提高性能的方法](https://github.com/haizlin/fe-interview/issues/190)
-    - [js] [请写出一个函数求出N的阶乘（即N!）](https://github.com/haizlin/fe-interview/issues/191)
-    - [skill] [说说你对http、https的理解](https://github.com/haizlin/fe-interview/issues/192)
+- 第54天 (2019.06.09)
+    - [html] [你有了解HTML5的地理定位吗？怎么使用？](https://github.com/haizlin/fe-interview/issues/211)
+    - [css] [css3的:nth-child和:nth-of-type的区别是什么？](https://github.com/haizlin/fe-interview/issues/212)
+    - [js] [写一个函数找出给定数组中的最大差值](https://github.com/haizlin/fe-interview/issues/213)
+    - [skill] [和你的上级领导意见不一致时你该怎么办？](https://github.com/haizlin/fe-interview/issues/214)
 
 - **[All](category/history.md)**
 
