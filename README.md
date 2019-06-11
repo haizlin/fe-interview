@@ -125,7 +125,7 @@
 - [知乎专栏](https://zhuanlan.zhihu.com/fe-interview)（每天同步更新）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
-- 「前端剑解」 微信公众号（扫描下方二维码，每天同步更新）
+- 「前端剑解」 微信公众号（扫描上方二维码，每天同步更新）
 
 ## 友情链接（大家有好的开源项目，欢迎推荐）
 * [jsliang 的文档库](https://github.com/LiangJunrong/document-library)（每日一道 LeetCode，jsliang 带你进行每日折腾~）
