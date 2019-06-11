@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第56天 (2019.06.11)
+    - [html] [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
+    - [css] [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/220)
+    - [js] [JSONP的原理是什么？解决什么问题？](https://github.com/haizlin/fe-interview/issues/221)
+    - [软技能] [说说你对域名收敛和域名发散的理解？分别在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/222)
+
 - 第55天 (2019.06.10)
     - [html] [HTML5中新添加的表单属性有哪些？](https://github.com/haizlin/fe-interview/issues/215)
     - [css] [什么是视差滚动？如何实现视差滚动的效果？](https://github.com/haizlin/fe-interview/issues/216)

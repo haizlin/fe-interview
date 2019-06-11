@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.11) —— 第56天
-- [html] [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
-- [css] [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/220)
-- [js] [JSONP的原理是什么？解决什么问题？](https://github.com/haizlin/fe-interview/issues/221)
-- [软技能] [说说你对域名收敛和域名发散的理解？分别在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/222)
+## 今天的面试题 (2019.06.12) —— 第57天
+- [html] [你了解HTML5的download属性吗？](https://github.com/haizlin/fe-interview/issues/236)
+- [css] [inline、block、inline-block这三个属性值有什么区别？](https://github.com/haizlin/fe-interview/issues/237)
+- [js] [写一个方法，使得sum(x)(y)和sum(x,y)返回的结果相同](https://github.com/haizlin/fe-interview/issues/238)
+- [软技能] [说说你对浏览器的关键渲染路径的理解](https://github.com/haizlin/fe-interview/issues/239)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -62,17 +62,17 @@
 
 …………  
 
-- 第54天 (2019.06.09)
-    - [html] [你有了解HTML5的地理定位吗？怎么使用？](https://github.com/haizlin/fe-interview/issues/211)
-    - [css] [css3的:nth-child和:nth-of-type的区别是什么？](https://github.com/haizlin/fe-interview/issues/212)
-    - [js] [写一个函数找出给定数组中的最大差值](https://github.com/haizlin/fe-interview/issues/213)
-    - [软技能] [和你的上级领导意见不一致时你该怎么办？](https://github.com/haizlin/fe-interview/issues/214)
-
 - 第55天 (2019.06.10)
     - [html] [HTML5中新添加的表单属性有哪些？](https://github.com/haizlin/fe-interview/issues/215)
     - [css] [什么是视差滚动？如何实现视差滚动的效果？](https://github.com/haizlin/fe-interview/issues/216)
     - [js] [写出4个使用this的典型例子](https://github.com/haizlin/fe-interview/issues/217)
     - [软技能] [网站被劫持植入广告该怎么办？如何防止？](https://github.com/haizlin/fe-interview/issues/218)
+
+- 第56天 (2019.06.11)
+    - [html] [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
+    - [css] [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/220)
+    - [js] [JSONP的原理是什么？解决什么问题？](https://github.com/haizlin/fe-interview/issues/221)
+    - [软技能] [说说你对域名收敛和域名发散的理解？分别在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/222)
 
 - **[查看全部](category/history.md)**
 

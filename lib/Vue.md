@@ -14,3 +14,5 @@
 - [说下你对指令的理解？](https://github.com/haizlin/fe-interview/issues/230)
 - [说说你对MVC、MVP、MVVM模式的理解](https://github.com/haizlin/fe-interview/issues/231)
 - [v-show和v-if有什么区别？使用场景分别是什么？](https://github.com/haizlin/fe-interview/issues/232)
+- [你有写过自定义指令吗？自定义指令的生命周期（钩子函数）有哪些？](https://github.com/haizlin/fe-interview/issues/234)
+- [你有看过vue的源码吗？如果有那就说说看](https://github.com/haizlin/fe-interview/issues/235)
