@@ -127,6 +127,7 @@
 - 「前端剑解」 微信公众号（扫描下方二维码，每天同步更新）
 
 ## 友情链接（大家有好的开源项目，欢迎推荐）
+* [jsliang 的文档库](https://github.com/LiangJunrong/document-library)
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 * [刘小夕](https://github.com/YvetteLau/Step-By-Step)
 * [每周面试题](https://github.com/airuikun/Weekly-FE-Interview)
