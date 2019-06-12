@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第57天 (2019.06.12)
+    - [html] [你了解HTML5的download属性吗？](https://github.com/haizlin/fe-interview/issues/236)
+    - [css] [inline、block、inline-block这三个属性值有什么区别？](https://github.com/haizlin/fe-interview/issues/237)
+    - [js] [写一个方法，使得sum(x)(y)和sum(x,y)返回的结果相同](https://github.com/haizlin/fe-interview/issues/238)
+    - [软技能] [说说你对浏览器的关键渲染路径的理解](https://github.com/haizlin/fe-interview/issues/239)
+
 - 第56天 (2019.06.11)
     - [html] [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
     - [css] [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/220)
