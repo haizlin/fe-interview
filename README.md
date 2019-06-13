@@ -127,7 +127,7 @@
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
 - [知乎专栏](https://zhuanlan.zhihu.com/fe-interview)（每天同步更新）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
-- [简书](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
+- [简书](https://www.jianshu.com/c/1ba24fbe0006)（每天同步更新）
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
 - 「前端剑解」 微信公众号（扫描上方二维码，每天同步更新）
 

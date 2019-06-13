@@ -129,6 +129,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
 - [zhihu](https://zhuanlan.zhihu.com/fe-interview)（Daily Synchronized Updates）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
+- [jianshu](https://www.jianshu.com/c/1ba24fbe0006)Daily Synchronized Updates
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）
 
