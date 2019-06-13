@@ -20,17 +20,17 @@
 > Believe in the power of **perseverance**！！！
 
 ---
-- Learn without closing, strive to meet better oneself, 365 days without holidays, 5 a.m. every day to publish interview questions by hand.（**Knock oneself**）。
+- Learn without closing, strive to meet better oneself, 365 days without holidays, **5 a.m. every day** to publish interview questions by hand.（**Knock oneself**）。
 - I hope you can stay calm in this **grandiose** front-end circle and stick to spending 20 minutes a day studying and thinking.
 - In this ever-changing, class library emerges endlessly at the front end, I suggest that you do not wait until you find a job before brushing the test question, advocating daily learning! (Don't forget the beginning, html, css, JavaScript is the cornerstone!)
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.06.13) —— 58 days
-- [html] [HTML5相对于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/240)
-- [css] [box-sizing常用的属性有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/241)
-- [js] [请说下你对__proto__和prototype的理解](https://github.com/haizlin/fe-interview/issues/242)
-- [skill] [对于5G的到来，你是怎么看的？说说你的想法](https://github.com/haizlin/fe-interview/issues/243)
+## Today's Interview Question (2019.06.14) —— 59 days
+- [html] [有用地过WebGL吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/244)
+- [css] [你有用过哪些css框架？说说它们的特点](https://github.com/haizlin/fe-interview/issues/245)
+- [js] [写一个格式化金额的方法](https://github.com/haizlin/fe-interview/issues/246)
+- [skill] [对于让你接手一个你觉得很烂的老项目，你该怎么办？](https://github.com/haizlin/fe-interview/issues/247)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -64,17 +64,17 @@
 
 …………  
 
-- 56 days (2019.06.11)
-    - [html] [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
-    - [css] [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/220)
-    - [js] [JSONP的原理是什么？解决什么问题？](https://github.com/haizlin/fe-interview/issues/221)
-    - [skill] [说说你对域名收敛和域名发散的理解？分别在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/222)
-
 - 57 days (2019.06.12)
     - [html] [你了解HTML5的download属性吗？](https://github.com/haizlin/fe-interview/issues/236)
     - [css] [inline、block、inline-block这三个属性有什么区别？](https://github.com/haizlin/fe-interview/issues/237)
     - [js] [写一个方法，使得sum(x)(y)和sum(x,y)返回的结果相同](https://github.com/haizlin/fe-interview/issues/238)
     - [skill] [说说你对浏览器的关键渲染路径的理解](https://github.com/haizlin/fe-interview/issues/239)
+
+- 57 days (2019.06.12)
+    - [html] [HTML5相对于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/240)
+    - [css] [box-sizing常用的属性有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/241)
+    - [js] [请说下你对__proto__和prototype的理解](https://github.com/haizlin/fe-interview/issues/242)
+    - [skill] [对于5G的到来，你是怎么看的？说说你的想法](https://github.com/haizlin/fe-interview/issues/243)
 
 - **[All](category/history.md)**
 
@@ -99,6 +99,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - [undefinedYu](https://github.com/undefinedYu)
 - [qingleizhang123](https://github.com/qingleizhang123)
 - [yxkhaha](https://github.com/yxkhaha)
+- [Luke.Deng](https://github.com/xiangshuo1992)
 
 ## Events
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -121,6 +122,8 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.06.01 — 为了指引新关注的朋友，就把第1、2、3天的题也显示出来了。
 - 2019.06.03 — 世上本无竞争，只是参与的人多了而已，特加了相关优质开源项目的链接，欢迎大家关注，找到适合自己的。
 - 2019.06.11 — 添加了贡献指南，欢迎大家提PR。
+- 2019.06.13 — star数突破700！离5月13日刚好满一个月，增加了400，看来爱学习的朋友还是很多的！感谢关注！
+- 2019.06.14 — 同步开通了简书入口，让更多的朋友参与
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）

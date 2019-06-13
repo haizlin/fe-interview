@@ -18,17 +18,17 @@
 > 相信 **坚持** 的力量！！！
 
 ---
-- 学习不打烊，充电加油只为**遇到更好的自己**，365天无节假日，每天早上5点纯手工发布面试题（**死磕自己，愉悦大家**）。
+- 学习不打烊，充电加油只为**遇到更好的自己**，365天无节假日，**每天早上5点**纯手工发布面试题（**死磕自己，愉悦大家**）。
 - 希望大家在这**浮夸**的前端圈里，保持**冷静**，坚持每天花20分钟来学习与思考。
 - 在这千变万化，类库层出不穷的前端，建议大家不要等到找工作时，才狂刷题，提倡**每日学习**！（**不忘初心**，html、css、javascript才是基石！）
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.13) —— 第58天
-- [html] [HTML5相对于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/240)
-- [css] [box-sizing常用的属性有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/241)
-- [js] [请说下你对__proto__和prototype的理解](https://github.com/haizlin/fe-interview/issues/242)
-- [软技能] [对于5G的到来，你是怎么看的？说说你的想法](https://github.com/haizlin/fe-interview/issues/243)
+## 今天的面试题 (2019.06.14) —— 第59天
+- [html] [有用地过WebGL吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/244)
+- [css] [你有用过哪些css框架？说说它们的特点](https://github.com/haizlin/fe-interview/issues/245)
+- [js] [写一个格式化金额的方法](https://github.com/haizlin/fe-interview/issues/246)
+- [软技能] [对于让你接手一个你觉得很烂的老项目，你该怎么办？](https://github.com/haizlin/fe-interview/issues/247)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -62,17 +62,17 @@
 
 …………  
 
-- 第56天 (2019.06.11)
-    - [html] [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
-    - [css] [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/220)
-    - [js] [JSONP的原理是什么？解决什么问题？](https://github.com/haizlin/fe-interview/issues/221)
-    - [软技能] [说说你对域名收敛和域名发散的理解？分别在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/222)
-
 - 第57天 (2019.06.12)
     - [html] [你了解HTML5的download属性吗？](https://github.com/haizlin/fe-interview/issues/236)
     - [css] [inline、block、inline-block这三个属性值有什么区别？](https://github.com/haizlin/fe-interview/issues/237)
     - [js] [写一个方法，使得sum(x)(y)和sum(x,y)返回的结果相同](https://github.com/haizlin/fe-interview/issues/238)
     - [软技能] [说说你对浏览器的关键渲染路径的理解](https://github.com/haizlin/fe-interview/issues/239)
+
+- 第58天 (2019.06.13)
+    - [html] [HTML5相对于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/240)
+    - [css] [box-sizing常用的属性有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/241)
+    - [js] [请说下你对__proto__和prototype的理解](https://github.com/haizlin/fe-interview/issues/242)
+    - [软技能] [对于5G的到来，你是怎么看的？说说你的想法](https://github.com/haizlin/fe-interview/issues/243)
 
 - **[查看全部](category/history.md)**
 
@@ -97,6 +97,7 @@
 - [undefinedYu](https://github.com/undefinedYu)
 - [qingleizhang123](https://github.com/qingleizhang123)
 - [yxkhaha](https://github.com/yxkhaha)
+- [Luke.Deng](https://github.com/xiangshuo1992)
 
 ## 重大事件
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -119,11 +120,14 @@
 - 2019.06.01 — 为了指引新关注的朋友，就把第1、2、3天的题也显示出来了。
 - 2019.06.03 — 世上本无竞争，只是参与的人多了而已，特加了相关优质开源项目的链接，欢迎大家关注，找到适合自己的。
 - 2019.06.11 — 添加了贡献指南，欢迎大家提PR。
+- 2019.06.13 — star数突破700！离5月13日刚好满一个月，增加了400，看来爱学习的朋友还是很多的！感谢关注！
+- 2019.06.14 — 同步开通了简书入口，让更多的朋友参与
 
 ## 在哪可以看到
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
 - [知乎专栏](https://zhuanlan.zhihu.com/fe-interview)（每天同步更新）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
+- [简书](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
 - 「前端剑解」 微信公众号（扫描上方二维码，每天同步更新）
 
