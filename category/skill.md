@@ -2,8 +2,29 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.19
+> 最新：2019.06.09
 
+- [和你的上级领导意见不一致时你该怎么办？](https://github.com/haizlin/fe-interview/issues/210)
+- [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/210)
+- [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
+- [你写文档一般用什么工具？Markdown有用过吗？](https://github.com/haizlin/fe-interview/issues/201)
+- [说说你对http、https的理解](https://github.com/haizlin/fe-interview/issues/192)
+- [你有遇到过字体侵权的事吗？如何解决？](https://github.com/haizlin/fe-interview/issues/188)
+- [最近996一词很火，谈谈你对996的看法](https://github.com/haizlin/fe-interview/issues/184)
+- [如果HR说要做背调，还要你给出近三个月的银行流水，你该怎么办？](https://github.com/haizlin/fe-interview/issues/180)
+- [说说你对本项目的看法及建议](https://github.com/haizlin/fe-interview/issues/176)
+- [从你的角度上来讲，你觉得如何管理前端团队？](https://github.com/haizlin/fe-interview/issues/172)
+- [说说你对http、https、http2的理解](https://github.com/haizlin/fe-interview/issues/168)
+- [最近在学什么？能谈谈你未来3，5年给自己的规划吗？](https://github.com/haizlin/fe-interview/issues/164)
+- [你现在在团队是什么角色，有起到了什么显著的作用吗？](https://github.com/haizlin/fe-interview/issues/159)
+- [你有自己的博客吗？平时自己有写一些技术文章吗？](https://github.com/haizlin/fe-interview/issues/155)
+- [说说你对NodeJs的理解及用途](https://github.com/haizlin/fe-interview/issues/151)
+- [公钥加密和私钥加密是什么？](https://github.com/haizlin/fe-interview/issues/147)
+- [你知道网页三剑客指的是什么吗？你有用过Dreamwear吗？](https://github.com/haizlin/fe-interview/issues/143)
+- [如果让你快速使用一门你不熟悉的新技术，你该怎么办？](https://github.com/haizlin/fe-interview/issues/139)
+- [对于前端安全，你了解多少？说说你对XSS和CSRF的理解](https://github.com/haizlin/fe-interview/issues/135)
+- [谈一谈你知道的前端性能优化方案有哪些？](https://github.com/haizlin/fe-interview/issues/131)
+- [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
 - [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
 - [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
 - [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)

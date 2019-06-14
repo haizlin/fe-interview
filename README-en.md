@@ -1,3 +1,5 @@
+# Front-end interview **3+1** per day（Three questions per day）
+
 [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <!-- <p align="center"><a rel="noopener noreferrer"><img width="100" src="https://github.com/haizlin/fe-interview/raw/master/resource/images/logo.jpg" alt="fe-interview logo"></a></p> -->
@@ -10,7 +12,7 @@
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
 </p>
 
-# Front-end interview **3+1** per day（Three questions per day）
+## Four goals：diligent thinking，more hands-on，good summary，can adhere to   
 
 > "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day)。  
 > Front-end interview 3+1 per day，Driven by interview questions, make progress every day！  
@@ -18,17 +20,17 @@
 > Believe in the power of **perseverance**！！！
 
 ---
-- Learn without closing, strive to meet better oneself, 365 days without holidays, 5 a.m. every day to publish interview questions by hand.（**Knock oneself**）。
+- Learn without closing, strive to meet better oneself, 365 days without holidays, **5 a.m. every day** to publish interview questions by hand.（**Knock oneself**）。
 - I hope you can stay calm in this **grandiose** front-end circle and stick to spending 20 minutes a day studying and thinking.
 - In this ever-changing, class library emerges endlessly at the front end, I suggest that you do not wait until you find a job before brushing the test question, advocating daily learning! (Don't forget the beginning, html, css, JavaScript is the cornerstone!)
 - Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.05.20) —— 34 days
-- [html] [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
-- [css] [浏览器是怎样判断元素是否和某个CSS选择器匹配？](https://github.com/haizlin/fe-interview/issues/123)
-- [js] [请用canvas写一个关于520浪漫表白的代码](https://github.com/haizlin/fe-interview/issues/124)
-- [skill] [你了解什么是技术债务吗？](https://github.com/haizlin/fe-interview/issues/125)
+## Today's Interview Question (2019.06.14) —— 59 days
+- [html] [有用地过WebGL吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/244)
+- [css] [你有用过哪些css框架？说说它们的特点](https://github.com/haizlin/fe-interview/issues/245)
+- [js] [写一个格式化金额的方法](https://github.com/haizlin/fe-interview/issues/246)
+- [skill] [对于让你接手一个你觉得很烂的老项目，你该怎么办？](https://github.com/haizlin/fe-interview/issues/247)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -37,7 +39,7 @@
     [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [Skill](category/skill.md)
 
 - Topics(Please look forward to and welcome PR)  
-    [ES6](category/es6.md) | [jQuery](lib/jQuery.md) | [Vue](lib/Vue.md) | [React](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
+    [ES6](category/es6.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [Vue](lib/Vue.md) | [React](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
 
 - Summary  
     [week](category/week.md)
@@ -45,35 +47,34 @@
 ## History
 - **[All](category/history.md)**
 
-- 33 days (2019.05.19)
-    - [html] [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
-    - [css] [用CSS绘制一个三角形](https://github.com/haizlin/fe-interview/issues/119)
-    - [js] [说说你对this的理解](https://github.com/haizlin/fe-interview/issues/120)
-    - [skill] [你对全栈工程师的理解是什么？](https://github.com/haizlin/fe-interview/issues/121)
+- 1 days (2019.04.17)
+    - [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
+    - [css] [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)
+    - [js] [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizlin/fe-interview/issues/3)
 
-- 32 days (2019.05.18)
-    - [html] [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
-    - [css] [说下line-height三种赋值方式有何区别？](https://github.com/haizlin/fe-interview/issues/115)
-    - [js] [造成内存泄漏的操作有哪些？](https://github.com/haizlin/fe-interview/issues/116)
-    - [skill] [你在上一家公司工作流程是怎么样的，如何与其他人协作的？是怎样跨部门合作的？](https://github.com/haizlin/fe-interview/issues/117)
+- 2 days (2019.04.18)
+    - [html] [html的元素有哪些（包含H5）？](https://github.com/haizlin/fe-interview/issues/4)
+    - [css] [CSS3有哪些新增的特性？](https://github.com/haizlin/fe-interview/issues/5)
+    - [js] [写一个方法去掉字符串中的空格](https://github.com/haizlin/fe-interview/issues/6)
 
-- 31 days (2019.05.17)
-    - [html] [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
-    - [css] [让网页的字体变得清晰，变细用CSS怎么做？](https://github.com/haizlin/fe-interview/issues/111)
-    - [js] [写一个方法把0和1互转（0置1，1置0）](https://github.com/haizlin/fe-interview/issues/112)
-    - [skill] [对于有压力时，你是怎么抗压的？](https://github.com/haizlin/fe-interview/issues/113)
+- 3 days (2019.04.19)
+    - [html] [HTML全局属性(global attribute)有哪些（包含H5）？](https://github.com/haizlin/fe-interview/issues/7)
+    - [css] [在页面上隐藏元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/8)
+    - [js] [去除字符串中最后一个指定的字符](https://github.com/haizlin/fe-interview/issues/9)
 
-- 30 days (2019.05.16)
-    - [html] [网页上的验证码是为了解决什么问题？说说你了解的验证码种类有哪些](https://github.com/haizlin/fe-interview/issues/106)
-    - [css] [描述下你所了解的图片格式及使用场景](https://github.com/haizlin/fe-interview/issues/107)
-    - [js] [写一个方法判断字符串是否为回文字符串](https://github.com/haizlin/fe-interview/issues/108)
-    - [skill] [解释下CRLF是什么？](https://github.com/haizlin/fe-interview/issues/109)
+…………  
 
-- 29 days (2019.05.15)
-    - [html] [你了解什么是无障碍web（WAI）吗？在开发过程中要怎么做呢？](https://github.com/haizlin/fe-interview/issues/102)
-    - [css] [请描述css的权重计算规则](https://github.com/haizlin/fe-interview/issues/103)
-    - [js] [写一个获取数组的最大值、最小值的方法](https://github.com/haizlin/fe-interview/issues/104)
-    - [skill] [在工作中能让你最有成就感的是什么？并介绍下你最得意的作品吧](https://github.com/haizlin/fe-interview/issues/105)
+- 57 days (2019.06.12)
+    - [html] [你了解HTML5的download属性吗？](https://github.com/haizlin/fe-interview/issues/236)
+    - [css] [inline、block、inline-block这三个属性有什么区别？](https://github.com/haizlin/fe-interview/issues/237)
+    - [js] [写一个方法，使得sum(x)(y)和sum(x,y)返回的结果相同](https://github.com/haizlin/fe-interview/issues/238)
+    - [skill] [说说你对浏览器的关键渲染路径的理解](https://github.com/haizlin/fe-interview/issues/239)
+
+- 57 days (2019.06.12)
+    - [html] [HTML5相对于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/240)
+    - [css] [box-sizing常用的属性有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/241)
+    - [js] [请说下你对__proto__和prototype的理解](https://github.com/haizlin/fe-interview/issues/242)
+    - [skill] [对于5G的到来，你是怎么看的？说说你的想法](https://github.com/haizlin/fe-interview/issues/243)
 
 - **[All](category/history.md)**
 
@@ -98,6 +99,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - [undefinedYu](https://github.com/undefinedYu)
 - [qingleizhang123](https://github.com/qingleizhang123)
 - [yxkhaha](https://github.com/yxkhaha)
+- [Luke.Deng](https://github.com/xiangshuo1992)
 
 ## Events
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -116,16 +118,42 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.05.14 — issues题目数量突破100！继续努力前行！
 - 2019.05.15 — 加了技能图标，让README更美观，看着更舒服！
 - 2019.05.16 — 看到很多朋友直接复制一大段出来文字放到issues里，其实这样是不好的，看后也要用自己的话总结根据出来，所有添加了怎样学习的方法
+- 2019.05.23 — 发现很多朋友都好奇这个开源项目，所以特加了本开源项目的四大宗旨。
+- 2019.06.01 — 为了指引新关注的朋友，就把第1、2、3天的题也显示出来了。
+- 2019.06.03 — 世上本无竞争，只是参与的人多了而已，特加了相关优质开源项目的链接，欢迎大家关注，找到适合自己的。
+- 2019.06.11 — 添加了贡献指南，欢迎大家提PR。
+- 2019.06.13 — star数突破700！离5月13日刚好满一个月，增加了400，看来爱学习的朋友还是很多的！感谢关注！
+- 2019.06.14 — 同步开通了简书入口，让更多的朋友参与
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
 - [zhihu](https://zhuanlan.zhihu.com/fe-interview)（Daily Synchronized Updates）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
+- [jianshu](https://www.jianshu.com/c/1ba24fbe0006)Daily Synchronized Updates
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）
 
+## Friendship Links (you have good open source projects, welcome to recommend)
+* [jsliang 的文档库](https://github.com/LiangJunrong/document-library)（每日一道 LeetCode，jsliang 带你进行每日折腾~）
+* [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
+* [刘小夕](https://github.com/YvetteLau/Step-By-Step)（公众号【前端宇宙】作者刘小夕，我将和大家一起一步一个脚印，向前端专家迈进。）
+* [每周面试题](https://github.com/airuikun/Weekly-FE-Interview)（每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。）
+* [CS-Notes](https://github.com/CyC2018/CS-Notes)（技术面试必备基础知识、Leetcode 题解）
+* [前端晚练课](https://github.com/fezaoduke/fe-practice-hard)（前端早读课的姊妹篇，每天一个前端知识点，苦练前端真功夫）
+* [每日一题](https://juejin.im/user/5c31b0176fb9a049f7465912)（每日一题（开开森森学前端系列））
+* [前端词典](https://juejin.im/user/5b6d656ef265da0f7c4ff4fd/posts)（前端词典系列）
+* [前端漫谈](https://juejin.im/user/585a2f52128fe10069ba1b95/posts)（前端漫谈系列）
+* [前端帮帮忙](https://juejin.im/user/57b26b806be3ff006bb97122/posts)（前端帮帮忙系列）
+* [面试官](https://juejin.im/user/58d8cd0644d9040069433edb/posts)（面试官系列）
+* 洞见前端小程序-(微信搜索，非常有意思的小程序，刷题必备)
+* 前端荣耀小程序-(微信搜索，非常有意思的小程序，通关打卡还有排行榜)
+
+## Contribution
+Please read the [Contribution Guide](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md) before submitting PR
+Thank you to all the people who already contributed to 'Front-end interview **3+1** per day'!
+
 ## Reprint
-> Recently, many friends on the Internet abused links, packaged and charged, so that needy friends can not find the latest test questions, contrary to my original intention, added some statements:
+> Recently, many friends on the Internet abused links and abused questions, packaged and charged, so that needy friends can not find the latest test questions, contrary to my original intention, added some statements:
 
 - Statement:
   1. You can reprint all the interview questions in it anywhere, but please add the address of the warehouse, because you seldom update it after reprinting, but the warehouse will be updated on time every day.

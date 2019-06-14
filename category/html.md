@@ -2,8 +2,29 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.05.19
+> 最新：2019.06.09
 
+- [你有了解HTML5的地理定位吗？怎么使用？](https://github.com/haizlin/fe-interview/issues/207)
+- [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/207)
+- [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
+- [Form表单是怎么上传文件的？你了解它的原理吗？](https://github.com/haizlin/fe-interview/issues/198)
+- [Ajax与Flash的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/189)
+- [说说你对target="_blank"的理解？有啥安全性问题？如何防范？](https://github.com/haizlin/fe-interview/issues/185)
+- [说说你对WEB标准和W3C的理解与认识？](https://github.com/haizlin/fe-interview/issues/181)
+- [HTML5如何使用音频和视频？](https://github.com/haizlin/fe-interview/issues/177)
+- [页面中怎么嵌入Flash？有哪些方法？写出来](https://github.com/haizlin/fe-interview/issues/173)
+- [xml与html有什么区别？](https://github.com/haizlin/fe-interview/issues/169)
+- [说说video标签中预加载视频用到的属性是什么？](https://github.com/haizlin/fe-interview/issues/165)
+- [如何让元素固定在页面底部？有哪些比较好的实践？](https://github.com/haizlin/fe-interview/issues/161)
+- [解释下什么是ISISO8859-2字符集？](https://github.com/haizlin/fe-interview/issues/156)
+- [webSocket怎么做兼容处理？](https://github.com/haizlin/fe-interview/issues/152)
+- [html5都有哪些新的特性？移除了哪些元素？](https://github.com/haizlin/fe-interview/issues/148)
+- [title与h1、b与strong、i与em的区别分别是什么？](https://github.com/haizlin/fe-interview/issues/144)
+- [说说你对cookie和session的理解](https://github.com/haizlin/fe-interview/issues/140)
+- [html5哪些标签可以优化SEO?](https://github.com/haizlin/fe-interview/issues/136)
+- [HTML与XHTML二者有不同?](https://github.com/haizlin/fe-interview/issues/132)
+- [用一个div模拟textarea的实现](https://github.com/haizlin/fe-interview/issues/128)
+- [Standards模式和Quirks模式有什么区别？](https://github.com/haizlin/fe-interview/issues/122)
 - [html和html5有什么区别呢？](https://github.com/haizlin/fe-interview/issues/118)
 - [说说你对HTML元素的显示优先级的理解](https://github.com/haizlin/fe-interview/issues/114)
 - [DOM和BOM有什么区别？](https://github.com/haizlin/fe-interview/issues/110)
