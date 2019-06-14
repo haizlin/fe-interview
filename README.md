@@ -24,7 +24,7 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.15) —— 第60天
+## 今天的面试题 (2019.06.15) —— 第60天 （感谢：九旬大爷的梦 提供的题目）
 - [html] [src、href、link的区别是什么？](https://github.com/haizlin/fe-interview/issues/250)
 - [css] [用css画一个太阳](https://github.com/haizlin/fe-interview/issues/251)
 - [js] [请实现一个flattenDeep函数，把多维数组扁平化](https://github.com/haizlin/fe-interview/issues/252)
