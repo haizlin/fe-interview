@@ -25,10 +25,10 @@
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
 ## 今天的面试题 (2019.06.15) —— 第60天
-- [html] [HTML中src、href、link的区别]()
-- [css] [用css画一个太阳]()
-- [js] [请实现一个flattenDeep函数，把多维数组扁平化]()
-- [软技能] [如何预防掉头发？]()
+- [html] [src、href、link的区别是什么？](https://github.com/haizlin/fe-interview/issues/250)
+- [css] [用css画一个太阳](https://github.com/haizlin/fe-interview/issues/251)
+- [js] [请实现一个flattenDeep函数，把多维数组扁平化](https://github.com/haizlin/fe-interview/issues/252)
+- [软技能] [如何预防掉头发？](https://github.com/haizlin/fe-interview/issues/253)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -73,7 +73,6 @@
     - [css] [你有用过哪些css框架？说说它们的特点](https://github.com/haizlin/fe-interview/issues/245)
     - [js] [写一个格式化金额的方法](https://github.com/haizlin/fe-interview/issues/246)
     - [软技能] [对于让你接手一个你觉得很烂的老项目，你该怎么办？](https://github.com/haizlin/fe-interview/issues/247)
-
 
 - **[查看全部](category/history.md)**
 
