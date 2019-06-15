@@ -1,15 +1,24 @@
-# 周汇总 2019.06.09
+# 周汇总 2019.06.16
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
 > 让努力成为一种习惯，让奋斗成为一种享受！
 
 ---
-- 学习不打烊，充电加油只为**遇到更好的自己**，365天无节假日，每天早上5点纯手工发布面试题（**死磕自己**）。
+- 学习不打烊，充电加油只为**遇到更好的自己**，365天无节假日，**每天早上5点**纯手工发布面试题（**死磕自己，愉悦大家**）。
 - 希望大家在这**浮夸**的前端圈里，保持**冷静**，坚持每天花20分钟来学习与思考。
+- 在这千变万化，类库层出不穷的前端，建议大家不要等到找工作时，才狂刷题，提倡**每日学习**！（**不忘初心**，html、css、javascript才是基石！）
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
+> 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
 ## html
+- [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
+- [src、href、link的区别是什么？](https://github.com/haizlin/fe-interview/issues/250)
+- [有用地过WebGL吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/244)
+- [HTML5相对于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/240)
+- [你了解HTML5的download属性吗？](https://github.com/haizlin/fe-interview/issues/236)
+- [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
+- [HTML5中新添加的表单属性有哪些？](https://github.com/haizlin/fe-interview/issues/215)
 - [你有了解HTML5的地理定位吗？怎么使用？](https://github.com/haizlin/fe-interview/issues/207)
 - [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/207)
 - [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)
@@ -65,6 +74,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [怎样把一个div居中？怎样把一个浮动元素居中？怎样把绝对定位的div居中？](https://github.com/haizlin/fe-interview/issues/255)
+- [用css画一个太阳](https://github.com/haizlin/fe-interview/issues/251)
+- [你有用过哪些css框架？说说它们的特点](https://github.com/haizlin/fe-interview/issues/245)
+- [box-sizing常用的属性有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/241)
+- [inline、block、inline-block这三个属性值有什么区别？](https://github.com/haizlin/fe-interview/issues/237)
+- [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/220)
+- [什么是视差滚动？如何实现视差滚动的效果？](https://github.com/haizlin/fe-interview/issues/216)
 - [css3的:nth-child和:nth-of-type的区别是什么？](https://github.com/haizlin/fe-interview/issues/208)
 - [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/208)
 - [要是position跟display、overflow、float这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/203)
@@ -120,6 +136,13 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [写一个方法获取图片的原始宽高](https://github.com/haizlin/fe-interview/issues/256)
+- [请实现一个flattenDeep函数，把多维数组扁平化](https://github.com/haizlin/fe-interview/issues/252)
+- [写一个格式化金额的方法](https://github.com/haizlin/fe-interview/issues/246)
+- [请说下你对__proto__和prototype的理解](https://github.com/haizlin/fe-interview/issues/242)
+- [写一个方法，使得sum(x)(y)和sum(x,y)返回的结果相同](https://github.com/haizlin/fe-interview/issues/238)
+- [JSONP的原理是什么？解决什么问题？](https://github.com/haizlin/fe-interview/issues/221)
+- [写出4个使用this的典型例子](https://github.com/haizlin/fe-interview/issues/217)
 - [写一个函数找出给定数组中的最大差值](https://github.com/haizlin/fe-interview/issues/209)
 - [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/209)
 - [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
@@ -174,6 +197,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [知道IPV6是什么吗？说说它和IPV4的区别是什么？](https://github.com/haizlin/fe-interview/issues/257)
+- [如何预防掉头发？](https://github.com/haizlin/fe-interview/issues/253)
+- [对于让你接手一个你觉得很烂的老项目，你该怎么办？](https://github.com/haizlin/fe-interview/issues/247)
+- [对于5G的到来，你是怎么看的？说说你的想法](https://github.com/haizlin/fe-interview/issues/243)
+- [说说你对浏览器的关键渲染路径的理解](https://github.com/haizlin/fe-interview/issues/239)
+- [说说你对域名收敛和域名发散的理解？分别在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/222)
+- [网站被劫持植入广告该怎么办？如何防止？](https://github.com/haizlin/fe-interview/issues/218)
 - [和你的上级领导意见不一致时你该怎么办？](https://github.com/haizlin/fe-interview/issues/210)
 - [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/210)
 - [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)

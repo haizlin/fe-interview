@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.09
+> 最新：2019.06.16
 
+- [知道IPV6是什么吗？说说它和IPV4的区别是什么？](https://github.com/haizlin/fe-interview/issues/257)
+- [如何预防掉头发？](https://github.com/haizlin/fe-interview/issues/253)
+- [对于让你接手一个你觉得很烂的老项目，你该怎么办？](https://github.com/haizlin/fe-interview/issues/247)
+- [对于5G的到来，你是怎么看的？说说你的想法](https://github.com/haizlin/fe-interview/issues/243)
+- [说说你对浏览器的关键渲染路径的理解](https://github.com/haizlin/fe-interview/issues/239)
+- [说说你对域名收敛和域名发散的理解？分别在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/222)
+- [网站被劫持植入广告该怎么办？如何防止？](https://github.com/haizlin/fe-interview/issues/218)
 - [和你的上级领导意见不一致时你该怎么办？](https://github.com/haizlin/fe-interview/issues/210)
 - [有用过本地存储吗？有什么限制？有没有考虑过超出了限制怎么办？](https://github.com/haizlin/fe-interview/issues/210)
 - [说说你对CDN的理解，使用过程中有没有遇到过问题？](https://github.com/haizlin/fe-interview/issues/205)
