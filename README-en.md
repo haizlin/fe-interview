@@ -129,7 +129,8 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
 - [zhihu](https://zhuanlan.zhihu.com/fe-interview)（Daily Synchronized Updates）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
-- [jianshu](https://www.jianshu.com/c/1ba24fbe0006)Daily Synchronized Updates
+- [jianshu](https://www.jianshu.com/c/1ba24fbe0006)（Daily Synchronized Updates）
+- [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）
 
@@ -145,6 +146,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 * [前端漫谈](https://juejin.im/user/585a2f52128fe10069ba1b95/posts)（前端漫谈系列）
 * [前端帮帮忙](https://juejin.im/user/57b26b806be3ff006bb97122/posts)（前端帮帮忙系列）
 * [面试官](https://juejin.im/user/58d8cd0644d9040069433edb/posts)（面试官系列）
+* [面试图谱](https://yuchengkai.cn/docs/) （打造最好的面试图谱）
 * 洞见前端小程序-(微信搜索，非常有意思的小程序，刷题必备)
 * 前端荣耀小程序-(微信搜索，非常有意思的小程序，通关打卡还有排行榜)
 
