@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.15) —— 第60天 （感谢：九旬大爷的梦 提供的题目）
-- [html] [src、href、link的区别是什么？](https://github.com/haizlin/fe-interview/issues/250)
-- [css] [用css画一个太阳](https://github.com/haizlin/fe-interview/issues/251)
-- [js] [请实现一个flattenDeep函数，把多维数组扁平化](https://github.com/haizlin/fe-interview/issues/252)
-- [软技能] [如何预防掉头发？](https://github.com/haizlin/fe-interview/issues/253)
+## 今天的面试题 (2019.06.16) —— 第61天
+- [html] [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
+- [css] [怎样把一个div居中？怎样把一个浮动元素居中？怎样把绝对定位的div居中？](https://github.com/haizlin/fe-interview/issues/255)
+- [js] [写一个方法获取图片的原始宽高](https://github.com/haizlin/fe-interview/issues/256)
+- [软技能] [知道IPV6是什么吗？说说它和IPV4的区别是什么？](https://github.com/haizlin/fe-interview/issues/257)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -62,17 +62,17 @@
 
 …………  
 
-- 第58天 (2019.06.13)
-    - [html] [HTML5相对于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/240)
-    - [css] [box-sizing常用的属性有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/241)
-    - [js] [请说下你对__proto__和prototype的理解](https://github.com/haizlin/fe-interview/issues/242)
-    - [软技能] [对于5G的到来，你是怎么看的？说说你的想法](https://github.com/haizlin/fe-interview/issues/243)
-
 - 第59天 (2019.06.14)
     - [html] [有用地过WebGL吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/244)
     - [css] [你有用过哪些css框架？说说它们的特点](https://github.com/haizlin/fe-interview/issues/245)
     - [js] [写一个格式化金额的方法](https://github.com/haizlin/fe-interview/issues/246)
     - [软技能] [对于让你接手一个你觉得很烂的老项目，你该怎么办？](https://github.com/haizlin/fe-interview/issues/247)
+
+- 第60天 (2019.06.15)
+    - [html] [src、href、link的区别是什么？](https://github.com/haizlin/fe-interview/issues/250)
+    - [css] [用css画一个太阳](https://github.com/haizlin/fe-interview/issues/251)
+    - [js] [请实现一个flattenDeep函数，把多维数组扁平化](https://github.com/haizlin/fe-interview/issues/252)
+    - [软技能] [如何预防掉头发？](https://github.com/haizlin/fe-interview/issues/253)
 
 - **[查看全部](category/history.md)**
 

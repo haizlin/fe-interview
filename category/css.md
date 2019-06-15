@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.09
+> 最新：2019.06.16
 
+- [怎样把一个div居中？怎样把一个浮动元素居中？怎样把绝对定位的div居中？](https://github.com/haizlin/fe-interview/issues/255)
+- [用css画一个太阳](https://github.com/haizlin/fe-interview/issues/251)
+- [你有用过哪些css框架？说说它们的特点](https://github.com/haizlin/fe-interview/issues/245)
+- [box-sizing常用的属性有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/241)
+- [inline、block、inline-block这三个属性值有什么区别？](https://github.com/haizlin/fe-interview/issues/237)
+- [margin和padding使用的场景有哪些？](https://github.com/haizlin/fe-interview/issues/220)
+- [什么是视差滚动？如何实现视差滚动的效果？](https://github.com/haizlin/fe-interview/issues/216)
 - [css3的:nth-child和:nth-of-type的区别是什么？](https://github.com/haizlin/fe-interview/issues/208)
 - [怎么使用自定义字体？有什么注意事项？](https://github.com/haizlin/fe-interview/issues/208)
 - [要是position跟display、overflow、float这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/203)

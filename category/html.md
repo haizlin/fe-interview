@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.09
+> 最新：2019.06.16
 
+- [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
+- [src、href、link的区别是什么？](https://github.com/haizlin/fe-interview/issues/250)
+- [有用地过WebGL吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/244)
+- [HTML5相对于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/240)
+- [你了解HTML5的download属性吗？](https://github.com/haizlin/fe-interview/issues/236)
+- [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
+- [HTML5中新添加的表单属性有哪些？](https://github.com/haizlin/fe-interview/issues/215)
 - [你有了解HTML5的地理定位吗？怎么使用？](https://github.com/haizlin/fe-interview/issues/207)
 - [web workers有用过吗？能帮我们解决哪些问题？](https://github.com/haizlin/fe-interview/issues/207)
 - [From表单提交时为什么会刷新页面？怎么预防刷新？](https://github.com/haizlin/fe-interview/issues/202)

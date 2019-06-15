@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.09
+> 最新：2019.06.16
 
+- [写一个方法获取图片的原始宽高](https://github.com/haizlin/fe-interview/issues/256)
+- [请实现一个flattenDeep函数，把多维数组扁平化](https://github.com/haizlin/fe-interview/issues/252)
+- [写一个格式化金额的方法](https://github.com/haizlin/fe-interview/issues/246)
+- [请说下你对__proto__和prototype的理解](https://github.com/haizlin/fe-interview/issues/242)
+- [写一个方法，使得sum(x)(y)和sum(x,y)返回的结果相同](https://github.com/haizlin/fe-interview/issues/238)
+- [JSONP的原理是什么？解决什么问题？](https://github.com/haizlin/fe-interview/issues/221)
+- [写出4个使用this的典型例子](https://github.com/haizlin/fe-interview/issues/217)
 - [写一个函数找出给定数组中的最大差值](https://github.com/haizlin/fe-interview/issues/209)
 - [document的load 和ready有什么区别？](https://github.com/haizlin/fe-interview/issues/209)
 - [什么是事件委托？它有什么好处？能简单的写一个例子吗？](https://github.com/haizlin/fe-interview/issues/204)
