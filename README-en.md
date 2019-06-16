@@ -27,10 +27,10 @@
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
 ## Today's Interview Question (2019.06.17) —— 62 days
-- [html] [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
-- [css] [怎样把一个div居中？怎样把一个浮动元素居中？怎样把绝对定位的div居中？](https://github.com/haizlin/fe-interview/issues/255)
-- [js] [写一个方法获取图片的原始宽高](https://github.com/haizlin/fe-interview/issues/256)
-- [skill] [知道IPV6是什么吗？说说它和IPV4的区别是什么？](https://github.com/haizlin/fe-interview/issues/257)
+- [html] [有使用过HTML5的拖放API吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/275)
+- [css] [手动写动画最小时间间隔是多少，为什么？](https://github.com/haizlin/fe-interview/issues/276)
+- [js] [有用过HTML5的WebWork吗？它主要解决了什么问题？](https://github.com/haizlin/fe-interview/issues/277)
+- [skill] [说说你对同构和SSR的理解](https://github.com/haizlin/fe-interview/issues/278)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
