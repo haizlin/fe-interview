@@ -4,7 +4,7 @@
 ## 历史题目
 > 最新：2019.06.16
 
-- [说说你使用vue过程中遇到的问题（坑）有哪些，你是怎么解决的？]https://github.com/haizlin/fe-interview/issues/273)
+- [说说你使用vue过程中遇到的问题（坑）有哪些，你是怎么解决的？]https://github.com/haizlin/fe-interview/issues/274)
 - [说说你对选项el,template,render的理解]https://github.com/haizlin/fe-interview/issues/273)
 - [vue实例挂载的过程是什么？]https://github.com/haizlin/fe-interview/issues/272)
 - [vue在组件中引入插件的方法有哪些？]https://github.com/haizlin/fe-interview/issues/271)
