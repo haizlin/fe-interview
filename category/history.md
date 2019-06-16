@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第61天 (2019.06.16)
+    - [html] [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
+    - [css] [怎样把一个div居中？怎样把一个浮动元素居中？怎样把绝对定位的div居中？](https://github.com/haizlin/fe-interview/issues/255)
+    - [js] [写一个方法获取图片的原始宽高](https://github.com/haizlin/fe-interview/issues/256)
+    - [软技能] [知道IPV6是什么吗？说说它和IPV4的区别是什么？](https://github.com/haizlin/fe-interview/issues/257)
+
 - 第60天 (2019.06.15)（感谢：九旬大爷的梦 提供的题目）
     - [html] [src、href、link的区别是什么？](https://github.com/haizlin/fe-interview/issues/250)
     - [css] [用css画一个太阳](https://github.com/haizlin/fe-interview/issues/251)
