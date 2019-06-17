@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第62天 (2019.06.17)
+    - [html] [有使用过HTML5的拖放API吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/275)
+    - [css] [手动写动画最小时间间隔是多少，为什么？](https://github.com/haizlin/fe-interview/issues/276)
+    - [js] [有用过HTML5的WebWork吗？它主要解决了什么问题？](https://github.com/haizlin/fe-interview/issues/277)
+    - [软技能] [说说你对同构和SSR的理解](https://github.com/haizlin/fe-interview/issues/278)
+
 - 第61天 (2019.06.16)
     - [html] [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
     - [css] [怎样把一个div居中？怎样把一个浮动元素居中？怎样把绝对定位的div居中？](https://github.com/haizlin/fe-interview/issues/255)
