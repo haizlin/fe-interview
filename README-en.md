@@ -23,14 +23,14 @@
 - Learn without closing, strive to meet better oneself, 365 days without holidays, **5 a.m. every day** to publish interview questions by hand.（**Knock oneself**）。
 - I hope you can stay calm in this **grandiose** front-end circle and stick to spending 20 minutes a day studying and thinking.
 - In this ever-changing, class library emerges endlessly at the front end, I suggest that you do not wait until you find a job before brushing the test question, advocating daily learning! (Don't forget the beginning, html, css, JavaScript is the cornerstone!)
-- Welcome to **Issues**, encourage **PR**, and thank **Star**.，What good suggestions do you have for us to share and discuss with me via Wechat！
+- Welcome to **Issues**, encourage **PR**, and thank **Star**、thank**watch**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.06.18) —— 63 days
-- [html] [什么是html的字符实体？版权符号代码怎么写？](https://github.com/haizlin/fe-interview/issues/279)
-- [css] [说说position的absolute和fixed共同与不同点分别是什么？](https://github.com/haizlin/fe-interview/issues/280)
-- [js] [举例子说明javascript的变量声明提升和函数声明提升](https://github.com/haizlin/fe-interview/issues/281)
-- [skill] [说说什么是设计模式，你最常用的设计模式有哪些？](https://github.com/haizlin/fe-interview/issues/282)
+## Today's Interview Question (2019.06.19) —— 64 days
+- [html] [写出html提供的几种空格实体（5种以上）](https://github.com/haizlin/fe-interview/issues/293)
+- [css] [举例说明css中颜色的表示方法有几种](https://github.com/haizlin/fe-interview/issues/294)
+- [js] [如何让(a==1 && a==2 && a==3)的值为true，把"=="换成"==="后还能为true吗？](https://github.com/haizlin/fe-interview/issues/295)
+- [skill] [如果面试官让你先自我介绍下，然后说下你的工作经历，你该怎么说？](https://github.com/haizlin/fe-interview/issues/296)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -64,17 +64,17 @@
 
 …………  
 
-- 61 days (2019.06.16)
-    - [html] [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
-    - [css] [怎样把一个div居中？怎样把一个浮动元素居中？怎样把绝对定位的div居中？](https://github.com/haizlin/fe-interview/issues/255)
-    - [js] [写一个方法获取图片的原始宽高](https://github.com/haizlin/fe-interview/issues/256)
-    - [skill] [知道IPV6是什么吗？说说它和IPV4的区别是什么？](https://github.com/haizlin/fe-interview/issues/257)
-
 - 62 days (2019.06.17)
     - [html] [有使用过HTML5的拖放API吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/275)
     - [css] [手动写动画最小时间间隔是多少，为什么？](https://github.com/haizlin/fe-interview/issues/276)
     - [js] [有用过HTML5的WebWork吗？它主要解决了什么问题？](https://github.com/haizlin/fe-interview/issues/277)
     - [skill] [说说你对同构和SSR的理解](https://github.com/haizlin/fe-interview/issues/278)
+
+- 63 days (2019.06.18)
+    - [html] [什么是html的字符实体？版权符号代码怎么写？](https://github.com/haizlin/fe-interview/issues/279)
+    - [css] [说说position的absolute和fixed共同与不同点分别是什么？](https://github.com/haizlin/fe-interview/issues/280)
+    - [js] [举例子说明javascript的变量声明提升和函数声明提升](https://github.com/haizlin/fe-interview/issues/281)
+    - [skill] [说说什么是设计模式，你最常用的设计模式有哪些？](https://github.com/haizlin/fe-interview/issues/282)
 
 - **[All](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第63天 (2019.06.18)
+    - [html] [什么是html的字符实体？版权符号代码怎么写？](https://github.com/haizlin/fe-interview/issues/279)
+    - [css] [说说position的absolute和fixed共同与不同点分别是什么？](https://github.com/haizlin/fe-interview/issues/280)
+    - [js] [举例子说明javascript的变量声明提升和函数声明提升](https://github.com/haizlin/fe-interview/issues/281)
+    - [软技能] [说说什么是设计模式，你最常用的设计模式有哪些？](https://github.com/haizlin/fe-interview/issues/282)
+
 - 第62天 (2019.06.17)
     - [html] [有使用过HTML5的拖放API吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/275)
     - [css] [手动写动画最小时间间隔是多少，为什么？](https://github.com/haizlin/fe-interview/issues/276)

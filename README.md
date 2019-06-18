@@ -21,14 +21,14 @@
 - 学习不打烊，充电加油只为**遇到更好的自己**，365天无节假日，**每天早上5点**纯手工发布面试题（**死磕自己，愉悦大家**）。
 - 希望大家在这**浮夸**的前端圈里，保持**冷静**，坚持每天花20分钟来学习与思考。
 - 在这千变万化，类库层出不穷的前端，建议大家不要等到找工作时，才狂刷题，提倡**每日学习**！（**不忘初心**，html、css、javascript才是基石！）
-- 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**，大家有啥好的建议可以加我微信一起交流讨论！
+- 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.18) —— 第63天
-- [html] [什么是html的字符实体？版权符号代码怎么写？](https://github.com/haizlin/fe-interview/issues/279)
-- [css] [说说position的absolute和fixed共同与不同点分别是什么？](https://github.com/haizlin/fe-interview/issues/280)
-- [js] [举例子说明javascript的变量声明提升和函数声明提升](https://github.com/haizlin/fe-interview/issues/281)
-- [软技能] [说说什么是设计模式，你最常用的设计模式有哪些？](https://github.com/haizlin/fe-interview/issues/282)
+## 今天的面试题 (2019.06.19) —— 第64天
+- [html] [写出html提供的几种空格实体（5种以上）](https://github.com/haizlin/fe-interview/issues/293)
+- [css] [举例说明css中颜色的表示方法有几种](https://github.com/haizlin/fe-interview/issues/294)
+- [js] [如何让(a==1 && a==2 && a==3)的值为true，把"=="换成"==="后还能为true吗？](https://github.com/haizlin/fe-interview/issues/295)
+- [软技能] [如果面试官让你先自我介绍下，然后说下你的工作经历，你该怎么说？](https://github.com/haizlin/fe-interview/issues/296)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -62,17 +62,17 @@
 
 …………  
 
-- 第61天 (2019.06.16)
-    - [html] [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
-    - [css] [怎样把一个div居中？怎样把一个浮动元素居中？怎样把绝对定位的div居中？](https://github.com/haizlin/fe-interview/issues/255)
-    - [js] [写一个方法获取图片的原始宽高](https://github.com/haizlin/fe-interview/issues/256)
-    - [软技能] [知道IPV6是什么吗？说说它和IPV4的区别是什么？](https://github.com/haizlin/fe-interview/issues/257)
-
 - 第62天 (2019.06.17)
     - [html] [有使用过HTML5的拖放API吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/275)
     - [css] [手动写动画最小时间间隔是多少，为什么？](https://github.com/haizlin/fe-interview/issues/276)
     - [js] [有用过HTML5的WebWork吗？它主要解决了什么问题？](https://github.com/haizlin/fe-interview/issues/277)
     - [软技能] [说说你对同构和SSR的理解](https://github.com/haizlin/fe-interview/issues/278)
+
+- 第63天 (2019.06.18)
+    - [html] [什么是html的字符实体？版权符号代码怎么写？](https://github.com/haizlin/fe-interview/issues/279)
+    - [css] [说说position的absolute和fixed共同与不同点分别是什么？](https://github.com/haizlin/fe-interview/issues/280)
+    - [js] [举例子说明javascript的变量声明提升和函数声明提升](https://github.com/haizlin/fe-interview/issues/281)
+    - [软技能] [说说什么是设计模式，你最常用的设计模式有哪些？](https://github.com/haizlin/fe-interview/issues/282)
 
 - **[查看全部](category/history.md)**
 

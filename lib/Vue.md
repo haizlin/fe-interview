@@ -2,8 +2,18 @@
 > 鼓励PR
 
 ## 历史题目
-> 最新：2019.06.16
+> 最新：2019.06.19
 
+- [说说你对vue的template编译的理解？]https://github.com/haizlin/fe-interview/issues/292)
+- [v-on可以绑定多个方法吗？]https://github.com/haizlin/fe-interview/issues/291)
+- [vue常用的修饰符有哪些？列举并说明]https://github.com/haizlin/fe-interview/issues/290)
+- [你认为vue的核心是什么？]https://github.com/haizlin/fe-interview/issues/289)
+- [v-model是什么？有什么用呢？]https://github.com/haizlin/fe-interview/issues/288)
+- [说说你对vue的mixin的理解，有什么应用场景？]https://github.com/haizlin/fe-interview/issues/287)
+- [SPA首屏加载速度慢的怎么解决？]https://github.com/haizlin/fe-interview/issues/286)
+- [删除数组用delete和Vue.delete有什么区别？]https://github.com/haizlin/fe-interview/issues/285)
+- [动态给vue的data添加一个新的属性时会发生什么？怎样解决？]https://github.com/haizlin/fe-interview/issues/284)
+- [组件和插件有什么区别？]https://github.com/haizlin/fe-interview/issues/283)
 - [说说你使用vue过程中遇到的问题（坑）有哪些，你是怎么解决的？]https://github.com/haizlin/fe-interview/issues/274)
 - [说说你对选项el,template,render的理解]https://github.com/haizlin/fe-interview/issues/273)
 - [vue实例挂载的过程是什么？]https://github.com/haizlin/fe-interview/issues/272)
