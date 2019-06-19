@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.19) —— 第64天
-- [html] [写出html提供的几种空格实体（5种以上）](https://github.com/haizlin/fe-interview/issues/293)
-- [css] [举例说明css中颜色的表示方法有几种](https://github.com/haizlin/fe-interview/issues/294)
-- [js] [如何让(a==1 && a==2 && a==3)的值为true，把"=="换成"==="后还能为true吗？](https://github.com/haizlin/fe-interview/issues/295)
-- [软技能] [如果面试官让你先自我介绍下，然后说下你的工作经历，你该怎么说？](https://github.com/haizlin/fe-interview/issues/296)
+## 今天的面试题 (2019.06.20) —— 第65天
+- [html] [html直接输入多个空格为什么只能显示一个空格？](https://github.com/haizlin/fe-interview/issues/299)
+- [css] [用CSS绘制一个红色的爱心](https://github.com/haizlin/fe-interview/issues/300)
+- [js] [说说你对数据类型转换的理解是什么？类型转换的方法有哪些？](https://github.com/haizlin/fe-interview/issues/298)
+- [软技能] [最后如果技术面和HR面问你：你还有什么问题吗？你分别会问些什么？](https://github.com/haizlin/fe-interview/issues/297)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -62,17 +62,17 @@
 
 …………  
 
-- 第62天 (2019.06.17)
-    - [html] [有使用过HTML5的拖放API吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/275)
-    - [css] [手动写动画最小时间间隔是多少，为什么？](https://github.com/haizlin/fe-interview/issues/276)
-    - [js] [有用过HTML5的WebWork吗？它主要解决了什么问题？](https://github.com/haizlin/fe-interview/issues/277)
-    - [软技能] [说说你对同构和SSR的理解](https://github.com/haizlin/fe-interview/issues/278)
-
 - 第63天 (2019.06.18)
     - [html] [什么是html的字符实体？版权符号代码怎么写？](https://github.com/haizlin/fe-interview/issues/279)
     - [css] [说说position的absolute和fixed共同与不同点分别是什么？](https://github.com/haizlin/fe-interview/issues/280)
     - [js] [举例子说明javascript的变量声明提升和函数声明提升](https://github.com/haizlin/fe-interview/issues/281)
     - [软技能] [说说什么是设计模式，你最常用的设计模式有哪些？](https://github.com/haizlin/fe-interview/issues/282)
+
+- 第64天 (2019.06.19)
+    - [html] [写出html提供的几种空格实体（5种以上）](https://github.com/haizlin/fe-interview/issues/293)
+    - [css] [举例说明css中颜色的表示方法有几种](https://github.com/haizlin/fe-interview/issues/294)
+    - [js] [如何让(a==1 && a==2 && a==3)的值为true，把"=="换成"==="后还能为true吗？](https://github.com/haizlin/fe-interview/issues/295)
+    - [软技能] [如果面试官让你先自我介绍下，然后说下你的工作经历，你该怎么说？](https://github.com/haizlin/fe-interview/issues/296)
 
 - **[查看全部](category/history.md)**
 

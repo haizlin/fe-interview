@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第64天 (2019.06.19)
+    - [html] [写出html提供的几种空格实体（5种以上）](https://github.com/haizlin/fe-interview/issues/293)
+    - [css] [举例说明css中颜色的表示方法有几种](https://github.com/haizlin/fe-interview/issues/294)
+    - [js] [如何让(a==1 && a==2 && a==3)的值为true，把"=="换成"==="后还能为true吗？](https://github.com/haizlin/fe-interview/issues/295)
+    - [软技能] [如果面试官让你先自我介绍下，然后说下你的工作经历，你该怎么说？](https://github.com/haizlin/fe-interview/issues/296)
+
 - 第63天 (2019.06.18)
     - [html] [什么是html的字符实体？版权符号代码怎么写？](https://github.com/haizlin/fe-interview/issues/279)
     - [css] [说说position的absolute和fixed共同与不同点分别是什么？](https://github.com/haizlin/fe-interview/issues/280)
