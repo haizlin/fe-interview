@@ -2,8 +2,7 @@
 > 鼓励PR
 
 ## 历史题目(最新：2019.06.19)
-> 分类
-- [vue](#vue) | [vue-router](#vue-router) | [vuex](#vuex) | [ElementUI](#ElementUI)
+[vue](#vue) | [vue-router](#vue-router) | [vuex](#vuex) | [ElementUI](#ElementUI)
 
 ### vue
 - [vue首页白屏是什么问题引起的？如何解决呢？]()
