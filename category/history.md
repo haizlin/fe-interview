@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第65天 (2019.06.20)
+    - [html] [html直接输入多个空格为什么只能显示一个空格？](https://github.com/haizlin/fe-interview/issues/299)
+    - [css] [用CSS绘制一个红色的爱心](https://github.com/haizlin/fe-interview/issues/300)
+    - [js] [说说你对数据类型转换的理解是什么？类型转换的方法有哪些？](https://github.com/haizlin/fe-interview/issues/298)
+    - [软技能] [最后如果技术面和HR面问你：你还有什么问题吗？你分别会问些什么？](https://github.com/haizlin/fe-interview/issues/297)
+
 - 第64天 (2019.06.19)
     - [html] [写出html提供的几种空格实体（5种以上）](https://github.com/haizlin/fe-interview/issues/293)
     - [css] [举例说明css中颜色的表示方法有几种](https://github.com/haizlin/fe-interview/issues/294)
