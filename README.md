@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.21) —— 第66天
-- [html] [HTML5如果不写`<! DOCTYPE html>` ，页面还会正常工作么？](https://github.com/haizlin/fe-interview/issues/403)
-- [css] [元素竖向的百分比设置是相对容器的高度吗？](https://github.com/haizlin/fe-interview/issues/404)
-- [js] [请解释下什么是cookie隔离？为什么要隔离？如何隔离？](https://github.com/haizlin/fe-interview/issues/405)
-- [软技能] [如果面试官让你说说下你的家庭？你会从哪些方面说呢？](https://github.com/haizlin/fe-interview/issues/406)
+## 今天的面试题 (2019.06.22) —— 第67天
+- [html] [请写出唤醒拔打电话、发送邮件、发送短信的例子](https://github.com/haizlin/fe-interview/issues/407)
+- [css] [如何消除transition闪屏？](https://github.com/haizlin/fe-interview/issues/408)
+- [js] [举例子说说你对js隐式类型转换的理解](https://github.com/haizlin/fe-interview/issues/409)
+- [软技能] [你觉得你自己最大的优点和缺点分别是什么？能否举例说明一下？](https://github.com/haizlin/fe-interview/issues/410)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -62,17 +62,17 @@
 
 …………  
 
-- 第64天 (2019.06.19)
-    - [html] [写出html提供的几种空格实体（5种以上）](https://github.com/haizlin/fe-interview/issues/293)
-    - [css] [举例说明css中颜色的表示方法有几种](https://github.com/haizlin/fe-interview/issues/294)
-    - [js] [如何让(a==1 && a==2 && a==3)的值为true，把"=="换成"==="后还能为true吗？](https://github.com/haizlin/fe-interview/issues/295)
-    - [软技能] [如果面试官让你先自我介绍下，然后说下你的工作经历，你该怎么说？](https://github.com/haizlin/fe-interview/issues/296)
-
 - 第65天 (2019.06.20)
     - [html] [html直接输入多个空格为什么只能显示一个空格？](https://github.com/haizlin/fe-interview/issues/299)
     - [css] [用CSS绘制一个红色的爱心](https://github.com/haizlin/fe-interview/issues/300)
     - [js] [说说你对数据类型转换的理解是什么？类型转换的方法有哪些？](https://github.com/haizlin/fe-interview/issues/298)
     - [软技能] [最后如果技术面和HR面问你：你还有什么问题吗？你分别会问些什么？](https://github.com/haizlin/fe-interview/issues/297)
+
+- 第66天 (2019.06.21)
+    - [html] [HTML5如果不写`<! DOCTYPE html>` ，页面还会正常工作么？](https://github.com/haizlin/fe-interview/issues/403)
+    - [css] [元素竖向的百分比设置是相对容器的高度吗？](https://github.com/haizlin/fe-interview/issues/404)
+    - [js] [请解释下什么是cookie隔离？为什么要隔离？如何隔离？](https://github.com/haizlin/fe-interview/issues/405)
+    - [软技能] [如果面试官让你说说下你的家庭？你会从哪些方面说呢？](https://github.com/haizlin/fe-interview/issues/406)
 
 - **[查看全部](category/history.md)**
 
