@@ -45,7 +45,7 @@
 - [你有自己用vue写过UI组件库吗？](https://github.com/haizlin/fe-interview/issues/358)
 - [用vue怎么实现一个换肤的功能？](https://github.com/haizlin/fe-interview/issues/357)
 - [有在vue中使用过echarts吗？踩过哪些坑？如何解决的？](https://github.com/haizlin/fe-interview/issues/356)
-- [如果让你教一个2-3年经验前端经验的同事使用vue，你该怎么教？]([vue] 如果让你教一个2-3年经验前端经验的同事使用vue，你该怎么教？)
+- [如果让你教一个2-3年经验前端经验的同事使用vue，你该怎么教？](https://github.com/haizlin/fe-interview/issues/355)
 - [vue性能的优化的方法有哪些？](https://github.com/haizlin/fe-interview/issues/354)
 - [SSR解决了什么问题？有做过SSR吗？你是怎么做的？](https://github.com/haizlin/fe-interview/issues/353)
 - [说说你觉得认为的vue开发规范有哪些？](https://github.com/haizlin/fe-interview/issues/352)
