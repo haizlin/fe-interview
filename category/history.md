@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第68天 (2019.06.23)
+    - [html] [写个例子说明HTML5在移动端如何打开APP？](https://github.com/haizlin/fe-interview/issues/490)
+    - [css] [说说你对jpg、png、gif的理解，分别在什么场景下使用？有使用过webp吗？](https://github.com/haizlin/fe-interview/issues/491)
+    - [js] [formData主要是用来做什么的？它的操作方法有哪些？](https://github.com/haizlin/fe-interview/issues/492)
+    - [软技能] [js动画和css动画有什么区别？](https://github.com/haizlin/fe-interview/issues/493)
+
 - 第67天 (2019.06.22)
     - [html] [请写出唤醒拔打电话、发送邮件、发送短信的例子](https://github.com/haizlin/fe-interview/issues/407)
     - [css] [如何消除transition闪屏？](https://github.com/haizlin/fe-interview/issues/408)
