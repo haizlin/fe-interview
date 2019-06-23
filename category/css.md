@@ -2,7 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.16
+> 最新：2019.06.23
+
+- [说说你对jpg、png、gif的理解，分别在什么场景下使用？有使用过webp吗？](https://github.com/haizlin/fe-interview/issues/491)
+- [如何消除transition闪屏？](https://github.com/haizlin/fe-interview/issues/408)
+- [元素竖向的百分比设置是相对容器的高度吗？](https://github.com/haizlin/fe-interview/issues/404)
+- [用CSS绘制一个红色的爱心](https://github.com/haizlin/fe-interview/issues/300)
+- [举例说明css中颜色的表示方法有几种](https://github.com/haizlin/fe-interview/issues/294)
+- [说说position的absolute和fixed共同与不同点分别是什么？](https://github.com/haizlin/fe-interview/issues/280)
+- [手动写动画最小时间间隔是多少，为什么？](https://github.com/haizlin/fe-interview/issues/276)
 
 - [怎样把一个div居中？怎样把一个浮动元素居中？怎样把绝对定位的div居中？](https://github.com/haizlin/fe-interview/issues/255)
 - [用css画一个太阳](https://github.com/haizlin/fe-interview/issues/251)

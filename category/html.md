@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.16
+> 最新：2019.06.23
 
+- [写个例子说明HTML5在移动端如何打开APP？](https://github.com/haizlin/fe-interview/issues/490)
+- [请写出唤醒拔打电话、发送邮件、发送短信的例子](https://github.com/haizlin/fe-interview/issues/407)
+- [HTML5如果不写`<! DOCTYPE html>` ，页面还会正常工作么？](https://github.com/haizlin/fe-interview/issues/403)
+- [html直接输入多个空格为什么只能显示一个空格？](https://github.com/haizlin/fe-interview/issues/299)
+- [写出html提供的几种空格实体（5种以上）](https://github.com/haizlin/fe-interview/issues/293)
+- [什么是html的字符实体？版权符号代码怎么写？](https://github.com/haizlin/fe-interview/issues/279)
+- [有使用过HTML5的拖放API吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/275)
 - [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
 - [src、href、link的区别是什么？](https://github.com/haizlin/fe-interview/issues/250)
 - [有用地过WebGL吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/244)

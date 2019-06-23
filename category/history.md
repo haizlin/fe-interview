@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第67天 (2019.06.22)
+    - [html] [请写出唤醒拔打电话、发送邮件、发送短信的例子](https://github.com/haizlin/fe-interview/issues/407)
+    - [css] [如何消除transition闪屏？](https://github.com/haizlin/fe-interview/issues/408)
+    - [js] [举例子说说你对js隐式类型转换的理解](https://github.com/haizlin/fe-interview/issues/409)
+    - [软技能] [你觉得你自己最大的优点和缺点分别是什么？能否举例说明一下？](https://github.com/haizlin/fe-interview/issues/410)
+
 - 第66天 (2019.06.21)
     - [html] [HTML5如果不写`<! DOCTYPE html>` ，页面还会正常工作么？](https://github.com/haizlin/fe-interview/issues/403)
     - [css] [元素竖向的百分比设置是相对容器的高度吗？](https://github.com/haizlin/fe-interview/issues/404)

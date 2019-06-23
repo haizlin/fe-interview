@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.16
+> 最新：2019.06.23
 
+- [formData主要是用来做什么的？它的操作方法有哪些？](https://github.com/haizlin/fe-interview/issues/492)
+- [举例子说说你对js隐式类型转换的理解](https://github.com/haizlin/fe-interview/issues/409)
+- [请解释下什么是cookie隔离？为什么要隔离？如何隔离？](https://github.com/haizlin/fe-interview/issues/405)
+- [说说你对数据类型转换的理解是什么？类型转换的方法有哪些？](https://github.com/haizlin/fe-interview/issues/298)
+- [如何让(a==1 && a==2 && a==3)的值为true，把"=="换成"==="后还能为true吗？](https://github.com/haizlin/fe-interview/issues/295)
+- [举例子说明javascript的变量声明提升和函数声明提升](https://github.com/haizlin/fe-interview/issues/281)
+- [有用过HTML5的WebWork吗？它主要解决了什么问题？](https://github.com/haizlin/fe-interview/issues/277)
 - [写一个方法获取图片的原始宽高](https://github.com/haizlin/fe-interview/issues/256)
 - [请实现一个flattenDeep函数，把多维数组扁平化](https://github.com/haizlin/fe-interview/issues/252)
 - [写一个格式化金额的方法](https://github.com/haizlin/fe-interview/issues/246)

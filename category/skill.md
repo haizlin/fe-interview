@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.16
+> 最新：2019.06.23
 
+- [js动画和css动画有什么区别？](https://github.com/haizlin/fe-interview/issues/493)
+- [你觉得你自己最大的优点和缺点分别是什么？能否举例说明一下？](https://github.com/haizlin/fe-interview/issues/410)
+- [如果面试官让你说说下你的家庭？你会从哪些方面说呢？](https://github.com/haizlin/fe-interview/issues/406)
+- [最后如果技术面和HR面问你：你还有什么问题吗？你分别会问些什么？](https://github.com/haizlin/fe-interview/issues/297)
+- [如果面试官让你先自我介绍下，然后说下你的工作经历，你该怎么说？](https://github.com/haizlin/fe-interview/issues/296)
+- [说说什么是设计模式，你最常用的设计模式有哪些？](https://github.com/haizlin/fe-interview/issues/282)
+- [说说你对同构和SSR的理解](https://github.com/haizlin/fe-interview/issues/278)
 - [知道IPV6是什么吗？说说它和IPV4的区别是什么？](https://github.com/haizlin/fe-interview/issues/257)
 - [如何预防掉头发？](https://github.com/haizlin/fe-interview/issues/253)
 - [对于让你接手一个你觉得很烂的老项目，你该怎么办？](https://github.com/haizlin/fe-interview/issues/247)
