@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第69天 (2019.06.24)
+    - [html] [怎样禁止表单记住密码自动填充？](https://github.com/haizlin/fe-interview/issues/494)
+    - [css] [请说说`*{box-sizing: border-box;}`的作用及好处有哪些](https://github.com/haizlin/fe-interview/issues/495)
+    - [js] [说说你对base64的理解，它的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/496)
+    - [软技能] [为什么浏览器会有兼容的问题呢？](https://github.com/haizlin/fe-interview/issues/497)
+
 - 第68天 (2019.06.23)
     - [html] [写个例子说明HTML5在移动端如何打开APP？](https://github.com/haizlin/fe-interview/issues/490)
     - [css] [说说你对jpg、png、gif的理解，分别在什么场景下使用？有使用过webp吗？](https://github.com/haizlin/fe-interview/issues/491)

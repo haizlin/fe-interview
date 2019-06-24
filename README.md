@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.24) —— 第69天
-- [html] [怎样禁止表单记住密码自动填充？](https://github.com/haizlin/fe-interview/issues/494)
-- [css] [请说说`*{box-sizing: border-box;}`的作用及好处有哪些？](https://github.com/haizlin/fe-interview/issues/495)
-- [js] [说说你对base64的理解，它的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/496)
-- [软技能] [为什么浏览器会有兼容的问题呢？](https://github.com/haizlin/fe-interview/issues/497)
+## 今天的面试题 (2019.06.25) —— 第70天
+- [html] [html的a标签属性rel='nofollow'有什么作用？](https://github.com/haizlin/fe-interview/issues/498)
+- [css] [你有使用过哪些栅格系统？都有什么区别呢？](https://github.com/haizlin/fe-interview/issues/499)
+- [js] [Ajax请求中get和post方式有什么区别呢？分别在哪些场景下使用？](https://github.com/haizlin/fe-interview/issues/500)
+- [软技能] [本地git与远程仓库连接的方式有哪些？](https://github.com/haizlin/fe-interview/issues/501)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -65,17 +65,17 @@
 
 …………  
 
-- 第67天 (2019.06.22)
-    - [html] [请写出唤醒拔打电话、发送邮件、发送短信的例子](https://github.com/haizlin/fe-interview/issues/407)
-    - [css] [如何消除transition闪屏？](https://github.com/haizlin/fe-interview/issues/408)
-    - [js] [举例子说说你对js隐式类型转换的理解](https://github.com/haizlin/fe-interview/issues/409)
-    - [软技能] [你觉得你自己最大的优点和缺点分别是什么？能否举例说明一下？](https://github.com/haizlin/fe-interview/issues/410)
-
 - 第68天 (2019.06.23)
     - [html] [写个例子说明HTML5在移动端如何打开APP？](https://github.com/haizlin/fe-interview/issues/490)
     - [css] [说说你对jpg、png、gif的理解，分别在什么场景下使用？有使用过webp吗？](https://github.com/haizlin/fe-interview/issues/491)
     - [js] [formData主要是用来做什么的？它的操作方法有哪些？](https://github.com/haizlin/fe-interview/issues/492)
     - [软技能] [js动画和css动画有什么区别？](https://github.com/haizlin/fe-interview/issues/493)
+
+- 第69天 (2019.06.24)
+    - [html] [怎样禁止表单记住密码自动填充？](https://github.com/haizlin/fe-interview/issues/494)
+    - [css] [请说说`*{box-sizing: border-box;}`的作用及好处有哪些](https://github.com/haizlin/fe-interview/issues/495)
+    - [js] [说说你对base64的理解，它的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/496)
+    - [软技能] [为什么浏览器会有兼容的问题呢？](https://github.com/haizlin/fe-interview/issues/497)
 
 - **[查看全部](category/history.md)**
 
