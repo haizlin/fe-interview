@@ -26,7 +26,7 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**、thank**watch**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.06.25) —— 70 days
+## Today's Interview Question (2019.06.26) —— 71 days
 - [html] [html的a标签属性rel='nofollow'有什么作用？](https://github.com/haizlin/fe-interview/issues/498)
 - [css] [你有使用过哪些栅格系统？都有什么区别呢？](https://github.com/haizlin/fe-interview/issues/499)
 - [js] [Ajax请求中get和post方式有什么区别呢？分别在哪些场景下使用？](https://github.com/haizlin/fe-interview/issues/500)
@@ -67,17 +67,17 @@
 
 …………  
 
-- 68 days (2019.06.23)
-    - [html] [写个例子说明HTML5在移动端如何打开APP？](https://github.com/haizlin/fe-interview/issues/490)
-    - [css] [说说你对jpg、png、gif的理解，分别在什么场景下使用？有使用过webp吗？](https://github.com/haizlin/fe-interview/issues/491)
-    - [js] [formData主要是用来做什么的？它的操作方法有哪些？](https://github.com/haizlin/fe-interview/issues/492)
-    - [skill] [js动画和css动画有什么区别？](https://github.com/haizlin/fe-interview/issues/493)
-
 - 69 days (2019.06.24)
     - [html] [怎样禁止表单记住密码自动填充？](https://github.com/haizlin/fe-interview/issues/494)
     - [css] [请说说`*{box-sizing: border-box;}`的作用及好处有哪些](https://github.com/haizlin/fe-interview/issues/495)
     - [js] [说说你对base64的理解，它的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/496)
     - [skill] [为什么浏览器会有兼容的问题呢？](https://github.com/haizlin/fe-interview/issues/497)
+
+- 70 days (2019.06.25)
+    - [html] [html的a标签属性rel='nofollow'有什么作用？](https://github.com/haizlin/fe-interview/issues/498)
+    - [css] [你有使用过哪些栅格系统？都有什么区别呢？](https://github.com/haizlin/fe-interview/issues/499)
+    - [js] [Ajax请求中get和post方式有什么区别呢？分别在哪些场景下使用？](https://github.com/haizlin/fe-interview/issues/500)
+    - [skill] [本地git与远程仓库连接的方式有哪些？](https://github.com/haizlin/fe-interview/issues/501)
 
 - **[All](category/history.md)**
 
@@ -134,6 +134,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.06.21 — vue的题量突破150+，html/css/javascript/软技能的题量分别为67，成为目前市面上题量最大的开源仓库！（全球第一），感谢坚持！
 - 2019.06.23 — 仅仅两天，vue的题量再次突破220+，非常感谢坚持！
 - 2019.06.25 — 误打误撞，github上面搜索“前端面试”，按star排行，成功挺进前10，立个flag，年底目标前5！
+- 2019.06.26 — star数突破1000！
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
@@ -157,7 +158,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 * [前端帮帮忙](https://juejin.im/user/57b26b806be3ff006bb97122/posts)（前端帮帮忙系列）
 * [面试官](https://juejin.im/user/58d8cd0644d9040069433edb/posts)（面试官系列）
 * [面试图谱](https://yuchengkai.cn/docs/) （打造最好的面试图谱）
-* [前端知识整理](https://github.com/pingan8787/Leo-JavaScript) （Cute系列更新一些系列文章和框架demo，作为自己学习结果的输出，喜欢的朋友欢迎 👉stat）
+* [前端知识整理](https://github.com/pingan8787/Leo-JavaScript) （Cute系列更新一些系列文章和框架demo，作为自己学习结果的输出，喜欢的朋友欢迎 👉star）
 * 洞见前端小程序-(微信搜索，非常有意思的小程序，刷题必备)
 * 前端荣耀小程序-(微信搜索，非常有意思的小程序，通关打卡还有排行榜)
 

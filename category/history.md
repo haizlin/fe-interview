@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第70天 (2019.06.25)
+    - [html] [html的a标签属性rel='nofollow'有什么作用？](https://github.com/haizlin/fe-interview/issues/498)
+    - [css] [你有使用过哪些栅格系统？都有什么区别呢？](https://github.com/haizlin/fe-interview/issues/499)
+    - [js] [Ajax请求中get和post方式有什么区别呢？分别在哪些场景下使用？](https://github.com/haizlin/fe-interview/issues/500)
+    - [软技能] [本地git与远程仓库连接的方式有哪些？](https://github.com/haizlin/fe-interview/issues/501)
+
 - 第69天 (2019.06.24)
     - [html] [怎样禁止表单记住密码自动填充？](https://github.com/haizlin/fe-interview/issues/494)
     - [css] [请说说`*{box-sizing: border-box;}`的作用及好处有哪些](https://github.com/haizlin/fe-interview/issues/495)
