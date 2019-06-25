@@ -27,10 +27,10 @@
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
 ## Today's Interview Question (2019.06.26) —— 71 days
-- [html] [html的a标签属性rel='nofollow'有什么作用？](https://github.com/haizlin/fe-interview/issues/498)
-- [css] [你有使用过哪些栅格系统？都有什么区别呢？](https://github.com/haizlin/fe-interview/issues/499)
-- [js] [Ajax请求中get和post方式有什么区别呢？分别在哪些场景下使用？](https://github.com/haizlin/fe-interview/issues/500)
-- [skill] [本地git与远程仓库连接的方式有哪些？](https://github.com/haizlin/fe-interview/issues/501)
+- [html] [怎么在IE8及以下实现HTML5的兼容？](https://github.com/haizlin/fe-interview/issues/502)
+- [css] [你对响应式设计的理解是什么？知道它基本的原理是吗？要想兼容低版本的IE怎么做呢？](https://github.com/haizlin/fe-interview/issues/503)
+- [js] [说说你对深浅拷贝的理解？并实现一个对数组和对象深拷贝的方法](https://github.com/haizlin/fe-interview/issues/504)
+- [软技能] [做了这么多开发，说说你最大的感悟是什么？](https://github.com/haizlin/fe-interview/issues/505)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
