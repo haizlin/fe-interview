@@ -154,6 +154,7 @@
 * [前端帮帮忙](https://juejin.im/user/57b26b806be3ff006bb97122/posts)（前端帮帮忙系列）
 * [面试官](https://juejin.im/user/58d8cd0644d9040069433edb/posts)（面试官系列）
 * [面试图谱](https://yuchengkai.cn/docs/) （打造最好的面试图谱）
+* [前端知识整理](https://github.com/pingan8787/Leo-JavaScript) （Cute系列更新一些系列文章和框架demo，作为自己学习结果的输出，喜欢的朋友欢迎 👉stat）
 * 洞见前端小程序-(微信搜索，非常有意思的小程序，刷题必备)
 * 前端荣耀小程序-(微信搜索，非常有意思的小程序，通关打卡还有排行榜)
 
