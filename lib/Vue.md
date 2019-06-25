@@ -5,8 +5,9 @@
 [vue](#vue) | [vue-cli](#vue-cli) | [vue-router](#vue-router) | [vuex](#vuex)  | [ElementUI](#ElementUI) | [ElementUI](#ElementUI) | [mint-ui](#mint-ui)
 
 ### vue
-- [你知道style加scoped属性的用途和原理吗？]()
-
+- [vue渲染模板时怎么保留模板中的HTML注释呢？](https://github.com/haizlin/fe-interview/issues/508)
+- [Vue.observable你有了解过吗？说说看](https://github.com/haizlin/fe-interview/issues/507)
+- [你知道style加scoped属性的用途和原理吗？](https://github.com/haizlin/fe-interview/issues/506)
 - [你期待vue3.0有什么功能或者改进的地方？](https://github.com/haizlin/fe-interview/issues/489)
 - [vue边界情况有哪些？](https://github.com/haizlin/fe-interview/issues/478)
 - [如何在子组件中访问父组件的实例？](https://github.com/haizlin/fe-interview/issues/477)
