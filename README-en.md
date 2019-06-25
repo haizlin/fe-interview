@@ -133,7 +133,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.06.20 — star数突破888！好吉利的数字！
 - 2019.06.21 — vue的题量突破150+，html/css/javascript/软技能的题量分别为67，成为目前市面上题量最大的开源仓库！（全球第一），感谢坚持！
 - 2019.06.23 — 仅仅两天，vue的题量再次突破220+，非常感谢坚持！
-- 2019.06.25 — 误打误撞，github上面搜索“前端面试”，按star排行，成功挺进前10，立个flag，年底目前前5！
+- 2019.06.25 — 误打误撞，github上面搜索“前端面试”，按star排行，成功挺进前10，立个flag，年底目标前5！
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
