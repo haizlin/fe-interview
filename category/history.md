@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第71天 (2019.06.26)
+    - [html] [怎么在IE8及以下实现HTML5的兼容？](https://github.com/haizlin/fe-interview/issues/502)
+    - [css] [你对响应式设计的理解是什么？知道它基本的原理是吗？要想兼容低版本的IE怎么做呢？](https://github.com/haizlin/fe-interview/issues/503)
+    - [js] [说说你对深浅拷贝的理解？并实现一个对数组和对象深拷贝的方法](https://github.com/haizlin/fe-interview/issues/504)
+    - [软技能] [做了这么多年开发，说说你最大的感悟是什么？](https://github.com/haizlin/fe-interview/issues/505)
+
 - 第70天 (2019.06.25)
     - [html] [html的a标签属性rel='nofollow'有什么作用？](https://github.com/haizlin/fe-interview/issues/498)
     - [css] [你有使用过哪些栅格系统？都有什么区别呢？](https://github.com/haizlin/fe-interview/issues/499)
