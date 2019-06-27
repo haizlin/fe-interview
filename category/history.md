@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第72天 (2019.06.27)
+    - [html] [video和audio分别支持哪些格式？](https://github.com/haizlin/fe-interview/issues/509)
+    - [css] [怎么改变选中文本的文字颜色和背景色？](https://github.com/haizlin/fe-interview/issues/510)
+    - [js] [写一个字符串重复的repeat函数](https://github.com/haizlin/fe-interview/issues/511)
+    - [软技能] [你知道二维码的原理是什么吗？要把android和ios的下载地址合成一个二维码怎么做呢？](https://github.com/haizlin/fe-interview/issues/512)
+
 - 第71天 (2019.06.26)
     - [html] [怎么在IE8及以下实现HTML5的兼容？](https://github.com/haizlin/fe-interview/issues/502)
     - [css] [你对响应式设计的理解是什么？知道它基本的原理是吗？要想兼容低版本的IE怎么做呢？](https://github.com/haizlin/fe-interview/issues/503)
