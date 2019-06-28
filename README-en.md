@@ -26,11 +26,11 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**、thank**watch**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
-## Today's Interview Question (2019.06.28) —— 73 days
-- [html] [favicon.ico有什么作用？怎么在页面中引用？常用尺寸有哪些？可以修改后缀名吗？](https://github.com/haizlin/fe-interview/issues/513)
-- [css] [在实际编写css中你有遇到过哪些浏览器兼容性的问题？怎么解决的？](https://github.com/haizlin/fe-interview/issues/514)
-- [js] [移动端点击事件为什么会有延迟？有哪些方法可以解决？](https://github.com/haizlin/fe-interview/issues/515)
-- [skill] [说说你对RESTful的理解](https://github.com/haizlin/fe-interview/issues/516)
+## Today's Interview Question (2019.06.29) —— 74 days
+- [html] [在a标签上的四个伪类执行顺序是什么？](https://github.com/haizlin/fe-interview/issues/517)
+- [css] [说说你对!important的理解，一般在哪些场景使用？](https://github.com/haizlin/fe-interview/issues/518)
+- [js] [写一个方法随机生成指定位数的字符串](https://github.com/haizlin/fe-interview/issues/519)
+- [skill] [说下你对互联网行业及前端技术发展趋势的看法](https://github.com/haizlin/fe-interview/issues/520)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -67,17 +67,17 @@
 
 …………  
 
-- 71 days (2019.06.26)
-    - [html] [怎么在IE8及以下实现HTML5的兼容？](https://github.com/haizlin/fe-interview/issues/502)
-    - [css] [你对响应式设计的理解是什么？知道它基本的原理是吗？要想兼容低版本的IE怎么做呢？](https://github.com/haizlin/fe-interview/issues/503)
-    - [js] [说说你对深浅拷贝的理解？并实现一个对数组和对象深拷贝的方法](https://github.com/haizlin/fe-interview/issues/504)
-    - [skill] [做了这么多年开发，说说你最大的感悟是什么？](https://github.com/haizlin/fe-interview/issues/505)
-
-- 第73天 (2019.06.28)
+- 72 days (2019.06.27)
     - [html] [video和audio分别支持哪些格式？](https://github.com/haizlin/fe-interview/issues/509)
     - [css] [怎么改变选中文本的文字颜色和背景色？](https://github.com/haizlin/fe-interview/issues/510)
     - [js] [写一个字符串重复的repeat函数](https://github.com/haizlin/fe-interview/issues/511)
     - [skill] [你知道二维码的原理是什么吗？要把android和ios的下载地址合成一个二维码怎么做呢？](https://github.com/haizlin/fe-interview/issues/512)
+
+- 73 days (2019.06.29)
+    - [html] [favicon.ico有什么作用？怎么在页面中引用？常用尺寸有哪些？可以修改后缀名吗？](https://github.com/haizlin/fe-interview/issues/513)
+    - [css] [在实际编写css中你有遇到过哪些浏览器兼容性的问题？怎么解决的？](https://github.com/haizlin/fe-interview/issues/514)
+    - [js] [移动端点击事件为什么会有延迟？有哪些方法可以解决？](https://github.com/haizlin/fe-interview/issues/515)
+    - [skill] [说说你对RESTful的理解](https://github.com/haizlin/fe-interview/issues/516)
 
 - **[All](category/history.md)**
 
@@ -135,6 +135,8 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.06.23 — 仅仅两天，vue的题量再次突破220+，非常感谢坚持！
 - 2019.06.25 — 误打误撞，github上面搜索“前端面试”，按star排行，成功挺进前10，立个flag，年底目标前5！
 - 2019.06.26 — 第71天，star数突破1000，issues数突破500！
+- 2019.06.28 — 第73天，此开源项目被[HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39/)收录，并把作者添加到了贡献者的名单，感觉HG，欢迎大家关注HG！
+- 2019.06.28 — 第73天，star数突破1300，原因是发布了篇 [vue 220+个知识点（面试题）为你保驾护航](https://juejin.im/post/5d153267e51d4510624f9809)，看来爱学习的朋友还是非常多的！
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）

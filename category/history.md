@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第73天 (2019.06.28)
+    - [html] [favicon.ico有什么作用？怎么在页面中引用？常用尺寸有哪些？可以修改后缀名吗？](https://github.com/haizlin/fe-interview/issues/513)
+    - [css] [在实际编写css中你有遇到过哪些浏览器兼容性的问题？怎么解决的？](https://github.com/haizlin/fe-interview/issues/514)
+    - [js] [移动端点击事件为什么会有延迟？有哪些方法可以解决？](https://github.com/haizlin/fe-interview/issues/515)
+    - [软技能] [说说你对RESTful的理解](https://github.com/haizlin/fe-interview/issues/516)
+
 - 第72天 (2019.06.27)
     - [html] [video和audio分别支持哪些格式？](https://github.com/haizlin/fe-interview/issues/509)
     - [css] [怎么改变选中文本的文字颜色和背景色？](https://github.com/haizlin/fe-interview/issues/510)
