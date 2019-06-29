@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.29) —— 第74天
-- [html] [在a标签上的四个伪类执行顺序是什么？](https://github.com/haizlin/fe-interview/issues/517)
-- [css] [说说你对!important的理解，一般在哪些场景使用？](https://github.com/haizlin/fe-interview/issues/518)
-- [js] [写一个方法随机生成指定位数的字符串](https://github.com/haizlin/fe-interview/issues/519)
-- [软技能] [说下你对互联网行业及前端技术发展趋势的看法](https://github.com/haizlin/fe-interview/issues/520)
+## 今天的面试题 (2019.06.30) —— 第75天
+- [html] [移动web页面如何自动探测电话号码？](https://github.com/haizlin/fe-interview/issues/521)
+- [css] [请你解释下什么是浮动和它的工作原理是什么？同时浮动会引起什么问题？](https://github.com/haizlin/fe-interview/issues/522)
+- [js] [js中=、==、===三个的区别是什么？并说明它们各自的工作过程](https://github.com/haizlin/fe-interview/issues/523)
+- [软技能] [说说你做过让你觉得最满意的项目是什么？为什么？](https://github.com/haizlin/fe-interview/issues/524)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -65,17 +65,17 @@
 
 …………  
 
-- 第72天 (2019.06.27)
-    - [html] [video和audio分别支持哪些格式？](https://github.com/haizlin/fe-interview/issues/509)
-    - [css] [怎么改变选中文本的文字颜色和背景色？](https://github.com/haizlin/fe-interview/issues/510)
-    - [js] [写一个字符串重复的repeat函数](https://github.com/haizlin/fe-interview/issues/511)
-    - [软技能] [你知道二维码的原理是什么吗？要把android和ios的下载地址合成一个二维码怎么做呢？](https://github.com/haizlin/fe-interview/issues/512)
-
 - 第73天 (2019.06.28)
     - [html] [favicon.ico有什么作用？怎么在页面中引用？常用尺寸有哪些？可以修改后缀名吗？](https://github.com/haizlin/fe-interview/issues/513)
     - [css] [在实际编写css中你有遇到过哪些浏览器兼容性的问题？怎么解决的？](https://github.com/haizlin/fe-interview/issues/514)
     - [js] [移动端点击事件为什么会有延迟？有哪些方法可以解决？](https://github.com/haizlin/fe-interview/issues/515)
     - [软技能] [说说你对RESTful的理解](https://github.com/haizlin/fe-interview/issues/516)
+
+- 第74天 (2019.06.29)
+    - [html] [在a标签上的四个伪类执行顺序是什么？](https://github.com/haizlin/fe-interview/issues/517)
+    - [css] [说说你对!important的理解，一般在哪些场景使用？](https://github.com/haizlin/fe-interview/issues/518)
+    - [js] [写一个方法随机生成指定位数的字符串](https://github.com/haizlin/fe-interview/issues/519)
+    - [软技能] [说下你对互联网行业及前端技术发展趋势的看法](https://github.com/haizlin/fe-interview/issues/520)
 
 - **[查看全部](category/history.md)**
 

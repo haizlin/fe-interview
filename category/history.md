@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第74天 (2019.06.29)
+    - [html] [在a标签上的四个伪类执行顺序是什么？](https://github.com/haizlin/fe-interview/issues/517)
+    - [css] [说说你对!important的理解，一般在哪些场景使用？](https://github.com/haizlin/fe-interview/issues/518)
+    - [js] [写一个方法随机生成指定位数的字符串](https://github.com/haizlin/fe-interview/issues/519)
+    - [软技能] [说下你对互联网行业及前端技术发展趋势的看法](https://github.com/haizlin/fe-interview/issues/520)
+
 - 第73天 (2019.06.28)
     - [html] [favicon.ico有什么作用？怎么在页面中引用？常用尺寸有哪些？可以修改后缀名吗？](https://github.com/haizlin/fe-interview/issues/513)
     - [css] [在实际编写css中你有遇到过哪些浏览器兼容性的问题？怎么解决的？](https://github.com/haizlin/fe-interview/issues/514)
