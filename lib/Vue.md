@@ -1,7 +1,7 @@
 # vue面试题
 > 鼓励PR
 
-## 历史题目(最新：2019.06.19)
+## 历史题目(最新：2019.06.26)
 [vue](#vue) | [vue-cli](#vue-cli) | [vue-router](#vue-router) | [vuex](#vuex)  | [ElementUI](#ElementUI) | [ElementUI](#ElementUI) | [mint-ui](#mint-ui)
 
 ### vue
@@ -89,7 +89,7 @@
 - [vue怎么获取DOM节点？](https://github.com/haizlin/fe-interview/issues/346)
 - [vue项目有做过单元测试吗？](https://github.com/haizlin/fe-interview/issues/345)
 - [vue项目有使用过npm run build --report吗？](https://github.com/haizlin/fe-interview/issues/344)
-- [如何解决vue打包wendor过大的问题？](https://github.com/haizlin/fe-interview/issues/343)
+- [如何解决vue打包vendor过大的问题？](https://github.com/haizlin/fe-interview/issues/343)
 - [webpack打包vue速度太慢怎么办？](https://github.com/haizlin/fe-interview/issues/342)
 - [vue在开发过程中要同时跟N个不同的后端人员联调接口（请求的url不一样）时你该怎么办？](https://github.com/haizlin/fe-interview/issues/341)
 - [vue要做权限管理该怎么做？如果控制到按钮级别的权限怎么做？](https://github.com/haizlin/fe-interview/issues/340)

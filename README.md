@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.06.26) —— 第71天
-- [html] [怎么在IE8及以下实现HTML5的兼容？](https://github.com/haizlin/fe-interview/issues/502)
-- [css] [你对响应式设计的理解是什么？知道它基本的原理是吗？要想兼容低版本的IE怎么做呢？](https://github.com/haizlin/fe-interview/issues/503)
-- [js] [说说你对深浅拷贝的理解？并实现一个对数组和对象深拷贝的方法](https://github.com/haizlin/fe-interview/issues/504)
-- [软技能] [做了这么多年开发，说说你最大的感悟是什么？](https://github.com/haizlin/fe-interview/issues/505)
+## 今天的面试题 (2019.06.30) —— 第75天
+- [html] [移动web页面如何自动探测电话号码？](https://github.com/haizlin/fe-interview/issues/521)
+- [css] [请你解释下什么是浮动和它的工作原理是什么？同时浮动会引起什么问题？](https://github.com/haizlin/fe-interview/issues/522)
+- [js] [js中=、==、===三个的区别是什么？并说明它们各自的工作过程](https://github.com/haizlin/fe-interview/issues/523)
+- [软技能] [说说你做过让你觉得最满意的项目是什么？为什么？](https://github.com/haizlin/fe-interview/issues/524)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -65,17 +65,17 @@
 
 …………  
 
-- 第69天 (2019.06.24)
-    - [html] [怎样禁止表单记住密码自动填充？](https://github.com/haizlin/fe-interview/issues/494)
-    - [css] [请说说`*{box-sizing: border-box;}`的作用及好处有哪些](https://github.com/haizlin/fe-interview/issues/495)
-    - [js] [说说你对base64的理解，它的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/496)
-    - [软技能] [为什么浏览器会有兼容的问题呢？](https://github.com/haizlin/fe-interview/issues/497)
+- 第73天 (2019.06.28)
+    - [html] [favicon.ico有什么作用？怎么在页面中引用？常用尺寸有哪些？可以修改后缀名吗？](https://github.com/haizlin/fe-interview/issues/513)
+    - [css] [在实际编写css中你有遇到过哪些浏览器兼容性的问题？怎么解决的？](https://github.com/haizlin/fe-interview/issues/514)
+    - [js] [移动端点击事件为什么会有延迟？有哪些方法可以解决？](https://github.com/haizlin/fe-interview/issues/515)
+    - [软技能] [说说你对RESTful的理解](https://github.com/haizlin/fe-interview/issues/516)
 
-- 第70天 (2019.06.25)
-    - [html] [html的a标签属性rel='nofollow'有什么作用？](https://github.com/haizlin/fe-interview/issues/498)
-    - [css] [你有使用过哪些栅格系统？都有什么区别呢？](https://github.com/haizlin/fe-interview/issues/499)
-    - [js] [Ajax请求中get和post方式有什么区别呢？分别在哪些场景下使用？](https://github.com/haizlin/fe-interview/issues/500)
-    - [软技能] [本地git与远程仓库连接的方式有哪些？](https://github.com/haizlin/fe-interview/issues/501)
+- 第74天 (2019.06.29)
+    - [html] [在a标签上的四个伪类执行顺序是什么？](https://github.com/haizlin/fe-interview/issues/517)
+    - [css] [说说你对!important的理解，一般在哪些场景使用？](https://github.com/haizlin/fe-interview/issues/518)
+    - [js] [写一个方法随机生成指定位数的字符串](https://github.com/haizlin/fe-interview/issues/519)
+    - [软技能] [说下你对互联网行业及前端技术发展趋势的看法](https://github.com/haizlin/fe-interview/issues/520)
 
 - **[查看全部](category/history.md)**
 
@@ -133,6 +133,8 @@
 - 2019.06.23 — 仅仅两天，vue的题量再次突破220+，非常感谢坚持！
 - 2019.06.25 — 误打误撞，github上面搜索“前端面试”，按star排行，成功挺进前10，立个flag，年底目标前5！
 - 2019.06.26 — 第71天，star数突破1000，issues数突破500！
+- 2019.06.28 — 第73天，此开源项目被[HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39/)收录，并把作者添加到了贡献者的名单，感觉HG，欢迎大家关注HG！
+- 2019.06.28 — 第73天，star数突破1300，原因是发布了篇 [vue 220+个知识点（面试题）为你保驾护航](https://juejin.im/post/5d153267e51d4510624f9809)，看来爱学习的朋友还是非常多的！
 
 ## 在哪可以看到
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
