@@ -1,4 +1,4 @@
-# 周汇总 2019.06.123
+# 周汇总 2019.06.30
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -13,6 +13,13 @@
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
 ## html
+- [移动web页面如何自动探测电话号码？](https://github.com/haizlin/fe-interview/issues/521)
+- [在a标签上的四个伪类执行顺序是什么？](https://github.com/haizlin/fe-interview/issues/517)
+- [favicon.ico有什么作用？怎么在页面中引用？常用尺寸有哪些？可以修改后缀名吗？](https://github.com/haizlin/fe-interview/issues/513)
+- [video和audio分别支持哪些格式？](https://github.com/haizlin/fe-interview/issues/509)
+- [怎么在IE8及以下实现HTML5的兼容？](https://github.com/haizlin/fe-interview/issues/502)
+- [html的a标签属性rel='nofollow'有什么作用？](https://github.com/haizlin/fe-interview/issues/498)
+- [怎样禁止表单记住密码自动填充？](https://github.com/haizlin/fe-interview/issues/494)
 - [写个例子说明HTML5在移动端如何打开APP？](https://github.com/haizlin/fe-interview/issues/490)
 - [请写出唤醒拔打电话、发送邮件、发送短信的例子](https://github.com/haizlin/fe-interview/issues/407)
 - [HTML5如果不写`<! DOCTYPE html>` ，页面还会正常工作么？](https://github.com/haizlin/fe-interview/issues/403)
@@ -82,6 +89,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [请你解释下什么是浮动和它的工作原理是什么？同时浮动会引起什么问题？](https://github.com/haizlin/fe-interview/issues/522)
+- [说说你对!important的理解，一般在哪些场景使用？](https://github.com/haizlin/fe-interview/issues/518)
+- [在实际编写css中你有遇到过哪些浏览器兼容性的问题？怎么解决的？](https://github.com/haizlin/fe-interview/issues/514)
+- [怎么改变选中文本的文字颜色和背景色？](https://github.com/haizlin/fe-interview/issues/510)
+- [你对响应式设计的理解是什么？知道它基本的原理是吗？要想兼容低版本的IE怎么做呢？](https://github.com/haizlin/fe-interview/issues/503)
+- [你有使用过哪些栅格系统？都有什么区别呢？](https://github.com/haizlin/fe-interview/issues/499)
+- [请说说`*{box-sizing: border-box;}`的作用及好处有哪些](https://github.com/haizlin/fe-interview/issues/495)
 - [说说你对jpg、png、gif的理解，分别在什么场景下使用？有使用过webp吗？](https://github.com/haizlin/fe-interview/issues/491)
 - [如何消除transition闪屏？](https://github.com/haizlin/fe-interview/issues/408)
 - [元素竖向的百分比设置是相对容器的高度吗？](https://github.com/haizlin/fe-interview/issues/404)
@@ -151,6 +165,13 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [js中=、==、===三个的区别是什么？并说明它们各自的工作过程](https://github.com/haizlin/fe-interview/issues/523)
+- [写一个方法随机生成指定位数的字符串](https://github.com/haizlin/fe-interview/issues/519)
+- [移动端点击事件为什么会有延迟？有哪些方法可以解决？](https://github.com/haizlin/fe-interview/issues/515)
+- [写一个字符串重复的repeat函数](https://github.com/haizlin/fe-interview/issues/511)
+- [说说你对深浅拷贝的理解？并实现一个对数组和对象深拷贝的方法](https://github.com/haizlin/fe-interview/issues/504)
+- [Ajax请求中get和post方式有什么区别呢？分别在哪些场景下使用？](https://github.com/haizlin/fe-interview/issues/500)
+- [说说你对base64的理解，它的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/496)
 - [formData主要是用来做什么的？它的操作方法有哪些？](https://github.com/haizlin/fe-interview/issues/492)
 - [举例子说说你对js隐式类型转换的理解](https://github.com/haizlin/fe-interview/issues/409)
 - [请解释下什么是cookie隔离？为什么要隔离？如何隔离？](https://github.com/haizlin/fe-interview/issues/405)
@@ -219,6 +240,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [说说你做过让你觉得最满意的项目是什么？为什么？](https://github.com/haizlin/fe-interview/issues/524)
+- [说下你对互联网行业及前端技术发展趋势的看法](https://github.com/haizlin/fe-interview/issues/520)
+- [说说你对RESTful的理解](https://github.com/haizlin/fe-interview/issues/516)
+- [你知道二维码的原理是什么吗？要把android和ios的下载地址合成一个二维码怎么做呢？](https://github.com/haizlin/fe-interview/issues/512)
+- [做了这么多年开发，说说你最大的感悟是什么？](https://github.com/haizlin/fe-interview/issues/505)
+- [本地git与远程仓库连接的方式有哪些？](https://github.com/haizlin/fe-interview/issues/501)
+- [为什么浏览器会有兼容的问题呢？](https://github.com/haizlin/fe-interview/issues/497)
 - [js动画和css动画有什么区别？](https://github.com/haizlin/fe-interview/issues/493)
 - [你觉得你自己最大的优点和缺点分别是什么？能否举例说明一下？](https://github.com/haizlin/fe-interview/issues/410)
 - [如果面试官让你说说下你的家庭？你会从哪些方面说呢？](https://github.com/haizlin/fe-interview/issues/406)

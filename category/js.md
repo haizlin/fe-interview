@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.23
+> 最新：2019.06.30
 
+- [js中=、==、===三个的区别是什么？并说明它们各自的工作过程](https://github.com/haizlin/fe-interview/issues/523)
+- [写一个方法随机生成指定位数的字符串](https://github.com/haizlin/fe-interview/issues/519)
+- [移动端点击事件为什么会有延迟？有哪些方法可以解决？](https://github.com/haizlin/fe-interview/issues/515)
+- [写一个字符串重复的repeat函数](https://github.com/haizlin/fe-interview/issues/511)
+- [说说你对深浅拷贝的理解？并实现一个对数组和对象深拷贝的方法](https://github.com/haizlin/fe-interview/issues/504)
+- [Ajax请求中get和post方式有什么区别呢？分别在哪些场景下使用？](https://github.com/haizlin/fe-interview/issues/500)
+- [说说你对base64的理解，它的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/496)
 - [formData主要是用来做什么的？它的操作方法有哪些？](https://github.com/haizlin/fe-interview/issues/492)
 - [举例子说说你对js隐式类型转换的理解](https://github.com/haizlin/fe-interview/issues/409)
 - [请解释下什么是cookie隔离？为什么要隔离？如何隔离？](https://github.com/haizlin/fe-interview/issues/405)

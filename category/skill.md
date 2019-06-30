@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.23
+> 最新：2019.06.30
 
+- [说说你做过让你觉得最满意的项目是什么？为什么？](https://github.com/haizlin/fe-interview/issues/524)
+- [说下你对互联网行业及前端技术发展趋势的看法](https://github.com/haizlin/fe-interview/issues/520)
+- [说说你对RESTful的理解](https://github.com/haizlin/fe-interview/issues/516)
+- [你知道二维码的原理是什么吗？要把android和ios的下载地址合成一个二维码怎么做呢？](https://github.com/haizlin/fe-interview/issues/512)
+- [做了这么多年开发，说说你最大的感悟是什么？](https://github.com/haizlin/fe-interview/issues/505)
+- [本地git与远程仓库连接的方式有哪些？](https://github.com/haizlin/fe-interview/issues/501)
+- [为什么浏览器会有兼容的问题呢？](https://github.com/haizlin/fe-interview/issues/497)
 - [js动画和css动画有什么区别？](https://github.com/haizlin/fe-interview/issues/493)
 - [你觉得你自己最大的优点和缺点分别是什么？能否举例说明一下？](https://github.com/haizlin/fe-interview/issues/410)
 - [如果面试官让你说说下你的家庭？你会从哪些方面说呢？](https://github.com/haizlin/fe-interview/issues/406)
