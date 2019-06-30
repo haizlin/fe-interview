@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第75天 (2019.06.30)
+    - [html] [移动web页面如何自动探测电话号码？](https://github.com/haizlin/fe-interview/issues/521)
+    - [css] [请你解释下什么是浮动和它的工作原理是什么？同时浮动会引起什么问题？](https://github.com/haizlin/fe-interview/issues/522)
+    - [js] [js中=、==、===三个的区别是什么？并说明它们各自的工作过程](https://github.com/haizlin/fe-interview/issues/523)
+    - [软技能] [说说你做过让你觉得最满意的项目是什么？为什么？](https://github.com/haizlin/fe-interview/issues/524)
+
 - 第74天 (2019.06.29)
     - [html] [在a标签上的四个伪类执行顺序是什么？](https://github.com/haizlin/fe-interview/issues/517)
     - [css] [说说你对!important的理解，一般在哪些场景使用？](https://github.com/haizlin/fe-interview/issues/518)
