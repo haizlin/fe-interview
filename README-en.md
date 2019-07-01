@@ -151,6 +151,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 
 ## Friendship Links (you have good open source projects, welcome to recommend)
 * [jsliang 的文档库](https://github.com/LiangJunrong/document-library)（每日一道 LeetCode，jsliang 带你进行每日折腾~）
+* [前端入门和进阶学习笔记](https://github.com/qianguyihao/Web)（前端入门和进阶学习笔记。从零开始学前端，做一个web全栈工程师。）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
 * [刘小夕](https://github.com/YvetteLau/Step-By-Step)（公众号【前端宇宙】作者刘小夕，我将和大家一起一步一个脚印，向前端专家迈进。）
 * [每周面试题](https://github.com/airuikun/Weekly-FE-Interview)（每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。）
