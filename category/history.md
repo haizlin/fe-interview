@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第76天 (2019.07.01)
+    - [html] [HTML5如何识别语音读出的内容和朗读指定的内容？](https://github.com/haizlin/fe-interview/issues/526)
+    - [css] [用CSS画出一个任意角度的扇形，可以写多种实现的方法](https://github.com/haizlin/fe-interview/issues/527)
+    - [js] [说说instanceof和typeof的实现原理并自己模拟实现一个instanceof](https://github.com/haizlin/fe-interview/issues/528)
+    - [软技能] [你对web服务器软件有了解吗？都使用过哪些？各有哪些优缺点呢？](https://github.com/haizlin/fe-interview/issues/529)
+
 - 第75天 (2019.06.30)
     - [html] [移动web页面如何自动探测电话号码？](https://github.com/haizlin/fe-interview/issues/521)
     - [css] [请你解释下什么是浮动和它的工作原理是什么？同时浮动会引起什么问题？](https://github.com/haizlin/fe-interview/issues/522)
