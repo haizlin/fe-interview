@@ -5,6 +5,24 @@
 [vue](#vue) | [vue-cli](#vue-cli) | [vue-router](#vue-router) | [vuex](#vuex)  | [ElementUI](#ElementUI) | [ElementUI](#ElementUI) | [mint-ui](#mint-ui)
 
 ### vue
+- [你知道vue的模板语法用的是哪个web模板引擎的吗？说说你对这模板引擎的理解](https://github.com/haizlin/fe-interview/issues/561)
+- [你知道v-model的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/560)
+- [你有使用过vue开发多语言项目吗？说说你的做法？](https://github.com/haizlin/fe-interview/issues/559)
+- [在使用计算属性的时，函数名和data数据源中的数据可以同名吗？](https://github.com/haizlin/fe-interview/issues/558)
+- [vue中data的属性可以和methods中的方法同名吗？为什么？](https://github.com/haizlin/fe-interview/issues/557)
+- [怎么给vue定义全局的方法？](https://github.com/haizlin/fe-interview/issues/556)
+- [vue2.0不再支持v-html中使用过滤器了怎么办？](https://github.com/haizlin/fe-interview/issues/555)
+- [怎么解决vue打包后静态资源图片失效的问题？](https://github.com/haizlin/fe-interview/issues/554)
+- [怎么解决vue动态设置img的src不生效的问题？](https://github.com/haizlin/fe-interview/issues/553)
+- [使用vue后怎么针对搜索引擎做SEO优化？](https://github.com/haizlin/fe-interview/issues/552)
+- [跟keep-alive有关的生命周期是哪些？描述下这些生命周期](https://github.com/haizlin/fe-interview/issues/551)
+- [如果现在让你从vue/react/angularjs三个中选择一个，你会选哪个？说说你的理由](https://github.com/haizlin/fe-interview/issues/550)
+- [你知道vue2.0兼容IE哪个版本以上吗？](https://github.com/haizlin/fe-interview/issues/549)
+- [使用vue开发一个todo小应用，谈下你的思路](https://github.com/haizlin/fe-interview/issues/548)
+- [你有看过vue推荐的风格指南吗？列举出你知道的几条](https://github.com/haizlin/fe-interview/issues/547)
+- [你是从vue哪个版本开始用的？你知道1.x和2.x有什么区别吗？](https://github.com/haizlin/fe-interview/issues/546)
+- [你知道vue中key的原理吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/545)
+- [vue中怎么重置data？](https://github.com/haizlin/fe-interview/issues/544)
 - [vue渲染模板时怎么保留模板中的HTML注释呢？](https://github.com/haizlin/fe-interview/issues/508)
 - [Vue.observable你有了解过吗？说说看](https://github.com/haizlin/fe-interview/issues/507)
 - [你知道style加scoped属性的用途和原理吗？](https://github.com/haizlin/fe-interview/issues/506)
@@ -173,6 +191,10 @@
 - [有使用过vue吗？说说你对vue的理解](https://github.com/haizlin/fe-interview/issues/223)
 
 ## vue-cli
+- [vue-cli提供了的哪几种脚手架模板？](https://github.com/haizlin/fe-interview/issues/543)
+- [vue-cli工程中常用的npm命令有哪些？](https://github.com/haizlin/fe-interview/issues/542)
+- [在使用vue-cli开发vue项目时，自动刷新页面的原理你了解吗？](https://github.com/haizlin/fe-interview/issues/541)
+- [vue-cli3插件有写过吗？怎么写一个代码生成插件？](https://github.com/haizlin/fe-interview/issues/540)
 - [vue-cli生成的项目可以使用es6、es7的语法吗？为什么？](https://github.com/haizlin/fe-interview/issues/488)
 - [vue-cli怎么解决跨域的问题？](https://github.com/haizlin/fe-interview/issues/487)
 - [vue-cli中你经常的加载器有哪些？](https://github.com/haizlin/fe-interview/issues/486)
@@ -209,6 +231,9 @@
 - [vue-router是用来做什么的？它有哪些组件？](https://github.com/haizlin/fe-interview/issues/367)
 
 ### vuex
+- [你有写过vuex中store的插件吗？](https://github.com/haizlin/fe-interview/issues/539)
+- [你有使用过vuex的module吗？主要是在什么场景下使用？](https://github.com/haizlin/fe-interview/issues/538)
+- [vuex中actions和mutations有什么区别？](https://github.com/haizlin/fe-interview/issues/537)
 - [vuex使用actions时不支持多参数传递怎么办？](https://github.com/haizlin/fe-interview/issues/413)
 - [你觉得vuex有什么缺点？](https://github.com/haizlin/fe-interview/issues/412)
 - [你觉得要是不用vuex的话会带来哪些问题？](https://github.com/haizlin/fe-interview/issues/411)
