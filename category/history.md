@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第77天 (2019.07.02)
+    - [html] [说说你对HTML5的img标签属性srcset和sizes的理解？都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/530)
+    - [css] [请问display:inline-block在什么时候会显示间隙？](https://github.com/haizlin/fe-interview/issues/531)
+    - [js] [请快速答出此题的答案并解释：var x, y = 1; x + y = ?](https://github.com/haizlin/fe-interview/issues/532)
+    - [软技能] [你会抓包吗？都有用过哪些抓包工具？](https://github.com/haizlin/fe-interview/issues/533)
+
 - 第76天 (2019.07.01)
     - [html] [HTML5如何识别语音读出的内容和朗读指定的内容？](https://github.com/haizlin/fe-interview/issues/526)
     - [css] [用CSS画出一个任意角度的扇形，可以写多种实现的方法](https://github.com/haizlin/fe-interview/issues/527)
