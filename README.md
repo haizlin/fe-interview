@@ -27,7 +27,7 @@
 ## 今天的面试题 (2019.07.02) —— 第77天
 - [html] [说说你对HTML5的img标签属性srcset和sizes的理解？都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/530)
 - [css] [请问display:inline-block在什么时候会显示间隙？](https://github.com/haizlin/fe-interview/issues/531)
-- [js] [请快速答出此题的答案并解释：var x, y = 1; x = y = ?](https://github.com/haizlin/fe-interview/issues/532)
+- [js] [请快速答出此题的答案并解释：var x, y = 1; x + y = ?](https://github.com/haizlin/fe-interview/issues/532)
 - [软技能] [你会抓包吗？都有用过哪些抓包工具？](https://github.com/haizlin/fe-interview/issues/533)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
