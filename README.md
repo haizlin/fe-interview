@@ -153,6 +153,7 @@
 * [千古壹号](https://github.com/qianguyihao/Web)（前端入门和进阶学习笔记作者。从零开始学前端，做一个web全栈工程师。）
 * [CS-Notes](https://github.com/CyC2018/CS-Notes)（技术面试必备基础知识、Leetcode 题解）
 * [情封](https://github.com/f2er)（公众号「前端早读课」作者情封）
+* [Node.js技术栈](https://github.com/Q-Angelo/Nodejs-Roadmap)（公众号「Node.js技术栈」作者五月君，侧重于Node.js服务端的开发指南）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
 * [刘小夕](https://github.com/YvetteLau/Step-By-Step)（公众号「前端宇宙」作者刘小夕，我将和大家一起一步一个脚印，向前端专家迈进。）
 * [第一名的小蝌蚪](https://github.com/airuikun/Weekly-FE-Interview)（每周十道前端大厂面试题，并收集大家在大厂面试中遇到的难题，一起共同成长。）
