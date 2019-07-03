@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.07.03) —— 第78天
-- [html] [你有用过HTML5中的datalist标签吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/562)
-- [css] [遇到overflow: scroll不能平滑滚动怎么解决？](https://github.com/haizlin/fe-interview/issues/563)
-- [js] [举例说明数组和对象的迭代方法分别有哪些？](https://github.com/haizlin/fe-interview/issues/564)
-- [软技能] [你有使用过JWT吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/565)
+## 今天的面试题 (2019.07.04) —— 第79天
+- [html] [HTML5的应用程序缓存与浏览器缓存有什么不同？](https://github.com/haizlin/fe-interview/issues/568)
+- [css] [说说你对BEM规范的理解，同时举例说明常见的CSS规范有哪些？](https://github.com/haizlin/fe-interview/issues/569)
+- [js] [举例说明什么是IIFEs？它有什么好处？](https://github.com/haizlin/fe-interview/issues/570)
+- [软技能] [一个项目写很多的纯静态页面，有公共的部分（例如头和尾）你是怎么提取公用的？](https://github.com/haizlin/fe-interview/issues/571)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -65,17 +65,17 @@
 
 …………  
 
-- 第76天 (2019.07.01)
-    - [html] [HTML5如何识别语音读出的内容和朗读指定的内容？](https://github.com/haizlin/fe-interview/issues/526)
-    - [css] [用CSS画出一个任意角度的扇形，可以写多种实现的方法](https://github.com/haizlin/fe-interview/issues/527)
-    - [js] [说说instanceof和typeof的实现原理并自己模拟实现一个instanceof](https://github.com/haizlin/fe-interview/issues/528)
-    - [软技能] [你对web服务器软件有了解吗？都使用过哪些？各有哪些优缺点呢？](https://github.com/haizlin/fe-interview/issues/529)
-
 - 第77天 (2019.07.02)
     - [html] [说说你对HTML5的img标签属性srcset和sizes的理解？都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/530)
     - [css] [请问display:inline-block在什么时候会显示间隙？](https://github.com/haizlin/fe-interview/issues/531)
     - [js] [请快速答出此题的答案并解释：var x, y = 1; x + y = ?](https://github.com/haizlin/fe-interview/issues/532)
     - [软技能] [你会抓包吗？都有用过哪些抓包工具？](https://github.com/haizlin/fe-interview/issues/533)
+
+- 第78天 (2019.07.03)
+    - [html] [你有用过HTML5中的datalist标签吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/562)
+    - [css] [遇到overflow: scroll不能平滑滚动怎么解决？](https://github.com/haizlin/fe-interview/issues/563)
+    - [js] [举例说明数组和对象的迭代方法分别有哪些？](https://github.com/haizlin/fe-interview/issues/564)
+    - [软技能] [你有使用过JWT吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/565)
 
 - **[查看全部](category/history.md)**
 

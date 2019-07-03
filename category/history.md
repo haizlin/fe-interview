@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第78天 (2019.07.03)
+    - [html] [你有用过HTML5中的datalist标签吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/562)
+    - [css] [遇到overflow: scroll不能平滑滚动怎么解决？](https://github.com/haizlin/fe-interview/issues/563)
+    - [js] [举例说明数组和对象的迭代方法分别有哪些？](https://github.com/haizlin/fe-interview/issues/564)
+    - [软技能] [你有使用过JWT吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/565)
+
 - 第77天 (2019.07.02)
     - [html] [说说你对HTML5的img标签属性srcset和sizes的理解？都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/530)
     - [css] [请问display:inline-block在什么时候会显示间隙？](https://github.com/haizlin/fe-interview/issues/531)
