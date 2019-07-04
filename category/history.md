@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第79天 (2019.07.04)
+    - [html] [HTML5的应用程序缓存与浏览器缓存有什么不同？](https://github.com/haizlin/fe-interview/issues/568)
+    - [css] [说说你对BEM规范的理解，同时举例说明常见的CSS规范有哪些？](https://github.com/haizlin/fe-interview/issues/569)
+    - [js] [举例说明什么是IIFEs？它有什么好处？](https://github.com/haizlin/fe-interview/issues/570)
+    - [软技能] [一个项目写很多的纯静态页面，有公共的部分（例如头和尾）你是怎么提取公用的？](https://github.com/haizlin/fe-interview/issues/571)
+
 - 第78天 (2019.07.03)
     - [html] [你有用过HTML5中的datalist标签吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/562)
     - [css] [遇到overflow: scroll不能平滑滚动怎么解决？](https://github.com/haizlin/fe-interview/issues/563)
