@@ -150,6 +150,10 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）
 
+## Contribution
+Please read the [Contribution Guide](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md) before submitting PR
+Thank you to all the people who already contributed to 'Front-end interview **3+1** per day'!
+
 ## Friendship Links (you have good open source projects, welcome to recommend)
 * [jsliang的文档库](https://github.com/LiangJunrong/document-library)（每日一道 LeetCode，jsliang 带你进行每日折腾~）
 * [千古壹号](https://github.com/qianguyihao/Web)（前端入门和进阶学习笔记作者。从零开始学前端，做一个web全栈工程师。）
@@ -178,10 +182,6 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 * [前端知识整理](https://github.com/pingan8787/Leo-JavaScript) （Cute系列更新一些系列文章和框架demo，作为自己学习结果的输出，喜欢的朋友欢迎 👉star）
 * 洞见前端小程序-(微信搜索，非常有意思的小程序，刷题必备)
 * 前端荣耀小程序-(微信搜索，非常有意思的小程序，通关打卡还有排行榜)
-
-## Contribution
-Please read the [Contribution Guide](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md) before submitting PR
-Thank you to all the people who already contributed to 'Front-end interview **3+1** per day'!
 
 ## Reprint
 > Recently, many friends on the Internet abused links and abused questions, packaged and charged, so that needy friends can not find the latest test questions, contrary to my original intention, added some statements:

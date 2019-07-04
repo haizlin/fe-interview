@@ -148,6 +148,10 @@
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
 - 「前端剑解」 微信公众号（扫描上方二维码，每天同步更新）
 
+## 贡献题目
+请在提交PR前先阅读[贡献指南](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md)  
+感谢所有为"前端面试每日3+1"做出贡献的人！
+
 ## 友情链接（大家有好的开源项目和优秀作者，欢迎推荐）
 * [jsliang的文档库](https://github.com/LiangJunrong/document-library)（每日一道 LeetCode，jsliang 带你进行每日折腾~）
 * [千古壹号](https://github.com/qianguyihao/Web)（前端入门和进阶学习笔记作者。从零开始学前端，做一个web全栈工程师。）
@@ -176,10 +180,6 @@
 * [前端知识整理](https://github.com/pingan8787/Leo-JavaScript) （Cute系列更新一些系列文章和框架demo，作为自己学习结果的输出，喜欢的朋友欢迎 👉star）
 * 洞见前端小程序-(微信搜索，非常有意思的小程序，刷题必备)
 * 前端荣耀小程序-(微信搜索，非常有意思的小程序，通关打卡还有排行榜)
-
-## 贡献题目
-请在提交PR前先阅读[贡献指南](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md)  
-感谢所有为"前端面试每日3+1"做出贡献的人！
 
 ## 转载说明
 > 近期，看到很多网络上的朋友滥用链接，滥用面试题，包装了下就收费了，让有需要的朋友找不到最新的试题，违背了我的初衷，特添加了些声明：
