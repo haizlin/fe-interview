@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第80天 (2019.07.05)
+    - [html] [简述下HTML的快捷键属性是哪个？并举例说明有什么用？](https://github.com/haizlin/fe-interview/issues/572)
+    - [css] [写例子说明如何强制（自动）中、英文换行与不换行](https://github.com/haizlin/fe-interview/issues/573)
+    - [js] [举例说明什么是decodeURI()和encodeURI()是什么？](https://github.com/haizlin/fe-interview/issues/574)
+    - [软技能] [你知道什么是websocket吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/575)
+
 - 第79天 (2019.07.04)
     - [html] [HTML5的应用程序缓存与浏览器缓存有什么不同？](https://github.com/haizlin/fe-interview/issues/568)
     - [css] [说说你对BEM规范的理解，同时举例说明常见的CSS规范有哪些？](https://github.com/haizlin/fe-interview/issues/569)
