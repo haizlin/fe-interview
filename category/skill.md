@@ -2,7 +2,7 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.06
+> 最新：2019.07.07
 
 - [说下你平时是怎么自学的？怎么安排时间的？](https://github.com/haizlin/fe-interview/issues/583)
 - [你申请的这个职位，你觉得你还欠缺什么呢？](https://github.com/haizlin/fe-interview/issues/579)

@@ -2,7 +2,7 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.30
+> 最新：2019.07.07
 
 - [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
 - [你有用过HTML5的Device API吗？说说它都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/576)

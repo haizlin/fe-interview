@@ -2,7 +2,7 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.06
+> 最新：2019.07.07
 
 - [用js实现一个九九乘法口诀表](https://github.com/haizlin/fe-interview/issues/582)
 - [在js中怎么捕获异常？写出来看看？应该在哪些场景下采用呢？](https://github.com/haizlin/fe-interview/issues/578)

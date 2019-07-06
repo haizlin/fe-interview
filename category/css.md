@@ -2,7 +2,7 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.06
+> 最新：2019.07.07
 
 - [写出你遇到过IE6/7/8/9的BUG及解决方法](https://github.com/haizlin/fe-interview/issues/581)
 - [举例说明css的基本语句构成是什么呢？](https://github.com/haizlin/fe-interview/issues/577)
