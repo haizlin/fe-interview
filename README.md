@@ -24,11 +24,11 @@
 - 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**，大家有啥好的建议可以加我微信一起交流讨论！
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
-## 今天的面试题 (2019.07.06) —— 第81天
-- [html] [你有用过HTML5的Device API吗？说说它都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/576)
-- [css] [举例说明css的基本语句构成是什么呢？](https://github.com/haizlin/fe-interview/issues/577)
-- [js] [在js中怎么捕获异常？写出来看看？应该在哪些场景下采用呢？](https://github.com/haizlin/fe-interview/issues/578)
-- [软技能] [你申请的这个职位，你觉得你还欠缺什么呢？](https://github.com/haizlin/fe-interview/issues/579)
+## 今天的面试题 (2019.07.07) —— 第82天
+- [html] [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
+- [css] [写出你遇到过IE6/7/8/9的BUG及解决方法](https://github.com/haizlin/fe-interview/issues/581)
+- [js] [用js实现一个九九乘法口诀表](https://github.com/haizlin/fe-interview/issues/582)
+- [软技能] [说下你平时是怎么自学的？怎么安排时间的？](https://github.com/haizlin/fe-interview/issues/583)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -65,17 +65,17 @@
 
 …………  
 
-- 第79天 (2019.07.04)
-    - [html] [HTML5的应用程序缓存与浏览器缓存有什么不同？](https://github.com/haizlin/fe-interview/issues/568)
-    - [css] [说说你对BEM规范的理解，同时举例说明常见的CSS规范有哪些？](https://github.com/haizlin/fe-interview/issues/569)
-    - [js] [举例说明什么是IIFEs？它有什么好处？](https://github.com/haizlin/fe-interview/issues/570)
-    - [软技能] [一个项目写很多的纯静态页面，有公共的部分（例如头和尾）你是怎么提取公用的？](https://github.com/haizlin/fe-interview/issues/571)
-
 - 第80天 (2019.07.05)
     - [html] [简述下HTML的快捷键属性是哪个？并举例说明有什么用？](https://github.com/haizlin/fe-interview/issues/572)
     - [css] [写例子说明如何强制（自动）中、英文换行与不换行](https://github.com/haizlin/fe-interview/issues/573)
     - [js] [举例说明什么是decodeURI()和encodeURI()是什么？](https://github.com/haizlin/fe-interview/issues/574)
     - [软技能] [你知道什么是websocket吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/575)
+
+- 第81天 (2019.07.06)
+    - [html] [你有用过HTML5的Device API吗？说说它都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/576)
+    - [css] [举例说明css的基本语句构成是什么呢？](https://github.com/haizlin/fe-interview/issues/577)
+    - [js] [在js中怎么捕获异常？写出来看看？应该在哪些场景下采用呢？](https://github.com/haizlin/fe-interview/issues/578)
+    - [软技能] [你申请的这个职位，你觉得你还欠缺什么呢？](https://github.com/haizlin/fe-interview/issues/579)
 
 - **[查看全部](category/history.md)**
 

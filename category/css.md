@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.30
+> 最新：2019.07.06
 
+- [写出你遇到过IE6/7/8/9的BUG及解决方法](https://github.com/haizlin/fe-interview/issues/581)
+- [举例说明css的基本语句构成是什么呢？](https://github.com/haizlin/fe-interview/issues/577)
+- [写例子说明如何强制（自动）中、英文换行与不换行](https://github.com/haizlin/fe-interview/issues/573)
+- [说说你对BEM规范的理解，同时举例说明常见的CSS规范有哪些？](https://github.com/haizlin/fe-interview/issues/569)
+- [遇到overflow: scroll不能平滑滚动怎么解决？](https://github.com/haizlin/fe-interview/issues/563)
+- [请问display:inline-block在什么时候会显示间隙？](https://github.com/haizlin/fe-interview/issues/531)
+- [用CSS画出一个任意角度的扇形，可以写多种实现的方法](https://github.com/haizlin/fe-interview/issues/527)
 - [请你解释下什么是浮动和它的工作原理是什么？同时浮动会引起什么问题？](https://github.com/haizlin/fe-interview/issues/522)
 - [说说你对!important的理解，一般在哪些场景使用？](https://github.com/haizlin/fe-interview/issues/518)
 - [在实际编写css中你有遇到过哪些浏览器兼容性的问题？怎么解决的？](https://github.com/haizlin/fe-interview/issues/514)

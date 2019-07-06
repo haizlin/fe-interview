@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.30
+> 最新：2019.07.06
 
+- [说下你平时是怎么自学的？怎么安排时间的？](https://github.com/haizlin/fe-interview/issues/583)
+- [你申请的这个职位，你觉得你还欠缺什么呢？](https://github.com/haizlin/fe-interview/issues/579)
+- [你知道什么是websocket吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/575)
+- [一个项目写很多的纯静态页面，有公共的部分（例如头和尾）你是怎么提取公用的？](https://github.com/haizlin/fe-interview/issues/571)
+- [你有使用过JWT吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/565)
+- [你会抓包吗？都有用过哪些抓包工具？](https://github.com/haizlin/fe-interview/issues/533)
+- [你对web服务器软件有了解吗？都使用过哪些？各有哪些优缺点呢？](https://github.com/haizlin/fe-interview/issues/529)
 - [说说你做过让你觉得最满意的项目是什么？为什么？](https://github.com/haizlin/fe-interview/issues/524)
 - [说下你对互联网行业及前端技术发展趋势的看法](https://github.com/haizlin/fe-interview/issues/520)
 - [说说你对RESTful的理解](https://github.com/haizlin/fe-interview/issues/516)

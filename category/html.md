@@ -4,6 +4,13 @@
 ## 历史题目
 > 最新：2019.06.30
 
+- [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
+- [你有用过HTML5的Device API吗？说说它都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/576)
+- [简述下HTML的快捷键属性是哪个？并举例说明有什么用？](https://github.com/haizlin/fe-interview/issues/572)
+- [HTML5的应用程序缓存与浏览器缓存有什么不同？](https://github.com/haizlin/fe-interview/issues/568)
+- [你有用过HTML5中的datalist标签吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/562)
+- [说说你对HTML5的img标签属性srcset和sizes的理解？都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/530)
+- [HTML5如何识别语音读出的内容和朗读指定的内容？](https://github.com/haizlin/fe-interview/issues/526)
 - [移动web页面如何自动探测电话号码？](https://github.com/haizlin/fe-interview/issues/521)
 - [在a标签上的四个伪类执行顺序是什么？](https://github.com/haizlin/fe-interview/issues/517)
 - [favicon.ico有什么作用？怎么在页面中引用？常用尺寸有哪些？可以修改后缀名吗？](https://github.com/haizlin/fe-interview/issues/513)

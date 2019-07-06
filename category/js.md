@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.06.30
+> 最新：2019.07.06
 
+- [用js实现一个九九乘法口诀表](https://github.com/haizlin/fe-interview/issues/582)
+- [在js中怎么捕获异常？写出来看看？应该在哪些场景下采用呢？](https://github.com/haizlin/fe-interview/issues/578)
+- [举例说明什么是decodeURI()和encodeURI()是什么？](https://github.com/haizlin/fe-interview/issues/574)
+- [举例说明什么是IIFEs？它有什么好处？](https://github.com/haizlin/fe-interview/issues/570)
+- [举例说明数组和对象的迭代方法分别有哪些？](https://github.com/haizlin/fe-interview/issues/564)
+- [请快速答出此题的答案并解释：var x, y = 1; x + y = ?](https://github.com/haizlin/fe-interview/issues/532)
+- [说说instanceof和typeof的实现原理并自己模拟实现一个instanceof](https://github.com/haizlin/fe-interview/issues/528)
 - [js中=、==、===三个的区别是什么？并说明它们各自的工作过程](https://github.com/haizlin/fe-interview/issues/523)
 - [写一个方法随机生成指定位数的字符串](https://github.com/haizlin/fe-interview/issues/519)
 - [移动端点击事件为什么会有延迟？有哪些方法可以解决？](https://github.com/haizlin/fe-interview/issues/515)
