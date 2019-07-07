@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第82天 (2019.07.07)
+    - [html] [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
+    - [css] [写出你遇到过IE6/7/8/9的BUG及解决方法](https://github.com/haizlin/fe-interview/issues/581)
+    - [js] [用js实现一个九九乘法口诀表](https://github.com/haizlin/fe-interview/issues/582)
+    - [软技能] [说下你平时是怎么自学的？怎么安排时间的？](https://github.com/haizlin/fe-interview/issues/583)
+
 - 第81天 (2019.07.06)
     - [html] [你有用过HTML5的Device API吗？说说它都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/576)
     - [css] [举例说明css的基本语句构成是什么呢？](https://github.com/haizlin/fe-interview/issues/577)

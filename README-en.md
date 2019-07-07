@@ -67,17 +67,17 @@
 
 …………  
 
-- 80 days (2019.07.05)
-    - [html] [简述下HTML的快捷键属性是哪个？并举例说明有什么用？](https://github.com/haizlin/fe-interview/issues/572)
-    - [css] [写例子说明如何强制（自动）中、英文换行与不换行](https://github.com/haizlin/fe-interview/issues/573)
-    - [js] [举例说明什么是decodeURI()和encodeURI()是什么？](https://github.com/haizlin/fe-interview/issues/574)
-    - [skill] [你知道什么是websocket吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/575)
-
 - 81 days (2019.07.06)
     - [html] [你有用过HTML5的Device API吗？说说它都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/576)
     - [css] [举例说明css的基本语句构成是什么呢？](https://github.com/haizlin/fe-interview/issues/577)
     - [js] [在js中怎么捕获异常？写出来看看？应该在哪些场景下采用呢？](https://github.com/haizlin/fe-interview/issues/578)
-    - [软技能] [你申请的这个职位，你觉得你还欠缺什么呢？](https://github.com/haizlin/fe-interview/issues/579)
+    - [skill] [你申请的这个职位，你觉得你还欠缺什么呢？](https://github.com/haizlin/fe-interview/issues/579)
+
+- 82 days (2019.07.07)
+    - [html] [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
+    - [css] [写出你遇到过IE6/7/8/9的BUG及解决方法](https://github.com/haizlin/fe-interview/issues/581)
+    - [js] [用js实现一个九九乘法口诀表](https://github.com/haizlin/fe-interview/issues/582)
+    - [skill] [说下你平时是怎么自学的？怎么安排时间的？](https://github.com/haizlin/fe-interview/issues/583)
 
 - **[All](category/history.md)**
 

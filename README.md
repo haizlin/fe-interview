@@ -25,10 +25,10 @@
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
 ## 今天的面试题 (2019.07.07) —— 第82天
-- [html] [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
-- [css] [写出你遇到过IE6/7/8/9的BUG及解决方法](https://github.com/haizlin/fe-interview/issues/581)
-- [js] [用js实现一个九九乘法口诀表](https://github.com/haizlin/fe-interview/issues/582)
-- [软技能] [说下你平时是怎么自学的？怎么安排时间的？](https://github.com/haizlin/fe-interview/issues/583)
+- [html] [在新窗口打开链接的方法是什么？那怎么设置全站链接都在新窗口打开？](https://github.com/haizlin/fe-interview/issues/584)
+- [css] [IE(6/7/8/9/10/11/Edge)下的hack写法分别有哪些？](https://github.com/haizlin/fe-interview/issues/585)
+- [js] [举例说明js如何实现继承？](https://github.com/haizlin/fe-interview/issues/586)
+- [软技能] [你会抓https和移动端的包吗？分别描述下这两种包要怎么抓？](https://github.com/haizlin/fe-interview/issues/587)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -65,17 +65,17 @@
 
 …………  
 
-- 第80天 (2019.07.05)
-    - [html] [简述下HTML的快捷键属性是哪个？并举例说明有什么用？](https://github.com/haizlin/fe-interview/issues/572)
-    - [css] [写例子说明如何强制（自动）中、英文换行与不换行](https://github.com/haizlin/fe-interview/issues/573)
-    - [js] [举例说明什么是decodeURI()和encodeURI()是什么？](https://github.com/haizlin/fe-interview/issues/574)
-    - [软技能] [你知道什么是websocket吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/575)
-
 - 第81天 (2019.07.06)
     - [html] [你有用过HTML5的Device API吗？说说它都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/576)
     - [css] [举例说明css的基本语句构成是什么呢？](https://github.com/haizlin/fe-interview/issues/577)
     - [js] [在js中怎么捕获异常？写出来看看？应该在哪些场景下采用呢？](https://github.com/haizlin/fe-interview/issues/578)
     - [软技能] [你申请的这个职位，你觉得你还欠缺什么呢？](https://github.com/haizlin/fe-interview/issues/579)
+
+- 第82天 (2019.07.07)
+    - [html] [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
+    - [css] [写出你遇到过IE6/7/8/9的BUG及解决方法](https://github.com/haizlin/fe-interview/issues/581)
+    - [js] [用js实现一个九九乘法口诀表](https://github.com/haizlin/fe-interview/issues/582)
+    - [软技能] [说下你平时是怎么自学的？怎么安排时间的？](https://github.com/haizlin/fe-interview/issues/583)
 
 - **[查看全部](category/history.md)**
 
