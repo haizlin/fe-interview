@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第83天 (2019.07.08)
+    - [html] [在新窗口打开链接的方法是什么？那怎么设置全站链接都在新窗口打开？](https://github.com/haizlin/fe-interview/issues/584)
+    - [css] [IE(6/7/8/9/10/11/Edge)下的hack写法分别有哪些？](https://github.com/haizlin/fe-interview/issues/585)
+    - [js] [举例说明js如何实现继承？](https://github.com/haizlin/fe-interview/issues/586)
+    - [软技能] [你会抓https和移动端的包吗？分别描述下这两种包要怎么抓？](https://github.com/haizlin/fe-interview/issues/587)
+
 - 第82天 (2019.07.07)
     - [html] [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
     - [css] [写出你遇到过IE6/7/8/9的BUG及解决方法](https://github.com/haizlin/fe-interview/issues/581)
