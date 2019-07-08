@@ -144,6 +144,7 @@
 - 2019.07.08 — 第83天，star数突破3000大关
 
 ## 在哪可以看到
+- [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN每天同步更新）
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
 - [知乎专栏](https://zhuanlan.zhihu.com/fe-interview)（每天同步更新）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
