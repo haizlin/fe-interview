@@ -26,6 +26,8 @@
 - Welcome to **Issues**, encourage **PR**, and thank **Star**、thank**watch**.，What good suggestions do you have for us to share and discuss with me via Wechat！
 > I hope you can study and think everyday, so that you can come here!!! (Don't come for anyone, come for yourself!)
 
+<p align="center">[Click on "Excellence - Ninth Anniversary"](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)</p>
+
 ## Today's Interview Question (2019.07.08) —— 83 days
 - [html] [在新窗口打开链接的方法是什么？那怎么设置全站链接都在新窗口打开？](https://github.com/haizlin/fe-interview/issues/584)
 - [css] [IE(6/7/8/9/10/11/Edge)下的hack写法分别有哪些？](https://github.com/haizlin/fe-interview/issues/585)
@@ -140,7 +142,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.06.30 — 第75天，《前端面试每日3+1》开源项目上了github的热门榜，总榜排行第6，javascript语言榜排名第1！感谢一路同行的朋友们的努力付出！
 - 2019.06.30 — 第75天，鉴于有不少朋友都想直接要答案，而我的回答始终是没有，答案在你自己脑中！新的口号：始于面试，但不止于面试！提倡每日学习，每天进步！
 - 2019.07.01 — 第76天，star数突破2000大关，感谢关注的朋友们，如果要参与项目，最好的建议是watch一下
-- 2019.07.05 — 第80天，为期一周的热榜结束，收获star数达到2857，在github中“前端面试”的star排名第7，前进了3名，非常感谢[**jsliang**](https://github.com/LiangJunrong/document-library)的推荐才使得有这么一波流量，恢复平静，专心出题，坚持做得更好，期待下一波流量的到来！对了，今天公司9周年，专门录制了个视频，等待申请通过后再把链接发出来！
+- 2019.07.05 — 第80天，为期一周的热榜结束，收获star数达到2857，在github中“前端面试”的star排名第7，前进了3名，非常感谢[**jsliang**](https://github.com/LiangJunrong/document-library)的推荐才使得有这么一波流量，恢复平静，专心出题，坚持做得更好，期待下一波流量的到来！对了，今天公司9周年，专门录制了个视频！[点击查看 “卓越-九周年”](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)
 
 ## Source
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
