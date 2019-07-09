@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第84天 (2019.07.09)
+    - [html] [a标签下的href="javascript:void(0)"起到了什么作用？说说你对javascript:void(0)的理解？](https://github.com/haizlin/fe-interview/issues/588)
+    - [css] [font-style的属性有Italic和oblique，两者有什么区别呢?](https://github.com/haizlin/fe-interview/issues/589)
+    - [js] [请描述你对浏览器同源策略的理解](https://github.com/haizlin/fe-interview/issues/590)
+    - [软技能] [刷新和强制刷新有什么区别？说说你对两者的理解](https://github.com/haizlin/fe-interview/issues/591)
+
 - 第83天 (2019.07.08)
     - [html] [在新窗口打开链接的方法是什么？那怎么设置全站链接都在新窗口打开？](https://github.com/haizlin/fe-interview/issues/584)
     - [css] [IE(6/7/8/9/10/11/Edge)下的hack写法分别有哪些？](https://github.com/haizlin/fe-interview/issues/585)
