@@ -28,11 +28,11 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
-## Today's Interview Question (2019.07.10) —— 85 days
-- [html] [iframe的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/592)
-- [css] [怎么让body高度自适应屏幕？为什么？](https://github.com/haizlin/fe-interview/issues/593)
-- [js] [js延迟加载的方式有哪些？](https://github.com/haizlin/fe-interview/issues/594)
-- [skill] [你平时开发是用mac还是windows系统？至少举三个例子说明两者的区别？](https://github.com/haizlin/fe-interview/issues/595)
+## Today's Interview Question (2019.07.11) —— 86 days
+- [html] [举例说明你对HTML5的ruby标签的理解，都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/596)
+- [css] [display有哪些值？分别说明他们的作用是什么？](https://github.com/haizlin/fe-interview/issues/597)
+- [js] [把Script标签放在页面最底部的`</body>`之前和之后有什么区别？浏览器会如何解析它们？](https://github.com/haizlin/fe-interview/issues/598)
+- [skill] [Git的reset和revert有什么区别？它们分别适用于什么场景？](https://github.com/haizlin/fe-interview/issues/599)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -69,17 +69,17 @@
 
 …………  
 
-- 83 days (2019.07.08)
-    - [html] [在新窗口打开链接的方法是什么？那怎么设置全站链接都在新窗口打开？](https://github.com/haizlin/fe-interview/issues/584)
-    - [css] [IE(6/7/8/9/10/11/Edge)下的hack写法分别有哪些？](https://github.com/haizlin/fe-interview/issues/585)
-    - [js] [举例说明js如何实现继承？](https://github.com/haizlin/fe-interview/issues/586)
-    - [skill] [你会抓https和移动端的包吗？分别描述下这两种包要怎么抓？](https://github.com/haizlin/fe-interview/issues/587)
-
 - 84 days (2019.07.09)
     - [html] [a标签下的href="javascript:void(0)"起到了什么作用？说说你对javascript:void(0)的理解？](https://github.com/haizlin/fe-interview/issues/588)
     - [css] [font-style的属性有Italic和oblique，两者有什么区别呢?](https://github.com/haizlin/fe-interview/issues/589)
     - [js] [请描述你对浏览器同源策略的理解](https://github.com/haizlin/fe-interview/issues/590)
     - [skill] [刷新和强制刷新有什么区别？说说你对两者的理解](https://github.com/haizlin/fe-interview/issues/591)
+
+- 85 days (2019.07.10)
+    - [html] [iframe的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/592)
+    - [css] [怎么让body高度自适应屏幕？为什么？](https://github.com/haizlin/fe-interview/issues/593)
+    - [js] [js延迟加载的方式有哪些？](https://github.com/haizlin/fe-interview/issues/594)
+    - [skil] [你平时开发是用mac还是windows系统？至少举三个例子说明两者的区别？](https://github.com/haizlin/fe-interview/issues/595)
 
 - **[All](category/history.md)**
 
