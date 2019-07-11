@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第86天 (2019.07.11)
+    - [html] [举例说明你对HTML5的ruby标签的理解，都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/596)
+    - [css] [display有哪些值？分别说明他们的作用是什么？](https://github.com/haizlin/fe-interview/issues/597)
+    - [js] [把Script标签放在页面最底部的`</body>`之前和之后有什么区别？浏览器会如何解析它们？](https://github.com/haizlin/fe-interview/issues/598)
+    - [软技能] [Git的reset和revert有什么区别？它们分别适用于什么场景？](https://github.com/haizlin/fe-interview/issues/599)
+
 - 第85天 (2019.07.10)
     - [html] [iframe的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/592)
     - [css] [怎么让body高度自适应屏幕？为什么？](https://github.com/haizlin/fe-interview/issues/593)
