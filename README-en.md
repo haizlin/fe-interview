@@ -29,14 +29,14 @@
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
 ## Today's Interview Question (2019.07.13) —— 88 days
-- [html] [怎么使用HTML5来获取定位？定位不准怎么解决？](https://github.com/haizlin/fe-interview/issues/604)
-- [css] [说说你对CSS样式覆盖规则的理解](https://github.com/haizlin/fe-interview/issues/605)
-- [js] [判断instanceof的结果并解释原因[代码]](https://github.com/haizlin/fe-interview/issues/606)
+- [html] [怎么使用HTML5来获取定位？定位不准怎么解决？](https://github.com/haizlin/fe-interview/issues/607)
+- [css] [说说你对CSS样式覆盖规则的理解](https://github.com/haizlin/fe-interview/issues/608)
+- [js] [判断instanceof的结果并解释原因 [代码]](https://github.com/haizlin/fe-interview/issues/609)
 ```
     function test(){ return test; } 
     new test() instanceof test;
 ```
-- [skill] [说说你对hosts文件的理解，它都有哪些作用？](https://github.com/haizlin/fe-interview/issues/607)
+- [skill] [说说你对hosts文件的理解，它都有哪些作用？](https://github.com/haizlin/fe-interview/issues/610)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
