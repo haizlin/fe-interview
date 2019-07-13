@@ -1,4 +1,4 @@
-# 周汇总 2019.07.07
+# 周汇总 2019.07.14
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -13,6 +13,13 @@
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
 ## html
+- [a标签的href和onclick属性同时存在时哪个先触发？](https://github.com/haizlin/fe-interview/issues/743)
+- [怎么使用HTML5来获取定位？定位不准怎么解决？](https://github.com/haizlin/fe-interview/issues/607)
+- [举例说明如何原样输出HTML代码，不被浏览器解析？](https://github.com/haizlin/fe-interview/issues/600)
+- [举例说明你对HTML5的ruby标签的理解，都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/596)
+- [iframe的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/592)
+- [a标签下的href="javascript:void(0)"起到了什么作用？说说你对javascript:void(0)的理解？](https://github.com/haizlin/fe-interview/issues/588)
+- [在新窗口打开链接的方法是什么？那怎么设置全站链接都在新窗口打开？](https://github.com/haizlin/fe-interview/issues/584)
 - [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
 - [你有用过HTML5的Device API吗？说说它都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/576)
 - [简述下HTML的快捷键属性是哪个？并举例说明有什么用？](https://github.com/haizlin/fe-interview/issues/572)
@@ -96,6 +103,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [外层有一个自适应高度的div，里面有两个div，一个高度固定300px，另一个怎么填满剩余的高度？](https://github.com/haizlin/fe-interview/issues/744)
+- [说说你对CSS样式覆盖规则的理解](https://github.com/haizlin/fe-interview/issues/608)
+- [写出几个初始化CSS的样式，并解释说明为什么要这样写](https://github.com/haizlin/fe-interview/issues/601)
+- [display有哪些值？分别说明他们的作用是什么？](https://github.com/haizlin/fe-interview/issues/597)
+- [怎么让body高度自适应屏幕？为什么？](https://github.com/haizlin/fe-interview/issues/593)
+- [font-style的属性有Italic和oblique，两者有什么区别呢?](https://github.com/haizlin/fe-interview/issues/589)
+- [IE(6/7/8/9/10/11/Edge)下的hack写法分别有哪些？](https://github.com/haizlin/fe-interview/issues/585)
 - [写出你遇到过IE6/7/8/9的BUG及解决方法](https://github.com/haizlin/fe-interview/issues/581)
 - [举例说明css的基本语句构成是什么呢？](https://github.com/haizlin/fe-interview/issues/577)
 - [写例子说明如何强制（自动）中、英文换行与不换行](https://github.com/haizlin/fe-interview/issues/573)
@@ -179,6 +193,19 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [js异步加载有哪些方案？](https://github.com/haizlin/fe-interview/issues/745)
+- [判断instanceof的结果并解释原因 [代码]](https://github.com/haizlin/fe-interview/issues/609)
+```
+    function test(){ 
+        return test; 
+    } 
+    new test() instanceof test;
+```
+- [请写一个sleep（暂停）函数](https://github.com/haizlin/fe-interview/issues/602)
+- [把Script标签放在页面最底部的`</body>`之前和之后有什么区别？浏览器会如何解析它们？](https://github.com/haizlin/fe-interview/issues/598)
+- [js延迟加载的方式有哪些？](https://github.com/haizlin/fe-interview/issues/594)
+- [请描述你对浏览器同源策略的理解](https://github.com/haizlin/fe-interview/issues/590)
+- [举例说明js如何实现继承？](https://github.com/haizlin/fe-interview/issues/586)
 - [用js实现一个九九乘法口诀表](https://github.com/haizlin/fe-interview/issues/582)
 - [在js中怎么捕获异常？写出来看看？应该在哪些场景下采用呢？](https://github.com/haizlin/fe-interview/issues/578)
 - [举例说明什么是decodeURI()和encodeURI()是什么？](https://github.com/haizlin/fe-interview/issues/574)
@@ -261,6 +288,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [说说你对robots文件的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/746)
+- [说说你对hosts文件的理解，它都有哪些作用？](https://github.com/haizlin/fe-interview/issues/610)
+- [你平常都看哪些方面的书？你看书的方法是怎样的？](https://github.com/haizlin/fe-interview/issues/603)
+- [Git的reset和revert有什么区别？它们分别适用于什么场景？](https://github.com/haizlin/fe-interview/issues/599)
+- [你平时开发是用mac还是windows系统？至少举三个例子说明两者的区别？](https://github.com/haizlin/fe-interview/issues/595)
+- [刷新和强制刷新有什么区别？说说你对两者的理解](https://github.com/haizlin/fe-interview/issues/591)
+- [你会抓https和移动端的包吗？分别描述下这两种包要怎么抓？](https://github.com/haizlin/fe-interview/issues/587)
 - [说下你平时是怎么自学的？怎么安排时间的？](https://github.com/haizlin/fe-interview/issues/583)
 - [你申请的这个职位，你觉得你还欠缺什么呢？](https://github.com/haizlin/fe-interview/issues/579)
 - [你知道什么是websocket吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/575)

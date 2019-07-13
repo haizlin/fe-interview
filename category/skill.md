@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.07
+> 最新：2019.07.14
 
+- [说说你对robots文件的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/746)
+- [说说你对hosts文件的理解，它都有哪些作用？](https://github.com/haizlin/fe-interview/issues/610)
+- [你平常都看哪些方面的书？你看书的方法是怎样的？](https://github.com/haizlin/fe-interview/issues/603)
+- [Git的reset和revert有什么区别？它们分别适用于什么场景？](https://github.com/haizlin/fe-interview/issues/599)
+- [你平时开发是用mac还是windows系统？至少举三个例子说明两者的区别？](https://github.com/haizlin/fe-interview/issues/595)
+- [刷新和强制刷新有什么区别？说说你对两者的理解](https://github.com/haizlin/fe-interview/issues/591)
+- [你会抓https和移动端的包吗？分别描述下这两种包要怎么抓？](https://github.com/haizlin/fe-interview/issues/587)
 - [说下你平时是怎么自学的？怎么安排时间的？](https://github.com/haizlin/fe-interview/issues/583)
 - [你申请的这个职位，你觉得你还欠缺什么呢？](https://github.com/haizlin/fe-interview/issues/579)
 - [你知道什么是websocket吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/575)

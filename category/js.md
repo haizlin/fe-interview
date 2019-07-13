@@ -2,8 +2,21 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.07
+> 最新：2019.07.14
 
+- [js异步加载有哪些方案？](https://github.com/haizlin/fe-interview/issues/745)
+- [判断instanceof的结果并解释原因 [代码]](https://github.com/haizlin/fe-interview/issues/609)
+```
+    function test(){ 
+        return test; 
+    } 
+    new test() instanceof test;
+```
+- [请写一个sleep（暂停）函数](https://github.com/haizlin/fe-interview/issues/602)
+- [把Script标签放在页面最底部的`</body>`之前和之后有什么区别？浏览器会如何解析它们？](https://github.com/haizlin/fe-interview/issues/598)
+- [js延迟加载的方式有哪些？](https://github.com/haizlin/fe-interview/issues/594)
+- [请描述你对浏览器同源策略的理解](https://github.com/haizlin/fe-interview/issues/590)
+- [举例说明js如何实现继承？](https://github.com/haizlin/fe-interview/issues/586)
 - [用js实现一个九九乘法口诀表](https://github.com/haizlin/fe-interview/issues/582)
 - [在js中怎么捕获异常？写出来看看？应该在哪些场景下采用呢？](https://github.com/haizlin/fe-interview/issues/578)
 - [举例说明什么是decodeURI()和encodeURI()是什么？](https://github.com/haizlin/fe-interview/issues/574)

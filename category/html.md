@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.07
+> 最新：2019.07.14
 
+- [a标签的href和onclick属性同时存在时哪个先触发？](https://github.com/haizlin/fe-interview/issues/743)
+- [怎么使用HTML5来获取定位？定位不准怎么解决？](https://github.com/haizlin/fe-interview/issues/607)
+- [举例说明如何原样输出HTML代码，不被浏览器解析？](https://github.com/haizlin/fe-interview/issues/600)
+- [举例说明你对HTML5的ruby标签的理解，都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/596)
+- [iframe的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/592)
+- [a标签下的href="javascript:void(0)"起到了什么作用？说说你对javascript:void(0)的理解？](https://github.com/haizlin/fe-interview/issues/588)
+- [在新窗口打开链接的方法是什么？那怎么设置全站链接都在新窗口打开？](https://github.com/haizlin/fe-interview/issues/584)
 - [用HTML5实现手机摇一摇功能你有做过吗？你知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/580)
 - [你有用过HTML5的Device API吗？说说它都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/576)
 - [简述下HTML的快捷键属性是哪个？并举例说明有什么用？](https://github.com/haizlin/fe-interview/issues/572)
