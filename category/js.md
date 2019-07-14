@@ -57,7 +57,7 @@
 - [写出几种创建对象的方式，并说说他们的区别是什么？](https://github.com/haizlin/fe-interview/issues/171)
 - [深度克隆对象的方法有哪些，并把你认为最好的写出来](https://github.com/haizlin/fe-interview/issues/167)
 - [JQuery的源码看过吗？能不能简单概括一下它的实现原理？](https://github.com/haizlin/fe-interview/issues/163)
-- [window对象和document对象有干什么区别？](https://github.com/haizlin/fe-interview/issues/157)
+- [window对象和document对象有什么区别？](https://github.com/haizlin/fe-interview/issues/157)
 - [说说你对IIFE的理解](https://github.com/haizlin/fe-interview/issues/154)
 - [为什么会有跨域问题？怎么解决跨域？](https://github.com/haizlin/fe-interview/issues/150)
 - [说说你对模块化的理解](https://github.com/haizlin/fe-interview/issues/146)

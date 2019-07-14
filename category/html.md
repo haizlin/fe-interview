@@ -34,7 +34,7 @@
 - [有使用过HTML5的拖放API吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/275)
 - [有用过HTML5的webSQL和IndexedDB吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/254)
 - [src、href、link的区别是什么？](https://github.com/haizlin/fe-interview/issues/250)
-- [有用地过WebGL吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/244)
+- [有用过WebGL吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/244)
 - [HTML5相对于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/240)
 - [你了解HTML5的download属性吗？](https://github.com/haizlin/fe-interview/issues/236)
 - [渐进式渲染是什么？](https://github.com/haizlin/fe-interview/issues/219)
