@@ -1,16 +1,16 @@
 # react面试题
 > 鼓励PR
 
-## 历史题目(最新：2019.07.13)
+## 历史题目(最新：2019.07.15)
 [react](#react) | [react-native](#react-native) | [react router](#react router) | [redux](#redux) | [flux](#flux)
 
 ### react
-- [react16跟之前的版本生命周期有哪些变化？]()
-- [怎样实现react组件的记忆？原理是什么？]()
-- [创建react动画有哪些方式？]()
-- [为什么建议不要过渡使用Refs？]()
-- [在react使用HOC有遇到过哪些问题？如何解决？]()
-- [在使用react过程中什么时候用HOC？]()
+- [react16跟之前的版本生命周期有哪些变化？](https://github.com/haizlin/fe-interview/issues/756)
+- [怎样实现react组件的记忆？原理是什么？](https://github.com/haizlin/fe-interview/issues/755)
+- [创建react动画有哪些方式？](https://github.com/haizlin/fe-interview/issues/754)
+- [为什么建议不要过渡使用Refs？](https://github.com/haizlin/fe-interview/issues/753)
+- [在react使用HOC有遇到过哪些问题？如何解决？](https://github.com/haizlin/fe-interview/issues/752)
+- [在使用react过程中什么时候用HOC？](https://github.com/haizlin/fe-interview/issues/751)
 - [说说react diff的原理是什么？](https://github.com/haizlin/fe-interview/issues/724)
 - [react怎么提高列表渲染的性能？](https://github.com/haizlin/fe-interview/issues/723)
 - [使用ES6的class定义的组件不支持mixin了，那用什么可以替代呢？](https://github.com/haizlin/fe-interview/issues/722)
