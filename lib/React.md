@@ -5,6 +5,10 @@
 [react](#react) | [react-native](#react-native) | [react router](#react router) | [redux](#redux) | [flux](#flux)
 
 ### react
+- [react中你有使用过getDefaultProps吗？它有什么作用？]()
+- [react中你有使用过propType吗？它有什么作用？]()
+- [React.createClass和extends Component的区别有哪些？]()
+- [给组件设置很多属性时不想一个个去设置有什么办法可以解决这问题呢？]()
 - [react16跟之前的版本生命周期有哪些变化？](https://github.com/haizlin/fe-interview/issues/756)
 - [怎样实现react组件的记忆？原理是什么？](https://github.com/haizlin/fe-interview/issues/755)
 - [创建react动画有哪些方式？](https://github.com/haizlin/fe-interview/issues/754)
