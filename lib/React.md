@@ -5,6 +5,7 @@
 [React](#React) | [React-native](#React-native) | [React router](#React router) | [Redux](#Redux) | [Flux](#Flux)
 
 ### React
+- [经常用React，你知道React的核心思想是什么吗？]()
 - [在React中我们怎么做静态类型检测？都有哪些方法可以做到？]()
 - [在React中组件的state和setState有什么区别？]()
 - [React跳过重新渲染？]()
