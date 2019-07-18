@@ -1,10 +1,41 @@
 # React面试题
 > 鼓励PR，持续更新（React v16.6.0）
 
-## 历史题目(最新：2019.07.16)
+## 历史题目(最新：2019.07.18)
 [React](#React) | [React Native](#React Native) | [React-Router](#React-Router) | [Redux/Mobox](#Redux/Mobox) | [Flux](#Flux)
 
 ### React
+- [使用时候使用状态管理器？](https://github.com/haizlin/fe-interview/issues/953)
+- [render函数中return如果没有使用()会有什么问题？](https://github.com/haizlin/fe-interview/issues/952)
+- [componentWillUpdate可以直接修改state的值吗？](https://github.com/haizlin/fe-interview/issues/951)
+- [说说你对React的渲染原理的理解](https://github.com/haizlin/fe-interview/issues/950)
+- [什么渲染劫持？](https://github.com/haizlin/fe-interview/issues/949)
+- [React Intl是什么原理？](https://github.com/haizlin/fe-interview/issues/948)
+- [你有使用过React Intl吗？](https://github.com/haizlin/fe-interview/issues/947)
+- [怎么实例React组件的国际化呢？](https://github.com/haizlin/fe-interview/issues/946)
+- [说说Context有哪些属性？](https://github.com/haizlin/fe-interview/issues/945)
+- [怎么使用Context开发组件？](https://github.com/haizlin/fe-interview/issues/944)
+- [为什么React并不推荐我们优先考虑使用Context？](https://github.com/haizlin/fe-interview/issues/943)
+- [除了实例的属性可以获取Context外哪些地方还能直接获取Context呢？](https://github.com/haizlin/fe-interview/issues/942)
+- [childContextTypes是什么？它有什么用？](https://github.com/haizlin/fe-interview/issues/941)
+- [contextType是什么？它有什么用？](https://github.com/haizlin/fe-interview/issues/940)
+- [Consumer向上找不到Provider的时候怎么办？](https://github.com/haizlin/fe-interview/issues/939)
+- [有使用过Consumer吗？](https://github.com/haizlin/fe-interview/issues/938)
+- [在React怎么使用Context？](https://github.com/haizlin/fe-interview/issues/937)
+- [React15和16别支持IE几以上？](https://github.com/haizlin/fe-interview/issues/936)
+- [说说你对windowing的了解](https://github.com/haizlin/fe-interview/issues/935)
+- [举例说明React的插槽有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/934)
+- [你有用过React的插槽(Portals)吗？怎么用？](https://github.com/haizlin/fe-interview/issues/933)
+- [React的严格模式有什么用处？](https://github.com/haizlin/fe-interview/issues/932)
+- [React如何进行代码拆分？拆分的原则是什么？](https://github.com/haizlin/fe-interview/issues/931)
+- [React组件的构造函数有什么作用？](https://github.com/haizlin/fe-interview/issues/930)
+- [React组件的构造函数是必须的吗？](https://github.com/haizlin/fe-interview/issues/929)
+- [React中在哪捕获错误？](https://github.com/haizlin/fe-interview/issues/928)
+- [React怎样引入svg的文件？](https://github.com/haizlin/fe-interview/issues/927)
+- [说说你对Relay的理解](https://github.com/haizlin/fe-interview/issues/926)
+- [在React中你有经常使用常量吗？](https://github.com/haizlin/fe-interview/issues/925)
+- [为什么说React中的props是只读的？](https://github.com/haizlin/fe-interview/issues/924)
+- [你有使用过formik库吗？说说它的优缺点](https://github.com/haizlin/fe-interview/issues/923)
 - [你有用过哪些React的表单库吗？说说它们的优缺点](https://github.com/haizlin/fe-interview/issues/901)
 - [如果组件的属性没有传值，那么它的默认值是什么？](https://github.com/haizlin/fe-interview/issues/900)
 - [可以使用TypeScript写React应用吗？怎么操作？](https://github.com/haizlin/fe-interview/issues/899)
@@ -247,6 +278,7 @@
 - [React声明组件有哪几种方法，各有什么不同？](https://github.com/haizlin/fe-interview/issues/604)
 
 ### React Native
+- [如何在React Native中设置环境变量？]()
 - [请描述下Code Push的原理是什么？](https://github.com/haizlin/fe-interview/issues/783)
 - [React Native怎样查看日记？](https://github.com/haizlin/fe-interview/issues/782)
 - [React Native怎样测试？](https://github.com/haizlin/fe-interview/issues/781)
@@ -255,6 +287,8 @@
 - [有做过React Native项目吗？](https://github.com/haizlin/fe-interview/issues/725)
 
 ### React-Router
+- [React-Router怎么获取历史对象？](https://github.com/haizlin/fe-interview/issues/922)
+- [React-Router怎么获取URL的参数？](https://github.com/haizlin/fe-interview/issues/921)
 - [在history模式中push和replace有什么区别？](https://github.com/haizlin/fe-interview/issues/778)
 - [React-Router怎么设置重定向？](https://github.com/haizlin/fe-interview/issues/777)
 - [React-Router 4中`<Router>`组件有几种类型？](https://github.com/haizlin/fe-interview/issues/776)
@@ -269,6 +303,17 @@
 - [请你说说React的路由是什么？](https://github.com/haizlin/fe-interview/issues/726)
 
 ### Redux/Mobox
+- [你有了解Rxjs是什么吗？它是做什么的？](https://github.com/haizlin/fe-interview/issues/920)
+- [在Redux中怎么发起网络请求？](https://github.com/haizlin/fe-interview/issues/919)
+- [Redux怎样重置状态？](https://github.com/haizlin/fe-interview/issues/918)
+- [Redux怎样设置初始状态？](https://github.com/haizlin/fe-interview/issues/917)
+- [Context api可以取代Redux吗？为什么？](https://github.com/haizlin/fe-interview/issues/916)
+- [推荐在reducer中触发Action吗？为什么？](https://github.com/haizlin/fe-interview/issues/915)
+- [Redux怎么添加新的中间件？](https://github.com/haizlin/fe-interview/issues/914)
+- [redux-saga和redux-thunk有什么本质的区别？](https://github.com/haizlin/fe-interview/issues/913)
+- [在React中你是怎么对异步方案进行选型的？](https://github.com/haizlin/fe-interview/issues/912)
+- [你知道redux-saga的原理吗？](https://github.com/haizlin/fe-interview/issues/911)
+- [你有使用过redux-saga中间件吗？它是干什么的？](https://github.com/haizlin/fe-interview/issues/910)
 - [Redux中异步action和同步action最大的区别是什么？](https://github.com/haizlin/fe-interview/issues/769)
 - [Redux和vuex有什么区别？](https://github.com/haizlin/fe-interview/issues/768)
 - [Redux的中间件是什么？你有用过哪些Redux的中间件？](https://github.com/haizlin/fe-interview/issues/767)
