@@ -144,6 +144,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.07.01 — 第76天，star数突破2000大关，感谢关注的朋友们，如果要参与项目，最好的建议是watch一下
 - 2019.07.05 — 第80天，为期一周的热榜结束，收获star数达到2857，在github中“前端面试”的star排名第7，前进了3名，非常感谢[**jsliang**](https://github.com/LiangJunrong/document-library)的推荐才使得有这么一波流量，恢复平静，专心出题，坚持做得更好，期待下一波流量的到来！对了，今天公司9周年，和团队一起专门录制了个九周年的视频！[点击查看 “卓越-九周年” 视频](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)
 - 2019.07.08 — 第83天，star数突破3000大关
+- 2019.07.18 — 添加了非常棒的开源项目链接
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
@@ -158,6 +159,9 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 ## Contribution
 Please read the [Contribution Guide](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md) before submitting PR
 Thank you to all the people who already contributed to 'Front-end interview **3+1** per day'!
+
+## Great open source project
+* 【recommend】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## Friendship Links (you have good open source projects, welcome to recommend)
 * [jsliang的文档库](https://github.com/LiangJunrong/document-library)（每日一道 LeetCode，jsliang 带你进行每日折腾~）
