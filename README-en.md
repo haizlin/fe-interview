@@ -144,7 +144,7 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.07.01 — 第76天，star数突破2000大关，感谢关注的朋友们，如果要参与项目，最好的建议是watch一下
 - 2019.07.05 — 第80天，为期一周的热榜结束，收获star数达到2857，在github中“前端面试”的star排名第7，前进了3名，非常感谢[**jsliang**](https://github.com/LiangJunrong/document-library)的推荐才使得有这么一波流量，恢复平静，专心出题，坚持做得更好，期待下一波流量的到来！对了，今天公司9周年，和团队一起专门录制了个九周年的视频！[点击查看 “卓越-九周年” 视频](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)
 - 2019.07.08 — 第83天，star数突破3000大关
-- 2019.07.18 — 添加了非常棒的开源项目链接
+- 2019.07.18 — 添加了非常棒的开源项目链接，顺便记录下今天star突破3500，关注的朋友越来越多，继续坚持**死磕自己，愉悦大家**
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
