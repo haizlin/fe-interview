@@ -26,11 +26,11 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">点击查看 “卓越-九周年” 视频</a></p>
 
-## 今天的面试题 (2019.07.18) —— 第93天
-- [html] [有使用过svg吗？请用svg画一个圆](https://github.com/haizlin/fe-interview/issues/906)
-- [css] [写出div在不固定高度的情况下水平垂直居中的方法？](https://github.com/haizlin/fe-interview/issues/907)
-- [js] [js的函数有哪几种调用形式？](https://github.com/haizlin/fe-interview/issues/908)
-- [软技能] [简要描述下什么是DNS？它有什么用？](https://github.com/haizlin/fe-interview/issues/909)
+## 今天的面试题 (2019.07.19) —— 第94天
+- [html] [使用HTML5需要遵守哪些设计原则？](https://github.com/haizlin/fe-interview/issues/954)
+- [css] [为什么会出现浮动？在什么时候需要清除浮动呢？](https://github.com/haizlin/fe-interview/issues/955)
+- [js] [用js写出死循环的方法有哪些？](https://github.com/haizlin/fe-interview/issues/956)
+- [软技能] [说说你对emojig表情的理解，前端如何处理emoji表情？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/957)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -67,17 +67,17 @@
 
 …………  
 
-- 第91天 (2019.07.16)
-    - [html] [请描述下元素的href和src有什么区别？](https://github.com/haizlin/fe-interview/issues/757)
-    - [css] [CSS的伪类和伪对象有什么不同？](https://github.com/haizlin/fe-interview/issues/758)
-    - [js] [请描述下null和undefined的区别是什么？这两者分别运用在什么场景？](https://github.com/haizlin/fe-interview/issues/759)
-    - [软技能] [你所在的团队有规范吗？举例说明都定义了哪些规范？](https://github.com/haizlin/fe-interview/issues/760)
-
 - 第92天 (2019.07.17)
     - [html] [请说说你对ISISO8859-2字符集的认识](https://github.com/haizlin/fe-interview/issues/902)
     - [css] [移动端的布局用过媒体查询吗？写出例子看看](https://github.com/haizlin/fe-interview/issues/903)
     - [js] [解释下为什么`{} + [] === 0`为true？](https://github.com/haizlin/fe-interview/issues/904)
     - [软技能] [浏览器在什么情况下会出现“已拦截弹窗式窗口”？怎么解决？](https://github.com/haizlin/fe-interview/issues/905)
+
+- 第93天 (2019.07.18)
+    - [html] [有使用过svg吗？请用svg画一个圆](https://github.com/haizlin/fe-interview/issues/906)
+    - [css] [写出div在不固定高度的情况下水平垂直居中的方法？](https://github.com/haizlin/fe-interview/issues/907)
+    - [js] [js的函数有哪几种调用形式？](https://github.com/haizlin/fe-interview/issues/908)
+    - [软技能] [简要描述下什么是DNS？它有什么用？](https://github.com/haizlin/fe-interview/issues/909)
 
 - **[查看全部](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第93天 (2019.07.18)
+    - [html] [有使用过svg吗？请用svg画一个圆](https://github.com/haizlin/fe-interview/issues/906)
+    - [css] [写出div在不固定高度的情况下水平垂直居中的方法？](https://github.com/haizlin/fe-interview/issues/907)
+    - [js] [js的函数有哪几种调用形式？](https://github.com/haizlin/fe-interview/issues/908)
+    - [软技能] [简要描述下什么是DNS？它有什么用？](https://github.com/haizlin/fe-interview/issues/909)
+
 - 第92天 (2019.07.17)
     - [html] [请说说你对ISISO8859-2字符集的认识](https://github.com/haizlin/fe-interview/issues/902)
     - [css] [移动端的布局用过媒体查询吗？写出例子看看](https://github.com/haizlin/fe-interview/issues/903)
