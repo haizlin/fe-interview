@@ -2,7 +2,7 @@
 > 鼓励PR，持续更新（React v16.6.0）
 
 ## 历史题目(最新：2019.07.18)
-[React](#React) | [React Native](#React Native) | [React-Router](#React-Router) | [Redux/Mobox](#Redux/Mobox) | [Flux](#Flux)
+[React](#React) | [ReactNative](#ReactNative) | [React-Router](#React-Router) | [Redux/Mobox](#Redux/Mobox) | [Flux](#Flux)
 
 ### React
 - [使用时候使用状态管理器？](https://github.com/haizlin/fe-interview/issues/953)
@@ -277,7 +277,7 @@
 - [在React中你是怎么进行状态管理的？](https://github.com/haizlin/fe-interview/issues/605)
 - [React声明组件有哪几种方法，各有什么不同？](https://github.com/haizlin/fe-interview/issues/604)
 
-### React Native
+### ReactNative
 - [如何在React Native中设置环境变量？]()
 - [请描述下Code Push的原理是什么？](https://github.com/haizlin/fe-interview/issues/783)
 - [React Native怎样查看日记？](https://github.com/haizlin/fe-interview/issues/782)

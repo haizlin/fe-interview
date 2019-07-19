@@ -39,7 +39,7 @@
     [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [软技能](category/skill.md)
 
 - 专题（敬请期待、欢迎PR）  
-    [ES6](category/es6.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 327+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
+    [ES6](category/es6.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
 
 - 工具（敬请期待、欢迎PR）  
     [webpack](tools/webpack.md)
