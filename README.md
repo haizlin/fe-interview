@@ -26,11 +26,11 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">点击查看 “卓越-九周年” 视频</a></p>
 
-## 今天的面试题 (2019.07.19) —— 第94天
-- [html] [使用HTML5需要遵守哪些设计原则？](https://github.com/haizlin/fe-interview/issues/954)
-- [css] [为什么会出现浮动？在什么时候需要清除浮动呢？](https://github.com/haizlin/fe-interview/issues/955)
-- [js] [用js写出死循环的方法有哪些？](https://github.com/haizlin/fe-interview/issues/956)
-- [软技能] [说说你对emojig表情的理解，前端如何处理emoji表情？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/957)
+## 今天的面试题 (2019.07.20) —— 第95天
+- [html] [HTML5标准提供了哪些新的API？你有用过哪些？](https://github.com/haizlin/fe-interview/issues/958)
+- [css] [当一个元素被设置为浮动后，它的display值变为什么呢？](https://github.com/haizlin/fe-interview/issues/959)
+- [js] [分别写出数组的交集、并集、差集、补集这四个方法](https://github.com/haizlin/fe-interview/issues/960)
+- [软技能] [你知道什么是图片防盗链吗？防盗链怎么实现呢？说说你的方法](https://github.com/haizlin/fe-interview/issues/961)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -67,17 +67,17 @@
 
 …………  
 
-- 第92天 (2019.07.17)
-    - [html] [请说说你对ISISO8859-2字符集的认识](https://github.com/haizlin/fe-interview/issues/902)
-    - [css] [移动端的布局用过媒体查询吗？写出例子看看](https://github.com/haizlin/fe-interview/issues/903)
-    - [js] [解释下为什么`{} + [] === 0`为true？](https://github.com/haizlin/fe-interview/issues/904)
-    - [软技能] [浏览器在什么情况下会出现“已拦截弹窗式窗口”？怎么解决？](https://github.com/haizlin/fe-interview/issues/905)
-
 - 第93天 (2019.07.18)
     - [html] [有使用过svg吗？请用svg画一个圆](https://github.com/haizlin/fe-interview/issues/906)
     - [css] [写出div在不固定高度的情况下水平垂直居中的方法？](https://github.com/haizlin/fe-interview/issues/907)
     - [js] [js的函数有哪几种调用形式？](https://github.com/haizlin/fe-interview/issues/908)
     - [软技能] [简要描述下什么是DNS？它有什么用？](https://github.com/haizlin/fe-interview/issues/909)
+
+- 第94天 (2019.07.19)
+    - [html] [使用HTML5需要遵守哪些设计原则？](https://github.com/haizlin/fe-interview/issues/954)
+    - [css] [为什么会出现浮动？在什么时候需要清除浮动呢？](https://github.com/haizlin/fe-interview/issues/955)
+    - [js] [用js写出死循环的方法有哪些？](https://github.com/haizlin/fe-interview/issues/956)
+    - [软技能] [说说你对emojig表情的理解，前端如何处理emoji表情？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/957)
 
 - **[查看全部](category/history.md)**
 

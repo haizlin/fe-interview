@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第94天 (2019.07.19)
+    - [html] [使用HTML5需要遵守哪些设计原则？](https://github.com/haizlin/fe-interview/issues/954)
+    - [css] [为什么会出现浮动？在什么时候需要清除浮动呢？](https://github.com/haizlin/fe-interview/issues/955)
+    - [js] [用js写出死循环的方法有哪些？](https://github.com/haizlin/fe-interview/issues/956)
+    - [软技能] [说说你对emojig表情的理解，前端如何处理emoji表情？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/957)
+
 - 第93天 (2019.07.18)
     - [html] [有使用过svg吗？请用svg画一个圆](https://github.com/haizlin/fe-interview/issues/906)
     - [css] [写出div在不固定高度的情况下水平垂直居中的方法？](https://github.com/haizlin/fe-interview/issues/907)
