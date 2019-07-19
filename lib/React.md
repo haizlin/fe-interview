@@ -5,7 +5,7 @@
 [React](#React) | [ReactNative](#ReactNative) | [React-Router](#React-Router) | [Redux/Mobox](#Redux/Mobox) | [Flux](#Flux)
 
 ### React
-- [使用时候使用状态管理器？](https://github.com/haizlin/fe-interview/issues/953)
+- [什么时候使用状态管理器？](https://github.com/haizlin/fe-interview/issues/953)
 - [render函数中return如果没有使用()会有什么问题？](https://github.com/haizlin/fe-interview/issues/952)
 - [componentWillUpdate可以直接修改state的值吗？](https://github.com/haizlin/fe-interview/issues/951)
 - [说说你对React的渲染原理的理解](https://github.com/haizlin/fe-interview/issues/950)
