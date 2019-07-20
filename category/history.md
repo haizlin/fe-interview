@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第95天 (2019.07.20)
+    - [html] [HTML5标准提供了哪些新的API？你有用过哪些？](https://github.com/haizlin/fe-interview/issues/958)
+    - [css] [当一个元素被设置为浮动后，它的display值变为什么呢？](https://github.com/haizlin/fe-interview/issues/959)
+    - [js] [分别写出数组的交集、并集、差集、补集这四个方法](https://github.com/haizlin/fe-interview/issues/960)
+    - [软技能] [你知道什么是图片防盗链吗？防盗链怎么实现呢？说说你的方法](https://github.com/haizlin/fe-interview/issues/961)
+
 - 第94天 (2019.07.19)
     - [html] [使用HTML5需要遵守哪些设计原则？](https://github.com/haizlin/fe-interview/issues/954)
     - [css] [为什么会出现浮动？在什么时候需要清除浮动呢？](https://github.com/haizlin/fe-interview/issues/955)
