@@ -1,4 +1,4 @@
-# 周汇总 2019.07.14
+# 周汇总 2019.07.21
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -13,6 +13,13 @@
 > 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
 
 ## html
+- [写出以下几个HTML标签：字体、居中、文字加粗、下标](https://github.com/haizlin/fe-interview/issues/962)
+- [HTML5标准提供了哪些新的API？你有用过哪些？](https://github.com/haizlin/fe-interview/issues/958)
+- [使用HTML5需要遵守哪些设计原则？](https://github.com/haizlin/fe-interview/issues/954)
+- [有使用过svg吗？请用svg画一个圆](https://github.com/haizlin/fe-interview/issues/906)
+- [请说说你对ISISO8859-2字符集的认识](https://github.com/haizlin/fe-interview/issues/902)
+- [请描述下元素的href和src有什么区别？](https://github.com/haizlin/fe-interview/issues/757)
+- [举例说明你对ol和ul标签的区别？它们的运用场景分别是什么呢？](https://github.com/haizlin/fe-interview/issues/747)
 - [a标签的href和onclick属性同时存在时哪个先触发？](https://github.com/haizlin/fe-interview/issues/743)
 - [怎么使用HTML5来获取定位？定位不准怎么解决？](https://github.com/haizlin/fe-interview/issues/607)
 - [举例说明如何原样输出HTML代码，不被浏览器解析？](https://github.com/haizlin/fe-interview/issues/600)
@@ -103,6 +110,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [行内css和important哪个优先级高？](https://github.com/haizlin/fe-interview/issues/963)
+- [当一个元素被设置为浮动后，它的display值变为什么呢？](https://github.com/haizlin/fe-interview/issues/959)
+- [为什么会出现浮动？在什么时候需要清除浮动呢？](https://github.com/haizlin/fe-interview/issues/955)
+- [写出div在不固定高度的情况下水平垂直居中的方法？](https://github.com/haizlin/fe-interview/issues/907)
+- [移动端的布局用过媒体查询吗？写出例子看看](https://github.com/haizlin/fe-interview/issues/903)
+- [CSS的伪类和伪对象有什么不同？](https://github.com/haizlin/fe-interview/issues/758)
+- [CSS的overflow属性定义溢出元素内容区的内容会如何处理呢?](https://github.com/haizlin/fe-interview/issues/748)
 - [外层有一个自适应高度的div，里面有两个div，一个高度固定300px，另一个怎么填满剩余的高度？](https://github.com/haizlin/fe-interview/issues/744)
 - [说说你对CSS样式覆盖规则的理解](https://github.com/haizlin/fe-interview/issues/608)
 - [写出几个初始化CSS的样式，并解释说明为什么要这样写](https://github.com/haizlin/fe-interview/issues/601)
@@ -193,6 +207,13 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [要实现一个js的持续动画，你有什么比较好的方法？](https://github.com/haizlin/fe-interview/issues/964)
+- [分别写出数组的交集、并集、差集、补集这四个方法](https://github.com/haizlin/fe-interview/issues/960)
+- [用js写出死循环的方法有哪些？](https://github.com/haizlin/fe-interview/issues/956)
+- [js的函数有哪几种调用形式？](https://github.com/haizlin/fe-interview/issues/908)
+- [解释下为什么`{} + [] === 0`为true？](https://github.com/haizlin/fe-interview/issues/904)
+- [请描述下null和undefined的区别是什么？这两者分别运用在什么场景？](https://github.com/haizlin/fe-interview/issues/759)
+- [写个方法随机打乱一个数组](https://github.com/haizlin/fe-interview/issues/749)
 - [js异步加载有哪些方案？](https://github.com/haizlin/fe-interview/issues/745)
 - [判断instanceof的结果并解释原因 [代码]](https://github.com/haizlin/fe-interview/issues/609)
 ```
@@ -289,6 +310,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [说说你对Git的branch, diff, merge的理解？](https://github.com/haizlin/fe-interview/issues/965)
+- [你知道什么是图片防盗链吗？防盗链怎么实现呢？说说你的方法](https://github.com/haizlin/fe-interview/issues/961)
+- [说说你对emojig表情的理解，前端如何处理emoji表情？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/957)
+- [简要描述下什么是DNS？它有什么用？](https://github.com/haizlin/fe-interview/issues/909)
+- [浏览器在什么情况下会出现“已拦截弹窗式窗口”？怎么解决？](https://github.com/haizlin/fe-interview/issues/905)
+- [你所在的团队有规范吗？举例说明都定义了哪些规范？](https://github.com/haizlin/fe-interview/issues/760)
+- [当项目准备上线前，你有做过哪些性能优化吗？](https://github.com/haizlin/fe-interview/issues/750)
 - [说说你对robots文件的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/746)
 - [说说你对hosts文件的理解，它都有哪些作用？](https://github.com/haizlin/fe-interview/issues/610)
 - [你平常都看哪些方面的书？你看书的方法是怎样的？](https://github.com/haizlin/fe-interview/issues/603)

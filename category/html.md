@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.14
+> 最新：2019.07.21
 
+- [写出以下几个HTML标签：字体、居中、文字加粗、下标](https://github.com/haizlin/fe-interview/issues/962)
+- [HTML5标准提供了哪些新的API？你有用过哪些？](https://github.com/haizlin/fe-interview/issues/958)
+- [使用HTML5需要遵守哪些设计原则？](https://github.com/haizlin/fe-interview/issues/954)
+- [有使用过svg吗？请用svg画一个圆](https://github.com/haizlin/fe-interview/issues/906)
+- [请说说你对ISISO8859-2字符集的认识](https://github.com/haizlin/fe-interview/issues/902)
+- [请描述下元素的href和src有什么区别？](https://github.com/haizlin/fe-interview/issues/757)
+- [举例说明你对ol和ul标签的区别？它们的运用场景分别是什么呢？](https://github.com/haizlin/fe-interview/issues/747)
 - [a标签的href和onclick属性同时存在时哪个先触发？](https://github.com/haizlin/fe-interview/issues/743)
 - [怎么使用HTML5来获取定位？定位不准怎么解决？](https://github.com/haizlin/fe-interview/issues/607)
 - [举例说明如何原样输出HTML代码，不被浏览器解析？](https://github.com/haizlin/fe-interview/issues/600)

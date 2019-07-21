@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.14
+> 最新：2019.07.21
 
+- [要实现一个js的持续动画，你有什么比较好的方法？](https://github.com/haizlin/fe-interview/issues/964)
+- [分别写出数组的交集、并集、差集、补集这四个方法](https://github.com/haizlin/fe-interview/issues/960)
+- [用js写出死循环的方法有哪些？](https://github.com/haizlin/fe-interview/issues/956)
+- [js的函数有哪几种调用形式？](https://github.com/haizlin/fe-interview/issues/908)
+- [解释下为什么`{} + [] === 0`为true？](https://github.com/haizlin/fe-interview/issues/904)
+- [请描述下null和undefined的区别是什么？这两者分别运用在什么场景？](https://github.com/haizlin/fe-interview/issues/759)
+- [写个方法随机打乱一个数组](https://github.com/haizlin/fe-interview/issues/749)
 - [js异步加载有哪些方案？](https://github.com/haizlin/fe-interview/issues/745)
 - [判断instanceof的结果并解释原因 [代码]](https://github.com/haizlin/fe-interview/issues/609)
 ```

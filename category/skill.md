@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.14
+> 最新：2019.07.21
 
+- [说说你对Git的branch, diff, merge的理解？](https://github.com/haizlin/fe-interview/issues/965)
+- [你知道什么是图片防盗链吗？防盗链怎么实现呢？说说你的方法](https://github.com/haizlin/fe-interview/issues/961)
+- [说说你对emojig表情的理解，前端如何处理emoji表情？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/957)
+- [简要描述下什么是DNS？它有什么用？](https://github.com/haizlin/fe-interview/issues/909)
+- [浏览器在什么情况下会出现“已拦截弹窗式窗口”？怎么解决？](https://github.com/haizlin/fe-interview/issues/905)
+- [你所在的团队有规范吗？举例说明都定义了哪些规范？](https://github.com/haizlin/fe-interview/issues/760)
+- [当项目准备上线前，你有做过哪些性能优化吗？](https://github.com/haizlin/fe-interview/issues/750)
 - [说说你对robots文件的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/746)
 - [说说你对hosts文件的理解，它都有哪些作用？](https://github.com/haizlin/fe-interview/issues/610)
 - [你平常都看哪些方面的书？你看书的方法是怎样的？](https://github.com/haizlin/fe-interview/issues/603)
