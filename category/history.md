@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第96天 (2019.07.21)
+    - [html] [写出以下几个HTML标签：字体、居中、文字加粗、下标](https://github.com/haizlin/fe-interview/issues/962)
+    - [css] [行内css和important哪个优先级高？](https://github.com/haizlin/fe-interview/issues/963)
+    - [js] [要实现一个js的持续动画，你有什么比较好的方法？](https://github.com/haizlin/fe-interview/issues/964)
+    - [软技能] [说说你对Git的branch, diff, merge的理解？](https://github.com/haizlin/fe-interview/issues/965)
+
 - 第95天 (2019.07.20)
     - [html] [HTML5标准提供了哪些新的API？你有用过哪些？](https://github.com/haizlin/fe-interview/issues/958)
     - [css] [当一个元素被设置为浮动后，它的display值变为什么呢？](https://github.com/haizlin/fe-interview/issues/959)

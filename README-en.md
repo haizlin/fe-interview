@@ -28,11 +28,11 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
-## Today's Interview Question (2019.07.21) —— 96 days
-- [html] [写出以下几个HTML标签：字体、居中、文字加粗、下标](https://github.com/haizlin/fe-interview/issues/962)
-- [css] [行内css和important哪个优先级高？](https://github.com/haizlin/fe-interview/issues/963)
-- [js] [要实现一个js的持续动画，你有什么比较好的方法？](https://github.com/haizlin/fe-interview/issues/964)
-- [skill] [说说你对Git的branch, diff, merge的理解？](https://github.com/haizlin/fe-interview/issues/965)
+## Today's Interview Question (2019.07.22) —— 97 days
+- [html] [Doctype有什么作用？你知道有多少种Doctype文档类型吗？](https://github.com/haizlin/fe-interview/issues/967)
+- [css] [如何更改placeholder的字体颜色和大小？](https://github.com/haizlin/fe-interview/issues/968)
+- [js] [写例子说明如何给li绑定事件（ul下有1000+个li）？](https://github.com/haizlin/fe-interview/issues/969)
+- [skill] [你认为前端工程师应该分为哪些级别呢？说说你的看法](https://github.com/haizlin/fe-interview/issues/970)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -69,17 +69,17 @@
 
 …………  
 
-- 94 days (2019.07.19)
-    - [html] [使用HTML5需要遵守哪些设计原则？](https://github.com/haizlin/fe-interview/issues/954)
-    - [css] [为什么会出现浮动？在什么时候需要清除浮动呢？](https://github.com/haizlin/fe-interview/issues/955)
-    - [js] [用js写出死循环的方法有哪些？](https://github.com/haizlin/fe-interview/issues/956)
-    - [skill] [说说你对emojig表情的理解，前端如何处理emoji表情？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/957)
-
 - 95 days (2019.07.20)
     - [html] [HTML5标准提供了哪些新的API？你有用过哪些？](https://github.com/haizlin/fe-interview/issues/958)
     - [css] [当一个元素被设置为浮动后，它的display值变为什么呢？](https://github.com/haizlin/fe-interview/issues/959)
     - [js] [分别写出数组的交集、并集、差集、补集这四个方法](https://github.com/haizlin/fe-interview/issues/960)
     - [skill] [你知道什么是图片防盗链吗？防盗链怎么实现呢？说说你的方法](https://github.com/haizlin/fe-interview/issues/961)
+
+- 96 days (2019.07.21)
+    - [html] [写出以下几个HTML标签：字体、居中、文字加粗、下标](https://github.com/haizlin/fe-interview/issues/962)
+    - [css] [行内css和important哪个优先级高？](https://github.com/haizlin/fe-interview/issues/963)
+    - [js] [要实现一个js的持续动画，你有什么比较好的方法？](https://github.com/haizlin/fe-interview/issues/964)
+    - [软技能] [说说你对Git的branch, diff, merge的理解？](https://github.com/haizlin/fe-interview/issues/965)
 
 - **[All](category/history.md)**
 
