@@ -177,7 +177,7 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
 * [勿忘心安](https://github.com/crazylxr)（公众号「前端桃园」）
 * [yck](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)（公众号「前端真好玩」、「前端面试之道」作者）
 * [浪里行舟](https://github.com/ljianshu/Blog)（公众号「前端工匠」作者浪里行舟，关注基础知识，打造优质前端博客。）
-* [小生方勤](https://github.com/wanqihua)（公众号「小生方勤」、前端词典系列作者浪里行舟）
+* [小生方勤](https://github.com/wanqihua)（公众号「小生方勤」、前端词典系列作者）
 * [郭小北](https://github.com/xiaobei666)（公众号「前端你别闹」作者）
 * [小婷](https://www.zhihu.com/people/wang-ting-83-68-20/activities)（公众号「编程微刊」作者）
 * [dendoink](https://github.com/DendiSe7enGitHub)（公众号「前端恶霸」作者）
