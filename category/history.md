@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第98天 (2019.07.23)
+    - [html] [列举出你最常用的meta标签的写法和作用](https://github.com/haizlin/fe-interview/issues/971)
+    - [css] [移动端微信页面有哪些兼容性问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/972)
+    - [js] [说说你理解的同步和异步的区别是什么？](https://github.com/haizlin/fe-interview/issues/973)
+    - [软技能] [不查资料，你会手写正则吗？](https://github.com/haizlin/fe-interview/issues/974)
+
 - 第97天 (2019.07.22)
     - [html] [Doctype有什么作用？你知道有多少种Doctype文档类型吗？](https://github.com/haizlin/fe-interview/issues/967)
     - [css] [如何更改placeholder的字体颜色和大小？](https://github.com/haizlin/fe-interview/issues/968)
