@@ -28,7 +28,7 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
-## Today's Interview Question (2019.07.25) —— 100 days
+## Today's Knowledge Points (2019.07.25) —— 100 days
 - [html] [HTML5怎么为输入框添加语音输入的功能呢？](https://github.com/haizlin/fe-interview/issues/979)
 - [css] [如何让大小不同的图片等比缩放不变形显示在固定大小的div里？写个例子](https://github.com/haizlin/fe-interview/issues/980)
 - [js] [分别封装精确运算的加减乘除四个方法](https://github.com/haizlin/fe-interview/issues/981)
@@ -146,13 +146,17 @@ Welcome to discuss, if you think it is helpful for your study, please order [**S
 - 2019.07.08 — 第83天，star数突破3000大关
 - 2019.07.18 — 添加了非常棒的开源项目链接，顺便记录下今天star突破3500，关注的朋友越来越多，继续坚持**死磕自己，愉悦大家**
 - 2019.07.19 — [328道React题](https://juejin.im/post/5d310e8bf265da1bd261259d)出炉，目前Vue和React的题已经各占领全球第一了，后期会持续更新！
+- 2019.07.25 — 开通了[segmentfault专栏](https://segmentfault.com/blog/frontend-interview)的专栏，至今已有10个平台同步更新，让更多的朋友参与进来！
+- 2019.07.25 — 整整100天，从未间断，共968个知识点，3787个朋友关注，上百万次访问！创造了多个记录，多个第一，但路还长，望继续坚持！
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
 - [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（Daily Synchronized Updates）
 - [zhihu](https://zhuanlan.zhihu.com/fe-interview)（Daily Synchronized Updates）
+- [Github](https://github.com/haizlin/fe-interview)（Daily Synchronized Updates）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
 - [jianshu](https://www.jianshu.com/c/1ba24fbe0006)（Daily Synchronized Updates）
+- [segmentfault](https://segmentfault.com/blog/frontend-interview)（Daily Synchronized Updates）
 - [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）

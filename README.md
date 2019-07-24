@@ -26,7 +26,7 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">点击查看 “卓越-九周年” 视频</a></p>
 
-## 今天的面试题 (2019.07.25) —— 第100天
+## 今天的知识点 (2019.07.25) —— 第100天
 - [html] [HTML5怎么为输入框添加语音输入的功能呢？](https://github.com/haizlin/fe-interview/issues/979)
 - [css] [如何让大小不同的图片等比缩放不变形显示在固定大小的div里？写出来](https://github.com/haizlin/fe-interview/issues/980)
 - [js] [分别封装精确运算的加减乘除四个方法](https://github.com/haizlin/fe-interview/issues/981)
@@ -144,14 +144,18 @@
 - 2019.07.08 — 第83天，star数突破3000大关
 - 2019.07.18 — 添加了非常棒的开源项目链接，顺便记录下今天star突破3500，关注的朋友越来越多，继续坚持**死磕自己，愉悦大家**
 - 2019.07.19 — [328道React题](https://juejin.im/post/5d310e8bf265da1bd261259d)出炉，目前Vue和React的题已经各占领全球第一了，后期会持续更新！
+- 2019.07.25 — 开通了[segmentfault专栏](https://segmentfault.com/blog/frontend-interview)的专栏，至今已有10个平台同步更新，让更多的朋友参与进来！
+- 2019.07.25 — 整整100天，从未间断，共968个知识点，3787个朋友关注，上百万次访问！创造了多个记录，多个第一，但路还长，望继续坚持！
 
 ## 在哪可以看到
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN每天同步更新）
 - [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
 - [知乎专栏](https://zhuanlan.zhihu.com/fe-interview)（每天同步更新）
+- [Github](https://github.com/haizlin/fe-interview)（每天同步更新）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
-- [简书](https://www.jianshu.com/c/1ba24fbe0006)（每天同步更新）
-- [开发者头条](https://toutiao.io/subjects/359261)（每天同步更新）
+- [简书专栏](https://www.jianshu.com/c/1ba24fbe0006)（每天同步更新）
+- [segmentfault专栏](https://segmentfault.com/blog/frontend-interview)（每天同步更新）
+- [开发者头条专栏](https://toutiao.io/subjects/359261)（每天同步更新）
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
 - 「前端剑解」 微信公众号（扫描上方二维码，每天同步更新）
 
