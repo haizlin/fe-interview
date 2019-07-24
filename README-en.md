@@ -28,11 +28,11 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
-## Today's Interview Question (2019.07.24) —— 99 days
-- [html] [HTML5的页面可见性（Page Visibility）有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/975)
-- [css] [你对视网膜(Retina)分辨率有了解吗？有没有在实际中使用过？](https://github.com/haizlin/fe-interview/issues/976)
-- [js] [不用第三方库，说说纯js怎么实现读取和导出excel？](https://github.com/haizlin/fe-interview/issues/977)
-- [skill] [你有用过单例模式吗？主要运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/978)
+## Today's Interview Question (2019.07.25) —— 100 days
+- [html] [HTML5怎么为输入框添加语音输入的功能呢？](https://github.com/haizlin/fe-interview/issues/979)
+- [css] [如何让大小不同的图片等比缩放不变形显示在固定大小的div里？写个例子](https://github.com/haizlin/fe-interview/issues/980)
+- [js] [分别封装精确运算的加减乘除四个方法](https://github.com/haizlin/fe-interview/issues/981)
+- [skill] [你有画过流程图吗？用过什么软件？开始和判定分别用什么图形表示？](https://github.com/haizlin/fe-interview/issues/982)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -69,17 +69,17 @@
 
 …………  
 
-- 97 days (2019.07.22)
-    - [html] [Doctype有什么作用？你知道有多少种Doctype文档类型吗？](https://github.com/haizlin/fe-interview/issues/967)
-    - [css] [如何更改placeholder的字体颜色和大小？](https://github.com/haizlin/fe-interview/issues/968)
-    - [js] [写例子说明如何给li绑定事件（ul下有1000+个li）？](https://github.com/haizlin/fe-interview/issues/969)
-    - [skill] [你认为前端工程师应该分为哪些级别呢？说说你的看法](https://github.com/haizlin/fe-interview/issues/970)
-
 - 98 days (2019.07.23)
     - [html] [列举出你最常用的meta标签的写法和作用](https://github.com/haizlin/fe-interview/issues/971)
     - [css] [移动端微信页面有哪些兼容性问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/972)
     - [js] [说说你理解的同步和异步的区别是什么？](https://github.com/haizlin/fe-interview/issues/973)
     - [skill] [不查资料，你会手写正则吗？](https://github.com/haizlin/fe-interview/issues/974)
+
+- 99 days (2019.07.24)
+    - [html] [HTML5的页面可见性（Page Visibility）有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/975)
+    - [css] [你对视网膜(Retina)分辨率有了解吗？有没有在实际中使用过？](https://github.com/haizlin/fe-interview/issues/976)
+    - [js] [不用第三方库，说说纯js怎么实现读取和导出excel？](https://github.com/haizlin/fe-interview/issues/977)
+    - [skill] [你有用过单例模式吗？主要运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/978)
 
 - **[All](category/history.md)**
 

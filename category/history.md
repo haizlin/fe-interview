@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第99天 (2019.07.24)
+    - [html] [HTML5的页面可见性（Page Visibility）有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/975)
+    - [css] [你对视网膜(Retina)分辨率有了解吗？有没有在实际中使用过？](https://github.com/haizlin/fe-interview/issues/976)
+    - [js] [不用第三方库，说说纯js怎么实现读取和导出excel？](https://github.com/haizlin/fe-interview/issues/977)
+    - [软技能] [你有用过单例模式吗？主要运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/978)
+
 - 第98天 (2019.07.23)
     - [html] [列举出你最常用的meta标签的写法和作用](https://github.com/haizlin/fe-interview/issues/971)
     - [css] [移动端微信页面有哪些兼容性问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/972)
