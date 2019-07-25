@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第100天 (2019.07.25)
+    - [html] [HTML5怎么为输入框添加语音输入的功能呢？](https://github.com/haizlin/fe-interview/issues/979)
+    - [css] [如何让大小不同的图片等比缩放不变形显示在固定大小的div里？写出来](https://github.com/haizlin/fe-interview/issues/980)
+    - [js] [分别封装精确运算的加减乘除四个方法](https://github.com/haizlin/fe-interview/issues/981)
+    - [软技能] [你有画过流程图吗？开始和判定分别用什么图形表示？](https://github.com/haizlin/fe-interview/issues/982)
+
 - 第99天 (2019.07.24)
     - [html] [HTML5的页面可见性（Page Visibility）有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/975)
     - [css] [你对视网膜(Retina)分辨率有了解吗？有没有在实际中使用过？](https://github.com/haizlin/fe-interview/issues/976)
