@@ -26,11 +26,11 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">点击查看 “卓越-九周年” 视频</a></p>
 
-## 今天的知识点 (2019.07.26) —— 第101天
-- [html] [说说你对accesskey的理解，举例说明它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/984)
-- [css] [说说你对前端二倍图的理解？移动端使用二倍图比一倍图有什么好处？](https://github.com/haizlin/fe-interview/issues/985)
-- [js] [不依赖第三方库，说下如何使用js读取pdf？](https://github.com/haizlin/fe-interview/issues/986)
-- [软技能] [你有自己买过服务器和域名用来搭建博客或者网站吗？](https://github.com/haizlin/fe-interview/issues/987)
+## 今天的知识点 (2019.07.27) —— 第102天
+- [html] [行内元素、块级元素、空(void)元素分别有有那些？](https://github.com/haizlin/fe-interview/issues/988)
+- [css] [你是如何规划响应式布局的？](https://github.com/haizlin/fe-interview/issues/989)
+- [js] [准确说出`'1,2,3,4'.split()`的结果是什么（包括类型和值）？](https://github.com/haizlin/fe-interview/issues/990)
+- [软技能] [进程与线程有什么区别？JS的单线程带来哪些好处？](https://github.com/haizlin/fe-interview/issues/991)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -67,17 +67,17 @@
 
 …………  
 
-- 第99天 (2019.07.24)
-    - [html] [HTML5的页面可见性（Page Visibility）有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/975)
-    - [css] [你对视网膜(Retina)分辨率有了解吗？有没有在实际中使用过？](https://github.com/haizlin/fe-interview/issues/976)
-    - [js] [不用第三方库，说说纯js怎么实现读取和导出excel？](https://github.com/haizlin/fe-interview/issues/977)
-    - [软技能] [你有用过单例模式吗？主要运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/978)
-
 - 第100天 (2019.07.25)
     - [html] [HTML5怎么为输入框添加语音输入的功能呢？](https://github.com/haizlin/fe-interview/issues/979)
     - [css] [如何让大小不同的图片等比缩放不变形显示在固定大小的div里？写出来](https://github.com/haizlin/fe-interview/issues/980)
     - [js] [分别封装精确运算的加减乘除四个方法](https://github.com/haizlin/fe-interview/issues/981)
     - [软技能] [你有画过流程图吗？开始和判定分别用什么图形表示？](https://github.com/haizlin/fe-interview/issues/982)
+
+- 第101天 (2019.07.26)
+    - [html] [说说你对accesskey的理解，举例说明它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/984)
+    - [css] [说说你对前端二倍图的理解？移动端使用二倍图比一倍图有什么好处？](https://github.com/haizlin/fe-interview/issues/985)
+    - [js] [不依赖第三方库，说下如何使用js读取pdf？](https://github.com/haizlin/fe-interview/issues/986)
+    - [软技能] [你有自己买过服务器和域名用来搭建博客或者网站吗？](https://github.com/haizlin/fe-interview/issues/987)
 
 - **[查看全部](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+ 第101天 (2019.07.26)
+    - [html] [说说你对accesskey的理解，举例说明它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/984)
+    - [css] [说说你对前端二倍图的理解？移动端使用二倍图比一倍图有什么好处？](https://github.com/haizlin/fe-interview/issues/985)
+    - [js] [不依赖第三方库，说下如何使用js读取pdf？](https://github.com/haizlin/fe-interview/issues/986)
+    - [软技能] [你有自己买过服务器和域名用来搭建博客或者网站吗？](https://github.com/haizlin/fe-interview/issues/987)
+
 - 第100天 (2019.07.25)
     - [html] [HTML5怎么为输入框添加语音输入的功能呢？](https://github.com/haizlin/fe-interview/issues/979)
     - [css] [如何让大小不同的图片等比缩放不变形显示在固定大小的div里？写出来](https://github.com/haizlin/fe-interview/issues/980)
