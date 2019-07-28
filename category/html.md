@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.21
+> 最新：2019.07.28
 
+- [请描述一下cookies、sessionStorage和localStorage 的区别？](https://github.com/haizlin/fe-interview/issues/992)
+- [行内元素、块级元素、空(void)元素分别有有那些？](https://github.com/haizlin/fe-interview/issues/988)
+- [说说你对accesskey的理解，举例说明它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/984)
+- [HTML5怎么为输入框添加语音输入的功能呢？](https://github.com/haizlin/fe-interview/issues/979)
+- [HTML5的页面可见性（Page Visibility）有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/975)
+- [列举出你最常用的meta标签的写法和作用](https://github.com/haizlin/fe-interview/issues/971)
+- [Doctype有什么作用？你知道有多少种Doctype文档类型吗？](https://github.com/haizlin/fe-interview/issues/967)
 - [写出以下几个HTML标签：字体、居中、文字加粗、下标](https://github.com/haizlin/fe-interview/issues/962)
 - [HTML5标准提供了哪些新的API？你有用过哪些？](https://github.com/haizlin/fe-interview/issues/958)
 - [使用HTML5需要遵守哪些设计原则？](https://github.com/haizlin/fe-interview/issues/954)

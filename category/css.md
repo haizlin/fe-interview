@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.21
+> 最新：2019.07.28
 
+- [说说你对低版本IE的盒子模型的理解](https://github.com/haizlin/fe-interview/issues/993)
+- [你是如何规划响应式布局的？](https://github.com/haizlin/fe-interview/issues/989)
+- [说说你对前端二倍图的理解？移动端使用二倍图比一倍图有什么好处？](https://github.com/haizlin/fe-interview/issues/985)
+- [如何让大小不同的图片等比缩放不变形显示在固定大小的div里？写出来](https://github.com/haizlin/fe-interview/issues/980)
+- [你对视网膜(Retina)分辨率有了解吗？有没有在实际中使用过？](https://github.com/haizlin/fe-interview/issues/976)
+- [移动端微信页面有哪些兼容性问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/972)
+- [如何更改placeholder的字体颜色和大小？](https://github.com/haizlin/fe-interview/issues/968)
 - [行内css和important哪个优先级高？](https://github.com/haizlin/fe-interview/issues/963)
 - [当一个元素被设置为浮动后，它的display值变为什么呢？](https://github.com/haizlin/fe-interview/issues/959)
 - [为什么会出现浮动？在什么时候需要清除浮动呢？](https://github.com/haizlin/fe-interview/issues/955)

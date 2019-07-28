@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.21
+> 最新：2019.07.28
 
+- [你是如何更好地处理Async/Await的异常呢的？](https://github.com/haizlin/fe-interview/issues/994)
+- [准确说出`'1,2,3,4'.split()`的结果是什么（包括类型和值）？](https://github.com/haizlin/fe-interview/issues/990)
+- [不依赖第三方库，说下如何使用js读取pdf？](https://github.com/haizlin/fe-interview/issues/986)
+- [分别封装精确运算的加减乘除四个方法](https://github.com/haizlin/fe-interview/issues/981)
+- [不用第三方库，说说纯js怎么实现读取和导出excel？](https://github.com/haizlin/fe-interview/issues/977)
+- [说说你理解的同步和异步的区别是什么？](https://github.com/haizlin/fe-interview/issues/973)
+- [写例子说明如何给li绑定事件（ul下有1000+个li）？](https://github.com/haizlin/fe-interview/issues/969)
 - [要实现一个js的持续动画，你有什么比较好的方法？](https://github.com/haizlin/fe-interview/issues/964)
 - [分别写出数组的交集、并集、差集、补集这四个方法](https://github.com/haizlin/fe-interview/issues/960)
 - [用js写出死循环的方法有哪些？](https://github.com/haizlin/fe-interview/issues/956)

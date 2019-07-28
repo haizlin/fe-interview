@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.21
+> 最新：2019.07.28
 
+- [请列举出多种减少页面加载时间的方法](https://github.com/haizlin/fe-interview/issues/995)
+- [进程与线程有什么区别？JS的单线程带来哪些好处？](https://github.com/haizlin/fe-interview/issues/991)
+- [你有自己买过服务器和域名用来搭建博客或者网站吗？](https://github.com/haizlin/fe-interview/issues/987)
+- [你有画过流程图吗？开始和判定分别用什么图形表示？](https://github.com/haizlin/fe-interview/issues/982)
+- [你有用过单例模式吗？主要运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/978)
+- [不查资料，你会手写正则吗？](https://github.com/haizlin/fe-interview/issues/974)
+- [你认为前端工程师应该分为哪些级别呢？说说你的看法](https://github.com/haizlin/fe-interview/issues/970)
 - [说说你对Git的branch, diff, merge的理解？](https://github.com/haizlin/fe-interview/issues/965)
 - [你知道什么是图片防盗链吗？防盗链怎么实现呢？说说你的方法](https://github.com/haizlin/fe-interview/issues/961)
 - [说说你对emojig表情的理解，前端如何处理emoji表情？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/957)
