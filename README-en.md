@@ -28,12 +28,11 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
-## Today's Knowledge Points (2019.07.28) —— 103 days
-- [html] [请描述一下cookies、sessionStorage和localStorage的区别？](https://github.com/haizlin/fe-interview/issues/992)
-- [css] [说说你对低版本IE的盒子模型的理解](https://github.com/haizlin/fe-interview/issues/993)
-- [js] [你是如何更好地处理Async/Await的异常的？](https://github.com/haizlin/fe-interview/issues/994)
-- [skill] [请列举出多种减少页面加载时间的方法](https://github.com/haizlin/fe-interview/issues/995)
-
+## Today's Knowledge Points (2019.07.28) —— 104 days
+- [html] [说说HTML中的`<html>`标签有什么作用？](https://github.com/haizlin/fe-interview/issues/996)
+- [css] [行内元素和块级元素有什么区别，如何相互转换？](https://github.com/haizlin/fe-interview/issues/997)
+- [js] [请说说json和jsonp的区别？](https://github.com/haizlin/fe-interview/issues/998)
+- [软技能] [描述下什么是域名解析？简述它的基本过程](https://github.com/haizlin/fe-interview/issues/999)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -70,17 +69,17 @@
 
 …………  
 
-- 101 days (2019.07.26)
-    - [html] [说说你对accesskey的理解，举例说明它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/984)
-    - [css] [说说你对前端二倍图的理解？移动端使用二倍图比一倍图有什么好处？](https://github.com/haizlin/fe-interview/issues/985)
-    - [js] [不依赖第三方库，说下如何使用js读取pdf？](https://github.com/haizlin/fe-interview/issues/986)
-    - [skill] [你有自己买过服务器和域名用来搭建博客或者网站吗？](https://github.com/haizlin/fe-interview/issues/987)
-
 - 102 days (2019.07.27)
     - [html] [行内元素、块级元素、空(void)元素分别有有那些？](https://github.com/haizlin/fe-interview/issues/988)
     - [css] [你是如何规划响应式布局的？](https://github.com/haizlin/fe-interview/issues/989)
     - [js] [准确说出`'1,2,3,4'.split()`的结果是什么（包括类型和值）？](https://github.com/haizlin/fe-interview/issues/990)
     - [skill] [进程与线程有什么区别？JS的单线程带来哪些好处？](https://github.com/haizlin/fe-interview/issues/991)
+
+- 103 days (2019.07.28)
+    - [html] [请描述一下cookies、sessionStorage和localStorage的区别？](https://github.com/haizlin/fe-interview/issues/992)
+    - [css] [说说你对低版本IE的盒子模型的理解](https://github.com/haizlin/fe-interview/issues/993)
+    - [js] [你是如何更好地处理Async/Await的异常的？](https://github.com/haizlin/fe-interview/issues/994)
+    - [skill] [请列举出多种减少页面加载时间的方法](https://github.com/haizlin/fe-interview/issues/995)
 
 - **[All](category/history.md)**
 
