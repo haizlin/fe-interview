@@ -26,7 +26,7 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">点击查看 “卓越-九周年” 视频</a></p>
 
-![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
+![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg)
 
 ## 今天的知识点 (2019.07.30) —— 第105天
 - [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
@@ -97,7 +97,7 @@
 ## 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎加入 **“前端面试每日3+1”** 微信群（扫个人微信号邀请入群）相互交流。
 
-![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
+![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg)
 
 ## 特别感谢（排名不分先后）
 - [qq674785876](https://github.com/qq674785876)

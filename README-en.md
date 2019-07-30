@@ -28,7 +28,7 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
-![wechat qrcode](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
+![wechat qrcode_public](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg)
 
 ## Today's Knowledge Points (2019.07.30) —— 105 days
 - [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
@@ -99,7 +99,7 @@
 ## Exchange
 Welcome to discuss, if you think it is helpful for your study, please order [**Star**](https://github.com/haizlin/fe-interview), and welcome to join the **"front-end interview daily 3 + 1"** Wechat group (sweep personal micro-signal invitation group) to communicate with each other.
 
-![wechat qrcode](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
+![wechat qrcode_public](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg)
 
 ## Thanks（No ranking）
 - [qq674785876](https://github.com/qq674785876)
