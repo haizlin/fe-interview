@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.07.30) —— 105 days
-- [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
-- [css] [怎么实现移动端的边框0.5px？](https://github.com/haizlin/fe-interview/issues/1002)
-- [js] [写个方法，找出指定字符串中重复最多的字符及其长度](https://github.com/haizlin/fe-interview/issues/1003)
-- [skill] [域名解析它有哪几种方式？](https://github.com/haizlin/fe-interview/issues/1004)
+## Today's Knowledge Points (2019.07.31) —— 106 days
+- [html] [除了音频和视频，HTML5还支持哪些媒体标签？](https://github.com/haizlin/fe-interview/issues/1005)
+- [css] [CSS中的calc()有什么作用？](https://github.com/haizlin/fe-interview/issues/1006)
+- [js] [说说你对作用链域的理解](https://github.com/haizlin/fe-interview/issues/1007)
+- [skill] [Web安全色所能够显示的颜色种类有多少种？](https://github.com/haizlin/fe-interview/issues/1008)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 103 days (2019.07.28)
-    - [html] [请描述一下cookies、sessionStorage和localStorage的区别？](https://github.com/haizlin/fe-interview/issues/992)
-    - [css] [说说你对低版本IE的盒子模型的理解](https://github.com/haizlin/fe-interview/issues/993)
-    - [js] [你是如何更好地处理Async/Await的异常的？](https://github.com/haizlin/fe-interview/issues/994)
-    - [skill] [请列举出多种减少页面加载时间的方法](https://github.com/haizlin/fe-interview/issues/995)
-
 - 104 days (2019.07.29)
     - [html] [说说HTML中的`<html>`标签有什么作用？](https://github.com/haizlin/fe-interview/issues/996)
     - [css] [行内元素和块级元素有什么区别，如何相互转换？](https://github.com/haizlin/fe-interview/issues/997)
     - [js] [请说说json和jsonp的区别？](https://github.com/haizlin/fe-interview/issues/998)
     - [skill] [描述下什么是域名解析？简述它的基本过程](https://github.com/haizlin/fe-interview/issues/999)
+
+- 105 days (2019.07.30)
+    - [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
+    - [css] [怎么实现移动端的边框0.5px？](https://github.com/haizlin/fe-interview/issues/1002)
+    - [js] [写个方法，找出指定字符串中重复最多的字符及其长度](https://github.com/haizlin/fe-interview/issues/1003)
+    - [软技能] [域名解析它有哪几种方式？](https://github.com/haizlin/fe-interview/issues/1004)
 
 - **[All](category/history.md)**
 

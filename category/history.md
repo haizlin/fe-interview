@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第105天 (2019.07.30)
+    - [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
+    - [css] [怎么实现移动端的边框0.5px？](https://github.com/haizlin/fe-interview/issues/1002)
+    - [js] [写个方法，找出指定字符串中重复最多的字符及其长度](https://github.com/haizlin/fe-interview/issues/1003)
+    - [软技能] [域名解析它有哪几种方式？](https://github.com/haizlin/fe-interview/issues/1004)
+
 - 第104天 (2019.07.29)
     - [html] [说说HTML中的`<html>`标签有什么作用？](https://github.com/haizlin/fe-interview/issues/996)
     - [css] [行内元素和块级元素有什么区别，如何相互转换？](https://github.com/haizlin/fe-interview/issues/997)
