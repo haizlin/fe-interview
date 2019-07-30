@@ -105,7 +105,6 @@
 <p align="center">
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
-![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg)
 
 ## 特别感谢（排名不分先后）
 - [qq674785876](https://github.com/qq674785876)
