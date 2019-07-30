@@ -28,7 +28,12 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
-![wechat qrcode_public](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg)
+## Exchange
+Welcome to discuss, if you feel that it is helpful to your study, please click [**Star**](https://github.com/haizlin/fe-interview), and Welcome to the Wechat Sweeping Pay attention to the front-end sword to understand the WeChat Official Account, and join the "front-end learning 3 + 1" Wechat group to communicate with each other (click on the menu of the public number: group communication).
+
+<p align="center">
+    <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
+</p>
 
 ## Today's Knowledge Points (2019.07.30) —— 105 days
 - [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
@@ -97,7 +102,7 @@
 ![origin picture](https://github.com/haizlin/fe-interview/raw/master/resource/images/begin.jpg)
 
 ## Exchange
-Welcome to discuss, if you think it is helpful for your study, please order [**Star**](https://github.com/haizlin/fe-interview), and welcome to join the **"front-end interview daily 3 + 1"** Wechat group (sweep personal micro-signal invitation group) to communicate with each other.
+Welcome to discuss, if you feel that it is helpful to your study, please click [**Star**](https://github.com/haizlin/fe-interview), and Welcome to the Wechat Sweeping Pay attention to the front-end sword to understand the WeChat Official Account, and join the "front-end learning 3 + 1" Wechat group to communicate with each other (click on the menu of the public number: group communication).
 
 ![wechat qrcode_public](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg)
 
