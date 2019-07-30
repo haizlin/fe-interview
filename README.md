@@ -26,6 +26,8 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">点击查看 “卓越-九周年” 视频</a></p>
 
+![微信公众号和微信群](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
+
 ## 今天的知识点 (2019.07.30) —— 第105天
 - [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
 - [css] [怎么实现移动端的边框0.5px？](https://github.com/haizlin/fe-interview/issues/1002)

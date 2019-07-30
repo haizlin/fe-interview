@@ -28,6 +28,8 @@
 
 <p align="center"><a href="https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1">Click on "Excellence - Ninth Anniversary" video</a></p>
 
+![wechat qrcode](https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode.jpg)
+
 ## Today's Knowledge Points (2019.07.30) —— 105 days
 - [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
 - [css] [怎么实现移动端的边框0.5px？](https://github.com/haizlin/fe-interview/issues/1002)
