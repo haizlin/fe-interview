@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第106天 (2019.07.31)
+    - [html] [除了音频和视频，HTML5还支持哪些媒体标签？](https://github.com/haizlin/fe-interview/issues/1005)
+    - [css] [CSS中的calc()有什么作用？](https://github.com/haizlin/fe-interview/issues/1006)
+    - [js] [说说你对作用域链的理解](https://github.com/haizlin/fe-interview/issues/1007)
+    - [软技能] [Web安全色所能够显示的颜色种类有多少种？](https://github.com/haizlin/fe-interview/issues/1008)
+
 - 第105天 (2019.07.30)
     - [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
     - [css] [怎么实现移动端的边框0.5px？](https://github.com/haizlin/fe-interview/issues/1002)
