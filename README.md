@@ -36,7 +36,7 @@
 ## 今天的知识点 (2019.07.31) —— 第106天
 - [html] [除了音频和视频，HTML5还支持哪些媒体标签？](https://github.com/haizlin/fe-interview/issues/1005)
 - [css] [CSS中的calc()有什么作用？](https://github.com/haizlin/fe-interview/issues/1006)
-- [js] [说说你对作用链域的理解](https://github.com/haizlin/fe-interview/issues/1007)
+- [js] [说说你对作用域链的理解](https://github.com/haizlin/fe-interview/issues/1007)
 - [软技能] [Web安全色所能够显示的颜色种类有多少种？](https://github.com/haizlin/fe-interview/issues/1008)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
