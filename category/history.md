@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第107天 (2019.08.01)
+    - [html] [网站的TDK该怎么设置？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1009)
+    - [css] [过渡和动画的区别是什么？](https://github.com/haizlin/fe-interview/issues/1010)
+    - [js] [写一个方法判断给定的字符串是否同态(isomorphic)](https://github.com/haizlin/fe-interview/issues/1011)
+    - [软技能] [你上家公司前端团队有多少人？是怎么分工的？](https://github.com/haizlin/fe-interview/issues/1012)
+
 - 第106天 (2019.07.31)
     - [html] [除了音频和视频，HTML5还支持哪些媒体标签？](https://github.com/haizlin/fe-interview/issues/1005)
     - [css] [CSS中的calc()有什么作用？](https://github.com/haizlin/fe-interview/issues/1006)

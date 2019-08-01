@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.07.31) —— 106 days
-- [html] [网站的TDK该怎么设置？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1009)
-- [css] [过渡和动画的区别是什么？](https://github.com/haizlin/fe-interview/issues/1010)
-- [js] [写一个方法判断给定的字符串是否同态(isomorphic)](https://github.com/haizlin/fe-interview/issues/1011)
-- [skill] [你上家公司前端团队有多少人？是怎么分工的？](https://github.com/haizlin/fe-interview/issues/1012)
+## Today's Knowledge Points (2019.08.02) —— 108 days
+- [html] [在默认的情况下，使用h1标签呈现出什么效果？](https://github.com/haizlin/fe-interview/issues/1013)
+- [css] [position的relative和absolute定位原点是哪里？](https://github.com/haizlin/fe-interview/issues/1014)
+- [js] [请描述下js的原型和原型链的理解以及它们之间的关系](https://github.com/haizlin/fe-interview/issues/1015)
+- [skill] [要你做一个国外的web页面，你需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/1016)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 105 days (2019.07.30)
-    - [html] [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
-    - [css] [怎么实现移动端的边框0.5px？](https://github.com/haizlin/fe-interview/issues/1002)
-    - [js] [写个方法，找出指定字符串中重复最多的字符及其长度](https://github.com/haizlin/fe-interview/issues/1003)
-    - [skill] [域名解析它有哪几种方式？](https://github.com/haizlin/fe-interview/issues/1004)
-
 - 106 days (2019.07.31)
     - [html] [除了音频和视频，HTML5还支持哪些媒体标签？](https://github.com/haizlin/fe-interview/issues/1005)
     - [css] [CSS中的calc()有什么作用？](https://github.com/haizlin/fe-interview/issues/1006)
     - [js] [说说你对作用域链的理解](https://github.com/haizlin/fe-interview/issues/1007)
     - [skill] [Web安全色所能够显示的颜色种类有多少种？](https://github.com/haizlin/fe-interview/issues/1008)
+
+- 第107天 (2019.08.01)
+    - [html] [网站的TDK该怎么设置？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1009)
+    - [css] [过渡和动画的区别是什么？](https://github.com/haizlin/fe-interview/issues/1010)
+    - [js] [写一个方法判断给定的字符串是否同态(isomorphic)](https://github.com/haizlin/fe-interview/issues/1011)
+    - [skill] [你上家公司前端团队有多少人？是怎么分工的？](https://github.com/haizlin/fe-interview/issues/1012)
 
 - **[All](category/history.md)**
 
