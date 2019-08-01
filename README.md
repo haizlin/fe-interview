@@ -155,6 +155,7 @@
 - 2019.07.19 — [328道React题](https://juejin.im/post/5d310e8bf265da1bd261259d)出炉，目前Vue和React的题已经各占领全球第一了，后期会持续更新！
 - 2019.07.25 — 开通了[segmentfault专栏](https://segmentfault.com/blog/frontend-interview)的专栏，至今已有10个平台同步更新，让更多的朋友参与进来！
 - 2019.07.25 — 整整100天，从未间断，共968个知识点，3787个朋友关注，上百万次访问！创造了多个记录，多个第一，但路还长，望继续坚持！
+- 2019.08.02 — 知识点突破1000！继续努力前行！
 
 ## 在哪可以看到
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN每天同步更新）
