@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第108天 (2019.08.02)
+    - [html] [在默认的情况下，使用h1标签呈现出什么效果?](https://github.com/haizlin/fe-interview/issues/1013)
+    - [css] [position的relative和absolute定位原点是哪里？](https://github.com/haizlin/fe-interview/issues/1014)
+    - [js] [请描述下js的原型和原型链的理解以及它们之间的关系](https://github.com/haizlin/fe-interview/issues/1015)
+    - [软技能] [要你做一个国外的web页面，你需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/1016)
+
 - 第107天 (2019.08.01)
     - [html] [网站的TDK该怎么设置？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1009)
     - [css] [过渡和动画的区别是什么？](https://github.com/haizlin/fe-interview/issues/1010)
