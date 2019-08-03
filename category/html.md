@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.28
+> 最新：2019.08.04
 
+- [什么是svg？说说svg有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1021)
+- [有好多网站不常用table和iframe这两个元素，知道原因吗？](https://github.com/haizlin/fe-interview/issues/1017)
+- [在默认的情况下，使用h1标签呈现出什么效果?](https://github.com/haizlin/fe-interview/issues/1013)
+- [网站的TDK该怎么设置？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1009)
+- [除了音频和视频，HTML5还支持哪些媒体标签？](https://github.com/haizlin/fe-interview/issues/1005)
+- [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
+- [说说HTML中的`<html>`标签有什么作用？](https://github.com/haizlin/fe-interview/issues/996)
 - [请描述一下cookies、sessionStorage和localStorage 的区别？](https://github.com/haizlin/fe-interview/issues/992)
 - [行内元素、块级元素、空(void)元素分别有有那些？](https://github.com/haizlin/fe-interview/issues/988)
 - [说说你对accesskey的理解，举例说明它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/984)

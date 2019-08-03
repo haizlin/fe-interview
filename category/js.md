@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.28
+> 最新：2019.08.04
 
+- [请详细描述AJAX的工作原理](https://github.com/haizlin/fe-interview/issues/1023)
+- [请描述下什么是原型模式？它主要运用在哪些场景？](https://github.com/haizlin/fe-interview/issues/1019)
+- [请描述下js的原型和原型链的理解以及它们之间的关系](https://github.com/haizlin/fe-interview/issues/1015)
+- [写一个方法判断给定的字符串是否同态(isomorphic)](https://github.com/haizlin/fe-interview/issues/1011)
+- [说说你对作用域链的理解](https://github.com/haizlin/fe-interview/issues/1007)
+- [写个方法，找出指定字符串中重复最多的字符及其长度](https://github.com/haizlin/fe-interview/issues/1003)
+- [请说说json和jsonp的区别？](https://github.com/haizlin/fe-interview/issues/998)
 - [你是如何更好地处理Async/Await的异常呢的？](https://github.com/haizlin/fe-interview/issues/994)
 - [准确说出`'1,2,3,4'.split()`的结果是什么（包括类型和值）？](https://github.com/haizlin/fe-interview/issues/990)
 - [不依赖第三方库，说下如何使用js读取pdf？](https://github.com/haizlin/fe-interview/issues/986)

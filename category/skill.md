@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.28
+> 最新：2019.08.04
 
+- [前端页面有哪三层构成？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1024)
+- [你知道什么是图床吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1020)
+- [要你做一个国外的web页面，你需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/1016)
+- [你上家公司前端团队有多少人？是怎么分工的？](https://github.com/haizlin/fe-interview/issues/1012)
+- [Web安全色所能够显示的颜色种类有多少种？](https://github.com/haizlin/fe-interview/issues/1008)
+- [域名解析它有哪几种方式？](https://github.com/haizlin/fe-interview/issues/1004)
+- [描述下什么是域名解析？简述它的基本过程](https://github.com/haizlin/fe-interview/issues/999)
 - [请列举出多种减少页面加载时间的方法](https://github.com/haizlin/fe-interview/issues/995)
 - [进程与线程有什么区别？JS的单线程带来哪些好处？](https://github.com/haizlin/fe-interview/issues/991)
 - [你有自己买过服务器和域名用来搭建博客或者网站吗？](https://github.com/haizlin/fe-interview/issues/987)

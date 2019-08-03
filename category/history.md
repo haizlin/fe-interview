@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第109天 (2019.08.03)
+    - [html] [有好多网站不常用table和iframe这两个元素，知道原因吗？](https://github.com/haizlin/fe-interview/issues/1017)
+    - [css] [说下你对cursor属性的理解](https://github.com/haizlin/fe-interview/issues/1018)
+    - [js] [请描述下什么是原型模式？它主要运用在哪些场景？](https://github.com/haizlin/fe-interview/issues/1019)
+    - [软技能] [你知道什么是图床吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1020)
+
 - 第108天 (2019.08.02)
     - [html] [在默认的情况下，使用h1标签呈现出什么效果?](https://github.com/haizlin/fe-interview/issues/1013)
     - [css] [position的relative和absolute定位原点是哪里？](https://github.com/haizlin/fe-interview/issues/1014)

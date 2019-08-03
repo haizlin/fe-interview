@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.07.28
+> 最新：2019.08.04
 
+- [说说你对设备像素比的理解](https://github.com/haizlin/fe-interview/issues/1022)
+- [说下你对cursor属性的理解](https://github.com/haizlin/fe-interview/issues/1018)
+- [position的relative和absolute定位原点是哪里？](https://github.com/haizlin/fe-interview/issues/1014)
+- [过渡和动画的区别是什么？](https://github.com/haizlin/fe-interview/issues/1010)
+- [CSS中的calc()有什么作用？](https://github.com/haizlin/fe-interview/issues/1006)
+- [怎么实现移动端的边框0.5px？](https://github.com/haizlin/fe-interview/issues/1002)
+- [行内元素和块级元素有什么区别，如何相互转换？](https://github.com/haizlin/fe-interview/issues/997)
 - [说说你对低版本IE的盒子模型的理解](https://github.com/haizlin/fe-interview/issues/993)
 - [你是如何规划响应式布局的？](https://github.com/haizlin/fe-interview/issues/989)
 - [说说你对前端二倍图的理解？移动端使用二倍图比一倍图有什么好处？](https://github.com/haizlin/fe-interview/issues/985)

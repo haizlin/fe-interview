@@ -1,4 +1,4 @@
-# 周汇总 2019.07.28
+# 周汇总 2019.08.04
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,6 +17,13 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
+- [什么是svg？说说svg有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1021)
+- [有好多网站不常用table和iframe这两个元素，知道原因吗？](https://github.com/haizlin/fe-interview/issues/1017)
+- [在默认的情况下，使用h1标签呈现出什么效果?](https://github.com/haizlin/fe-interview/issues/1013)
+- [网站的TDK该怎么设置？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1009)
+- [除了音频和视频，HTML5还支持哪些媒体标签？](https://github.com/haizlin/fe-interview/issues/1005)
+- [如何在HTML5页面中嵌入音频和视频？](https://github.com/haizlin/fe-interview/issues/1001)
+- [说说HTML中的`<html>`标签有什么作用？](https://github.com/haizlin/fe-interview/issues/996)
 - [请描述一下cookies、sessionStorage和localStorage 的区别？](https://github.com/haizlin/fe-interview/issues/992)
 - [行内元素、块级元素、空(void)元素分别有有那些？](https://github.com/haizlin/fe-interview/issues/988)
 - [说说你对accesskey的理解，举例说明它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/984)
@@ -122,6 +129,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [说说你对设备像素比的理解](https://github.com/haizlin/fe-interview/issues/1022)
+- [说下你对cursor属性的理解](https://github.com/haizlin/fe-interview/issues/1018)
+- [position的relative和absolute定位原点是哪里？](https://github.com/haizlin/fe-interview/issues/1014)
+- [过渡和动画的区别是什么？](https://github.com/haizlin/fe-interview/issues/1010)
+- [CSS中的calc()有什么作用？](https://github.com/haizlin/fe-interview/issues/1006)
+- [怎么实现移动端的边框0.5px？](https://github.com/haizlin/fe-interview/issues/1002)
+- [行内元素和块级元素有什么区别，如何相互转换？](https://github.com/haizlin/fe-interview/issues/997)
 - [说说你对低版本IE的盒子模型的理解](https://github.com/haizlin/fe-interview/issues/993)
 - [你是如何规划响应式布局的？](https://github.com/haizlin/fe-interview/issues/989)
 - [说说你对前端二倍图的理解？移动端使用二倍图比一倍图有什么好处？](https://github.com/haizlin/fe-interview/issues/985)
@@ -227,6 +241,13 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [请详细描述AJAX的工作原理](https://github.com/haizlin/fe-interview/issues/1023)
+- [请描述下什么是原型模式？它主要运用在哪些场景？](https://github.com/haizlin/fe-interview/issues/1019)
+- [请描述下js的原型和原型链的理解以及它们之间的关系](https://github.com/haizlin/fe-interview/issues/1015)
+- [写一个方法判断给定的字符串是否同态(isomorphic)](https://github.com/haizlin/fe-interview/issues/1011)
+- [说说你对作用域链的理解](https://github.com/haizlin/fe-interview/issues/1007)
+- [写个方法，找出指定字符串中重复最多的字符及其长度](https://github.com/haizlin/fe-interview/issues/1003)
+- [请说说json和jsonp的区别？](https://github.com/haizlin/fe-interview/issues/998)
 - [你是如何更好地处理Async/Await的异常呢的？](https://github.com/haizlin/fe-interview/issues/994)
 - [准确说出`'1,2,3,4'.split()`的结果是什么（包括类型和值）？](https://github.com/haizlin/fe-interview/issues/990)
 - [不依赖第三方库，说下如何使用js读取pdf？](https://github.com/haizlin/fe-interview/issues/986)
@@ -338,6 +359,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [前端页面有哪三层构成？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1024)
+- [你知道什么是图床吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1020)
+- [要你做一个国外的web页面，你需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/1016)
+- [你上家公司前端团队有多少人？是怎么分工的？](https://github.com/haizlin/fe-interview/issues/1012)
+- [Web安全色所能够显示的颜色种类有多少种？](https://github.com/haizlin/fe-interview/issues/1008)
+- [域名解析它有哪几种方式？](https://github.com/haizlin/fe-interview/issues/1004)
+- [描述下什么是域名解析？简述它的基本过程](https://github.com/haizlin/fe-interview/issues/999)
 - [请列举出多种减少页面加载时间的方法](https://github.com/haizlin/fe-interview/issues/995)
 - [进程与线程有什么区别？JS的单线程带来哪些好处？](https://github.com/haizlin/fe-interview/issues/991)
 - [你有自己买过服务器和域名用来搭建博客或者网站吗？](https://github.com/haizlin/fe-interview/issues/987)

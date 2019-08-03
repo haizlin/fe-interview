@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.08.03) —— 109 days
-- [html] [有好多网站不常用table和iframe这两个元素，知道原因吗？](https://github.com/haizlin/fe-interview/issues/1017)
-- [css] [说下你对cursor属性的理解](https://github.com/haizlin/fe-interview/issues/1018)
-- [js] [请描述下什么是原型模式？它主要运用在哪些场景？](https://github.com/haizlin/fe-interview/issues/1019)
-- [skill] [你知道什么是图床吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1020)
+## Today's Knowledge Points (2019.08.04) —— 110 days
+- [html] [什么是svg？说说svg有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1021)
+- [css] [说说你对设备像素比的理解](https://github.com/haizlin/fe-interview/issues/1022)
+- [js] [请详细描述AJAX的工作原理](https://github.com/haizlin/fe-interview/issues/1023)
+- [软技能] [前端页面有哪三层构成？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1024)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 107 days (2019.08.01)
-    - [html] [网站的TDK该怎么设置？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1009)
-    - [css] [过渡和动画的区别是什么？](https://github.com/haizlin/fe-interview/issues/1010)
-    - [js] [写一个方法判断给定的字符串是否同态(isomorphic)](https://github.com/haizlin/fe-interview/issues/1011)
-    - [skill] [你上家公司前端团队有多少人？是怎么分工的？](https://github.com/haizlin/fe-interview/issues/1012)
-
 - 108 days (2019.08.02)
     - [html] [在默认的情况下，使用h1标签呈现出什么效果?](https://github.com/haizlin/fe-interview/issues/1013)
     - [css] [position的relative和absolute定位原点是哪里？](https://github.com/haizlin/fe-interview/issues/1014)
     - [js] [请描述下js的原型和原型链的理解以及它们之间的关系](https://github.com/haizlin/fe-interview/issues/1015)
     - [skill] [要你做一个国外的web页面，你需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/1016)
+
+- 109 days (2019.08.03)
+    - [html] [有好多网站不常用table和iframe这两个元素，知道原因吗？](https://github.com/haizlin/fe-interview/issues/1017)
+    - [css] [说下你对cursor属性的理解](https://github.com/haizlin/fe-interview/issues/1018)
+    - [js] [请描述下什么是原型模式？它主要运用在哪些场景？](https://github.com/haizlin/fe-interview/issues/1019)
+    - [skill] [你知道什么是图床吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1020)
 
 - **[All](category/history.md)**
 
