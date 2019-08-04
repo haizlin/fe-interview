@@ -44,7 +44,7 @@
     - [软技能] [请列举出多种减少页面加载时间的方法](https://github.com/haizlin/fe-interview/issues/995)
 
 - 第102天 (2019.07.27)
-    - [html] [行内元素、块级元素、空(void)元素分别有有那些？](https://github.com/haizlin/fe-interview/issues/988)
+    - [html] [行内元素、块级元素、空(void)元素分别有哪些？](https://github.com/haizlin/fe-interview/issues/988)
     - [css] [你是如何规划响应式布局的？](https://github.com/haizlin/fe-interview/issues/989)
     - [js] [准确说出`'1,2,3,4'.split()`的结果是什么（包括类型和值）？](https://github.com/haizlin/fe-interview/issues/990)
     - [软技能] [进程与线程有什么区别？JS的单线程带来哪些好处？](https://github.com/haizlin/fe-interview/issues/991)
