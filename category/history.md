@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第110天 (2019.08.04)
+    - [html] [什么是svg？说说svg有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1021)
+    - [css] [说说你对设备像素比的理解](https://github.com/haizlin/fe-interview/issues/1022)
+    - [js] [请详细描述AJAX的工作原理](https://github.com/haizlin/fe-interview/issues/1023)
+    - [软技能] [前端页面有哪三层构成？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1024)
+
 - 第109天 (2019.08.03)
     - [html] [有好多网站不常用table和iframe这两个元素，知道原因吗？](https://github.com/haizlin/fe-interview/issues/1017)
     - [css] [说下你对cursor属性的理解](https://github.com/haizlin/fe-interview/issues/1018)
