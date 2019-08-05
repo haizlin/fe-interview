@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.08.05) —— 111 days
-- [html] [HTML如何创建分区响应图？](https://github.com/haizlin/fe-interview/issues/1025)
-- [css] [你有用过table布局吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/1026)
-- [js] [请用js编写一个红绿灯程序](https://github.com/haizlin/fe-interview/issues/1027)
-- [skill] [淘宝、京东、百度他们的网站首页秒开是如何做到的呢？](https://github.com/haizlin/fe-interview/issues/1028)
+## Today's Knowledge Points (2019.08.06) —— 112 days
+- [html] [你知道checkbox有几种状态吗？它们分别用来表示什么？](https://github.com/haizlin/fe-interview/issues/1029)
+- [css] [举例说明时间、频率、角度、弧度、百分度的单位分别是哪些？](https://github.com/haizlin/fe-interview/issues/1030)
+- [js] [函数声明与函数表达式有什么区别？](https://github.com/haizlin/fe-interview/issues/1031)
+- [skill] [在实际工作中，要是你的想法被反对时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1032)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 109 days (2019.08.03)
-    - [html] [有好多网站不常用table和iframe这两个元素，知道原因吗？](https://github.com/haizlin/fe-interview/issues/1017)
-    - [css] [说下你对cursor属性的理解](https://github.com/haizlin/fe-interview/issues/1018)
-    - [js] [请描述下什么是原型模式？它主要运用在哪些场景？](https://github.com/haizlin/fe-interview/issues/1019)
-    - [skill] [你知道什么是图床吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1020)
-
 - 110 days (2019.08.04)
     - [html] [什么是svg？说说svg有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1021)
     - [css] [说说你对设备像素比的理解](https://github.com/haizlin/fe-interview/issues/1022)
     - [js] [请详细描述AJAX的工作原理](https://github.com/haizlin/fe-interview/issues/1023)
     - [skill] [前端页面有哪三层构成？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1024)
+
+- 111 days (2019.08.05)
+    - [html] [HTML如何创建分区响应图？](https://github.com/haizlin/fe-interview/issues/1025)
+    - [css] [你有用过table布局吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/1026)
+    - [js] [请用js编写一个红绿灯程序](https://github.com/haizlin/fe-interview/issues/1027)
+    - [skill] [淘宝、京东、百度他们的网站首页秒开是如何做到的呢？](https://github.com/haizlin/fe-interview/issues/1028)
 
 - **[All](category/history.md)**
 
