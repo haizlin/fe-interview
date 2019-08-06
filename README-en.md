@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.08.06) —— 112 days
-- [html] [你知道checkbox有几种状态吗？它们分别用来表示什么？](https://github.com/haizlin/fe-interview/issues/1029)
-- [css] [举例说明时间、频率、角度、弧度、百分度的单位分别是哪些？](https://github.com/haizlin/fe-interview/issues/1030)
-- [js] [函数声明与函数表达式有什么区别？](https://github.com/haizlin/fe-interview/issues/1031)
-- [skill] [在实际工作中，要是你的想法被反对时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1032)
+## Today's Knowledge Points (2019.08.07) —— 113 days
+- [html] [在HTML5中如何组合标题？用哪个元素？](https://github.com/haizlin/fe-interview/issues/1033)
+- [css] [标签、class和id选择器三者的区别是什么？分别在什么时候用？](https://github.com/haizlin/fe-interview/issues/1034)
+- [js] [用js写一个事件侦听器的方法](https://github.com/haizlin/fe-interview/issues/1035)
+- [skill] [shim和polyfill有什么区别？它们分别有什么用？](https://github.com/haizlin/fe-interview/issues/1036)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 110 days (2019.08.04)
-    - [html] [什么是svg？说说svg有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1021)
-    - [css] [说说你对设备像素比的理解](https://github.com/haizlin/fe-interview/issues/1022)
-    - [js] [请详细描述AJAX的工作原理](https://github.com/haizlin/fe-interview/issues/1023)
-    - [skill] [前端页面有哪三层构成？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1024)
-
 - 111 days (2019.08.05)
     - [html] [HTML如何创建分区响应图？](https://github.com/haizlin/fe-interview/issues/1025)
     - [css] [你有用过table布局吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/1026)
     - [js] [请用js编写一个红绿灯程序](https://github.com/haizlin/fe-interview/issues/1027)
     - [skill] [淘宝、京东、百度他们的网站首页秒开是如何做到的呢？](https://github.com/haizlin/fe-interview/issues/1028)
+
+- 112 days (2019.08.06)
+    - [html] [你知道checkbox有几种状态吗？它们分别用来表示什么？](https://github.com/haizlin/fe-interview/issues/1029)
+    - [css] [举例说明时间、频率、角度、弧度、百分度的单位分别是哪些？](https://github.com/haizlin/fe-interview/issues/1030)
+    - [js] [函数声明与函数表达式有什么区别？](https://github.com/haizlin/fe-interview/issues/1031)
+    - [skill] [在实际工作中，要是你的想法被反对时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1032)
 
 - **[All](category/history.md)**
 

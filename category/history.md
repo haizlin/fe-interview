@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第112天 (2019.08.06)
+    - [html] [你知道checkbox有几种状态吗？它们分别用来表示什么？](https://github.com/haizlin/fe-interview/issues/1029)
+    - [css] [举例说明时间、频率、角度、弧度、百分度的单位分别是哪些？](https://github.com/haizlin/fe-interview/issues/1030)
+    - [js] [函数声明与函数表达式有什么区别？](https://github.com/haizlin/fe-interview/issues/1031)
+    - [软技能] [在实际工作中，要是你的想法被反对时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1032)
+
 - 第111天 (2019.08.05)
     - [html] [HTML如何创建分区响应图？](https://github.com/haizlin/fe-interview/issues/1025)
     - [css] [你有用过table布局吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/1026)

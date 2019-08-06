@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.08.06) —— 第112天
-- [html] [你知道checkbox有几种状态吗？它们分别用来表示什么？](https://github.com/haizlin/fe-interview/issues/1029)
-- [css] [举例说明时间、频率、角度、弧度、百分度的单位分别是哪些？](https://github.com/haizlin/fe-interview/issues/1030)
-- [js] [函数声明与函数表达式有什么区别？](https://github.com/haizlin/fe-interview/issues/1031)
-- [软技能] [在实际工作中，要是你的想法被反对时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1032)
+## 今天的知识点 (2019.08.07) —— 第113天
+- [html] [在HTML5中如何组合标题？用哪个元素？](https://github.com/haizlin/fe-interview/issues/1033)
+- [css] [标签、class和id选择器三者的区别是什么？分别在什么时候用？](https://github.com/haizlin/fe-interview/issues/1034)
+- [js] [用js写一个事件侦听器的方法](https://github.com/haizlin/fe-interview/issues/1035)
+- [软技能] [shim和polyfill有什么区别？它们分别有什么用？](https://github.com/haizlin/fe-interview/issues/1036)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第110天 (2019.08.04)
-    - [html] [什么是svg？说说svg有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1021)
-    - [css] [说说你对设备像素比的理解](https://github.com/haizlin/fe-interview/issues/1022)
-    - [js] [请详细描述AJAX的工作原理](https://github.com/haizlin/fe-interview/issues/1023)
-    - [软技能] [前端页面有哪三层构成？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1024)
-
 - 第111天 (2019.08.05)
     - [html] [HTML如何创建分区响应图？](https://github.com/haizlin/fe-interview/issues/1025)
     - [css] [你有用过table布局吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/1026)
     - [js] [请用js编写一个红绿灯程序](https://github.com/haizlin/fe-interview/issues/1027)
     - [软技能] [淘宝、京东、百度他们的网站首页秒开是如何做到的呢？](https://github.com/haizlin/fe-interview/issues/1028)
+
+- 第112天 (2019.08.06)
+    - [html] [你知道checkbox有几种状态吗？它们分别用来表示什么？](https://github.com/haizlin/fe-interview/issues/1029)
+    - [css] [举例说明时间、频率、角度、弧度、百分度的单位分别是哪些？](https://github.com/haizlin/fe-interview/issues/1030)
+    - [js] [函数声明与函数表达式有什么区别？](https://github.com/haizlin/fe-interview/issues/1031)
+    - [软技能] [在实际工作中，要是你的想法被反对时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1032)
 
 - **[查看全部](category/history.md)**
 
