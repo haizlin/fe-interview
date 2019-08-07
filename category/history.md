@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第113天 (2019.08.07)
+    - [html] [在HTML5中如何组合标题？用哪个元素？](https://github.com/haizlin/fe-interview/issues/1033)
+    - [css] [标签、class和id选择器三者的区别是什么？分别在什么时候用？](https://github.com/haizlin/fe-interview/issues/1034)
+    - [js] [用js写一个事件侦听器的方法](https://github.com/haizlin/fe-interview/issues/1035)
+    - [软技能] [shim和polyfill有什么区别？它们分别有什么用？](https://github.com/haizlin/fe-interview/issues/1036)
+
 - 第112天 (2019.08.06)
     - [html] [你知道checkbox有几种状态吗？它们分别用来表示什么？](https://github.com/haizlin/fe-interview/issues/1029)
     - [css] [举例说明时间、频率、角度、弧度、百分度的单位分别是哪些？](https://github.com/haizlin/fe-interview/issues/1030)
