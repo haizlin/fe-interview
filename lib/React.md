@@ -2,7 +2,7 @@
 > 鼓励PR，持续更新（React v16.6.0）
 
 ## 历史题目(最新：2019.07.18)
-[React](#React) | [ReactNative](#ReactNative) | [React-Router](#React-Router) | [Redux/Mobox](#Redux/Mobox) | [Flux](#Flux)
+[React](#React) | [ReactNative](#ReactNative) | [React-Router](#React-Router) | [Redux/Mobx](#Redux/Mobx) | [Flux](#Flux)
 
 ### React
 - [什么时候使用状态管理器？](https://github.com/haizlin/fe-interview/issues/953)
@@ -302,7 +302,7 @@
 - [请你说说React的路由的优缺点？](https://github.com/haizlin/fe-interview/issues/727)
 - [请你说说React的路由是什么？](https://github.com/haizlin/fe-interview/issues/726)
 
-### Redux/Mobox
+### Redux/Mobx
 - [你有了解Rxjs是什么吗？它是做什么的？](https://github.com/haizlin/fe-interview/issues/920)
 - [在Redux中怎么发起网络请求？](https://github.com/haizlin/fe-interview/issues/919)
 - [Redux怎样重置状态？](https://github.com/haizlin/fe-interview/issues/918)
