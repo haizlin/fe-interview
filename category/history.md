@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第114天 (2019.08.08)
+    - [html] [举例说明HTML5的Canvas元素有什么用途？](https://github.com/haizlin/fe-interview/issues/1037)
+    - [css] [为什么要使用css sprites？](https://github.com/haizlin/fe-interview/issues/1038) 
+    - [js] [写一个把数字转成中文的方法，例如：101转成一百零一](https://github.com/haizlin/fe-interview/issues/1039)
+    - [软技能] [你知道什么是B/S和C/S架构吗？说说它们的区别](https://github.com/haizlin/fe-interview/issues/1040)
+
 - 第113天 (2019.08.07)
     - [html] [在HTML5中如何组合标题？用哪个元素？](https://github.com/haizlin/fe-interview/issues/1033)
     - [css] [标签、class和id选择器三者的区别是什么？分别在什么时候用？](https://github.com/haizlin/fe-interview/issues/1034)
