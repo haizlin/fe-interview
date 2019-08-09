@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第115天 (2019.08.09)
+    - [html] [怎样去除html标签之间换行产生的空格？](https://github.com/haizlin/fe-interview/issues/1041)
+    - [css] [Reset CSS和Normalize CSS的区别是什么？](https://github.com/haizlin/fe-interview/issues/1042) 
+    - [js] [分别写出防抖和节流的两个函数，并描述它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1043)
+    - [软技能] [说下你是如何从PS切出图的，有什么技巧？](https://github.com/haizlin/fe-interview/issues/1044)
+
 - 第114天 (2019.08.08)
     - [html] [举例说明HTML5的Canvas元素有什么用途？](https://github.com/haizlin/fe-interview/issues/1037)
     - [css] [为什么要使用css sprites？](https://github.com/haizlin/fe-interview/issues/1038) 
