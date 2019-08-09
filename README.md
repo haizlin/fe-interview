@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.08.09) —— 第115天
-- [html] [怎样去除html标签之间换行产生的空格？](https://github.com/haizlin/fe-interview/issues/1041)
-- [css] [Reset CSS和Normalize CSS的区别是什么？](https://github.com/haizlin/fe-interview/issues/1042) 
-- [js] [分别写出防抖和节流的两个函数，并描述它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1043)
-- [软技能] [说下你是如何从PS切出图的，有什么技巧？](https://github.com/haizlin/fe-interview/issues/1044)
+## 今天的知识点 (2019.08.10) —— 第116天
+- [html] [页面布局中的结构与表现分离，那么什么是结构？什么是表现呢？](https://github.com/haizlin/fe-interview/issues/1045)
+- [css] [怎么自定义鼠标指针的图案？](https://github.com/haizlin/fe-interview/issues/1046) 
+- [js] [如何使用js来截图？怎样截可见区域和整个页面？](https://github.com/haizlin/fe-interview/issues/1047)
+- [软技能] [对于前后端分离，你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1048)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第113天 (2019.08.07)
-    - [html] [在HTML5中如何组合标题？用哪个元素？](https://github.com/haizlin/fe-interview/issues/1033)
-    - [css] [标签、class和id选择器三者的区别是什么？分别在什么时候用？](https://github.com/haizlin/fe-interview/issues/1034)
-    - [js] [用js写一个事件侦听器的方法](https://github.com/haizlin/fe-interview/issues/1035)
-    - [软技能] [shim和polyfill有什么区别？它们分别有什么用？](https://github.com/haizlin/fe-interview/issues/1036)
-
 - 第114天 (2019.08.08)
     - [html] [举例说明HTML5的Canvas元素有什么用途？](https://github.com/haizlin/fe-interview/issues/1037)
     - [css] [为什么要使用css sprites？](https://github.com/haizlin/fe-interview/issues/1038) 
     - [js] [写一个把数字转成中文的方法，例如：101转成一百零一](https://github.com/haizlin/fe-interview/issues/1039)
     - [软技能] [你知道什么是B/S和C/S架构吗？说说它们的区别](https://github.com/haizlin/fe-interview/issues/1040)
+
+- 第115天 (2019.08.09)
+    - [html] [怎样去除html标签之间换行产生的空格？](https://github.com/haizlin/fe-interview/issues/1041)
+    - [css] [Reset CSS和Normalize CSS的区别是什么？](https://github.com/haizlin/fe-interview/issues/1042) 
+    - [js] [分别写出防抖和节流的两个函数，并描述它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1043)
+    - [软技能] [说下你是如何从PS切出图的，有什么技巧？](https://github.com/haizlin/fe-interview/issues/1044)
 
 - **[查看全部](category/history.md)**
 
