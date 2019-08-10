@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.04
+> 最新：2019.08.011
 
+- [frame和iframe有什么区别？](https://github.com/haizlin/fe-interview/issues/1049)
+- [页面布局中的结构与表现分离，那么什么是结构？什么是表现呢？](https://github.com/haizlin/fe-interview/issues/1045)
+- [怎样去除html标签之间换行产生的空格？](https://github.com/haizlin/fe-interview/issues/1041)
+- [举例说明HTML5的Canvas元素有什么用途？](https://github.com/haizlin/fe-interview/issues/1037)
+- [在HTML5中如何组合标题？用哪个元素？](https://github.com/haizlin/fe-interview/issues/1033)
+- [你知道checkbox有几种状态吗？它们分别用来表示什么？](https://github.com/haizlin/fe-interview/issues/1029)
+- [HTML如何创建分区响应图？](https://github.com/haizlin/fe-interview/issues/1025)
 - [什么是svg？说说svg有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1021)
 - [有好多网站不常用table和iframe这两个元素，知道原因吗？](https://github.com/haizlin/fe-interview/issues/1017)
 - [在默认的情况下，使用h1标签呈现出什么效果?](https://github.com/haizlin/fe-interview/issues/1013)

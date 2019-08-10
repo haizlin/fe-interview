@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.04
+> 最新：2019.08.011
 
+- [你知道CSS中的字母"C"代表什么吗？](https://github.com/haizlin/fe-interview/issues/1050) 
+- [怎么自定义鼠标指针的图案？](https://github.com/haizlin/fe-interview/issues/1046) 
+- [Reset CSS和Normalize CSS的区别是什么？](https://github.com/haizlin/fe-interview/issues/1042) 
+- [为什么要使用css sprites？](https://github.com/haizlin/fe-interview/issues/1038) 
+- [标签、class和id选择器三者的区别是什么？分别在什么时候用？](https://github.com/haizlin/fe-interview/issues/1034)
+- [举例说明时间、频率、角度、弧度、百分度的单位分别是哪些？](https://github.com/haizlin/fe-interview/issues/1030)
+- [你有用过table布局吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/1026)
 - [说说你对设备像素比的理解](https://github.com/haizlin/fe-interview/issues/1022)
 - [说下你对cursor属性的理解](https://github.com/haizlin/fe-interview/issues/1018)
 - [position的relative和absolute定位原点是哪里？](https://github.com/haizlin/fe-interview/issues/1014)

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.04
+> 最新：2019.08.011
 
+- [你今年多大了？请说说看你认为你的程序员生涯能做到多少岁？](https://github.com/haizlin/fe-interview/issues/1052)
+- [对于前后端分离，你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1048)
+- [说下你是如何从PS切出图的，有什么技巧？](https://github.com/haizlin/fe-interview/issues/1044)
+- [你知道什么是B/S和C/S架构吗？说说它们的区别](https://github.com/haizlin/fe-interview/issues/1040)
+- [shim和polyfill有什么区别？它们分别有什么用？](https://github.com/haizlin/fe-interview/issues/1036)
+- [在实际工作中，要是你的想法被反对时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1032)
+- [淘宝、京东、百度他们的网站首页秒开是如何做到的呢？](https://github.com/haizlin/fe-interview/issues/1028)
 - [前端页面有哪三层构成？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1024)
 - [你知道什么是图床吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1020)
 - [要你做一个国外的web页面，你需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/1016)

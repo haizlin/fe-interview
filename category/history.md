@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第116天 (2019.08.10)
+    - [html] [页面布局中的结构与表现分离，那么什么是结构？什么是表现呢？](https://github.com/haizlin/fe-interview/issues/1045)
+    - [css] [怎么自定义鼠标指针的图案？](https://github.com/haizlin/fe-interview/issues/1046) 
+    - [js] [如何使用js来截图？怎样截可见区域和整个页面？](https://github.com/haizlin/fe-interview/issues/1047)
+    - [软技能] [对于前后端分离，你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1048)
+
 - 第115天 (2019.08.09)
     - [html] [怎样去除html标签之间换行产生的空格？](https://github.com/haizlin/fe-interview/issues/1041)
     - [css] [Reset CSS和Normalize CSS的区别是什么？](https://github.com/haizlin/fe-interview/issues/1042) 

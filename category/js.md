@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.04
+> 最新：2019.08.011
 
+- [document.write和innerHTML有什么区别？](https://github.com/haizlin/fe-interview/issues/1051)
+- [如何使用js来截图？怎样截可见区域和整个页面？](https://github.com/haizlin/fe-interview/issues/1047)
+- [分别写出防抖和节流的两个函数，并描述它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1043)
+- [写一个把数字转成中文的方法，例如：101转成一百零一](https://github.com/haizlin/fe-interview/issues/1039)
+- [用js写一个事件侦听器的方法](https://github.com/haizlin/fe-interview/issues/1035)
+- [函数声明与函数表达式有什么区别？](https://github.com/haizlin/fe-interview/issues/1031)
+- [请用js编写一个红绿灯程序](https://github.com/haizlin/fe-interview/issues/1027)
 - [请详细描述AJAX的工作原理](https://github.com/haizlin/fe-interview/issues/1023)
 - [请描述下什么是原型模式？它主要运用在哪些场景？](https://github.com/haizlin/fe-interview/issues/1019)
 - [请描述下js的原型和原型链的理解以及它们之间的关系](https://github.com/haizlin/fe-interview/issues/1015)

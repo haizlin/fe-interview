@@ -1,4 +1,4 @@
-# 周汇总 2019.08.04
+# 周汇总 2019.08.11
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,6 +17,13 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
+- [frame和iframe有什么区别？](https://github.com/haizlin/fe-interview/issues/1049)
+- [页面布局中的结构与表现分离，那么什么是结构？什么是表现呢？](https://github.com/haizlin/fe-interview/issues/1045)
+- [怎样去除html标签之间换行产生的空格？](https://github.com/haizlin/fe-interview/issues/1041)
+- [举例说明HTML5的Canvas元素有什么用途？](https://github.com/haizlin/fe-interview/issues/1037)
+- [在HTML5中如何组合标题？用哪个元素？](https://github.com/haizlin/fe-interview/issues/1033)
+- [你知道checkbox有几种状态吗？它们分别用来表示什么？](https://github.com/haizlin/fe-interview/issues/1029)
+- [HTML如何创建分区响应图？](https://github.com/haizlin/fe-interview/issues/1025)
 - [什么是svg？说说svg有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1021)
 - [有好多网站不常用table和iframe这两个元素，知道原因吗？](https://github.com/haizlin/fe-interview/issues/1017)
 - [在默认的情况下，使用h1标签呈现出什么效果?](https://github.com/haizlin/fe-interview/issues/1013)
@@ -129,6 +136,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [你知道CSS中的字母"C"代表什么吗？](https://github.com/haizlin/fe-interview/issues/1050) 
+- [怎么自定义鼠标指针的图案？](https://github.com/haizlin/fe-interview/issues/1046) 
+- [Reset CSS和Normalize CSS的区别是什么？](https://github.com/haizlin/fe-interview/issues/1042) 
+- [为什么要使用css sprites？](https://github.com/haizlin/fe-interview/issues/1038) 
+- [标签、class和id选择器三者的区别是什么？分别在什么时候用？](https://github.com/haizlin/fe-interview/issues/1034)
+- [举例说明时间、频率、角度、弧度、百分度的单位分别是哪些？](https://github.com/haizlin/fe-interview/issues/1030)
+- [你有用过table布局吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/1026)
 - [说说你对设备像素比的理解](https://github.com/haizlin/fe-interview/issues/1022)
 - [说下你对cursor属性的理解](https://github.com/haizlin/fe-interview/issues/1018)
 - [position的relative和absolute定位原点是哪里？](https://github.com/haizlin/fe-interview/issues/1014)
@@ -241,6 +255,13 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [document.write和innerHTML有什么区别？](https://github.com/haizlin/fe-interview/issues/1051)
+- [如何使用js来截图？怎样截可见区域和整个页面？](https://github.com/haizlin/fe-interview/issues/1047)
+- [分别写出防抖和节流的两个函数，并描述它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1043)
+- [写一个把数字转成中文的方法，例如：101转成一百零一](https://github.com/haizlin/fe-interview/issues/1039)
+- [用js写一个事件侦听器的方法](https://github.com/haizlin/fe-interview/issues/1035)
+- [函数声明与函数表达式有什么区别？](https://github.com/haizlin/fe-interview/issues/1031)
+- [请用js编写一个红绿灯程序](https://github.com/haizlin/fe-interview/issues/1027)
 - [请详细描述AJAX的工作原理](https://github.com/haizlin/fe-interview/issues/1023)
 - [请描述下什么是原型模式？它主要运用在哪些场景？](https://github.com/haizlin/fe-interview/issues/1019)
 - [请描述下js的原型和原型链的理解以及它们之间的关系](https://github.com/haizlin/fe-interview/issues/1015)
@@ -359,6 +380,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [你今年多大了？请说说看你认为你的程序员生涯能做到多少岁？](https://github.com/haizlin/fe-interview/issues/1052)
+- [对于前后端分离，你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1048)
+- [说下你是如何从PS切出图的，有什么技巧？](https://github.com/haizlin/fe-interview/issues/1044)
+- [你知道什么是B/S和C/S架构吗？说说它们的区别](https://github.com/haizlin/fe-interview/issues/1040)
+- [shim和polyfill有什么区别？它们分别有什么用？](https://github.com/haizlin/fe-interview/issues/1036)
+- [在实际工作中，要是你的想法被反对时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1032)
+- [淘宝、京东、百度他们的网站首页秒开是如何做到的呢？](https://github.com/haizlin/fe-interview/issues/1028)
 - [前端页面有哪三层构成？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1024)
 - [你知道什么是图床吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1020)
 - [要你做一个国外的web页面，你需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/1016)
