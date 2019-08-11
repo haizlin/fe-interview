@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.08.11) —— 第117天
-- [html] [frame和iframe有什么区别？](https://github.com/haizlin/fe-interview/issues/1049)
-- [css] [你知道CSS中的字母"C"代表什么吗？](https://github.com/haizlin/fe-interview/issues/1050) 
-- [js] [document.write和innerHTML有什么区别？](https://github.com/haizlin/fe-interview/issues/1051)
-- [软技能] [你今年多大了？请说说看你认为你的程序员生涯能做到多少岁？](https://github.com/haizlin/fe-interview/issues/1052)
+## 今天的知识点 (2019.08.12) —— 第118天
+- [html] [有使用过HTML5的跟踪元素吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1053)
+- [css] [说说你对GPU的理解，举例说明哪些元素能触发GPU硬件加速？](https://github.com/haizlin/fe-interview/issues/1054) 
+- [js] [使用正则去掉html中标签与标签之间的空格](https://github.com/haizlin/fe-interview/issues/1055)
+- [软技能] [你有做过骨架屏吗？它的原理是什么知道吗？](https://github.com/haizlin/fe-interview/issues/1056)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第115天 (2019.08.09)
-    - [html] [怎样去除html标签之间换行产生的空格？](https://github.com/haizlin/fe-interview/issues/1041)
-    - [css] [Reset CSS和Normalize CSS的区别是什么？](https://github.com/haizlin/fe-interview/issues/1042) 
-    - [js] [分别写出防抖和节流的两个函数，并描述它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1043)
-    - [软技能] [说下你是如何从PS切出图的，有什么技巧？](https://github.com/haizlin/fe-interview/issues/1044)
-
 - 第116天 (2019.08.10)
     - [html] [页面布局中的结构与表现分离，那么什么是结构？什么是表现呢？](https://github.com/haizlin/fe-interview/issues/1045)
     - [css] [怎么自定义鼠标指针的图案？](https://github.com/haizlin/fe-interview/issues/1046) 
     - [js] [如何使用js来截图？怎样截可见区域和整个页面？](https://github.com/haizlin/fe-interview/issues/1047)
     - [软技能] [对于前后端分离，你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1048)
+
+- 第117天 (2019.08.11)
+    - [html] [frame和iframe有什么区别？](https://github.com/haizlin/fe-interview/issues/1049)
+    - [css] [你知道CSS中的字母"C"代表什么吗？](https://github.com/haizlin/fe-interview/issues/1050) 
+    - [js] [document.write和innerHTML有什么区别？](https://github.com/haizlin/fe-interview/issues/1051)
+    - [软技能] [你今年多大了？请说说看你认为你的程序员生涯能做到多少岁？](https://github.com/haizlin/fe-interview/issues/1052)
 
 - **[查看全部](category/history.md)**
 

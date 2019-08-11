@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第117天 (2019.08.11)
+    - [html] [frame和iframe有什么区别？](https://github.com/haizlin/fe-interview/issues/1049)
+    - [css] [你知道CSS中的字母"C"代表什么吗？](https://github.com/haizlin/fe-interview/issues/1050) 
+    - [js] [document.write和innerHTML有什么区别？](https://github.com/haizlin/fe-interview/issues/1051)
+    - [软技能] [你今年多大了？请说说看你认为你的程序员生涯能做到多少岁？](https://github.com/haizlin/fe-interview/issues/1052)
+
 - 第116天 (2019.08.10)
     - [html] [页面布局中的结构与表现分离，那么什么是结构？什么是表现呢？](https://github.com/haizlin/fe-interview/issues/1045)
     - [css] [怎么自定义鼠标指针的图案？](https://github.com/haizlin/fe-interview/issues/1046) 
