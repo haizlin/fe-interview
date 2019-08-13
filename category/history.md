@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第119天 (2019.08.13)
+    - [html] [说说你对富文本的理解，你有用过哪些富文本编辑器呢？](https://github.com/haizlin/fe-interview/issues/1057)
+    - [css] [你有没有自己写过一套UI库？说下遇到哪些难点？](https://github.com/haizlin/fe-interview/issues/1058) 
+    - [js] [写一个方法把多维数组降维](https://github.com/haizlin/fe-interview/issues/1059)
+    - [软技能] [你对jsfuck有了解吗？它的原理是什么？请举例说明](https://github.com/haizlin/fe-interview/issues/1060)
+
 - 第118天 (2019.08.12)
     - [html] [有使用过HTML5的跟踪元素吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1053)
     - [css] [说说你对GPU的理解，举例说明哪些元素能触发GPU硬件加速？](https://github.com/haizlin/fe-interview/issues/1054) 
