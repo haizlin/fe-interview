@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.08.14) —— 第120天
-- [html] [你知道富文本编辑器的实现原理吗？](https://github.com/haizlin/fe-interview/issues/1061)
-- [css] [设置字体时为什么建议设置替换字体？](https://github.com/haizlin/fe-interview/issues/1062) 
-- [js] [如何终止WebWork？](https://github.com/haizlin/fe-interview/issues/1063)
-- [软技能] [你有签过保密协议吗？说说你对保密协议的理解](https://github.com/haizlin/fe-interview/issues/1064)
+## 今天的知识点 (2019.08.15) —— 第121天
+- [html] [请描述下application cache的更新过程？](https://github.com/haizlin/fe-interview/issues/1065)
+- [css] [请举例说明伪元素 (pseudo-elements) 有哪些用途？](https://github.com/haizlin/fe-interview/issues/1066) 
+- [js] [请说说escape、encodeURI、urlencodeComponent和urlencode的区别？](https://github.com/haizlin/fe-interview/issues/1067)
+- [软技能] [用哪种格式可以存储包含Alpha通道的图像？Alpha通道是指什么？](https://github.com/haizlin/fe-interview/issues/1068)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第118天 (2019.08.12)
-    - [html] [有使用过HTML5的跟踪元素吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1053)
-    - [css] [说说你对GPU的理解，举例说明哪些元素能触发GPU硬件加速？](https://github.com/haizlin/fe-interview/issues/1054) 
-    - [js] [使用正则去掉html中标签与标签之间的空格](https://github.com/haizlin/fe-interview/issues/1055)
-    - [软技能] [你有做过骨架屏吗？它的原理是什么知道吗？](https://github.com/haizlin/fe-interview/issues/1056)
-
 - 第119天 (2019.08.13)
     - [html] [说说你对富文本的理解，你有用过哪些富文本编辑器呢？](https://github.com/haizlin/fe-interview/issues/1057)
     - [css] [你有没有自己写过一套UI库？说下遇到哪些难点？](https://github.com/haizlin/fe-interview/issues/1058) 
     - [js] [写一个方法把多维数组降维](https://github.com/haizlin/fe-interview/issues/1059)
     - [软技能] [你对jsfuck有了解吗？它的原理是什么？请举例说明](https://github.com/haizlin/fe-interview/issues/1060)
+
+- 第120天 (2019.08.14)
+    - [html] [你知道富文本编辑器的实现原理吗？](https://github.com/haizlin/fe-interview/issues/1061)
+    - [css] [设置字体时为什么建议设置替换字体？](https://github.com/haizlin/fe-interview/issues/1062) 
+    - [js] [如何终止WebWork？](https://github.com/haizlin/fe-interview/issues/1063)
+    - [软技能] [你有签过保密协议吗？说说你对保密协议的理解](https://github.com/haizlin/fe-interview/issues/1064)
 
 - **[查看全部](category/history.md)**
 
