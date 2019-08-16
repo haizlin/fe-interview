@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第122天 (2019.08.16)  
+    - [html] [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
+    - [css] [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 
+    - [js] [能否正确获取本地上传的文件路径？如果可以怎么做？如果不可以解释下为什么？](https://github.com/haizlin/fe-interview/issues/1071)
+    - [软技能] [如果一个项目要你重构成前后端分离，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/1072)
+
 - 第121天 (2019.08.15)  
     - [html] [请描述下application cache的更新过程？](https://github.com/haizlin/fe-interview/issues/1065)
     - [css] [请举例说明伪元素 (pseudo-elements) 有哪些用途？](https://github.com/haizlin/fe-interview/issues/1066) 

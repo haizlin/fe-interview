@@ -36,10 +36,10 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 ## Today's Knowledge Points (2019.08.16) —— 122 days
-- [html] [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
-- [css] [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 
-- [js] [能否正确获取本地上传的文件路径？如果可以怎么做？如果不可以解释下为什么？](https://github.com/haizlin/fe-interview/issues/1071)
-- [skill] [如果一个项目要你重构成前后端分离，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/1072)
+- [html] [使用canvas画出一个矩形](https://github.com/haizlin/fe-interview/issues/1073)
+- [css] [什么是zoom？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1074) 
+- [js] [分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果](https://github.com/haizlin/fe-interview/issues/1075)
+- [skill] [你了解雅虎前端优化的35条军规吗？你能说上几条？](https://github.com/haizlin/fe-interview/issues/1076)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 120 days (2019.08.14)
-    - [html] [你知道富文本编辑器的实现原理吗？](https://github.com/haizlin/fe-interview/issues/1061)
-    - [css] [设置字体时为什么建议设置替换字体？](https://github.com/haizlin/fe-interview/issues/1062) 
-    - [js] [如何终止WebWork？](https://github.com/haizlin/fe-interview/issues/1063)
-    - [skill] [你有签过保密协议吗？说说你对保密协议的理解](https://github.com/haizlin/fe-interview/issues/1064)
-
 - 121 days (2019.08.15)  
     - [html] [请描述下application cache的更新过程？](https://github.com/haizlin/fe-interview/issues/1065)
     - [css] [请举例说明伪元素 (pseudo-elements) 有哪些用途？](https://github.com/haizlin/fe-interview/issues/1066) 
     - [js] [请说说escape、encodeURI、decodeURI、encodeURIComponent和decodeURIComponent的区别？](https://github.com/haizlin/fe-interview/issues/1067)
     - [skill] [用哪种格式可以存储包含Alpha通道的图像？Alpha通道是指什么？](https://github.com/haizlin/fe-interview/issues/1068)
+
+- 122 days (2019.08.16)  
+    - [html] [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
+    - [css] [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 
+    - [js] [能否正确获取本地上传的文件路径？如果可以怎么做？如果不可以解释下为什么？](https://github.com/haizlin/fe-interview/issues/1071)
+    - [软技能] [如果一个项目要你重构成前后端分离，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/1072)
 
 - **[All](category/history.md)**
 
