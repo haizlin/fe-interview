@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第123天 (2019.08.17)  
+    - [html] [使用canvas画出一个矩形](https://github.com/haizlin/fe-interview/issues/1073)
+    - [css] [什么是zoom？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1074) 
+    - [js] [分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果](https://github.com/haizlin/fe-interview/issues/1075)
+    - [软技能] [你了解雅虎前端优化的35条军规吗？你能说上几条？](https://github.com/haizlin/fe-interview/issues/1076)
+
 - 第122天 (2019.08.16)  
     - [html] [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
     - [css] [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 

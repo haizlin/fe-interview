@@ -1,4 +1,4 @@
-# 周汇总 2019.08.11
+# 周汇总 2019.08.18
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,6 +17,13 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
+- [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1077)
+- [使用canvas画出一个矩形](https://github.com/haizlin/fe-interview/issues/1073)
+- [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
+- [请描述下application cache的更新过程？](https://github.com/haizlin/fe-interview/issues/1065)
+- [你知道富文本编辑器的实现原理吗？](https://github.com/haizlin/fe-interview/issues/1061)
+- [说说你对富文本的理解，你有用过哪些富文本编辑器呢？](https://github.com/haizlin/fe-interview/issues/1057)
+- [有使用过HTML5的跟踪元素吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1053)
 - [frame和iframe有什么区别？](https://github.com/haizlin/fe-interview/issues/1049)
 - [页面布局中的结构与表现分离，那么什么是结构？什么是表现呢？](https://github.com/haizlin/fe-interview/issues/1045)
 - [怎样去除html标签之间换行产生的空格？](https://github.com/haizlin/fe-interview/issues/1041)
@@ -136,6 +143,13 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
+- [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1078) 
+- [什么是zoom？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1074) 
+- [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 
+- [请举例说明伪元素 (pseudo-elements) 有哪些用途？](https://github.com/haizlin/fe-interview/issues/1066) 
+- [设置字体时为什么建议设置替换字体？](https://github.com/haizlin/fe-interview/issues/1062) 
+- [你有没有自己写过一套UI库？说下遇到哪些难点？](https://github.com/haizlin/fe-interview/issues/1058) 
+- [说说你对GPU的理解，举例说明哪些元素能触发GPU硬件加速？](https://github.com/haizlin/fe-interview/issues/1054) 
 - [你知道CSS中的字母"C"代表什么吗？](https://github.com/haizlin/fe-interview/issues/1050) 
 - [怎么自定义鼠标指针的图案？](https://github.com/haizlin/fe-interview/issues/1046) 
 - [Reset CSS和Normalize CSS的区别是什么？](https://github.com/haizlin/fe-interview/issues/1042) 
@@ -255,6 +269,13 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
+- [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1079)
+- [分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果](https://github.com/haizlin/fe-interview/issues/1075)
+- [能否正确获取本地上传的文件路径？如果可以怎么做？如果不可以解释下为什么？](https://github.com/haizlin/fe-interview/issues/1071)
+- [请说说escape、encodeURI、decodeURI、encodeURIComponent和decodeURIComponent的区别？](https://github.com/haizlin/fe-interview/issues/1067)
+- [如何终止WebWork？](https://github.com/haizlin/fe-interview/issues/1063)
+- [写一个方法把多维数组降维](https://github.com/haizlin/fe-interview/issues/1059)
+- [使用正则去掉html中标签与标签之间的空格](https://github.com/haizlin/fe-interview/issues/1055)
 - [document.write和innerHTML有什么区别？](https://github.com/haizlin/fe-interview/issues/1051)
 - [如何使用js来截图？怎样截可见区域和整个页面？](https://github.com/haizlin/fe-interview/issues/1047)
 - [分别写出防抖和节流的两个函数，并描述它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1043)
@@ -380,6 +401,13 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
+- [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1080)
+- [你了解雅虎前端优化的35条军规吗？你能说上几条？](https://github.com/haizlin/fe-interview/issues/1076)
+- [如果一个项目要你重构成前后端分离，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/1072)
+- [用哪种格式可以存储包含Alpha通道的图像？Alpha通道是指什么？](https://github.com/haizlin/fe-interview/issues/1068)
+- [你有签过保密协议吗？说说你对保密协议的理解](https://github.com/haizlin/fe-interview/issues/1064)
+- [你对jsfuck有了解吗？它的原理是什么？请举例说明](https://github.com/haizlin/fe-interview/issues/1060)
+- [你有做过骨架屏吗？它的原理是什么知道吗？](https://github.com/haizlin/fe-interview/issues/1056)
 - [你今年多大了？请说说看你认为你的程序员生涯能做到多少岁？](https://github.com/haizlin/fe-interview/issues/1052)
 - [对于前后端分离，你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1048)
 - [说下你是如何从PS切出图的，有什么技巧？](https://github.com/haizlin/fe-interview/issues/1044)

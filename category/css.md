@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.011
+> 最新：2019.08.18
 
+- [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1078) 
+- [什么是zoom？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1074) 
+- [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 
+- [请举例说明伪元素 (pseudo-elements) 有哪些用途？](https://github.com/haizlin/fe-interview/issues/1066) 
+- [设置字体时为什么建议设置替换字体？](https://github.com/haizlin/fe-interview/issues/1062) 
+- [你有没有自己写过一套UI库？说下遇到哪些难点？](https://github.com/haizlin/fe-interview/issues/1058) 
+- [说说你对GPU的理解，举例说明哪些元素能触发GPU硬件加速？](https://github.com/haizlin/fe-interview/issues/1054) 
 - [你知道CSS中的字母"C"代表什么吗？](https://github.com/haizlin/fe-interview/issues/1050) 
 - [怎么自定义鼠标指针的图案？](https://github.com/haizlin/fe-interview/issues/1046) 
 - [Reset CSS和Normalize CSS的区别是什么？](https://github.com/haizlin/fe-interview/issues/1042) 

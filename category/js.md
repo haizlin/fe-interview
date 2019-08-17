@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.011
+> 最新：2019.08.18
 
+- [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1079)
+- [分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果](https://github.com/haizlin/fe-interview/issues/1075)
+- [能否正确获取本地上传的文件路径？如果可以怎么做？如果不可以解释下为什么？](https://github.com/haizlin/fe-interview/issues/1071)
+- [请说说escape、encodeURI、decodeURI、encodeURIComponent和decodeURIComponent的区别？](https://github.com/haizlin/fe-interview/issues/1067)
+- [如何终止WebWork？](https://github.com/haizlin/fe-interview/issues/1063)
+- [写一个方法把多维数组降维](https://github.com/haizlin/fe-interview/issues/1059)
+- [使用正则去掉html中标签与标签之间的空格](https://github.com/haizlin/fe-interview/issues/1055)
 - [document.write和innerHTML有什么区别？](https://github.com/haizlin/fe-interview/issues/1051)
 - [如何使用js来截图？怎样截可见区域和整个页面？](https://github.com/haizlin/fe-interview/issues/1047)
 - [分别写出防抖和节流的两个函数，并描述它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1043)
