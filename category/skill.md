@@ -4,7 +4,7 @@
 ## 历史题目
 > 最新：2019.08.18
 
-- [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1080)
+- [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1081)
 - [你了解雅虎前端优化的35条军规吗？你能说上几条？](https://github.com/haizlin/fe-interview/issues/1076)
 - [如果一个项目要你重构成前后端分离，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/1072)
 - [用哪种格式可以存储包含Alpha通道的图像？Alpha通道是指什么？](https://github.com/haizlin/fe-interview/issues/1068)

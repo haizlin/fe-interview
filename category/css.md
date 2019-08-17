@@ -4,7 +4,7 @@
 ## 历史题目
 > 最新：2019.08.18
 
-- [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1078) 
+- [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1079) 
 - [什么是zoom？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1074) 
 - [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 
 - [请举例说明伪元素 (pseudo-elements) 有哪些用途？](https://github.com/haizlin/fe-interview/issues/1066) 

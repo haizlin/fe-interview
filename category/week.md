@@ -17,7 +17,7 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1077)
+- [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1078)
 - [使用canvas画出一个矩形](https://github.com/haizlin/fe-interview/issues/1073)
 - [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
 - [请描述下application cache的更新过程？](https://github.com/haizlin/fe-interview/issues/1065)
@@ -143,7 +143,7 @@
 - [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizhilin2013/interview/issues/1)
 
 ## css
-- [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1078) 
+- [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1079) 
 - [什么是zoom？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1074) 
 - [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 
 - [请举例说明伪元素 (pseudo-elements) 有哪些用途？](https://github.com/haizlin/fe-interview/issues/1066) 
@@ -269,7 +269,7 @@
 - [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizhilin2013/interview/issues/2)
 
 ## js
-- [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1079)
+- [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1080)
 - [分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果](https://github.com/haizlin/fe-interview/issues/1075)
 - [能否正确获取本地上传的文件路径？如果可以怎么做？如果不可以解释下为什么？](https://github.com/haizlin/fe-interview/issues/1071)
 - [请说说escape、encodeURI、decodeURI、encodeURIComponent和decodeURIComponent的区别？](https://github.com/haizlin/fe-interview/issues/1067)
@@ -401,7 +401,7 @@
 - [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizhilin2013/interview/issues/3)
 
 ## 软技能
-- [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1080)
+- [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1081)
 - [你了解雅虎前端优化的35条军规吗？你能说上几条？](https://github.com/haizlin/fe-interview/issues/1076)
 - [如果一个项目要你重构成前后端分离，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/1072)
 - [用哪种格式可以存储包含Alpha通道的图像？Alpha通道是指什么？](https://github.com/haizlin/fe-interview/issues/1068)

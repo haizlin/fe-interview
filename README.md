@@ -34,10 +34,10 @@
 </p>
 
 ## 今天的知识点 (2019.08.18) —— 第124天
-- [html] [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1077)
-- [css] [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1078) 
-- [js] [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1079)
-- [软技能] [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1080)
+- [html] [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1078)
+- [css] [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1079) 
+- [js] [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1080)
+- [软技能] [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1081)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 

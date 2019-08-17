@@ -4,7 +4,7 @@
 ## 历史题目
 > 最新：2019.08.18
 
-- [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1079)
+- [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1080)
 - [分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果](https://github.com/haizlin/fe-interview/issues/1075)
 - [能否正确获取本地上传的文件路径？如果可以怎么做？如果不可以解释下为什么？](https://github.com/haizlin/fe-interview/issues/1071)
 - [请说说escape、encodeURI、decodeURI、encodeURIComponent和decodeURIComponent的区别？](https://github.com/haizlin/fe-interview/issues/1067)

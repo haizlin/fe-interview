@@ -4,7 +4,7 @@
 ## 历史题目
 > 最新：2019.08.18
 
-- [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1077)
+- [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1078)
 - [使用canvas画出一个矩形](https://github.com/haizlin/fe-interview/issues/1073)
 - [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
 - [请描述下application cache的更新过程？](https://github.com/haizlin/fe-interview/issues/1065)
