@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第124天 (2019.08.18)  
+    - [html] [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1078)
+    - [css] [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1079) 
+    - [js] [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1080)
+    - [软技能] [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1081)
+
 - 第123天 (2019.08.17)  
     - [html] [使用canvas画出一个矩形](https://github.com/haizlin/fe-interview/issues/1073)
     - [css] [什么是zoom？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1074) 
