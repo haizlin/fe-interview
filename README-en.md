@@ -48,7 +48,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [Skill](category/skill.md)
 
 - Topics(Please look forward to and welcome PR)  
-    [ES6](category/es6.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [小程序](lib/wxapp.md)
+    [ES6](category/es6.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [wxapp](lib/wxapp.md)
 
 - Tools(Please look forward to and welcome PR) 
     [webpack](tools/webpack.md)
@@ -157,6 +157,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.07.25 — 整整100天，从未间断，共968个知识点，3787个朋友关注，上百万次访问！创造了多个记录，多个第一，但路还长，望继续坚持！
 - 2019.08.02 — 第108天，知识点突破1000，继续努力前行！发现一路上好多模仿者、也有好多抄袭者（引用原题都没有添加出处），但不忘初心，抄得了题目，抄不了**那份坚持与执着**！同时感谢他们一路的陪伴。
 - 2019.08.18 — 第124天，受到俄罗斯老外的关注并吐槽了一下，原因估计是他看不懂中文吧，虽然也有英文版本，但那英文及排版有望改进。
+- 2019.08.19 — 第125天，本项目又再一次上了github的热门榜，距离上次刚好是50天（在第75天的时候），能帮助到更多的朋友，那就只有坚持吧！
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
