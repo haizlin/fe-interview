@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第125天 (2019.08.19)  
+    - [html] [举例说明table怎么合并行和列的？](https://github.com/haizlin/fe-interview/issues/1083)
+    - [css] [使用纯CSS代码实现动画的暂停与播放](https://github.com/haizlin/fe-interview/issues/1084) 
+    - [js] [你有用过webRTC吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1085)
+    - [软技能] [说说你对Web App 、Hybrid App和Native App这三者的理解？](https://github.com/haizlin/fe-interview/issues/1086)
+
 - 第124天 (2019.08.18)  
     - [html] [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1078)
     - [css] [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1079) 
