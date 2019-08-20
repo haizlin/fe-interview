@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第126天 (2019.08.20)  
+    - [html] [请说说Canvas和SVG图形的区别是什么？](https://github.com/haizlin/fe-interview/issues/1088)
+    - [css] [说说你对hasLayout的理解，触发hasLayout的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1089) 
+    - [js] [保护js代码的方式有哪些？分别说说他们的原理是什么？](https://github.com/haizlin/fe-interview/issues/1090)
+    - [软技能] [你有了解opengl吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1091)
+
 - 第125天 (2019.08.19)  
     - [html] [举例说明table怎么合并行和列的？](https://github.com/haizlin/fe-interview/issues/1083)
     - [css] [使用纯CSS代码实现动画的暂停与播放](https://github.com/haizlin/fe-interview/issues/1084) 
