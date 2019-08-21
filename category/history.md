@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第127天 (2019.08.21)  
+    - [html] [html的button中的reset有什么作用？](https://github.com/haizlin/fe-interview/issues/1092)
+    - [css] [说说你对min-width和max-width的理解，它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1093) 
+    - [js] [JavaScript有几种类型值？能否画出它们的内存图？](https://github.com/haizlin/fe-interview/issues/1094)
+    - [软技能] [说说你对移动端和web前端开发的主要区别是什么？](https://github.com/haizlin/fe-interview/issues/1095)
+
 - 第126天 (2019.08.20)  
     - [html] [请说说Canvas和SVG图形的区别是什么？](https://github.com/haizlin/fe-interview/issues/1088)
     - [css] [说说你对hasLayout的理解，触发hasLayout的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1089) 

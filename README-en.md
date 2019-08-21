@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.08.21) —— 127 days
-- [html] [html的button中的reset有什么作用？](https://github.com/haizlin/fe-interview/issues/1092)
-- [css] [说说你对min-width和max-width的理解，它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1093) 
-- [js] [JavaScript有几种类型值？能否画出它们的内存图？](https://github.com/haizlin/fe-interview/issues/1094)
-- [skill] [说说你对移动端和web前端开发的主要区别是什么？](https://github.com/haizlin/fe-interview/issues/1095)
+## Today's Knowledge Points (2019.08.22) —— 128 days
+- [html] [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
+- [css] [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
+- [js] [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
+- [skill] [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 125 days (2019.08.19)  
-    - [html] [举例说明table怎么合并行和列的？](https://github.com/haizlin/fe-interview/issues/1083)
-    - [css] [使用纯CSS代码实现动画的暂停与播放](https://github.com/haizlin/fe-interview/issues/1084) 
-    - [js] [你有用过webRTC吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1085)
-    - [skill] [说说你对Web App 、Hybrid App和Native App这三者的理解？](https://github.com/haizlin/fe-interview/issues/1086)
-
 - 126 days (2019.08.20)  
     - [html] [请说说Canvas和SVG图形的区别是什么？](https://github.com/haizlin/fe-interview/issues/1088)
     - [css] [说说你对hasLayout的理解，触发hasLayout的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1089) 
     - [js] [保护js代码的方式有哪些？分别说说他们的原理是什么？](https://github.com/haizlin/fe-interview/issues/1090)
     - [skill] [你有了解opengl吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1091)
+
+- 127 days (2019.08.21)  
+    - [html] [html的button中的reset有什么作用？](https://github.com/haizlin/fe-interview/issues/1092)
+    - [css] [说说你对min-width和max-width的理解，它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1093) 
+    - [js] [JavaScript有几种类型值？能否画出它们的内存图？](https://github.com/haizlin/fe-interview/issues/1094)
+    - [skill] [说说你对移动端和web前端开发的主要区别是什么？](https://github.com/haizlin/fe-interview/issues/1095)
 
 - **[All](category/history.md)**
 
