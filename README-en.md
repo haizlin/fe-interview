@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.08.22) —— 128 days
-- [html] [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
-- [css] [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
-- [js] [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
-- [skill] [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
+## Today's Knowledge Points (2019.08.23) —— 129 days
+- [html] [请问WebSql是HTML5的一个规范吗？](https://github.com/haizlin/fe-interview/issues/1101)
+- [css] [absolute的containing block（容器块）计算方式和正常流有什么区别？](https://github.com/haizlin/fe-interview/issues/1102) 
+- [js] [举例说明js关闭当前窗口有哪些方法？](https://github.com/haizlin/fe-interview/issues/1103)
+- [skill] [关于重复造轮子这件事你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1104)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -87,6 +87,12 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     - [css] [说说你对min-width和max-width的理解，它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1093) 
     - [js] [JavaScript有几种类型值？能否画出它们的内存图？](https://github.com/haizlin/fe-interview/issues/1094)
     - [skill] [说说你对移动端和web前端开发的主要区别是什么？](https://github.com/haizlin/fe-interview/issues/1095)
+
+- 128 days (2019.08.22)  
+    - [html] [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
+    - [css] [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
+    - [js] [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
+    - [skill] [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
 
 - **[All](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第128天 (2019.08.22)  
+    - [html] [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
+    - [css] [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
+    - [js] [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
+    - [软技能] [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
+
 - 第127天 (2019.08.21)  
     - [html] [html的button中的reset有什么作用？](https://github.com/haizlin/fe-interview/issues/1092)
     - [css] [说说你对min-width和max-width的理解，它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1093) 

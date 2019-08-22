@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.08.22) —— 第128天
-- [html] [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
-- [css] [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
-- [js] [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
-- [软技能] [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
+## 今天的知识点 (2019.08.23) —— 第129天
+- [html] [请问WebSql是HTML5的一个规范吗？](https://github.com/haizlin/fe-interview/issues/1101)
+- [css] [absolute的containing block（容器块）计算方式和正常流有什么区别？](https://github.com/haizlin/fe-interview/issues/1102) 
+- [js] [举例说明js关闭当前窗口有哪些方法？](https://github.com/haizlin/fe-interview/issues/1103)
+- [软技能] [关于重复造轮子这件事你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1104)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第126天 (2019.08.20)  
-    - [html] [请说说Canvas和SVG图形的区别是什么？](https://github.com/haizlin/fe-interview/issues/1088)
-    - [css] [说说你对hasLayout的理解，触发hasLayout的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1089) 
-    - [js] [保护js代码的方式有哪些？分别说说他们的原理是什么？](https://github.com/haizlin/fe-interview/issues/1090)
-    - [软技能] [你有了解opengl吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1091)
-
 - 第127天 (2019.08.21)  
     - [html] [html的button中的reset有什么作用？](https://github.com/haizlin/fe-interview/issues/1092)
     - [css] [说说你对min-width和max-width的理解，它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1093) 
     - [js] [JavaScript有几种类型值？能否画出它们的内存图？](https://github.com/haizlin/fe-interview/issues/1094)
     - [软技能] [说说你对移动端和web前端开发的主要区别是什么？](https://github.com/haizlin/fe-interview/issues/1095)
+
+- 第128天 (2019.08.22)  
+    - [html] [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
+    - [css] [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
+    - [js] [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
+    - [软技能] [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
 
 - **[查看全部](category/history.md)**
 
