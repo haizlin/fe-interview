@@ -191,6 +191,7 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
 * [CS-Notes](https://github.com/CyC2018/CS-Notes)（技术面试必备基础知识、Leetcode 题解）
 * [情封](https://github.com/f2er)（公众号「前端早读课」作者情封）
 * [Nodejs技术栈](https://www.nodejs.red)（公众号「Nodejs技术栈」作者五月君，本文档是作者从事 Node.js Developer 以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈。）
+* [SHERlocked93](https://github.com/SHERlocked93/blog) （公众号 「前端下午茶」作者，分享前端精选文章，和大家一起成长）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
 * [刘小夕](https://github.com/YvetteLau/Step-By-Step)（公众号「前端宇宙」作者刘小夕，我将和大家一起一步一个脚印，向前端专家迈进。）
 * [koala](https://github.com/koala-coding/goodBlog)（公众号「程序员成长指北」作者，专注 完整的 Node.js 技术栈分享，从 JavaScript 到 Node.js,再到后端数据库，祝您成为优秀的高级 Node.js 工程师。座右铭：今天未完成的，明天更不会完成。）
