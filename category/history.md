@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第129天 (2019.08.23)  
+    - [html] [请问WebSql是HTML5的一个规范吗？](https://github.com/haizlin/fe-interview/issues/1100)
+    - [css] [absolute的containing block（容器块）计算方式和正常流有什么区别？](https://github.com/haizlin/fe-interview/issues/1101) 
+    - [js] [举例说明js关闭当前窗口有哪些方法？](https://github.com/haizlin/fe-interview/issues/1102)
+    - [软技能] [关于重复造轮子这件事你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1103)
+
 - 第128天 (2019.08.22)  
     - [html] [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
     - [css] [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
