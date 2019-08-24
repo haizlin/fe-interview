@@ -1,4 +1,4 @@
-# 周汇总 2019.08.18
+# 周汇总 2019.08.25
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [HTML5规范将元素分为哪几个大类？分别说说它们的特点](https://github.com/haizlin/fe-interview/issues/1078)
-- [使用canvas画出一个矩形](https://github.com/haizlin/fe-interview/issues/1073)
-- [说说form-data、x-www-form-urlencoded、raw、binary的区别是什么？](https://github.com/haizlin/fe-interview/issues/1069)
-- [请描述下application cache的更新过程？](https://github.com/haizlin/fe-interview/issues/1065)
-- [你知道富文本编辑器的实现原理吗？](https://github.com/haizlin/fe-interview/issues/1061)
-- [说说你对富文本的理解，你有用过哪些富文本编辑器呢？](https://github.com/haizlin/fe-interview/issues/1057)
-- [有使用过HTML5的跟踪元素吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1053)
+- [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
+- [你知道什么是锚点吗？它的作用是什么？怎么创建一个锚点？](https://github.com/haizlin/fe-interview/issues/1104)
+- [请问WebSql是HTML5的一个规范吗？](https://github.com/haizlin/fe-interview/issues/1100)
+- [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
+- [html的button中的reset有什么作用？](https://github.com/haizlin/fe-interview/issues/1092)
+- [请说说Canvas和SVG图形的区别是什么？](https://github.com/haizlin/fe-interview/issues/1088)
+- [举例说明table怎么合并行和列的？](https://github.com/haizlin/fe-interview/issues/1083)
 
 ## css
-- [举例说明伪类:nth-child、:first-child与:first-of-type这三者有什么不同？](https://github.com/haizlin/fe-interview/issues/1079) 
-- [什么是zoom？它有什么作用？](https://github.com/haizlin/fe-interview/issues/1074) 
-- [举例说明微信端兼容问题有哪些？](https://github.com/haizlin/fe-interview/issues/1070) 
-- [请举例说明伪元素 (pseudo-elements) 有哪些用途？](https://github.com/haizlin/fe-interview/issues/1066) 
-- [设置字体时为什么建议设置替换字体？](https://github.com/haizlin/fe-interview/issues/1062) 
-- [你有没有自己写过一套UI库？说下遇到哪些难点？](https://github.com/haizlin/fe-interview/issues/1058) 
-- [说说你对GPU的理解，举例说明哪些元素能触发GPU硬件加速？](https://github.com/haizlin/fe-interview/issues/1054) 
+- [举例说明实现圆角的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1109) 
+- [有用过scss和sass吗？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1105) 
+- [absolute的containing block（容器块）计算方式和正常流有什么区别？](https://github.com/haizlin/fe-interview/issues/1101) 
+- [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
+- [说说你对min-width和max-width的理解，它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1093) 
+- [说说你对hasLayout的理解，触发hasLayout的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1089) 
+- [使用纯CSS代码实现动画的暂停与播放](https://github.com/haizlin/fe-interview/issues/1084) 
 
 ## js
-- [如何实现文件拖动上传？](https://github.com/haizlin/fe-interview/issues/1080)
-- [分析`('b' + 'a' + +'a' + 'a').toLowerCase()`返回的结果](https://github.com/haizlin/fe-interview/issues/1075)
-- [能否正确获取本地上传的文件路径？如果可以怎么做？如果不可以解释下为什么？](https://github.com/haizlin/fe-interview/issues/1071)
-- [请说说escape、encodeURI、decodeURI、encodeURIComponent和decodeURIComponent的区别？](https://github.com/haizlin/fe-interview/issues/1067)
-- [如何终止WebWork？](https://github.com/haizlin/fe-interview/issues/1063)
-- [写一个方法把多维数组降维](https://github.com/haizlin/fe-interview/issues/1059)
-- [使用正则去掉html中标签与标签之间的空格](https://github.com/haizlin/fe-interview/issues/1055)
+- [JSON.stringify有什么局限性和哪些技巧？](https://github.com/haizlin/fe-interview/issues/1110)
+- [如何实现一个全屏的功能？](https://github.com/haizlin/fe-interview/issues/1106)
+- [举例说明js关闭当前窗口有哪些方法？](https://github.com/haizlin/fe-interview/issues/1102)
+- [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
+- [JavaScript有几种类型值？能否画出它们的内存图？](https://github.com/haizlin/fe-interview/issues/1094)
+- [保护js代码的方式有哪些？分别说说他们的原理是什么？](https://github.com/haizlin/fe-interview/issues/1090)
+- [你有用过webRTC吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1085)
 
 ## 软技能
-- [你有开发过弹幕吗？知道它的原理吗？说说看](https://github.com/haizlin/fe-interview/issues/1081)
-- [你了解雅虎前端优化的35条军规吗？你能说上几条？](https://github.com/haizlin/fe-interview/issues/1076)
-- [如果一个项目要你重构成前后端分离，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/1072)
-- [用哪种格式可以存储包含Alpha通道的图像？Alpha通道是指什么？](https://github.com/haizlin/fe-interview/issues/1068)
-- [你有签过保密协议吗？说说你对保密协议的理解](https://github.com/haizlin/fe-interview/issues/1064)
-- [你对jsfuck有了解吗？它的原理是什么？请举例说明](https://github.com/haizlin/fe-interview/issues/1060)
-- [你有做过骨架屏吗？它的原理是什么知道吗？](https://github.com/haizlin/fe-interview/issues/1056)
+- [你知道产品经理一般画的原型是用什么工具吗？有没有自己玩过？](https://github.com/haizlin/fe-interview/issues/1111)
+- [说说你对重构的理解](https://github.com/haizlin/fe-interview/issues/1107)
+- [关于重复造轮子这件事你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1103)
+- [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
+- [说说你对移动端和web前端开发的主要区别是什么？](https://github.com/haizlin/fe-interview/issues/1095)
+- [你有了解opengl吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1091)
+- [说说你对Web App 、Hybrid App和Native App这三者的理解？](https://github.com/haizlin/fe-interview/issues/1086)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

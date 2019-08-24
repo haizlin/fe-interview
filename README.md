@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.08.24) —— 第130天
-- [html] [你知道什么是锚点吗？它的作用是什么？怎么创建一个锚点？](https://github.com/haizlin/fe-interview/issues/1104)
-- [css] [有用过scss和sass吗？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1105) 
-- [js] [如何实现一个全屏的功能？](https://github.com/haizlin/fe-interview/issues/1106)
-- [软技能] [说说你对重构的理解](https://github.com/haizlin/fe-interview/issues/1107)
+## 今天的知识点 (2019.08.25) —— 第131天
+- [html] [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
+- [css] [举例说明实现圆角的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1109) 
+- [js] [JSON.stringify有什么局限性和哪些技巧？](https://github.com/haizlin/fe-interview/issues/1110)
+- [软技能] [你知道产品经理一般画的原型是用什么工具吗？有没有自己玩过？](https://github.com/haizlin/fe-interview/issues/1111)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第128天 (2019.08.22)  
-    - [html] [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
-    - [css] [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
-    - [js] [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
-    - [软技能] [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
-
 - 第129天 (2019.08.23)  
     - [html] [请问WebSql是HTML5的一个规范吗？](https://github.com/haizlin/fe-interview/issues/1100)
     - [css] [absolute的containing block（容器块）计算方式和正常流有什么区别？](https://github.com/haizlin/fe-interview/issues/1101) 
     - [js] [举例说明js关闭当前窗口有哪些方法？](https://github.com/haizlin/fe-interview/issues/1102)
     - [软技能] [关于重复造轮子这件事你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1103)
+
+- 第130天 (2019.08.24)  
+    - [html] [你知道什么是锚点吗？它的作用是什么？怎么创建一个锚点？](https://github.com/haizlin/fe-interview/issues/1104)
+    - [css] [有用过scss和sass吗？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1105) 
+    - [js] [如何实现一个全屏的功能？](https://github.com/haizlin/fe-interview/issues/1106)
+    - [软技能] [说说你对重构的理解](https://github.com/haizlin/fe-interview/issues/1107)
 
 - **[查看全部](category/history.md)**
 
