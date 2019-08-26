@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.08.26) —— 132 days
-- [html] [触发form表单自动提交的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1112)
-- [css] [有哪些方式可以对一个DOM设置它的CSS样式？](https://github.com/haizlin/fe-interview/issues/1113) 
-- [js] [原生的字符串操作方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1114)
-- [skill] [你会nodejs吗？说说你运用它的场景](https://github.com/haizlin/fe-interview/issues/1115)
+## Today's Knowledge Points (2019.08.27) —— 133 days
+- [html] [canvas默认画布的尺寸是多大？怎样设置才能不会变形？](https://github.com/haizlin/fe-interview/issues/1116)
+- [css] [如何使用css3实现一个div设置多张背景图片？](https://github.com/haizlin/fe-interview/issues/1117) 
+- [js] [写一个方法，将字符串中的单词倒转后输出，如：`my love` -> `ym evol`](https://github.com/haizlin/fe-interview/issues/1118)
+- [skill] [说说你是怎么安排你工作外的时间的？](https://github.com/haizlin/fe-interview/issues/1119)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 130 days (2019.08.24)  
-    - [html] [你知道什么是锚点吗？它的作用是什么？怎么创建一个锚点？](https://github.com/haizlin/fe-interview/issues/1104)
-    - [css] [有用过scss和sass吗？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1105) 
-    - [js] [如何实现一个全屏的功能？](https://github.com/haizlin/fe-interview/issues/1106)
-    - [skill] [说说你对重构的理解](https://github.com/haizlin/fe-interview/issues/1107)
-
 - 131 days (2019.08.25)  
     - [html] [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
     - [css] [举例说明实现圆角的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1109) 
     - [js] [JSON.stringify有什么局限性和哪些技巧？](https://github.com/haizlin/fe-interview/issues/1110)
     - [skill] [你知道产品经理一般画的原型是用什么工具吗？有没有自己玩过？](https://github.com/haizlin/fe-interview/issues/1111)
+
+- 132 days (2019.08.26)  
+    - [html] [触发form表单自动提交的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1112)
+    - [css] [有哪些方式可以对一个DOM设置它的CSS样式？](https://github.com/haizlin/fe-interview/issues/1113) 
+    - [js] [原生的字符串操作方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1114)
+    - [skill] [你会nodejs吗？说说你运用它的场景](https://github.com/haizlin/fe-interview/issues/1115)
 
 - **[All](category/history.md)**
 

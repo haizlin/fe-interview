@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第132天 (2019.08.26)  
+    - [html] [触发form表单自动提交的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1112)
+    - [css] [有哪些方式可以对一个DOM设置它的CSS样式？](https://github.com/haizlin/fe-interview/issues/1113) 
+    - [js] [原生的字符串操作方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1114)
+    - [软技能] [你会nodejs吗？说说你运用它的场景](https://github.com/haizlin/fe-interview/issues/1115)
+
 - 第131天 (2019.08.25)  
     - [html] [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
     - [css] [举例说明实现圆角的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1109) 
