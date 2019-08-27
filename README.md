@@ -33,11 +33,28 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.08.27) —— 第133天
-- [html] [canvas默认画布的尺寸是多大？怎样设置才能不会变形？](https://github.com/haizlin/fe-interview/issues/1116)
-- [css] [如何使用css3实现一个div设置多张背景图片？](https://github.com/haizlin/fe-interview/issues/1117) 
-- [js] [写一个方法，将字符串中的单词倒转后输出，如：`my love` -> `ym evol`](https://github.com/haizlin/fe-interview/issues/1118)
-- [软技能] [说说你是怎么安排你工作外的时间的？](https://github.com/haizlin/fe-interview/issues/1119)
+## 今天的知识点 (2019.08.28) —— 第134天
+- [html] [Web Worker线程的限制是什么？](https://github.com/haizlin/fe-interview/issues/1120)
+- [css] [transition、animation、transform三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1121) 
+- [js] [请写出如下代码运行的结果并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1122)
+```javascript
+
+    var type = 'images';
+    var size = {width: 800, height: 600};
+    var format = ['jpg', 'png'];
+
+    function change(type, size, format){
+        type = 'video';
+        size = {width: 1024, height: 768};
+        format.push('map');
+    }
+
+    change(type, size, format);
+
+    console.log(type, size, format);
+
+```
+- [软技能] [你在工作中有用到过websocket吗？用它来解决什么问题？](https://github.com/haizlin/fe-interview/issues/1123)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +91,17 @@
 
 …………  
 
-- 第131天 (2019.08.25)  
-    - [html] [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
-    - [css] [举例说明实现圆角的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1109) 
-    - [js] [JSON.stringify有什么局限性和哪些技巧？](https://github.com/haizlin/fe-interview/issues/1110)
-    - [软技能] [你知道产品经理一般画的原型是用什么工具吗？有没有自己玩过？](https://github.com/haizlin/fe-interview/issues/1111)
-
 - 第132天 (2019.08.26)  
     - [html] [触发form表单自动提交的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1112)
     - [css] [有哪些方式可以对一个DOM设置它的CSS样式？](https://github.com/haizlin/fe-interview/issues/1113) 
     - [js] [原生的字符串操作方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1114)
     - [软技能] [你会nodejs吗？说说你运用它的场景](https://github.com/haizlin/fe-interview/issues/1115)
+
+- 第133天 (2019.08.27)  
+    - [html] [canvas默认画布的尺寸是多大？怎样设置才能不会变形？](https://github.com/haizlin/fe-interview/issues/1116)
+    - [css] [如何使用css3实现一个div设置多张背景图片？](https://github.com/haizlin/fe-interview/issues/1117) 
+    - [js] [写一个方法，将字符串中的单词倒转后输出，如：`my love` -> `ym evol`](https://github.com/haizlin/fe-interview/issues/1118)
+    - [软技能] [说说你是怎么安排你工作外的时间的？](https://github.com/haizlin/fe-interview/issues/1119)
 
 - **[查看全部](category/history.md)**
 

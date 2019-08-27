@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第133天 (2019.08.27)  
+    - [html] [canvas默认画布的尺寸是多大？怎样设置才能不会变形？](https://github.com/haizlin/fe-interview/issues/1116)
+    - [css] [如何使用css3实现一个div设置多张背景图片？](https://github.com/haizlin/fe-interview/issues/1117) 
+    - [js] [写一个方法，将字符串中的单词倒转后输出，如：`my love` -> `ym evol`](https://github.com/haizlin/fe-interview/issues/1118)
+    - [软技能] [说说你是怎么安排你工作外的时间的？](https://github.com/haizlin/fe-interview/issues/1119)
+
 - 第132天 (2019.08.26)  
     - [html] [触发form表单自动提交的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1112)
     - [css] [有哪些方式可以对一个DOM设置它的CSS样式？](https://github.com/haizlin/fe-interview/issues/1113) 
