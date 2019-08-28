@@ -1,6 +1,29 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第134天 (2019.08.28)  
+    - [html] [Web Worker线程的限制是什么？](https://github.com/haizlin/fe-interview/issues/1120)
+    - [css] [transition、animation、transform三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1121) 
+    - [js] [请写出如下代码运行的结果并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1122)
+    ```javascript
+
+        var type = 'images';
+        var size = {width: 800, height: 600};
+        var format = ['jpg', 'png'];
+
+        function change(type, size, format){
+            type = 'video';
+            size = {width: 1024, height: 768};
+            format.push('map');
+        }
+
+        change(type, size, format);
+
+        console.log(type, size, format);
+
+    ```
+    - [软技能] [你在工作中有用到过websocket吗？用它来解决什么问题？](https://github.com/haizlin/fe-interview/issues/1123)
+
 - 第133天 (2019.08.27)  
     - [html] [canvas默认画布的尺寸是多大？怎样设置才能不会变形？](https://github.com/haizlin/fe-interview/issues/1116)
     - [css] [如何使用css3实现一个div设置多张背景图片？](https://github.com/haizlin/fe-interview/issues/1117) 
