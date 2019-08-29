@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第135天 (2019.08.29)  
+    - [html] [如何刷新浏览器的应用缓存？](https://github.com/haizlin/fe-interview/issues/1124)
+    - [css] [说说你对css的will-change属性的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1125) 
+    - [js] [请解释下NaN === NaN的结果](https://github.com/haizlin/fe-interview/issues/1126)
+    - [软技能] [你了解什么是微前端吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1127)
+
 - 第134天 (2019.08.28)  
     - [html] [Web Worker线程的限制是什么？](https://github.com/haizlin/fe-interview/issues/1120)
     - [css] [transition、animation、transform三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1121) 

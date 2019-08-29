@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.08.29) —— 135 days
-- [html] [如何刷新浏览器的应用缓存？](https://github.com/haizlin/fe-interview/issues/1124)
-- [css] [说说你对css的will-change属性的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1125) 
-- [js] [请解释下NaN === NaN的结果](https://github.com/haizlin/fe-interview/issues/1126)
-- [skill] [你了解什么是微前端吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1127)
+## Today's Knowledge Points (2019.08.30) —— 136 days
+- [html] [HTML5的服务器(server-sent event)发送事件有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1128)
+- [css] [你有了解css计数器（序列数字字符自动递增）吗？如何通过css的content属性实现呢？](https://github.com/haizlin/fe-interview/issues/1129) 
+- [js] [用js实现小写金额转大写的方法](https://github.com/haizlin/fe-interview/issues/1130)
+- [skill] [你知道什么是微格式(microformat)吗？说说你的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1131)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,12 +76,6 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 133 days (2019.08.27)  
-    - [html] [canvas默认画布的尺寸是多大？怎样设置才能不会变形？](https://github.com/haizlin/fe-interview/issues/1116)
-    - [css] [如何使用css3实现一个div设置多张背景图片？](https://github.com/haizlin/fe-interview/issues/1117) 
-    - [js] [写一个方法，将字符串中的单词倒转后输出，如：`my love` -> `ym evol`](https://github.com/haizlin/fe-interview/issues/1118)
-    - [skill] [说说你是怎么安排你工作外的时间的？](https://github.com/haizlin/fe-interview/issues/1119)
-
 - 134 days (2019.08.28)  
     - [html] [Web Worker线程的限制是什么？](https://github.com/haizlin/fe-interview/issues/1120)
     - [css] [transition、animation、transform三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1121) 
@@ -104,6 +98,12 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
     ```
     - [skill] [你在工作中有用到过websocket吗？用它来解决什么问题？](https://github.com/haizlin/fe-interview/issues/1123)
+
+- 135 days (2019.08.29)  
+    - [html] [如何刷新浏览器的应用缓存？](https://github.com/haizlin/fe-interview/issues/1124)
+    - [css] [说说你对css的will-change属性的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1125) 
+    - [js] [请解释下NaN === NaN的结果](https://github.com/haizlin/fe-interview/issues/1126)
+    - [skill] [你了解什么是微前端吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1127)
 
 - **[All](category/history.md)**
 
