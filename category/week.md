@@ -1,4 +1,4 @@
-# 周汇总 2019.08.25
+# 周汇总 2019.09.01
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,57 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
-- [你知道什么是锚点吗？它的作用是什么？怎么创建一个锚点？](https://github.com/haizlin/fe-interview/issues/1104)
-- [请问WebSql是HTML5的一个规范吗？](https://github.com/haizlin/fe-interview/issues/1100)
-- [精灵图和base64如何选择呢？](https://github.com/haizlin/fe-interview/issues/1096)
-- [html的button中的reset有什么作用？](https://github.com/haizlin/fe-interview/issues/1092)
-- [请说说Canvas和SVG图形的区别是什么？](https://github.com/haizlin/fe-interview/issues/1088)
-- [举例说明table怎么合并行和列的？](https://github.com/haizlin/fe-interview/issues/1083)
+- [如何让textarea高度自适应呢？](https://github.com/haizlin/fe-interview/issues/1136)
+- [如何让textarea高度自适应呢？](https://github.com/haizlin/fe-interview/issues/1132)
+- [HTML5的服务器(server-sent event)发送事件有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1128)
+- [如何刷新浏览器的应用缓存？](https://github.com/haizlin/fe-interview/issues/1124)
+- [Web Worker线程的限制是什么？](https://github.com/haizlin/fe-interview/issues/1120)
+- [canvas默认画布的尺寸是多大？怎样设置才能不会变形？](https://github.com/haizlin/fe-interview/issues/1116)
+- [触发form表单自动提交的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1112)
 
 ## css
-- [举例说明实现圆角的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1109) 
-- [有用过scss和sass吗？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1105) 
-- [absolute的containing block（容器块）计算方式和正常流有什么区别？](https://github.com/haizlin/fe-interview/issues/1101) 
-- [说说visibility属性的collapse属性值有什么作用？在不同浏览器下有什么区别？](https://github.com/haizlin/fe-interview/issues/1097) 
-- [说说你对min-width和max-width的理解，它们有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1093) 
-- [说说你对hasLayout的理解，触发hasLayout的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1089) 
-- [使用纯CSS代码实现动画的暂停与播放](https://github.com/haizlin/fe-interview/issues/1084) 
+- [你有用过IE css的expression表达式吗？说说你对它的理解和它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1137) 
+- [z-index有时不起作用的原因是什么？怎么解决？](https://github.com/haizlin/fe-interview/issues/1133) 
+- [你有了解css计数器（序列数字字符自动递增）吗？如何通过css的content属性实现呢？](https://github.com/haizlin/fe-interview/issues/1129) 
+- [说说你对css的will-change属性的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1125) 
+- [transition、animation、transform三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1121) 
+- [如何使用css3实现一个div设置多张背景图片？](https://github.com/haizlin/fe-interview/issues/1117) 
+- [有哪些方式可以对一个DOM设置它的CSS样式？](https://github.com/haizlin/fe-interview/issues/1113)  
 
 ## js
-- [JSON.stringify有什么局限性和哪些技巧？](https://github.com/haizlin/fe-interview/issues/1110)
-- [如何实现一个全屏的功能？](https://github.com/haizlin/fe-interview/issues/1106)
-- [举例说明js关闭当前窗口有哪些方法？](https://github.com/haizlin/fe-interview/issues/1102)
-- [说说你对js包装对象的理解](https://github.com/haizlin/fe-interview/issues/1098)
-- [JavaScript有几种类型值？能否画出它们的内存图？](https://github.com/haizlin/fe-interview/issues/1094)
-- [保护js代码的方式有哪些？分别说说他们的原理是什么？](https://github.com/haizlin/fe-interview/issues/1090)
-- [你有用过webRTC吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1085)
+- [请描述下ajax的请求都有哪些步骤？](https://github.com/haizlin/fe-interview/issues/1138)
+- [用js实现页面局部打印和预览原理是什么呢？同时在IE上有什么不同？](https://github.com/haizlin/fe-interview/issues/1134)
+- [用js实现小写金额转大写的方法](https://github.com/haizlin/fe-interview/issues/1130)
+- [请解释下NaN === NaN的结果](https://github.com/haizlin/fe-interview/issues/1126)
+- [请写出如下代码运行的结果并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1122)
+```javascript
+
+    var type = 'images';
+    var size = {width: 800, height: 600};
+    var format = ['jpg', 'png'];
+
+    function change(type, size, format){
+        type = 'video';
+        size = {width: 1024, height: 768};
+        format.push('map');
+    }
+
+    change(type, size, format);
+
+    console.log(type, size, format);
+
+```
+- [写一个方法，将字符串中的单词倒转后输出，如：`my love` -> `ym evol`](https://github.com/haizlin/fe-interview/issues/1118)
+- [原生的字符串操作方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1114)
 
 ## 软技能
-- [你知道产品经理一般画的原型是用什么工具吗？有没有自己玩过？](https://github.com/haizlin/fe-interview/issues/1111)
-- [说说你对重构的理解](https://github.com/haizlin/fe-interview/issues/1107)
-- [关于重复造轮子这件事你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1103)
-- [知道为何有些网站访不需要端口号？说说你对端口的理解？](https://github.com/haizlin/fe-interview/issues/1099)
-- [说说你对移动端和web前端开发的主要区别是什么？](https://github.com/haizlin/fe-interview/issues/1095)
-- [你有了解opengl吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1091)
-- [说说你对Web App 、Hybrid App和Native App这三者的理解？](https://github.com/haizlin/fe-interview/issues/1086)
+- [你期望的薪资是多少呢？](https://github.com/haizlin/fe-interview/issues/1139)
+- [你有玩过Docker吗？你知道它有哪些运用场景吗？](https://github.com/haizlin/fe-interview/issues/1135)
+- [你知道什么是微格式(microformat)吗？说说你的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1131)
+- [你了解什么是微前端吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1127)
+- [你在工作中有用到过websocket吗？用它来解决什么问题？](https://github.com/haizlin/fe-interview/issues/1123)
+- [说说你是怎么安排你工作外的时间的？](https://github.com/haizlin/fe-interview/issues/1119)
+- [你会nodejs吗？说说你运用它的场景](https://github.com/haizlin/fe-interview/issues/1115)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

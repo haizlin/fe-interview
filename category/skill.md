@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.25
+> 最新：2019.09.01
 
+- [你期望的薪资是多少呢？](https://github.com/haizlin/fe-interview/issues/1139)
+- [你有玩过Docker吗？你知道它有哪些运用场景吗？](https://github.com/haizlin/fe-interview/issues/1135)
+- [你知道什么是微格式(microformat)吗？说说你的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1131)
+- [你了解什么是微前端吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1127)
+- [你在工作中有用到过websocket吗？用它来解决什么问题？](https://github.com/haizlin/fe-interview/issues/1123)
+- [说说你是怎么安排你工作外的时间的？](https://github.com/haizlin/fe-interview/issues/1119)
+- [你会nodejs吗？说说你运用它的场景](https://github.com/haizlin/fe-interview/issues/1115)
 - [你知道产品经理一般画的原型是用什么工具吗？有没有自己玩过？](https://github.com/haizlin/fe-interview/issues/1111)
 - [说说你对重构的理解](https://github.com/haizlin/fe-interview/issues/1107)
 - [关于重复造轮子这件事你是怎么理解的？](https://github.com/haizlin/fe-interview/issues/1103)

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.25
+> 最新：2019.09.01
 
+- [请说说应用缓存中的回退和网络分别是什么？](https://github.com/haizlin/fe-interview/issues/1136)
+- [如何让textarea高度自适应呢？](https://github.com/haizlin/fe-interview/issues/1132)
+- [HTML5的服务器(server-sent event)发送事件有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1128)
+- [如何刷新浏览器的应用缓存？](https://github.com/haizlin/fe-interview/issues/1124)
+- [Web Worker线程的限制是什么？](https://github.com/haizlin/fe-interview/issues/1120)
+- [canvas默认画布的尺寸是多大？怎样设置才能不会变形？](https://github.com/haizlin/fe-interview/issues/1116)
+- [触发form表单自动提交的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1112)
 - [table去除边框的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1108)
 - [你知道什么是锚点吗？它的作用是什么？怎么创建一个锚点？](https://github.com/haizlin/fe-interview/issues/1104)
 - [请问WebSql是HTML5的一个规范吗？](https://github.com/haizlin/fe-interview/issues/1100)

@@ -2,8 +2,32 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.08.25
+> 最新：2019.09.01
 
+- [请描述下ajax的请求都有哪些步骤？](https://github.com/haizlin/fe-interview/issues/1138)
+- [用js实现页面局部打印和预览原理是什么呢？同时在IE上有什么不同？](https://github.com/haizlin/fe-interview/issues/1134)
+- [用js实现小写金额转大写的方法](https://github.com/haizlin/fe-interview/issues/1130)
+- [请解释下NaN === NaN的结果](https://github.com/haizlin/fe-interview/issues/1126)
+- [请写出如下代码运行的结果并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1122)
+```javascript
+
+    var type = 'images';
+    var size = {width: 800, height: 600};
+    var format = ['jpg', 'png'];
+
+    function change(type, size, format){
+        type = 'video';
+        size = {width: 1024, height: 768};
+        format.push('map');
+    }
+
+    change(type, size, format);
+
+    console.log(type, size, format);
+
+```
+- [写一个方法，将字符串中的单词倒转后输出，如：`my love` -> `ym evol`](https://github.com/haizlin/fe-interview/issues/1118)
+- [原生的字符串操作方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1114)
 - [JSON.stringify有什么局限性和哪些技巧？](https://github.com/haizlin/fe-interview/issues/1110)
 - [如何实现一个全屏的功能？](https://github.com/haizlin/fe-interview/issues/1106)
 - [举例说明js关闭当前窗口有哪些方法？](https://github.com/haizlin/fe-interview/issues/1102)
