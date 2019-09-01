@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第138天 (2019.09.01)  
+    - [html] [请说说应用缓存中的回退和网络分别是什么？](https://github.com/haizlin/fe-interview/issues/1136)
+    - [css] [你有用过IE css的expression表达式吗？说说你对它的理解和它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1137) 
+    - [js] [请描述下ajax的请求都有哪些步骤？](https://github.com/haizlin/fe-interview/issues/1138)
+    - [软技能] [你期望的薪资是多少呢？](https://github.com/haizlin/fe-interview/issues/1139)
+
 - 第137天 (2019.08.31)  
     - [html] [如何让textarea高度自适应呢？](https://github.com/haizlin/fe-interview/issues/1132)
     - [css] [z-index有时不起作用的原因是什么？怎么解决？](https://github.com/haizlin/fe-interview/issues/1133) 
