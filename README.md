@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.09.02) —— 第139天
-- [html] [如何让textarea标签中的内容原格式输出？](https://github.com/haizlin/fe-interview/issues/1140)
-- [css] [说下background-color:transparent和opacity:0的区别是什么？](https://github.com/haizlin/fe-interview/issues/1141) 
-- [js] [说下你对柯里化函数(currying)的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1142)
-- [软技能] [你知道Jenkins吗？有没有用过？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1143)
+## 今天的知识点 (2019.09.03) —— 第140天
+- [html] [说说你对HTML5的keygen标签的理解，它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1144)
+- [css] [CSS3中的transition是否可以过渡opacity和display？](https://github.com/haizlin/fe-interview/issues/1145) 
+- [js] [说用原生js实现封装一个选项卡的功能](https://github.com/haizlin/fe-interview/issues/1146)
+- [软技能] [你会PHP、JAVA、Python或GO吗？都有做过哪些应用呢？](https://github.com/haizlin/fe-interview/issues/1147)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第137天 (2019.08.31)  
-    - [html] [如何让textarea高度自适应呢？](https://github.com/haizlin/fe-interview/issues/1132)
-    - [css] [z-index有时不起作用的原因是什么？怎么解决？](https://github.com/haizlin/fe-interview/issues/1133) 
-    - [js] [用js实现页面局部打印和预览原理是什么呢？同时在IE上有什么不同？](https://github.com/haizlin/fe-interview/issues/1134)
-    - [软技能] [你有玩过Docker吗？你知道它有哪些运用场景吗？](https://github.com/haizlin/fe-interview/issues/1135)
-
 - 第138天 (2019.09.01)  
     - [html] [请说说应用缓存中的回退和网络分别是什么？](https://github.com/haizlin/fe-interview/issues/1136)
     - [css] [你有用过IE css的expression表达式吗？说说你对它的理解和它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1137) 
     - [js] [请描述下ajax的请求都有哪些步骤？](https://github.com/haizlin/fe-interview/issues/1138)
     - [软技能] [你期望的薪资是多少呢？](https://github.com/haizlin/fe-interview/issues/1139)
+
+- 第139天 (2019.09.02)  
+    - [html] [如何让textarea标签中的内容原格式输出？](https://github.com/haizlin/fe-interview/issues/1140)
+    - [css] [说下background-color:transparent和opacity:0的区别是什么？](https://github.com/haizlin/fe-interview/issues/1141) 
+    - [js] [说下你对柯里化函数(currying)的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1142)
+    - [软技能] [你知道Jenkins吗？有没有用过？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1143)
 
 - **[查看全部](category/history.md)**
 
