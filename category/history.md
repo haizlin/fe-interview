@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第141天 (2019.09.04)  
+    - [html] [form标签定义请求类型和请求地址分别是哪个属性？](https://github.com/haizlin/fe-interview/issues/1148)
+    - [css] [说说你对字母"X"在CSS中有什么作用？](https://github.com/haizlin/fe-interview/issues/1149) 
+    - [js] [写一个洗扑克牌的方法](https://github.com/haizlin/fe-interview/issues/1150)
+    - [软技能] [你觉得你上家公司的前端开发流程有什么地方要优化的吗？怎么优化呢？](https://github.com/haizlin/fe-interview/issues/1151)
+
 - 第140天 (2019.09.03)  
     - [html] [说说你对HTML5的keygen标签的理解，它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1144)
     - [css] [CSS3中的transition是否可以过渡opacity和display？](https://github.com/haizlin/fe-interview/issues/1145) 
