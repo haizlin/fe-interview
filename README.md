@@ -37,8 +37,9 @@
 ## 今天的知识点 (2019.09.06) —— 第 143 天
 
 - [html][请说说 `<pre>` 和 `<code>` 标签的区别]()
-- [css][自定义 Radio 按钮的样式]()
+- [css][自定义 radio 按钮的样式]()
 - [js][自己实现数组的 `map`、`filter`、`find` 方法]]()
+- [软技能][你有自己的博客吗？维护的频率是多久呢？]()
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -62,9 +63,9 @@
 
 - 第 1 天 (2019.04.17)
 
-  - [html][`<pre>` 标签和 `<code>` 标签的区别]()
-  - [css][自定义 radio 标签的样式]()
-  - [js][实现数组的 `map`、`filter`、`find` 方法]()
+  - [html][页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
+  - [css][圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)
+  - [js][用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizlin/fe-interview/issues/3)
 
 - 第 2 天 (2019.04.18)
 
