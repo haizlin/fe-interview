@@ -36,9 +36,9 @@
 
 ## 今天的知识点 (2019.09.06) —— 第 143 天
 
-- [html][如何实现应用缓存？说说你对manifest的理解](https://github.com/haizlin/fe-interview/issues/1152)
-- [css][word-wrap、word-break和white-space有什么区别？](https://github.com/haizlin/fe-interview/issues/1153)
-- [js][请描述下函数的执行过程](https://github.com/haizlin/fe-interview/issues/1154)
+- [html][请说说 `<pre>` 和 `<code>` 标签的区别]()
+- [css][自定义 Radio 按钮的样式]()
+- [js][自己实现数组的 `map`、`filter`、`find` 方法]]()
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
