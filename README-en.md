@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.09.05) —— 142 days
-- [html] [如何实现应用缓存？说说你对manifest的理解](https://github.com/haizlin/fe-interview/issues/1152)
-- [css] [word-wrap、word-break和white-space有什么区别？](https://github.com/haizlin/fe-interview/issues/1153) 
-- [js] [请描述下函数的执行过程](https://github.com/haizlin/fe-interview/issues/1154)
-- [skill] [在选择框架时应该考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/1155)
+## Today's Knowledge Points (2019.09.06) —— 143 days
+- [html] [请说说`<pre>`和`<code>`标签的区别？](https://github.com/haizlin/fe-interview/issues/1157)
+- [css] [如何自定义radio按钮的样式](https://github.com/haizlin/fe-interview/issues/1158)
+- [js] [自己实现数组的 `map`、`filter`、`find` 方法](https://github.com/haizlin/fe-interview/issues/1159)
+- [skill] [你有自己的博客吗？维护的频率是多久呢？](https://github.com/haizlin/fe-interview/issues/1160)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,23 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 第139天 (2019.09.02)  
-    - [html] [如何让textarea标签中的内容原格式输出？](https://github.com/haizlin/fe-interview/issues/1140)
-    - [css] [说下background-color:transparent和opacity:0的区别是什么？](https://github.com/haizlin/fe-interview/issues/1141) 
-    - [js] [说下你对柯里化函数(currying)的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1142)
-    - [skill] [你知道Jenkins吗？有没有用过？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1143)
-
-- 140 days (2019.09.03)  
-    - [html] [说说你对HTML5的keygen标签的理解，它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1144)
-    - [css] [CSS3中的transition是否可以过渡opacity和display？](https://github.com/haizlin/fe-interview/issues/1145) 
-    - [js] [说用原生js实现封装一个选项卡的功能](https://github.com/haizlin/fe-interview/issues/1146)
-    - [skill] [你会PHP、JAVA、Python或GO吗？都有做过哪些应用呢？](https://github.com/haizlin/fe-interview/issues/1147)
-
 - 141 days (2019.09.04)  
     - [html] [form标签定义请求类型和请求地址分别是哪个属性？](https://github.com/haizlin/fe-interview/issues/1148)
     - [css] [说说你对字母"X"在CSS中有什么作用？](https://github.com/haizlin/fe-interview/issues/1149) 
     - [js] [写一个洗扑克牌的方法](https://github.com/haizlin/fe-interview/issues/1150)
     - [skill] [你觉得你上家公司的前端开发流程有什么地方要优化的吗？怎么优化呢？](https://github.com/haizlin/fe-interview/issues/1151)
+
+- 142 days (2019.09.05)
+    - [html][如何实现应用缓存？说说你对manifest的理解](https://github.com/haizlin/fe-interview/issues/1152)
+    - [css][word-wrap、word-break和white-space有什么区别？](https://github.com/haizlin/fe-interview/issues/1153)
+    - [js][请描述下函数的执行过程](https://github.com/haizlin/fe-interview/issues/1154)
+    - [skill][在选择框架时应该考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/1155)
 
 - **[All](category/history.md)**
 
