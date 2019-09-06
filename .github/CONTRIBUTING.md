@@ -13,34 +13,42 @@
 
 - Issue的描述里请使用Markdown格式，注意有代码的时候请使用代码块。
 
-- 每日的3+1题目每天只能出一次（最好是每天5点左右发布，如果做不到，可以只提交README，由我来发布）。
+## 3+1题目规范
 
-- 发题的顺序为：html->css->javascript->软技能。
+1. 打开[3+1 题目列表](https://github.com/haizlin/fe-interview/raw/master/contribution/3+1.md)
 
-- 类库的题目每天每类最多可以出10个（如：vue、react等）。
+2. 在'---'下面按照md规则填写题目，3+1的题有且只有4道题，分别是html/css/js/软技能
 
-## README 规范
+3. 第一行按照格式填写作者的github名及链接
 
-1. 更改今天的[题目](https://github.com/haizlin/fe-interview)，共4处（标红3处，外加链接，链接是有规律可循的。如下图：
-![第1处](https://github.com/haizlin/fe-interview/raw/master/resource/images/days.png)
+4. 如下图如示：
+![第1处](https://github.com/haizlin/fe-interview/raw/master/resource/images/contribution3+1.png)
 
-2. 更改首页历史的[题目](https://github.com/haizlin/fe-interview)，删除前一天，添加当天。如下图：
-![第1处](https://github.com/haizlin/fe-interview/raw/master/resource/images/history.png)
+## 其它分类题目规范
 
-3. 更改历史页的[题目](https://github.com/haizlin/fe-interview/blob/master/category/history.md)，添加当天的题目。
+1. 打开[分类的题目列表](https://github.com/haizlin/fe-interview/issues/1000)
+
+2. 找到要添加的对应分类文件，在最前面的地方添加题目名称即可
+
+3. 分类的题每次不能少于10个
+
+4. 第一行按照格式填写作者的github名及链接
 
 ## Pull Request 规范
 - 请先 fork 一份到自己的项目下，不要直接在仓库下建分支。
 
-- 每日3+1的commit 信息要以`天数 days` 的形式填写，例如 `100 days`。
+- 每日3+1的commit 信息要以如下 `add 3+1 questions`。
 
-- 类库的commit 信息要以`add vue's questions` 的形式填写。
+- 类库的commit 信息要以`add vue questions` 的形式填写。
 
 - 提交 PR 前请 rebase，确保 commit 记录的整洁。
 
 - 确保 PR 是提交到 `master` 分支，目前就只有一个分支。
 
 - 合并需要 review 通过后即可合并。
+
+## 感谢
+提交PR贡献的朋友将会在首页显示个人头像及github的链接，表示感谢！
 
 ## 温馨提示
 - 不能原样照抄网上的面试题！！！
