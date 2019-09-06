@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.09.06) —— 第143天（感谢：Konata9 提供的题目）
-- [html] [请说说`<pre>`和`<code>`标签的区别？](https://github.com/haizlin/fe-interview/issues/1157)
-- [css] [如何自定义radio按钮的样式](https://github.com/haizlin/fe-interview/issues/1158)
-- [js] [自己实现数组的 `map`、`filter`、`find` 方法](https://github.com/haizlin/fe-interview/issues/1159)
-- [软技能] [你有自己的博客吗？维护的频率是多久呢？](https://github.com/haizlin/fe-interview/issues/1160)
+## 今天的知识点 (2019.09.07) —— 第144天
+- [html] [SGML（标准通用标记语言）和HTML（超文本标记语言），XML（可扩展标记语言）和HTML的之间有什么关系？](https://github.com/haizlin/fe-interview/issues/1161)
+- [css] [说下你对background-size的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1162)
+- [js] [什么是词法分析？请描述下js词法分析的过程？](https://github.com/haizlin/fe-interview/issues/1163)
+- [软技能] [W3C是什么？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1164)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第141天 (2019.09.04)  
-    - [html] [form标签定义请求类型和请求地址分别是哪个属性？](https://github.com/haizlin/fe-interview/issues/1148)
-    - [css] [说说你对字母"X"在CSS中有什么作用？](https://github.com/haizlin/fe-interview/issues/1149) 
-    - [js] [写一个洗扑克牌的方法](https://github.com/haizlin/fe-interview/issues/1150)
-    - [软技能] [你觉得你上家公司的前端开发流程有什么地方要优化的吗？怎么优化呢？](https://github.com/haizlin/fe-interview/issues/1151)
-
 - 第 142 天 (2019.09.05)
     - [html][如何实现应用缓存？说说你对manifest的理解](https://github.com/haizlin/fe-interview/issues/1152)
     - [css][word-wrap、word-break和white-space有什么区别？](https://github.com/haizlin/fe-interview/issues/1153)
     - [js][请描述下函数的执行过程](https://github.com/haizlin/fe-interview/issues/1154)
     - [软技能][在选择框架时应该考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/1155)
+
+- 第 143 天 (2019.09.06)
+    - [html] [请说说`<pre>`和`<code>`标签的区别？](https://github.com/haizlin/fe-interview/issues/1157)
+    - [css] [如何自定义radio按钮的样式](https://github.com/haizlin/fe-interview/issues/1158)
+    - [js] [自己实现数组的 `map`、`filter`、`find` 方法](https://github.com/haizlin/fe-interview/issues/1159)
+    - [软技能] [你有自己的博客吗？维护的频率是多久呢？](https://github.com/haizlin/fe-interview/issues/1160)
 
 - **[查看全部](category/history.md)**
 

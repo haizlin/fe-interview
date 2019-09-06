@@ -1,11 +1,17 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第 143 天 (2019.09.06)
+    - [html] [请说说`<pre>`和`<code>`标签的区别？](https://github.com/haizlin/fe-interview/issues/1157)
+    - [css] [如何自定义radio按钮的样式](https://github.com/haizlin/fe-interview/issues/1158)
+    - [js] [自己实现数组的 `map`、`filter`、`find` 方法](https://github.com/haizlin/fe-interview/issues/1159)
+    - [软技能] [你有自己的博客吗？维护的频率是多久呢？](https://github.com/haizlin/fe-interview/issues/1160)
+
 - 第142天 (2019.09.05)
-    - [html][如何实现应用缓存？说说你对manifest的理解](https://github.com/haizlin/fe-interview/issues/1152)
-    - [css][word-wrap、word-break和white-space有什么区别？](https://github.com/haizlin/fe-interview/issues/1153)
-    - [js][请描述下函数的执行过程](https://github.com/haizlin/fe-interview/issues/1154)
-    - [软技能][在选择框架时应该考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/1155)
+    - [html] [如何实现应用缓存？说说你对manifest的理解](https://github.com/haizlin/fe-interview/issues/1152)
+    - [css] [word-wrap、word-break和white-space有什么区别？](https://github.com/haizlin/fe-interview/issues/1153)
+    - [js] [请描述下函数的执行过程](https://github.com/haizlin/fe-interview/issues/1154)
+    - [软技能] [在选择框架时应该考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/1155)
 
 - 第141天 (2019.09.04)  
     - [html] [form标签定义请求类型和请求地址分别是哪个属性？](https://github.com/haizlin/fe-interview/issues/1148)
