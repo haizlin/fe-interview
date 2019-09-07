@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.09.07) —— 144 days
-- [html] [SGML（标准通用标记语言）和HTML（超文本标记语言），XML（可扩展标记语言）和HTML的之间有什么关系？](https://github.com/haizlin/fe-interview/issues/1161)
-- [css] [说下你对background-size的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1162)
-- [js] [什么是词法分析？请描述下js词法分析的过程？](https://github.com/haizlin/fe-interview/issues/1163)
-- [skill] [W3C是什么？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1164)
+## Today's Knowledge Points (2019.09.08) —— 145 days
+- [html] [说说你对表单属性type="hidden"的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1165)
+- [css] [css怎样使每个字符宽度一样？](https://github.com/haizlin/fe-interview/issues/1166)
+- [js] [原生Math的方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1167)
+- [skill] [为什么提倡利用多个域名来存储网站的资源？](https://github.com/haizlin/fe-interview/issues/1168)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 142 days (2019.09.05)
-    - [html][如何实现应用缓存？说说你对manifest的理解](https://github.com/haizlin/fe-interview/issues/1152)
-    - [css][word-wrap、word-break和white-space有什么区别？](https://github.com/haizlin/fe-interview/issues/1153)
-    - [js][请描述下函数的执行过程](https://github.com/haizlin/fe-interview/issues/1154)
-    - [skill][在选择框架时应该考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/1155)
-
 - 143 days (2019.09.06)
     - [html] [请说说`<pre>`和`<code>`标签的区别？](https://github.com/haizlin/fe-interview/issues/1157)
     - [css] [如何自定义radio按钮的样式](https://github.com/haizlin/fe-interview/issues/1158)
     - [js] [自己实现数组的 `map`、`filter`、`find` 方法](https://github.com/haizlin/fe-interview/issues/1159)
     - [skill] [你有自己的博客吗？维护的频率是多久呢？](https://github.com/haizlin/fe-interview/issues/1160)
+
+- 144 days (2019.09.07)
+    - [html] [SGML（标准通用标记语言）和HTML（超文本标记语言），XML（可扩展标记语言）和HTML的之间有什么关系？](https://github.com/haizlin/fe-interview/issues/1161)
+    - [css] [说下你对background-size的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1162)
+    - [js] [什么是词法分析？请描述下js词法分析的过程？](https://github.com/haizlin/fe-interview/issues/1163)
+    - [skill] [W3C是什么？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1164)
 
 - **[All](category/history.md)**
 

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.01
+> 最新：2019.09.08
 
+- [说说你对表单属性type="hidden"的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1165)
+- [SGML（标准通用标记语言）和HTML（超文本标记语言），XML（可扩展标记语言）和HTML的之间有什么关系？](https://github.com/haizlin/fe-interview/issues/1161)
+- [请说说`<pre>`和`<code>`标签的区别？](https://github.com/haizlin/fe-interview/issues/1157)
+- [如何实现应用缓存？说说你对manifest的理解](https://github.com/haizlin/fe-interview/issues/1152)
+- [form标签定义请求类型和请求地址分别是哪个属性？](https://github.com/haizlin/fe-interview/issues/1148)
+- [说说你对HTML5的keygen标签的理解，它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1144)
+- [如何让textarea标签中的内容原格式输出？](https://github.com/haizlin/fe-interview/issues/1140)
 - [请说说应用缓存中的回退和网络分别是什么？](https://github.com/haizlin/fe-interview/issues/1136)
 - [如何让textarea高度自适应呢？](https://github.com/haizlin/fe-interview/issues/1132)
 - [HTML5的服务器(server-sent event)发送事件有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1128)

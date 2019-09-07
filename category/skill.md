@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.01
+> 最新：2019.09.08
 
+- [为什么提倡利用多个域名来存储网站的资源？](https://github.com/haizlin/fe-interview/issues/1168)
+- [W3C是什么？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1164)
+- [你有自己的博客吗？维护的频率是多久呢？](https://github.com/haizlin/fe-interview/issues/1160)
+- [在选择框架时应该考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/1155)
+- [你觉得你上家公司的前端开发流程有什么地方要优化的吗？怎么优化呢？](https://github.com/haizlin/fe-interview/issues/1151)
+- [你会PHP、JAVA、Python或GO吗？都有做过哪些应用呢？](https://github.com/haizlin/fe-interview/issues/1147)
+- [你知道Jenkins吗？有没有用过？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1143)
 - [你期望的薪资是多少呢？](https://github.com/haizlin/fe-interview/issues/1139)
 - [你有玩过Docker吗？你知道它有哪些运用场景吗？](https://github.com/haizlin/fe-interview/issues/1135)
 - [你知道什么是微格式(microformat)吗？说说你的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1131)

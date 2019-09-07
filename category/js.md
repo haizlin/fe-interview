@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.01
+> 最新：2019.09.08
 
+- [原生Math的方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1167)
+- [什么是词法分析？请描述下js词法分析的过程？](https://github.com/haizlin/fe-interview/issues/1163)
+- [自己实现数组的 `map`、`filter`、`find` 方法](https://github.com/haizlin/fe-interview/issues/1159)
+- [请描述下函数的执行过程](https://github.com/haizlin/fe-interview/issues/1154)
+- [写一个洗扑克牌的方法](https://github.com/haizlin/fe-interview/issues/1150)
+- [说用原生js实现封装一个选项卡的功能](https://github.com/haizlin/fe-interview/issues/1146)
+- [说下你对柯里化函数(currying)的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1142)
 - [请描述下ajax的请求都有哪些步骤？](https://github.com/haizlin/fe-interview/issues/1138)
 - [用js实现页面局部打印和预览原理是什么呢？同时在IE上有什么不同？](https://github.com/haizlin/fe-interview/issues/1134)
 - [用js实现小写金额转大写的方法](https://github.com/haizlin/fe-interview/issues/1130)
