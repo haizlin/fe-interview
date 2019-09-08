@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第145天 (2019.09.08)
+    - [html] [说说你对表单属性type="hidden"的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1165)
+    - [css] [css怎样使每个字符宽度一样？](https://github.com/haizlin/fe-interview/issues/1166)
+    - [js] [原生Math的方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1167)
+    - [软技能] [为什么提倡利用多个域名来存储网站的资源？](https://github.com/haizlin/fe-interview/issues/1168)
+
 - 第144天 (2019.09.07)
     - [html] [SGML（标准通用标记语言）和HTML（超文本标记语言），XML（可扩展标记语言）和HTML的之间有什么关系？](https://github.com/haizlin/fe-interview/issues/1161)
     - [css] [说下你对background-size的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1162)
@@ -28,7 +34,7 @@
 - 第140天 (2019.09.03)  
     - [html] [说说你对HTML5的keygen标签的理解，它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1144)
     - [css] [CSS3中的transition是否可以过渡opacity和display？](https://github.com/haizlin/fe-interview/issues/1145) 
-    - [js] [说用原生js实现封装一个选项卡的功能](https://github.com/haizlin/fe-interview/issues/1146)
+    - [js] [说说用原生js实现封装一个选项卡的功能](https://github.com/haizlin/fe-interview/issues/1146)
     - [软技能] [你会PHP、JAVA、Python或GO吗？都有做过哪些应用呢？](https://github.com/haizlin/fe-interview/issues/1147)
 
 - 第139天 (2019.09.02)  
