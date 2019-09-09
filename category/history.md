@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第146天 (2019.09.09)
+    - [html] [请说说viewport是什么？在什么时候下使用？有什么作用？](https://github.com/haizlin/fe-interview/issues/1169)
+    - [css] [移动页面底部工具条有3个图标，如何平分？在设置边框后最后一个图标掉下去了怎么办？](https://github.com/haizlin/fe-interview/issues/1170)
+    - [js] [请举例说明动态操作DOM的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1171)
+    - [软技能] [移动端的用户体验有哪些优化的方法？](https://github.com/haizlin/fe-interview/issues/1172)
+
 - 第145天 (2019.09.08)
     - [html] [说说你对表单属性type="hidden"的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1165)
     - [css] [css怎样使每个字符宽度一样？](https://github.com/haizlin/fe-interview/issues/1166)

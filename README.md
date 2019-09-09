@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.09.09) —— 第146天
-- [html] [请说说viewport是什么？在什么时候下使用？有什么作用？](https://github.com/haizlin/fe-interview/issues/1169)
-- [css] [移动页面底部工具条有3个图标，如何平分？在设置边框后最后一个图标掉下去了怎么办？](https://github.com/haizlin/fe-interview/issues/1170)
-- [js] [请举例说明动态操作DOM的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1171)
-- [软技能] [移动端的用户体验有哪些优化的方法？](https://github.com/haizlin/fe-interview/issues/1172)
+## 今天的知识点 (2019.09.10) —— 第147天
+- [html] [本地存储的生命周期是什么？](https://github.com/haizlin/fe-interview/issues/1174)
+- [css] [请问background-attachmentn属性有什么用途？](https://github.com/haizlin/fe-interview/issues/1175)
+- [js] [阻止事件的默认行为有哪些？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1176)
+- [软技能] [前端的性能统计有哪些指标？](https://github.com/haizlin/fe-interview/issues/1177)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第144天 (2019.09.07)
-    - [html] [SGML（标准通用标记语言）和HTML（超文本标记语言），XML（可扩展标记语言）和HTML的之间有什么关系？](https://github.com/haizlin/fe-interview/issues/1161)
-    - [css] [说下你对background-size的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1162)
-    - [js] [什么是词法分析？请描述下js词法分析的过程？](https://github.com/haizlin/fe-interview/issues/1163)
-    - [软技能] [W3C是什么？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1164)
-
 - 第145天 (2019.09.08)
     - [html] [说说你对表单属性type="hidden"的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1165)
     - [css] [css怎样使每个字符宽度一样？](https://github.com/haizlin/fe-interview/issues/1166)
     - [js] [原生Math的方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1167)
     - [软技能] [为什么提倡利用多个域名来存储网站的资源？](https://github.com/haizlin/fe-interview/issues/1168)
+
+- 第146天 (2019.09.09)
+    - [html] [请说说viewport是什么？在什么时候下使用？有什么作用？](https://github.com/haizlin/fe-interview/issues/1169)
+    - [css] [移动页面底部工具条有3个图标，如何平分？在设置边框后最后一个图标掉下去了怎么办？](https://github.com/haizlin/fe-interview/issues/1170)
+    - [js] [请举例说明动态操作DOM的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1171)
+    - [软技能] [移动端的用户体验有哪些优化的方法？](https://github.com/haizlin/fe-interview/issues/1172)
 
 - **[查看全部](category/history.md)**
 
