@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第147天 (2019.09.10)
+    - [html] [本地存储的生命周期是什么？](https://github.com/haizlin/fe-interview/issues/1174)
+    - [css] [请问background-attachmentn属性有什么用途？](https://github.com/haizlin/fe-interview/issues/1175)
+    - [js] [阻止事件的默认行为有哪些？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1176)
+    - [软技能] [前端的性能统计有哪些指标？](https://github.com/haizlin/fe-interview/issues/1177)
+
 - 第146天 (2019.09.09)
     - [html] [请说说viewport是什么？在什么时候下使用？有什么作用？](https://github.com/haizlin/fe-interview/issues/1169)
     - [css] [移动页面底部工具条有3个图标，如何平分？在设置边框后最后一个图标掉下去了怎么办？](https://github.com/haizlin/fe-interview/issues/1170)
