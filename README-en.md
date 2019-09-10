@@ -36,10 +36,10 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 ## Today's Knowledge Points (2019.09.11) —— 148 days
-- [html] [本地存储的生命周期是什么？](https://github.com/haizlin/fe-interview/issues/1174)
-- [css] [请问background-attachmentn属性有什么用途？](https://github.com/haizlin/fe-interview/issues/1175)
-- [js] [阻止事件的默认行为有哪些？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1176)
-- [skill] [前端的性能统计有哪些指标？](https://github.com/haizlin/fe-interview/issues/1177)
+- [html] [input的onblur和onchange事件区别是什么？](https://github.com/haizlin/fe-interview/issues/1178)
+- [css] [什么是脱离文档流？有什么办法可以让元素脱离标准的文档流？](https://github.com/haizlin/fe-interview/issues/1179)
+- [js] [请使用原生的js实现斐波那契数列](https://github.com/haizlin/fe-interview/issues/1180)
+- [skill] [你知道什么是AST吗？说说你对AST的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1181)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
