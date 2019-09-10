@@ -187,7 +187,7 @@
 * [Nodejs技术栈](https://www.nodejs.red)（公众号「Nodejs技术栈」作者五月君，本文档是作者从事 Node.js Developer 以来的学习历程，旨在为大家提供一个较详细的学习教程，侧重点更倾向于 Node.js 服务端所涉及的技术栈。）
 * [SHERlocked93](https://github.com/SHERlocked93/blog) （公众号 「前端下午茶」作者，分享前端精选文章，和大家一起成长）
 * [lucifer](https://github.com/azl397985856/fe-interview) （公众号 「脑洞前端」作者，宇宙最强的前端面试指南）
-* [_frank](https://mp.weixin.qq.com/s/K3yG4eyuQvZxXIU9jas8kA) （公众号 「前端迷」作者，定期分析源码解析，面试经历以及前端技术）
+* [_frank](https://mp.weixin.qq.com/s/K3yG4eyuQvZxXIU9jas8kA) （公众号 「前端迷」作者，定期分享源码解析，面试经历以及前端技术）
 * [若川](https://github.com/lxchuan12/blog) （公众号 「若川视野」作者，freeCodeCamp杭州社区组织者之一）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
 * [刘小夕](https://github.com/YvetteLau/Step-By-Step)（公众号「前端宇宙」作者刘小夕，我将和大家一起一步一个脚印，向前端专家迈进。）
