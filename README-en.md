@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.09.12) —— 149 days
-- [html] [怎样把整个页面中的内容设置成只读，不可编辑的状态？](https://github.com/haizlin/fe-interview/issues/1182)
-- [css] [说说响应式设计(responsive design)和自适应设计(adaptive design)的区别？](https://github.com/haizlin/fe-interview/issues/1183)
-- [js] [使用js实现摩斯密码的加密和解密](https://github.com/haizlin/fe-interview/issues/1184)
-- [skill] [说说你对矢量图和位图的理解，它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1185)
+## Today's Knowledge Points (2019.09.13) —— 150 days
+- [html] [HTML5如何使某个页面元素或整个页面可编辑？](https://github.com/haizlin/fe-interview/issues/1197)
+- [css] [请说说在什么时候用transition？什么时候使用animation？](https://github.com/haizlin/fe-interview/issues/1198)
+- [js] [为什么说js是单线程，而不是多线程呢？](https://github.com/haizlin/fe-interview/issues/1199)
+- [skill] [说说你对堆和栈的理解，它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1200)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 147 days (2019.09.10)
-    - [html] [本地存储的生命周期是什么？](https://github.com/haizlin/fe-interview/issues/1174)
-    - [css] [请问background-attachmentn属性有什么用途？](https://github.com/haizlin/fe-interview/issues/1175)
-    - [js] [阻止事件的默认行为有哪些？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1176)
-    - [skill] [前端的性能统计有哪些指标？](https://github.com/haizlin/fe-interview/issues/1177)
-
 - 148 days (2019.09.11)
     - [html] [input的onblur和onchange事件区别是什么？](https://github.com/haizlin/fe-interview/issues/1178)
     - [css] [什么是脱离文档流？有什么办法可以让元素脱离标准的文档流？](https://github.com/haizlin/fe-interview/issues/1179)
     - [js] [请使用原生的js实现斐波那契数列](https://github.com/haizlin/fe-interview/issues/1180)
     - [skill] [你知道什么是AST吗？说说你对AST的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1181)
+
+- 149 days (2019.09.12)
+    - [html] [怎样把整个页面中的内容设置成只读，不可编辑的状态？](https://github.com/haizlin/fe-interview/issues/1182)
+    - [css] [说说响应式设计(responsive design)和自适应设计(adaptive design)的区别？](https://github.com/haizlin/fe-interview/issues/1183)
+    - [js] [使用js实现摩斯密码的加密和解密](https://github.com/haizlin/fe-interview/issues/1184)
+    - [skill] [说说你对矢量图和位图的理解，它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1185)
 
 - **[All](category/history.md)**
 
@@ -159,6 +159,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.08.18 — 第124天，受到俄罗斯老外的关注并吐槽了一下，原因估计是他看不懂中文吧，虽然也有英文版本，但那英文及排版有望改进。
 - 2019.08.19 — 第125天，本项目又再一次上了github的热门榜，距离上次刚好是50天（在第75天的时候），能帮助到更多的朋友，那就只有坚持吧！
 - 2019.08.21 — 第127天，star数突破5000，github上搜索“前端面试”，按star排行，成功挺进前5，这是6月25日定的小目标，提前完成，继续坚持吧，不忘初心，利他利己，足矣。
+- 2019.09.13 — 今天是更新的第150天，刚好中秋节，农历十五中秋节，是一种巧合，意味着团团圆圆！祝所有朋友幸福健康！
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）

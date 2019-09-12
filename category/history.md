@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第149天 (2019.09.12)
+    - [html] [怎样把整个页面中的内容设置成只读，不可编辑的状态？](https://github.com/haizlin/fe-interview/issues/1182)
+    - [css] [说说响应式设计(responsive design)和自适应设计(adaptive design)的区别？](https://github.com/haizlin/fe-interview/issues/1183)
+    - [js] [使用js实现摩斯密码的加密和解密](https://github.com/haizlin/fe-interview/issues/1184)
+    - [软技能] [说说你对矢量图和位图的理解，它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1185)
+
 - 第148天 (2019.09.11)
     - [html] [input的onblur和onchange事件区别是什么？](https://github.com/haizlin/fe-interview/issues/1178)
     - [css] [什么是脱离文档流？有什么办法可以让元素脱离标准的文档流？](https://github.com/haizlin/fe-interview/issues/1179)
