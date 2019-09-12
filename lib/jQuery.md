@@ -7,7 +7,9 @@
 
 ### 知识点
 
-- [你知道js和jQuery是什么关系吗？]()
+- [jQuery是如何链式调用的？]()
+- [说说看jQuery的选择器有哪些？]()
+- [你有写过jQuery的扩展吗？都有哪些写法？]()
 - [jQuery.fn的init方法返回的this指的是什么对象？为什么要返回this？]()
 - [jQuery 的属性拷贝(extend)的实现原理是什么，如何实现深拷贝？]()
 - [jquery.extend 与 jquery.fn.extend的区别？]()
@@ -15,20 +17,21 @@
 - [谈一下Jquery中的bind(),live(),delegate(),on()的区别？]()
 - [JQuery一个对象可以同时绑定多个事件，这是如何实现的？]()
 - [你知道自定义事件吗？jQuery里的fire函数是什么意思，什么时候用？]()
-- [jQuery 是通过哪个方法和 Sizzle 选择器结合的？（jQuery.fn.find()进入Sizzle）]()
-- [针对 jQuery性能的优化方法有哪些？]()
-- [Jquery与jQuery UI有啥区别？]()
-- [jquery 中如何将数组转化为json字符串，然后再转化回来？]()
-- [jQuery和Zepto的区别？各自的使用场景？]()
-- [针对 jQuery 的优化方法？]()
-- [Zepto的点透问题如何解决？]()
-- [jQueryUI如何自定义组件？]()
+- [你知道js和jQuery是什么关系吗？](https://github.com/haizlin/fe-interview/issues/1196)
+- [jQuery是通过哪个方法和Sizzle选择器结合的？](https://github.com/haizlin/fe-interview/issues/1195)
+- [针对jQuery性能的优化方法有哪些？](https://github.com/haizlin/fe-interview/issues/1194)
+- [jQuery与jQuery UI有啥区别？](https://github.com/haizlin/fe-interview/issues/1193)
+- [jQuery中如何将数组转化为json字符串，然后再转化回来？](https://github.com/haizlin/fe-interview/issues/1192)
+- [jQuery和Zepto的区别？各自的使用场景？](https://github.com/haizlin/fe-interview/issues/1191)
+- [针对jQuery的优化方法有哪些？](https://github.com/haizlin/fe-interview/issues/1190)
+- [Zepto的点透问题如何解决？](https://github.com/haizlin/fe-interview/issues/1189)
+- [jQuery UI怎样自定义组件？](https://github.com/haizlin/fe-interview/issues/1188)
 - [jQuery 的 slideUp动画 ，如果目标元素是被外部事件驱动, 当鼠标快速地连续触发外部元素事件, 动画会滞后的反复执行，该如何处理呢?]()
-- [JQuery一个对象可以同时绑定多个事件，这是如何实现的？]()
+- [JQuery一个对象可以同时绑定多个事件，这是如何实现的？](https://github.com/haizlin/fe-interview/issues/1186)
 
 
 ### 源码
-- [你有看过JQuery的源码吗？说下它的实现原理是什么？]()
+- [你有看过JQuery的源码吗？说下它的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/163)
 
 ### 扩展
 
