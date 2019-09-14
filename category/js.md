@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.08
+> 最新：2019.09.15
 
+- [说说CORS为何要区分预检请求和简单请求呢？](https://github.com/haizlin/fe-interview/issues/1207)
+- [实现异步编程有哪些方式？推荐用哪种？](https://github.com/haizlin/fe-interview/issues/1203)
+- [为什么说js是单线程，而不是多线程呢？](https://github.com/haizlin/fe-interview/issues/1199)
+- [使用js实现摩斯密码的加密和解密](https://github.com/haizlin/fe-interview/issues/1184)
+- [请使用原生的js实现斐波那契数列](https://github.com/haizlin/fe-interview/issues/1180)
+- [阻止事件的默认行为有哪些？说说它们之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/1176)
+- [请举例说明动态操作DOM的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1171)
 - [原生Math的方法有哪些？请列举并描述其功能](https://github.com/haizlin/fe-interview/issues/1167)
 - [什么是词法分析？请描述下js词法分析的过程？](https://github.com/haizlin/fe-interview/issues/1163)
 - [自己实现数组的 `map`、`filter`、`find` 方法](https://github.com/haizlin/fe-interview/issues/1159)

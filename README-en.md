@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.09.14) —— 151 days
-- [html] [HTML5如何使某个页面元素或整个页面可编辑？](https://github.com/haizlin/fe-interview/issues/1197)
-- [css] [请说说在什么时候用transition？什么时候使用animation？](https://github.com/haizlin/fe-interview/issues/1198)
-- [js] [为什么说js是单线程，而不是多线程呢？](https://github.com/haizlin/fe-interview/issues/1199)
-- [skill] [说说你对堆和栈的理解，它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1200)
+## Today's Knowledge Points (2019.09.15) —— 152 days
+- [html] [说说你对small标签的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1205)
+- [css] [如何使用CSS的多列布局？](https://github.com/haizlin/fe-interview/issues/1206)
+- [js] [说说CORS为何要区分预检请求和简单请求呢？](https://github.com/haizlin/fe-interview/issues/1207)
+- [skill] [内存和缓存有什么区别？](https://github.com/haizlin/fe-interview/issues/1208)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 149 days (2019.09.12)
-    - [html] [怎样把整个页面中的内容设置成只读，不可编辑的状态？](https://github.com/haizlin/fe-interview/issues/1182)
-    - [css] [说说响应式设计(responsive design)和自适应设计(adaptive design)的区别？](https://github.com/haizlin/fe-interview/issues/1183)
-    - [js] [使用js实现摩斯密码的加密和解密](https://github.com/haizlin/fe-interview/issues/1184)
-    - [skill] [说说你对矢量图和位图的理解，它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1185)
-
 - 150 days (2019.09.13)
     - [html] [HTML5如何使某个页面元素或整个页面可编辑？](https://github.com/haizlin/fe-interview/issues/1197)
     - [css] [请说说在什么时候用transition？什么时候使用animation？](https://github.com/haizlin/fe-interview/issues/1198)
     - [js] [为什么说js是单线程，而不是多线程呢？](https://github.com/haizlin/fe-interview/issues/1199)
     - [skill] [说说你对堆和栈的理解，它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1200)
+
+- 151 days (2019.09.14)
+    - [html] [举例说明如何在页面中添加数学公式？](https://github.com/haizlin/fe-interview/issues/1201)
+    - [css] [请说说CSS3实现文本效果的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1202)
+    - [js] [实现异步编程有哪些方式？推荐用哪种？](https://github.com/haizlin/fe-interview/issues/1203)
+    - [skill] [客户投诉说网站有些功能用不了，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1204)
 
 - **[All](category/history.md)**
 

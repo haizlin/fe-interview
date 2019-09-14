@@ -2,8 +2,14 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.08
+> 最新：2019.09.15
 
+- [说说你对small标签的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1205)
+- [举例说明如何在页面中添加数学公式？](https://github.com/haizlin/fe-interview/issues/1201)
+- [怎样把整个页面中的内容设置成只读，不可编辑的状态？](https://github.com/haizlin/fe-interview/issues/1182)
+- [input的onblur和onchange事件区别是什么？](https://github.com/haizlin/fe-interview/issues/1178)
+- [本地存储的生命周期是什么？](https://github.com/haizlin/fe-interview/issues/1174)
+- [请说说viewport是什么？在什么时候下使用？有什么作用？](https://github.com/haizlin/fe-interview/issues/1169)
 - [说说你对表单属性type="hidden"的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1165)
 - [SGML（标准通用标记语言）和HTML（超文本标记语言），XML（可扩展标记语言）和HTML的之间有什么关系？](https://github.com/haizlin/fe-interview/issues/1161)
 - [请说说`<pre>`和`<code>`标签的区别？](https://github.com/haizlin/fe-interview/issues/1157)

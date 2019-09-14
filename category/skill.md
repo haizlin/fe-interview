@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.08
+> 最新：2019.09.15
 
+- [内存和缓存有什么区别？](https://github.com/haizlin/fe-interview/issues/1208)
+- [客户投诉说网站有些功能用不了，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1204)
+- [说说你对堆和栈的理解，它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1200)
+- [说说你对矢量图和位图的理解，它们分别有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1185)
+- [你知道什么是AST吗？说说你对AST的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1181)
+- [前端的性能统计有哪些指标？](https://github.com/haizlin/fe-interview/issues/1177)
+- [移动端的用户体验有哪些优化的方法？](https://github.com/haizlin/fe-interview/issues/1172)
 - [为什么提倡利用多个域名来存储网站的资源？](https://github.com/haizlin/fe-interview/issues/1168)
 - [W3C是什么？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1164)
 - [你有自己的博客吗？维护的频率是多久呢？](https://github.com/haizlin/fe-interview/issues/1160)

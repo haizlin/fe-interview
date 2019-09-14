@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第151天 (2019.09.14)
+    - [html] [举例说明如何在页面中添加数学公式？](https://github.com/haizlin/fe-interview/issues/1201)
+    - [css] [请说说CSS3实现文本效果的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1202)
+    - [js] [实现异步编程有哪些方式？推荐用哪种？](https://github.com/haizlin/fe-interview/issues/1203)
+    - [软技能] [客户投诉说网站有些功能用不了，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1204)
+
 - 第150天 (2019.09.13)
     - [html] [HTML5如何使某个页面元素或整个页面可编辑？](https://github.com/haizlin/fe-interview/issues/1197)
     - [css] [请说说在什么时候用transition？什么时候使用animation？](https://github.com/haizlin/fe-interview/issues/1198)

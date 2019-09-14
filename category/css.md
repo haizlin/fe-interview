@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.08
+> 最新：2019.09.15
 
+- [如何使用CSS的多列布局？](https://github.com/haizlin/fe-interview/issues/1206)
+- [请说说CSS3实现文本效果的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1202)
+- [请说说在什么时候用transition？什么时候使用animation？](https://github.com/haizlin/fe-interview/issues/1198)
+- [说说响应式设计(responsive design)和自适应设计(adaptive design)的区别？](https://github.com/haizlin/fe-interview/issues/1183)
+- [什么是脱离文档流？有什么办法可以让元素脱离标准的文档流？](https://github.com/haizlin/fe-interview/issues/1179)
+- [请问background-attachmentn属性有什么用途？](https://github.com/haizlin/fe-interview/issues/1175)
+- [移动页面底部工具条有3个图标，如何平分？在设置边框后最后一个图标掉下去了怎么办？](https://github.com/haizlin/fe-interview/issues/1170)
 - [css怎样使每个字符宽度一样？](https://github.com/haizlin/fe-interview/issues/1166)
 - [说下你对background-size的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/1162)
 - [如何自定义radio按钮的样式](https://github.com/haizlin/fe-interview/issues/1158)
