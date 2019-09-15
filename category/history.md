@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第152天 (2019.09.15)
+    - [html] [说说你对small标签的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1205)
+    - [css] [如何使用CSS的多列布局？](https://github.com/haizlin/fe-interview/issues/1206)
+    - [js] [说说CORS为何要区分预检请求和简单请求呢？](https://github.com/haizlin/fe-interview/issues/1207)
+    - [软技能] [内存和缓存有什么区别？](https://github.com/haizlin/fe-interview/issues/1208)
+
 - 第151天 (2019.09.14)
     - [html] [举例说明如何在页面中添加数学公式？](https://github.com/haizlin/fe-interview/issues/1201)
     - [css] [请说说CSS3实现文本效果的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1202)

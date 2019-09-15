@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.09.15) —— 第152天
-- [html] [说说你对small标签的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1205)
-- [css] [如何使用CSS的多列布局？](https://github.com/haizlin/fe-interview/issues/1206)
-- [js] [说说CORS为何要区分预检请求和简单请求呢？](https://github.com/haizlin/fe-interview/issues/1207)
-- [软技能] [内存和缓存有什么区别？](https://github.com/haizlin/fe-interview/issues/1208)
+## 今天的知识点 (2019.09.16) —— 第153天
+- [html] [使用标签怎样对一个单词标志缩写呢？](https://github.com/haizlin/fe-interview/issues/1209)
+- [css] [举例说明在css3中怎么实现背景裁剪？](https://github.com/haizlin/fe-interview/issues/1210)
+- [js] [你知道1和Number(1)的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1211)
+- [软技能] [你有使用过FTP吗？你知道FTP它的作用是什么吗？](https://github.com/haizlin/fe-interview/issues/1212)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第150天 (2019.09.13)
-    - [html] [HTML5如何使某个页面元素或整个页面可编辑？](https://github.com/haizlin/fe-interview/issues/1197)
-    - [css] [请说说在什么时候用transition？什么时候使用animation？](https://github.com/haizlin/fe-interview/issues/1198)
-    - [js] [为什么说js是单线程，而不是多线程呢？](https://github.com/haizlin/fe-interview/issues/1199)
-    - [软技能] [说说你对堆和栈的理解，它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1200)
-
 - 第151天 (2019.09.14)
     - [html] [举例说明如何在页面中添加数学公式？](https://github.com/haizlin/fe-interview/issues/1201)
     - [css] [请说说CSS3实现文本效果的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1202)
     - [js] [实现异步编程有哪些方式？推荐用哪种？](https://github.com/haizlin/fe-interview/issues/1203)
     - [软技能] [客户投诉说网站有些功能用不了，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1204)
+
+- 第152天 (2019.09.15)
+    - [html] [说说你对small标签的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1205)
+    - [css] [如何使用CSS的多列布局？](https://github.com/haizlin/fe-interview/issues/1206)
+    - [js] [说说CORS为何要区分预检请求和简单请求呢？](https://github.com/haizlin/fe-interview/issues/1207)
+    - [软技能] [内存和缓存有什么区别？](https://github.com/haizlin/fe-interview/issues/1208)
 
 - **[查看全部](category/history.md)**
 
