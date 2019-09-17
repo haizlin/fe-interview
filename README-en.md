@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.09.17) —— 154 days
-- [html] [不用h标签、css和js怎么实现多个字的字体连续放大的效果？](https://github.com/haizlin/fe-interview/issues/1213)
-- [css] [如何做图片预览，如何放大一个图片？](https://github.com/haizlin/fe-interview/issues/1214)
-- [js] [如何实现锁定网页、密码解锁的效果？说说你的方法和步骤是什么？](https://github.com/haizlin/fe-interview/issues/1215)
-- [skill] [请解释下你理解的并行和并发、同步和异步、阻塞和非阻塞之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1216)
+## Today's Knowledge Points (2019.09.18) —— 155 days
+- [html] [HTML5有哪些存储类型？它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1217)
+- [css] [如何写高效的CSS？](https://github.com/haizlin/fe-interview/issues/1218)
+- [js] [用js模拟实现微信抢红包的算法，并说明你的思路](https://github.com/haizlin/fe-interview/issues/1219)
+- [skill] [你有做过扫码枪的开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1220)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -87,6 +87,12 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     - [css] [举例说明在css3中怎么实现背景裁剪？](https://github.com/haizlin/fe-interview/issues/1210)
     - [js] [你知道1和Number(1)的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1211)
     - [skill] [你有使用过FTP吗？你知道FTP它的作用是什么吗？](https://github.com/haizlin/fe-interview/issues/1212)
+
+- 154 days (2019.09.17)
+    - [html] [不用h标签、css和js怎么实现多个字的字体连续放大的效果？](https://github.com/haizlin/fe-interview/issues/1213)
+    - [css] [如何做图片预览，如何放大一个图片？](https://github.com/haizlin/fe-interview/issues/1214)
+    - [js] [如何实现锁定网页、密码解锁的效果？说说你的方法和步骤是什么？](https://github.com/haizlin/fe-interview/issues/1215)
+    - [skill] [请解释下你理解的并行和并发、同步和异步、阻塞和非阻塞之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1216)
 
 - **[All](category/history.md)**
 

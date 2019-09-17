@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第154天 (2019.09.17)
+    - [html] [不用h标签、css和js怎么实现多个字的字体连续放大的效果？](https://github.com/haizlin/fe-interview/issues/1213)
+    - [css] [如何做图片预览，如何放大一个图片？](https://github.com/haizlin/fe-interview/issues/1214)
+    - [js] [如何实现锁定网页、密码解锁的效果？说说你的方法和步骤是什么？](https://github.com/haizlin/fe-interview/issues/1215)
+    - [软技能] [请解释下你理解的并行和并发、同步和异步、阻塞和非阻塞之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1216)
+
 - 第153天 (2019.09.16)
     - [html] [使用标签怎样对一个单词标志缩写呢？](https://github.com/haizlin/fe-interview/issues/1209)
     - [css] [举例说明在css3中怎么实现背景裁剪？](https://github.com/haizlin/fe-interview/issues/1210)
