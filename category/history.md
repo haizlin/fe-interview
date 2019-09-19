@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第156天 (2019.09.19)
+    - [html] [HTML5的video在有的移动端设备无法自动播放？怎么解决？](https://github.com/haizlin/fe-interview/issues/1221)
+    - [css] [css中的border:none和border:0px有什么区别？](https://github.com/haizlin/fe-interview/issues/1222)
+    - [js] [用原生JS封装插件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1223)
+    - [软技能] [如何让你做一个文件无刷新上传的功能，你有哪些方法可以做到？](https://github.com/haizlin/fe-interview/issues/1224)
+
 - 第155天 (2019.09.18)
     - [html] [HTML5有哪些存储类型？它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1217)
     - [css] [如何写高效的CSS？](https://github.com/haizlin/fe-interview/issues/1218)
