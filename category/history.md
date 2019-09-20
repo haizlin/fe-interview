@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第157天 (2019.09.20)
+    - [html] [你有用过bdo标签吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1225)
+    - [css] [外边距重叠是什么？重叠的结果是什么？怎么防止外边距重叠？](https://github.com/haizlin/fe-interview/issues/1226)
+    - [js] [举例说明js拖拽用到的事件有哪些？](https://github.com/haizlin/fe-interview/issues/1227)
+    - [软技能] [说说你们的项目上线流程是怎样的？](https://github.com/haizlin/fe-interview/issues/1228)
+
 - 第156天 (2019.09.19)
     - [html] [HTML5的video在有的移动端设备无法自动播放？怎么解决？](https://github.com/haizlin/fe-interview/issues/1221)
     - [css] [css中的border:none和border:0px有什么区别？](https://github.com/haizlin/fe-interview/issues/1222)
