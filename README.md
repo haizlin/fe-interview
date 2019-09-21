@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.09.21) —— 第158天
-- [html] [你有使用过figure标签吗？说说你对它的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1229)
-- [css] [你有用过弹性布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1230)
-- [js] [举例说明数组的排序方法有哪些？](https://github.com/haizlin/fe-interview/issues/1231)
-- [软技能] [你有做过PHP开发？说说你自己对“PHP是世界上最好的语言”这句话的理解](https://github.com/haizlin/fe-interview/issues/1232)
+## 今天的知识点 (2019.09.22) —— 第159天
+- [html] [举例说明如何使用纯html怎么实现下拉提示的功能？](https://github.com/haizlin/fe-interview/issues/1233)
+- [css] [用css怎么实现两端对齐？](https://github.com/haizlin/fe-interview/issues/1234)
+- [js] [在js中attribute和property的区别是什么？](https://github.com/haizlin/fe-interview/issues/1235)
+- [软技能] [你上家公司有写日报、周报或者月报吗？说说你对写日（周、月）这事的理解](https://github.com/haizlin/fe-interview/issues/1236)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,18 +74,18 @@
 
 …………  
 
-- 第156天 (2019.09.19)
-    - [html] [HTML5的video在有的移动端设备无法自动播放？怎么解决？](https://github.com/haizlin/fe-interview/issues/1221)
-    - [css] [css中的border:none和border:0px有什么区别？](https://github.com/haizlin/fe-interview/issues/1222)
-    - [js] [用原生JS封装插件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1223)
-    - [软技能] [如何让你做一个文件无刷新上传的功能，你有哪些方法可以做到？](https://github.com/haizlin/fe-interview/issues/1224)
-
 - 第157天 (2019.09.20)
     - [html] [你有用过bdo标签吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1225)
     - [css] [外边距重叠是什么？重叠的结果是什么？怎么防止外边距重叠？](https://github.com/haizlin/fe-interview/issues/1226)
     - [js] [举例说明js拖拽用到的事件有哪些？](https://github.com/haizlin/fe-interview/issues/1227)
     - [软技能] [说说你们的项目上线流程是怎样的？](https://github.com/haizlin/fe-interview/issues/1228)
 
+- 第158天 (2019.09.21)
+    - [html] [你有使用过figure标签吗？说说你对它的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1229)
+    - [css] [你有用过弹性布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1230)
+    - [js] [举例说明数组的排序方法有哪些？](https://github.com/haizlin/fe-interview/issues/1231)
+    - [软技能] [你有做过PHP开发？说说你自己对“PHP是世界上最好的语言”这句话的理解](https://github.com/haizlin/fe-interview/issues/1232)
+    
 - **[查看全部](category/history.md)**
 
 ## 怎样学习
