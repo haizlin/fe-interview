@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.15
+> 最新：2019.09.22
 
+- [用css怎么实现两端对齐？](https://github.com/haizlin/fe-interview/issues/1234)
+- [你有用过弹性布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1230)
+- [外边距重叠是什么？重叠的结果是什么？怎么防止外边距重叠？](https://github.com/haizlin/fe-interview/issues/1226)
+- [css中的border:none和border:0px有什么区别？](https://github.com/haizlin/fe-interview/issues/1222)
+- [如何写高效的CSS？](https://github.com/haizlin/fe-interview/issues/1218)
+- [如何做图片预览，如何放大一个图片？](https://github.com/haizlin/fe-interview/issues/1214)
+- [举例说明在css3中怎么实现背景裁剪？](https://github.com/haizlin/fe-interview/issues/1210)
 - [如何使用CSS的多列布局？](https://github.com/haizlin/fe-interview/issues/1206)
 - [请说说CSS3实现文本效果的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1202)
 - [请说说在什么时候用transition？什么时候使用animation？](https://github.com/haizlin/fe-interview/issues/1198)

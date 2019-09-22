@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.15
+> 最新：2019.09.22
 
+- [举例说明如何使用纯html怎么实现下拉提示的功能？](https://github.com/haizlin/fe-interview/issues/1233)
+- [你有使用过figure标签吗？说说你对它的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1229)
+- [你有用过bdo标签吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1225)
+- [HTML5的video在有的移动端设备无法自动播放？怎么解决？](https://github.com/haizlin/fe-interview/issues/1221)
+- [HTML5有哪些存储类型？它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1217)
+- [不用h标签、css和js怎么实现多个字的字体连续放大的效果？](https://github.com/haizlin/fe-interview/issues/1213)
+- [使用标签怎样对一个单词标志缩写呢？](https://github.com/haizlin/fe-interview/issues/1209)
 - [说说你对small标签的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1205)
 - [举例说明如何在页面中添加数学公式？](https://github.com/haizlin/fe-interview/issues/1201)
 - [怎样把整个页面中的内容设置成只读，不可编辑的状态？](https://github.com/haizlin/fe-interview/issues/1182)
