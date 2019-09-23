@@ -1,6 +1,21 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第160天 (2019.09.23)
+    - [html] [怎么检测浏览器是否支持HTML5特性？](https://github.com/haizlin/fe-interview/issues/1247)
+    - [css] [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
+    ```html
+    <style>
+    .red {color:red;}
+    .green {color:green;}
+    </style>
+
+    <div class="red green">第一行：颜色是什么？</div>
+    <div class="green red">第二行：颜色是什么？</div>
+    ```
+    - [js] [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
+    - [软技能] [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
+
 - 第159天 (2019.09.22)
     - [html] [举例说明如何使用纯html怎么实现下拉提示的功能？](https://github.com/haizlin/fe-interview/issues/1233)
     - [css] [用css怎么实现两端对齐？](https://github.com/haizlin/fe-interview/issues/1234)

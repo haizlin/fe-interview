@@ -33,20 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.09.23) —— 第160天
-- [html] [怎么检测浏览器是否支持HTML5特性？](https://github.com/haizlin/fe-interview/issues/1247)
-- [css] [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
-```html
-<style>
-.red {color:red;}
-.green {color:green;}
-</style>
-
-<div class="red green">第一行：颜色是什么？</div>
-<div class="green red">第二行：颜色是什么？</div>
-```
-- [js] [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
-- [软技能] [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
+## 今天的知识点 (2019.09.24) —— 第161天
+- [html] [HTML5如何调用摄像头？](https://github.com/haizlin/fe-interview/issues/1251)
+- [css] [举例说明你知道的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1252)
+- [js] [说说你对执行上下文的理解](https://github.com/haizlin/fe-interview/issues/1253)
+- [软技能] [你知道时间四象限吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1254)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -83,17 +74,26 @@
 
 …………  
 
-- 第158天 (2019.09.21)
-    - [html] [你有使用过figure标签吗？说说你对它的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1229)
-    - [css] [你有用过弹性布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1230)
-    - [js] [举例说明数组的排序方法有哪些？](https://github.com/haizlin/fe-interview/issues/1231)
-    - [软技能] [你有做过PHP开发？说说你自己对“PHP是世界上最好的语言”这句话的理解](https://github.com/haizlin/fe-interview/issues/1232)
-
 - 第159天 (2019.09.22)
     - [html] [举例说明如何使用纯html怎么实现下拉提示的功能？](https://github.com/haizlin/fe-interview/issues/1233)
     - [css] [用css怎么实现两端对齐？](https://github.com/haizlin/fe-interview/issues/1234)
     - [js] [在js中attribute和property的区别是什么？](https://github.com/haizlin/fe-interview/issues/1235)
     - [软技能] [你上家公司有写日报、周报或者月报吗？说说你对写日（周、月）这事的理解](https://github.com/haizlin/fe-interview/issues/1236)
+
+- 第160天 (2019.09.23)
+    - [html] [怎么检测浏览器是否支持HTML5特性？](https://github.com/haizlin/fe-interview/issues/1247)
+    - [css] [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
+    ```html
+    <style>
+    .red {color:red;}
+    .green {color:green;}
+    </style>
+
+    <div class="red green">第一行：颜色是什么？</div>
+    <div class="green red">第二行：颜色是什么？</div>
+    ```
+    - [js] [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
+    - [软技能] [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
     
 - **[查看全部](category/history.md)**
 
