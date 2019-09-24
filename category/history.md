@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第161天 (2019.09.24)
+    - [html] [HTML5如何调用摄像头？](https://github.com/haizlin/fe-interview/issues/1251)
+    - [css] [举例说明你知道的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1252)
+    - [js] [说说你对执行上下文的理解](https://github.com/haizlin/fe-interview/issues/1253)
+    - [软技能] [你知道时间四象限吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1254)
+
 - 第160天 (2019.09.23)
     - [html] [怎么检测浏览器是否支持HTML5特性？](https://github.com/haizlin/fe-interview/issues/1247)
     - [css] [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
