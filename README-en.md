@@ -36,10 +36,10 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 ## Today's Knowledge Points (2019.09.25) —— 162 days
-- [html] [HTML5如何调用摄像头？](https://github.com/haizlin/fe-interview/issues/1251)
-- [css] [举例说明你知道的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1252)
-- [js] [说说你对执行上下文的理解](https://github.com/haizlin/fe-interview/issues/1253)
-- [skill] [你知道时间四象限吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1254)
+- [html] [你有使用过HTML5的output吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1255)
+- [css] [移动端的布局用过媒体查询吗？写一个试试](https://github.com/haizlin/fe-interview/issues/1256)
+- [js] [写个给图片加水印的方法](https://github.com/haizlin/fe-interview/issues/1257)
+- [软技能] [你知道什么是BLOB URL吗？为什么要使用它？](https://github.com/haizlin/fe-interview/issues/1258)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
