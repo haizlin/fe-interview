@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.09.25) —— 162 days
-- [html] [你有使用过HTML5的output吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1255)
-- [css] [移动端的布局用过媒体查询吗？写一个试试](https://github.com/haizlin/fe-interview/issues/1256)
-- [js] [写个给图片加水印的方法](https://github.com/haizlin/fe-interview/issues/1257)
-- [软技能] [你知道什么是BLOB URL吗？为什么要使用它？](https://github.com/haizlin/fe-interview/issues/1258)
+## Today's Knowledge Points (2019.09.26) —— 163 days
+- [html] [xpath和dom有什么区别？](https://github.com/haizlin/fe-interview/issues/1259)
+- [css] [position跟margin collapse这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/1260)
+- [js] [怎样在JavaScript中创建一个worker线程？](https://github.com/haizlin/fe-interview/issues/1261)
+- [skill] [移动端的性能优化有哪些方法？](https://github.com/haizlin/fe-interview/issues/1262)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,26 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 160 days (2019.09.23)
-    - [html] [怎么检测浏览器是否支持HTML5特性？](https://github.com/haizlin/fe-interview/issues/1247)
-    - [css] [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
-    ```html
-    <style>
-    .red {color:red;}
-    .green {color:green;}
-    </style>
-
-    <div class="red green">第一行：颜色是什么？</div>
-    <div class="green red">第二行：颜色是什么？</div>
-    ```
-    - [js] [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
-    - [skill] [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
-
 - 161 days (2019.09.24)
     - [html] [HTML5如何调用摄像头？](https://github.com/haizlin/fe-interview/issues/1251)
     - [css] [举例说明你知道的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1252)
     - [js] [说说你对执行上下文的理解](https://github.com/haizlin/fe-interview/issues/1253)
     - [软技能] [你知道时间四象限吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1254)
+
+- 162 days (2019.09.25)
+    - [html] [你有使用过HTML5的output吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1255)
+    - [css] [移动端的布局用过媒体查询吗？写一个试试](https://github.com/haizlin/fe-interview/issues/1256)
+    - [js] [写个给图片加水印的方法](https://github.com/haizlin/fe-interview/issues/1257)
+    - [skill] [你知道什么是BLOB URL吗？为什么要使用它？](https://github.com/haizlin/fe-interview/issues/1258)
 
 - **[All](category/history.md)**
 
