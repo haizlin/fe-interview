@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第163天 (2019.09.26)
+    - [html] [xpath和dom有什么区别？](https://github.com/haizlin/fe-interview/issues/1259)
+    - [css] [position跟margin collapse这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/1260)
+    - [js] [怎样在JavaScript中创建一个worker线程？](https://github.com/haizlin/fe-interview/issues/1261)
+    - [软技能] [移动端的性能优化有哪些方法？](https://github.com/haizlin/fe-interview/issues/1262)
+
 - 第162天 (2019.09.25)
     - [html] [你有使用过HTML5的output吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1255)
     - [css] [移动端的布局用过媒体查询吗？写一个试试](https://github.com/haizlin/fe-interview/issues/1256)
