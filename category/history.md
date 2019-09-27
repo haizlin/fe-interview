@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第164天 (2019.09.27)
+    - [html] [前端路由指的是什么？它有什么好处？它有哪些方式可以实现呢？](https://github.com/haizlin/fe-interview/issues/1263)
+    - [css] [你是怎么选择resetting和normalizing的？为什么？](https://github.com/haizlin/fe-interview/issues/1264)
+    - [js] [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
+    - [软技能] [你平时是如何管理项目的？](https://github.com/haizlin/fe-interview/issues/1266)
+
 - 第163天 (2019.09.26)
     - [html] [xpath和dom有什么区别？](https://github.com/haizlin/fe-interview/issues/1259)
     - [css] [position跟margin collapse这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/1260)

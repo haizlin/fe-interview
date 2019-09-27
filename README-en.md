@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.09.27) —— 164 days
-- [html] [前端路由指的是什么？它有什么好处？它有哪些方式可以实现呢？](https://github.com/haizlin/fe-interview/issues/1263)
-- [css] [你是怎么选择resetting和normalizing的？为什么？](https://github.com/haizlin/fe-interview/issues/1264)
-- [js] [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
-- [skill] [你平时是如何管理项目的？](https://github.com/haizlin/fe-interview/issues/1266)
+## Today's Knowledge Points (2019.09.28) —— 165 days
+- [html] [为什么HTML5里面我们不需要DTD？](https://github.com/haizlin/fe-interview/issues/1267)
+- [css] [你有用过clip-path吗？说说你对它的理解和它都有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/1268)
+- [js] [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
+- [skill] [说说你对前端工程师日常的开发流程的理解](https://github.com/haizlin/fe-interview/issues/1270)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 162 days (2019.09.25)
-    - [html] [你有使用过HTML5的output吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1255)
-    - [css] [移动端的布局用过媒体查询吗？写一个试试](https://github.com/haizlin/fe-interview/issues/1256)
-    - [js] [写个给图片加水印的方法](https://github.com/haizlin/fe-interview/issues/1257)
-    - [skill] [你知道什么是BLOB URL吗？为什么要使用它？](https://github.com/haizlin/fe-interview/issues/1258)
-
 - 163 days (2019.09.26)
     - [html] [xpath和dom有什么区别？](https://github.com/haizlin/fe-interview/issues/1259)
     - [css] [position跟margin collapse这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/1260)
     - [js] [怎样在JavaScript中创建一个worker线程？](https://github.com/haizlin/fe-interview/issues/1261)
     - [skill] [移动端的性能优化有哪些方法？](https://github.com/haizlin/fe-interview/issues/1262)
+
+- 164 days (2019.09.27)
+    - [html] [前端路由指的是什么？它有什么好处？它有哪些方式可以实现呢？](https://github.com/haizlin/fe-interview/issues/1263)
+    - [css] [你是怎么选择resetting和normalizing的？为什么？](https://github.com/haizlin/fe-interview/issues/1264)
+    - [js] [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
+    - [skill] [你平时是如何管理项目的？](https://github.com/haizlin/fe-interview/issues/1266)
 
 - **[All](category/history.md)**
 
