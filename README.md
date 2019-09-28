@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.09.28) —— 第165天
-- [html] [为什么HTML5里面我们不需要DTD？](https://github.com/haizlin/fe-interview/issues/1267)
-- [css] [你有用过clip-path吗？说说你对它的理解和它都有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/1268)
-- [js] [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
-- [软技能] [说说你对前端工程师日常的开发流程的理解](https://github.com/haizlin/fe-interview/issues/1270)
+## 今天的知识点 (2019.09.29) —— 第166天
+- [html] [meta的属性有哪些组成？说说它们的分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1271)
+- [css] [会引起Reflow和Repaint的操作有哪些？](https://github.com/haizlin/fe-interview/issues/1272)
+- [js] [怎么下载一个zip文件？](https://github.com/haizlin/fe-interview/issues/1273)
+- [软技能] [如何对前端资源进行优化？](https://github.com/haizlin/fe-interview/issues/1274)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第163天 (2019.09.26)
-    - [html] [xpath和dom有什么区别？](https://github.com/haizlin/fe-interview/issues/1259)
-    - [css] [position跟margin collapse这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/1260)
-    - [js] [怎样在JavaScript中创建一个worker线程？](https://github.com/haizlin/fe-interview/issues/1261)
-    - [软技能] [移动端的性能优化有哪些方法？](https://github.com/haizlin/fe-interview/issues/1262)
-
 - 第164天 (2019.09.27)
     - [html] [前端路由指的是什么？它有什么好处？它有哪些方式可以实现呢？](https://github.com/haizlin/fe-interview/issues/1263)
     - [css] [你是怎么选择resetting和normalizing的？为什么？](https://github.com/haizlin/fe-interview/issues/1264)
     - [js] [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
     - [软技能] [你平时是如何管理项目的？](https://github.com/haizlin/fe-interview/issues/1266)
+
+- 第165天 (2019.09.28)
+    - [html] [为什么HTML5里面我们不需要DTD？](https://github.com/haizlin/fe-interview/issues/1267)
+    - [css] [你有用过clip-path吗？说说你对它的理解和它都有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/1268)
+    - [js] [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
+    - [软技能] [说说你对前端工程师日常的开发流程的理解](https://github.com/haizlin/fe-interview/issues/1270)
     
 - **[查看全部](category/history.md)**
 

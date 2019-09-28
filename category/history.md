@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第165天 (2019.09.28)
+    - [html] [为什么HTML5里面我们不需要DTD？](https://github.com/haizlin/fe-interview/issues/1267)
+    - [css] [你有用过clip-path吗？说说你对它的理解和它都有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/1268)
+    - [js] [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
+    - [软技能] [说说你对前端工程师日常的开发流程的理解](https://github.com/haizlin/fe-interview/issues/1270)
+
 - 第164天 (2019.09.27)
     - [html] [前端路由指的是什么？它有什么好处？它有哪些方式可以实现呢？](https://github.com/haizlin/fe-interview/issues/1263)
     - [css] [你是怎么选择resetting和normalizing的？为什么？](https://github.com/haizlin/fe-interview/issues/1264)
