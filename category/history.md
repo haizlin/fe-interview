@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第166天 (2019.09.29)
+    - [html] [meta的属性有哪些组成？说说它们的分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1271)
+    - [css] [会引起Reflow和Repaint的操作有哪些？](https://github.com/haizlin/fe-interview/issues/1272)
+    - [js] [怎么下载一个zip文件？](https://github.com/haizlin/fe-interview/issues/1273)
+    - [软技能] [如何对前端资源进行优化？](https://github.com/haizlin/fe-interview/issues/1274)
+
 - 第165天 (2019.09.28)
     - [html] [为什么HTML5里面我们不需要DTD？](https://github.com/haizlin/fe-interview/issues/1267)
     - [css] [你有用过clip-path吗？说说你对它的理解和它都有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/1268)

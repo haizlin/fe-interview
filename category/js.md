@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.22
+> 最新：2019.09.29
 
+- [怎么下载一个zip文件？](https://github.com/haizlin/fe-interview/issues/1273)
+- [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
+- [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
+- [怎样在JavaScript中创建一个worker线程？](https://github.com/haizlin/fe-interview/issues/1261)
+- [写个给图片加水印的方法](https://github.com/haizlin/fe-interview/issues/1257)
+- [说说你对执行上下文的理解](https://github.com/haizlin/fe-interview/issues/1253)
+- [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
 - [在js中attribute和property的区别是什么？](https://github.com/haizlin/fe-interview/issues/1235)
 - [举例说明数组的排序方法有哪些？](https://github.com/haizlin/fe-interview/issues/1231)
 - [举例说明js拖拽用到的事件有哪些？](https://github.com/haizlin/fe-interview/issues/1227)

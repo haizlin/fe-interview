@@ -1,4 +1,4 @@
-# 周汇总 2019.09.22
+# 周汇总 2019.09.29
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,49 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [举例说明如何使用纯html怎么实现下拉提示的功能？](https://github.com/haizlin/fe-interview/issues/1233)
-- [你有使用过figure标签吗？说说你对它的认识，有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1229)
-- [你有用过bdo标签吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1225)
-- [HTML5的video在有的移动端设备无法自动播放？怎么解决？](https://github.com/haizlin/fe-interview/issues/1221)
-- [HTML5有哪些存储类型？它们之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1217)
-- [不用h标签、css和js怎么实现多个字的字体连续放大的效果？](https://github.com/haizlin/fe-interview/issues/1213)
-- [使用标签怎样对一个单词标志缩写呢？](https://github.com/haizlin/fe-interview/issues/1209)
+- [meta的属性有哪些组成？说说它们的分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1267)
+- [为什么HTML5里面我们不需要DTD？](https://github.com/haizlin/fe-interview/issues/1267)
+- [前端路由指的是什么？它有什么好处？它有哪些方式可以实现呢？](https://github.com/haizlin/fe-interview/issues/1263)
+- [xpath和dom有什么区别？](https://github.com/haizlin/fe-interview/issues/1259)
+- [你有使用过HTML5的output吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1255)
+- [HTML5如何调用摄像头？](https://github.com/haizlin/fe-interview/issues/1251)
+- [怎么检测浏览器是否支持HTML5特性？](https://github.com/haizlin/fe-interview/issues/1247)
 
 ## css
-- [用css怎么实现两端对齐？](https://github.com/haizlin/fe-interview/issues/1234)
-- [你有用过弹性布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1230)
-- [外边距重叠是什么？重叠的结果是什么？怎么防止外边距重叠？](https://github.com/haizlin/fe-interview/issues/1226)
-- [css中的border:none和border:0px有什么区别？](https://github.com/haizlin/fe-interview/issues/1222)
-- [如何写高效的CSS？](https://github.com/haizlin/fe-interview/issues/1218)
-- [如何做图片预览，如何放大一个图片？](https://github.com/haizlin/fe-interview/issues/1214)
-- [举例说明在css3中怎么实现背景裁剪？](https://github.com/haizlin/fe-interview/issues/1210)
+- [会引起Reflow和Repaint的操作有哪些？](https://github.com/haizlin/fe-interview/issues/1272)
+- [你有用过clip-path吗？说说你对它的理解和它都有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/1268)
+- [你是怎么选择resetting和normalizing的？为什么？](https://github.com/haizlin/fe-interview/issues/1264)
+- [position跟margin collapse这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/1260)
+- [移动端的布局用过媒体查询吗？写一个试试](https://github.com/haizlin/fe-interview/issues/1256)
+- [举例说明你知道的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1252)
+- [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
+```html
+<style>
+.red {color:red;}
+.green {color:green;}
+</style>
+
+<div class="red green">第一行：颜色是什么？</div>
+<div class="green red">第二行：颜色是什么？</div>
+```
 
 ## js
-- [在js中attribute和property的区别是什么？](https://github.com/haizlin/fe-interview/issues/1235)
-- [举例说明数组的排序方法有哪些？](https://github.com/haizlin/fe-interview/issues/1231)
-- [举例说明js拖拽用到的事件有哪些？](https://github.com/haizlin/fe-interview/issues/1227)
-- [用原生JS封装插件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1223)
-- [用js模拟实现微信抢红包的算法，并说明你的思路](https://github.com/haizlin/fe-interview/issues/1219)
-- [如何实现锁定网页、密码解锁的效果？说说你的方法和步骤是什么？](https://github.com/haizlin/fe-interview/issues/1215)
-- [你知道1和Number(1)的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1211)
+- [怎么下载一个zip文件？](https://github.com/haizlin/fe-interview/issues/1273)
+- [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
+- [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
+- [怎样在JavaScript中创建一个worker线程？](https://github.com/haizlin/fe-interview/issues/1261)
+- [写个给图片加水印的方法](https://github.com/haizlin/fe-interview/issues/1257)
+- [说说你对执行上下文的理解](https://github.com/haizlin/fe-interview/issues/1253)
+- [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
 
 ## 软技能
-- [你上家公司有写日报、周报或者月报吗？说说你对写日（周、月）这事的理解](https://github.com/haizlin/fe-interview/issues/1236)
-- [你有做过PHP开发？说说你自己对“PHP是世界上最好的语言”这句话的理解](https://github.com/haizlin/fe-interview/issues/1232)
-- [说说你们的项目上线流程是怎样的？](https://github.com/haizlin/fe-interview/issues/1228)
-- [如何让你做一个文件无刷新上传的功能，你有哪些方法可以做到？](https://github.com/haizlin/fe-interview/issues/1224)
-- [你有做过扫码枪的开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1220)
-- [请解释下你理解的并行和并发、同步和异步、阻塞和非阻塞之间有什么区别？](https://github.com/haizlin/fe-interview/issues/1216)
-- [你有使用过FTP吗？你知道FTP它的作用是什么吗？](https://github.com/haizlin/fe-interview/issues/1212)
+- [如何对前端资源进行优化？](https://github.com/haizlin/fe-interview/issues/1274)
+- [说说你对前端工程师日常的开发流程的理解](https://github.com/haizlin/fe-interview/issues/1270)
+- [你平时是如何管理项目的？](https://github.com/haizlin/fe-interview/issues/1266)
+- [移动端的性能优化有哪些方法？](https://github.com/haizlin/fe-interview/issues/1262)
+- [你知道什么是BLOB URL吗？为什么要使用它？](https://github.com/haizlin/fe-interview/issues/1258)
+- [你知道时间四象限吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1254)
+- [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.22
+> 最新：2019.09.29
 
+- [如何对前端资源进行优化？](https://github.com/haizlin/fe-interview/issues/1274)
+- [说说你对前端工程师日常的开发流程的理解](https://github.com/haizlin/fe-interview/issues/1270)
+- [你平时是如何管理项目的？](https://github.com/haizlin/fe-interview/issues/1266)
+- [移动端的性能优化有哪些方法？](https://github.com/haizlin/fe-interview/issues/1262)
+- [你知道什么是BLOB URL吗？为什么要使用它？](https://github.com/haizlin/fe-interview/issues/1258)
+- [你知道时间四象限吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1254)
+- [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
 - [你上家公司有写日报、周报或者月报吗？说说你对写日（周、月）这事的理解](https://github.com/haizlin/fe-interview/issues/1236)
 - [你有做过PHP开发？说说你自己对“PHP是世界上最好的语言”这句话的理解](https://github.com/haizlin/fe-interview/issues/1232)
 - [说说你们的项目上线流程是怎样的？](https://github.com/haizlin/fe-interview/issues/1228)
