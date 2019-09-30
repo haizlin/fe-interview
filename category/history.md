@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第167天 (2019.09.30)
+    - [html] [Shadow DOM和Virtual DOM有什么区别？](https://github.com/haizlin/fe-interview/issues/1275)
+    - [css] [css的linear-gradient有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1276)
+    - [js] [你了解什么是AOP吗？它的作用是什么？举个例子](https://github.com/haizlin/fe-interview/issues/1277)
+    - [软技能] [这么多年来，你值得骄傲坚持的是什么？](https://github.com/haizlin/fe-interview/issues/1278)
+
 - 第166天 (2019.09.29)
     - [html] [meta的属性有哪些组成？说说它们的分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1271)
     - [css] [会引起Reflow和Repaint的操作有哪些？](https://github.com/haizlin/fe-interview/issues/1272)
