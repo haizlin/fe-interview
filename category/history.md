@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第168天 (2019.10.01)
+    - [html] [你知道有哪些常见的视频（音频）编码格式和视频（音频）格式吗？](https://github.com/haizlin/fe-interview/issues/1279)
+    - [css] [怎么去掉点击a链接或者图片出现的边框？](https://github.com/haizlin/fe-interview/issues/1280)
+    - [js] [如何解决在手机上长时间点击会选中图片？](https://github.com/haizlin/fe-interview/issues/1281)
+    - [软技能] [写js代码时你喜欢哪种命名方式？](https://github.com/haizlin/fe-interview/issues/1282)
+
 - 第167天 (2019.09.30)
     - [html] [Shadow DOM和Virtual DOM有什么区别？](https://github.com/haizlin/fe-interview/issues/1275)
     - [css] [css的linear-gradient有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1276)

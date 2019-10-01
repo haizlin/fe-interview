@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.10.01) —— 第168天
-- [html] [你知道有哪些常见的视频（音频）编码格式和视频（音频）格式吗？](https://github.com/haizlin/fe-interview/issues/1279)
-- [css] [怎么去掉点击a链接或者图片出现的边框？](https://github.com/haizlin/fe-interview/issues/1280)
-- [js] [如何解决在手机上长时间点击会选中图片？](https://github.com/haizlin/fe-interview/issues/1281)
-- [软技能] [写js代码时你喜欢哪种命名方式？](https://github.com/haizlin/fe-interview/issues/1282)
+## 今天的知识点 (2019.10.02) —— 第169天
+- [html] [什么是Data URI？](https://github.com/haizlin/fe-interview/issues/1283)
+- [css] [你了解css3的currentColor吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1284)
+- [js] [说说你对ArrayBuffer的理解！它和Array有什么区别？](https://github.com/haizlin/fe-interview/issues/1285)
+- [软技能] [你有做过直播相关开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1286)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第166天 (2019.09.29)
-    - [html] [meta的属性有哪些组成？说说它们的分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1271)
-    - [css] [会引起Reflow和Repaint的操作有哪些？](https://github.com/haizlin/fe-interview/issues/1272)
-    - [js] [怎么下载一个zip文件？](https://github.com/haizlin/fe-interview/issues/1273)
-    - [软技能] [如何对前端资源进行优化？](https://github.com/haizlin/fe-interview/issues/1274)
-
 - 第167天 (2019.09.30)
     - [html] [Shadow DOM和Virtual DOM有什么区别？](https://github.com/haizlin/fe-interview/issues/1275)
     - [css] [css的linear-gradient有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1276)
     - [js] [你了解什么是AOP吗？它的作用是什么？举个例子](https://github.com/haizlin/fe-interview/issues/1277)
     - [软技能] [这么多年来，你值得骄傲坚持的是什么？](https://github.com/haizlin/fe-interview/issues/1278)
+
+- 第168天 (2019.10.01)
+    - [html] [你知道有哪些常见的视频（音频）编码格式和视频（音频）格式吗？](https://github.com/haizlin/fe-interview/issues/1279)
+    - [css] [怎么去掉点击a链接或者图片出现的边框？](https://github.com/haizlin/fe-interview/issues/1280)
+    - [js] [如何解决在手机上长时间点击会选中图片？](https://github.com/haizlin/fe-interview/issues/1281)
+    - [软技能] [写js代码时你喜欢哪种命名方式？](https://github.com/haizlin/fe-interview/issues/1282)
     
 - **[查看全部](category/history.md)**
 
