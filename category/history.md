@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第169天 (2019.10.02)
+    - [html] [什么是Data URI？](https://github.com/haizlin/fe-interview/issues/1283)
+    - [css] [你了解css3的currentColor吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1284)
+    - [js] [说说你对ArrayBuffer的理解！它和Array有什么区别？](https://github.com/haizlin/fe-interview/issues/1285)
+    - [软技能] [你有做过直播相关开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1286)
+
 - 第168天 (2019.10.01)
     - [html] [你知道有哪些常见的视频（音频）编码格式和视频（音频）格式吗？](https://github.com/haizlin/fe-interview/issues/1279)
     - [css] [怎么去掉点击a链接或者图片出现的边框？](https://github.com/haizlin/fe-interview/issues/1280)
