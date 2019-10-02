@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第170天 (2019.10.03)
+    - [html] [你知道HTML什么是单闭合标签和双闭合标签吗？为何要分为这两种呢？](https://github.com/haizlin/fe-interview/issues/1287)
+    - [css] [css怎么更改表单的单选框或下拉框的默认样式？](https://github.com/haizlin/fe-interview/issues/1288)
+    - [js] [用js实现一个复制粘贴的功能](https://github.com/haizlin/fe-interview/issues/1289)
+    - [软技能] [说下你对预加载的理解？](https://github.com/haizlin/fe-interview/issues/1290)
+
 - 第169天 (2019.10.02)
     - [html] [什么是Data URI？](https://github.com/haizlin/fe-interview/issues/1283)
     - [css] [你了解css3的currentColor吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1284)
