@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第171天 (2019.10.04)
+    - [html] [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)
+    - [css] [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)
+    - [js] [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
+    - [软技能] [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1295)
+
 - 第170天 (2019.10.03)
     - [html] [你知道HTML什么是单闭合标签和双闭合标签吗？为何要分为这两种呢？](https://github.com/haizlin/fe-interview/issues/1287)
     - [css] [css怎么更改表单的单选框或下拉框的默认样式？](https://github.com/haizlin/fe-interview/issues/1288)

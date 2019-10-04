@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.04) —— 171 days
-- [html] [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1291)
-- [css] [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1292)
-- [js] [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1293)
-- [skill] [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1294)
+## Today's Knowledge Points (2019.10.05) —— 172 days
+- [html] [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
+- [css] [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
+- [js] [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
+- [skill] [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 169 days (2019.10.02)
-    - [html] [什么是Data URI？](https://github.com/haizlin/fe-interview/issues/1283)
-    - [css] [你了解css3的currentColor吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1284)
-    - [js] [说说你对ArrayBuffer的理解！它和Array有什么区别？](https://github.com/haizlin/fe-interview/issues/1285)
-    - [skill] [你有做过直播相关开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1286)
-
 - 170 days (2019.10.03)
     - [html] [你知道HTML什么是单闭合标签和双闭合标签吗？为何要分为这两种呢？](https://github.com/haizlin/fe-interview/issues/1287)
     - [css] [css怎么更改表单的单选框或下拉框的默认样式？](https://github.com/haizlin/fe-interview/issues/1288)
     - [js] [用js实现一个复制粘贴的功能](https://github.com/haizlin/fe-interview/issues/1289)
     - [skill] [说下你对预加载的理解？](https://github.com/haizlin/fe-interview/issues/1290)
+
+- 171 days (2019.10.04)
+    - [html] [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)
+    - [css] [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)
+    - [js] [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
+    - [skill] [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1295)
 
 - **[All](category/history.md)**
 
