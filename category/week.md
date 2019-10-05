@@ -1,4 +1,4 @@
-# 周汇总 2019.09.29
+# 周汇总 2019.10.06
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,49 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [meta的属性有哪些组成？说说它们的分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1267)
-- [为什么HTML5里面我们不需要DTD？](https://github.com/haizlin/fe-interview/issues/1267)
-- [前端路由指的是什么？它有什么好处？它有哪些方式可以实现呢？](https://github.com/haizlin/fe-interview/issues/1263)
-- [xpath和dom有什么区别？](https://github.com/haizlin/fe-interview/issues/1259)
-- [你有使用过HTML5的output吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1255)
-- [HTML5如何调用摄像头？](https://github.com/haizlin/fe-interview/issues/1251)
-- [怎么检测浏览器是否支持HTML5特性？](https://github.com/haizlin/fe-interview/issues/1247)
+- [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
+- [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
+- [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)
+- [你知道HTML什么是单闭合标签和双闭合标签吗？为何要分为这两种呢？](https://github.com/haizlin/fe-interview/issues/1287)
+- [什么是Data URI？](https://github.com/haizlin/fe-interview/issues/1283)
+- [你知道有哪些常见的视频（音频）编码格式和视频（音频）格式吗？](https://github.com/haizlin/fe-interview/issues/1279)
+- [Shadow DOM和Virtual DOM有什么区别？](https://github.com/haizlin/fe-interview/issues/1275)
 
 ## css
-- [会引起Reflow和Repaint的操作有哪些？](https://github.com/haizlin/fe-interview/issues/1272)
-- [你有用过clip-path吗？说说你对它的理解和它都有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/1268)
-- [你是怎么选择resetting和normalizing的？为什么？](https://github.com/haizlin/fe-interview/issues/1264)
-- [position跟margin collapse这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/1260)
-- [移动端的布局用过媒体查询吗？写一个试试](https://github.com/haizlin/fe-interview/issues/1256)
-- [举例说明你知道的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1252)
-- [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
-```html
-<style>
-.red {color:red;}
-.green {color:green;}
-</style>
-
-<div class="red green">第一行：颜色是什么？</div>
-<div class="green red">第二行：颜色是什么？</div>
-```
+- [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
+- [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
+- [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)
+- [css怎么更改表单的单选框或下拉框的默认样式？](https://github.com/haizlin/fe-interview/issues/1288)
+- [你了解css3的currentColor吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1284)
+- [怎么去掉点击a链接或者图片出现的边框？](https://github.com/haizlin/fe-interview/issues/1280)
+- [css的linear-gradient有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1276)
 
 ## js
-- [怎么下载一个zip文件？](https://github.com/haizlin/fe-interview/issues/1273)
-- [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
-- [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
-- [怎样在JavaScript中创建一个worker线程？](https://github.com/haizlin/fe-interview/issues/1261)
-- [写个给图片加水印的方法](https://github.com/haizlin/fe-interview/issues/1257)
-- [说说你对执行上下文的理解](https://github.com/haizlin/fe-interview/issues/1253)
-- [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
+- [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
+- [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
+- [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
+- [用js实现一个复制粘贴的功能](https://github.com/haizlin/fe-interview/issues/1289)
+- [说说你对ArrayBuffer的理解！它和Array有什么区别？](https://github.com/haizlin/fe-interview/issues/1285)
+- [如何解决在手机上长时间点击会选中图片？](https://github.com/haizlin/fe-interview/issues/1281)
+- [你了解什么是AOP吗？它的作用是什么？举个例子](https://github.com/haizlin/fe-interview/issues/1277)
 
 ## 软技能
-- [如何对前端资源进行优化？](https://github.com/haizlin/fe-interview/issues/1274)
-- [说说你对前端工程师日常的开发流程的理解](https://github.com/haizlin/fe-interview/issues/1270)
-- [你平时是如何管理项目的？](https://github.com/haizlin/fe-interview/issues/1266)
-- [移动端的性能优化有哪些方法？](https://github.com/haizlin/fe-interview/issues/1262)
-- [你知道什么是BLOB URL吗？为什么要使用它？](https://github.com/haizlin/fe-interview/issues/1258)
-- [你知道时间四象限吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1254)
-- [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
+- [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
+- [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
+- [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1295)
+- [说下你对预加载的理解？](https://github.com/haizlin/fe-interview/issues/1290)
+- [你有做过直播相关开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1286)
+- [写js代码时你喜欢哪种命名方式？](https://github.com/haizlin/fe-interview/issues/1282)
+- [这么多年来，你值得骄傲坚持的是什么？](https://github.com/haizlin/fe-interview/issues/1278)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

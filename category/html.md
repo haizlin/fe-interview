@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.29
+> 最新：2019.10.06
 
+- [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
+- [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
+- [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)
+- [你知道HTML什么是单闭合标签和双闭合标签吗？为何要分为这两种呢？](https://github.com/haizlin/fe-interview/issues/1287)
+- [什么是Data URI？](https://github.com/haizlin/fe-interview/issues/1283)
+- [你知道有哪些常见的视频（音频）编码格式和视频（音频）格式吗？](https://github.com/haizlin/fe-interview/issues/1279)
+- [Shadow DOM和Virtual DOM有什么区别？](https://github.com/haizlin/fe-interview/issues/1275)
 - [meta的属性有哪些组成？说说它们的分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1267)
 - [为什么HTML5里面我们不需要DTD？](https://github.com/haizlin/fe-interview/issues/1267)
 - [前端路由指的是什么？它有什么好处？它有哪些方式可以实现呢？](https://github.com/haizlin/fe-interview/issues/1263)

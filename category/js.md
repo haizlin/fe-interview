@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.29
+> 最新：2019.10.06
 
+- [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
+- [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
+- [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
+- [用js实现一个复制粘贴的功能](https://github.com/haizlin/fe-interview/issues/1289)
+- [说说你对ArrayBuffer的理解！它和Array有什么区别？](https://github.com/haizlin/fe-interview/issues/1285)
+- [如何解决在手机上长时间点击会选中图片？](https://github.com/haizlin/fe-interview/issues/1281)
+- [你了解什么是AOP吗？它的作用是什么？举个例子](https://github.com/haizlin/fe-interview/issues/1277)
 - [怎么下载一个zip文件？](https://github.com/haizlin/fe-interview/issues/1273)
 - [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
 - [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
