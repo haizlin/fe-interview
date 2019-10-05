@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第172天 (2019.10.05)
+    - [html] [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
+    - [css] [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
+    - [js] [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
+    - [软技能] [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
+
 - 第171天 (2019.10.04)
     - [html] [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)
     - [css] [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)

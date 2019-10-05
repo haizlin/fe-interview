@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.05) —— 172 days
-- [html] [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
-- [css] [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
-- [js] [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
-- [skill] [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
+## Today's Knowledge Points (2019.10.06) —— 173 days
+- [html] [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
+- [css] [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
+- [js] [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
+- [skill] [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 170 days (2019.10.03)
-    - [html] [你知道HTML什么是单闭合标签和双闭合标签吗？为何要分为这两种呢？](https://github.com/haizlin/fe-interview/issues/1287)
-    - [css] [css怎么更改表单的单选框或下拉框的默认样式？](https://github.com/haizlin/fe-interview/issues/1288)
-    - [js] [用js实现一个复制粘贴的功能](https://github.com/haizlin/fe-interview/issues/1289)
-    - [skill] [说下你对预加载的理解？](https://github.com/haizlin/fe-interview/issues/1290)
-
 - 171 days (2019.10.04)
     - [html] [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)
     - [css] [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)
     - [js] [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
     - [skill] [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1295)
+
+- 172 days (2019.10.05)
+    - [html] [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
+    - [css] [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
+    - [js] [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
+    - [skill] [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
 
 - **[All](category/history.md)**
 
