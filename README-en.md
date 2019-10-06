@@ -48,7 +48,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     [html](category/html.md) | [css](category/css.md) | [js](category/js.md) | [Skill](category/skill.md)
 
 - Topics(Please look forward to and welcome PR)  
-    [ES6](category/es6.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [wxapp](lib/wxapp.md)
+    [ECMAScript 34+](category/ECMAScript.md) | [NodeJs](category/nodejs.md) | [jQuery 22+](lib/jQuery.md) | [Vue 248+](lib/Vue.md) | [React 328+](lib/React.md) | [AngularJs](lib/AngularJs.md) | [wxapp](lib/wxapp.md)
 
 - Tools(Please look forward to and welcome PR) 
     [webpack](tools/webpack.md)
