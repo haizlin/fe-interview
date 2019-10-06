@@ -1,6 +1,13 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+
+- 第173天 (2019.10.06)
+    - [html] [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
+    - [css] [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
+    - [js] [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
+    - [软技能] [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
+
 - 第172天 (2019.10.05)
     - [html] [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
     - [css] [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)

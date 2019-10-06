@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.10.06) —— 第173天
-- [html] [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
-- [css] [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
-- [js] [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
-- [软技能] [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
+## 今天的知识点 (2019.10.07) —— 第174天
+- [html] [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
+- [css] [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
+- [js] [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
+- [软技能] [你想当技术总监吗？你觉得技术总监应具备什么样的技能？](https://github.com/haizlin/fe-interview/issues/1318)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第171天 (2019.10.04)
-    - [html] [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)
-    - [css] [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)
-    - [js] [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
-    - [软技能] [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1295)
-
 - 第172天 (2019.10.05)
     - [html] [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
     - [css] [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
     - [js] [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
     - [软技能] [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
+
+- 第173天 (2019.10.06)
+    - [html] [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
+    - [css] [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
+    - [js] [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
+    - [软技能] [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
     
 - **[查看全部](category/history.md)**
 
