@@ -34,10 +34,10 @@
 </p>
 
 ## 今天的知识点 (2019.10.08) —— 第175天
-- [html] [HTML5的哪些新特性是令你最兴奋的？](https://github.com/haizlin/fe-interview/issues/1315)
-- [css] [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1316)
-- [js] [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1317)
-- [软技能] [你对“技术服务于生活”的理解是什么？](https://github.com/haizlin/fe-interview/issues/1318)
+- [html] [HTML5的哪些新特性是令你最兴奋的？](https://github.com/haizlin/fe-interview/issues/1329)
+- [css] [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1330)
+- [js] [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1331)
+- [软技能] [你对“技术服务于生活”的理解是什么？](https://github.com/haizlin/fe-interview/issues/1332)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 

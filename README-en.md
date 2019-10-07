@@ -36,10 +36,10 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 ## Today's Knowledge Points (2019.10.08) —— 175 days
-- [html] [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
-- [css] [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
-- [js] [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
-- [skill] [你想当技术总监吗？你觉得技术总监应具备什么样的技能？](https://github.com/haizlin/fe-interview/issues/1318)
+- [html] [HTML5的哪些新特性是令你最兴奋的？](https://github.com/haizlin/fe-interview/issues/1329)
+- [css] [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1330)
+- [js] [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1331)
+- [skill] [你对“技术服务于生活”的理解是什么？](https://github.com/haizlin/fe-interview/issues/1332)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
