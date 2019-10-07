@@ -35,7 +35,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.07) —— 174 days
+## Today's Knowledge Points (2019.10.08) —— 175 days
 - [html] [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
 - [css] [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
 - [js] [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 172 days (2019.10.05)
-    - [html] [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
-    - [css] [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
-    - [js] [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
-    - [skill] [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
-
 - 173 days (2019.10.06)
     - [html] [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
     - [css] [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
     - [js] [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
     - [skill] [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
+
+- 174 days (2019.10.07)
+    - [html] [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
+    - [css] [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
+    - [js] [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
+    - [skill] [你想当技术总监吗？你觉得技术总监应具备什么样的技能？](https://github.com/haizlin/fe-interview/issues/1318)
 
 - **[All](category/history.md)**
 
