@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第175天 (2019.10.08)
+    - [html] [HTML5的哪些新特性是令你最兴奋的？](https://github.com/haizlin/fe-interview/issues/1329)
+    - [css] [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1330)
+    - [js] [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1331)
+    - [软技能] [你对“技术服务于生活”的理解是什么？](https://github.com/haizlin/fe-interview/issues/1332)
+
 - 第174天 (2019.10.07)
     - [html] [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
     - [css] [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
