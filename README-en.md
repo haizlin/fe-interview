@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.09) —— 176 days
-- [html] [做好的页面都有在哪些浏览器上测过](https://github.com/haizlin/fe-interview/issues/1333)
-- [css] [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
-- [js] [请用js实现一个promise的方法](https://github.com/haizlin/fe-interview/issues/1335)
-- [skill] [在工作中，你觉得如何提高幸福指数呢？](https://github.com/haizlin/fe-interview/issues/1336)
+## Today's Knowledge Points (2019.10.10) —— 177 days
+- [html] [网站首页有大量的图片，加载很慢，要是你，你该怎么去优化呢？](https://github.com/haizlin/fe-interview/issues/1337)
+- [css] [你有使用过preload、preconnect、prefetch这些属性吗？说说它们都有什么作用？](https://github.com/haizlin/fe-interview/issues/1338)
+- [js] [说下你对函数的形参与实参的理解](https://github.com/haizlin/fe-interview/issues/1339)
+- [skill] [当接到一个新的需求时，你的第一反应是什么？](https://github.com/haizlin/fe-interview/issues/1340)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 174 days (2019.10.07)
-    - [html] [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
-    - [css] [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
-    - [js] [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
-    - [skill] [你想当技术总监吗？你觉得技术总监应具备什么样的技能？](https://github.com/haizlin/fe-interview/issues/1318)
-
 - 175 days (2019.10.08)
     - [html] [HTML5的哪些新特性是令你最兴奋的？](https://github.com/haizlin/fe-interview/issues/1329)
     - [css] [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1330)
     - [js] [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1331)
     - [skill] [你对“技术服务于生活”的理解是什么？](https://github.com/haizlin/fe-interview/issues/1332)
+
+- 176 days (2019.10.09)
+    - [html] [做好的页面都有在哪些浏览器上测过](https://github.com/haizlin/fe-interview/issues/1333)
+    - [css] [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
+    - [js] [请用js实现一个promise的方法](https://github.com/haizlin/fe-interview/issues/1335)
+    - [skill] [在工作中，你觉得如何提高幸福指数呢？](https://github.com/haizlin/fe-interview/issues/1336)
 
 - **[All](category/history.md)**
 

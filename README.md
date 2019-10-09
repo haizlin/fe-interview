@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.10.09) —— 第176天
-- [html] [做好的页面都有在哪些浏览器上测过](https://github.com/haizlin/fe-interview/issues/1333)
-- [css] [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
-- [js] [请用js实现一个promise的方法](https://github.com/haizlin/fe-interview/issues/1335)
-- [软技能] [在工作中，你觉得如何提高幸福指数呢？](https://github.com/haizlin/fe-interview/issues/1336)
+## 今天的知识点 (2019.10.10) —— 第177天
+- [html] [网站首页有大量的图片，加载很慢，要是你，你该怎么去优化呢？](https://github.com/haizlin/fe-interview/issues/1337)
+- [css] [你有使用过preload、preconnect、prefetch这些属性吗？说说它们都有什么作用？](https://github.com/haizlin/fe-interview/issues/1338)
+- [js] [说下你对函数的形参与实参的理解](https://github.com/haizlin/fe-interview/issues/1339)
+- [软技能] [当接到一个新的需求时，你的第一反应是什么？](https://github.com/haizlin/fe-interview/issues/1340)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第174天 (2019.10.07)
-    - [html] [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
-    - [css] [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
-    - [js] [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
-    - [软技能] [你想当技术总监吗？你觉得技术总监应具备什么样的技能？](https://github.com/haizlin/fe-interview/issues/1318)
-
 - 第175天 (2019.10.08)
     - [html] [HTML5的哪些新特性是令你最兴奋的？](https://github.com/haizlin/fe-interview/issues/1329)
     - [css] [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1330)
     - [js] [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1331)
     - [软技能] [你对“技术服务于生活”的理解是什么？](https://github.com/haizlin/fe-interview/issues/1332)
+
+- 第176天 (2019.10.09)
+    - [html] [做好的页面都有在哪些浏览器上测过](https://github.com/haizlin/fe-interview/issues/1333)
+    - [css] [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
+    - [js] [请用js实现一个promise的方法](https://github.com/haizlin/fe-interview/issues/1335)
+    - [软技能] [在工作中，你觉得如何提高幸福指数呢？](https://github.com/haizlin/fe-interview/issues/1336)
     
 - **[查看全部](category/history.md)**
 
