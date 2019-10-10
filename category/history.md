@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第177天 (2019.10.10)
+    - [html] [网站首页有大量的图片，加载很慢，要是你，你该怎么去优化呢？](https://github.com/haizlin/fe-interview/issues/1337)
+    - [css] [你有使用过preload、preconnect、prefetch这些属性吗？说说它们都有什么作用？](https://github.com/haizlin/fe-interview/issues/1338)
+    - [js] [说下你对函数的形参与实参的理解](https://github.com/haizlin/fe-interview/issues/1339)
+    - [软技能] [当接到一个新的需求时，你的第一反应是什么？](https://github.com/haizlin/fe-interview/issues/1340)
+
 - 第176天 (2019.10.09)
     - [html] [做好的页面都有在哪些浏览器上测过](https://github.com/haizlin/fe-interview/issues/1333)
     - [css] [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
