@@ -26,7 +26,7 @@
 - [针对jQuery的优化方法有哪些？](https://github.com/haizlin/fe-interview/issues/1190)
 - [Zepto的点透问题如何解决？](https://github.com/haizlin/fe-interview/issues/1189)
 - [jQuery UI怎样自定义组件？](https://github.com/haizlin/fe-interview/issues/1188)
-- [jQuery 的 slideUp动画 ，如果目标元素是被外部事件驱动, 当鼠标快速地连续触发外部元素事件, 动画会滞后的反复执行，该如何处理呢?]()
+- [jQuery的slideUp动画 ，如果目标元素是被外部事件驱动, 当鼠标快速地连续触发外部元素事件, 动画会滞后的反复执行，该如何处理呢?]()
 - [JQuery一个对象可以同时绑定多个事件，这是如何实现的？](https://github.com/haizlin/fe-interview/issues/1186)
 
 

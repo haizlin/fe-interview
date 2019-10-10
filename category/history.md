@@ -1,6 +1,117 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第176天 (2019.10.09)
+    - [html] [做好的页面都有在哪些浏览器上测过](https://github.com/haizlin/fe-interview/issues/1333)
+    - [css] [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
+    - [js] [请用js实现一个promise的方法](https://github.com/haizlin/fe-interview/issues/1335)
+    - [软技能] [在工作中，你觉得如何提高幸福指数呢？](https://github.com/haizlin/fe-interview/issues/1336)
+
+- 第175天 (2019.10.08)
+    - [html] [HTML5的哪些新特性是令你最兴奋的？](https://github.com/haizlin/fe-interview/issues/1329)
+    - [css] [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1330)
+    - [js] [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1331)
+    - [软技能] [你对“技术服务于生活”的理解是什么？](https://github.com/haizlin/fe-interview/issues/1332)
+
+- 第174天 (2019.10.07)
+    - [html] [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
+    - [css] [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
+    - [js] [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
+    - [软技能] [你想当技术总监吗？你觉得技术总监应具备什么样的技能？](https://github.com/haizlin/fe-interview/issues/1318)
+
+- 第173天 (2019.10.06)
+    - [html] [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
+    - [css] [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
+    - [js] [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
+    - [软技能] [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
+
+- 第172天 (2019.10.05)
+    - [html] [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
+    - [css] [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
+    - [js] [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
+    - [软技能] [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
+
+- 第171天 (2019.10.04)
+    - [html] [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)
+    - [css] [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)
+    - [js] [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
+    - [软技能] [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1295)
+
+- 第170天 (2019.10.03)
+    - [html] [你知道HTML什么是单闭合标签和双闭合标签吗？为何要分为这两种呢？](https://github.com/haizlin/fe-interview/issues/1287)
+    - [css] [css怎么更改表单的单选框或下拉框的默认样式？](https://github.com/haizlin/fe-interview/issues/1288)
+    - [js] [用js实现一个复制粘贴的功能](https://github.com/haizlin/fe-interview/issues/1289)
+    - [软技能] [说下你对预加载的理解？](https://github.com/haizlin/fe-interview/issues/1290)
+
+- 第169天 (2019.10.02)
+    - [html] [什么是Data URI？](https://github.com/haizlin/fe-interview/issues/1283)
+    - [css] [你了解css3的currentColor吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1284)
+    - [js] [说说你对ArrayBuffer的理解！它和Array有什么区别？](https://github.com/haizlin/fe-interview/issues/1285)
+    - [软技能] [你有做过直播相关开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1286)
+
+- 第168天 (2019.10.01)
+    - [html] [你知道有哪些常见的视频（音频）编码格式和视频（音频）格式吗？](https://github.com/haizlin/fe-interview/issues/1279)
+    - [css] [怎么去掉点击a链接或者图片出现的边框？](https://github.com/haizlin/fe-interview/issues/1280)
+    - [js] [如何解决在手机上长时间点击会选中图片？](https://github.com/haizlin/fe-interview/issues/1281)
+    - [软技能] [写js代码时你喜欢哪种命名方式？](https://github.com/haizlin/fe-interview/issues/1282)
+
+- 第167天 (2019.09.30)
+    - [html] [Shadow DOM和Virtual DOM有什么区别？](https://github.com/haizlin/fe-interview/issues/1275)
+    - [css] [css的linear-gradient有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1276)
+    - [js] [你了解什么是AOP吗？它的作用是什么？举个例子](https://github.com/haizlin/fe-interview/issues/1277)
+    - [软技能] [这么多年来，你值得骄傲坚持的是什么？](https://github.com/haizlin/fe-interview/issues/1278)
+
+- 第166天 (2019.09.29)
+    - [html] [meta的属性有哪些组成？说说它们的分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1271)
+    - [css] [会引起Reflow和Repaint的操作有哪些？](https://github.com/haizlin/fe-interview/issues/1272)
+    - [js] [怎么下载一个zip文件？](https://github.com/haizlin/fe-interview/issues/1273)
+    - [软技能] [如何对前端资源进行优化？](https://github.com/haizlin/fe-interview/issues/1274)
+
+- 第165天 (2019.09.28)
+    - [html] [为什么HTML5里面我们不需要DTD？](https://github.com/haizlin/fe-interview/issues/1267)
+    - [css] [你有用过clip-path吗？说说你对它的理解和它都有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/1268)
+    - [js] [举例说明如何使用WebSQL？](https://github.com/haizlin/fe-interview/issues/1269)
+    - [软技能] [说说你对前端工程师日常的开发流程的理解](https://github.com/haizlin/fe-interview/issues/1270)
+
+- 第164天 (2019.09.27)
+    - [html] [前端路由指的是什么？它有什么好处？它有哪些方式可以实现呢？](https://github.com/haizlin/fe-interview/issues/1263)
+    - [css] [你是怎么选择resetting和normalizing的？为什么？](https://github.com/haizlin/fe-interview/issues/1264)
+    - [js] [举例说明js如何拖拽排序？](https://github.com/haizlin/fe-interview/issues/1265)
+    - [软技能] [你平时是如何管理项目的？](https://github.com/haizlin/fe-interview/issues/1266)
+
+- 第163天 (2019.09.26)
+    - [html] [xpath和dom有什么区别？](https://github.com/haizlin/fe-interview/issues/1259)
+    - [css] [position跟margin collapse这些特性相互叠加后会怎么样？](https://github.com/haizlin/fe-interview/issues/1260)
+    - [js] [怎样在JavaScript中创建一个worker线程？](https://github.com/haizlin/fe-interview/issues/1261)
+    - [软技能] [移动端的性能优化有哪些方法？](https://github.com/haizlin/fe-interview/issues/1262)
+
+- 第162天 (2019.09.25)
+    - [html] [你有使用过HTML5的output吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1255)
+    - [css] [移动端的布局用过媒体查询吗？写一个试试](https://github.com/haizlin/fe-interview/issues/1256)
+    - [js] [写个给图片加水印的方法](https://github.com/haizlin/fe-interview/issues/1257)
+    - [软技能] [你知道什么是BLOB URL吗？为什么要使用它？](https://github.com/haizlin/fe-interview/issues/1258)
+
+- 第161天 (2019.09.24)
+    - [html] [HTML5如何调用摄像头？](https://github.com/haizlin/fe-interview/issues/1251)
+    - [css] [举例说明你知道的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1252)
+    - [js] [说说你对执行上下文的理解](https://github.com/haizlin/fe-interview/issues/1253)
+    - [软技能] [你知道时间四象限吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1254)
+
+- 第160天 (2019.09.23)
+    - [html] [怎么检测浏览器是否支持HTML5特性？](https://github.com/haizlin/fe-interview/issues/1247)
+    - [css] [判断第一行和第二行的颜色分别是什么？并解释为什么？[代码]](https://github.com/haizlin/fe-interview/issues/1248)
+    ```html
+    <style>
+    .red {color:red;}
+    .green {color:green;}
+    </style>
+
+    <div class="red green">第一行：颜色是什么？</div>
+    <div class="green red">第二行：颜色是什么？</div>
+    ```
+    - [js] [有些js库习惯在代码开头处添加分号有什么作用呢？除了分号还可以换成别的吗？](https://github.com/haizlin/fe-interview/issues/1249)
+    - [软技能] [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
+
 - 第159天 (2019.09.22)
     - [html] [举例说明如何使用纯html怎么实现下拉提示的功能？](https://github.com/haizlin/fe-interview/issues/1233)
     - [css] [用css怎么实现两端对齐？](https://github.com/haizlin/fe-interview/issues/1234)

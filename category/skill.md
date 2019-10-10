@@ -2,8 +2,22 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.09.22
+> 最新：2019.10.06
 
+- [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
+- [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
+- [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1295)
+- [说下你对预加载的理解？](https://github.com/haizlin/fe-interview/issues/1290)
+- [你有做过直播相关开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1286)
+- [写js代码时你喜欢哪种命名方式？](https://github.com/haizlin/fe-interview/issues/1282)
+- [这么多年来，你值得骄傲坚持的是什么？](https://github.com/haizlin/fe-interview/issues/1278)
+- [如何对前端资源进行优化？](https://github.com/haizlin/fe-interview/issues/1274)
+- [说说你对前端工程师日常的开发流程的理解](https://github.com/haizlin/fe-interview/issues/1270)
+- [你平时是如何管理项目的？](https://github.com/haizlin/fe-interview/issues/1266)
+- [移动端的性能优化有哪些方法？](https://github.com/haizlin/fe-interview/issues/1262)
+- [你知道什么是BLOB URL吗？为什么要使用它？](https://github.com/haizlin/fe-interview/issues/1258)
+- [你知道时间四象限吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1254)
+- [你知道什么是二、三级域名吗？举例说明下](https://github.com/haizlin/fe-interview/issues/1250)
 - [你上家公司有写日报、周报或者月报吗？说说你对写日（周、月）这事的理解](https://github.com/haizlin/fe-interview/issues/1236)
 - [你有做过PHP开发？说说你自己对“PHP是世界上最好的语言”这句话的理解](https://github.com/haizlin/fe-interview/issues/1232)
 - [说说你们的项目上线流程是怎样的？](https://github.com/haizlin/fe-interview/issues/1228)
