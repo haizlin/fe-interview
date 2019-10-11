@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第178天 (2019.10.11)
+    - [html] [你有用过HTML5的requestAnimationFrame吗？它运用的场景有哪些呢？](https://github.com/haizlin/fe-interview/issues/1341)
+    - [css] [请举例说明css有哪些不可继承的属性？](https://github.com/haizlin/fe-interview/issues/1342)
+    - [js] [你知道什么是三元表达式吗？“三元” 表示什么意思？使用三元表达式应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/1343)
+    - [软技能] [当线上代码出现问题了，你该怎么排查呢？](https://github.com/haizlin/fe-interview/issues/1344)
+
 - 第177天 (2019.10.10)
     - [html] [网站首页有大量的图片，加载很慢，要是你，你该怎么去优化呢？](https://github.com/haizlin/fe-interview/issues/1337)
     - [css] [你有使用过preload、preconnect、prefetch这些属性吗？说说它们都有什么作用？](https://github.com/haizlin/fe-interview/issues/1338)

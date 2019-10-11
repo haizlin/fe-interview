@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.10.11) —— 第178天
-- [html] [你有用过HTML5的requestAnimationFrame吗？它运用的场景有哪些呢？](https://github.com/haizlin/fe-interview/issues/1341)
-- [css] [请举例说明css有哪些不可继承的属性？](https://github.com/haizlin/fe-interview/issues/1342)
-- [js] [你知道什么是三元表达式吗？“三元” 表示什么意思？使用三元表达式应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/1343)
-- [软技能] [当线上代码出现问题了，你该怎么排查呢？](https://github.com/haizlin/fe-interview/issues/1344)
+## 今天的知识点 (2019.10.12) —— 第179天
+- [html] [htm、html、shtml三者有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1345)
+- [css] [css中最常用的字体有哪些？你是怎么选择字体的？](https://github.com/haizlin/fe-interview/issues/1346)
+- [js] [js如何把网页加入收藏夹功能？](https://github.com/haizlin/fe-interview/issues/1347)
+- [软技能] [说下你对可视化开发的理解](https://github.com/haizlin/fe-interview/issues/1348)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第176天 (2019.10.09)
-    - [html] [做好的页面都有在哪些浏览器上测过](https://github.com/haizlin/fe-interview/issues/1333)
-    - [css] [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
-    - [js] [请用js实现一个promise的方法](https://github.com/haizlin/fe-interview/issues/1335)
-    - [软技能] [在工作中，你觉得如何提高幸福指数呢？](https://github.com/haizlin/fe-interview/issues/1336)
-
 - 第177天 (2019.10.10)
     - [html] [网站首页有大量的图片，加载很慢，要是你，你该怎么去优化呢？](https://github.com/haizlin/fe-interview/issues/1337)
     - [css] [你有使用过preload、preconnect、prefetch这些属性吗？说说它们都有什么作用？](https://github.com/haizlin/fe-interview/issues/1338)
     - [js] [说下你对函数的形参与实参的理解](https://github.com/haizlin/fe-interview/issues/1339)
     - [软技能] [当接到一个新的需求时，你的第一反应是什么？](https://github.com/haizlin/fe-interview/issues/1340)
+
+- 第178天 (2019.10.11)
+    - [html] [你有用过HTML5的requestAnimationFrame吗？它运用的场景有哪些呢？](https://github.com/haizlin/fe-interview/issues/1341)
+    - [css] [请举例说明css有哪些不可继承的属性？](https://github.com/haizlin/fe-interview/issues/1342)
+    - [js] [你知道什么是三元表达式吗？“三元” 表示什么意思？使用三元表达式应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/1343)
+    - [软技能] [当线上代码出现问题了，你该怎么排查呢？](https://github.com/haizlin/fe-interview/issues/1344)
     
 - **[查看全部](category/history.md)**
 
