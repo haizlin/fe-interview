@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.12) —— 179 days
-- [html] [htm、html、shtml三者有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1345)
-- [css] [css中最常用的字体有哪些？你是怎么选择字体的？](https://github.com/haizlin/fe-interview/issues/1346)
-- [js] [js如何把网页加入收藏夹功能？](https://github.com/haizlin/fe-interview/issues/1347)
-- [skill] [说下你对可视化开发的理解](https://github.com/haizlin/fe-interview/issues/1348)
+## Today's Knowledge Points (2019.10.13) —— 180 days
+- [html] [你有用过HTML5的track标签吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1363)
+- [css] [请使用css画一个圆，方法可以多种](https://github.com/haizlin/fe-interview/issues/1364)
+- [js] [有什么方案可以提高无限滚动列表的性能？](https://github.com/haizlin/fe-interview/issues/1365)
+- [skill] [举例缓存头都有哪些？并说明它们的用处](https://github.com/haizlin/fe-interview/issues/1366)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 177 days (2019.10.10)
-    - [html] [网站首页有大量的图片，加载很慢，要是你，你该怎么去优化呢？](https://github.com/haizlin/fe-interview/issues/1337)
-    - [css] [你有使用过preload、preconnect、prefetch这些属性吗？说说它们都有什么作用？](https://github.com/haizlin/fe-interview/issues/1338)
-    - [js] [说下你对函数的形参与实参的理解](https://github.com/haizlin/fe-interview/issues/1339)
-    - [skill] [当接到一个新的需求时，你的第一反应是什么？](https://github.com/haizlin/fe-interview/issues/1340)
-
 - 178 days (2019.10.11)
     - [html] [你有用过HTML5的requestAnimationFrame吗？它运用的场景有哪些呢？](https://github.com/haizlin/fe-interview/issues/1341)
     - [css] [请举例说明css有哪些不可继承的属性？](https://github.com/haizlin/fe-interview/issues/1342)
     - [js] [你知道什么是三元表达式吗？“三元” 表示什么意思？使用三元表达式应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/1343)
     - [skill] [当线上代码出现问题了，你该怎么排查呢？](https://github.com/haizlin/fe-interview/issues/1344)
+
+- 179 days (2019.10.12)
+    - [html] [htm、html、shtml三者有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1345)
+    - [css] [css中最常用的字体有哪些？你是怎么选择字体的？](https://github.com/haizlin/fe-interview/issues/1346)
+    - [js] [js如何把网页加入收藏夹功能？](https://github.com/haizlin/fe-interview/issues/1347)
+    - [skill] [说下你对可视化开发的理解](https://github.com/haizlin/fe-interview/issues/1348)
 
 - **[All](category/history.md)**
 

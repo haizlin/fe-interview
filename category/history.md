@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第179天 (2019.10.12)
+    - [html] [htm、html、shtml三者有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1345)
+    - [css] [css中最常用的字体有哪些？你是怎么选择字体的？](https://github.com/haizlin/fe-interview/issues/1346)
+    - [js] [js如何把网页加入收藏夹功能？](https://github.com/haizlin/fe-interview/issues/1347)
+    - [软技能] [说下你对可视化开发的理解](https://github.com/haizlin/fe-interview/issues/1348)
+
 - 第178天 (2019.10.11)
     - [html] [你有用过HTML5的requestAnimationFrame吗？它运用的场景有哪些呢？](https://github.com/haizlin/fe-interview/issues/1341)
     - [css] [请举例说明css有哪些不可继承的属性？](https://github.com/haizlin/fe-interview/issues/1342)
