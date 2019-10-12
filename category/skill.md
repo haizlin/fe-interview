@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.06
+> 最新：2019.10.13
 
+- [举例缓存头都有哪些？并说明它们的用处](https://github.com/haizlin/fe-interview/issues/1366)
+- [说下你对可视化开发的理解](https://github.com/haizlin/fe-interview/issues/1348)
+- [当线上代码出现问题了，你该怎么排查呢？](https://github.com/haizlin/fe-interview/issues/1344)
+- [当接到一个新的需求时，你的第一反应是什么？](https://github.com/haizlin/fe-interview/issues/1340)
+- [在工作中，你觉得如何提高幸福指数呢？](https://github.com/haizlin/fe-interview/issues/1336)
+- [你对“技术服务于生活”的理解是什么？](https://github.com/haizlin/fe-interview/issues/1332)
+- [你想当技术总监吗？你觉得技术总监应具备什么样的技能？](https://github.com/haizlin/fe-interview/issues/1318)
 - [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
 - [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
 - [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1295)

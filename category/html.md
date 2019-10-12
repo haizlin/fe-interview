@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.06
+> 最新：2019.10.13
 
+- [你有用过HTML5的track标签吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1363)
+- [htm、html、shtml三者有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1345)
+- [你有用过HTML5的requestAnimationFrame吗？它运用的场景有哪些呢？](https://github.com/haizlin/fe-interview/issues/1341)
+- [网站首页有大量的图片，加载很慢，要是你，你该怎么去优化呢？](https://github.com/haizlin/fe-interview/issues/1337)
+- [做好的页面都有在哪些浏览器上测过](https://github.com/haizlin/fe-interview/issues/1333)
+- [HTML5的哪些新特性是令你最兴奋的？](https://github.com/haizlin/fe-interview/issues/1329)
+- [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
 - [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
 - [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
 - [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)

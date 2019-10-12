@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.06
+> 最新：2019.10.13
 
+- [请使用css画一个圆，方法可以多种](https://github.com/haizlin/fe-interview/issues/1364)
+- [css中最常用的字体有哪些？你是怎么选择字体的？](https://github.com/haizlin/fe-interview/issues/1346)
+- [请举例说明css有哪些不可继承的属性？](https://github.com/haizlin/fe-interview/issues/1342)
+- [你有使用过preload、preconnect、prefetch这些属性吗？说说它们都有什么作用？](https://github.com/haizlin/fe-interview/issues/1338)
+- [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
+- [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1330)
+- [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
 - [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
 - [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
 - [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)

@@ -1,4 +1,4 @@
-# 周汇总 2019.10.06
+# 周汇总 2019.10.13
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [HTML的标签区分大小写吗？属性名区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1311)
-- [HTML的注释有几种写法？有什么规范吗？](https://github.com/haizlin/fe-interview/issues/1296)
-- [怎样给radio分组呢？](https://github.com/haizlin/fe-interview/issues/1292)
-- [你知道HTML什么是单闭合标签和双闭合标签吗？为何要分为这两种呢？](https://github.com/haizlin/fe-interview/issues/1287)
-- [什么是Data URI？](https://github.com/haizlin/fe-interview/issues/1283)
-- [你知道有哪些常见的视频（音频）编码格式和视频（音频）格式吗？](https://github.com/haizlin/fe-interview/issues/1279)
-- [Shadow DOM和Virtual DOM有什么区别？](https://github.com/haizlin/fe-interview/issues/1275)
+- [你有用过HTML5的track标签吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1363)
+- [htm、html、shtml三者有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1345)
+- [你有用过HTML5的requestAnimationFrame吗？它运用的场景有哪些呢？](https://github.com/haizlin/fe-interview/issues/1341)
+- [网站首页有大量的图片，加载很慢，要是你，你该怎么去优化呢？](https://github.com/haizlin/fe-interview/issues/1337)
+- [做好的页面都有在哪些浏览器上测过](https://github.com/haizlin/fe-interview/issues/1333)
+- [HTML5的哪些新特性是令你最兴奋的？](https://github.com/haizlin/fe-interview/issues/1329)
+- [img、input标签它们是行内元素还是块级元素？](https://github.com/haizlin/fe-interview/issues/1315)
 
 ## css
-- [你有使用过字体图标吗？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1312)
-- [你知道什么是流体排版吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1297)
-- [请说说你对vh、vw的理解以及它们的运用场景是什么？](https://github.com/haizlin/fe-interview/issues/1293)
-- [css怎么更改表单的单选框或下拉框的默认样式？](https://github.com/haizlin/fe-interview/issues/1288)
-- [你了解css3的currentColor吗？举例说明它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1284)
-- [怎么去掉点击a链接或者图片出现的边框？](https://github.com/haizlin/fe-interview/issues/1280)
-- [css的linear-gradient有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1276)
+- [请使用css画一个圆，方法可以多种](https://github.com/haizlin/fe-interview/issues/1364)
+- [css中最常用的字体有哪些？你是怎么选择字体的？](https://github.com/haizlin/fe-interview/issues/1346)
+- [请举例说明css有哪些不可继承的属性？](https://github.com/haizlin/fe-interview/issues/1342)
+- [你有使用过preload、preconnect、prefetch这些属性吗？说说它们都有什么作用？](https://github.com/haizlin/fe-interview/issues/1338)
+- [你是怎样对css文件进行压缩合并的？](https://github.com/haizlin/fe-interview/issues/1334)
+- [如果css文件过大时，如何异步加载它？](https://github.com/haizlin/fe-interview/issues/1330)
+- [css3和css2的区别是什么？](https://github.com/haizlin/fe-interview/issues/1316)
 
 ## js
-- [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
-- [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
-- [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
-- [用js实现一个复制粘贴的功能](https://github.com/haizlin/fe-interview/issues/1289)
-- [说说你对ArrayBuffer的理解！它和Array有什么区别？](https://github.com/haizlin/fe-interview/issues/1285)
-- [如何解决在手机上长时间点击会选中图片？](https://github.com/haizlin/fe-interview/issues/1281)
-- [你了解什么是AOP吗？它的作用是什么？举个例子](https://github.com/haizlin/fe-interview/issues/1277)
+- [有什么方案可以提高无限滚动列表的性能？](https://github.com/haizlin/fe-interview/issues/1365)
+- [js如何把网页加入收藏夹功能？](https://github.com/haizlin/fe-interview/issues/1347)
+- [你知道什么是三元表达式吗？“三元” 表示什么意思？使用三元表达式应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/1343)
+- [说下你对函数的形参与实参的理解](https://github.com/haizlin/fe-interview/issues/1339)
+- [请用js实现一个promise的方法](https://github.com/haizlin/fe-interview/issues/1335)
+- [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1331)
+- [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
 
 ## 软技能
-- [从你的角度上来说下你对“产品经理”这个岗位的理解](https://github.com/haizlin/fe-interview/issues/1314)
-- [请解释下单线程与多线程之间的区别？](https://github.com/haizlin/fe-interview/issues/1299)
-- [浏览器本地存储和服务器端存储有区别呢？](https://github.com/haizlin/fe-interview/issues/1295)
-- [说下你对预加载的理解？](https://github.com/haizlin/fe-interview/issues/1290)
-- [你有做过直播相关开发吗？知道它的原理吗？](https://github.com/haizlin/fe-interview/issues/1286)
-- [写js代码时你喜欢哪种命名方式？](https://github.com/haizlin/fe-interview/issues/1282)
-- [这么多年来，你值得骄傲坚持的是什么？](https://github.com/haizlin/fe-interview/issues/1278)
+- [举例缓存头都有哪些？并说明它们的用处](https://github.com/haizlin/fe-interview/issues/1366)
+- [说下你对可视化开发的理解](https://github.com/haizlin/fe-interview/issues/1348)
+- [当线上代码出现问题了，你该怎么排查呢？](https://github.com/haizlin/fe-interview/issues/1344)
+- [当接到一个新的需求时，你的第一反应是什么？](https://github.com/haizlin/fe-interview/issues/1340)
+- [在工作中，你觉得如何提高幸福指数呢？](https://github.com/haizlin/fe-interview/issues/1336)
+- [你对“技术服务于生活”的理解是什么？](https://github.com/haizlin/fe-interview/issues/1332)
+- [你想当技术总监吗？你觉得技术总监应具备什么样的技能？](https://github.com/haizlin/fe-interview/issues/1318)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

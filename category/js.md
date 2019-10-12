@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.06
+> 最新：2019.10.13
 
+- [有什么方案可以提高无限滚动列表的性能？](https://github.com/haizlin/fe-interview/issues/1365)
+- [js如何把网页加入收藏夹功能？](https://github.com/haizlin/fe-interview/issues/1347)
+- [你知道什么是三元表达式吗？“三元” 表示什么意思？使用三元表达式应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/1343)
+- [说下你对函数的形参与实参的理解](https://github.com/haizlin/fe-interview/issues/1339)
+- [请用js实现一个promise的方法](https://github.com/haizlin/fe-interview/issues/1335)
+- [请说说你对promise的理解](https://github.com/haizlin/fe-interview/issues/1331)
+- [你知道断点续传的原理吗？用js怎么实现？](https://github.com/haizlin/fe-interview/issues/1317)
 - [清空一个数组的方式有哪些？它们有什么区别？](https://github.com/haizlin/fe-interview/issues/1313)
 - [ES5和ES6、ES7有什么区别？](https://github.com/haizlin/fe-interview/issues/1298)
 - [写一个根据xpath获取元素的方法](https://github.com/haizlin/fe-interview/issues/1294)
