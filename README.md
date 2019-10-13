@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.10.13) —— 第180天
-- [html] [你有用过HTML5的track标签吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1363)
-- [css] [请使用css画一个圆，方法可以多种](https://github.com/haizlin/fe-interview/issues/1364)
-- [js] [有什么方案可以提高无限滚动列表的性能？](https://github.com/haizlin/fe-interview/issues/1365)
-- [软技能] [举例缓存头都有哪些？并说明它们的用处](https://github.com/haizlin/fe-interview/issues/1366)
+## 今天的知识点 (2019.10.14) —— 第181天
+- [html] [请使用纯HTML制作一个进度条](https://github.com/haizlin/fe-interview/issues/1367)
+- [css] [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
+- [js] [写一个密码生成器，并同时写一个密码强度校验的方法](https://github.com/haizlin/fe-interview/issues/1369)
+- [软技能] [你有自己写过爬虫的程序吗？说说你对爬虫和反爬虫的理解？](https://github.com/haizlin/fe-interview/issues/1370)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
