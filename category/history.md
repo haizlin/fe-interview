@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第181天 (2019.10.14)
+    - [html] [请使用纯HTML制作一个进度条](https://github.com/haizlin/fe-interview/issues/1367)
+    - [css] [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
+    - [js] [写一个密码生成器，并同时写一个密码强度校验的方法](https://github.com/haizlin/fe-interview/issues/1369)
+    - [软技能] [你有自己写过爬虫的程序吗？说说你对爬虫和反爬虫的理解？](https://github.com/haizlin/fe-interview/issues/1370)
+
 - 第180天 (2019.10.13)
     - [html] [你有用过HTML5的track标签吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1363)
     - [css] [请使用css画一个圆，方法可以多种](https://github.com/haizlin/fe-interview/issues/1364)

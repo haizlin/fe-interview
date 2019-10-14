@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.10.14) —— 第181天
-- [html] [请使用纯HTML制作一个进度条](https://github.com/haizlin/fe-interview/issues/1367)
-- [css] [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
-- [js] [写一个密码生成器，并同时写一个密码强度校验的方法](https://github.com/haizlin/fe-interview/issues/1369)
-- [软技能] [你有自己写过爬虫的程序吗？说说你对爬虫和反爬虫的理解？](https://github.com/haizlin/fe-interview/issues/1370)
+## 今天的知识点 (2019.10.15) —— 第182天
+- [html] [举例说明HTML5的标签meter的用法](https://github.com/haizlin/fe-interview/issues/1371)
+- [css] [让你手写一个reset的文件，你应该怎么写？要考虑哪些方面呢？](https://github.com/haizlin/fe-interview/issues/1372)
+- [js] [为什么说js是弱类型语言，它的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/1373)
+- [软技能] [你知道什么是ECMAScript吗？](https://github.com/haizlin/fe-interview/issues/1374)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第179天 (2019.10.12)
-    - [html] [htm、html、shtml三者有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1345)
-    - [css] [css中最常用的字体有哪些？你是怎么选择字体的？](https://github.com/haizlin/fe-interview/issues/1346)
-    - [js] [js如何把网页加入收藏夹功能？](https://github.com/haizlin/fe-interview/issues/1347)
-    - [软技能] [说下你对可视化开发的理解](https://github.com/haizlin/fe-interview/issues/1348)
-
 - 第180天 (2019.10.13)
     - [html] [你有用过HTML5的track标签吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1363)
     - [css] [请使用css画一个圆，方法可以多种](https://github.com/haizlin/fe-interview/issues/1364)
     - [js] [有什么方案可以提高无限滚动列表的性能？](https://github.com/haizlin/fe-interview/issues/1365)
     - [软技能] [举例缓存头都有哪些？并说明它们的用处](https://github.com/haizlin/fe-interview/issues/1366)
+
+- 第181天 (2019.10.14)
+    - [html] [请使用纯HTML制作一个进度条](https://github.com/haizlin/fe-interview/issues/1367)
+    - [css] [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
+    - [js] [写一个密码生成器，并同时写一个密码强度校验的方法](https://github.com/haizlin/fe-interview/issues/1369)
+    - [软技能] [你有自己写过爬虫的程序吗？说说你对爬虫和反爬虫的理解？](https://github.com/haizlin/fe-interview/issues/1370)
     
 - **[查看全部](category/history.md)**
 
