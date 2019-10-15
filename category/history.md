@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第182天 (2019.10.15)
+    - [html] [举例说明HTML5的标签meter的用法](https://github.com/haizlin/fe-interview/issues/1371)
+    - [css] [让你手写一个reset的文件，你应该怎么写？要考虑哪些方面呢？](https://github.com/haizlin/fe-interview/issues/1372)
+    - [js] [为什么说js是弱类型语言，它的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/1373)
+    - [软技能] [你知道什么是ECMAScript吗？](https://github.com/haizlin/fe-interview/issues/1374)
+
 - 第181天 (2019.10.14)
     - [html] [请使用纯HTML制作一个进度条](https://github.com/haizlin/fe-interview/issues/1367)
     - [css] [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
