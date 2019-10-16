@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.16) —— 183 days
-- [html] [HTML5的output是非常棒的一个标签，你对它有了解吗？](https://github.com/haizlin/fe-interview/issues/1375)
-- [css] [怎样去除图片自带的边距？](https://github.com/haizlin/fe-interview/issues/1376)
-- [js] [在js中函数返回多个值有哪些方法？](https://github.com/haizlin/fe-interview/issues/1377)
-- [skill] [说说你对AMD、CMD和CommonJS的理解](https://github.com/haizlin/fe-interview/issues/1378)
+## Today's Knowledge Points (2019.10.17) —— 184 days
+- [html] [如何给一个下拉选项进行分组？](https://github.com/haizlin/fe-interview/issues/1379)
+- [css] [请描述下你对translate()方法的理解](https://github.com/haizlin/fe-interview/issues/1380)
+- [js] [说下你对面向对象的理解](https://github.com/haizlin/fe-interview/issues/1381)
+- [skill] [你上家公司的接口是怎么管理的？](https://github.com/haizlin/fe-interview/issues/1382)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 181 days (2019.10.14)
-    - [html] [请使用纯HTML制作一个进度条](https://github.com/haizlin/fe-interview/issues/1367)
-    - [css] [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
-    - [js] [写一个密码生成器，并同时写一个密码强度校验的方法](https://github.com/haizlin/fe-interview/issues/1369)
-    - [skill] [你有自己写过爬虫的程序吗？说说你对爬虫和反爬虫的理解？](https://github.com/haizlin/fe-interview/issues/1370)
-
 - 182 days (2019.10.15)
     - [html] [举例说明HTML5的标签meter的用法](https://github.com/haizlin/fe-interview/issues/1371)
     - [css] [让你手写一个reset的文件，你应该怎么写？要考虑哪些方面呢？](https://github.com/haizlin/fe-interview/issues/1372)
     - [js] [为什么说js是弱类型语言，它的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/1373)
     - [skill] [你知道什么是ECMAScript吗？](https://github.com/haizlin/fe-interview/issues/1374)
+
+- 183 days (2019.10.16)
+    - [html] [HTML5的output是非常棒的一个标签，你对它有了解吗？](https://github.com/haizlin/fe-interview/issues/1375)
+    - [css] [怎样去除图片自带的边距？](https://github.com/haizlin/fe-interview/issues/1376)
+    - [js] [在js中函数返回多个值有哪些方法？](https://github.com/haizlin/fe-interview/issues/1377)
+    - [skill] [说说你对AMD、CMD和CommonJS的理解](https://github.com/haizlin/fe-interview/issues/1378)
 
 - **[All](category/history.md)**
 

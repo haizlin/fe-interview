@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第183天 (2019.10.16)
+    - [html] [HTML5的output是非常棒的一个标签，你对它有了解吗？](https://github.com/haizlin/fe-interview/issues/1375)
+    - [css] [怎样去除图片自带的边距？](https://github.com/haizlin/fe-interview/issues/1376)
+    - [js] [在js中函数返回多个值有哪些方法？](https://github.com/haizlin/fe-interview/issues/1377)
+    - [软技能] [说说你对AMD、CMD和CommonJS的理解](https://github.com/haizlin/fe-interview/issues/1378)
+
 - 第182天 (2019.10.15)
     - [html] [举例说明HTML5的标签meter的用法](https://github.com/haizlin/fe-interview/issues/1371)
     - [css] [让你手写一个reset的文件，你应该怎么写？要考虑哪些方面呢？](https://github.com/haizlin/fe-interview/issues/1372)
