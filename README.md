@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.10.17) —— 第184天
-- [html] [如何给一个下拉选项进行分组？](https://github.com/haizlin/fe-interview/issues/1379)
-- [css] [请描述下你对translate()方法的理解](https://github.com/haizlin/fe-interview/issues/1380)
-- [js] [说下你对面向对象的理解](https://github.com/haizlin/fe-interview/issues/1381)
-- [软技能] [你上家公司的接口是怎么管理的？](https://github.com/haizlin/fe-interview/issues/1382)
+## 今天的知识点 (2019.10.18) —— 第185天
+- [html] [HTML5如何唤醒APP？](https://github.com/haizlin/fe-interview/issues/1383)
+- [css] [你是怎么设计css sprites（精灵图）的？有哪些技巧？](https://github.com/haizlin/fe-interview/issues/1384)
+- [js] [onload事件和domcontentloaded哪个先执行呢？](https://github.com/haizlin/fe-interview/issues/1385)
+- [软技能] [你知道什么是域名备案吗？备案有什么用？可以不备案吗？](https://github.com/haizlin/fe-interview/issues/1386)
 
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
@@ -74,17 +74,17 @@
 
 …………  
 
-- 第182天 (2019.10.15)
-    - [html] [举例说明HTML5的标签meter的用法](https://github.com/haizlin/fe-interview/issues/1371)
-    - [css] [让你手写一个reset的文件，你应该怎么写？要考虑哪些方面呢？](https://github.com/haizlin/fe-interview/issues/1372)
-    - [js] [为什么说js是弱类型语言，它的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/1373)
-    - [软技能] [你知道什么是ECMAScript吗？](https://github.com/haizlin/fe-interview/issues/1374)
-
 - 第183天 (2019.10.16)
     - [html] [HTML5的output是非常棒的一个标签，你对它有了解吗？](https://github.com/haizlin/fe-interview/issues/1375)
     - [css] [怎样去除图片自带的边距？](https://github.com/haizlin/fe-interview/issues/1376)
     - [js] [在js中函数返回多个值有哪些方法？](https://github.com/haizlin/fe-interview/issues/1377)
     - [软技能] [说说你对AMD、CMD和CommonJS的理解](https://github.com/haizlin/fe-interview/issues/1378)
+
+- 第184天 (2019.10.17)
+    - [html] [如何给一个下拉选项进行分组？](https://github.com/haizlin/fe-interview/issues/1379)
+    - [css] [请描述下你对translate()方法的理解](https://github.com/haizlin/fe-interview/issues/1380)
+    - [js] [说下你对面向对象的理解](https://github.com/haizlin/fe-interview/issues/1381)
+    - [软技能] [你上家公司的接口是怎么管理的？](https://github.com/haizlin/fe-interview/issues/1382)
     
 - **[查看全部](category/history.md)**
 
