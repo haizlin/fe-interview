@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第185天 (2019.10.18)
+    - [html] [HTML5如何唤醒APP？](https://github.com/haizlin/fe-interview/issues/1383)
+    - [css] [你是怎么设计css sprites（精灵图）的？有哪些技巧？](https://github.com/haizlin/fe-interview/issues/1384)
+    - [js] [onload事件和domcontentloaded哪个先执行呢？](https://github.com/haizlin/fe-interview/issues/1385)
+    - [软技能] [你知道什么是域名备案吗？备案有什么用？可以不备案吗？](https://github.com/haizlin/fe-interview/issues/1386)
+
 - 第184天 (2019.10.17)
     - [html] [如何给一个下拉选项进行分组？](https://github.com/haizlin/fe-interview/issues/1379)
     - [css] [请描述下你对translate()方法的理解](https://github.com/haizlin/fe-interview/issues/1380)
