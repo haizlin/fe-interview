@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第186天 (2019.10.19)
+    - [html] [举例说明如何实现浏览器桌面通知？](https://github.com/haizlin/fe-interview/issues/1403)
+    - [css] [举例说明你对相邻兄弟选择器的理解](https://github.com/haizlin/fe-interview/issues/1404)
+    - [js] [当用户刷新网页时，js的请求有哪些地方会有缓存处理呢？](https://github.com/haizlin/fe-interview/issues/1405)
+    - [软技能] [你知道什么是PDCA吗？要怎么运用好它呢？](https://github.com/haizlin/fe-interview/issues/1406)
+
 - 第185天 (2019.10.18)
     - [html] [HTML5如何唤醒APP？](https://github.com/haizlin/fe-interview/issues/1383)
     - [css] [你是怎么设计css sprites（精灵图）的？有哪些技巧？](https://github.com/haizlin/fe-interview/issues/1384)

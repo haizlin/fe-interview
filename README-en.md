@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.19) —— 186 days
-- [html] [举例说明如何实现浏览器桌面通知？](https://github.com/haizlin/fe-interview/issues/1403)
-- [css] [举例说明你对相邻兄弟选择器的理解](https://github.com/haizlin/fe-interview/issues/1404)
-- [js] [当用户刷新网页时，js的请求有哪些地方会有缓存处理呢？](https://github.com/haizlin/fe-interview/issues/1405)
-- [skill] [你知道什么是PDCA吗？要怎么运用好它呢？](https://github.com/haizlin/fe-interview/issues/1406)
+## Today's Knowledge Points (2019.10.20) —— 187 days
+- [html] [placeholder如何在兼容IE？](https://github.com/haizlin/fe-interview/issues/1408)
+- [css] [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
+- [js] [你有使用过FileReader吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1410)
+- [skill] [你知道什么是人工智能和机器学习吗？说说你对它们的理解认知](https://github.com/haizlin/fe-interview/issues/1411)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 184d ays (2019.10.17)
-    - [html] [如何给一个下拉选项进行分组？](https://github.com/haizlin/fe-interview/issues/1379)
-    - [css] [请描述下你对translate()方法的理解](https://github.com/haizlin/fe-interview/issues/1380)
-    - [js] [说下你对面向对象的理解](https://github.com/haizlin/fe-interview/issues/1381)
-    - [skill] [你上家公司的接口是怎么管理的？](https://github.com/haizlin/fe-interview/issues/1382)
-
 - 185 days (2019.10.18)
     - [html] [HTML5如何唤醒APP？](https://github.com/haizlin/fe-interview/issues/1383)
     - [css] [你是怎么设计css sprites（精灵图）的？有哪些技巧？](https://github.com/haizlin/fe-interview/issues/1384)
     - [js] [onload事件和domcontentloaded哪个先执行呢？](https://github.com/haizlin/fe-interview/issues/1385)
     - [skill] [你知道什么是域名备案吗？备案有什么用？可以不备案吗？](https://github.com/haizlin/fe-interview/issues/1386)
+
+- 186 days (2019.10.19)
+    - [html] [举例说明如何实现浏览器桌面通知？](https://github.com/haizlin/fe-interview/issues/1403)
+    - [css] [举例说明你对相邻兄弟选择器的理解](https://github.com/haizlin/fe-interview/issues/1404)
+    - [js] [当用户刷新网页时，js的请求有哪些地方会有缓存处理呢？](https://github.com/haizlin/fe-interview/issues/1405)
+    - [skill] [你知道什么是PDCA吗？要怎么运用好它呢？](https://github.com/haizlin/fe-interview/issues/1406)
 
 - **[All](category/history.md)**
 
