@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第187天 (2019.10.20)
+    - [html] [placeholder如何在兼容IE？](https://github.com/haizlin/fe-interview/issues/1408)
+    - [css] [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
+    - [js] [你有使用过FileReader吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1410)
+    - [软技能] [你知道什么是人工智能和机器学习吗？说说你对它们的理解认知](https://github.com/haizlin/fe-interview/issues/1411)
+
 - 第186天 (2019.10.19)
     - [html] [举例说明如何实现浏览器桌面通知？](https://github.com/haizlin/fe-interview/issues/1403)
     - [css] [举例说明你对相邻兄弟选择器的理解](https://github.com/haizlin/fe-interview/issues/1404)
