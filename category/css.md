@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.13
+> 最新：2019.10.20
 
+- [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
+- [举例说明你对相邻兄弟选择器的理解](https://github.com/haizlin/fe-interview/issues/1404)
+- [你是怎么设计css sprites（精灵图）的？有哪些技巧？](https://github.com/haizlin/fe-interview/issues/1384)
+- [请描述下你对translate()方法的理解](https://github.com/haizlin/fe-interview/issues/1380)
+- [怎样去除图片自带的边距？](https://github.com/haizlin/fe-interview/issues/1376)
+- [让你手写一个reset的文件，你应该怎么写？要考虑哪些方面呢？](https://github.com/haizlin/fe-interview/issues/1372)
+- [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
 - [请使用css画一个圆，方法可以多种](https://github.com/haizlin/fe-interview/issues/1364)
 - [css中最常用的字体有哪些？你是怎么选择字体的？](https://github.com/haizlin/fe-interview/issues/1346)
 - [请举例说明css有哪些不可继承的属性？](https://github.com/haizlin/fe-interview/issues/1342)

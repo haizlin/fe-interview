@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.13
+> 最新：2019.10.20
 
+- [placeholder如何在兼容IE？](https://github.com/haizlin/fe-interview/issues/1408)
+- [举例说明如何实现浏览器桌面通知？](https://github.com/haizlin/fe-interview/issues/1403)
+- [HTML5如何唤醒APP？](https://github.com/haizlin/fe-interview/issues/1383)
+- [如何给一个下拉选项进行分组？](https://github.com/haizlin/fe-interview/issues/1379)
+- [HTML5的output是非常棒的一个标签，你对它有了解吗？](https://github.com/haizlin/fe-interview/issues/1375)
+- [举例说明HTML5的标签meter的用法](https://github.com/haizlin/fe-interview/issues/1371)
+- [请使用纯HTML制作一个进度条](https://github.com/haizlin/fe-interview/issues/1367)
 - [你有用过HTML5的track标签吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1363)
 - [htm、html、shtml三者有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1345)
 - [你有用过HTML5的requestAnimationFrame吗？它运用的场景有哪些呢？](https://github.com/haizlin/fe-interview/issues/1341)
