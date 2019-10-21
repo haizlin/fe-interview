@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第188天 (2019.10.21)
+    - [html] [png8和png24有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1413)
+    - [css] [用css给一个元素加边框有哪些方法？](https://github.com/haizlin/fe-interview/issues/1414)
+    - [js] [stopPropagation()和preventDefault()这两个方法有什么区别？](https://github.com/haizlin/fe-interview/issues/1415)
+    - [软技能] [你有听说过“分词”吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1416)
+
 - 第187天 (2019.10.20)
     - [html] [placeholder如何在兼容IE？](https://github.com/haizlin/fe-interview/issues/1408)
     - [css] [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
