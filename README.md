@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.10.22) —— 第189天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [有哪些方法可以将图片和文字显示在同一行上呢？](https://github.com/haizlin/fe-interview/issues/1417)
-- [css] [请使用css写一个多级的下拉菜单](https://github.com/haizlin/fe-interview/issues/1418)
-- [js] [写一个方法将html页面生成为图片](https://github.com/haizlin/fe-interview/issues/1419)
-- [软技能] [你觉得该不该写注释？你写注释的原则是什么？](https://github.com/haizlin/fe-interview/issues/1420)
+## 今天的知识点 (2019.10.23) —— 第190天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [主框架如何与iframe通信？如何解决跨域？](https://github.com/haizlin/fe-interview/issues/1428)
+- [css] [请说说颜色中#F00的每一位分别表示什么？为什么会有三位和六位的表示呢？](https://github.com/haizlin/fe-interview/issues/1429)
+- [js] [用原生js实现类似getElementsByClassName的方法，不能使用querySelectorAll](https://github.com/haizlin/fe-interview/issues/1430)
+- [软技能] [强类型和弱类型语言的区别是什么？](https://github.com/haizlin/fe-interview/issues/1431)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第187天 (2019.10.20)
-    - [html] [placeholder如何在兼容IE？](https://github.com/haizlin/fe-interview/issues/1408)
-    - [css] [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
-    - [js] [你有使用过FileReader吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1410)
-    - [软技能] [你知道什么是人工智能和机器学习吗？说说你对它们的理解认知](https://github.com/haizlin/fe-interview/issues/1411)
-
 - 第188天 (2019.10.21)
     - [html] [png8和png24有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1413)
     - [css] [用css给一个元素加边框有哪些方法？](https://github.com/haizlin/fe-interview/issues/1414)
     - [js] [stopPropagation()和preventDefault()这两个方法有什么区别？](https://github.com/haizlin/fe-interview/issues/1415)
     - [软技能] [你有听说过“分词”吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1416)
+
+- 第189天 (2019.10.22)
+    - [html] [有哪些方法可以将图片和文字显示在同一行上呢？](https://github.com/haizlin/fe-interview/issues/1417)
+    - [css] [请使用css写一个多级的下拉菜单](https://github.com/haizlin/fe-interview/issues/1418)
+    - [js] [写一个方法将html页面生成为图片](https://github.com/haizlin/fe-interview/issues/1419)
+    - [软技能] [你觉得该不该写注释？你写注释的原则是什么？](https://github.com/haizlin/fe-interview/issues/1420)
     
 - **[查看全部](category/history.md)**
 

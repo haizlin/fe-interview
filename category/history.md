@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第189天 (2019.10.22)
+    - [html] [有哪些方法可以将图片和文字显示在同一行上呢？](https://github.com/haizlin/fe-interview/issues/1417)
+    - [css] [请使用css写一个多级的下拉菜单](https://github.com/haizlin/fe-interview/issues/1418)
+    - [js] [写一个方法将html页面生成为图片](https://github.com/haizlin/fe-interview/issues/1419)
+    - [软技能] [你觉得该不该写注释？你写注释的原则是什么？](https://github.com/haizlin/fe-interview/issues/1420)
+
 - 第188天 (2019.10.21)
     - [html] [png8和png24有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1413)
     - [css] [用css给一个元素加边框有哪些方法？](https://github.com/haizlin/fe-interview/issues/1414)
