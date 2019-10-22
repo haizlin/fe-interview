@@ -172,6 +172,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（Daily Synchronized Updates）
 - [jianshu](https://www.jianshu.com/c/1ba24fbe0006)（Daily Synchronized Updates）
 - [segmentfault](https://segmentfault.com/blog/frontend-interview)（Daily Synchronized Updates）
+- [weibo](https://weibo.com/haizlin)（Daily Synchronized Updates）
 - [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
 - [kancloud](https://www.kancloud.cn/aya001001/fe-interview)（Weekly Synchronized Updates）
 - 「qianduanjianjie」 wechat（Scan QR code，Daily Synchronized Updates）

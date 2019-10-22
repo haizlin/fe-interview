@@ -172,7 +172,8 @@
 - [Github](https://github.com/haizlin/fe-interview)（每天同步更新）
 - [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
 - [简书专栏](https://www.jianshu.com/c/1ba24fbe0006)（每天同步更新）
-- [segmentfault专栏](https://segmentfault.com/blog/frontend-interview)（每天同步更新）
+- [segmentfault专栏](https://segmentfault.com/blog/frontend-interview)（每天同步更新）https://weibo.com/haizlin
+- [新浪微博](https://weibo.com/haizlin)（每天同步更新）
 - [开发者头条专栏](https://toutiao.io/subjects/359261)（每天同步更新）
 - [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
 - 「前端剑解」 微信公众号（扫描上方二维码，每天同步更新）
