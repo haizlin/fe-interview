@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第190天 (2019.10.23)
+    - [html] [主框架如何与iframe通信？如何解决跨域？](https://github.com/haizlin/fe-interview/issues/1428)
+    - [css] [请说说颜色中#F00的每一位分别表示什么？为什么会有三位和六位的表示呢？](https://github.com/haizlin/fe-interview/issues/1429)
+    - [js] [用原生js实现类似getElementsByClassName的方法，不能使用querySelectorAll](https://github.com/haizlin/fe-interview/issues/1430)
+    - [软技能] [强类型和弱类型语言的区别是什么？](https://github.com/haizlin/fe-interview/issues/1431)
+
 - 第189天 (2019.10.22)
     - [html] [有哪些方法可以将图片和文字显示在同一行上呢？](https://github.com/haizlin/fe-interview/issues/1417)
     - [css] [请使用css写一个多级的下拉菜单](https://github.com/haizlin/fe-interview/issues/1418)
