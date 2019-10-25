@@ -1,6 +1,24 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第191天 (2019.10.24)
+    - [html] [怎么使用HTML5实现录音的功能？](https://github.com/haizlin/fe-interview/issues/1432)
+    - [css] [举例说明css有哪些简写的属性和属性值？](https://github.com/haizlin/fe-interview/issues/1433)
+    - [js] [举例说明atob和btoa的用法](https://github.com/haizlin/fe-interview/issues/1434)
+    - [软技能] [你有用记事本来写过代码吗？说说你的感受！](https://github.com/haizlin/fe-interview/issues/1435)
+
+- 第190天 (2019.10.23)
+    - [html] [主框架如何与iframe通信？如何解决跨域？](https://github.com/haizlin/fe-interview/issues/1428)
+    - [css] [请说说颜色中#F00的每一位分别表示什么？为什么会有三位和六位的表示呢？](https://github.com/haizlin/fe-interview/issues/1429)
+    - [js] [用原生js实现类似getElementsByClassName的方法，不能使用querySelectorAll](https://github.com/haizlin/fe-interview/issues/1430)
+    - [软技能] [强类型和弱类型语言的区别是什么？](https://github.com/haizlin/fe-interview/issues/1431)
+
+- 第189天 (2019.10.22)
+    - [html] [有哪些方法可以将图片和文字显示在同一行上呢？](https://github.com/haizlin/fe-interview/issues/1417)
+    - [css] [请使用css写一个多级的下拉菜单](https://github.com/haizlin/fe-interview/issues/1418)
+    - [js] [写一个方法将html页面生成为图片](https://github.com/haizlin/fe-interview/issues/1419)
+    - [软技能] [你觉得该不该写注释？你写注释的原则是什么？](https://github.com/haizlin/fe-interview/issues/1420)
+
 - 第188天 (2019.10.21)
     - [html] [png8和png24有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1413)
     - [css] [用css给一个元素加边框有哪些方法？](https://github.com/haizlin/fe-interview/issues/1414)
