@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.25) —— 192 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [html的a标签属性rel="noopener"有什么作用？](https://github.com/haizlin/fe-interview/issues/1436)
-- [css] [为什么说不提倡用1px的小尺寸图片做背景平铺？](https://github.com/haizlin/fe-interview/issues/1437)
-- [js] [请用js实现一个简单的小区楼的电梯运行程序](https://github.com/haizlin/fe-interview/issues/1438)
-- [skill] [你有在linux下编程过吗？有使用过mac系统吗？说下它和win系统的区别？](https://github.com/haizlin/fe-interview/issues/1439)
+## Today's Knowledge Points (2019.10.26) —— 193 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明ul、dl、ol三个标签的区别？](https://github.com/haizlin/fe-interview/issues/1440)
+- [css] [解释下为什么css的reset不建议直接这么写：*{ margin:0; padding:0;}？](https://github.com/haizlin/fe-interview/issues/1441)
+- [js] [请写一个获取颜色的正则](https://github.com/haizlin/fe-interview/issues/1442)
+- [skill] [在工作中，你对开发环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1443)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 190 days (2019.10.23)
-    - [html] [主框架如何与iframe通信？如何解决跨域？](https://github.com/haizlin/fe-interview/issues/1428)
-    - [css] [请说说颜色中#F00的每一位分别表示什么？为什么会有三位和六位的表示呢？](https://github.com/haizlin/fe-interview/issues/1429)
-    - [js] [用原生js实现类似getElementsByClassName的方法，不能使用querySelectorAll](https://github.com/haizlin/fe-interview/issues/1430)
-    - [skill] [强类型和弱类型语言的区别是什么？](https://github.com/haizlin/fe-interview/issues/1431)
-
 - 191 days (2019.10.24)
     - [html] [怎么使用HTML5实现录音的功能？](https://github.com/haizlin/fe-interview/issues/1432)
     - [css] [举例说明css有哪些简写的属性和属性值？](https://github.com/haizlin/fe-interview/issues/1433)
     - [js] [举例说明atob和btoa的用法](https://github.com/haizlin/fe-interview/issues/1434)
     - [skill] [你有用记事本来写过代码吗？说说你的感受！](https://github.com/haizlin/fe-interview/issues/1435)
+
+- 192 days (2019.10.25)
+    - [html] [html的a标签属性rel="noopener"有什么作用？](https://github.com/haizlin/fe-interview/issues/1436)
+    - [css] [为什么说不提倡用1px的小尺寸图片做背景平铺？](https://github.com/haizlin/fe-interview/issues/1437)
+    - [js] [请用js实现一个简单的小区楼的电梯运行程序](https://github.com/haizlin/fe-interview/issues/1438)
+    - [skill] [你有在linux下编程过吗？有使用过mac系统吗？说下它和win系统的区别？](https://github.com/haizlin/fe-interview/issues/1439)
 
 - **[All](category/history.md)**
 
