@@ -1,4 +1,4 @@
-# 周汇总 2019.10.13
+# 周汇总 2019.10.27
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [placeholder如何在兼容IE？](https://github.com/haizlin/fe-interview/issues/1408)
-- [举例说明如何实现浏览器桌面通知？](https://github.com/haizlin/fe-interview/issues/1403)
-- [HTML5如何唤醒APP？](https://github.com/haizlin/fe-interview/issues/1383)
-- [如何给一个下拉选项进行分组？](https://github.com/haizlin/fe-interview/issues/1379)
-- [HTML5的output是非常棒的一个标签，你对它有了解吗？](https://github.com/haizlin/fe-interview/issues/1375)
-- [举例说明HTML5的标签meter的用法](https://github.com/haizlin/fe-interview/issues/1371)
-- [请使用纯HTML制作一个进度条](https://github.com/haizlin/fe-interview/issues/1367)
+- [html的标签属性bgcolor支持简写吗？如：bgcolor="#F00"](https://github.com/haizlin/fe-interview/issues/1444)
+- [举例说明ul、dl、ol三个标签的区别？](https://github.com/haizlin/fe-interview/issues/1440)
+- [html的a标签属性rel="noopener"有什么作用？](https://github.com/haizlin/fe-interview/issues/1436)
+- [怎么使用HTML5实现录音的功能？](https://github.com/haizlin/fe-interview/issues/1432)
+- [主框架如何与iframe通信？如何解决跨域？](https://github.com/haizlin/fe-interview/issues/1428)
+- [有哪些方法可以将图片和文字显示在同一行上呢？](https://github.com/haizlin/fe-interview/issues/1417)
+- [png8和png24有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1413)
 
 ## css
-- [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
-- [举例说明你对相邻兄弟选择器的理解](https://github.com/haizlin/fe-interview/issues/1404)
-- [你是怎么设计css sprites（精灵图）的？有哪些技巧？](https://github.com/haizlin/fe-interview/issues/1384)
-- [请描述下你对translate()方法的理解](https://github.com/haizlin/fe-interview/issues/1380)
-- [怎样去除图片自带的边距？](https://github.com/haizlin/fe-interview/issues/1376)
-- [让你手写一个reset的文件，你应该怎么写？要考虑哪些方面呢？](https://github.com/haizlin/fe-interview/issues/1372)
-- [你知道css的预处理器和后处理器都有哪些吗？它们有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1368)
+- [你最希望css拥有什么样的特性？（目前没有的）](https://github.com/haizlin/fe-interview/issues/1445)
+- [解释下为什么css的reset不建议直接这么写：*{ margin:0; padding:0;}？](https://github.com/haizlin/fe-interview/issues/1441)
+- [为什么说不提倡用1px的小尺寸图片做背景平铺？](https://github.com/haizlin/fe-interview/issues/1437)
+- [举例说明css有哪些简写的属性和属性值？](https://github.com/haizlin/fe-interview/issues/1433)
+- [请说说颜色中#F00的每一位分别表示什么？为什么会有三位和六位的表示呢？](https://github.com/haizlin/fe-interview/issues/1429)
+- [请使用css写一个多级的下拉菜单](https://github.com/haizlin/fe-interview/issues/1418)
+- [用css给一个元素加边框有哪些方法？](https://github.com/haizlin/fe-interview/issues/1414)
 
 ## js
-- [你有使用过FileReader吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1410)
-- [当用户刷新网页时，js的请求有哪些地方会有缓存处理呢？](https://github.com/haizlin/fe-interview/issues/1405)
-- [onload事件和domcontentloaded哪个先执行呢？](https://github.com/haizlin/fe-interview/issues/1385)
-- [说下你对面向对象的理解](https://github.com/haizlin/fe-interview/issues/1381)
-- [在js中函数返回多个值有哪些方法？](https://github.com/haizlin/fe-interview/issues/1377)
-- [为什么说js是弱类型语言，它的优缺点分别是什么？](https://github.com/haizlin/fe-interview/issues/1373)
-- [写一个密码生成器，并同时写一个密码强度校验的方法](https://github.com/haizlin/fe-interview/issues/1369)
+- [请使用纯js实现一个横向或纵向的无缝滚动效果](https://github.com/haizlin/fe-interview/issues/1446)
+- [请写一个获取颜色的正则](https://github.com/haizlin/fe-interview/issues/1442)
+- [请用js实现一个简单的小区楼的电梯运行程序](https://github.com/haizlin/fe-interview/issues/1438)
+- [举例说明atob和btoa的用法](https://github.com/haizlin/fe-interview/issues/1434)
+- [用原生js实现类似getElementsByClassName的方法，不能使用querySelectorAll](https://github.com/haizlin/fe-interview/issues/1430)
+- [写一个方法将html页面生成为图片](https://github.com/haizlin/fe-interview/issues/1419)
+- [stopPropagation()和preventDefault()这两个方法有什么区别？](https://github.com/haizlin/fe-interview/issues/1415)
 
 ## 软技能
-- [你知道什么是人工智能和机器学习吗？说说你对它们的理解认知](https://github.com/haizlin/fe-interview/issues/1411)
-- [你知道什么是PDCA吗？要怎么运用好它呢？](https://github.com/haizlin/fe-interview/issues/1406)
-- [你知道什么是域名备案吗？备案有什么用？可以不备案吗？](https://github.com/haizlin/fe-interview/issues/1386)
-- [你上家公司的接口是怎么管理的？](https://github.com/haizlin/fe-interview/issues/1382)
-- [说说你对AMD、CMD和CommonJS的理解](https://github.com/haizlin/fe-interview/issues/1378)
-- [你知道什么是ECMAScript吗？](https://github.com/haizlin/fe-interview/issues/1374)
-- [你有自己写过爬虫的程序吗？说说你对爬虫和反爬虫的理解？](https://github.com/haizlin/fe-interview/issues/1370)
+- [你有给自己制定过计划吗？怎么去落实的？](https://github.com/haizlin/fe-interview/issues/1447)
+- [在工作中，你对开发环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1443)
+- [你有在linux下编程过吗？有使用过mac系统吗？说下它和win系统的区别？](https://github.com/haizlin/fe-interview/issues/1439)
+- [你有用记事本来写过代码吗？说说你的感受！](https://github.com/haizlin/fe-interview/issues/1435)
+- [强类型和弱类型语言的区别是什么？](https://github.com/haizlin/fe-interview/issues/1431)
+- [你觉得该不该写注释？你写注释的原则是什么？](https://github.com/haizlin/fe-interview/issues/1420)
+- [你有听说过“分词”吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1416)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)
