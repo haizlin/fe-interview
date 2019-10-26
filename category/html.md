@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.20
+> 最新：2019.10.27
 
+- [html的标签属性bgcolor支持简写吗？如：bgcolor="#F00"](https://github.com/haizlin/fe-interview/issues/1444)
+- [举例说明ul、dl、ol三个标签的区别？](https://github.com/haizlin/fe-interview/issues/1440)
+- [html的a标签属性rel="noopener"有什么作用？](https://github.com/haizlin/fe-interview/issues/1436)
+- [怎么使用HTML5实现录音的功能？](https://github.com/haizlin/fe-interview/issues/1432)
+- [主框架如何与iframe通信？如何解决跨域？](https://github.com/haizlin/fe-interview/issues/1428)
+- [有哪些方法可以将图片和文字显示在同一行上呢？](https://github.com/haizlin/fe-interview/issues/1417)
+- [png8和png24有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1413)
 - [placeholder如何在兼容IE？](https://github.com/haizlin/fe-interview/issues/1408)
 - [举例说明如何实现浏览器桌面通知？](https://github.com/haizlin/fe-interview/issues/1403)
 - [HTML5如何唤醒APP？](https://github.com/haizlin/fe-interview/issues/1383)

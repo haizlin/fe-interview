@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.20
+> 最新：2019.10.27
 
+- [你有给自己制定过计划吗？怎么去落实的？](https://github.com/haizlin/fe-interview/issues/1447)
+- [在工作中，你对开发环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1443)
+- [你有在linux下编程过吗？有使用过mac系统吗？说下它和win系统的区别？](https://github.com/haizlin/fe-interview/issues/1439)
+- [你有用记事本来写过代码吗？说说你的感受！](https://github.com/haizlin/fe-interview/issues/1435)
+- [强类型和弱类型语言的区别是什么？](https://github.com/haizlin/fe-interview/issues/1431)
+- [你觉得该不该写注释？你写注释的原则是什么？](https://github.com/haizlin/fe-interview/issues/1420)
+- [你有听说过“分词”吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1416)
 - [你知道什么是人工智能和机器学习吗？说说你对它们的理解认知](https://github.com/haizlin/fe-interview/issues/1411)
 - [你知道什么是PDCA吗？要怎么运用好它呢？](https://github.com/haizlin/fe-interview/issues/1406)
 - [你知道什么是域名备案吗？备案有什么用？可以不备案吗？](https://github.com/haizlin/fe-interview/issues/1386)

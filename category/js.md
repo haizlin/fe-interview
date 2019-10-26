@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.20
+> 最新：2019.10.27
 
+- [请使用纯js实现一个横向或纵向的无缝滚动效果](https://github.com/haizlin/fe-interview/issues/1446)
+- [请写一个获取颜色的正则](https://github.com/haizlin/fe-interview/issues/1442)
+- [请用js实现一个简单的小区楼的电梯运行程序](https://github.com/haizlin/fe-interview/issues/1438)
+- [举例说明atob和btoa的用法](https://github.com/haizlin/fe-interview/issues/1434)
+- [用原生js实现类似getElementsByClassName的方法，不能使用querySelectorAll](https://github.com/haizlin/fe-interview/issues/1430)
+- [写一个方法将html页面生成为图片](https://github.com/haizlin/fe-interview/issues/1419)
+- [stopPropagation()和preventDefault()这两个方法有什么区别？](https://github.com/haizlin/fe-interview/issues/1415)
 - [你有使用过FileReader吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1410)
 - [当用户刷新网页时，js的请求有哪些地方会有缓存处理呢？](https://github.com/haizlin/fe-interview/issues/1405)
 - [onload事件和domcontentloaded哪个先执行呢？](https://github.com/haizlin/fe-interview/issues/1385)

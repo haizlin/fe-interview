@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.20
+> 最新：2019.10.27
 
+- [你最希望css拥有什么样的特性？（目前没有的）](https://github.com/haizlin/fe-interview/issues/1445)
+- [解释下为什么css的reset不建议直接这么写：*{ margin:0; padding:0;}？](https://github.com/haizlin/fe-interview/issues/1441)
+- [为什么说不提倡用1px的小尺寸图片做背景平铺？](https://github.com/haizlin/fe-interview/issues/1437)
+- [举例说明css有哪些简写的属性和属性值？](https://github.com/haizlin/fe-interview/issues/1433)
+- [请说说颜色中#F00的每一位分别表示什么？为什么会有三位和六位的表示呢？](https://github.com/haizlin/fe-interview/issues/1429)
+- [请使用css写一个多级的下拉菜单](https://github.com/haizlin/fe-interview/issues/1418)
+- [用css给一个元素加边框有哪些方法？](https://github.com/haizlin/fe-interview/issues/1414)
 - [相邻兄弟选择器、后代选择器和子选择器三者有什么区别？](https://github.com/haizlin/fe-interview/issues/1409)
 - [举例说明你对相邻兄弟选择器的理解](https://github.com/haizlin/fe-interview/issues/1404)
 - [你是怎么设计css sprites（精灵图）的？有哪些技巧？](https://github.com/haizlin/fe-interview/issues/1384)

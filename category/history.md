@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第193天 (2019.10.26)
+    - [html] [举例说明ul、dl、ol三个标签的区别？](https://github.com/haizlin/fe-interview/issues/1440)
+    - [css] [解释下为什么css的reset不建议直接这么写：*{ margin:0; padding:0;}？](https://github.com/haizlin/fe-interview/issues/1441)
+    - [js] [请写一个获取颜色的正则](https://github.com/haizlin/fe-interview/issues/1442)
+    - [软技能] [在工作中，你对开发环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1443)
+
 - 第192天 (2019.10.25)
     - [html] [html的a标签属性rel="noopener"有什么作用？](https://github.com/haizlin/fe-interview/issues/1436)
     - [css] [为什么说不提倡用1px的小尺寸图片做背景平铺？](https://github.com/haizlin/fe-interview/issues/1437)
