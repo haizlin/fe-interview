@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第194天 (2019.10.27)
+    - [html] [html的标签属性bgcolor支持简写吗？如：bgcolor="#F00"](https://github.com/haizlin/fe-interview/issues/1444)
+    - [css] [你最希望css拥有什么样的特性？（目前没有的）](https://github.com/haizlin/fe-interview/issues/1445)
+    - [js] [请使用纯js实现一个横向或纵向的无缝滚动效果](https://github.com/haizlin/fe-interview/issues/1446)
+    - [软技能] [你有给自己制定过计划吗？怎么去落实的？](https://github.com/haizlin/fe-interview/issues/1447)
+
 - 第193天 (2019.10.26)
     - [html] [举例说明ul、dl、ol三个标签的区别？](https://github.com/haizlin/fe-interview/issues/1440)
     - [css] [解释下为什么css的reset不建议直接这么写：*{ margin:0; padding:0;}？](https://github.com/haizlin/fe-interview/issues/1441)
