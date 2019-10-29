@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.29) —— 196 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [请举例说明关于html的引用标签有哪些？](https://github.com/haizlin/fe-interview/issues/1452)
-- [css] [你有去看过或者了解过css的标准文档吗？](https://github.com/haizlin/fe-interview/issues/1453)
-- [js] [请使用js实现一个省市县级联的效果](https://github.com/haizlin/fe-interview/issues/1454)
-- [skill] [你是计算机专业的吗？你们上学都学了哪些内容？](https://github.com/haizlin/fe-interview/issues/1455)
+## Today's Knowledge Points (2019.10.30) —— 197 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明a标签的作用都有哪些？](https://github.com/haizlin/fe-interview/issues/1456)
+- [css] [如何给段落的首行缩进？](https://github.com/haizlin/fe-interview/issues/1457)
+- [js] [写一个方法找出一段话里面出现频率最多的词](https://github.com/haizlin/fe-interview/issues/1458)
+- [skill] [你有做过Hybrid APP开发吗？说说你的经验](https://github.com/haizlin/fe-interview/issues/1459)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 194 days (2019.10.27)
-    - [html] [html的标签属性bgcolor支持简写吗？如：bgcolor="#F00"](https://github.com/haizlin/fe-interview/issues/1444)
-    - [css] [你最希望css拥有什么样的特性？（目前没有的）](https://github.com/haizlin/fe-interview/issues/1445)
-    - [js] [请使用纯js实现一个横向或纵向的无缝滚动效果](https://github.com/haizlin/fe-interview/issues/1446)
-    - [skill] [你有给自己制定过计划吗？怎么去落实的？](https://github.com/haizlin/fe-interview/issues/1447)
-
 - 195 days (2019.10.28)
     - [html] [请举例说明html支持的数学符号有哪些？](https://github.com/haizlin/fe-interview/issues/1448)
     - [css] [你知道CSS的标准发布流程吗？](https://github.com/haizlin/fe-interview/issues/1449)
     - [js] [用js实现一个轮播图，并简述有哪些实现的方法](https://github.com/haizlin/fe-interview/issues/1450)
     - [skill] [你知道开发好的功能要自测吗？你一般是怎么自测的呢？](https://github.com/haizlin/fe-interview/issues/1451)
+
+- 196 days (2019.10.29)
+    - [html] [请举例说明关于html的引用标签有哪些？](https://github.com/haizlin/fe-interview/issues/1452)
+    - [css] [你有去看过或者了解过css的标准文档吗？](https://github.com/haizlin/fe-interview/issues/1453)
+    - [js] [请使用js实现一个省市县级联的效果](https://github.com/haizlin/fe-interview/issues/1454)
+    - [skill] [你是计算机专业的吗？你们上学都学了哪些内容？](https://github.com/haizlin/fe-interview/issues/1455)
 
 - **[All](category/history.md)**
 

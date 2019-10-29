@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第196天 (2019.10.29)
+    - [html] [请举例说明关于html的引用标签有哪些？](https://github.com/haizlin/fe-interview/issues/1452)
+    - [css] [你有去看过或者了解过css的标准文档吗？](https://github.com/haizlin/fe-interview/issues/1453)
+    - [js] [请使用js实现一个省市县级联的效果](https://github.com/haizlin/fe-interview/issues/1454)
+    - [软技能] [你是计算机专业的吗？你们上学都学了哪些内容？](https://github.com/haizlin/fe-interview/issues/1455)
+
 - 第195天 (2019.10.28)
     - [html] [请举例说明html支持的数学符号有哪些？](https://github.com/haizlin/fe-interview/issues/1448)
     - [css] [你知道CSS的标准发布流程吗？](https://github.com/haizlin/fe-interview/issues/1449)
