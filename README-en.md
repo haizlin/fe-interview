@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.30) —— 197 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [举例说明a标签的作用都有哪些？](https://github.com/haizlin/fe-interview/issues/1456)
-- [css] [如何给段落的首行缩进？](https://github.com/haizlin/fe-interview/issues/1457)
-- [js] [写一个方法找出一段话里面出现频率最多的词](https://github.com/haizlin/fe-interview/issues/1458)
-- [skill] [你有做过Hybrid APP开发吗？说说你的经验](https://github.com/haizlin/fe-interview/issues/1459)
+## Today's Knowledge Points (2019.10.31) —— 198 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [说下cookie都有哪些缺点？](https://github.com/haizlin/fe-interview/issues/1460)
+- [css] [如何使用CSS实现段落首字母或首字放大效果？](https://github.com/haizlin/fe-interview/issues/1461)
+- [js] [请介绍下js的数据类型](https://github.com/haizlin/fe-interview/issues/1462)
+- [skill] [你有做过H5的游戏开发吗？说说它的开发步骤](https://github.com/haizlin/fe-interview/issues/1463)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 195 days (2019.10.28)
-    - [html] [请举例说明html支持的数学符号有哪些？](https://github.com/haizlin/fe-interview/issues/1448)
-    - [css] [你知道CSS的标准发布流程吗？](https://github.com/haizlin/fe-interview/issues/1449)
-    - [js] [用js实现一个轮播图，并简述有哪些实现的方法](https://github.com/haizlin/fe-interview/issues/1450)
-    - [skill] [你知道开发好的功能要自测吗？你一般是怎么自测的呢？](https://github.com/haizlin/fe-interview/issues/1451)
-
 - 196 days (2019.10.29)
     - [html] [请举例说明关于html的引用标签有哪些？](https://github.com/haizlin/fe-interview/issues/1452)
     - [css] [你有去看过或者了解过css的标准文档吗？](https://github.com/haizlin/fe-interview/issues/1453)
     - [js] [请使用js实现一个省市县级联的效果](https://github.com/haizlin/fe-interview/issues/1454)
     - [skill] [你是计算机专业的吗？你们上学都学了哪些内容？](https://github.com/haizlin/fe-interview/issues/1455)
+
+- 197 days (2019.10.30)
+    - [html] [举例说明a标签的作用都有哪些？](https://github.com/haizlin/fe-interview/issues/1456)
+    - [css] [如何给段落的首行缩进？](https://github.com/haizlin/fe-interview/issues/1457)
+    - [js] [写一个方法找出一段话里面出现频率最多的词](https://github.com/haizlin/fe-interview/issues/1458)
+    - [skill] [你有做过Hybrid APP开发吗？说说你的经验](https://github.com/haizlin/fe-interview/issues/1459)
 
 - **[All](category/history.md)**
 
