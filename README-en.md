@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.10.31) —— 198 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [说下cookie都有哪些缺点？](https://github.com/haizlin/fe-interview/issues/1460)
-- [css] [如何使用CSS实现段落首字母或首字放大效果？](https://github.com/haizlin/fe-interview/issues/1461)
-- [js] [请介绍下js的数据类型](https://github.com/haizlin/fe-interview/issues/1462)
-- [skill] [你有做过H5的游戏开发吗？说说它的开发步骤](https://github.com/haizlin/fe-interview/issues/1463)
+## Today's Knowledge Points (2019.11.01) —— 199 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [如何在页面中插入TAB符号（制表符）](https://github.com/haizlin/fe-interview/issues/1464)
+- [css] [border-radius:50%和border-radius:100%有什么区别？](https://github.com/haizlin/fe-interview/issues/1465)
+- [js] [ajax的请求状态有哪几种？](https://github.com/haizlin/fe-interview/issues/1466)
+- [skill] [假设有一个场景，需要前端自己计算十万级别或更多的数据，你有解决什么方案呢？](https://github.com/haizlin/fe-interview/issues/1467)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 196 days (2019.10.29)
-    - [html] [请举例说明关于html的引用标签有哪些？](https://github.com/haizlin/fe-interview/issues/1452)
-    - [css] [你有去看过或者了解过css的标准文档吗？](https://github.com/haizlin/fe-interview/issues/1453)
-    - [js] [请使用js实现一个省市县级联的效果](https://github.com/haizlin/fe-interview/issues/1454)
-    - [skill] [你是计算机专业的吗？你们上学都学了哪些内容？](https://github.com/haizlin/fe-interview/issues/1455)
-
 - 197 days (2019.10.30)
     - [html] [举例说明a标签的作用都有哪些？](https://github.com/haizlin/fe-interview/issues/1456)
     - [css] [如何给段落的首行缩进？](https://github.com/haizlin/fe-interview/issues/1457)
     - [js] [写一个方法找出一段话里面出现频率最多的词](https://github.com/haizlin/fe-interview/issues/1458)
     - [skill] [你有做过Hybrid APP开发吗？说说你的经验](https://github.com/haizlin/fe-interview/issues/1459)
+
+- 198 days (2019.10.31)
+    - [html] [说下cookie都有哪些缺点？](https://github.com/haizlin/fe-interview/issues/1460)
+    - [css] [如何使用CSS实现段落首字母或首字放大效果？](https://github.com/haizlin/fe-interview/issues/1461)
+    - [js] [请介绍下js的数据类型](https://github.com/haizlin/fe-interview/issues/1462)
+    - [skill] [你有做过H5的游戏开发吗？说说它的开发步骤](https://github.com/haizlin/fe-interview/issues/1463)
 
 - **[All](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第198天 (2019.10.31)
+    - [html] [说下cookie都有哪些缺点？](https://github.com/haizlin/fe-interview/issues/1460)
+    - [css] [如何使用CSS实现段落首字母或首字放大效果？](https://github.com/haizlin/fe-interview/issues/1461)
+    - [js] [请介绍下js的数据类型](https://github.com/haizlin/fe-interview/issues/1462)
+    - [软技能] [你有做过H5的游戏开发吗？说说它的开发步骤](https://github.com/haizlin/fe-interview/issues/1463)
+
 - 第197天 (2019.10.30)
     - [html] [举例说明a标签的作用都有哪些？](https://github.com/haizlin/fe-interview/issues/1456)
     - [css] [如何给段落的首行缩进？](https://github.com/haizlin/fe-interview/issues/1457)
