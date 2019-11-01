@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.11.01) —— 第199天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [如何在页面中插入TAB符号（制表符）](https://github.com/haizlin/fe-interview/issues/1464)
-- [css] [border-radius:50%和border-radius:100%有什么区别？](https://github.com/haizlin/fe-interview/issues/1465)
-- [js] [ajax的请求状态有哪几种？](https://github.com/haizlin/fe-interview/issues/1466)
-- [软技能] [假设有一个场景，需要前端自己计算十万级别或更多的数据，你有解决什么方案呢？](https://github.com/haizlin/fe-interview/issues/1467)
+## 今天的知识点 (2019.11.02) —— 第200天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [你知道p标签和br标签两者的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1468)
+- [css] [如何用css自定义滚动条？能做到所有浏览器兼容吗？想要做兼容怎么办呢？](https://github.com/haizlin/fe-interview/issues/1469)
+- [js] [页面的编码和被请求的资源编码不一致时如何处理？](https://github.com/haizlin/fe-interview/issues/1470)
+- [软技能] [你要是在家时，公司网站出问题了你是怎么解决的？](https://github.com/haizlin/fe-interview/issues/1471)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第197天 (2019.10.30)
-    - [html] [举例说明a标签的作用都有哪些？](https://github.com/haizlin/fe-interview/issues/1456)
-    - [css] [如何给段落的首行缩进？](https://github.com/haizlin/fe-interview/issues/1457)
-    - [js] [写一个方法找出一段话里面出现频率最多的词](https://github.com/haizlin/fe-interview/issues/1458)
-    - [软技能] [你有做过Hybrid APP开发吗？说说你的经验](https://github.com/haizlin/fe-interview/issues/1459)
-
 - 第198天 (2019.10.31)
     - [html] [说下cookie都有哪些缺点？](https://github.com/haizlin/fe-interview/issues/1460)
     - [css] [如何使用CSS实现段落首字母或首字放大效果？](https://github.com/haizlin/fe-interview/issues/1461)
     - [js] [请介绍下js的数据类型](https://github.com/haizlin/fe-interview/issues/1462)
     - [软技能] [你有做过H5的游戏开发吗？说说它的开发步骤](https://github.com/haizlin/fe-interview/issues/1463)
+
+- 第199天 (2019.11.01)
+    - [html] [如何在页面中插入TAB符号（制表符）](https://github.com/haizlin/fe-interview/issues/1464)
+    - [css] [border-radius:50%和border-radius:100%有什么区别？](https://github.com/haizlin/fe-interview/issues/1465)
+    - [js] [ajax的请求状态有哪几种？](https://github.com/haizlin/fe-interview/issues/1466)
+    - [软技能] [假设有一个场景，需要前端自己计算十万级别或更多的数据，你有解决什么方案呢？](https://github.com/haizlin/fe-interview/issues/1467)
     
 - **[查看全部](category/history.md)**
 

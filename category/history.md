@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第199天 (2019.11.01)
+    - [html] [如何在页面中插入TAB符号（制表符）](https://github.com/haizlin/fe-interview/issues/1464)
+    - [css] [border-radius:50%和border-radius:100%有什么区别？](https://github.com/haizlin/fe-interview/issues/1465)
+    - [js] [ajax的请求状态有哪几种？](https://github.com/haizlin/fe-interview/issues/1466)
+    - [软技能] [假设有一个场景，需要前端自己计算十万级别或更多的数据，你有解决什么方案呢？](https://github.com/haizlin/fe-interview/issues/1467)
+
 - 第198天 (2019.10.31)
     - [html] [说下cookie都有哪些缺点？](https://github.com/haizlin/fe-interview/issues/1460)
     - [css] [如何使用CSS实现段落首字母或首字放大效果？](https://github.com/haizlin/fe-interview/issues/1461)
