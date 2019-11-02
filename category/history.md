@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第200天 (2019.11.02)
+    - [html] [你知道p标签和br标签两者的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1468)
+    - [css] [如何用css自定义滚动条？能做到所有浏览器兼容吗？想要做兼容怎么办呢？](https://github.com/haizlin/fe-interview/issues/1469)
+    - [js] [页面的编码和被请求的资源编码不一致时如何处理？](https://github.com/haizlin/fe-interview/issues/1470)
+    - [软技能] [你要是在家时，公司网站出问题了你是怎么解决的？](https://github.com/haizlin/fe-interview/issues/1471)
+
 - 第199天 (2019.11.01)
     - [html] [如何在页面中插入TAB符号（制表符）](https://github.com/haizlin/fe-interview/issues/1464)
     - [css] [border-radius:50%和border-radius:100%有什么区别？](https://github.com/haizlin/fe-interview/issues/1465)

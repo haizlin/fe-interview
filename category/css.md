@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.27
+> 最新：2019.11.03
 
+- [举例说明伪类:focus-within的用法](https://github.com/haizlin/fe-interview/issues/1473)
+- [如何用css自定义滚动条？能做到所有浏览器兼容吗？想要做兼容怎么办呢？](https://github.com/haizlin/fe-interview/issues/1469)
+- [border-radius:50%和border-radius:100%有什么区别？](https://github.com/haizlin/fe-interview/issues/1465)
+- [如何使用CSS实现段落首字母或首字放大效果？](https://github.com/haizlin/fe-interview/issues/1461)
+- [如何给段落的首行缩进？](https://github.com/haizlin/fe-interview/issues/1457)
+- [你有去看过或者了解过css的标准文档吗？](https://github.com/haizlin/fe-interview/issues/1453)
+- [你知道CSS的标准发布流程吗？](https://github.com/haizlin/fe-interview/issues/1449)
 - [你最希望css拥有什么样的特性？（目前没有的）](https://github.com/haizlin/fe-interview/issues/1445)
 - [解释下为什么css的reset不建议直接这么写：*{ margin:0; padding:0;}？](https://github.com/haizlin/fe-interview/issues/1441)
 - [为什么说不提倡用1px的小尺寸图片做背景平铺？](https://github.com/haizlin/fe-interview/issues/1437)

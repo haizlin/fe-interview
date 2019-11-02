@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.27
+> 最新：2019.11.03
 
+- [你有用过哪些3D渲染的库？](https://github.com/haizlin/fe-interview/issues/1474)
+- [页面的编码和被请求的资源编码不一致时如何处理？](https://github.com/haizlin/fe-interview/issues/1470)
+- [ajax的请求状态有哪几种？](https://github.com/haizlin/fe-interview/issues/1466)
+- [请介绍下js的数据类型](https://github.com/haizlin/fe-interview/issues/1462)
+- [写一个方法找出一段话里面出现频率最多的词](https://github.com/haizlin/fe-interview/issues/1458)
+- [请使用js实现一个省市县级联的效果](https://github.com/haizlin/fe-interview/issues/1454)
+- [用js实现一个轮播图，并简述有哪些实现的方法](https://github.com/haizlin/fe-interview/issues/1450)
 - [请使用纯js实现一个横向或纵向的无缝滚动效果](https://github.com/haizlin/fe-interview/issues/1446)
 - [请写一个获取颜色的正则](https://github.com/haizlin/fe-interview/issues/1442)
 - [请用js实现一个简单的小区楼的电梯运行程序](https://github.com/haizlin/fe-interview/issues/1438)

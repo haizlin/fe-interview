@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.27
+> 最新：2019.11.03
 
+- [你知道什么是内网穿透吗？有没有玩过？](https://github.com/haizlin/fe-interview/issues/1475)
+- [你要是在家时，公司网站出问题了你是怎么解决的？](https://github.com/haizlin/fe-interview/issues/1471)
+- [假设有一个场景，需要前端自己计算十万级别或更多的数据，你有解决什么方案呢？](https://github.com/haizlin/fe-interview/issues/1467)
+- [你有做过H5的游戏开发吗？说说它的开发步骤](https://github.com/haizlin/fe-interview/issues/1463)
+- [你有做过Hybrid APP开发吗？说说你的经验](https://github.com/haizlin/fe-interview/issues/1459)
+- [你是计算机专业的吗？你们上学都学了哪些内容？](https://github.com/haizlin/fe-interview/issues/1455)
+- [你知道开发好的功能要自测吗？你一般是怎么自测的呢？](https://github.com/haizlin/fe-interview/issues/1451)
 - [你有给自己制定过计划吗？怎么去落实的？](https://github.com/haizlin/fe-interview/issues/1447)
 - [在工作中，你对开发环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1443)
 - [你有在linux下编程过吗？有使用过mac系统吗？说下它和win系统的区别？](https://github.com/haizlin/fe-interview/issues/1439)

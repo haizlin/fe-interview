@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.10.27
+> 最新：2019.11.03
 
+- [解释下为什么`<p> </p>`会换两行？](https://github.com/haizlin/fe-interview/issues/1472)
+- [你知道p标签和br标签两者的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1468)
+- [如何在页面中插入TAB符号（制表符）](https://github.com/haizlin/fe-interview/issues/1464)
+- [说下cookie都有哪些缺点？](https://github.com/haizlin/fe-interview/issues/1460)
+- [举例说明a标签的作用都有哪些？](https://github.com/haizlin/fe-interview/issues/1456)
+- [请举例说明关于html的引用标签有哪些？](https://github.com/haizlin/fe-interview/issues/1452)
+- [请举例说明html支持的数学符号有哪些？](https://github.com/haizlin/fe-interview/issues/1448)
 - [html的标签属性bgcolor支持简写吗？如：bgcolor="#F00"](https://github.com/haizlin/fe-interview/issues/1444)
 - [举例说明ul、dl、ol三个标签的区别？](https://github.com/haizlin/fe-interview/issues/1440)
 - [html的a标签属性rel="noopener"有什么作用？](https://github.com/haizlin/fe-interview/issues/1436)

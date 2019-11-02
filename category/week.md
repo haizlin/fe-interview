@@ -1,4 +1,4 @@
-# 周汇总 2019.10.27
+# 周汇总 2019.11.03
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [html的标签属性bgcolor支持简写吗？如：bgcolor="#F00"](https://github.com/haizlin/fe-interview/issues/1444)
-- [举例说明ul、dl、ol三个标签的区别？](https://github.com/haizlin/fe-interview/issues/1440)
-- [html的a标签属性rel="noopener"有什么作用？](https://github.com/haizlin/fe-interview/issues/1436)
-- [怎么使用HTML5实现录音的功能？](https://github.com/haizlin/fe-interview/issues/1432)
-- [主框架如何与iframe通信？如何解决跨域？](https://github.com/haizlin/fe-interview/issues/1428)
-- [有哪些方法可以将图片和文字显示在同一行上呢？](https://github.com/haizlin/fe-interview/issues/1417)
-- [png8和png24有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1413)
+- [解释下为什么`<p> </p>`会换两行？](https://github.com/haizlin/fe-interview/issues/1472)
+- [你知道p标签和br标签两者的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1468)
+- [如何在页面中插入TAB符号（制表符）](https://github.com/haizlin/fe-interview/issues/1464)
+- [说下cookie都有哪些缺点？](https://github.com/haizlin/fe-interview/issues/1460)
+- [举例说明a标签的作用都有哪些？](https://github.com/haizlin/fe-interview/issues/1456)
+- [请举例说明关于html的引用标签有哪些？](https://github.com/haizlin/fe-interview/issues/1452)
+- [请举例说明html支持的数学符号有哪些？](https://github.com/haizlin/fe-interview/issues/1448)
 
 ## css
-- [你最希望css拥有什么样的特性？（目前没有的）](https://github.com/haizlin/fe-interview/issues/1445)
-- [解释下为什么css的reset不建议直接这么写：*{ margin:0; padding:0;}？](https://github.com/haizlin/fe-interview/issues/1441)
-- [为什么说不提倡用1px的小尺寸图片做背景平铺？](https://github.com/haizlin/fe-interview/issues/1437)
-- [举例说明css有哪些简写的属性和属性值？](https://github.com/haizlin/fe-interview/issues/1433)
-- [请说说颜色中#F00的每一位分别表示什么？为什么会有三位和六位的表示呢？](https://github.com/haizlin/fe-interview/issues/1429)
-- [请使用css写一个多级的下拉菜单](https://github.com/haizlin/fe-interview/issues/1418)
-- [用css给一个元素加边框有哪些方法？](https://github.com/haizlin/fe-interview/issues/1414)
+- [举例说明伪类:focus-within的用法](https://github.com/haizlin/fe-interview/issues/1473)
+- [如何用css自定义滚动条？能做到所有浏览器兼容吗？想要做兼容怎么办呢？](https://github.com/haizlin/fe-interview/issues/1469)
+- [border-radius:50%和border-radius:100%有什么区别？](https://github.com/haizlin/fe-interview/issues/1465)
+- [如何使用CSS实现段落首字母或首字放大效果？](https://github.com/haizlin/fe-interview/issues/1461)
+- [如何给段落的首行缩进？](https://github.com/haizlin/fe-interview/issues/1457)
+- [你有去看过或者了解过css的标准文档吗？](https://github.com/haizlin/fe-interview/issues/1453)
+- [你知道CSS的标准发布流程吗？](https://github.com/haizlin/fe-interview/issues/1449)
 
 ## js
-- [请使用纯js实现一个横向或纵向的无缝滚动效果](https://github.com/haizlin/fe-interview/issues/1446)
-- [请写一个获取颜色的正则](https://github.com/haizlin/fe-interview/issues/1442)
-- [请用js实现一个简单的小区楼的电梯运行程序](https://github.com/haizlin/fe-interview/issues/1438)
-- [举例说明atob和btoa的用法](https://github.com/haizlin/fe-interview/issues/1434)
-- [用原生js实现类似getElementsByClassName的方法，不能使用querySelectorAll](https://github.com/haizlin/fe-interview/issues/1430)
-- [写一个方法将html页面生成为图片](https://github.com/haizlin/fe-interview/issues/1419)
-- [stopPropagation()和preventDefault()这两个方法有什么区别？](https://github.com/haizlin/fe-interview/issues/1415)
+- [你有用过哪些3D渲染的库？](https://github.com/haizlin/fe-interview/issues/1474)
+- [页面的编码和被请求的资源编码不一致时如何处理？](https://github.com/haizlin/fe-interview/issues/1470)
+- [ajax的请求状态有哪几种？](https://github.com/haizlin/fe-interview/issues/1466)
+- [请介绍下js的数据类型](https://github.com/haizlin/fe-interview/issues/1462)
+- [写一个方法找出一段话里面出现频率最多的词](https://github.com/haizlin/fe-interview/issues/1458)
+- [请使用js实现一个省市县级联的效果](https://github.com/haizlin/fe-interview/issues/1454)
+- [用js实现一个轮播图，并简述有哪些实现的方法](https://github.com/haizlin/fe-interview/issues/1450)
 
 ## 软技能
-- [你有给自己制定过计划吗？怎么去落实的？](https://github.com/haizlin/fe-interview/issues/1447)
-- [在工作中，你对开发环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1443)
-- [你有在linux下编程过吗？有使用过mac系统吗？说下它和win系统的区别？](https://github.com/haizlin/fe-interview/issues/1439)
-- [你有用记事本来写过代码吗？说说你的感受！](https://github.com/haizlin/fe-interview/issues/1435)
-- [强类型和弱类型语言的区别是什么？](https://github.com/haizlin/fe-interview/issues/1431)
-- [你觉得该不该写注释？你写注释的原则是什么？](https://github.com/haizlin/fe-interview/issues/1420)
-- [你有听说过“分词”吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/1416)
+- [你知道什么是内网穿透吗？有没有玩过？](https://github.com/haizlin/fe-interview/issues/1475)
+- [你要是在家时，公司网站出问题了你是怎么解决的？](https://github.com/haizlin/fe-interview/issues/1471)
+- [假设有一个场景，需要前端自己计算十万级别或更多的数据，你有解决什么方案呢？](https://github.com/haizlin/fe-interview/issues/1467)
+- [你有做过H5的游戏开发吗？说说它的开发步骤](https://github.com/haizlin/fe-interview/issues/1463)
+- [你有做过Hybrid APP开发吗？说说你的经验](https://github.com/haizlin/fe-interview/issues/1459)
+- [你是计算机专业的吗？你们上学都学了哪些内容？](https://github.com/haizlin/fe-interview/issues/1455)
+- [你知道开发好的功能要自测吗？你一般是怎么自测的呢？](https://github.com/haizlin/fe-interview/issues/1451)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)
