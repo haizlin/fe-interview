@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.11.03) —— 第201天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [解释下为什么`<p> </p>`会换两行？](https://github.com/haizlin/fe-interview/issues/1472)
-- [css] [举例说明伪类:focus-within的用法](https://github.com/haizlin/fe-interview/issues/1473)
-- [js] [你有用过哪些3D渲染的库？](https://github.com/haizlin/fe-interview/issues/1474)
-- [软技能] [你知道什么是内网穿透吗？有没有玩过？](https://github.com/haizlin/fe-interview/issues/1475)
+## 今天的知识点 (2019.11.04) —— 第202天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [你有使用过HTML5的dialog标签吗？说说看，它有什么特点？](https://github.com/haizlin/fe-interview/issues/1476)
+- [css] [请用css写一个扫码的加载动画图](https://github.com/haizlin/fe-interview/issues/1477)
+- [js] [如何使用js获取当前的url和来源的url？](https://github.com/haizlin/fe-interview/issues/1478)
+- [软技能] [你有想过创业的打算吗？](https://github.com/haizlin/fe-interview/issues/1479)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第199天 (2019.11.01)
-    - [html] [如何在页面中插入TAB符号（制表符）](https://github.com/haizlin/fe-interview/issues/1464)
-    - [css] [border-radius:50%和border-radius:100%有什么区别？](https://github.com/haizlin/fe-interview/issues/1465)
-    - [js] [ajax的请求状态有哪几种？](https://github.com/haizlin/fe-interview/issues/1466)
-    - [软技能] [假设有一个场景，需要前端自己计算十万级别或更多的数据，你有解决什么方案呢？](https://github.com/haizlin/fe-interview/issues/1467)
-
 - 第200天 (2019.11.02)
     - [html] [你知道p标签和br标签两者的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1468)
     - [css] [如何用css自定义滚动条？能做到所有浏览器兼容吗？想要做兼容怎么办呢？](https://github.com/haizlin/fe-interview/issues/1469)
     - [js] [页面的编码和被请求的资源编码不一致时如何处理？](https://github.com/haizlin/fe-interview/issues/1470)
     - [软技能] [你要是在家时，公司网站出问题了你是怎么解决的？](https://github.com/haizlin/fe-interview/issues/1471)
+
+- 第201天 (2019.11.03)
+    - [html] [解释下为什么`<p> </p>`会换两行？](https://github.com/haizlin/fe-interview/issues/1472)
+    - [css] [举例说明伪类:focus-within的用法](https://github.com/haizlin/fe-interview/issues/1473)
+    - [js] [你有用过哪些3D渲染的库？](https://github.com/haizlin/fe-interview/issues/1474)
+    - [软技能] [你知道什么是内网穿透吗？有没有玩过？](https://github.com/haizlin/fe-interview/issues/1475)
     
 - **[查看全部](category/history.md)**
 
