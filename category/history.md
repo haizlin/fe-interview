@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第202天 (2019.11.04)
+    - [html] [你有使用过HTML5的dialog标签吗？说说看，它有什么特点？](https://github.com/haizlin/fe-interview/issues/1476)
+    - [css] [请用css写一个扫码的加载动画图](https://github.com/haizlin/fe-interview/issues/1477)
+    - [js] [如何使用js获取当前的url和来源的url？](https://github.com/haizlin/fe-interview/issues/1478)
+    - [软技能] [你有想过创业的打算吗？](https://github.com/haizlin/fe-interview/issues/1479)
+
 - 第201天 (2019.11.03)
     - [html] [解释下为什么`<p> </p>`会换两行？](https://github.com/haizlin/fe-interview/issues/1472)
     - [css] [举例说明伪类:focus-within的用法](https://github.com/haizlin/fe-interview/issues/1473)
