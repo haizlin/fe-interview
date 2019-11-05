@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.11.05) —— 第203天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [canvas的width与height属性的值可不可以带单位？](https://github.com/haizlin/fe-interview/issues/1480)
-- [css] [height和line-height的区别是什么呢？](https://github.com/haizlin/fe-interview/issues/1481)
-- [js] [你平时是怎么调试js的？会断点调试吗？断点调试有什么技巧呢？](https://github.com/haizlin/fe-interview/issues/1482)
-- [软技能] [前端如何防止XSS攻击？](https://github.com/haizlin/fe-interview/issues/1483)
+## 今天的知识点 (2019.11.06) —— 第204天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [说下你对DOM树的理解](https://github.com/haizlin/fe-interview/issues/1484)
+- [css] [手写一个使用css3旋转硬币的效果](https://github.com/haizlin/fe-interview/issues/1485)
+- [js] [举例说明document.execCommand有哪些用途](https://github.com/haizlin/fe-interview/issues/1486)
+- [软技能] [你知道什么是区块链吗？](https://github.com/haizlin/fe-interview/issues/1487)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第201天 (2019.11.03)
-    - [html] [解释下为什么`<p> </p>`会换两行？](https://github.com/haizlin/fe-interview/issues/1472)
-    - [css] [举例说明伪类:focus-within的用法](https://github.com/haizlin/fe-interview/issues/1473)
-    - [js] [你有用过哪些3D渲染的库？](https://github.com/haizlin/fe-interview/issues/1474)
-    - [软技能] [你知道什么是内网穿透吗？有没有玩过？](https://github.com/haizlin/fe-interview/issues/1475)
-
 - 第202天 (2019.11.04)
     - [html] [你有使用过HTML5的dialog标签吗？说说看，它有什么特点？](https://github.com/haizlin/fe-interview/issues/1476)
     - [css] [请用css写一个扫码的加载动画图](https://github.com/haizlin/fe-interview/issues/1477)
     - [js] [如何使用js获取当前的url和来源的url？](https://github.com/haizlin/fe-interview/issues/1478)
     - [软技能] [你有想过创业的打算吗？](https://github.com/haizlin/fe-interview/issues/1479)
+
+- 第203天 (2019.11.05)
+    - [html] [canvas的width与height属性的值可不可以带单位？](https://github.com/haizlin/fe-interview/issues/1480)
+    - [css] [height和line-height的区别是什么呢？](https://github.com/haizlin/fe-interview/issues/1481)
+    - [js] [你平时是怎么调试js的？会断点调试吗？断点调试有什么技巧呢？](https://github.com/haizlin/fe-interview/issues/1482)
+    - [软技能] [前端如何防止XSS攻击？](https://github.com/haizlin/fe-interview/issues/1483)
     
 - **[查看全部](category/history.md)**
 
