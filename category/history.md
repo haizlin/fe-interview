@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第204天 (2019.11.06)
+    - [html] [说下你对DOM树的理解](https://github.com/haizlin/fe-interview/issues/1484)
+    - [css] [手写一个使用css3旋转硬币的效果](https://github.com/haizlin/fe-interview/issues/1485)
+    - [js] [举例说明document.execCommand有哪些用途](https://github.com/haizlin/fe-interview/issues/1486)
+    - [软技能] [你知道什么是区块链吗？](https://github.com/haizlin/fe-interview/issues/1487)
+
 - 第203天 (2019.11.05)
     - [html] [canvas的width与height属性的值可不可以带单位？](https://github.com/haizlin/fe-interview/issues/1480)
     - [css] [height和line-height的区别是什么呢？](https://github.com/haizlin/fe-interview/issues/1481)
