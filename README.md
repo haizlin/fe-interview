@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.11.07) —— 第205天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你有使用过picture标签吗？说说它有哪些运用场景](https://github.com/haizlin/fe-interview/issues/1488)
-- [css] [使用css3做一个魔方旋转的效果](https://github.com/haizlin/fe-interview/issues/1489)
-- [js] [getElementById和querySelector方法的区别是什么？](https://github.com/haizlin/fe-interview/issues/1490)
-- [软技能] [前端如何预防SQL注入？](https://github.com/haizlin/fe-interview/issues/1491)
+## 今天的知识点 (2019.11.08) —— 第206天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [移动端点击300ms的延迟出现的原因是什么？你的解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1492)
+- [css] [如果给一个元素设置background-color,它的颜色会填充哪些区域呢？](https://github.com/haizlin/fe-interview/issues/1493)
+- [js] [用原生js获取DOM元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1494)
+- [软技能] [你平时熬夜吗？](https://github.com/haizlin/fe-interview/issues/1495)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第203天 (2019.11.05)
-    - [html] [canvas的width与height属性的值可不可以带单位？](https://github.com/haizlin/fe-interview/issues/1480)
-    - [css] [height和line-height的区别是什么呢？](https://github.com/haizlin/fe-interview/issues/1481)
-    - [js] [你平时是怎么调试js的？会断点调试吗？断点调试有什么技巧呢？](https://github.com/haizlin/fe-interview/issues/1482)
-    - [软技能] [前端如何防止XSS攻击？](https://github.com/haizlin/fe-interview/issues/1483)
-
 - 第204天 (2019.11.06)
     - [html] [说下你对DOM树的理解](https://github.com/haizlin/fe-interview/issues/1484)
     - [css] [手写一个使用css3旋转硬币的效果](https://github.com/haizlin/fe-interview/issues/1485)
     - [js] [举例说明document.execCommand有哪些用途](https://github.com/haizlin/fe-interview/issues/1486)
     - [软技能] [你知道什么是区块链吗？](https://github.com/haizlin/fe-interview/issues/1487)
+
+- 第205天 (2019.11.07)
+    - [html] [你有使用过picture标签吗？说说它有哪些运用场景](https://github.com/haizlin/fe-interview/issues/1488)
+    - [css] [使用css3做一个魔方旋转的效果](https://github.com/haizlin/fe-interview/issues/1489)
+    - [js] [getElementById和querySelector方法的区别是什么？](https://github.com/haizlin/fe-interview/issues/1490)
+    - [软技能] [前端如何预防SQL注入？](https://github.com/haizlin/fe-interview/issues/1491)
     
 - **[查看全部](category/history.md)**
 
