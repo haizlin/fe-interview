@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第206天 (2019.11.08)
+    - [html] [移动端点击300ms的延迟出现的原因是什么？你的解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1492)
+    - [css] [如果给一个元素设置background-color,它的颜色会填充哪些区域呢？](https://github.com/haizlin/fe-interview/issues/1493)
+    - [js] [用原生js获取DOM元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1494)
+    - [软技能] [你平时熬夜吗？](https://github.com/haizlin/fe-interview/issues/1495)
+
 - 第205天 (2019.11.07)
     - [html] [你有使用过picture标签吗？说说它有哪些运用场景](https://github.com/haizlin/fe-interview/issues/1488)
     - [css] [使用css3做一个魔方旋转的效果](https://github.com/haizlin/fe-interview/issues/1489)
