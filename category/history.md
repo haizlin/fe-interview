@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第207天 (2019.11.09)
+    - [html] [你是如何组织html代码的？](https://github.com/haizlin/fe-interview/issues/1496)
+    - [css] [当全国哀悼日时，怎么让整个网站变成灰色呢？](https://github.com/haizlin/fe-interview/issues/1497)
+    - [js] [平时调试用console.log的输出结果可信吗？为什么？](https://github.com/haizlin/fe-interview/issues/1498)
+    - [软技能] [你平时有玩游戏吗？都玩什么游戏呢？玩得如何？](https://github.com/haizlin/fe-interview/issues/1499)
+
 - 第206天 (2019.11.08)
     - [html] [移动端点击300ms的延迟出现的原因是什么？你的解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1492)
     - [css] [如果给一个元素设置background-color,它的颜色会填充哪些区域呢？](https://github.com/haizlin/fe-interview/issues/1493)

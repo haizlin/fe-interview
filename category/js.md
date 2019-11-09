@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.03
+> 最新：2019.11.10
 
+- [js的控制台输出，平时除了用console.log外，你还知道哪些？使用console.log应该注意什么？](https://github.com/haizlin/fe-interview/issues/1502)
+- [平时调试用console.log的输出结果可信吗？为什么？](https://github.com/haizlin/fe-interview/issues/1498)
+- [用原生js获取DOM元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1494)
+- [getElementById和querySelector方法的区别是什么？](https://github.com/haizlin/fe-interview/issues/1490)
+- [举例说明document.execCommand有哪些用途](https://github.com/haizlin/fe-interview/issues/1486)
+- [你平时是怎么调试js的？会断点调试吗？断点调试有什么技巧呢？](https://github.com/haizlin/fe-interview/issues/1482)
+- [如何使用js获取当前的url和来源的url？](https://github.com/haizlin/fe-interview/issues/1478)
 - [你有用过哪些3D渲染的库？](https://github.com/haizlin/fe-interview/issues/1474)
 - [页面的编码和被请求的资源编码不一致时如何处理？](https://github.com/haizlin/fe-interview/issues/1470)
 - [ajax的请求状态有哪几种？](https://github.com/haizlin/fe-interview/issues/1466)

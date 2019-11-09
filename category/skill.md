@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.03
+> 最新：2019.11.10
 
+- [说说你对绩效的理解？](https://github.com/haizlin/fe-interview/issues/1503)
+- [你平时有玩游戏吗？都玩什么游戏呢？玩得如何？](https://github.com/haizlin/fe-interview/issues/1499)
+- [你平时熬夜吗？](https://github.com/haizlin/fe-interview/issues/1495)
+- [前端如何预防SQL注入？](https://github.com/haizlin/fe-interview/issues/1491)
+- [你知道什么是区块链吗？](https://github.com/haizlin/fe-interview/issues/1487)
+- [前端如何防止XSS攻击？](https://github.com/haizlin/fe-interview/issues/1483)
+- [你有想过创业的打算吗？](https://github.com/haizlin/fe-interview/issues/1479)
 - [你知道什么是内网穿透吗？有没有玩过？](https://github.com/haizlin/fe-interview/issues/1475)
 - [你要是在家时，公司网站出问题了你是怎么解决的？](https://github.com/haizlin/fe-interview/issues/1471)
 - [假设有一个场景，需要前端自己计算十万级别或更多的数据，你有解决什么方案呢？](https://github.com/haizlin/fe-interview/issues/1467)

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.03
+> 最新：2019.11.10
 
+- [举例说明表格中如何再嵌套表格](https://github.com/haizlin/fe-interview/issues/1500)
+- [你是如何组织html代码的？](https://github.com/haizlin/fe-interview/issues/1496)
+- [移动端点击300ms的延迟出现的原因是什么？你的解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1492)
+- [你有使用过picture标签吗？说说它有哪些运用场景](https://github.com/haizlin/fe-interview/issues/1488)
+- [说下你对DOM树的理解](https://github.com/haizlin/fe-interview/issues/1484)
+- [canvas的width与height属性的值可不可以带单位？](https://github.com/haizlin/fe-interview/issues/1480)
+- [你有使用过HTML5的dialog标签吗？说说看，它有什么特点？](https://github.com/haizlin/fe-interview/issues/1476)
 - [解释下为什么`<p> </p>`会换两行？](https://github.com/haizlin/fe-interview/issues/1472)
 - [你知道p标签和br标签两者的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/1468)
 - [如何在页面中插入TAB符号（制表符）](https://github.com/haizlin/fe-interview/issues/1464)
