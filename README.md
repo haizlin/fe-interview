@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.11.10) —— 第208天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [举例说明表格中如何再嵌套表格](https://github.com/haizlin/fe-interview/issues/1500)
-- [css] [怎样用纯CSS实现禁止鼠标点击事件？](https://github.com/haizlin/fe-interview/issues/1501)
-- [js] [js的控制台输出，平时除了用console.log外，你还知道哪些？使用console.log应该注意什么？](https://github.com/haizlin/fe-interview/issues/1502)
-- [软技能] [说说你对绩效的理解？](https://github.com/haizlin/fe-interview/issues/1503)
+## 今天的知识点 (2019.11.11) —— 第209天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如果在写HTML时漏写了闭合标签，怎么办呢？](https://github.com/haizlin/fe-interview/issues/1504)
+- [css] [实现一个上下固定，中间自动填满的布局](https://github.com/haizlin/fe-interview/issues/1505)
+- [js] [你知道什么是PAJAX吗？它和AJAX有什么区别？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1506)
+- [软技能] [在平时开发的时候，你有考虑过边界问题吗？说说你对边界的理解！](https://github.com/haizlin/fe-interview/issues/1507)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第206天 (2019.11.08)
-    - [html] [移动端点击300ms的延迟出现的原因是什么？你的解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1492)
-    - [css] [如果给一个元素设置background-color,它的颜色会填充哪些区域呢？](https://github.com/haizlin/fe-interview/issues/1493)
-    - [js] [用原生js获取DOM元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1494)
-    - [软技能] [你平时熬夜吗？](https://github.com/haizlin/fe-interview/issues/1495)
-
 - 第207天 (2019.11.09)
     - [html] [你是如何组织html代码的？](https://github.com/haizlin/fe-interview/issues/1496)
     - [css] [当全国哀悼日时，怎么让整个网站变成灰色呢？](https://github.com/haizlin/fe-interview/issues/1497)
     - [js] [平时调试用console.log的输出结果可信吗？为什么？](https://github.com/haizlin/fe-interview/issues/1498)
     - [软技能] [你平时有玩游戏吗？都玩什么游戏呢？玩得如何？](https://github.com/haizlin/fe-interview/issues/1499)
+
+- 第208天 (2019.11.10)
+    - [html] [举例说明表格中如何再嵌套表格](https://github.com/haizlin/fe-interview/issues/1500)
+    - [css] [怎样用纯CSS实现禁止鼠标点击事件？](https://github.com/haizlin/fe-interview/issues/1501)
+    - [js] [js的控制台输出，平时除了用console.log外，你还知道哪些？使用console.log应该注意什么？](https://github.com/haizlin/fe-interview/issues/1502)
+    - [软技能] [说说你对绩效的理解？](https://github.com/haizlin/fe-interview/issues/1503)
     
 - **[查看全部](category/history.md)**
 
