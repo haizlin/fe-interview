@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第209天 (2019.11.11)
+    - [html] [如果在写HTML时漏写了闭合标签，怎么办呢？](https://github.com/haizlin/fe-interview/issues/1504)
+    - [css] [实现一个上下固定，中间自动填满的布局](https://github.com/haizlin/fe-interview/issues/1505)
+    - [js] [你知道什么是PAJAX吗？它和AJAX有什么区别？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1506)
+    - [软技能] [在平时开发的时候，你有考虑过边界问题吗？说说你对边界的理解！](https://github.com/haizlin/fe-interview/issues/1507)
+
 - 第208天 (2019.11.10)
     - [html] [举例说明表格中如何再嵌套表格](https://github.com/haizlin/fe-interview/issues/1500)
     - [css] [怎样用纯CSS实现禁止鼠标点击事件？](https://github.com/haizlin/fe-interview/issues/1501)

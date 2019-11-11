@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.11.11) —— 209 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [如果在写HTML时漏写了闭合标签，怎么办呢？](https://github.com/haizlin/fe-interview/issues/1504)
-- [css] [实现一个上下固定，中间自动填满的布局](https://github.com/haizlin/fe-interview/issues/1505)
-- [js] [你知道什么是PAJAX吗？它和AJAX有什么区别？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1506)
-- [skill] [在平时开发的时候，你有考虑过边界问题吗？说说你对边界的理解！](https://github.com/haizlin/fe-interview/issues/1507)
+## Today's Knowledge Points (2019.11.12) —— 210 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [HTML的标签这么多，我要全部记住吗？如果不要怎么办？](https://github.com/haizlin/fe-interview/issues/1508)
+- [css] [请写出:link、:visited、:hover、:active的执行顺序](https://github.com/haizlin/fe-interview/issues/1509)
+- [js] [写一个方法，传入数字x，从一个一维数组里找到两个数字符合“n1 + n2 ＝ x”](https://github.com/haizlin/fe-interview/issues/1510)
+- [skill] [说说你对自我认识边界的理解](https://github.com/haizlin/fe-interview/issues/1511)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 207 days (2019.11.09)
-    - [html] [你是如何组织html代码的？](https://github.com/haizlin/fe-interview/issues/1496)
-    - [css] [当全国哀悼日时，怎么让整个网站变成灰色呢？](https://github.com/haizlin/fe-interview/issues/1497)
-    - [js] [平时调试用console.log的输出结果可信吗？为什么？](https://github.com/haizlin/fe-interview/issues/1498)
-    - [skill] [你平时有玩游戏吗？都玩什么游戏呢？玩得如何？](https://github.com/haizlin/fe-interview/issues/1499)
-
 - 208 days (2019.11.10)
     - [html] [举例说明表格中如何再嵌套表格](https://github.com/haizlin/fe-interview/issues/1500)
     - [css] [怎样用纯CSS实现禁止鼠标点击事件？](https://github.com/haizlin/fe-interview/issues/1501)
     - [js] [js的控制台输出，平时除了用console.log外，你还知道哪些？使用console.log应该注意什么？](https://github.com/haizlin/fe-interview/issues/1502)
     - [skill] [说说你对绩效的理解？](https://github.com/haizlin/fe-interview/issues/1503)
+
+- 209 days (2019.11.11)
+    - [html] [如果在写HTML时漏写了闭合标签，怎么办呢？](https://github.com/haizlin/fe-interview/issues/1504)
+    - [css] [实现一个上下固定，中间自动填满的布局](https://github.com/haizlin/fe-interview/issues/1505)
+    - [js] [你知道什么是PAJAX吗？它和AJAX有什么区别？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1506)
+    - [skill] [在平时开发的时候，你有考虑过边界问题吗？说说你对边界的理解！](https://github.com/haizlin/fe-interview/issues/1507)
 
 - **[All](category/history.md)**
 
