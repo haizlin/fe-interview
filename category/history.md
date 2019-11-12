@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第210天 (2019.11.12)
+    - [html] [HTML的标签这么多，我要全部记住吗？如果不要怎么办？](https://github.com/haizlin/fe-interview/issues/1508)
+    - [css] [请写出:link、:visited、:hover、:active的执行顺序](https://github.com/haizlin/fe-interview/issues/1509)
+    - [js] [写一个方法，传入数字x，从一个一维数组里找到两个数字符合“n1 + n2 ＝ x”](https://github.com/haizlin/fe-interview/issues/1510)
+    - [软技能] [说说你对自我认识边界的理解](https://github.com/haizlin/fe-interview/issues/1511)
+
 - 第209天 (2019.11.11)
     - [html] [如果在写HTML时漏写了闭合标签，怎么办呢？](https://github.com/haizlin/fe-interview/issues/1504)
     - [css] [实现一个上下固定，中间自动填满的布局](https://github.com/haizlin/fe-interview/issues/1505)
