@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.11.12) —— 210 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [HTML的标签这么多，我要全部记住吗？如果不要怎么办？](https://github.com/haizlin/fe-interview/issues/1508)
-- [css] [请写出:link、:visited、:hover、:active的执行顺序](https://github.com/haizlin/fe-interview/issues/1509)
-- [js] [写一个方法，传入数字x，从一个一维数组里找到两个数字符合“n1 + n2 ＝ x”](https://github.com/haizlin/fe-interview/issues/1510)
-- [skill] [说说你对自我认识边界的理解](https://github.com/haizlin/fe-interview/issues/1511)
+## Today's Knowledge Points (2019.11.14) —— 212 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [如何自动转移到新的页面？](https://github.com/haizlin/fe-interview/issues/1516)
+- [css] [举例说明常用的cursor取值有哪些？](https://github.com/haizlin/fe-interview/issues/1517)
+- [js] [举例说明常用的BOM属性和方法有哪些？](https://github.com/haizlin/fe-interview/issues/1518)
+- [skill] [你所在的公司里的项目有用过敏捷开发吗？请说说你对敏捷开发的理解](https://github.com/haizlin/fe-interview/issues/1519)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
