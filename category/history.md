@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第211天 (2019.11.13)
+    - [html] [如何防止他人窃取我的源代码或图片？](https://github.com/haizlin/fe-interview/issues/1512)
+    - [css] [举例说明clear取值有哪些？](https://github.com/haizlin/fe-interview/issues/1513)
+    - [js] [写个方法判断当前脚本运行在浏览器还是node环境中](https://github.com/haizlin/fe-interview/issues/1514)
+    - [软技能] [除了前端以外还了解什么其它技术么？你自己最最厉害的技能是什么？](https://github.com/haizlin/fe-interview/issues/1515)
+
 - 第210天 (2019.11.12)
     - [html] [HTML的标签这么多，我要全部记住吗？如果不要怎么办？](https://github.com/haizlin/fe-interview/issues/1508)
     - [css] [请写出:link、:visited、:hover、:active的执行顺序](https://github.com/haizlin/fe-interview/issues/1509)

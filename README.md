@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.11.13) —— 第211天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [如何防止他人窃取我的源代码或图片？](https://github.com/haizlin/fe-interview/issues/1512)
-- [css] [举例说明clear取值有哪些？](https://github.com/haizlin/fe-interview/issues/1513)
-- [js] [写个方法判断当前脚本运行在浏览器还是node环境中](https://github.com/haizlin/fe-interview/issues/1514)
-- [软技能] [除了前端以外还了解什么其它技术么？你自己最最厉害的技能是什么？](https://github.com/haizlin/fe-interview/issues/1515)
+## 今天的知识点 (2019.11.14) —— 第212天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何自动转移到新的页面？](https://github.com/haizlin/fe-interview/issues/1516)
+- [css] [举例说明常用的cursor取值有哪些？](https://github.com/haizlin/fe-interview/issues/1517)
+- [js] [举例说明常用的BOM属性和方法有哪些？](https://github.com/haizlin/fe-interview/issues/1518)
+- [软技能] [你所在的公司里的项目有用过敏捷开发吗？请说说你对敏捷开发的理解](https://github.com/haizlin/fe-interview/issues/1519)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第209天 (2019.11.11)
-    - [html] [如果在写HTML时漏写了闭合标签，怎么办呢？](https://github.com/haizlin/fe-interview/issues/1504)
-    - [css] [实现一个上下固定，中间自动填满的布局](https://github.com/haizlin/fe-interview/issues/1505)
-    - [js] [你知道什么是PAJAX吗？它和AJAX有什么区别？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1506)
-    - [软技能] [在平时开发的时候，你有考虑过边界问题吗？说说你对边界的理解！](https://github.com/haizlin/fe-interview/issues/1507)
-
 - 第210天 (2019.11.12)
     - [html] [HTML的标签这么多，我要全部记住吗？如果不要怎么办？](https://github.com/haizlin/fe-interview/issues/1508)
     - [css] [请写出:link、:visited、:hover、:active的执行顺序](https://github.com/haizlin/fe-interview/issues/1509)
     - [js] [写一个方法，传入数字x，从一个一维数组里找到两个数字符合“n1 + n2 ＝ x”](https://github.com/haizlin/fe-interview/issues/1510)
     - [软技能] [说说你对自我认识边界的理解](https://github.com/haizlin/fe-interview/issues/1511)
+
+- 第211天 (2019.11.13)
+    - [html] [如何防止他人窃取我的源代码或图片？](https://github.com/haizlin/fe-interview/issues/1512)
+    - [css] [举例说明clear取值有哪些？](https://github.com/haizlin/fe-interview/issues/1513)
+    - [js] [写个方法判断当前脚本运行在浏览器还是node环境中](https://github.com/haizlin/fe-interview/issues/1514)
+    - [软技能] [除了前端以外还了解什么其它技术么？你自己最最厉害的技能是什么？](https://github.com/haizlin/fe-interview/issues/1515)
     
 - **[查看全部](category/history.md)**
 
