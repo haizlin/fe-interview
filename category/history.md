@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第212天 (2019.11.14)
+    - [html] [如何自动转移到新的页面？](https://github.com/haizlin/fe-interview/issues/1516)
+    - [css] [举例说明常用的cursor取值有哪些？](https://github.com/haizlin/fe-interview/issues/1517)
+    - [js] [举例说明常用的BOM属性和方法有哪些？](https://github.com/haizlin/fe-interview/issues/1518)
+    - [软技能] [你所在的公司里的项目有用过敏捷开发吗？请说说你对敏捷开发的理解](https://github.com/haizlin/fe-interview/issues/1519)
+
 - 第211天 (2019.11.13)
     - [html] [如何防止他人窃取我的源代码或图片？](https://github.com/haizlin/fe-interview/issues/1512)
     - [css] [举例说明clear取值有哪些？](https://github.com/haizlin/fe-interview/issues/1513)
