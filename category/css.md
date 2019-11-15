@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.10
+> 最新：2019.11.17
 
+- [怎么使图片宽度自适应呢？](https://github.com/haizlin/fe-interview/issues/1530)
+- [实现文本的竖向排版](https://github.com/haizlin/fe-interview/issues/1526)
+- [你有用过vw布局吗？和使用rem有什么区别？](https://github.com/haizlin/fe-interview/issues/1521)
+- [举例说明常用的cursor取值有哪些？](https://github.com/haizlin/fe-interview/issues/1517)
+- [举例说明clear取值有哪些？](https://github.com/haizlin/fe-interview/issues/1513)
+- [请写出:link、:visited、:hover、:active的执行顺序](https://github.com/haizlin/fe-interview/issues/1509)
+- [实现一个上下固定，中间自动填满的布局](https://github.com/haizlin/fe-interview/issues/1505)
 - [怎样用纯CSS实现禁止鼠标点击事件？](https://github.com/haizlin/fe-interview/issues/1501)
 - [当全国哀悼日时，怎么让整个网站变成灰色呢？](https://github.com/haizlin/fe-interview/issues/1497)
 - [如果给一个元素设置background-color,它的颜色会填充哪些区域呢？](https://github.com/haizlin/fe-interview/issues/1493)

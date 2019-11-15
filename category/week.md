@@ -1,4 +1,4 @@
-# 周汇总 2019.11.10
+# 周汇总 2019.11.17
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [举例说明表格中如何再嵌套表格](https://github.com/haizlin/fe-interview/issues/1500)
-- [你是如何组织html代码的？](https://github.com/haizlin/fe-interview/issues/1496)
-- [移动端点击300ms的延迟出现的原因是什么？你的解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1492)
-- [你有使用过picture标签吗？说说它有哪些运用场景](https://github.com/haizlin/fe-interview/issues/1488)
-- [说下你对DOM树的理解](https://github.com/haizlin/fe-interview/issues/1484)
-- [canvas的width与height属性的值可不可以带单位？](https://github.com/haizlin/fe-interview/issues/1480)
-- [你有使用过HTML5的dialog标签吗？说说看，它有什么特点？](https://github.com/haizlin/fe-interview/issues/1476)
+- [你有使用过marquee吗？](https://github.com/haizlin/fe-interview/issues/1529)
+- [HTML5中required属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1525)
+- [给单个表格的单元格设置背景色有什么方法？](https://github.com/haizlin/fe-interview/issues/1520)
+- [如何自动转移到新的页面？](https://github.com/haizlin/fe-interview/issues/1516)
+- [如何防止他人窃取我的源代码或图片？](https://github.com/haizlin/fe-interview/issues/1512)
+- [HTML的标签这么多，我要全部记住吗？如果不要怎么办？](https://github.com/haizlin/fe-interview/issues/1508)
+- [如果在写HTML时漏写了闭合标签，怎么办呢？](https://github.com/haizlin/fe-interview/issues/1504)
 
 ## css
-- [怎样用纯CSS实现禁止鼠标点击事件？](https://github.com/haizlin/fe-interview/issues/1501)
-- [当全国哀悼日时，怎么让整个网站变成灰色呢？](https://github.com/haizlin/fe-interview/issues/1497)
-- [如果给一个元素设置background-color,它的颜色会填充哪些区域呢？](https://github.com/haizlin/fe-interview/issues/1493)
-- [使用css3做一个魔方旋转的效果](https://github.com/haizlin/fe-interview/issues/1489)
-- [手写一个使用css3旋转硬币的效果](https://github.com/haizlin/fe-interview/issues/1485)
-- [height和line-height的区别是什么呢？](https://github.com/haizlin/fe-interview/issues/1481)
-- [请用css写一个扫码的加载动画图](https://github.com/haizlin/fe-interview/issues/1477)
+- [怎么使图片宽度自适应呢？](https://github.com/haizlin/fe-interview/issues/1530)
+- [实现文本的竖向排版](https://github.com/haizlin/fe-interview/issues/1526)
+- [你有用过vw布局吗？和使用rem有什么区别？](https://github.com/haizlin/fe-interview/issues/1521)
+- [举例说明常用的cursor取值有哪些？](https://github.com/haizlin/fe-interview/issues/1517)
+- [举例说明clear取值有哪些？](https://github.com/haizlin/fe-interview/issues/1513)
+- [请写出:link、:visited、:hover、:active的执行顺序](https://github.com/haizlin/fe-interview/issues/1509)
+- [实现一个上下固定，中间自动填满的布局](https://github.com/haizlin/fe-interview/issues/1505)
 
 ## js
-- [js的控制台输出，平时除了用console.log外，你还知道哪些？使用console.log应该注意什么？](https://github.com/haizlin/fe-interview/issues/1502)
-- [平时调试用console.log的输出结果可信吗？为什么？](https://github.com/haizlin/fe-interview/issues/1498)
-- [用原生js获取DOM元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1494)
-- [getElementById和querySelector方法的区别是什么？](https://github.com/haizlin/fe-interview/issues/1490)
-- [举例说明document.execCommand有哪些用途](https://github.com/haizlin/fe-interview/issues/1486)
-- [你平时是怎么调试js的？会断点调试吗？断点调试有什么技巧呢？](https://github.com/haizlin/fe-interview/issues/1482)
-- [如何使用js获取当前的url和来源的url？](https://github.com/haizlin/fe-interview/issues/1478)
+- [用js实现最大化和最小化窗口](https://github.com/haizlin/fe-interview/issues/1531)
+- [js如何实现打印指定的区域？](https://github.com/haizlin/fe-interview/issues/1527)
+- [写一个方法检测页面中的所有标签是否正确闭合](https://github.com/haizlin/fe-interview/issues/1522)
+- [举例说明常用的BOM属性和方法有哪些？](https://github.com/haizlin/fe-interview/issues/1518)
+- [写个方法判断当前脚本运行在浏览器还是node环境中](https://github.com/haizlin/fe-interview/issues/1514)
+- [写一个方法，传入数字x，从一个一维数组里找到两个数字符合“n1 + n2 ＝ x”](https://github.com/haizlin/fe-interview/issues/1510)
+- [你知道什么是PAJAX吗？它和AJAX有什么区别？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1506)
 
 ## 软技能
-- [说说你对绩效的理解？](https://github.com/haizlin/fe-interview/issues/1503)
-- [你平时有玩游戏吗？都玩什么游戏呢？玩得如何？](https://github.com/haizlin/fe-interview/issues/1499)
-- [你平时熬夜吗？](https://github.com/haizlin/fe-interview/issues/1495)
-- [前端如何预防SQL注入？](https://github.com/haizlin/fe-interview/issues/1491)
-- [你知道什么是区块链吗？](https://github.com/haizlin/fe-interview/issues/1487)
-- [前端如何防止XSS攻击？](https://github.com/haizlin/fe-interview/issues/1483)
-- [你有想过创业的打算吗？](https://github.com/haizlin/fe-interview/issues/1479)
+- [我们公司平时有组织羽毛球活动，你喜欢打羽毛球吗？打得如何？](https://github.com/haizlin/fe-interview/issues/1532)
+- [你了解我们公司吗？说说你对我们公司的了解](https://github.com/haizlin/fe-interview/issues/1528)
+- [你知道二进制、八进制、十进制、十六进制的区别吗？它们分别有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1523)
+- [你所在的公司里的项目有用过敏捷开发吗？请说说你对敏捷开发的理解](https://github.com/haizlin/fe-interview/issues/1519)
+- [除了前端以外还了解什么其它技术么？你自己最最厉害的技能是什么？](https://github.com/haizlin/fe-interview/issues/1515)
+- [说说你对自我认识边界的理解](https://github.com/haizlin/fe-interview/issues/1511)
+- [在平时开发的时候，你有考虑过边界问题吗？说说你对边界的理解！](https://github.com/haizlin/fe-interview/issues/1507)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

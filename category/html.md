@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.10
+> 最新：2019.11.17
 
+- [你有使用过marquee吗？](https://github.com/haizlin/fe-interview/issues/1529)
+- [HTML5中required属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1525)
+- [给单个表格的单元格设置背景色有什么方法？](https://github.com/haizlin/fe-interview/issues/1520)
+- [如何自动转移到新的页面？](https://github.com/haizlin/fe-interview/issues/1516)
+- [如何防止他人窃取我的源代码或图片？](https://github.com/haizlin/fe-interview/issues/1512)
+- [HTML的标签这么多，我要全部记住吗？如果不要怎么办？](https://github.com/haizlin/fe-interview/issues/1508)
+- [如果在写HTML时漏写了闭合标签，怎么办呢？](https://github.com/haizlin/fe-interview/issues/1504)
 - [举例说明表格中如何再嵌套表格](https://github.com/haizlin/fe-interview/issues/1500)
 - [你是如何组织html代码的？](https://github.com/haizlin/fe-interview/issues/1496)
 - [移动端点击300ms的延迟出现的原因是什么？你的解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1492)

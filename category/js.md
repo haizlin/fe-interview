@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.10
+> 最新：2019.11.17
 
+- [用js实现最大化和最小化窗口](https://github.com/haizlin/fe-interview/issues/1531)
+- [js如何实现打印指定的区域？](https://github.com/haizlin/fe-interview/issues/1527)
+- [写一个方法检测页面中的所有标签是否正确闭合](https://github.com/haizlin/fe-interview/issues/1522)
+- [举例说明常用的BOM属性和方法有哪些？](https://github.com/haizlin/fe-interview/issues/1518)
+- [写个方法判断当前脚本运行在浏览器还是node环境中](https://github.com/haizlin/fe-interview/issues/1514)
+- [写一个方法，传入数字x，从一个一维数组里找到两个数字符合“n1 + n2 ＝ x”](https://github.com/haizlin/fe-interview/issues/1510)
+- [你知道什么是PAJAX吗？它和AJAX有什么区别？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1506)
 - [js的控制台输出，平时除了用console.log外，你还知道哪些？使用console.log应该注意什么？](https://github.com/haizlin/fe-interview/issues/1502)
 - [平时调试用console.log的输出结果可信吗？为什么？](https://github.com/haizlin/fe-interview/issues/1498)
 - [用原生js获取DOM元素的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1494)

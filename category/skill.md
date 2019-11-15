@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.10
+> 最新：2019.11.17
 
+- [我们公司平时有组织羽毛球活动，你喜欢打羽毛球吗？打得如何？](https://github.com/haizlin/fe-interview/issues/1532)
+- [你了解我们公司吗？说说你对我们公司的了解](https://github.com/haizlin/fe-interview/issues/1528)
+- [你知道二进制、八进制、十进制、十六进制的区别吗？它们分别有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1523)
+- [你所在的公司里的项目有用过敏捷开发吗？请说说你对敏捷开发的理解](https://github.com/haizlin/fe-interview/issues/1519)
+- [除了前端以外还了解什么其它技术么？你自己最最厉害的技能是什么？](https://github.com/haizlin/fe-interview/issues/1515)
+- [说说你对自我认识边界的理解](https://github.com/haizlin/fe-interview/issues/1511)
+- [在平时开发的时候，你有考虑过边界问题吗？说说你对边界的理解！](https://github.com/haizlin/fe-interview/issues/1507)
 - [说说你对绩效的理解？](https://github.com/haizlin/fe-interview/issues/1503)
 - [你平时有玩游戏吗？都玩什么游戏呢？玩得如何？](https://github.com/haizlin/fe-interview/issues/1499)
 - [你平时熬夜吗？](https://github.com/haizlin/fe-interview/issues/1495)

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第214天 (2019.11.16)
+    - [html] [HTML5中required属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1525)
+    - [css] [实现文本的竖向排版](https://github.com/haizlin/fe-interview/issues/1526)
+    - [js] [js如何实现打印指定的区域？](https://github.com/haizlin/fe-interview/issues/1527)
+    - [软技能] [你了解我们公司吗？说说你对我们公司的了解](https://github.com/haizlin/fe-interview/issues/1528)
+
 - 第213天 (2019.11.15)
     - [html] [给单个表格的单元格设置背景色有什么方法？](https://github.com/haizlin/fe-interview/issues/1520)
     - [css] [你有用过vw布局吗？和使用rem有什么区别？](https://github.com/haizlin/fe-interview/issues/1521)
