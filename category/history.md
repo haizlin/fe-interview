@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第213天 (2019.11.15)
+    - [html] [给单个表格的单元格设置背景色有什么方法？](https://github.com/haizlin/fe-interview/issues/1520)
+    - [css] [你有用过vw布局吗？和使用rem有什么区别？](https://github.com/haizlin/fe-interview/issues/1521)
+    - [js] [写一个方法检测页面中的所有标签是否正确闭合](https://github.com/haizlin/fe-interview/issues/1522)
+    - [软技能] [你知道二进制、八进制、十进制、十六进制的区别吗？它们分别有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1523)
+
 - 第212天 (2019.11.14)
     - [html] [如何自动转移到新的页面？](https://github.com/haizlin/fe-interview/issues/1516)
     - [css] [举例说明常用的cursor取值有哪些？](https://github.com/haizlin/fe-interview/issues/1517)

@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.11.15) —— 213 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [给单个表格的单元格设置背景色有什么方法？](https://github.com/haizlin/fe-interview/issues/1520)
-- [css] [你有用过vw布局吗？和使用rem有什么区别？](https://github.com/haizlin/fe-interview/issues/1521)
-- [js] [写一个方法检测页面中的所有标签是否正确闭合](https://github.com/haizlin/fe-interview/issues/1522)
-- [skill] [你知道二进制、八进制、十进制、十六进制的区别吗？它们分别有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1523)
+## Today's Knowledge Points (2019.11.16) —— 214 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [HTML5中required属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1525)
+- [css] [实现文本的竖向排版](https://github.com/haizlin/fe-interview/issues/1526)
+- [js] [js如何实现打印指定的区域？](https://github.com/haizlin/fe-interview/issues/1527)
+- [skill] [你了解我们公司吗？说说你对我们公司的了解](https://github.com/haizlin/fe-interview/issues/1528)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 211 days (2019.11.13)
-    - [html] [如何防止他人窃取我的源代码或图片？](https://github.com/haizlin/fe-interview/issues/1512)
-    - [css] [举例说明clear取值有哪些？](https://github.com/haizlin/fe-interview/issues/1513)
-    - [js] [写个方法判断当前脚本运行在浏览器还是node环境中](https://github.com/haizlin/fe-interview/issues/1514)
-    - [skill] [除了前端以外还了解什么其它技术么？你自己最最厉害的技能是什么？](https://github.com/haizlin/fe-interview/issues/1515)
-
 - 212 days (2019.11.14)
     - [html] [如何自动转移到新的页面？](https://github.com/haizlin/fe-interview/issues/1516)
     - [css] [举例说明常用的cursor取值有哪些？](https://github.com/haizlin/fe-interview/issues/1517)
     - [js] [举例说明常用的BOM属性和方法有哪些？](https://github.com/haizlin/fe-interview/issues/1518)
     - [skill] [你所在的公司里的项目有用过敏捷开发吗？请说说你对敏捷开发的理解](https://github.com/haizlin/fe-interview/issues/1519)
+
+- 213 days (2019.11.15)
+    - [html] [给单个表格的单元格设置背景色有什么方法？](https://github.com/haizlin/fe-interview/issues/1520)
+    - [css] [你有用过vw布局吗？和使用rem有什么区别？](https://github.com/haizlin/fe-interview/issues/1521)
+    - [js] [写一个方法检测页面中的所有标签是否正确闭合](https://github.com/haizlin/fe-interview/issues/1522)
+    - [skill] [你知道二进制、八进制、十进制、十六进制的区别吗？它们分别有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1523)
 
 - **[All](category/history.md)**
 
