@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第215天 (2019.11.17)
+    - [html] [你有使用过marquee吗？](https://github.com/haizlin/fe-interview/issues/1529)
+    - [css] [怎么使图片宽度自适应呢？](https://github.com/haizlin/fe-interview/issues/1530)
+    - [js] [用js实现最大化和最小化窗口](https://github.com/haizlin/fe-interview/issues/1531)
+    - [软技能] [我们公司平时有组织羽毛球活动，你喜欢打羽毛球吗？打得如何？](https://github.com/haizlin/fe-interview/issues/1532)
+
 - 第214天 (2019.11.16)
     - [html] [HTML5中required属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1525)
     - [css] [实现文本的竖向排版](https://github.com/haizlin/fe-interview/issues/1526)
