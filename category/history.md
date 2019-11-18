@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第216天 (2019.11.18)
+    - [html] [你有了解过Applet（Java小程序）吗？](https://github.com/haizlin/fe-interview/issues/1533)
+    - [css] [怎么让div中的图片和文字同时上下居中？](https://github.com/haizlin/fe-interview/issues/1534)
+    - [js] [举例说明什么是匿名函数？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1535)
+    - [软技能] [如果你来后接手的项目有很多问题，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1536)
+
 - 第215天 (2019.11.17)
     - [html] [你有使用过marquee吗？](https://github.com/haizlin/fe-interview/issues/1529)
     - [css] [怎么使图片宽度自适应呢？](https://github.com/haizlin/fe-interview/issues/1530)
