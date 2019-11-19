@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第217天 (2019.11.19)
+    - [html] [页面加载后，表单的第一个文本框如何自动获得焦点？](https://github.com/haizlin/fe-interview/issues/1537)
+    - [css] [举例说明:not()的使用场景有哪些](https://github.com/haizlin/fe-interview/issues/1538)
+    - [js] [举例说明js创建数组有哪些方法？](https://github.com/haizlin/fe-interview/issues/1539)
+    - [软技能] [你对工作环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1540)
+
 - 第216天 (2019.11.18)
     - [html] [你有了解过Applet（Java小程序）吗？](https://github.com/haizlin/fe-interview/issues/1533)
     - [css] [怎么让div中的图片和文字同时上下居中？](https://github.com/haizlin/fe-interview/issues/1534)

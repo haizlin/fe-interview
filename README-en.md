@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.11.19) —— 217 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [页面加载后，表单的第一个文本框如何自动获得焦点？](https://github.com/haizlin/fe-interview/issues/1537)
-- [css] [举例说明:not()的使用场景有哪些](https://github.com/haizlin/fe-interview/issues/1538)
-- [js] [举例说明js创建数组有哪些方法？](https://github.com/haizlin/fe-interview/issues/1539)
-- [skill] [你对工作环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1540)
+## Today's Knowledge Points (2019.11.20) —— 218 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
+- [css] [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
+- [js] [用js封闭一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
+- [skill] [你之前的工作有出过差吗？如果公司要求出差，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1544)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 215 days (2019.11.17)
-    - [html] [你有使用过marquee吗？](https://github.com/haizlin/fe-interview/issues/1529)
-    - [css] [怎么使图片宽度自适应呢？](https://github.com/haizlin/fe-interview/issues/1530)
-    - [js] [用js实现最大化和最小化窗口](https://github.com/haizlin/fe-interview/issues/1531)
-    - [skill] [我们公司平时有组织羽毛球活动，你喜欢打羽毛球吗？打得如何？](https://github.com/haizlin/fe-interview/issues/1532)
-
 - 216 days (2019.11.18)
     - [html] [你有了解过Applet（Java小程序）吗？](https://github.com/haizlin/fe-interview/issues/1533)
     - [css] [怎么让div中的图片和文字同时上下居中？](https://github.com/haizlin/fe-interview/issues/1534)
     - [js] [举例说明什么是匿名函数？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1535)
     - [skill] [如果你来后接手的项目有很多问题，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1536)
+
+- 217 days (2019.11.19)
+    - [html] [页面加载后，表单的第一个文本框如何自动获得焦点？](https://github.com/haizlin/fe-interview/issues/1537)
+    - [css] [举例说明:not()的使用场景有哪些](https://github.com/haizlin/fe-interview/issues/1538)
+    - [js] [举例说明js创建数组有哪些方法？](https://github.com/haizlin/fe-interview/issues/1539)
+    - [skill] [你对工作环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1540)
 
 - **[All](category/history.md)**
 
