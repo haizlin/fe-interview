@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.11.20) —— 第218天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
-- [css] [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
-- [js] [用js封闭一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
-- [软技能] [你之前的工作有出过差吗？如果公司要求出差，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1544)
+## 今天的知识点 (2019.11.21) —— 第219天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [HTML5相比于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/1545)
+- [css] [你有使用:valid和:invalid来校验表单吗？](https://github.com/haizlin/fe-interview/issues/1546)
+- [js] [写一个网络不通时则提醒用户的方法](https://github.com/haizlin/fe-interview/issues/1547)
+- [软技能] [你喜欢什么样的领导？](https://github.com/haizlin/fe-interview/issues/1548)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第216天 (2019.11.18)
-    - [html] [你有了解过Applet（Java小程序）吗？](https://github.com/haizlin/fe-interview/issues/1533)
-    - [css] [怎么让div中的图片和文字同时上下居中？](https://github.com/haizlin/fe-interview/issues/1534)
-    - [js] [举例说明什么是匿名函数？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1535)
-    - [软技能] [如果你来后接手的项目有很多问题，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1536)
-
 - 第217天 (2019.11.19)
     - [html] [页面加载后，表单的第一个文本框如何自动获得焦点？](https://github.com/haizlin/fe-interview/issues/1537)
     - [css] [举例说明:not()的使用场景有哪些](https://github.com/haizlin/fe-interview/issues/1538)
     - [js] [举例说明js创建数组有哪些方法？](https://github.com/haizlin/fe-interview/issues/1539)
     - [软技能] [你对工作环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1540)
+
+- 第218天 (2019.11.20)
+    - [html] [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
+    - [css] [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
+    - [js] [用js封闭一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
+    - [软技能] [你之前的工作有出过差吗？如果公司要求出差，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1544)
     
 - **[查看全部](category/history.md)**
 

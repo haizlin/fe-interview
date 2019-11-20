@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第218天 (2019.11.20)
+    - [html] [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
+    - [css] [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
+    - [js] [用js封闭一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
+    - [软技能] [你之前的工作有出过差吗？如果公司要求出差，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1544)
+
 - 第217天 (2019.11.19)
     - [html] [页面加载后，表单的第一个文本框如何自动获得焦点？](https://github.com/haizlin/fe-interview/issues/1537)
     - [css] [举例说明:not()的使用场景有哪些](https://github.com/haizlin/fe-interview/issues/1538)
