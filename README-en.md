@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.11.21) —— 219 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [HTML5相比于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/1545)
-- [css] [你有使用:valid和:invalid来校验表单吗？](https://github.com/haizlin/fe-interview/issues/1546)
-- [js] [写一个网络不通时则提醒用户的方法](https://github.com/haizlin/fe-interview/issues/1547)
-- [skill] [你喜欢什么样的领导？](https://github.com/haizlin/fe-interview/issues/1548)
+## Today's Knowledge Points (2019.11.22) —— 220 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [在使用HTML5时有哪些规则需要遵守？](https://github.com/haizlin/fe-interview/issues/1549)
+- [css] [举例说明attr()的使用场景](https://github.com/haizlin/fe-interview/issues/1550)
+- [js] [你对window的属性devicePixelRatio有了解吗？说说它有什么实际应用场景？](https://github.com/haizlin/fe-interview/issues/1551)
+- [skill] [如果我们决定录用你，但薪资达不到你的要求，你愿意吗？最大幅度能接受降多少？](https://github.com/haizlin/fe-interview/issues/1552)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 217 days (2019.11.19)
-    - [html] [页面加载后，表单的第一个文本框如何自动获得焦点？](https://github.com/haizlin/fe-interview/issues/1537)
-    - [css] [举例说明:not()的使用场景有哪些](https://github.com/haizlin/fe-interview/issues/1538)
-    - [js] [举例说明js创建数组有哪些方法？](https://github.com/haizlin/fe-interview/issues/1539)
-    - [skill] [你对工作环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1540)
-
 - 218 days (2019.11.20)
     - [html] [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
     - [css] [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
-    - [js] [用js封闭一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
+    - [js] [用js封装一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
     - [skill] [你之前的工作有出过差吗？如果公司要求出差，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1544)
+
+- 219 days (2019.11.21)
+    - [html] [HTML5相比于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/1545)
+    - [css] [你有使用:valid和:invalid来校验表单吗？](https://github.com/haizlin/fe-interview/issues/1546)
+    - [js] [写一个网络不通时则提醒用户的方法](https://github.com/haizlin/fe-interview/issues/1547)
+    - [skill] [你喜欢什么样的领导？](https://github.com/haizlin/fe-interview/issues/1548)
 
 - **[All](category/history.md)**
 

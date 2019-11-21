@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第219天 (2019.11.21)
+    - [html] [HTML5相比于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/1545)
+    - [css] [你有使用:valid和:invalid来校验表单吗？](https://github.com/haizlin/fe-interview/issues/1546)
+    - [js] [写一个网络不通时则提醒用户的方法](https://github.com/haizlin/fe-interview/issues/1547)
+    - [软技能] [你喜欢什么样的领导？](https://github.com/haizlin/fe-interview/issues/1548)
+
 - 第218天 (2019.11.20)
     - [html] [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
     - [css] [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
