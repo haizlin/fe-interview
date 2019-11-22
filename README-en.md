@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.11.22) —— 220 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [在使用HTML5时有哪些规则需要遵守？](https://github.com/haizlin/fe-interview/issues/1549)
-- [css] [举例说明attr()的使用场景](https://github.com/haizlin/fe-interview/issues/1550)
-- [js] [你对window的属性devicePixelRatio有了解吗？说说它有什么实际应用场景？](https://github.com/haizlin/fe-interview/issues/1551)
-- [skill] [如果我们决定录用你，但薪资达不到你的要求，你愿意吗？最大幅度能接受降多少？](https://github.com/haizlin/fe-interview/issues/1552)
+## Today's Knowledge Points (2019.11.23) —— 221 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [wbr和br标签的区别是什么？](https://github.com/haizlin/fe-interview/issues/1553)
+- [css] [怎么使用纯css实现左右拉伸拖动？](https://github.com/haizlin/fe-interview/issues/1554)
+- [js] [js垃圾回收的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1555)
+- [skill] [你觉得影响团队的战斗力有哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/1556)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 218 days (2019.11.20)
-    - [html] [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
-    - [css] [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
-    - [js] [用js封装一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
-    - [skill] [你之前的工作有出过差吗？如果公司要求出差，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1544)
-
 - 219 days (2019.11.21)
     - [html] [HTML5相比于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/1545)
     - [css] [你有使用:valid和:invalid来校验表单吗？](https://github.com/haizlin/fe-interview/issues/1546)
     - [js] [写一个网络不通时则提醒用户的方法](https://github.com/haizlin/fe-interview/issues/1547)
     - [skill] [你喜欢什么样的领导？](https://github.com/haizlin/fe-interview/issues/1548)
+
+- 220 days (2019.11.22)
+    - [html] [在使用HTML5时有哪些规则需要遵守？](https://github.com/haizlin/fe-interview/issues/1549)
+    - [css] [举例说明attr()的使用场景](https://github.com/haizlin/fe-interview/issues/1550)
+    - [js] [你对window的属性devicePixelRatio有了解吗？说说它有什么实际应用场景？](https://github.com/haizlin/fe-interview/issues/1551)
+    - [skill] [如果我们决定录用你，但薪资达不到你的要求，你愿意吗？最大幅度能接受降多少？](https://github.com/haizlin/fe-interview/issues/1552)
 
 - **[All](category/history.md)**
 

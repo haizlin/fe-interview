@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第220天 (2019.11.22)
+    - [html] [在使用HTML5时有哪些规则需要遵守？](https://github.com/haizlin/fe-interview/issues/1549)
+    - [css] [举例说明attr()的使用场景](https://github.com/haizlin/fe-interview/issues/1550)
+    - [js] [你对window的属性devicePixelRatio有了解吗？说说它有什么实际应用场景？](https://github.com/haizlin/fe-interview/issues/1551)
+    - [软技能] [如果我们决定录用你，但薪资达不到你的要求，你愿意吗？最大幅度能接受降多少？](https://github.com/haizlin/fe-interview/issues/1552)
+
 - 第219天 (2019.11.21)
     - [html] [HTML5相比于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/1545)
     - [css] [你有使用:valid和:invalid来校验表单吗？](https://github.com/haizlin/fe-interview/issues/1546)
