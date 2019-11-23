@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.17
+> 最新：2019.11.24
 
+- [如果一个团队里勾心斗角比较严重，你该怎么办？如果你是管理层你又该怎么办？](https://github.com/haizlin/fe-interview/issues/1560)
+- [你觉得影响团队的战斗力有哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/1556)
+- [如果我们决定录用你，但薪资达不到你的要求，你愿意吗？最大幅度能接受降多少？](https://github.com/haizlin/fe-interview/issues/1552)
+- [你喜欢什么样的领导？](https://github.com/haizlin/fe-interview/issues/1548)
+- [你之前的工作有出过差吗？如果公司要求出差，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1544)
+- [你对工作环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1540)
+- [如果你来后接手的项目有很多问题，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1536)
 - [我们公司平时有组织羽毛球活动，你喜欢打羽毛球吗？打得如何？](https://github.com/haizlin/fe-interview/issues/1532)
 - [你了解我们公司吗？说说你对我们公司的了解](https://github.com/haizlin/fe-interview/issues/1528)
 - [你知道二进制、八进制、十进制、十六进制的区别吗？它们分别有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1523)

@@ -1,4 +1,4 @@
-# 周汇总 2019.11.17
+# 周汇总 2019.11.24
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [你有使用过marquee吗？](https://github.com/haizlin/fe-interview/issues/1529)
-- [HTML5中required属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1525)
-- [给单个表格的单元格设置背景色有什么方法？](https://github.com/haizlin/fe-interview/issues/1520)
-- [如何自动转移到新的页面？](https://github.com/haizlin/fe-interview/issues/1516)
-- [如何防止他人窃取我的源代码或图片？](https://github.com/haizlin/fe-interview/issues/1512)
-- [HTML的标签这么多，我要全部记住吗？如果不要怎么办？](https://github.com/haizlin/fe-interview/issues/1508)
-- [如果在写HTML时漏写了闭合标签，怎么办呢？](https://github.com/haizlin/fe-interview/issues/1504)
+- [HTML5对元素内容进行拼写检查用的是什么属性呢？](https://github.com/haizlin/fe-interview/issues/1557)
+- [wbr和br标签的区别是什么？](https://github.com/haizlin/fe-interview/issues/1553)
+- [在使用HTML5时有哪些规则需要遵守？](https://github.com/haizlin/fe-interview/issues/1549)
+- [HTML5相比于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/1545)
+- [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
+- [页面加载后，表单的第一个文本框如何自动获得焦点？](https://github.com/haizlin/fe-interview/issues/1537)
+- [你有了解过Applet（Java小程序）吗？](https://github.com/haizlin/fe-interview/issues/1533)
 
 ## css
-- [怎么使图片宽度自适应呢？](https://github.com/haizlin/fe-interview/issues/1530)
-- [实现文本的竖向排版](https://github.com/haizlin/fe-interview/issues/1526)
-- [你有用过vw布局吗？和使用rem有什么区别？](https://github.com/haizlin/fe-interview/issues/1521)
-- [举例说明常用的cursor取值有哪些？](https://github.com/haizlin/fe-interview/issues/1517)
-- [举例说明clear取值有哪些？](https://github.com/haizlin/fe-interview/issues/1513)
-- [请写出:link、:visited、:hover、:active的执行顺序](https://github.com/haizlin/fe-interview/issues/1509)
-- [实现一个上下固定，中间自动填满的布局](https://github.com/haizlin/fe-interview/issues/1505)
+- [用css实现饼图效果](https://github.com/haizlin/fe-interview/issues/1558)
+- [怎么使用纯css实现左右拉伸拖动？](https://github.com/haizlin/fe-interview/issues/1554)
+- [举例说明attr()的使用场景](https://github.com/haizlin/fe-interview/issues/1550)
+- [你有使用:valid和:invalid来校验表单吗？](https://github.com/haizlin/fe-interview/issues/1546)
+- [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
+- [举例说明:not()的使用场景有哪些](https://github.com/haizlin/fe-interview/issues/1538)
+- [怎么让div中的图片和文字同时上下居中？](https://github.com/haizlin/fe-interview/issues/1534)
 
 ## js
-- [用js实现最大化和最小化窗口](https://github.com/haizlin/fe-interview/issues/1531)
-- [js如何实现打印指定的区域？](https://github.com/haizlin/fe-interview/issues/1527)
-- [写一个方法检测页面中的所有标签是否正确闭合](https://github.com/haizlin/fe-interview/issues/1522)
-- [举例说明常用的BOM属性和方法有哪些？](https://github.com/haizlin/fe-interview/issues/1518)
-- [写个方法判断当前脚本运行在浏览器还是node环境中](https://github.com/haizlin/fe-interview/issues/1514)
-- [写一个方法，传入数字x，从一个一维数组里找到两个数字符合“n1 + n2 ＝ x”](https://github.com/haizlin/fe-interview/issues/1510)
-- [你知道什么是PAJAX吗？它和AJAX有什么区别？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1506)
+- [异步加载和延迟加载有什么区别？](https://github.com/haizlin/fe-interview/issues/1559)
+- [js垃圾回收的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1555)
+- [你对window的属性devicePixelRatio有了解吗？说说它有什么实际应用场景？](https://github.com/haizlin/fe-interview/issues/1551)
+- [写一个网络不通时则提醒用户的方法](https://github.com/haizlin/fe-interview/issues/1547)
+- [用js封装一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
+- [举例说明js创建数组有哪些方法？](https://github.com/haizlin/fe-interview/issues/1539)
+- [举例说明什么是匿名函数？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1535)
 
 ## 软技能
-- [我们公司平时有组织羽毛球活动，你喜欢打羽毛球吗？打得如何？](https://github.com/haizlin/fe-interview/issues/1532)
-- [你了解我们公司吗？说说你对我们公司的了解](https://github.com/haizlin/fe-interview/issues/1528)
-- [你知道二进制、八进制、十进制、十六进制的区别吗？它们分别有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1523)
-- [你所在的公司里的项目有用过敏捷开发吗？请说说你对敏捷开发的理解](https://github.com/haizlin/fe-interview/issues/1519)
-- [除了前端以外还了解什么其它技术么？你自己最最厉害的技能是什么？](https://github.com/haizlin/fe-interview/issues/1515)
-- [说说你对自我认识边界的理解](https://github.com/haizlin/fe-interview/issues/1511)
-- [在平时开发的时候，你有考虑过边界问题吗？说说你对边界的理解！](https://github.com/haizlin/fe-interview/issues/1507)
+- [如果一个团队里勾心斗角比较严重，你该怎么办？如果你是管理层你又该怎么办？](https://github.com/haizlin/fe-interview/issues/1560)
+- [你觉得影响团队的战斗力有哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/1556)
+- [如果我们决定录用你，但薪资达不到你的要求，你愿意吗？最大幅度能接受降多少？](https://github.com/haizlin/fe-interview/issues/1552)
+- [你喜欢什么样的领导？](https://github.com/haizlin/fe-interview/issues/1548)
+- [你之前的工作有出过差吗？如果公司要求出差，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1544)
+- [你对工作环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1540)
+- [如果你来后接手的项目有很多问题，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1536)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

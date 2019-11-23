@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.17
+> 最新：2019.11.24
 
+- [异步加载和延迟加载有什么区别？](https://github.com/haizlin/fe-interview/issues/1559)
+- [js垃圾回收的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1555)
+- [你对window的属性devicePixelRatio有了解吗？说说它有什么实际应用场景？](https://github.com/haizlin/fe-interview/issues/1551)
+- [写一个网络不通时则提醒用户的方法](https://github.com/haizlin/fe-interview/issues/1547)
+- [用js封装一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
+- [举例说明js创建数组有哪些方法？](https://github.com/haizlin/fe-interview/issues/1539)
+- [举例说明什么是匿名函数？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1535)
 - [用js实现最大化和最小化窗口](https://github.com/haizlin/fe-interview/issues/1531)
 - [js如何实现打印指定的区域？](https://github.com/haizlin/fe-interview/issues/1527)
 - [写一个方法检测页面中的所有标签是否正确闭合](https://github.com/haizlin/fe-interview/issues/1522)

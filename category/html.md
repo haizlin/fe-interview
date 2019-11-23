@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.17
+> 最新：2019.11.24
 
+- [HTML5对元素内容进行拼写检查用的是什么属性呢？](https://github.com/haizlin/fe-interview/issues/1557)
+- [wbr和br标签的区别是什么？](https://github.com/haizlin/fe-interview/issues/1553)
+- [在使用HTML5时有哪些规则需要遵守？](https://github.com/haizlin/fe-interview/issues/1549)
+- [HTML5相比于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/1545)
+- [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
+- [页面加载后，表单的第一个文本框如何自动获得焦点？](https://github.com/haizlin/fe-interview/issues/1537)
+- [你有了解过Applet（Java小程序）吗？](https://github.com/haizlin/fe-interview/issues/1533)
 - [你有使用过marquee吗？](https://github.com/haizlin/fe-interview/issues/1529)
 - [HTML5中required属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1525)
 - [给单个表格的单元格设置背景色有什么方法？](https://github.com/haizlin/fe-interview/issues/1520)

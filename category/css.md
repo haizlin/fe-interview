@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.17
+> 最新：2019.11.24
 
+- [用css实现饼图效果](https://github.com/haizlin/fe-interview/issues/1558)
+- [怎么使用纯css实现左右拉伸拖动？](https://github.com/haizlin/fe-interview/issues/1554)
+- [举例说明attr()的使用场景](https://github.com/haizlin/fe-interview/issues/1550)
+- [你有使用:valid和:invalid来校验表单吗？](https://github.com/haizlin/fe-interview/issues/1546)
+- [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
+- [举例说明:not()的使用场景有哪些](https://github.com/haizlin/fe-interview/issues/1538)
+- [怎么让div中的图片和文字同时上下居中？](https://github.com/haizlin/fe-interview/issues/1534)
 - [怎么使图片宽度自适应呢？](https://github.com/haizlin/fe-interview/issues/1530)
 - [实现文本的竖向排版](https://github.com/haizlin/fe-interview/issues/1526)
 - [你有用过vw布局吗？和使用rem有什么区别？](https://github.com/haizlin/fe-interview/issues/1521)
