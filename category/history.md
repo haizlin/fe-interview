@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第222天 (2019.11.24)
+    - [html] [HTML5对元素内容进行拼写检查用的是什么属性呢？](https://github.com/haizlin/fe-interview/issues/1557)
+    - [css] [用css实现饼图效果](https://github.com/haizlin/fe-interview/issues/1558)
+    - [js] [异步加载和延迟加载有什么区别？](https://github.com/haizlin/fe-interview/issues/1559)
+    - [软技能] [如果一个团队里勾心斗角比较严重，你该怎么办？如果你是管理层你又该怎么办？](https://github.com/haizlin/fe-interview/issues/1560)
+
 - 第221天 (2019.11.23)
     - [html] [wbr和br标签的区别是什么？](https://github.com/haizlin/fe-interview/issues/1553)
     - [css] [怎么使用纯css实现左右拉伸拖动？](https://github.com/haizlin/fe-interview/issues/1554)
