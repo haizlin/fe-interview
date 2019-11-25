@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.11.25) —— 223 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [适配刘海屏的方案有哪些呢？](https://github.com/haizlin/fe-interview/issues/1561)
-- [css] [用css实现倒影的效果](https://github.com/haizlin/fe-interview/issues/1562)
-- [js] [举例说明你对事件代理的理解](https://github.com/haizlin/fe-interview/issues/1563)
-- [skill] [你上家公司的工资是多少呢？](https://github.com/haizlin/fe-interview/issues/1564)
+## Today's Knowledge Points (2019.11.26) —— 224 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
+- [css] [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
+- [js] [请解释下NaN表示什么呢？typeof NaN结果是什么？](https://github.com/haizlin/fe-interview/issues/1567)
+- [skill] [你现在手头上有其他公司的offer吗？](https://github.com/haizlin/fe-interview/issues/1568)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
