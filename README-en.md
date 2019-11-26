@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.11.26) —— 224 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
-- [css] [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
-- [js] [请解释下NaN表示什么呢？typeof NaN结果是什么？](https://github.com/haizlin/fe-interview/issues/1567)
-- [skill] [你现在手头上有其他公司的offer吗？](https://github.com/haizlin/fe-interview/issues/1568)
+## Today's Knowledge Points (2019.11.27) —— 225 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [用一句话来描述下你对html的理解](https://github.com/haizlin/fe-interview/issues/1570)
+- [css] [使用overflow: scroll时不能平滑滚动怎样解决？](https://github.com/haizlin/fe-interview/issues/1571)
+- [js] [解释下offsetWidth、clientWidth、scrollWidth这三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/1572)
+- [skill] [让你去攻破一个难题，你愿意接受挑战吗？](https://github.com/haizlin/fe-interview/issues/1573)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 221 days (2019.11.23)
-    - [html] [wbr和br标签的区别是什么？](https://github.com/haizlin/fe-interview/issues/1553)
-    - [css] [怎么使用纯css实现左右拉伸拖动？](https://github.com/haizlin/fe-interview/issues/1554)
-    - [js] [js垃圾回收的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1555)
-    - [skill] [你觉得影响团队的战斗力有哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/1556)
+- 223 days (2019.11.25)
+    - [html] [适配刘海屏的方案有哪些呢？](https://github.com/haizlin/fe-interview/issues/1561)
+    - [css] [用css实现倒影的效果](https://github.com/haizlin/fe-interview/issues/1562)
+    - [js] [举例说明你对事件代理的理解](https://github.com/haizlin/fe-interview/issues/1563)
+    - [skill] [你上家公司的工资是多少呢？](https://github.com/haizlin/fe-interview/issues/1564)
 
-- 222 days (2019.11.24)
-    - [html] [HTML5对元素内容进行拼写检查用的是什么属性呢？](https://github.com/haizlin/fe-interview/issues/1557)
-    - [css] [用css实现饼图效果](https://github.com/haizlin/fe-interview/issues/1558)
-    - [js] [异步加载和延迟加载有什么区别？](https://github.com/haizlin/fe-interview/issues/1559)
-    - [skill] [如果一个团队里勾心斗角比较严重，你该怎么办？如果你是管理层你又该怎么办？](https://github.com/haizlin/fe-interview/issues/1560)
+- 224 days (2019.11.26)
+    - [html] [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
+    - [css] [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
+    - [js] [请解释下NaN表示什么呢？typeof NaN结果是什么？](https://github.com/haizlin/fe-interview/issues/1567)
+    - [skill] [你现在手头上有其他公司的offer吗？](https://github.com/haizlin/fe-interview/issues/1568)
 
 - **[All](category/history.md)**
 
@@ -145,7 +145,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.06.23 — 仅仅两天，vue的题量再次突破220+，非常感谢坚持！
 - 2019.06.25 — 误打误撞，github上面搜索“前端面试”，按star排行，成功挺进前10，立个flag，年底目标前5！
 - 2019.06.26 — 第71天，star数突破1000，issues数突破500！
-- 2019.06.28 — 第73天，此开源项目被[HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39/)收录，并把作者添加到了贡献者的名单，感觉HG，欢迎大家关注HG！
+- 2019.06.28 — 第73天，此开源项目被[HelloGitHub 第 39 期](https://hellogithub.com/periodical/volume/39/)收录，并把作者添加到了贡献者的名单，感谢HG，欢迎大家关注HG！
 - 2019.06.28 — 第73天，star数突破1300，原因是发布了篇 [vue 248+个知识点（面试题）为你保驾护航](https://juejin.im/post/5d153267e51d4510624f9809)，看来爱学习的朋友还是非常多的！
 - 2019.06.30 — 第75天，《前端面试每日3+1》开源项目上了github的热门榜，总榜排行第6，javascript语言榜排名第1！感谢一路同行的朋友们的努力付出！
 - 2019.06.30 — 第75天，鉴于有不少朋友都想直接要答案，而我的回答始终是没有，答案在你自己脑中！新的口号：始于面试，但不止于面试！提倡每日学习，每天进步！

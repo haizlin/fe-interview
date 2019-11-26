@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.11.26) —— 第224天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
-- [css] [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
-- [js] [请解释下NaN表示什么呢？typeof NaN结果是什么？](https://github.com/haizlin/fe-interview/issues/1567)
-- [软技能] [你现在手头上有其他公司的offer吗？](https://github.com/haizlin/fe-interview/issues/1568)
+## 今天的知识点 (2019.11.27) —— 第225天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [用一句话来描述下你对html的理解](https://github.com/haizlin/fe-interview/issues/1570)
+- [css] [使用overflow: scroll时不能平滑滚动怎样解决？](https://github.com/haizlin/fe-interview/issues/1571)
+- [js] [解释下offsetWidth、clientWidth、scrollWidth这三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/1572)
+- [软技能] [让你去攻破一个难题，你愿意接受挑战吗？](https://github.com/haizlin/fe-interview/issues/1573)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 222 days (2019.11.24)
-    - [html] [HTML5对元素内容进行拼写检查用的是什么属性呢？](https://github.com/haizlin/fe-interview/issues/1557)
-    - [css] [用css实现饼图效果](https://github.com/haizlin/fe-interview/issues/1558)
-    - [js] [异步加载和延迟加载有什么区别？](https://github.com/haizlin/fe-interview/issues/1559)
-    - [skill] [如果一个团队里勾心斗角比较严重，你该怎么办？如果你是管理层你又该怎么办？](https://github.com/haizlin/fe-interview/issues/1560)
-
-- 223 days (2019.11.25)
+- 第223天 (2019.11.25)
     - [html] [适配刘海屏的方案有哪些呢？](https://github.com/haizlin/fe-interview/issues/1561)
     - [css] [用css实现倒影的效果](https://github.com/haizlin/fe-interview/issues/1562)
     - [js] [举例说明你对事件代理的理解](https://github.com/haizlin/fe-interview/issues/1563)
-    - [skill] [你上家公司的工资是多少呢？](https://github.com/haizlin/fe-interview/issues/1564)
+    - [软技能] [你上家公司的工资是多少呢？](https://github.com/haizlin/fe-interview/issues/1564)
+
+- 第224天 (2019.11.26)
+    - [html] [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
+    - [css] [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
+    - [js] [请解释下NaN表示什么呢？typeof NaN结果是什么？](https://github.com/haizlin/fe-interview/issues/1567)
+    - [软技能] [你现在手头上有其他公司的offer吗？](https://github.com/haizlin/fe-interview/issues/1568)
     
 - **[查看全部](category/history.md)**
 

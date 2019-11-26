@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第224天 (2019.11.26)
+    - [html] [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
+    - [css] [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
+    - [js] [请解释下NaN表示什么呢？typeof NaN结果是什么？](https://github.com/haizlin/fe-interview/issues/1567)
+    - [软技能] [你现在手头上有其他公司的offer吗？](https://github.com/haizlin/fe-interview/issues/1568)
+
 - 第223天 (2019.11.25)
     - [html] [适配刘海屏的方案有哪些呢？](https://github.com/haizlin/fe-interview/issues/1561)
     - [css] [用css实现倒影的效果](https://github.com/haizlin/fe-interview/issues/1562)
