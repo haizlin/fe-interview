@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第225天 (2019.11.27)
+    - [html] [用一句话来描述下你对html的理解](https://github.com/haizlin/fe-interview/issues/1570)
+    - [css] [使用overflow: scroll时不能平滑滚动怎样解决？](https://github.com/haizlin/fe-interview/issues/1571)
+    - [js] [解释下offsetWidth、clientWidth、scrollWidth这三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/1572)
+    - [软技能] [让你去攻破一个难题，你愿意接受挑战吗？](https://github.com/haizlin/fe-interview/issues/1573)
+
 - 第224天 (2019.11.26)
     - [html] [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
     - [css] [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
