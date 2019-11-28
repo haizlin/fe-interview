@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第226天 (2019.11.28)
+    - [html] [当写一个复杂页面的时候，你是怎么布局的？有什么方法论吗？](https://github.com/haizlin/fe-interview/issues/1574)
+    - [css] [使用css画出一个五角星](https://github.com/haizlin/fe-interview/issues/1575)
+    - [js] [各浏览器的事件机制有什么不同？ 如何阻止事件冒泡？](https://github.com/haizlin/fe-interview/issues/1576)
+    - [软技能] [你最期望公司给你什么样的福利？](https://github.com/haizlin/fe-interview/issues/1577)
+
 - 第225天 (2019.11.27)
     - [html] [用一句话来描述下你对html的理解](https://github.com/haizlin/fe-interview/issues/1570)
     - [css] [使用overflow: scroll时不能平滑滚动怎样解决？](https://github.com/haizlin/fe-interview/issues/1571)

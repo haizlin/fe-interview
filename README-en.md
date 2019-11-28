@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.11.27) —— 225 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [用一句话来描述下你对html的理解](https://github.com/haizlin/fe-interview/issues/1570)
-- [css] [使用overflow: scroll时不能平滑滚动怎样解决？](https://github.com/haizlin/fe-interview/issues/1571)
-- [js] [解释下offsetWidth、clientWidth、scrollWidth这三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/1572)
-- [skill] [让你去攻破一个难题，你愿意接受挑战吗？](https://github.com/haizlin/fe-interview/issues/1573)
+## Today's Knowledge Points (2019.11.29) —— 227 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [说说你认为html在前端的地位怎么样？](https://github.com/haizlin/fe-interview/issues/1578)
+- [css] [说出至少十条你理解的css规范](https://github.com/haizlin/fe-interview/issues/1579)
+- [js] [如何禁止IOS移动端网页橡皮筋的效果？](https://github.com/haizlin/fe-interview/issues/1580)
+- [skill] [在工作中，你会有犹豫的时候吗？举个例子说明下](https://github.com/haizlin/fe-interview/issues/1581)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
