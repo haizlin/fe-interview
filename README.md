@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.11.29) —— 第227天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [说说你认为html在前端的地位怎么样？](https://github.com/haizlin/fe-interview/issues/1578)
-- [css] [说出至少十条你理解的css规范](https://github.com/haizlin/fe-interview/issues/1579)
-- [js] [如何禁止IOS移动端网页橡皮筋的效果？](https://github.com/haizlin/fe-interview/issues/1580)
-- [软技能] [在工作中，你会有犹豫的时候吗？举个例子说明下](https://github.com/haizlin/fe-interview/issues/1581)
+## 今天的知识点 (2019.11.30) —— 第228天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [你觉得html简单吗？说说你的理由](https://github.com/haizlin/fe-interview/issues/1582)
+- [css] [写一个动画，向上匀速移动100px，向下以1.5倍速度移动200px，一直反复循环](https://github.com/haizlin/fe-interview/issues/1583)
+- [js] [说出至少十条你理解的js规范](https://github.com/haizlin/fe-interview/issues/1584)
+- [软技能] [你心中认为最成功（最认可）的一个人是谁？说说你对他的评价](https://github.com/haizlin/fe-interview/issues/1585)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 225 days (2019.11.27)
-    - [html] [用一句话来描述下你对html的理解](https://github.com/haizlin/fe-interview/issues/1570)
-    - [css] [使用overflow: scroll时不能平滑滚动怎样解决？](https://github.com/haizlin/fe-interview/issues/1571)
-    - [js] [解释下offsetWidth、clientWidth、scrollWidth这三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/1572)
-    - [skill] [让你去攻破一个难题，你愿意接受挑战吗？](https://github.com/haizlin/fe-interview/issues/1573)
-
-- 226 days (2019.11.28)
+- 第226天 (2019.11.28)
     - [html] [当写一个复杂页面的时候，你是怎么布局的？有什么方法论吗？](https://github.com/haizlin/fe-interview/issues/1574)
     - [css] [使用css画出一个五角星](https://github.com/haizlin/fe-interview/issues/1575)
     - [js] [各浏览器的事件机制有什么不同？ 如何阻止事件冒泡？](https://github.com/haizlin/fe-interview/issues/1576)
-    - [skill] [你最期望公司给你什么样的福利？](https://github.com/haizlin/fe-interview/issues/1577)
+    - [软技能] [你最期望公司给你什么样的福利？](https://github.com/haizlin/fe-interview/issues/1577)
+
+- 第227天 (2019.11.29)
+    - [html] [说说你认为html在前端的地位怎么样？](https://github.com/haizlin/fe-interview/issues/1578)
+    - [css] [说出至少十条你理解的css规范](https://github.com/haizlin/fe-interview/issues/1579)
+    - [js] [如何禁止IOS移动端网页橡皮筋的效果？](https://github.com/haizlin/fe-interview/issues/1580)
+    - [软技能] [在工作中，你会有犹豫的时候吗？举个例子说明下](https://github.com/haizlin/fe-interview/issues/1581)
     
 - **[查看全部](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第227天 (2019.11.29)
+    - [html] [说说你认为html在前端的地位怎么样？](https://github.com/haizlin/fe-interview/issues/1578)
+    - [css] [说出至少十条你理解的css规范](https://github.com/haizlin/fe-interview/issues/1579)
+    - [js] [如何禁止IOS移动端网页橡皮筋的效果？](https://github.com/haizlin/fe-interview/issues/1580)
+    - [软技能] [在工作中，你会有犹豫的时候吗？举个例子说明下](https://github.com/haizlin/fe-interview/issues/1581)
+
 - 第226天 (2019.11.28)
     - [html] [当写一个复杂页面的时候，你是怎么布局的？有什么方法论吗？](https://github.com/haizlin/fe-interview/issues/1574)
     - [css] [使用css画出一个五角星](https://github.com/haizlin/fe-interview/issues/1575)
