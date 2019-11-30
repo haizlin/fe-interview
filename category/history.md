@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第228天 (2019.11.30)
+    - [html] [你觉得html简单吗？说说你的理由](https://github.com/haizlin/fe-interview/issues/1582)
+    - [css] [写一个动画，向上匀速移动100px，向下以1.5倍速度移动200px，一直反复循环](https://github.com/haizlin/fe-interview/issues/1583)
+    - [js] [说出至少十条你理解的js规范](https://github.com/haizlin/fe-interview/issues/1584)
+    - [软技能] [你心中认为最成功（最认可）的一个人是谁？说说你对他的评价](https://github.com/haizlin/fe-interview/issues/1585)
+
 - 第227天 (2019.11.29)
     - [html] [说说你认为html在前端的地位怎么样？](https://github.com/haizlin/fe-interview/issues/1578)
     - [css] [说出至少十条你理解的css规范](https://github.com/haizlin/fe-interview/issues/1579)

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.24
+> 最新：2019.12.01
 
+- [前端异步的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1588)
+- [说出至少十条你理解的js规范](https://github.com/haizlin/fe-interview/issues/1584)
+- [如何禁止IOS移动端网页橡皮筋的效果？](https://github.com/haizlin/fe-interview/issues/1580)
+- [各浏览器的事件机制有什么不同？ 如何阻止事件冒泡？](https://github.com/haizlin/fe-interview/issues/1576)
+- [解释下offsetWidth、clientWidth、scrollWidth这三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/1572)
+- [请解释下NaN表示什么呢？typeof NaN结果是什么？](https://github.com/haizlin/fe-interview/issues/1567)
+- [举例说明你对事件代理的理解](https://github.com/haizlin/fe-interview/issues/1563)
 - [异步加载和延迟加载有什么区别？](https://github.com/haizlin/fe-interview/issues/1559)
 - [js垃圾回收的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1555)
 - [你对window的属性devicePixelRatio有了解吗？说说它有什么实际应用场景？](https://github.com/haizlin/fe-interview/issues/1551)

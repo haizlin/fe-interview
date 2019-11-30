@@ -2,8 +2,16 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.24
+> 最新：2019.12.01
 
+## html
+- [如果让你带一个什么都不懂的人入门学前端，你应该怎么带他？](https://github.com/haizlin/fe-interview/issues/1586)
+- [你觉得html简单吗？说说你的理由](https://github.com/haizlin/fe-interview/issues/1582)
+- [说说你认为html在前端的地位怎么样？](https://github.com/haizlin/fe-interview/issues/1578)
+- [当写一个复杂页面的时候，你是怎么布局的？有什么方法论吗？](https://github.com/haizlin/fe-interview/issues/1574)
+- [用一句话来描述下你对html的理解](https://github.com/haizlin/fe-interview/issues/1570)
+- [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
+- [适配刘海屏的方案有哪些呢？](https://github.com/haizlin/fe-interview/issues/1561)
 - [HTML5对元素内容进行拼写检查用的是什么属性呢？](https://github.com/haizlin/fe-interview/issues/1557)
 - [wbr和br标签的区别是什么？](https://github.com/haizlin/fe-interview/issues/1553)
 - [在使用HTML5时有哪些规则需要遵守？](https://github.com/haizlin/fe-interview/issues/1549)

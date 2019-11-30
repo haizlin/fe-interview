@@ -1,4 +1,4 @@
-# 周汇总 2019.11.24
+# 周汇总 2019.12.01
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [HTML5对元素内容进行拼写检查用的是什么属性呢？](https://github.com/haizlin/fe-interview/issues/1557)
-- [wbr和br标签的区别是什么？](https://github.com/haizlin/fe-interview/issues/1553)
-- [在使用HTML5时有哪些规则需要遵守？](https://github.com/haizlin/fe-interview/issues/1549)
-- [HTML5相比于HTML4有哪些优势？](https://github.com/haizlin/fe-interview/issues/1545)
-- [canvas怎么解决图片和文字模糊的问题？](https://github.com/haizlin/fe-interview/issues/1541)
-- [页面加载后，表单的第一个文本框如何自动获得焦点？](https://github.com/haizlin/fe-interview/issues/1537)
-- [你有了解过Applet（Java小程序）吗？](https://github.com/haizlin/fe-interview/issues/1533)
+- [如果让你带一个什么都不懂的人入门学前端，你应该怎么带他？](https://github.com/haizlin/fe-interview/issues/1586)
+- [你觉得html简单吗？说说你的理由](https://github.com/haizlin/fe-interview/issues/1582)
+- [说说你认为html在前端的地位怎么样？](https://github.com/haizlin/fe-interview/issues/1578)
+- [当写一个复杂页面的时候，你是怎么布局的？有什么方法论吗？](https://github.com/haizlin/fe-interview/issues/1574)
+- [用一句话来描述下你对html的理解](https://github.com/haizlin/fe-interview/issues/1570)
+- [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
+- [适配刘海屏的方案有哪些呢？](https://github.com/haizlin/fe-interview/issues/1561)
 
 ## css
-- [用css实现饼图效果](https://github.com/haizlin/fe-interview/issues/1558)
-- [怎么使用纯css实现左右拉伸拖动？](https://github.com/haizlin/fe-interview/issues/1554)
-- [举例说明attr()的使用场景](https://github.com/haizlin/fe-interview/issues/1550)
-- [你有使用:valid和:invalid来校验表单吗？](https://github.com/haizlin/fe-interview/issues/1546)
-- [使用css写一个水平翻转文字的效果](https://github.com/haizlin/fe-interview/issues/1542)
-- [举例说明:not()的使用场景有哪些](https://github.com/haizlin/fe-interview/issues/1538)
-- [怎么让div中的图片和文字同时上下居中？](https://github.com/haizlin/fe-interview/issues/1534)
+- [在css中为什么说不建议使用@import？](https://github.com/haizlin/fe-interview/issues/1587)
+- [写一个动画，向上匀速移动100px，向下以1.5倍速度移动200px，一直反复循环](https://github.com/haizlin/fe-interview/issues/1583)
+- [说出至少十条你理解的css规范](https://github.com/haizlin/fe-interview/issues/1579)
+- [使用css画出一个五角星](https://github.com/haizlin/fe-interview/issues/1575)
+- [使用overflow: scroll时不能平滑滚动怎样解决？](https://github.com/haizlin/fe-interview/issues/1571)
+- [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
+- [用css实现倒影的效果](https://github.com/haizlin/fe-interview/issues/1562)
 
 ## js
-- [异步加载和延迟加载有什么区别？](https://github.com/haizlin/fe-interview/issues/1559)
-- [js垃圾回收的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1555)
-- [你对window的属性devicePixelRatio有了解吗？说说它有什么实际应用场景？](https://github.com/haizlin/fe-interview/issues/1551)
-- [写一个网络不通时则提醒用户的方法](https://github.com/haizlin/fe-interview/issues/1547)
-- [用js封装一个对cookie操作的方法](https://github.com/haizlin/fe-interview/issues/1543)
-- [举例说明js创建数组有哪些方法？](https://github.com/haizlin/fe-interview/issues/1539)
-- [举例说明什么是匿名函数？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1535)
+- [前端异步的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1588)
+- [说出至少十条你理解的js规范](https://github.com/haizlin/fe-interview/issues/1584)
+- [如何禁止IOS移动端网页橡皮筋的效果？](https://github.com/haizlin/fe-interview/issues/1580)
+- [各浏览器的事件机制有什么不同？ 如何阻止事件冒泡？](https://github.com/haizlin/fe-interview/issues/1576)
+- [解释下offsetWidth、clientWidth、scrollWidth这三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/1572)
+- [请解释下NaN表示什么呢？typeof NaN结果是什么？](https://github.com/haizlin/fe-interview/issues/1567)
+- [举例说明你对事件代理的理解](https://github.com/haizlin/fe-interview/issues/1563)
 
 ## 软技能
-- [如果一个团队里勾心斗角比较严重，你该怎么办？如果你是管理层你又该怎么办？](https://github.com/haizlin/fe-interview/issues/1560)
-- [你觉得影响团队的战斗力有哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/1556)
-- [如果我们决定录用你，但薪资达不到你的要求，你愿意吗？最大幅度能接受降多少？](https://github.com/haizlin/fe-interview/issues/1552)
-- [你喜欢什么样的领导？](https://github.com/haizlin/fe-interview/issues/1548)
-- [你之前的工作有出过差吗？如果公司要求出差，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1544)
-- [你对工作环境有什么要求吗？](https://github.com/haizlin/fe-interview/issues/1540)
-- [如果你来后接手的项目有很多问题，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1536)
+- [你最喜欢什么样的团队及团队氛围？](https://github.com/haizlin/fe-interview/issues/1589)
+- [你心中认为最成功（最认可）的一个人是谁？说说你对他的评价](https://github.com/haizlin/fe-interview/issues/1585)
+- [在工作中，你会有犹豫的时候吗？举个例子说明下](https://github.com/haizlin/fe-interview/issues/1581)
+- [你最期望公司给你什么样的福利？](https://github.com/haizlin/fe-interview/issues/1577)
+- [让你去攻破一个难题，你愿意接受挑战吗？](https://github.com/haizlin/fe-interview/issues/1573)
+- [你现在手头上有其他公司的offer吗？](https://github.com/haizlin/fe-interview/issues/1568)
+- [你上家公司的工资是多少呢？](https://github.com/haizlin/fe-interview/issues/1564)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

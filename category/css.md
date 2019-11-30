@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.24
+> 最新：2019.12.01
 
+- [在css中为什么说不建议使用@import？](https://github.com/haizlin/fe-interview/issues/1587)
+- [写一个动画，向上匀速移动100px，向下以1.5倍速度移动200px，一直反复循环](https://github.com/haizlin/fe-interview/issues/1583)
+- [说出至少十条你理解的css规范](https://github.com/haizlin/fe-interview/issues/1579)
+- [使用css画出一个五角星](https://github.com/haizlin/fe-interview/issues/1575)
+- [使用overflow: scroll时不能平滑滚动怎样解决？](https://github.com/haizlin/fe-interview/issues/1571)
+- [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
+- [用css实现倒影的效果](https://github.com/haizlin/fe-interview/issues/1562)
 - [用css实现饼图效果](https://github.com/haizlin/fe-interview/issues/1558)
 - [怎么使用纯css实现左右拉伸拖动？](https://github.com/haizlin/fe-interview/issues/1554)
 - [举例说明attr()的使用场景](https://github.com/haizlin/fe-interview/issues/1550)

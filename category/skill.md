@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.11.24
+> 最新：2019.12.01
 
+- [你最喜欢什么样的团队及团队氛围？](https://github.com/haizlin/fe-interview/issues/1589)
+- [你心中认为最成功（最认可）的一个人是谁？说说你对他的评价](https://github.com/haizlin/fe-interview/issues/1585)
+- [在工作中，你会有犹豫的时候吗？举个例子说明下](https://github.com/haizlin/fe-interview/issues/1581)
+- [你最期望公司给你什么样的福利？](https://github.com/haizlin/fe-interview/issues/1577)
+- [让你去攻破一个难题，你愿意接受挑战吗？](https://github.com/haizlin/fe-interview/issues/1573)
+- [你现在手头上有其他公司的offer吗？](https://github.com/haizlin/fe-interview/issues/1568)
+- [你上家公司的工资是多少呢？](https://github.com/haizlin/fe-interview/issues/1564)
 - [如果一个团队里勾心斗角比较严重，你该怎么办？如果你是管理层你又该怎么办？](https://github.com/haizlin/fe-interview/issues/1560)
 - [你觉得影响团队的战斗力有哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/1556)
 - [如果我们决定录用你，但薪资达不到你的要求，你愿意吗？最大幅度能接受降多少？](https://github.com/haizlin/fe-interview/issues/1552)
