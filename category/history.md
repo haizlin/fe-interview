@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第229天 (2019.12.01)
+    - [html] [如果让你带一个什么都不懂的人入门学前端，你应该怎么带他？](https://github.com/haizlin/fe-interview/issues/1586)
+    - [css] [在css中为什么说不建议使用@import？](https://github.com/haizlin/fe-interview/issues/1587)
+    - [js] [前端异步的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1588)
+    - [软技能] [你最喜欢什么样的团队及团队氛围？](https://github.com/haizlin/fe-interview/issues/1589)
+
 - 第228天 (2019.11.30)
     - [html] [你觉得html简单吗？说说你的理由](https://github.com/haizlin/fe-interview/issues/1582)
     - [css] [写一个动画，向上匀速移动100px，向下以1.5倍速度移动200px，一直反复循环](https://github.com/haizlin/fe-interview/issues/1583)
