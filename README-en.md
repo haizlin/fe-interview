@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.12.02) —— 230 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [说出至少十条你理解的html规范](https://github.com/haizlin/fe-interview/issues/1590)
-- [css] [当使用opacity时会使得元素的子元素也透明，此时不想要子元素也跟着透明怎么办？](https://github.com/haizlin/fe-interview/issues/1591)
-- [js] [写一个方法判断页面滚动方向](https://github.com/haizlin/fe-interview/issues/1592)
-- [skill] [上级领导安排的任务过多无法完成，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1593)
+## Today's Knowledge Points (2019.12.03) —— 231 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [解释下为什么说html嵌套级别不宜过多？](https://github.com/haizlin/fe-interview/issues/1594)
+- [css] [css中padding和margin是相对于父元素还是子元素呢？](https://github.com/haizlin/fe-interview/issues/1595)
+- [js] [写一个方法来获取div到浏览器窗口的高度](https://github.com/haizlin/fe-interview/issues/1596)
+- [skill] [现在公司有好几个侯选人，用一句话突出你的竞争力吧](https://github.com/haizlin/fe-interview/issues/1597)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 228 days (2019.11.30)
-    - [html] [你觉得html简单吗？说说你的理由](https://github.com/haizlin/fe-interview/issues/1582)
-    - [css] [写一个动画，向上匀速移动100px，向下以1.5倍速度移动200px，一直反复循环](https://github.com/haizlin/fe-interview/issues/1583)
-    - [js] [说出至少十条你理解的js规范](https://github.com/haizlin/fe-interview/issues/1584)
-    - [skill] [你心中认为最成功（最认可）的一个人是谁？说说你对他的评价](https://github.com/haizlin/fe-interview/issues/1585)
-
 - 229 days (2019.12.01)
     - [html] [如果让你带一个什么都不懂的人入门学前端，你应该怎么带他？](https://github.com/haizlin/fe-interview/issues/1586)
     - [css] [在css中为什么说不建议使用@import？](https://github.com/haizlin/fe-interview/issues/1587)
     - [js] [前端异步的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1588)
     - [skill] [你最喜欢什么样的团队及团队氛围？](https://github.com/haizlin/fe-interview/issues/1589)
+
+- 230 days (2019.12.02)
+    - [html] [说出至少十条你理解的html规范](https://github.com/haizlin/fe-interview/issues/1590)
+    - [css] [当使用opacity时会使得元素的子元素也透明，此时不想要子元素也跟着透明怎么办？](https://github.com/haizlin/fe-interview/issues/1591)
+    - [js] [写一个方法判断页面滚动方向](https://github.com/haizlin/fe-interview/issues/1592)
+    - [skill] [上级领导安排的任务过多无法完成，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1593)
 
 - **[All](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第230天 (2019.12.02)
+    - [html] [说出至少十条你理解的html规范](https://github.com/haizlin/fe-interview/issues/1590)
+    - [css] [当使用opacity时会使得元素的子元素也透明，此时不想要子元素也跟着透明怎么办？](https://github.com/haizlin/fe-interview/issues/1591)
+    - [js] [写一个方法判断页面滚动方向](https://github.com/haizlin/fe-interview/issues/1592)
+    - [软技能] [上级领导安排的任务过多无法完成，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1593)
+
 - 第229天 (2019.12.01)
     - [html] [如果让你带一个什么都不懂的人入门学前端，你应该怎么带他？](https://github.com/haizlin/fe-interview/issues/1586)
     - [css] [在css中为什么说不建议使用@import？](https://github.com/haizlin/fe-interview/issues/1587)
