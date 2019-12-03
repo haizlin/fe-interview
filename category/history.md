@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第231天 (2019.12.03)
+    - [html] [解释下为什么说html嵌套级别不宜过多？](https://github.com/haizlin/fe-interview/issues/1594)
+    - [css] [css中padding和margin是相对于父元素还是子元素呢？](https://github.com/haizlin/fe-interview/issues/1595)
+    - [js] [写一个方法来获取div到浏览器窗口的高度](https://github.com/haizlin/fe-interview/issues/1596)
+    - [软技能] [现在公司有好几个侯选人，用一句话突出你的竞争力吧](https://github.com/haizlin/fe-interview/issues/1597)
+
 - 第230天 (2019.12.02)
     - [html] [说出至少十条你理解的html规范](https://github.com/haizlin/fe-interview/issues/1590)
     - [css] [当使用opacity时会使得元素的子元素也透明，此时不想要子元素也跟着透明怎么办？](https://github.com/haizlin/fe-interview/issues/1591)

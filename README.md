@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.12.03) —— 第231天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [解释下为什么说html嵌套级别不宜过多？](https://github.com/haizlin/fe-interview/issues/1594)
-- [css] [css中padding和margin是相对于父元素还是子元素呢？](https://github.com/haizlin/fe-interview/issues/1595)
-- [js] [写一个方法来获取div到浏览器窗口的高度](https://github.com/haizlin/fe-interview/issues/1596)
-- [软技能] [现在公司有好几个侯选人，用一句话突出你的竞争力吧](https://github.com/haizlin/fe-interview/issues/1597)
+## 今天的知识点 (2019.12.04) —— 第232天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [网站的响应式和自适应有什么区别？](https://github.com/haizlin/fe-interview/issues/1599)
+- [css] [使用css实现彩虹的效果](https://github.com/haizlin/fe-interview/issues/1600)
+- [js] [举例说明constructor和instanceof的区别是什么？](https://github.com/haizlin/fe-interview/issues/1601)
+- [软技能] [你是怎么理解团队合作的？](https://github.com/haizlin/fe-interview/issues/1602)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第229天 (2019.12.01)
-    - [html] [如果让你带一个什么都不懂的人入门学前端，你应该怎么带他？](https://github.com/haizlin/fe-interview/issues/1586)
-    - [css] [在css中为什么说不建议使用@import？](https://github.com/haizlin/fe-interview/issues/1587)
-    - [js] [前端异步的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1588)
-    - [软技能] [你最喜欢什么样的团队及团队氛围？](https://github.com/haizlin/fe-interview/issues/1589)
-
 - 第230天 (2019.12.02)
     - [html] [说出至少十条你理解的html规范](https://github.com/haizlin/fe-interview/issues/1590)
     - [css] [当使用opacity时会使得元素的子元素也透明，此时不想要子元素也跟着透明怎么办？](https://github.com/haizlin/fe-interview/issues/1591)
     - [js] [写一个方法判断页面滚动方向](https://github.com/haizlin/fe-interview/issues/1592)
     - [软技能] [上级领导安排的任务过多无法完成，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1593)
+
+- 第231天 (2019.12.03)
+    - [html] [解释下为什么说html嵌套级别不宜过多？](https://github.com/haizlin/fe-interview/issues/1594)
+    - [css] [css中padding和margin是相对于父元素还是子元素呢？](https://github.com/haizlin/fe-interview/issues/1595)
+    - [js] [写一个方法来获取div到浏览器窗口的高度](https://github.com/haizlin/fe-interview/issues/1596)
+    - [软技能] [现在公司有好几个侯选人，用一句话突出你的竞争力吧](https://github.com/haizlin/fe-interview/issues/1597)
     
 - **[查看全部](category/history.md)**
 
