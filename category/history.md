@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第232天 (2019.12.04)
+    - [html] [网站的响应式和自适应有什么区别？](https://github.com/haizlin/fe-interview/issues/1599)
+    - [css] [使用css实现彩虹的效果](https://github.com/haizlin/fe-interview/issues/1600)
+    - [js] [举例说明constructor和instanceof的区别是什么？](https://github.com/haizlin/fe-interview/issues/1601)
+    - [软技能] [你是怎么理解团队合作的？](https://github.com/haizlin/fe-interview/issues/1602)
+
 - 第231天 (2019.12.03)
     - [html] [解释下为什么说html嵌套级别不宜过多？](https://github.com/haizlin/fe-interview/issues/1594)
     - [css] [css中padding和margin是相对于父元素还是子元素呢？](https://github.com/haizlin/fe-interview/issues/1595)

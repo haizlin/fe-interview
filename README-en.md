@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.12.04) —— 232 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [网站的响应式和自适应有什么区别？](https://github.com/haizlin/fe-interview/issues/1599)
-- [css] [使用css实现彩虹的效果](https://github.com/haizlin/fe-interview/issues/1600)
-- [js] [举例说明constructor和instanceof的区别是什么？](https://github.com/haizlin/fe-interview/issues/1601)
-- [skill] [你是怎么理解团队合作的？](https://github.com/haizlin/fe-interview/issues/1602)
+## Today's Knowledge Points (2019.12.05) —— 233 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [说说你是怎么实现页面阻尼效果的？](https://github.com/haizlin/fe-interview/issues/1603)
+- [css] [怎么IE6下在使用margin:0 auto;无法使其居中？](https://github.com/haizlin/fe-interview/issues/1604)
+- [js] [写一个方法获取div的宽高](https://github.com/haizlin/fe-interview/issues/1605)
+- [skill] [现在前后端分离，作为前端的你是怎么与其它部门合作的？](https://github.com/haizlin/fe-interview/issues/1606)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 230 days (2019.12.02)
-    - [html] [说出至少十条你理解的html规范](https://github.com/haizlin/fe-interview/issues/1590)
-    - [css] [当使用opacity时会使得元素的子元素也透明，此时不想要子元素也跟着透明怎么办？](https://github.com/haizlin/fe-interview/issues/1591)
-    - [js] [写一个方法判断页面滚动方向](https://github.com/haizlin/fe-interview/issues/1592)
-    - [skill] [上级领导安排的任务过多无法完成，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1593)
-
 - 231 days (2019.12.03)
     - [html] [解释下为什么说html嵌套级别不宜过多？](https://github.com/haizlin/fe-interview/issues/1594)
     - [css] [css中padding和margin是相对于父元素还是子元素呢？](https://github.com/haizlin/fe-interview/issues/1595)
     - [js] [写一个方法来获取div到浏览器窗口的高度](https://github.com/haizlin/fe-interview/issues/1596)
     - [skill] [现在公司有好几个侯选人，用一句话突出你的竞争力吧](https://github.com/haizlin/fe-interview/issues/1597)
+
+- 232 days (2019.12.04)
+    - [html] [网站的响应式和自适应有什么区别？](https://github.com/haizlin/fe-interview/issues/1599)
+    - [css] [使用css实现彩虹的效果](https://github.com/haizlin/fe-interview/issues/1600)
+    - [js] [举例说明constructor和instanceof的区别是什么？](https://github.com/haizlin/fe-interview/issues/1601)
+    - [skill] [你是怎么理解团队合作的？](https://github.com/haizlin/fe-interview/issues/1602)
 
 - **[All](category/history.md)**
 
