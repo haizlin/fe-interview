@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.12.05) —— 第233天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [说说你是怎么实现页面阻尼效果的？](https://github.com/haizlin/fe-interview/issues/1603)
-- [css] [怎么IE6下在使用margin:0 auto;无法使其居中？](https://github.com/haizlin/fe-interview/issues/1604)
-- [js] [写一个方法获取div的宽高](https://github.com/haizlin/fe-interview/issues/1605)
-- [软技能] [现在前后端分离，作为前端的你是怎么与其它部门合作的？](https://github.com/haizlin/fe-interview/issues/1606)
+## 今天的知识点 (2019.12.06) —— 第234天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [怎样实现每次页面打开时都清除本页缓存？](https://github.com/haizlin/fe-interview/issues/1607)
+- [css] [如何使用CSS3的属性设置模拟边框跟border效果一样？](https://github.com/haizlin/fe-interview/issues/1608)
+- [js] [你知道js的函数重载是什么吗？](https://github.com/haizlin/fe-interview/issues/1609)
+- [软技能] [你觉得你每天最佳的工作时间是什么时候？](https://github.com/haizlin/fe-interview/issues/1610)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第231天 (2019.12.03)
-    - [html] [解释下为什么说html嵌套级别不宜过多？](https://github.com/haizlin/fe-interview/issues/1594)
-    - [css] [css中padding和margin是相对于父元素还是子元素呢？](https://github.com/haizlin/fe-interview/issues/1595)
-    - [js] [写一个方法来获取div到浏览器窗口的高度](https://github.com/haizlin/fe-interview/issues/1596)
-    - [软技能] [现在公司有好几个侯选人，用一句话突出你的竞争力吧](https://github.com/haizlin/fe-interview/issues/1597)
-
 - 第232天 (2019.12.04)
     - [html] [网站的响应式和自适应有什么区别？](https://github.com/haizlin/fe-interview/issues/1599)
     - [css] [使用css实现彩虹的效果](https://github.com/haizlin/fe-interview/issues/1600)
     - [js] [举例说明constructor和instanceof的区别是什么？](https://github.com/haizlin/fe-interview/issues/1601)
     - [软技能] [你是怎么理解团队合作的？](https://github.com/haizlin/fe-interview/issues/1602)
+
+- 第233天 (2019.12.05)
+    - [html] [说说你是怎么实现页面阻尼效果的？](https://github.com/haizlin/fe-interview/issues/1603)
+    - [css] [怎么IE6下在使用margin:0 auto;无法使其居中？](https://github.com/haizlin/fe-interview/issues/1604)
+    - [js] [写一个方法获取div的宽高](https://github.com/haizlin/fe-interview/issues/1605)
+    - [软技能] [现在前后端分离，作为前端的你是怎么与其它部门合作的？](https://github.com/haizlin/fe-interview/issues/1606)
     
 - **[查看全部](category/history.md)**
 

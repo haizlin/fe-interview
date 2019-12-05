@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第233天 (2019.12.05)
+    - [html] [说说你是怎么实现页面阻尼效果的？](https://github.com/haizlin/fe-interview/issues/1603)
+    - [css] [怎么IE6下在使用margin:0 auto;无法使其居中？](https://github.com/haizlin/fe-interview/issues/1604)
+    - [js] [写一个方法获取div的宽高](https://github.com/haizlin/fe-interview/issues/1605)
+    - [软技能] [现在前后端分离，作为前端的你是怎么与其它部门合作的？](https://github.com/haizlin/fe-interview/issues/1606)
+
 - 第232天 (2019.12.04)
     - [html] [网站的响应式和自适应有什么区别？](https://github.com/haizlin/fe-interview/issues/1599)
     - [css] [使用css实现彩虹的效果](https://github.com/haizlin/fe-interview/issues/1600)
