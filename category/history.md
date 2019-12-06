@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第234天 (2019.12.06)
+    - [html] [怎样实现每次页面打开时都清除本页缓存？](https://github.com/haizlin/fe-interview/issues/1607)
+    - [css] [如何使用CSS3的属性设置模拟边框跟border效果一样？](https://github.com/haizlin/fe-interview/issues/1608)
+    - [js] [你知道js的函数重载是什么吗？](https://github.com/haizlin/fe-interview/issues/1609)
+    - [软技能] [你觉得你每天最佳的工作时间是什么时候？](https://github.com/haizlin/fe-interview/issues/1610)
+
 - 第233天 (2019.12.05)
     - [html] [说说你是怎么实现页面阻尼效果的？](https://github.com/haizlin/fe-interview/issues/1603)
     - [css] [怎么IE6下在使用margin:0 auto;无法使其居中？](https://github.com/haizlin/fe-interview/issues/1604)
