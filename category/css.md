@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.01
+> 最新：2019.12.08
 
+- [移动端页面不满一屏时如何实现满屏背景？](https://github.com/haizlin/fe-interview/issues/1617)
+- [写一个高度从0到auto的transition动画](https://github.com/haizlin/fe-interview/issues/1613)
+- [如何使用CSS3的属性设置模拟边框跟border效果一样？](https://github.com/haizlin/fe-interview/issues/1608)
+- [怎么IE6下在使用margin:0 auto;无法使其居中？](https://github.com/haizlin/fe-interview/issues/1604)
+- [使用css实现彩虹的效果](https://github.com/haizlin/fe-interview/issues/1600)
+- [css中padding和margin是相对于父元素还是子元素呢？](https://github.com/haizlin/fe-interview/issues/1595)
+- [当使用opacity时会使得元素的子元素也透明，此时不想要子元素也跟着透明怎么办？](https://github.com/haizlin/fe-interview/issues/1591)
 - [在css中为什么说不建议使用@import？](https://github.com/haizlin/fe-interview/issues/1587)
 - [写一个动画，向上匀速移动100px，向下以1.5倍速度移动200px，一直反复循环](https://github.com/haizlin/fe-interview/issues/1583)
 - [说出至少十条你理解的css规范](https://github.com/haizlin/fe-interview/issues/1579)

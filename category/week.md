@@ -1,4 +1,4 @@
-# 周汇总 2019.12.01
+# 周汇总 2019.12.08
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [如果让你带一个什么都不懂的人入门学前端，你应该怎么带他？](https://github.com/haizlin/fe-interview/issues/1586)
-- [你觉得html简单吗？说说你的理由](https://github.com/haizlin/fe-interview/issues/1582)
-- [说说你认为html在前端的地位怎么样？](https://github.com/haizlin/fe-interview/issues/1578)
-- [当写一个复杂页面的时候，你是怎么布局的？有什么方法论吗？](https://github.com/haizlin/fe-interview/issues/1574)
-- [用一句话来描述下你对html的理解](https://github.com/haizlin/fe-interview/issues/1570)
-- [关于缓存你了解多少？](https://github.com/haizlin/fe-interview/issues/1565)
-- [适配刘海屏的方案有哪些呢？](https://github.com/haizlin/fe-interview/issues/1561)
+- [说说你对iframe属性sandbox的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1616)
+- [请解释下href="javascript:void(0)"和href="#"的区别是什么？](https://github.com/haizlin/fe-interview/issues/1612)
+- [怎样实现每次页面打开时都清除本页缓存？](https://github.com/haizlin/fe-interview/issues/1607)
+- [说说你是怎么实现页面阻尼效果的？](https://github.com/haizlin/fe-interview/issues/1603)
+- [网站的响应式和自适应有什么区别？](https://github.com/haizlin/fe-interview/issues/1599)
+- [解释下为什么说html嵌套级别不宜过多？](https://github.com/haizlin/fe-interview/issues/1594)
+- [说出至少十条你理解的html规范](https://github.com/haizlin/fe-interview/issues/1590)
 
 ## css
-- [在css中为什么说不建议使用@import？](https://github.com/haizlin/fe-interview/issues/1587)
-- [写一个动画，向上匀速移动100px，向下以1.5倍速度移动200px，一直反复循环](https://github.com/haizlin/fe-interview/issues/1583)
-- [说出至少十条你理解的css规范](https://github.com/haizlin/fe-interview/issues/1579)
-- [使用css画出一个五角星](https://github.com/haizlin/fe-interview/issues/1575)
-- [使用overflow: scroll时不能平滑滚动怎样解决？](https://github.com/haizlin/fe-interview/issues/1571)
-- [请说下你对css对象模型(CSSOM)的理解](https://github.com/haizlin/fe-interview/issues/1566)
-- [用css实现倒影的效果](https://github.com/haizlin/fe-interview/issues/1562)
+- [移动端页面不满一屏时如何实现满屏背景？](https://github.com/haizlin/fe-interview/issues/1617)
+- [写一个高度从0到auto的transition动画](https://github.com/haizlin/fe-interview/issues/1613)
+- [如何使用CSS3的属性设置模拟边框跟border效果一样？](https://github.com/haizlin/fe-interview/issues/1608)
+- [怎么IE6下在使用margin:0 auto;无法使其居中？](https://github.com/haizlin/fe-interview/issues/1604)
+- [使用css实现彩虹的效果](https://github.com/haizlin/fe-interview/issues/1600)
+- [css中padding和margin是相对于父元素还是子元素呢？](https://github.com/haizlin/fe-interview/issues/1595)
+- [当使用opacity时会使得元素的子元素也透明，此时不想要子元素也跟着透明怎么办？](https://github.com/haizlin/fe-interview/issues/1591)
 
 ## js
-- [前端异步的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1588)
-- [说出至少十条你理解的js规范](https://github.com/haizlin/fe-interview/issues/1584)
-- [如何禁止IOS移动端网页橡皮筋的效果？](https://github.com/haizlin/fe-interview/issues/1580)
-- [各浏览器的事件机制有什么不同？ 如何阻止事件冒泡？](https://github.com/haizlin/fe-interview/issues/1576)
-- [解释下offsetWidth、clientWidth、scrollWidth这三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/1572)
-- [请解释下NaN表示什么呢？typeof NaN结果是什么？](https://github.com/haizlin/fe-interview/issues/1567)
-- [举例说明你对事件代理的理解](https://github.com/haizlin/fe-interview/issues/1563)
+- [写一个方法找出指定一维数组所有不重复的元素和个数](https://github.com/haizlin/fe-interview/issues/1618)
+- [请写出几种匿名自执行的写法（至少三种）](https://github.com/haizlin/fe-interview/issues/1614)
+- [你知道js的函数重载是什么吗？](https://github.com/haizlin/fe-interview/issues/1609)
+- [写一个方法获取div的宽高](https://github.com/haizlin/fe-interview/issues/1605)
+- [举例说明constructor和instanceof的区别是什么？](https://github.com/haizlin/fe-interview/issues/1601)
+- [写一个方法来获取div到浏览器窗口的高度](https://github.com/haizlin/fe-interview/issues/1596)
+- [写一个方法判断页面滚动方向](https://github.com/haizlin/fe-interview/issues/1592)
 
 ## 软技能
-- [你最喜欢什么样的团队及团队氛围？](https://github.com/haizlin/fe-interview/issues/1589)
-- [你心中认为最成功（最认可）的一个人是谁？说说你对他的评价](https://github.com/haizlin/fe-interview/issues/1585)
-- [在工作中，你会有犹豫的时候吗？举个例子说明下](https://github.com/haizlin/fe-interview/issues/1581)
-- [你最期望公司给你什么样的福利？](https://github.com/haizlin/fe-interview/issues/1577)
-- [让你去攻破一个难题，你愿意接受挑战吗？](https://github.com/haizlin/fe-interview/issues/1573)
-- [你现在手头上有其他公司的offer吗？](https://github.com/haizlin/fe-interview/issues/1568)
-- [你上家公司的工资是多少呢？](https://github.com/haizlin/fe-interview/issues/1564)
+- [上班时你会经常看手机吗？](https://github.com/haizlin/fe-interview/issues/1619)
+- [在你专心写代码时，经常会有人在聊天工具上打扰你怎么办？](https://github.com/haizlin/fe-interview/issues/1615)
+- [你觉得你每天最佳的工作时间是什么时候？](https://github.com/haizlin/fe-interview/issues/1610)
+- [现在前后端分离，作为前端的你是怎么与其它部门合作的？](https://github.com/haizlin/fe-interview/issues/1606)
+- [你是怎么理解团队合作的？](https://github.com/haizlin/fe-interview/issues/1602)
+- [现在公司有好几个侯选人，用一句话突出你的竞争力吧](https://github.com/haizlin/fe-interview/issues/1597)
+- [上级领导安排的任务过多无法完成，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1593)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

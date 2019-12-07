@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第235天 (2019.12.07)
+    - [html] [请解释下href="javascript:void(0)"和href="#"的区别是什么？](https://github.com/haizlin/fe-interview/issues/1612)
+    - [css] [写一个高度从0到auto的transition动画](https://github.com/haizlin/fe-interview/issues/1613)
+    - [js] [请写出几种匿名自执行的写法（至少三种）](https://github.com/haizlin/fe-interview/issues/1614)
+    - [软技能] [在你专心写代码时，经常会有人在聊天工具上打扰你怎么办？](https://github.com/haizlin/fe-interview/issues/1615)
+
 - 第234天 (2019.12.06)
     - [html] [怎样实现每次页面打开时都清除本页缓存？](https://github.com/haizlin/fe-interview/issues/1607)
     - [css] [如何使用CSS3的属性设置模拟边框跟border效果一样？](https://github.com/haizlin/fe-interview/issues/1608)

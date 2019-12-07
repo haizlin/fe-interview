@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.01
+> 最新：2019.12.08
 
+- [写一个方法找出指定一维数组所有不重复的元素和个数](https://github.com/haizlin/fe-interview/issues/1618)
+- [请写出几种匿名自执行的写法（至少三种）](https://github.com/haizlin/fe-interview/issues/1614)
+- [你知道js的函数重载是什么吗？](https://github.com/haizlin/fe-interview/issues/1609)
+- [写一个方法获取div的宽高](https://github.com/haizlin/fe-interview/issues/1605)
+- [举例说明constructor和instanceof的区别是什么？](https://github.com/haizlin/fe-interview/issues/1601)
+- [写一个方法来获取div到浏览器窗口的高度](https://github.com/haizlin/fe-interview/issues/1596)
+- [写一个方法判断页面滚动方向](https://github.com/haizlin/fe-interview/issues/1592)
 - [前端异步的使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1588)
 - [说出至少十条你理解的js规范](https://github.com/haizlin/fe-interview/issues/1584)
 - [如何禁止IOS移动端网页橡皮筋的效果？](https://github.com/haizlin/fe-interview/issues/1580)

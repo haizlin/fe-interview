@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.01
+> 最新：2019.12.08
 
+- [上班时你会经常看手机吗？](https://github.com/haizlin/fe-interview/issues/1619)
+- [在你专心写代码时，经常会有人在聊天工具上打扰你怎么办？](https://github.com/haizlin/fe-interview/issues/1615)
+- [你觉得你每天最佳的工作时间是什么时候？](https://github.com/haizlin/fe-interview/issues/1610)
+- [现在前后端分离，作为前端的你是怎么与其它部门合作的？](https://github.com/haizlin/fe-interview/issues/1606)
+- [你是怎么理解团队合作的？](https://github.com/haizlin/fe-interview/issues/1602)
+- [现在公司有好几个侯选人，用一句话突出你的竞争力吧](https://github.com/haizlin/fe-interview/issues/1597)
+- [上级领导安排的任务过多无法完成，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/1593)
 - [你最喜欢什么样的团队及团队氛围？](https://github.com/haizlin/fe-interview/issues/1589)
 - [你心中认为最成功（最认可）的一个人是谁？说说你对他的评价](https://github.com/haizlin/fe-interview/issues/1585)
 - [在工作中，你会有犹豫的时候吗？举个例子说明下](https://github.com/haizlin/fe-interview/issues/1581)

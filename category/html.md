@@ -2,9 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.01
+> 最新：2019.12.08
 
-## html
+- [说说你对iframe属性sandbox的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1616)
+- [请解释下href="javascript:void(0)"和href="#"的区别是什么？](https://github.com/haizlin/fe-interview/issues/1612)
+- [怎样实现每次页面打开时都清除本页缓存？](https://github.com/haizlin/fe-interview/issues/1607)
+- [说说你是怎么实现页面阻尼效果的？](https://github.com/haizlin/fe-interview/issues/1603)
+- [网站的响应式和自适应有什么区别？](https://github.com/haizlin/fe-interview/issues/1599)
+- [解释下为什么说html嵌套级别不宜过多？](https://github.com/haizlin/fe-interview/issues/1594)
+- [说出至少十条你理解的html规范](https://github.com/haizlin/fe-interview/issues/1590)
 - [如果让你带一个什么都不懂的人入门学前端，你应该怎么带他？](https://github.com/haizlin/fe-interview/issues/1586)
 - [你觉得html简单吗？说说你的理由](https://github.com/haizlin/fe-interview/issues/1582)
 - [说说你认为html在前端的地位怎么样？](https://github.com/haizlin/fe-interview/issues/1578)
