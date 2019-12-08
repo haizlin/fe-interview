@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第236天 (2019.12.08)
+    - [html] [说说你对iframe属性sandbox的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1616)
+    - [css] [移动端页面不满一屏时如何实现满屏背景？](https://github.com/haizlin/fe-interview/issues/1617)
+    - [js] [写一个方法找出指定一维数组所有不重复的元素和个数](https://github.com/haizlin/fe-interview/issues/1618)
+    - [软技能] [上班时你会经常看手机吗？](https://github.com/haizlin/fe-interview/issues/1619)
+
 - 第235天 (2019.12.07)
     - [html] [请解释下href="javascript:void(0)"和href="#"的区别是什么？](https://github.com/haizlin/fe-interview/issues/1612)
     - [css] [写一个高度从0到auto的transition动画](https://github.com/haizlin/fe-interview/issues/1613)
