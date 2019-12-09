@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.12.09) —— 237 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [说说你对IE特有的数据存储userData的理解](https://github.com/haizlin/fe-interview/issues/1620)
-- [css] [css中class和id选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/1621)
-- [js] [举例说明这三种方法map、reduce和filter的区别是什么？](https://github.com/haizlin/fe-interview/issues/1622)
-- [skill] [你是如何与空降领导相处的？](https://github.com/haizlin/fe-interview/issues/1623)
+## Today's Knowledge Points (2019.12.10) —— 238 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [浏览器怪异模式的怪异主要体现在哪方面呢？](https://github.com/haizlin/fe-interview/issues/1624)
+- [css] [请问触发hasLayout的后果是什么？](https://github.com/haizlin/fe-interview/issues/1625)
+- [js] [遍历数组和对象的方法都有哪些？](https://github.com/haizlin/fe-interview/issues/1626)
+- [skill] [说下你对感染力的理解](https://github.com/haizlin/fe-interview/issues/1627)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 235 days (2019.12.07)
-    - [html] [请解释下href="javascript:void(0)"和href="#"的区别是什么？](https://github.com/haizlin/fe-interview/issues/1612)
-    - [css] [写一个高度从0到auto的transition动画](https://github.com/haizlin/fe-interview/issues/1613)
-    - [js] [请写出几种匿名自执行的写法（至少三种）](https://github.com/haizlin/fe-interview/issues/1614)
-    - [skill] [在你专心写代码时，经常会有人在聊天工具上打扰你怎么办？](https://github.com/haizlin/fe-interview/issues/1615)
-
 - 236 days (2019.12.08)
     - [html] [说说你对iframe属性sandbox的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1616)
     - [css] [移动端页面不满一屏时如何实现满屏背景？](https://github.com/haizlin/fe-interview/issues/1617)
     - [js] [写一个方法找出指定一维数组所有不重复的元素和个数](https://github.com/haizlin/fe-interview/issues/1618)
     - [skill] [上班时你会经常看手机吗？](https://github.com/haizlin/fe-interview/issues/1619)
+
+- 237 days (2019.12.09)
+    - [html] [说说你对IE特有的数据存储userData的理解](https://github.com/haizlin/fe-interview/issues/1620)
+    - [css] [css中class和id选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/1621)
+    - [js] [举例说明这三种方法map、reduce和filter的区别是什么？](https://github.com/haizlin/fe-interview/issues/1622)
+    - [skill] [你是如何与空降领导相处的？](https://github.com/haizlin/fe-interview/issues/1623)
 
 - **[All](category/history.md)**
 

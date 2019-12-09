@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.12.09) —— 第237天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [说说你对IE特有的数据存储userData的理解](https://github.com/haizlin/fe-interview/issues/1620)
-- [css] [css中class和id选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/1621)
-- [js] [举例说明这三种方法map、reduce和filter的区别是什么？](https://github.com/haizlin/fe-interview/issues/1622)
-- [软技能] [你是如何与空降领导相处的？](https://github.com/haizlin/fe-interview/issues/1623)
+## 今天的知识点 (2019.12.10) —— 第238天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [浏览器怪异模式的怪异主要体现在哪方面呢？](https://github.com/haizlin/fe-interview/issues/1624)
+- [css] [请问触发hasLayout的后果是什么？](https://github.com/haizlin/fe-interview/issues/1625)
+- [js] [遍历数组和对象的方法都有哪些？](https://github.com/haizlin/fe-interview/issues/1626)
+- [软技能] [说下你对感染力的理解](https://github.com/haizlin/fe-interview/issues/1627)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第235天 (2019.12.07)
-    - [html] [请解释下href="javascript:void(0)"和href="#"的区别是什么？](https://github.com/haizlin/fe-interview/issues/1612)
-    - [css] [写一个高度从0到auto的transition动画](https://github.com/haizlin/fe-interview/issues/1613)
-    - [js] [请写出几种匿名自执行的写法（至少三种）](https://github.com/haizlin/fe-interview/issues/1614)
-    - [软技能] [在你专心写代码时，经常会有人在聊天工具上打扰你怎么办？](https://github.com/haizlin/fe-interview/issues/1615)
-
 - 第236天 (2019.12.08)
     - [html] [说说你对iframe属性sandbox的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1616)
     - [css] [移动端页面不满一屏时如何实现满屏背景？](https://github.com/haizlin/fe-interview/issues/1617)
     - [js] [写一个方法找出指定一维数组所有不重复的元素和个数](https://github.com/haizlin/fe-interview/issues/1618)
     - [软技能] [上班时你会经常看手机吗？](https://github.com/haizlin/fe-interview/issues/1619)
+
+- 第237天 (2019.12.09)
+    - [html] [说说你对IE特有的数据存储userData的理解](https://github.com/haizlin/fe-interview/issues/1620)
+    - [css] [css中class和id选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/1621)
+    - [js] [举例说明这三种方法map、reduce和filter的区别是什么？](https://github.com/haizlin/fe-interview/issues/1622)
+    - [软技能] [你是如何与空降领导相处的？](https://github.com/haizlin/fe-interview/issues/1623)
     
 - **[查看全部](category/history.md)**
 
