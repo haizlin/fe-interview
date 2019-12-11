@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.12.11) —— 239 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [table由哪几部分组成？](https://github.com/haizlin/fe-interview/issues/1628)
-- [css] [css中兼容ie浏览器的前缀是什么? ](https://github.com/haizlin/fe-interview/issues/1629)
-- [js] [写一个方法从数组中随机抽取N个不重复的元素](https://github.com/haizlin/fe-interview/issues/1630)
-- [skill] [你有参加过技术讨论会或者座谈会相关的活动吗？](https://github.com/haizlin/fe-interview/issues/1631)
+## Today's Knowledge Points (2019.12.12) —— 240 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [请说说什么是分区响应图？](https://github.com/haizlin/fe-interview/issues/1637)
+- [css] [如何设置背景图片不随着文本内容的滚动而滚动？](https://github.com/haizlin/fe-interview/issues/1638)
+- [js] [请实现一个计算器的功能](https://github.com/haizlin/fe-interview/issues/1639)
+- [skill] [你之前的公司有组织过分享会或者知识讲堂的活动吗？你有没有给同事分享过？](https://github.com/haizlin/fe-interview/issues/1640)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 237 days (2019.12.09)
-    - [html] [说说你对IE特有的数据存储userData的理解](https://github.com/haizlin/fe-interview/issues/1620)
-    - [css] [css中class和id选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/1621)
-    - [js] [举例说明这三种方法map、reduce和filter的区别是什么？](https://github.com/haizlin/fe-interview/issues/1622)
-    - [skill] [你是如何与空降领导相处的？](https://github.com/haizlin/fe-interview/issues/1623)
-
 - 238 days (2019.12.10)
     - [html] [浏览器怪异模式的怪异主要体现在哪方面呢？](https://github.com/haizlin/fe-interview/issues/1624)
     - [css] [请问触发hasLayout的后果是什么？](https://github.com/haizlin/fe-interview/issues/1625)
     - [js] [遍历数组和对象的方法都有哪些？](https://github.com/haizlin/fe-interview/issues/1626)
     - [skill] [说下你对感染力的理解](https://github.com/haizlin/fe-interview/issues/1627)
+
+- 239 days (2019.12.11)
+    - [html] [table由哪几部分组成？](https://github.com/haizlin/fe-interview/issues/1628)
+    - [css] [css中兼容ie浏览器的前缀是什么? ](https://github.com/haizlin/fe-interview/issues/1629)
+    - [js] [写一个方法从数组中随机抽取N个不重复的元素](https://github.com/haizlin/fe-interview/issues/1630)
+    - [skill] [你有参加过技术讨论会或者座谈会相关的活动吗？](https://github.com/haizlin/fe-interview/issues/1631)
 
 - **[All](category/history.md)**
 

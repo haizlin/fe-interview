@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第239天 (2019.12.11)
+    - [html] [table由哪几部分组成？](https://github.com/haizlin/fe-interview/issues/1628)
+    - [css] [css中兼容ie浏览器的前缀是什么? ](https://github.com/haizlin/fe-interview/issues/1629)
+    - [js] [写一个方法从数组中随机抽取N个不重复的元素](https://github.com/haizlin/fe-interview/issues/1630)
+    - [软技能] [你有参加过技术讨论会或者座谈会相关的活动吗？](https://github.com/haizlin/fe-interview/issues/1631)
+
 - 第238天 (2019.12.10)
     - [html] [浏览器怪异模式的怪异主要体现在哪方面呢？](https://github.com/haizlin/fe-interview/issues/1624)
     - [css] [请问触发hasLayout的后果是什么？](https://github.com/haizlin/fe-interview/issues/1625)
