@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第240天 (2019.12.12)
+    - [html] [请说说什么是分区响应图？](https://github.com/haizlin/fe-interview/issues/1637)
+    - [css] [如何设置背景图片不随着文本内容的滚动而滚动？](https://github.com/haizlin/fe-interview/issues/1638)
+    - [js] [请实现一个计算器的功能](https://github.com/haizlin/fe-interview/issues/1639)
+    - [软技能] [你之前的公司有组织过分享会或者知识讲堂的活动吗？你有没有给同事分享过？](https://github.com/haizlin/fe-interview/issues/1640)
+
 - 第239天 (2019.12.11)
     - [html] [table由哪几部分组成？](https://github.com/haizlin/fe-interview/issues/1628)
     - [css] [css中兼容ie浏览器的前缀是什么? ](https://github.com/haizlin/fe-interview/issues/1629)
