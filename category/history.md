@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第241天 (2019.12.13)
+    - [html] [html的标签<a>除了用作跳转链接外，还有那些用途？](https://github.com/haizlin/fe-interview/issues/1641)
+    - [css] [你有使用过vmax和vmin吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1642)
+    - [js] [请说说你对try/catch的理解，平时有在哪些场景会用到呢？](https://github.com/haizlin/fe-interview/issues/1643)
+    - [软技能] [说说你对开源项目的理解，它的意义何在？你有参与过开源项目吗？](https://github.com/haizlin/fe-interview/issues/1644)
+
 - 第240天 (2019.12.12)
     - [html] [请说说什么是分区响应图？](https://github.com/haizlin/fe-interview/issues/1637)
     - [css] [如何设置背景图片不随着文本内容的滚动而滚动？](https://github.com/haizlin/fe-interview/issues/1638)
