@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.08
+> 最新：2019.12.15
 
+- [用什么代替html5中不再支持table的cellspacing和cellpadding属性？](https://github.com/haizlin/fe-interview/issues/1649)
+- [如何防止cookie被盗用？](https://github.com/haizlin/fe-interview/issues/1645)
+- [html的标签<a>除了用作跳转链接外，还有那些用途？](https://github.com/haizlin/fe-interview/issues/1641)
+- [请说说什么是分区响应图？](https://github.com/haizlin/fe-interview/issues/1637)
+- [table由哪几部分组成？](https://github.com/haizlin/fe-interview/issues/1628)
+- [浏览器怪异模式的怪异主要体现在哪方面呢？](https://github.com/haizlin/fe-interview/issues/1624)
+- [说说你对IE特有的数据存储userData的理解](https://github.com/haizlin/fe-interview/issues/1620)
 - [说说你对iframe属性sandbox的理解，它有什么作用呢？](https://github.com/haizlin/fe-interview/issues/1616)
 - [请解释下href="javascript:void(0)"和href="#"的区别是什么？](https://github.com/haizlin/fe-interview/issues/1612)
 - [怎样实现每次页面打开时都清除本页缓存？](https://github.com/haizlin/fe-interview/issues/1607)

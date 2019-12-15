@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.08
+> 最新：2019.12.15
 
+- [你怎么和你身边的急性子或慢性子同事沟通？](https://github.com/haizlin/fe-interview/issues/1652)
+- [你有女朋友吗？你结婚了吗？有小孩吗？](https://github.com/haizlin/fe-interview/issues/1648)
+- [说说你对开源项目的理解，它的意义何在？你有参与过开源项目吗？](https://github.com/haizlin/fe-interview/issues/1644)
+- [你之前的公司有组织过分享会或者知识讲堂的活动吗？你有没有给同事分享过？](https://github.com/haizlin/fe-interview/issues/1640)
+- [你有参加过技术讨论会或者座谈会相关的活动吗？](https://github.com/haizlin/fe-interview/issues/1631)
+- [说下你对感染力的理解](https://github.com/haizlin/fe-interview/issues/1627)
+- [你是如何与空降领导相处的？](https://github.com/haizlin/fe-interview/issues/1623)
 - [上班时你会经常看手机吗？](https://github.com/haizlin/fe-interview/issues/1619)
 - [在你专心写代码时，经常会有人在聊天工具上打扰你怎么办？](https://github.com/haizlin/fe-interview/issues/1615)
 - [你觉得你每天最佳的工作时间是什么时候？](https://github.com/haizlin/fe-interview/issues/1610)

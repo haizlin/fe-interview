@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.08
+> 最新：2019.12.15
 
+- [写一个方法实现“选择排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1651)
+- [说说你对js排序的理解，你有了解哪些算法呢？](https://github.com/haizlin/fe-interview/issues/1647)
+- [请说说你对try/catch的理解，平时有在哪些场景会用到呢？](https://github.com/haizlin/fe-interview/issues/1643)
+- [请实现一个计算器的功能](https://github.com/haizlin/fe-interview/issues/1639)
+- [写一个方法从数组中随机抽取N个不重复的元素](https://github.com/haizlin/fe-interview/issues/1630)
+- [遍历数组和对象的方法都有哪些？](https://github.com/haizlin/fe-interview/issues/1626)
+- [举例说明这三种方法map、reduce和filter的区别是什么？](https://github.com/haizlin/fe-interview/issues/1622)
 - [写一个方法找出指定一维数组所有不重复的元素和个数](https://github.com/haizlin/fe-interview/issues/1618)
 - [请写出几种匿名自执行的写法（至少三种）](https://github.com/haizlin/fe-interview/issues/1614)
 - [你知道js的函数重载是什么吗？](https://github.com/haizlin/fe-interview/issues/1609)

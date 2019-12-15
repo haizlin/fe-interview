@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.08
+> 最新：2019.12.15
 
+- [使用rem布局时怎样合理设置根标签字体大小？](https://github.com/haizlin/fe-interview/issues/1650)
+- [解释下css3的flexbox（弹性盒布局模型），以及它应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1646)
+- [你有使用过vmax和vmin吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1642)
+- [如何设置背景图片不随着文本内容的滚动而滚动？](https://github.com/haizlin/fe-interview/issues/1638)
+- [css中兼容ie浏览器的前缀是什么? ](https://github.com/haizlin/fe-interview/issues/1629)
+- [请问触发hasLayout的后果是什么？](https://github.com/haizlin/fe-interview/issues/1625)
+- [css中class和id选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/1621)
 - [移动端页面不满一屏时如何实现满屏背景？](https://github.com/haizlin/fe-interview/issues/1617)
 - [写一个高度从0到auto的transition动画](https://github.com/haizlin/fe-interview/issues/1613)
 - [如何使用CSS3的属性设置模拟边框跟border效果一样？](https://github.com/haizlin/fe-interview/issues/1608)
