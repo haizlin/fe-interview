@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.12.18) —— 第246天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [怎么让table的thead 不动，tbody出现滚动条呢？](https://github.com/haizlin/fe-interview/issues/1661)
-- [css] [使用rem的优缺点是什么？有使用百分比有什么区别？](https://github.com/haizlin/fe-interview/issues/1662)
-- [js] [写一个方法实现“归并排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1663)
-- [软技能] [跟你聊了这么多，觉得挺投缘的，那你来说说你对我的初步认识吧](https://github.com/haizlin/fe-interview/issues/1664)
+## 今天的知识点 (2019.12.19) —— 第247天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [怎么让整个页面从iframe中跳出来？](https://github.com/haizlin/fe-interview/issues/1665)
+- [css] [rem是如何实现自适应布局的？](https://github.com/haizlin/fe-interview/issues/1666)
+- [js] [写一个方法实现“桶排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1667)
+- [软技能] [你是如何管理你的下属的？](https://github.com/haizlin/fe-interview/issues/1668)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第244天 (2019.12.16)
-    - [html] [HTML5图像相关的标签有哪些？](https://github.com/haizlin/fe-interview/issues/1653)
-    - [css] [使用rem时应该注意什么？](https://github.com/haizlin/fe-interview/issues/1654)
-    - [js] [写一个方法实现“交换排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1655)
-    - [软技能] [有回老家发展的打算吗？](https://github.com/haizlin/fe-interview/issues/1656)
-
 - 第245天 (2019.12.17)
     - [html] [如何能防止网页禁止被iframe嵌入呢？ ](https://github.com/haizlin/fe-interview/issues/1657)
     - [css] [当页面采用rem布局时，如何解决用户设置字体大小造成的页面布局错位？](https://github.com/haizlin/fe-interview/issues/1658)
     - [js] [写一个方法实现“插入排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1659)
     - [软技能] [说下你对程序员中年危机的理解](https://github.com/haizlin/fe-interview/issues/1660)
+
+- 第246天 (2019.12.18)
+    - [html] [怎么让table的thead 不动，tbody出现滚动条呢？](https://github.com/haizlin/fe-interview/issues/1661)
+    - [css] [使用rem的优缺点是什么？有使用百分比有什么区别？](https://github.com/haizlin/fe-interview/issues/1662)
+    - [js] [写一个方法实现“归并排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1663)
+    - [软技能] [跟你聊了这么多，觉得挺投缘的，那你来说说你对我的初步认识吧](https://github.com/haizlin/fe-interview/issues/1664)
     
 - **[查看全部](category/history.md)**
 
