@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.12.19) —— 247 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [怎么让整个页面从iframe中跳出来？](https://github.com/haizlin/fe-interview/issues/1665)
-- [css] [rem是如何实现自适应布局的？](https://github.com/haizlin/fe-interview/issues/1666)
-- [js] [写一个方法实现“桶排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1667)
-- [skill] [你是如何管理你的下属的？](https://github.com/haizlin/fe-interview/issues/1668)
+## Today's Knowledge Points (2019.12.20) —— 248 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [canvas有哪些可以提升性能的优化方法？](https://github.com/haizlin/fe-interview/issues/1669)
+- [css] [在rem下如何实现1像素？](https://github.com/haizlin/fe-interview/issues/1670)
+- [js] [写一个方法实现“基数排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1671)
+- [skill] [如果你是上级领导，你底下有个兄弟工作状态不是很好，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1672)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 245 days (2019.12.17)
-    - [html] [如何能防止网页禁止被iframe嵌入呢？ ](https://github.com/haizlin/fe-interview/issues/1657)
-    - [css] [当页面采用rem布局时，如何解决用户设置字体大小造成的页面布局错位？](https://github.com/haizlin/fe-interview/issues/1658)
-    - [js] [写一个方法实现“插入排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1659)
-    - [skill] [说下你对程序员中年危机的理解](https://github.com/haizlin/fe-interview/issues/1660)
-
 - 246 days (2019.12.18)
     - [html] [怎么让table的thead 不动，tbody出现滚动条呢？](https://github.com/haizlin/fe-interview/issues/1661)
     - [css] [使用rem的优缺点是什么？有使用百分比有什么区别？](https://github.com/haizlin/fe-interview/issues/1662)
     - [js] [写一个方法实现“归并排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1663)
     - [skill] [跟你聊了这么多，觉得挺投缘的，那你来说说你对我的初步认识吧](https://github.com/haizlin/fe-interview/issues/1664)
+
+- 247 days (2019.12.19)
+    - [html] [怎么让整个页面从iframe中跳出来？](https://github.com/haizlin/fe-interview/issues/1665)
+    - [css] [rem是如何实现自适应布局的？](https://github.com/haizlin/fe-interview/issues/1666)
+    - [js] [写一个方法实现“桶排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1667)
+    - [skill] [你是如何管理你的下属的？](https://github.com/haizlin/fe-interview/issues/1668)
 
 - **[All](category/history.md)**
 

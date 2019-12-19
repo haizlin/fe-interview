@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第247天 (2019.12.19)
+    - [html] [怎么让整个页面从iframe中跳出来？](https://github.com/haizlin/fe-interview/issues/1665)
+    - [css] [rem是如何实现自适应布局的？](https://github.com/haizlin/fe-interview/issues/1666)
+    - [js] [写一个方法实现“桶排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1667)
+    - [软技能] [你是如何管理你的下属的？](https://github.com/haizlin/fe-interview/issues/1668)
+
 - 第246天 (2019.12.18)
     - [html] [怎么让table的thead 不动，tbody出现滚动条呢？](https://github.com/haizlin/fe-interview/issues/1661)
     - [css] [使用rem的优缺点是什么？有使用百分比有什么区别？](https://github.com/haizlin/fe-interview/issues/1662)
