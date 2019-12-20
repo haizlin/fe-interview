@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第248天 (2019.12.20)
+    - [html] [canvas有哪些可以提升性能的优化方法？](https://github.com/haizlin/fe-interview/issues/1669)
+    - [css] [在rem下如何实现1像素？](https://github.com/haizlin/fe-interview/issues/1670)
+    - [js] [写一个方法实现“基数排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1671)
+    - [软技能] [如果你是上级领导，你底下有个兄弟工作状态不是很好，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1672)
+
 - 第247天 (2019.12.19)
     - [html] [怎么让整个页面从iframe中跳出来？](https://github.com/haizlin/fe-interview/issues/1665)
     - [css] [rem是如何实现自适应布局的？](https://github.com/haizlin/fe-interview/issues/1666)
@@ -9,7 +15,7 @@
 
 - 第246天 (2019.12.18)
     - [html] [怎么让table的thead 不动，tbody出现滚动条呢？](https://github.com/haizlin/fe-interview/issues/1661)
-    - [css] [使用rem的优缺点是什么？有使用百分比有什么区别？](https://github.com/haizlin/fe-interview/issues/1662)
+    - [css] [使用rem的优缺点是什么？和使用百分比有什么区别？](https://github.com/haizlin/fe-interview/issues/1662)
     - [js] [写一个方法实现“归并排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1663)
     - [软技能] [跟你聊了这么多，觉得挺投缘的，那你来说说你对我的初步认识吧](https://github.com/haizlin/fe-interview/issues/1664)
 
