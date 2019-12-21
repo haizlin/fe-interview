@@ -2,7 +2,7 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.15
+> 最新：2019.12.22
 
 - [用什么代替html5中不再支持table的cellspacing和cellpadding属性？](https://github.com/haizlin/fe-interview/issues/1649)
 - [如何防止cookie被盗用？](https://github.com/haizlin/fe-interview/issues/1645)

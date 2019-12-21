@@ -2,7 +2,7 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.15
+> 最新：2019.12.22
 
 - [你怎么和你身边的急性子或慢性子同事沟通？](https://github.com/haizlin/fe-interview/issues/1652)
 - [你有女朋友吗？你结婚了吗？有小孩吗？](https://github.com/haizlin/fe-interview/issues/1648)

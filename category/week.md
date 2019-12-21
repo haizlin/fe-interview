@@ -1,4 +1,4 @@
-# 周汇总 2019.12.15
+# 周汇总 2019.12.22
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,42 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [用什么代替html5中不再支持table的cellspacing和cellpadding属性？](https://github.com/haizlin/fe-interview/issues/1649)
-- [如何防止cookie被盗用？](https://github.com/haizlin/fe-interview/issues/1645)
-- [html的标签<a>除了用作跳转链接外，还有那些用途？](https://github.com/haizlin/fe-interview/issues/1641)
-- [请说说什么是分区响应图？](https://github.com/haizlin/fe-interview/issues/1637)
-- [table由哪几部分组成？](https://github.com/haizlin/fe-interview/issues/1628)
-- [浏览器怪异模式的怪异主要体现在哪方面呢？](https://github.com/haizlin/fe-interview/issues/1624)
-- [说说你对IE特有的数据存储userData的理解](https://github.com/haizlin/fe-interview/issues/1620)
+- [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
+- [在开发canvas时，你知道什么是非零环绕原则(nonzZero rule) 吗？](https://github.com/haizlin/fe-interview/issues/1673)
+- [canvas有哪些可以提升性能的优化方法？](https://github.com/haizlin/fe-interview/issues/1669)
+- [怎么让整个页面从iframe中跳出来？](https://github.com/haizlin/fe-interview/issues/1665)
+- [怎么让table的thead 不动，tbody出现滚动条呢？](https://github.com/haizlin/fe-interview/issues/1661)
+- [如何能防止网页禁止被iframe嵌入呢？ ](https://github.com/haizlin/fe-interview/issues/1657)
+- [HTML5图像相关的标签有哪些？](https://github.com/haizlin/fe-interview/issues/1653)
 
 ## css
-- [使用rem布局时怎样合理设置根标签字体大小？](https://github.com/haizlin/fe-interview/issues/1650)
-- [解释下css3的flexbox（弹性盒布局模型），以及它应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1646)
-- [你有使用过vmax和vmin吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1642)
-- [如何设置背景图片不随着文本内容的滚动而滚动？](https://github.com/haizlin/fe-interview/issues/1638)
-- [css中兼容ie浏览器的前缀是什么? ](https://github.com/haizlin/fe-interview/issues/1629)
-- [请问触发hasLayout的后果是什么？](https://github.com/haizlin/fe-interview/issues/1625)
-- [css中class和id选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/1621)
+- [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)
+- [头部设置meta也可以做到自适应为啥还要用rem？](https://github.com/haizlin/fe-interview/issues/1674)
+- [在rem下如何实现1像素？](https://github.com/haizlin/fe-interview/issues/1670)
+- [rem是如何实现自适应布局的？](https://github.com/haizlin/fe-interview/issues/1666)
+- [使用rem的优缺点是什么？和使用百分比有什么区别？](https://github.com/haizlin/fe-interview/issues/1662)
+- [当页面采用rem布局时，如何解决用户设置字体大小造成的页面布局错位？](https://github.com/haizlin/fe-interview/issues/1658)
+- [使用rem时应该注意什么？](https://github.com/haizlin/fe-interview/issues/1654)
 
 ## js
-- [写一个方法实现“选择排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1651)
-- [说说你对js排序的理解，你有了解哪些算法呢？](https://github.com/haizlin/fe-interview/issues/1647)
-- [请说说你对try/catch的理解，平时有在哪些场景会用到呢？](https://github.com/haizlin/fe-interview/issues/1643)
-- [请实现一个计算器的功能](https://github.com/haizlin/fe-interview/issues/1639)
-- [写一个方法从数组中随机抽取N个不重复的元素](https://github.com/haizlin/fe-interview/issues/1630)
-- [遍历数组和对象的方法都有哪些？](https://github.com/haizlin/fe-interview/issues/1626)
-- [举例说明这三种方法map、reduce和filter的区别是什么？](https://github.com/haizlin/fe-interview/issues/1622)
+- [写一个方法判断大括号{}是否闭合](https://github.com/haizlin/fe-interview/issues/1679)
+- [从一个无序的整数数组中，找出最小和最大数之间缺失的数字，要求最小的时间复杂度](https://github.com/haizlin/fe-interview/issues/1675)
+- [写一个方法实现“基数排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1671)
+- [写一个方法实现“桶排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1667)
+- [写一个方法实现“归并排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1663)
+- [写一个方法实现“插入排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1659)
+- [写一个方法实现“交换排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1655)
 
 ## 软技能
-- [你怎么和你身边的急性子或慢性子同事沟通？](https://github.com/haizlin/fe-interview/issues/1652)
-- [你有女朋友吗？你结婚了吗？有小孩吗？](https://github.com/haizlin/fe-interview/issues/1648)
-- [说说你对开源项目的理解，它的意义何在？你有参与过开源项目吗？](https://github.com/haizlin/fe-interview/issues/1644)
-- [你之前的公司有组织过分享会或者知识讲堂的活动吗？你有没有给同事分享过？](https://github.com/haizlin/fe-interview/issues/1640)
-- [你有参加过技术讨论会或者座谈会相关的活动吗？](https://github.com/haizlin/fe-interview/issues/1631)
-- [说下你对感染力的理解](https://github.com/haizlin/fe-interview/issues/1627)
-- [你是如何与空降领导相处的？](https://github.com/haizlin/fe-interview/issues/1623)
+- [如果你是上级领导，有人不服你，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1680)
+- [举例说明你都会哪些与人沟通的技巧？](https://github.com/haizlin/fe-interview/issues/1676)
+- [如果你是上级领导，你底下有个兄弟工作状态不是很好，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1672)
+- [你是如何管理你的下属的？](https://github.com/haizlin/fe-interview/issues/1668)
+- [跟你聊了这么多，觉得挺投缘的，那你来说说你对我的初步认识吧](https://github.com/haizlin/fe-interview/issues/1664)
+- [说下你对程序员中年危机的理解](https://github.com/haizlin/fe-interview/issues/1660)
+- [有回老家发展的打算吗？](https://github.com/haizlin/fe-interview/issues/1656)
+
+
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

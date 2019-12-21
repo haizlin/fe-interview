@@ -2,7 +2,7 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.15
+> 最新：2019.12.22
 
 - [写一个方法实现“选择排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1651)
 - [说说你对js排序的理解，你有了解哪些算法呢？](https://github.com/haizlin/fe-interview/issues/1647)
