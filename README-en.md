@@ -37,7 +37,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 ## Today's Knowledge Points (2019.12.21) —— 249 days ([Issue](http://web.haizlin.cn/interview/index.html))
 - [html] [在开发canvas时，你知道什么是非零环绕原则(nonzZero rule) 吗？](https://github.com/haizlin/fe-interview/issues/1673)
-- [css] [头部设置mate也可以做到自适应为啥还要用rem？](https://github.com/haizlin/fe-interview/issues/1674)
+- [css] [头部设置meta也可以做到自适应为啥还要用rem？](https://github.com/haizlin/fe-interview/issues/1674)
 - [js] [从一个无序的整数数组中，找出最小和最大数之间缺失的数字，要求最小的时间复杂度](https://github.com/haizlin/fe-interview/issues/1675)
 - [skill] [举例说明你都会哪些与人沟通的技巧？](https://github.com/haizlin/fe-interview/issues/1676)
 
