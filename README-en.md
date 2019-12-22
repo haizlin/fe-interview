@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 248 days (2019.12.20)
-    - [html] [canvas有哪些可以提升性能的优化方法？](https://github.com/haizlin/fe-interview/issues/1669)
-    - [css] [在rem下如何实现1像素？](https://github.com/haizlin/fe-interview/issues/1670)
-    - [js] [写一个方法实现“基数排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1671)
-    - [skill] [如果你是上级领导，你底下有个兄弟工作状态不是很好，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1672)
-
 - 249 days (2019.12.21)
     - [html] [在开发canvas时，你知道什么是非零环绕原则(nonzZero rule) 吗？](https://github.com/haizlin/fe-interview/issues/1673)
     - [css] [头部设置meta也可以做到自适应为啥还要用rem？](https://github.com/haizlin/fe-interview/issues/1674)
     - [js] [从一个无序的整数数组中，找出最小和最大数之间缺失的数字，要求最小的时间复杂度](https://github.com/haizlin/fe-interview/issues/1675)
     - [skill] [举例说明你都会哪些与人沟通的技巧？](https://github.com/haizlin/fe-interview/issues/1676)
+
+- 250 days (2019.12.22)
+    - [html] [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
+    - [css] [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)
+    - [js] [写一个方法判断大括号{}是否闭合](https://github.com/haizlin/fe-interview/issues/1679)
+    - [skill] [如果你是上级领导，有人不服你，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1680)
 
 - **[All](category/history.md)**
 

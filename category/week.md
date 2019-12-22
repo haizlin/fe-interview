@@ -52,8 +52,6 @@
 - [说下你对程序员中年危机的理解](https://github.com/haizlin/fe-interview/issues/1660)
 - [有回老家发展的打算吗？](https://github.com/haizlin/fe-interview/issues/1656)
 
-
-
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)
 
