@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第251天 (2019.12.23)
+    - [html] [在使用canvas的arc绘制图像时应注意什么？](https://github.com/haizlin/fe-interview/issues/1681)
+    - [css] [你有使用过postcss吗？它和less/scss/stylus有什么区别？](https://github.com/haizlin/fe-interview/issues/1682)
+    - [js] [举例说明什么是短路求值？](https://github.com/haizlin/fe-interview/issues/1683)
+    - [软技能] [你有新的想法或者学到了新的技术，你会应用到实际的项目中吗？](https://github.com/haizlin/fe-interview/issues/1684)
+
 - 第250天 (2019.12.22)
     - [html] [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
     - [css] [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)

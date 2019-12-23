@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.12.22) —— 250 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
-- [css] [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)
-- [js] [写一个方法判断大括号{}是否闭合](https://github.com/haizlin/fe-interview/issues/1679)
-- [skill] [如果你是上级领导，有人不服你，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1680)
+## Today's Knowledge Points (2019.12.24) —— 252 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [canvas怎么兼容IE9？](https://github.com/haizlin/fe-interview/issues/1686)
+- [css] [如何修改美化radio、checkbox的默认样式？](https://github.com/haizlin/fe-interview/issues/1687)
+- [js] [使用js获取鼠标坐标](https://github.com/haizlin/fe-interview/issues/1688)
+- [skill] [你了解你的团队吗？说说你对他们的了解](https://github.com/haizlin/fe-interview/issues/1689)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 249 days (2019.12.21)
-    - [html] [在开发canvas时，你知道什么是非零环绕原则(nonzZero rule) 吗？](https://github.com/haizlin/fe-interview/issues/1673)
-    - [css] [头部设置meta也可以做到自适应为啥还要用rem？](https://github.com/haizlin/fe-interview/issues/1674)
-    - [js] [从一个无序的整数数组中，找出最小和最大数之间缺失的数字，要求最小的时间复杂度](https://github.com/haizlin/fe-interview/issues/1675)
-    - [skill] [举例说明你都会哪些与人沟通的技巧？](https://github.com/haizlin/fe-interview/issues/1676)
-
 - 250 days (2019.12.22)
     - [html] [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
     - [css] [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)
     - [js] [写一个方法判断大括号{}是否闭合](https://github.com/haizlin/fe-interview/issues/1679)
     - [skill] [如果你是上级领导，有人不服你，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1680)
+
+- 251 days (2019.12.23)
+    - [html] [在使用canvas的arc绘制图像时应注意什么？](https://github.com/haizlin/fe-interview/issues/1681)
+    - [css] [你有使用过postcss吗？它和less/scss/stylus有什么区别？](https://github.com/haizlin/fe-interview/issues/1682)
+    - [js] [举例说明什么是短路求值？](https://github.com/haizlin/fe-interview/issues/1683)
+    - [skill] [你有新的想法或者学到了新的技术，你会应用到实际的项目中吗？](https://github.com/haizlin/fe-interview/issues/1684)
 
 - **[All](category/history.md)**
 
