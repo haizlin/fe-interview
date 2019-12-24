@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2019.12.24) —— 第252天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [canvas怎么兼容IE9？](https://github.com/haizlin/fe-interview/issues/1686)
-- [css] [如何修改美化radio、checkbox的默认样式？](https://github.com/haizlin/fe-interview/issues/1687)
-- [js] [使用js获取鼠标坐标](https://github.com/haizlin/fe-interview/issues/1688)
-- [软技能] [你了解你的团队吗？说说你对他们的了解](https://github.com/haizlin/fe-interview/issues/1689)
+## 今天的知识点 (2019.12.25) —— 第253天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何将图片画到canvas上？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/1690)
+- [css] [你是如何压缩字体的？](https://github.com/haizlin/fe-interview/issues/1691)
+- [js] [js依赖注入的实现思路是什么？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1692)
+- [软技能] [如果你是上级领导，如何让团队中的成员成长起来呢？](https://github.com/haizlin/fe-interview/issues/1693)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第250天 (2019.12.22)
-    - [html] [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
-    - [css] [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)
-    - [js] [写一个方法判断大括号{}是否闭合](https://github.com/haizlin/fe-interview/issues/1679)
-    - [软技能] [如果你是上级领导，有人不服你，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1680)
-
 - 第251天 (2019.12.23)
     - [html] [在使用canvas的arc绘制图像时应注意什么？](https://github.com/haizlin/fe-interview/issues/1681)
     - [css] [你有使用过postcss吗？它和less/scss/stylus有什么区别？](https://github.com/haizlin/fe-interview/issues/1682)
     - [js] [举例说明什么是短路求值？](https://github.com/haizlin/fe-interview/issues/1683)
     - [软技能] [你有新的想法或者学到了新的技术，你会应用到实际的项目中吗？](https://github.com/haizlin/fe-interview/issues/1684)
+
+- 第252天 (2019.12.24)
+    - [html] [canvas怎么兼容IE9以下版本？](https://github.com/haizlin/fe-interview/issues/1686)
+    - [css] [如何修改美化radio、checkbox的默认样式？](https://github.com/haizlin/fe-interview/issues/1687)
+    - [js] [使用js获取鼠标坐标](https://github.com/haizlin/fe-interview/issues/1688)
+    - [软技能] [你了解你的团队吗？说说你对他们的了解](https://github.com/haizlin/fe-interview/issues/1689)
     
 - **[查看全部](category/history.md)**
 

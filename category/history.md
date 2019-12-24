@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第252天 (2019.12.24)
+    - [html] [canvas怎么兼容IE9以下版本？](https://github.com/haizlin/fe-interview/issues/1686)
+    - [css] [如何修改美化radio、checkbox的默认样式？](https://github.com/haizlin/fe-interview/issues/1687)
+    - [js] [使用js获取鼠标坐标](https://github.com/haizlin/fe-interview/issues/1688)
+    - [软技能] [你了解你的团队吗？说说你对他们的了解](https://github.com/haizlin/fe-interview/issues/1689)
+
 - 第251天 (2019.12.23)
     - [html] [在使用canvas的arc绘制图像时应注意什么？](https://github.com/haizlin/fe-interview/issues/1681)
     - [css] [你有使用过postcss吗？它和less/scss/stylus有什么区别？](https://github.com/haizlin/fe-interview/issues/1682)
