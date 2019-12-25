@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.12.25) —— 253 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [如何将图片画到canvas上？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/1690)
-- [css] [你是如何压缩字体的？](https://github.com/haizlin/fe-interview/issues/1691)
-- [js] [js依赖注入的实现思路是什么？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1692)
-- [skill] [如果你是上级领导，如何让团队中的成员成长起来呢？](https://github.com/haizlin/fe-interview/issues/1693)
+## Today's Knowledge Points (2019.12.26) —— 254 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [canvas的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1694)
+- [css] [如何使用CSS绘制一个汉堡式菜单](https://github.com/haizlin/fe-interview/issues/1695)
+- [js] [用js实现动态改变根元素字体大小的方法](https://github.com/haizlin/fe-interview/issues/1696)
+- [skill] [你上家公司是做什么的？](https://github.com/haizlin/fe-interview/issues/1697)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 251 days (2019.12.23)
-    - [html] [在使用canvas的arc绘制图像时应注意什么？](https://github.com/haizlin/fe-interview/issues/1681)
-    - [css] [你有使用过postcss吗？它和less/scss/stylus有什么区别？](https://github.com/haizlin/fe-interview/issues/1682)
-    - [js] [举例说明什么是短路求值？](https://github.com/haizlin/fe-interview/issues/1683)
-    - [skill] [你有新的想法或者学到了新的技术，你会应用到实际的项目中吗？](https://github.com/haizlin/fe-interview/issues/1684)
-
 - 252 days (2019.12.24)
     - [html] [canvas怎么兼容IE9以下版本？](https://github.com/haizlin/fe-interview/issues/1686)
     - [css] [如何修改美化radio、checkbox的默认样式？](https://github.com/haizlin/fe-interview/issues/1687)
     - [js] [使用js获取鼠标坐标](https://github.com/haizlin/fe-interview/issues/1688)
     - [skill] [你了解你的团队吗？说说你对他们的了解](https://github.com/haizlin/fe-interview/issues/1689)
+
+- 253 days (2019.12.25)
+    - [html] [如何将图片画到canvas上？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/1690)
+    - [css] [你是如何压缩字体的？](https://github.com/haizlin/fe-interview/issues/1691)
+    - [js] [js依赖注入的实现思路是什么？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1692)
+    - [skill] [如果你是上级领导，如何让团队中的成员成长起来呢？](https://github.com/haizlin/fe-interview/issues/1693)
 
 - **[All](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第253天 (2019.12.25)
+    - [html] [如何将图片画到canvas上？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/1690)
+    - [css] [你是如何压缩字体的？](https://github.com/haizlin/fe-interview/issues/1691)
+    - [js] [js依赖注入的实现思路是什么？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1692)
+    - [软技能] [如果你是上级领导，如何让团队中的成员成长起来呢？](https://github.com/haizlin/fe-interview/issues/1693)
+
 - 第252天 (2019.12.24)
     - [html] [canvas怎么兼容IE9以下版本？](https://github.com/haizlin/fe-interview/issues/1686)
     - [css] [如何修改美化radio、checkbox的默认样式？](https://github.com/haizlin/fe-interview/issues/1687)
