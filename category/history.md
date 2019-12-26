@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第254天 (2019.12.26)
+    - [html] [canvas的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1694)
+    - [css] [如何使用CSS绘制一个汉堡式菜单](https://github.com/haizlin/fe-interview/issues/1695)
+    - [js] [用js实现动态改变根元素字体大小的方法](https://github.com/haizlin/fe-interview/issues/1696)
+    - [软技能] [你上家公司是做什么的？](https://github.com/haizlin/fe-interview/issues/1697)
+
 - 第253天 (2019.12.25)
     - [html] [如何将图片画到canvas上？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/1690)
     - [css] [你是如何压缩字体的？](https://github.com/haizlin/fe-interview/issues/1691)
