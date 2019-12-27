@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第255天 (2019.12.27)
+    - [html] [在svg和canvas中你该如何选择？依据是什么？](https://github.com/haizlin/fe-interview/issues/1698)
+    - [css] [说说display:none和visibility:hidden的区别](https://github.com/haizlin/fe-interview/issues/1699)
+    - [js] [说说你对异常处理和错误处理的理解](https://github.com/haizlin/fe-interview/issues/1700)
+    - [软技能] [你是如何看待chrome将在2020年彻底放弃Flash？](https://github.com/haizlin/fe-interview/issues/1701)
+
 - 第254天 (2019.12.26)
     - [html] [canvas的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1694)
     - [css] [如何使用CSS绘制一个汉堡式菜单](https://github.com/haizlin/fe-interview/issues/1695)
