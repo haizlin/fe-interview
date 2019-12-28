@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.22
+> 最新：2019.12.29
 
+- [js事件中currentTarget和target的区别是什么？](https://github.com/haizlin/fe-interview/issues/1708)
+- [说说js跳出循环return、break、continue的区别？](https://github.com/haizlin/fe-interview/issues/1704)
+- [说说你对异常处理和错误处理的理解](https://github.com/haizlin/fe-interview/issues/1700)
+- [用js实现动态改变根元素字体大小的方法](https://github.com/haizlin/fe-interview/issues/1696)
+- [js依赖注入的实现思路是什么？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1692)
+- [使用js获取鼠标坐标](https://github.com/haizlin/fe-interview/issues/1688)
+- [举例说明什么是短路求值？](https://github.com/haizlin/fe-interview/issues/1683)
 - [写一个方法实现“选择排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1651)
 - [说说你对js排序的理解，你有了解哪些算法呢？](https://github.com/haizlin/fe-interview/issues/1647)
 - [请说说你对try/catch的理解，平时有在哪些场景会用到呢？](https://github.com/haizlin/fe-interview/issues/1643)

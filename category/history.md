@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第256天 (2019.12.28)
+    - [html] [canvas画出来的图是位图还是矢量图？](https://github.com/haizlin/fe-interview/issues/1702)
+    - [css] [css的user-select:all 有什么用处？](https://github.com/haizlin/fe-interview/issues/1703)
+    - [js] [说说js跳出循环return、break、continue的区别？](https://github.com/haizlin/fe-interview/issues/1704)
+    - [软技能] [你有开发过chrome插件吗？说说你的开发过程](https://github.com/haizlin/fe-interview/issues/1705)
+
 - 第255天 (2019.12.27)
     - [html] [在svg和canvas中你该如何选择？依据是什么？](https://github.com/haizlin/fe-interview/issues/1698)
     - [css] [说说display:none和visibility:hidden的区别](https://github.com/haizlin/fe-interview/issues/1699)

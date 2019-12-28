@@ -1,4 +1,4 @@
-# 周汇总 2019.12.22
+# 周汇总 2019.12.29
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [请说说canvas的closePath()与lineTo()的区别是什么？](https://github.com/haizlin/fe-interview/issues/1677)
-- [在开发canvas时，你知道什么是非零环绕原则(nonzZero rule) 吗？](https://github.com/haizlin/fe-interview/issues/1673)
-- [canvas有哪些可以提升性能的优化方法？](https://github.com/haizlin/fe-interview/issues/1669)
-- [怎么让整个页面从iframe中跳出来？](https://github.com/haizlin/fe-interview/issues/1665)
-- [怎么让table的thead 不动，tbody出现滚动条呢？](https://github.com/haizlin/fe-interview/issues/1661)
-- [如何能防止网页禁止被iframe嵌入呢？ ](https://github.com/haizlin/fe-interview/issues/1657)
-- [HTML5图像相关的标签有哪些？](https://github.com/haizlin/fe-interview/issues/1653)
+- [使用canvas生成一张分享图](https://github.com/haizlin/fe-interview/issues/1706)
+- [canvas画出来的图是位图还是矢量图？](https://github.com/haizlin/fe-interview/issues/1702)
+- [在svg和canvas中你该如何选择？依据是什么？](https://github.com/haizlin/fe-interview/issues/1698)
+- [canvas的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1694)
+- [如何将图片画到canvas上？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/1690)
+- [canvas怎么兼容IE9以下版本？](https://github.com/haizlin/fe-interview/issues/1686)
+- [在使用canvas的arc绘制图像时应注意什么？](https://github.com/haizlin/fe-interview/issues/1681)
 
 ## css
-- [解释下什么是PPI和DP？](https://github.com/haizlin/fe-interview/issues/1678)
-- [头部设置meta也可以做到自适应为啥还要用rem？](https://github.com/haizlin/fe-interview/issues/1674)
-- [在rem下如何实现1像素？](https://github.com/haizlin/fe-interview/issues/1670)
-- [rem是如何实现自适应布局的？](https://github.com/haizlin/fe-interview/issues/1666)
-- [使用rem的优缺点是什么？和使用百分比有什么区别？](https://github.com/haizlin/fe-interview/issues/1662)
-- [当页面采用rem布局时，如何解决用户设置字体大小造成的页面布局错位？](https://github.com/haizlin/fe-interview/issues/1658)
-- [使用rem时应该注意什么？](https://github.com/haizlin/fe-interview/issues/1654)
+- [如何让一个块元素绝对居中？](https://github.com/haizlin/fe-interview/issues/1707)
+- [css的user-select:all 有什么用处？](https://github.com/haizlin/fe-interview/issues/1703)
+- [说说display:none和visibility:hidden的区别](https://github.com/haizlin/fe-interview/issues/1699)
+- [如何使用CSS绘制一个汉堡式菜单](https://github.com/haizlin/fe-interview/issues/1695)
+- [你是如何压缩字体的？](https://github.com/haizlin/fe-interview/issues/1691)
+- [如何修改美化radio、checkbox的默认样式？](https://github.com/haizlin/fe-interview/issues/1687)
+- [你有使用过postcss吗？它和less/scss/stylus有什么区别？](https://github.com/haizlin/fe-interview/issues/1682)
 
 ## js
-- [写一个方法判断大括号{}是否闭合](https://github.com/haizlin/fe-interview/issues/1679)
-- [从一个无序的整数数组中，找出最小和最大数之间缺失的数字，要求最小的时间复杂度](https://github.com/haizlin/fe-interview/issues/1675)
-- [写一个方法实现“基数排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1671)
-- [写一个方法实现“桶排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1667)
-- [写一个方法实现“归并排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1663)
-- [写一个方法实现“插入排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1659)
-- [写一个方法实现“交换排序算法”，并解释下时间复杂度和空间复杂度](https://github.com/haizlin/fe-interview/issues/1655)
+- [js事件中currentTarget和target的区别是什么？](https://github.com/haizlin/fe-interview/issues/1708)
+- [说说js跳出循环return、break、continue的区别？](https://github.com/haizlin/fe-interview/issues/1704)
+- [说说你对异常处理和错误处理的理解](https://github.com/haizlin/fe-interview/issues/1700)
+- [用js实现动态改变根元素字体大小的方法](https://github.com/haizlin/fe-interview/issues/1696)
+- [js依赖注入的实现思路是什么？它有什么优缺点呢？](https://github.com/haizlin/fe-interview/issues/1692)
+- [使用js获取鼠标坐标](https://github.com/haizlin/fe-interview/issues/1688)
+- [举例说明什么是短路求值？](https://github.com/haizlin/fe-interview/issues/1683)
 
 ## 软技能
-- [如果你是上级领导，有人不服你，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1680)
-- [举例说明你都会哪些与人沟通的技巧？](https://github.com/haizlin/fe-interview/issues/1676)
-- [如果你是上级领导，你底下有个兄弟工作状态不是很好，你该怎么办？](https://github.com/haizlin/fe-interview/issues/1672)
-- [你是如何管理你的下属的？](https://github.com/haizlin/fe-interview/issues/1668)
-- [跟你聊了这么多，觉得挺投缘的，那你来说说你对我的初步认识吧](https://github.com/haizlin/fe-interview/issues/1664)
-- [说下你对程序员中年危机的理解](https://github.com/haizlin/fe-interview/issues/1660)
-- [有回老家发展的打算吗？](https://github.com/haizlin/fe-interview/issues/1656)
+- [为什么要在项目中使用CDN？](https://github.com/haizlin/fe-interview/issues/1709)
+- [你有开发过chrome插件吗？说说你的开发过程](https://github.com/haizlin/fe-interview/issues/1705)
+- [你是如何看待chrome将在2020年彻底放弃Flash？](https://github.com/haizlin/fe-interview/issues/1701)
+- [你上家公司是做什么的？](https://github.com/haizlin/fe-interview/issues/1697)
+- [如果你是上级领导，如何让团队中的成员成长起来呢？](https://github.com/haizlin/fe-interview/issues/1693)
+- [你了解你的团队吗？说说你对他们的了解](https://github.com/haizlin/fe-interview/issues/1689)
+- [你有新的想法或者学到了新的技术，你会应用到实际的项目中吗？](https://github.com/haizlin/fe-interview/issues/1684)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

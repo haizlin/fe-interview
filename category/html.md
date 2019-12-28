@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.22
+> 最新：2019.12.29
 
+- [使用canvas生成一张分享图](https://github.com/haizlin/fe-interview/issues/1706)
+- [canvas画出来的图是位图还是矢量图？](https://github.com/haizlin/fe-interview/issues/1702)
+- [在svg和canvas中你该如何选择？依据是什么？](https://github.com/haizlin/fe-interview/issues/1698)
+- [canvas的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1694)
+- [如何将图片画到canvas上？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/1690)
+- [canvas怎么兼容IE9以下版本？](https://github.com/haizlin/fe-interview/issues/1686)
+- [在使用canvas的arc绘制图像时应注意什么？](https://github.com/haizlin/fe-interview/issues/1681)
 - [用什么代替html5中不再支持table的cellspacing和cellpadding属性？](https://github.com/haizlin/fe-interview/issues/1649)
 - [如何防止cookie被盗用？](https://github.com/haizlin/fe-interview/issues/1645)
 - [html的标签<a>除了用作跳转链接外，还有那些用途？](https://github.com/haizlin/fe-interview/issues/1641)

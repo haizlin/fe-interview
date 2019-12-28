@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.22
+> 最新：2019.12.29
 
+- [为什么要在项目中使用CDN？](https://github.com/haizlin/fe-interview/issues/1709)
+- [你有开发过chrome插件吗？说说你的开发过程](https://github.com/haizlin/fe-interview/issues/1705)
+- [你是如何看待chrome将在2020年彻底放弃Flash？](https://github.com/haizlin/fe-interview/issues/1701)
+- [你上家公司是做什么的？](https://github.com/haizlin/fe-interview/issues/1697)
+- [如果你是上级领导，如何让团队中的成员成长起来呢？](https://github.com/haizlin/fe-interview/issues/1693)
+- [你了解你的团队吗？说说你对他们的了解](https://github.com/haizlin/fe-interview/issues/1689)
+- [你有新的想法或者学到了新的技术，你会应用到实际的项目中吗？](https://github.com/haizlin/fe-interview/issues/1684)
 - [你怎么和你身边的急性子或慢性子同事沟通？](https://github.com/haizlin/fe-interview/issues/1652)
 - [你有女朋友吗？你结婚了吗？有小孩吗？](https://github.com/haizlin/fe-interview/issues/1648)
 - [说说你对开源项目的理解，它的意义何在？你有参与过开源项目吗？](https://github.com/haizlin/fe-interview/issues/1644)

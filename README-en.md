@@ -35,12 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.12.28) —— 256 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [canvas画出来的图是位图还是矢量图？](https://github.com/haizlin/fe-interview/issues/1702)
-- [css] [css的user-select:all 有什么用处？](https://github.com/haizlin/fe-interview/issues/1703)
-- [js] [说说js跳出循环return、break、continue的区别？](https://github.com/haizlin/fe-interview/issues/1704)
-- [skill] [你有开发过chrome插件吗？说说你的开发过程](https://github.com/haizlin/fe-interview/issues/1705)
-
+## Today's Knowledge Points (2019.12.29) —— 257 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [使用canvas生成一张分享图](https://github.com/haizlin/fe-interview/issues/1706)
+- [css] [如何让一个块元素绝对居中？](https://github.com/haizlin/fe-interview/issues/1707)
+- [js] [js事件中currentTarget和target的区别是什么？](https://github.com/haizlin/fe-interview/issues/1708)
+- [skill] [为什么要在项目中使用CDN？](https://github.com/haizlin/fe-interview/issues/1709)
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
 ## Classification
@@ -76,17 +75,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 254 days (2019.12.26)
-    - [html] [canvas的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1694)
-    - [css] [如何使用CSS绘制一个汉堡式菜单](https://github.com/haizlin/fe-interview/issues/1695)
-    - [js] [用js实现动态改变根元素字体大小的方法](https://github.com/haizlin/fe-interview/issues/1696)
-    - [skill] [你上家公司是做什么的？](https://github.com/haizlin/fe-interview/issues/1697)
-
 - 255 days (2019.12.27)
     - [html] [在svg和canvas中你该如何选择？依据是什么？](https://github.com/haizlin/fe-interview/issues/1698)
     - [css] [说说display:none和visibility:hidden的区别](https://github.com/haizlin/fe-interview/issues/1699)
     - [js] [说说你对异常处理和错误处理的理解](https://github.com/haizlin/fe-interview/issues/1700)
     - [skill] [你是如何看待chrome将在2020年彻底放弃Flash？](https://github.com/haizlin/fe-interview/issues/1701)
+
+- 256 days (2019.12.28)
+    - [html] [canvas画出来的图是位图还是矢量图？](https://github.com/haizlin/fe-interview/issues/1702)
+    - [css] [css的user-select:all 有什么用处？](https://github.com/haizlin/fe-interview/issues/1703)
+    - [js] [说说js跳出循环return、break、continue的区别？](https://github.com/haizlin/fe-interview/issues/1704)
+    - [skill] [你有开发过chrome插件吗？说说你的开发过程](https://github.com/haizlin/fe-interview/issues/1705)
 
 - **[All](category/history.md)**
 
