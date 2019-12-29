@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第257天 (2019.12.29)
+    - [html] [使用canvas生成一张分享图](https://github.com/haizlin/fe-interview/issues/1706)
+    - [css] [如何让一个块元素绝对居中？](https://github.com/haizlin/fe-interview/issues/1707)
+    - [js] [js事件中currentTarget和target的区别是什么？](https://github.com/haizlin/fe-interview/issues/1708)
+    - [软技能] [为什么要在项目中使用CDN？](https://github.com/haizlin/fe-interview/issues/1709)
+
 - 第256天 (2019.12.28)
     - [html] [canvas画出来的图是位图还是矢量图？](https://github.com/haizlin/fe-interview/issues/1702)
     - [css] [css的user-select:all 有什么用处？](https://github.com/haizlin/fe-interview/issues/1703)
