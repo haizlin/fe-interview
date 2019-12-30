@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2019.12.30) —— 258 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [网站上怎么实现分享到各大平台呢？](https://github.com/haizlin/fe-interview/issues/1710)
-- [css] [你知道什么是聚焦环吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1711)
-- [js] [写例子说明js中自定义事件的使用与触发](https://github.com/haizlin/fe-interview/issues/1712)
-- [skill] [你对算法和数据结构有了解吗？说说看](https://github.com/haizlin/fe-interview/issues/1713)
+## Today's Knowledge Points (2019.12.31) —— 259 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [html5怎样和Native App进行交互？](https://github.com/haizlin/fe-interview/issues/1714)
+- [css] [你知道什么是CSS-in-JS吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/1715)
+- [js] [你有使用过ExtJs吗？说说它的优缺点是什么？](https://github.com/haizlin/fe-interview/issues/1716)
+- [skill] [在实际中Git规范有哪些？](https://github.com/haizlin/fe-interview/issues/1717)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 256 days (2019.12.28)
-    - [html] [canvas画出来的图是位图还是矢量图？](https://github.com/haizlin/fe-interview/issues/1702)
-    - [css] [css的user-select:all 有什么用处？](https://github.com/haizlin/fe-interview/issues/1703)
-    - [js] [说说js跳出循环return、break、continue的区别？](https://github.com/haizlin/fe-interview/issues/1704)
-    - [skill] [你有开发过chrome插件吗？说说你的开发过程](https://github.com/haizlin/fe-interview/issues/1705)
-
 - 257 days (2019.12.29)
     - [html] [使用canvas生成一张分享图](https://github.com/haizlin/fe-interview/issues/1706)
     - [css] [如何让一个块元素绝对居中？](https://github.com/haizlin/fe-interview/issues/1707)
     - [js] [js事件中currentTarget和target的区别是什么？](https://github.com/haizlin/fe-interview/issues/1708)
     - [skill] [为什么要在项目中使用CDN？](https://github.com/haizlin/fe-interview/issues/1709)
+
+- 258 days (2019.12.30)
+    - [html] [网站上怎么实现分享到各大平台呢？](https://github.com/haizlin/fe-interview/issues/1710)
+    - [css] [你知道什么是聚焦环吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1711)
+    - [js] [写例子说明js中自定义事件的使用与触发](https://github.com/haizlin/fe-interview/issues/1712)
+    - [skill] [你对算法和数据结构有了解吗？说说看](https://github.com/haizlin/fe-interview/issues/1713)
 
 - **[All](category/history.md)**
 

@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第258天 (2019.12.30)
+    - [html] [网站上怎么实现分享到各大平台呢？](https://github.com/haizlin/fe-interview/issues/1710)
+    - [css] [你知道什么是聚焦环吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1711)
+    - [js] [写例子说明js中自定义事件的使用与触发](https://github.com/haizlin/fe-interview/issues/1712)
+    - [软技能] [你对算法和数据结构有了解吗？说说看](https://github.com/haizlin/fe-interview/issues/1713)
+
 - 第257天 (2019.12.29)
     - [html] [使用canvas生成一张分享图](https://github.com/haizlin/fe-interview/issues/1706)
     - [css] [如何让一个块元素绝对居中？](https://github.com/haizlin/fe-interview/issues/1707)
