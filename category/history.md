@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第259天 (2019.12.31)
+    - [html] [html5怎样和Native App进行交互？](https://github.com/haizlin/fe-interview/issues/1714)
+    - [css] [你知道什么是CSS-in-JS吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/1715)
+    - [js] [你有使用过ExtJs吗？说说它的优缺点是什么？](https://github.com/haizlin/fe-interview/issues/1716)
+    - [软技能] [在实际中Git规范有哪些？](https://github.com/haizlin/fe-interview/issues/1717)
+
 - 第258天 (2019.12.30)
     - [html] [网站上怎么实现分享到各大平台呢？](https://github.com/haizlin/fe-interview/issues/1710)
     - [css] [你知道什么是聚焦环吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1711)
