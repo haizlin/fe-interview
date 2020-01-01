@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.01.01) —— 第260天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [目前移动端的最小点击区域是多少呢？](https://github.com/haizlin/fe-interview/issues/1718)
-- [css] [分析比较opacity: 0、visibility: hidden、display: none三者的优劣和适用场景](https://github.com/haizlin/fe-interview/issues/1719)
-- [js] [你有使用过BackboneJS吗？说说它和vue有什么区别？](https://github.com/haizlin/fe-interview/issues/1720)
-- [软技能] [你开发过程中，都有用过哪些虚拟机？](https://github.com/haizlin/fe-interview/issues/1721)
+## 今天的知识点 (2020.01.02) —— 第261天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
+- [css] [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
+- [js] [请比较下for、forEach、for of的性能的性能](https://github.com/haizlin/fe-interview/issues/1724)
+- [软技能] [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第258天 (2019.12.30)
-    - [html] [网站上怎么实现分享到各大平台呢？](https://github.com/haizlin/fe-interview/issues/1710)
-    - [css] [你知道什么是聚焦环吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1711)
-    - [js] [写例子说明js中自定义事件的使用与触发](https://github.com/haizlin/fe-interview/issues/1712)
-    - [软技能] [你对算法和数据结构有了解吗？说说看](https://github.com/haizlin/fe-interview/issues/1713)
-
 - 第259天 (2019.12.31)
     - [html] [html5怎样和Native App进行交互？](https://github.com/haizlin/fe-interview/issues/1714)
     - [css] [你知道什么是CSS-in-JS吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/1715)
     - [js] [你有使用过ExtJs吗？说说它的优缺点是什么？](https://github.com/haizlin/fe-interview/issues/1716)
     - [软技能] [在实际中Git规范有哪些？](https://github.com/haizlin/fe-interview/issues/1717)
+
+- 第260天 (2020.01.01)
+    - [html] [目前移动端的最小点击区域是多少呢？](https://github.com/haizlin/fe-interview/issues/1718)
+    - [css] [分析比较opacity: 0、visibility: hidden、display: none三者的优劣和适用场景](https://github.com/haizlin/fe-interview/issues/1719)
+    - [js] [你有使用过BackboneJS吗？说说它和vue有什么区别？](https://github.com/haizlin/fe-interview/issues/1720)
+    - [软技能] [你开发过程中，都有用过哪些虚拟机？](https://github.com/haizlin/fe-interview/issues/1721)
     
 - **[查看全部](category/history.md)**
 
