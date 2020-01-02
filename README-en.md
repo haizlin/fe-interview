@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.02) —— 261 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
-- [css] [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
-- [js] [请比较下for、forEach、for of的性能的性能](https://github.com/haizlin/fe-interview/issues/1724)
-- [skill] [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
+## Today's Knowledge Points (2020.01.03) —— 262 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)
+- [css] [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)
+- [js] [微任务和宏任务有什么区别？](https://github.com/haizlin/fe-interview/issues/1728)
+- [skill] [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 259 days (2019.12.31)
-    - [html] [html5怎样和Native App进行交互？](https://github.com/haizlin/fe-interview/issues/1714)
-    - [css] [你知道什么是CSS-in-JS吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/1715)
-    - [js] [你有使用过ExtJs吗？说说它的优缺点是什么？](https://github.com/haizlin/fe-interview/issues/1716)
-    - [skill] [在实际中Git规范有哪些？](https://github.com/haizlin/fe-interview/issues/1717)
-
 - 260 days (2020.01.01)
     - [html] [目前移动端的最小点击区域是多少呢？](https://github.com/haizlin/fe-interview/issues/1718)
     - [css] [分析比较opacity: 0、visibility: hidden、display: none三者的优劣和适用场景](https://github.com/haizlin/fe-interview/issues/1719)
     - [js] [你有使用过BackboneJS吗？说说它和vue有什么区别？](https://github.com/haizlin/fe-interview/issues/1720)
     - [skill] [你开发过程中，都有用过哪些虚拟机？](https://github.com/haizlin/fe-interview/issues/1721)
+
+- 261 days (2020.01.02)
+    - [html] [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
+    - [css] [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
+    - [js] [请比较下for、forEach、for of的性能的性能](https://github.com/haizlin/fe-interview/issues/1724)
+    - [skill] [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
 
 - **[All](category/history.md)**
 

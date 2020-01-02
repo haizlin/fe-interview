@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第261天 (2020.01.02)
+    - [html] [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
+    - [css] [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
+    - [js] [请比较下for、forEach、for of的性能的性能](https://github.com/haizlin/fe-interview/issues/1724)
+    - [软技能] [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
+
 - 第260天 (2020.01.01)
     - [html] [目前移动端的最小点击区域是多少呢？](https://github.com/haizlin/fe-interview/issues/1718)
     - [css] [分析比较opacity: 0、visibility: hidden、display: none三者的优劣和适用场景](https://github.com/haizlin/fe-interview/issues/1719)
