@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.01.03) —— 第262天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)
-- [css] [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)
-- [js] [微任务和宏任务有什么区别？](https://github.com/haizlin/fe-interview/issues/1728)
-- [软技能] [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)
+## 今天的知识点 (2020.01.04) —— 第263天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [html5怎么判断app是否安装？](https://github.com/haizlin/fe-interview/issues/1730)
+- [css] [使用sass的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1731)
+- [js] [举例说明object.freeze有哪些用途呢？](https://github.com/haizlin/fe-interview/issues/1732)
+- [软技能] [如何快速定位线上出现的问题？](https://github.com/haizlin/fe-interview/issues/1733)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第260天 (2020.01.01)
-    - [html] [目前移动端的最小点击区域是多少呢？](https://github.com/haizlin/fe-interview/issues/1718)
-    - [css] [分析比较opacity: 0、visibility: hidden、display: none三者的优劣和适用场景](https://github.com/haizlin/fe-interview/issues/1719)
-    - [js] [你有使用过BackboneJS吗？说说它和vue有什么区别？](https://github.com/haizlin/fe-interview/issues/1720)
-    - [软技能] [你开发过程中，都有用过哪些虚拟机？](https://github.com/haizlin/fe-interview/issues/1721)
-
 - 第261天 (2020.01.02)
     - [html] [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
     - [css] [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
     - [js] [请比较下for、forEach、for of的性能的性能](https://github.com/haizlin/fe-interview/issues/1724)
     - [软技能] [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
+
+- 第262天 (2020.01.03)
+    - [html] [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)
+    - [css] [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)
+    - [js] [微任务和宏任务有什么区别？](https://github.com/haizlin/fe-interview/issues/1728)
+    - [软技能] [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)
     
 - **[查看全部](category/history.md)**
 

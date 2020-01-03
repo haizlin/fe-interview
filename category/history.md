@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第262天 (2020.01.03)
+    - [html] [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)
+    - [css] [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)
+    - [js] [微任务和宏任务有什么区别？](https://github.com/haizlin/fe-interview/issues/1728)
+    - [软技能] [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)
+
 - 第261天 (2020.01.02)
     - [html] [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
     - [css] [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
