@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.29
+> 最新：2020.01.05
 
+- [说说你对冒烟测试的理解](https://github.com/haizlin/fe-interview/issues/1737)
+- [如何快速定位线上出现的问题？](https://github.com/haizlin/fe-interview/issues/1733)
+- [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)
+- [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
+- [你开发过程中，都有用过哪些虚拟机？](https://github.com/haizlin/fe-interview/issues/1721)
+- [在实际中Git规范有哪些？](https://github.com/haizlin/fe-interview/issues/1717)
+- [你对算法和数据结构有了解吗？说说看](https://github.com/haizlin/fe-interview/issues/1713)
 - [为什么要在项目中使用CDN？](https://github.com/haizlin/fe-interview/issues/1709)
 - [你有开发过chrome插件吗？说说你的开发过程](https://github.com/haizlin/fe-interview/issues/1705)
 - [你是如何看待chrome将在2020年彻底放弃Flash？](https://github.com/haizlin/fe-interview/issues/1701)

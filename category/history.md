@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第263天 (2020.01.04)
+    - [html] [html5怎么判断app是否安装？](https://github.com/haizlin/fe-interview/issues/1730)
+    - [css] [使用sass的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1731)
+    - [js] [举例说明object.freeze有哪些用途呢？](https://github.com/haizlin/fe-interview/issues/1732)
+    - [软技能] [如何快速定位线上出现的问题？](https://github.com/haizlin/fe-interview/issues/1733)
+
 - 第262天 (2020.01.03)
     - [html] [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)
     - [css] [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)

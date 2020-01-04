@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2019.12.29
+> 最新：2020.01.05
 
+- [举例说明html5怎么判断网络状态？](https://github.com/haizlin/fe-interview/issues/1734)
+- [html5怎么判断app是否安装？](https://github.com/haizlin/fe-interview/issues/1730)
+- [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)
+- [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
+- [目前移动端的最小点击区域是多少呢？](https://github.com/haizlin/fe-interview/issues/1718)
+- [html5怎样和Native App进行交互？](https://github.com/haizlin/fe-interview/issues/1714)
+- [网站上怎么实现分享到各大平台呢？](https://github.com/haizlin/fe-interview/issues/1710)
 - [使用canvas生成一张分享图](https://github.com/haizlin/fe-interview/issues/1706)
 - [canvas画出来的图是位图还是矢量图？](https://github.com/haizlin/fe-interview/issues/1702)
 - [在svg和canvas中你该如何选择？依据是什么？](https://github.com/haizlin/fe-interview/issues/1698)

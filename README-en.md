@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.04) —— 263 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [html5怎么判断app是否安装？](https://github.com/haizlin/fe-interview/issues/1730)
-- [css] [使用sass的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1731)
-- [js] [举例说明object.freeze有哪些用途呢？](https://github.com/haizlin/fe-interview/issues/1732)
-- [skill] [如何快速定位线上出现的问题？](https://github.com/haizlin/fe-interview/issues/1733)
+## Today's Knowledge Points (2020.01.05) —— 264 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明html5怎么判断网络状态？](https://github.com/haizlin/fe-interview/issues/1734)
+- [css] [sass是怎么定义变量的？](https://github.com/haizlin/fe-interview/issues/1735)
+- [js] [箭头函数的this值继承于哪里](https://github.com/haizlin/fe-interview/issues/1736)
+- [skill] [说说你对冒烟测试的理解](https://github.com/haizlin/fe-interview/issues/1737)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 261 days (2020.01.02)
-    - [html] [你知道移动端的尺寸都有哪些吗？](https://github.com/haizlin/fe-interview/issues/1722)
-    - [css] [你对伪类了解多少？分为几大类？](https://github.com/haizlin/fe-interview/issues/1723)
-    - [js] [请比较下for、forEach、for of的性能的性能](https://github.com/haizlin/fe-interview/issues/1724)
-    - [skill] [你写的前端代码有做过单元测试吗？使用什么工具？怎么测试的？](https://github.com/haizlin/fe-interview/issues/1725)
-
 - 262 days (2020.01.03)
     - [html] [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)
     - [css] [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)
     - [js] [微任务和宏任务有什么区别？](https://github.com/haizlin/fe-interview/issues/1728)
     - [skill] [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)
+
+- 263 days (2020.01.04)
+    - [html] [html5怎么判断app是否安装？](https://github.com/haizlin/fe-interview/issues/1730)
+    - [css] [使用sass的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1731)
+    - [js] [举例说明object.freeze有哪些用途呢？](https://github.com/haizlin/fe-interview/issues/1732)
+    - [skill] [如何快速定位线上出现的问题？](https://github.com/haizlin/fe-interview/issues/1733)
 
 - **[All](category/history.md)**
 
