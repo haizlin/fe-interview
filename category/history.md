@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第264天 (2020.01.05)
+    - [html] [举例说明html5怎么判断网络状态？](https://github.com/haizlin/fe-interview/issues/1734)
+    - [css] [sass是怎么定义变量的？](https://github.com/haizlin/fe-interview/issues/1735)
+    - [js] [箭头函数的this值继承于哪里](https://github.com/haizlin/fe-interview/issues/1736)
+    - [软技能] [说说你对冒烟测试的理解](https://github.com/haizlin/fe-interview/issues/1737)
+
 - 第263天 (2020.01.04)
     - [html] [html5怎么判断app是否安装？](https://github.com/haizlin/fe-interview/issues/1730)
     - [css] [使用sass的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1731)
