@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第265天 (2020.01.06)
+    - [html] [html5怎么判断是否在wifi环境？](https://github.com/haizlin/fe-interview/issues/1738)
+    - [css] [你认为sass和less的最大区别是什么呢？你喜欢哪个？为什么？](https://github.com/haizlin/fe-interview/issues/1739)
+    - [js] [getelementbyId和queryselect平时经常使用哪一个？说说你的看法](https://github.com/haizlin/fe-interview/issues/1740)
+    - [软技能] [说说你对TDD和BDD的理解](https://github.com/haizlin/fe-interview/issues/1741)
+
 - 第264天 (2020.01.05)
     - [html] [举例说明html5怎么判断网络状态？](https://github.com/haizlin/fe-interview/issues/1734)
     - [css] [sass是怎么定义变量的？](https://github.com/haizlin/fe-interview/issues/1735)
