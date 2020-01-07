@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第266天 (2020.01.07)
+    - [html] [https页面加载http的资源会导致页面报错的原因是什么？怎么解决？](https://github.com/haizlin/fe-interview/issues/1742)
+    - [css] [说说你对sass的嵌套规则的理解？](https://github.com/haizlin/fe-interview/issues/1743)
+    - [js] [window.console.log()和console .log()有区别吗？体现在哪里？](https://github.com/haizlin/fe-interview/issues/1744)
+    - [软技能] [举例说明IE和chrome有哪些不一样的特性](https://github.com/haizlin/fe-interview/issues/1745)
+
 - 第265天 (2020.01.06)
     - [html] [html5怎么判断是否在wifi环境？](https://github.com/haizlin/fe-interview/issues/1738)
     - [css] [你认为sass和less的最大区别是什么呢？你喜欢哪个？为什么？](https://github.com/haizlin/fe-interview/issues/1739)

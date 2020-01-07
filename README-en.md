@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.07) —— 266 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [https页面加载http的资源会导致页面报错的原因是什么？怎么解决？](https://github.com/haizlin/fe-interview/issues/1742)
-- [css] [说说你对sass的嵌套规则的理解？](https://github.com/haizlin/fe-interview/issues/1743)
-- [js] [window.console.log()和console .log()有区别吗？体现在哪里？](https://github.com/haizlin/fe-interview/issues/1744)
-- [skill] [举例说明IE和chrome有哪些不一样的特性](https://github.com/haizlin/fe-interview/issues/1745)
+## Today's Knowledge Points (2020.01.08) —— 267 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [关于iframe的跨域你有了解多少？](https://github.com/haizlin/fe-interview/issues/1746)
+- [css] [检测sass中错误的指令是哪个？](https://github.com/haizlin/fe-interview/issues/1747)
+- [js] [用js实现一个导航吸顶效果](https://github.com/haizlin/fe-interview/issues/1748)
+- [skill] [SEO是什么？TDK要怎么写才是最优的呢？](https://github.com/haizlin/fe-interview/issues/1749)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 264 days (2020.01.05)
-    - [html] [举例说明html5怎么判断网络状态？](https://github.com/haizlin/fe-interview/issues/1734)
-    - [css] [sass是怎么定义变量的？](https://github.com/haizlin/fe-interview/issues/1735)
-    - [js] [箭头函数的this值继承于哪里](https://github.com/haizlin/fe-interview/issues/1736)
-    - [skill] [说说你对冒烟测试的理解](https://github.com/haizlin/fe-interview/issues/1737)
-
 - 265 days (2020.01.06)
     - [html] [html5怎么判断是否在wifi环境？](https://github.com/haizlin/fe-interview/issues/1738)
     - [css] [你认为sass和less的最大区别是什么呢？你喜欢哪个？为什么？](https://github.com/haizlin/fe-interview/issues/1739)
     - [js] [getelementbyId和queryselect平时经常使用哪一个？说说你的看法](https://github.com/haizlin/fe-interview/issues/1740)
     - [skill] [说说你对TDD和BDD的理解](https://github.com/haizlin/fe-interview/issues/1741)
+
+- 266 days (2020.01.07)
+    - [html] [https页面加载http的资源会导致页面报错的原因是什么？怎么解决？](https://github.com/haizlin/fe-interview/issues/1742)
+    - [css] [说说你对sass的嵌套规则的理解？](https://github.com/haizlin/fe-interview/issues/1743)
+    - [js] [window.console.log()和console .log()有区别吗？体现在哪里？](https://github.com/haizlin/fe-interview/issues/1744)
+    - [skill] [举例说明IE和chrome有哪些不一样的特性](https://github.com/haizlin/fe-interview/issues/1745)
 
 - **[All](category/history.md)**
 
