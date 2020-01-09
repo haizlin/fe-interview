@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第268天 (2020.01.09)
+    - [html] [如果要你实现一个代码（多种语言）高亮的组件，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/1750)
+    - [css] [你有用过sass中的Mixin功能吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1751)
+    - [js] [如果让你把把html页面导出为pdf，不用插件的话，你该怎么做？](https://github.com/haizlin/fe-interview/issues/1752)
+    - [软技能] [你认为全栈工程师应该具体什么样的条件（技能、素质等）？](https://github.com/haizlin/fe-interview/issues/1753)
+
 - 第267天 (2020.01.08)
     - [html] [关于iframe的跨域你有了解多少？](https://github.com/haizlin/fe-interview/issues/1746)
     - [css] [检测sass中错误的指令是哪个？](https://github.com/haizlin/fe-interview/issues/1747)
