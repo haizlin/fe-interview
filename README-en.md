@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.10) —— 269 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)
-- [css] [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)
-- [js] [写一个让一句话随着鼠标移动的小插件](https://github.com/haizlin/fe-interview/issues/1756)
-- [skill] [请举例说明你对MIME的理解](https://github.com/haizlin/fe-interview/issues/1757)
+## Today's Knowledge Points (2020.01.11) —— 270 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
+- [css] [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
+- [js] [请分析020-088=?的过程及结果](https://github.com/haizlin/fe-interview/issues/1761)
+- [skill] [如何让大脑保持高速运行？](https://github.com/haizlin/fe-interview/issues/1762)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 

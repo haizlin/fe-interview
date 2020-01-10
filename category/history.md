@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第269天 (2020.01.10)
+    - [html] [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)
+    - [css] [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)
+    - [js] [写一个让一句话随着鼠标移动的小插件](https://github.com/haizlin/fe-interview/issues/1756)
+    - [软技能] [请举例说明你对MIME的理解](https://github.com/haizlin/fe-interview/issues/1757)
+
 - 第268天 (2020.01.09)
     - [html] [如果要你实现一个代码（多种语言）高亮的组件，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/1750)
     - [css] [你有用过sass中的Mixin功能吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1751)

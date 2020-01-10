@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.01.10) —— 第269天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)
-- [css] [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)
-- [js] [写一个让一句话随着鼠标移动的小插件](https://github.com/haizlin/fe-interview/issues/1756)
-- [软技能] [请举例说明你对MIME的理解](https://github.com/haizlin/fe-interview/issues/1757)
+## 今天的知识点 (2020.01.11) —— 第270天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
+- [css] [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
+- [js] [请分析020-088=?的过程及结果](https://github.com/haizlin/fe-interview/issues/1761)
+- [软技能] [如何让大脑保持高速运行？](https://github.com/haizlin/fe-interview/issues/1762)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第267天 (2020.01.08)
-    - [html] [关于iframe的跨域你有了解多少？](https://github.com/haizlin/fe-interview/issues/1746)
-    - [css] [检测sass中错误的指令是哪个？](https://github.com/haizlin/fe-interview/issues/1747)
-    - [js] [用js实现一个导航吸顶效果](https://github.com/haizlin/fe-interview/issues/1748)
-    - [软技能] [SEO是什么？TDK要怎么写才是最优的呢？](https://github.com/haizlin/fe-interview/issues/1749)
-
-- 第268天 (2020.01.09)
+- 268 days (2020.01.09)
     - [html] [如果要你实现一个代码（多种语言）高亮的组件，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/1750)
     - [css] [你有用过sass中的Mixin功能吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1751)
     - [js] [如果让你把把html页面导出为pdf，不用插件的话，你该怎么做？](https://github.com/haizlin/fe-interview/issues/1752)
-    - [软技能] [你认为全栈工程师应该具体什么样的条件（技能、素质等）？](https://github.com/haizlin/fe-interview/issues/1753)
+    - [skill] [你认为全栈工程师应该具体什么样的条件（技能、素质等）？](https://github.com/haizlin/fe-interview/issues/1753)
+
+- 269 days (2020.01.10)
+    - [html] [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)
+    - [css] [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)
+    - [js] [写一个让一句话随着鼠标移动的小插件](https://github.com/haizlin/fe-interview/issues/1756)
+    - [skill] [请举例说明你对MIME的理解](https://github.com/haizlin/fe-interview/issues/1757)
     
 - **[查看全部](category/history.md)**
 
