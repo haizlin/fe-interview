@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.01.12) —— 第271天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [HTML5的video怎样预加载（支持全量加载）？](https://github.com/haizlin/fe-interview/issues/1763)
-- [css] [使用sass里，你是怎么组织你的sass文件的？](https://github.com/haizlin/fe-interview/issues/1764)
-- [js] [请分析!+[]+!![]+!![]+!![]+!![]+!![]的结果](https://github.com/haizlin/fe-interview/issues/1765)
-- [软技能] [你对“属于自己的时间”这句话是怎么理解的？你有属于自己的时间吗？](https://github.com/haizlin/fe-interview/issues/1766)
+## 今天的知识点 (2020.01.13) —— 第272天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [移动端如何禁止用户手动缩放页面？](https://github.com/haizlin/fe-interview/issues/1767)
+- [css] [sass是如何导入模块的](https://github.com/haizlin/fe-interview/issues/1768)
+- [js] [用不同的方法改装下面的代码，使它的结果输出为0-4[代码]](https://github.com/haizlin/fe-interview/issues/1769)
+- [软技能] [备案指的是域名备案还是空间备案呢？](https://github.com/haizlin/fe-interview/issues/1770)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第269天 (2020.01.10)
-    - [html] [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)
-    - [css] [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)
-    - [js] [写一个让一句话随着鼠标移动的小插件](https://github.com/haizlin/fe-interview/issues/1756)
-    - [软技能] [请举例说明你对MIME的理解](https://github.com/haizlin/fe-interview/issues/1757)
-
 - 第270天 (2020.01.11)
     - [html] [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
     - [css] [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
     - [js] [请分析020-088=?的过程及结果](https://github.com/haizlin/fe-interview/issues/1761)
     - [软技能] [如何让大脑保持高速运行？](https://github.com/haizlin/fe-interview/issues/1762)
+
+- 第271天 (2020.01.12)
+    - [html] [HTML5的video怎样预加载（支持全量加载）？](https://github.com/haizlin/fe-interview/issues/1763)
+    - [css] [使用sass里，你是怎么组织你的sass文件的？](https://github.com/haizlin/fe-interview/issues/1764)
+    - [js] [请分析!+[]+!![]+!![]+!![]+!![]+!![]的结果](https://github.com/haizlin/fe-interview/issues/1765)
+    - [软技能] [你对“属于自己的时间”这句话是怎么理解的？你有属于自己的时间吗？](https://github.com/haizlin/fe-interview/issues/1766)
     
 - **[查看全部](category/history.md)**
 

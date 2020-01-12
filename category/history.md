@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第271天 (2020.01.12)
+    - [html] [HTML5的video怎样预加载（支持全量加载）？](https://github.com/haizlin/fe-interview/issues/1763)
+    - [css] [使用sass里，你是怎么组织你的sass文件的？](https://github.com/haizlin/fe-interview/issues/1764)
+    - [js] [请分析!+[]+!![]+!![]+!![]+!![]+!![]的结果](https://github.com/haizlin/fe-interview/issues/1765)
+    - [软技能] [你对“属于自己的时间”这句话是怎么理解的？你有属于自己的时间吗？](https://github.com/haizlin/fe-interview/issues/1766)
+
 - 第270天 (2020.01.11)
     - [html] [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
     - [css] [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
