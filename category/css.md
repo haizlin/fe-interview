@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.05
+> 最新：2020.01.12
 
+- [使用sass里，你是怎么组织你的sass文件的？](https://github.com/haizlin/fe-interview/issues/1764)
+- [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
+- [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)
+- [你有用过sass中的Mixin功能吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1751)
+- [检测sass中错误的指令是哪个？](https://github.com/haizlin/fe-interview/issues/1747)
+- [说说你对sass的嵌套规则的理解？](https://github.com/haizlin/fe-interview/issues/1743)
+- [你认为sass和less的最大区别是什么呢？你喜欢哪个？为什么？](https://github.com/haizlin/fe-interview/issues/1739)
 - [sass是怎么定义变量的？](https://github.com/haizlin/fe-interview/issues/1735)
 - [使用sass的方式有哪些？](https://github.com/haizlin/fe-interview/issues/1731)
 - [为什么要使用sass/less？](https://github.com/haizlin/fe-interview/issues/1727)

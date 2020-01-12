@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.05
+> 最新：2020.01.12
 
+- [请分析!+[]+!![]+!![]+!![]+!![]+!![]的结果](https://github.com/haizlin/fe-interview/issues/1765)
+- [请分析020-088=?的过程及结果](https://github.com/haizlin/fe-interview/issues/1761)
+- [写一个让一句话随着鼠标移动的小插件](https://github.com/haizlin/fe-interview/issues/1756)
+- [如果让你把把html页面导出为pdf，不用插件的话，你该怎么做？](https://github.com/haizlin/fe-interview/issues/1752)
+- [用js实现一个导航吸顶效果](https://github.com/haizlin/fe-interview/issues/1748)
+- [window.console.log()和console .log()有区别吗？体现在哪里？](https://github.com/haizlin/fe-interview/issues/1744)
+- [getelementbyId和queryselect平时经常使用哪一个？说说你的看法](https://github.com/haizlin/fe-interview/issues/1740)
 - [箭头函数的this值继承于哪里](https://github.com/haizlin/fe-interview/issues/1736)
 - [举例说明object.freeze有哪些用途呢？](https://github.com/haizlin/fe-interview/issues/1732)
 - [微任务和宏任务有什么区别？](https://github.com/haizlin/fe-interview/issues/1728)

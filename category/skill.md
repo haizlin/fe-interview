@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.05
+> 最新：2020.01.12
 
+- [你对“属于自己的时间”这句话是怎么理解的？你有属于自己的时间吗？](https://github.com/haizlin/fe-interview/issues/1766)
+- [如何让大脑保持高速运行？](https://github.com/haizlin/fe-interview/issues/1762)
+- [请举例说明你对MIME的理解](https://github.com/haizlin/fe-interview/issues/1757)
+- [你认为全栈工程师应该具体什么样的条件（技能、素质等）？](https://github.com/haizlin/fe-interview/issues/1753)
+- [SEO是什么？TDK要怎么写才是最优的呢？](https://github.com/haizlin/fe-interview/issues/1749)
+- [举例说明IE和chrome有哪些不一样的特性](https://github.com/haizlin/fe-interview/issues/1745)
+- [说说你对TDD和BDD的理解](https://github.com/haizlin/fe-interview/issues/1741)
 - [说说你对冒烟测试的理解](https://github.com/haizlin/fe-interview/issues/1737)
 - [如何快速定位线上出现的问题？](https://github.com/haizlin/fe-interview/issues/1733)
 - [如果有些地区的用户反应网站很卡很慢，可能是什么原因造成的呢？怎么样去解决？](https://github.com/haizlin/fe-interview/issues/1729)

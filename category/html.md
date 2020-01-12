@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.05
+> 最新：2020.01.12
 
+- [HTML5的video怎样预加载（支持全量加载）？](https://github.com/haizlin/fe-interview/issues/1763)
+- [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
+- [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)
+- [如果要你实现一个代码（多种语言）高亮的组件，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/1750)
+- [关于iframe的跨域你有了解多少？](https://github.com/haizlin/fe-interview/issues/1746)
+- [https页面加载http的资源会导致页面报错的原因是什么？怎么解决？](https://github.com/haizlin/fe-interview/issues/1742)
+- [html5怎么判断是否在wifi环境？](https://github.com/haizlin/fe-interview/issues/1738)
 - [举例说明html5怎么判断网络状态？](https://github.com/haizlin/fe-interview/issues/1734)
 - [html5怎么判断app是否安装？](https://github.com/haizlin/fe-interview/issues/1730)
 - [移动端滚动穿透是什么原因？有哪些解决方案？](https://github.com/haizlin/fe-interview/issues/1726)

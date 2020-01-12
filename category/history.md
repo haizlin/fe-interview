@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第270天 (2020.01.11)
+    - [html] [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
+    - [css] [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
+    - [js] [请分析020-088=?的过程及结果](https://github.com/haizlin/fe-interview/issues/1761)
+    - [软技能] [如何让大脑保持高速运行？](https://github.com/haizlin/fe-interview/issues/1762)
+
 - 第269天 (2020.01.10)
     - [html] [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)
     - [css] [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)

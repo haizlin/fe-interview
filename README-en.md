@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.11) —— 270 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
-- [css] [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
-- [js] [请分析020-088=?的过程及结果](https://github.com/haizlin/fe-interview/issues/1761)
-- [skill] [如何让大脑保持高速运行？](https://github.com/haizlin/fe-interview/issues/1762)
+## Today's Knowledge Points (2020.01.12) —— 271 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [HTML5的video怎样预加载（支持全量加载）？](https://github.com/haizlin/fe-interview/issues/1763)
+- [css] [使用sass里，你是怎么组织你的sass文件的？](https://github.com/haizlin/fe-interview/issues/1764)
+- [js] [请分析!+[]+!![]+!![]+!![]+!![]+!![]的结果](https://github.com/haizlin/fe-interview/issues/1765)
+- [skill] [你对“属于自己的时间”这句话是怎么理解的？你有属于自己的时间吗？](https://github.com/haizlin/fe-interview/issues/1766)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 267 days (2020.01.08)
-    - [html] [关于iframe的跨域你有了解多少？](https://github.com/haizlin/fe-interview/issues/1746)
-    - [css] [检测sass中错误的指令是哪个？](https://github.com/haizlin/fe-interview/issues/1747)
-    - [js] [用js实现一个导航吸顶效果](https://github.com/haizlin/fe-interview/issues/1748)
-    - [skill] [SEO是什么？TDK要怎么写才是最优的呢？](https://github.com/haizlin/fe-interview/issues/1749)
+- 269 days (2020.01.10)
+    - [html] [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)
+    - [css] [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)
+    - [js] [写一个让一句话随着鼠标移动的小插件](https://github.com/haizlin/fe-interview/issues/1756)
+    - [skill] [请举例说明你对MIME的理解](https://github.com/haizlin/fe-interview/issues/1757)
 
-- 268 days (2020.01.09)
-    - [html] [如果要你实现一个代码（多种语言）高亮的组件，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/1750)
-    - [css] [你有用过sass中的Mixin功能吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1751)
-    - [js] [如果让你把把html页面导出为pdf，不用插件的话，你该怎么做？](https://github.com/haizlin/fe-interview/issues/1752)
-    - [skill] [你认为全栈工程师应该具体什么样的条件（技能、素质等）？](https://github.com/haizlin/fe-interview/issues/1753)
+- 270 days (2020.01.11)
+    - [html] [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
+    - [css] [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
+    - [js] [请分析020-088=?的过程及结果](https://github.com/haizlin/fe-interview/issues/1761)
+    - [skill] [如何让大脑保持高速运行？](https://github.com/haizlin/fe-interview/issues/1762)
 
 - **[All](category/history.md)**
 
