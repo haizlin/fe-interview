@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第272天 (2020.01.13)
+    - [html] [移动端如何禁止用户手动缩放页面？](https://github.com/haizlin/fe-interview/issues/1767)
+    - [css] [sass是如何导入模块的](https://github.com/haizlin/fe-interview/issues/1768)
+    - [js] [用不同的方法改装下面的代码，使它的结果输出为0-4[代码]](https://github.com/haizlin/fe-interview/issues/1769)
+    - [软技能] [备案指的是域名备案还是空间备案呢？](https://github.com/haizlin/fe-interview/issues/1770)
+
 - 第271天 (2020.01.12)
     - [html] [HTML5的video怎样预加载（支持全量加载）？](https://github.com/haizlin/fe-interview/issues/1763)
     - [css] [使用sass里，你是怎么组织你的sass文件的？](https://github.com/haizlin/fe-interview/issues/1764)
