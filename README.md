@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.01.14) —— 第273天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [html中p标签内为何不能嵌套div标签？](https://github.com/haizlin/fe-interview/issues/1772)
-- [css] [请使用CSS画一个带锯齿形边框圆圈](https://github.com/haizlin/fe-interview/issues/1773)
-- [js] [js的sort方法运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1774)
-- [软技能] [你自己制作过字体吗？你知道字体是怎么制作出来的吗？](https://github.com/haizlin/fe-interview/issues/1775)
+## 今天的知识点 (2020.01.15) —— 第274天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [列举下哪些块元素里面不能放哪些块元素呢？](https://github.com/haizlin/fe-interview/issues/1776)
+- [css] [css如何消除字体的锯齿？](https://github.com/haizlin/fe-interview/issues/1777)
+- [js] [你知道js的可选链是什么吗？说说你对它的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1778)
+- [软技能] [资源加载失败，你是如何排查它的原因并解决呢？](https://github.com/haizlin/fe-interview/issues/1779)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第271天 (2020.01.12)
-    - [html] [HTML5的video怎样预加载（支持全量加载）？](https://github.com/haizlin/fe-interview/issues/1763)
-    - [css] [使用sass里，你是怎么组织你的sass文件的？](https://github.com/haizlin/fe-interview/issues/1764)
-    - [js] [请分析!+[]+!![]+!![]+!![]+!![]+!![]的结果](https://github.com/haizlin/fe-interview/issues/1765)
-    - [软技能] [你对“属于自己的时间”这句话是怎么理解的？你有属于自己的时间吗？](https://github.com/haizlin/fe-interview/issues/1766)
-
 - 第272天 (2020.01.13)
     - [html] [移动端如何禁止用户手动缩放页面？](https://github.com/haizlin/fe-interview/issues/1767)
     - [css] [sass是如何导入模块的](https://github.com/haizlin/fe-interview/issues/1768)
     - [js] [用不同的方法改装下面的代码，使它的结果输出为0-4[代码]](https://github.com/haizlin/fe-interview/issues/1769)
     - [软技能] [备案指的是域名备案还是空间备案呢？](https://github.com/haizlin/fe-interview/issues/1770)
+
+- 第273天 (2020.01.14)
+    - [html] [html中p标签内为何不能嵌套div标签？](https://github.com/haizlin/fe-interview/issues/1772)
+    - [css] [请使用CSS画一个带锯齿形边框圆圈](https://github.com/haizlin/fe-interview/issues/1773)
+    - [js] [js的sort方法运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1774)
+    - [软技能] [你自己制作过字体吗？你知道字体是怎么制作出来的吗？](https://github.com/haizlin/fe-interview/issues/1775)
     
 - **[查看全部](category/history.md)**
 
