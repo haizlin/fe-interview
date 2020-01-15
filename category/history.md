@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第274天 (2020.01.15)
+    - [html] [列举下哪些块元素里面不能放哪些块元素呢？](https://github.com/haizlin/fe-interview/issues/1776)
+    - [css] [css如何消除字体的锯齿？](https://github.com/haizlin/fe-interview/issues/1777)
+    - [js] [你知道js的可选链是什么吗？说说你对它的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1778)
+    - [软技能] [资源加载失败，你是如何排查它的原因并解决呢？](https://github.com/haizlin/fe-interview/issues/1779)
+
 - 第273天 (2020.01.14)
     - [html] [html中p标签内为何不能嵌套div标签？](https://github.com/haizlin/fe-interview/issues/1772)
     - [css] [请使用CSS画一个带锯齿形边框圆圈](https://github.com/haizlin/fe-interview/issues/1773)

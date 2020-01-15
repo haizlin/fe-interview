@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.15) —— 274 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [列举下哪些块元素里面不能放哪些块元素呢？](https://github.com/haizlin/fe-interview/issues/1776)
-- [css] [css如何消除字体的锯齿？](https://github.com/haizlin/fe-interview/issues/1777)
-- [js] [你知道js的可选链是什么吗？说说你对它的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1778)
-- [skill] [资源加载失败，你是如何排查它的原因并解决呢？](https://github.com/haizlin/fe-interview/issues/1779)
+## Today's Knowledge Points (2020.01.16) —— 275 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [网站如何自适应手机屏幕？](https://github.com/haizlin/fe-interview/issues/1780)
+- [css] [css图片缩放失真出现锯齿的如何解决呢？](https://github.com/haizlin/fe-interview/issues/1781)
+- [js] [说下你对alert的理解，它有哪些特性呢？及使用它时要注意些什么？](https://github.com/haizlin/fe-interview/issues/1782)
+- [skill] [你当初为什么选择了前端？](https://github.com/haizlin/fe-interview/issues/1783)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 272 days (2020.01.13)
-    - [html] [移动端如何禁止用户手动缩放页面？](https://github.com/haizlin/fe-interview/issues/1767)
-    - [css] [sass是如何导入模块的](https://github.com/haizlin/fe-interview/issues/1768)
-    - [js] [用不同的方法改装下面的代码，使它的结果输出为0-4[代码]](https://github.com/haizlin/fe-interview/issues/1769)
-    - [skill] [备案指的是域名备案还是空间备案呢？](https://github.com/haizlin/fe-interview/issues/1770)
-
 - 273 days (2020.01.14)
     - [html] [html中p标签内为何不能嵌套div标签？](https://github.com/haizlin/fe-interview/issues/1772)
     - [css] [请使用CSS画一个带锯齿形边框圆圈](https://github.com/haizlin/fe-interview/issues/1773)
     - [js] [js的sort方法运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1774)
     - [skill] [你自己制作过字体吗？你知道字体是怎么制作出来的吗？](https://github.com/haizlin/fe-interview/issues/1775)
+
+- 274 days (2020.01.15)
+    - [html] [列举下哪些块元素里面不能放哪些块元素呢？](https://github.com/haizlin/fe-interview/issues/1776)
+    - [css] [css如何消除字体的锯齿？](https://github.com/haizlin/fe-interview/issues/1777)
+    - [js] [你知道js的可选链是什么吗？说说你对它的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1778)
+    - [skill] [资源加载失败，你是如何排查它的原因并解决呢？](https://github.com/haizlin/fe-interview/issues/1779)
 
 - **[All](category/history.md)**
 
