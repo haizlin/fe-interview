@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第275天 (2020.01.16)
+    - [html] [网站如何自适应手机屏幕？](https://github.com/haizlin/fe-interview/issues/1780)
+    - [css] [css图片缩放失真出现锯齿的如何解决呢？](https://github.com/haizlin/fe-interview/issues/1781)
+    - [js] [说下你对alert的理解，它有哪些特性呢？及使用它时要注意些什么？](https://github.com/haizlin/fe-interview/issues/1782)
+    - [软技能] [你当初为什么选择了前端？](https://github.com/haizlin/fe-interview/issues/1783)
+
 - 第274天 (2020.01.15)
     - [html] [列举下哪些块元素里面不能放哪些块元素呢？](https://github.com/haizlin/fe-interview/issues/1776)
     - [css] [css如何消除字体的锯齿？](https://github.com/haizlin/fe-interview/issues/1777)

@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.01.16) —— 第275天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [网站如何自适应手机屏幕？](https://github.com/haizlin/fe-interview/issues/1780)
-- [css] [css图片缩放失真出现锯齿的如何解决呢？](https://github.com/haizlin/fe-interview/issues/1781)
-- [js] [说下你对alert的理解，它有哪些特性呢？及使用它时要注意些什么？](https://github.com/haizlin/fe-interview/issues/1782)
-- [软技能] [你当初为什么选择了前端？](https://github.com/haizlin/fe-interview/issues/1783)
+## 今天的知识点 (2020.01.17) —— 第276天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [html的标签元素分为哪几大类？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1784)
+- [css] [如何清除在项目中无用的css代码呢？](https://github.com/haizlin/fe-interview/issues/1785)
+- [js] [如何在用户刷新、跳转、关闭浏览器时向服务端发送统计的数据？](https://github.com/haizlin/fe-interview/issues/1786)
+- [软技能] [说说你对前端架构的理解](https://github.com/haizlin/fe-interview/issues/1787)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第273天 (2020.01.14)
-    - [html] [html中p标签内为何不能嵌套div标签？](https://github.com/haizlin/fe-interview/issues/1772)
-    - [css] [请使用CSS画一个带锯齿形边框圆圈](https://github.com/haizlin/fe-interview/issues/1773)
-    - [js] [js的sort方法运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1774)
-    - [软技能] [你自己制作过字体吗？你知道字体是怎么制作出来的吗？](https://github.com/haizlin/fe-interview/issues/1775)
-
 - 第274天 (2020.01.15)
     - [html] [列举下哪些块元素里面不能放哪些块元素呢？](https://github.com/haizlin/fe-interview/issues/1776)
     - [css] [css如何消除字体的锯齿？](https://github.com/haizlin/fe-interview/issues/1777)
     - [js] [你知道js的可选链是什么吗？说说你对它的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1778)
     - [软技能] [资源加载失败，你是如何排查它的原因并解决呢？](https://github.com/haizlin/fe-interview/issues/1779)
+
+- 第275天 (2020.01.16)
+    - [html] [网站如何自适应手机屏幕？](https://github.com/haizlin/fe-interview/issues/1780)
+    - [css] [css图片缩放失真出现锯齿的如何解决呢？](https://github.com/haizlin/fe-interview/issues/1781)
+    - [js] [说下你对alert的理解，它有哪些特性呢？及使用它时要注意些什么？](https://github.com/haizlin/fe-interview/issues/1782)
+    - [软技能] [你当初为什么选择了前端？](https://github.com/haizlin/fe-interview/issues/1783)
     
 - **[查看全部](category/history.md)**
 
