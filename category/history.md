@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第276天 (2020.01.17)
+    - [html] [html的标签元素分为哪几大类？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1784)
+    - [css] [如何清除在项目中无用的css代码呢？](https://github.com/haizlin/fe-interview/issues/1785)
+    - [js] [如何在用户刷新、跳转、关闭浏览器时向服务端发送统计的数据？](https://github.com/haizlin/fe-interview/issues/1786)
+    - [软技能] [说说你对前端架构的理解](https://github.com/haizlin/fe-interview/issues/1787)
+
 - 第275天 (2020.01.16)
     - [html] [网站如何自适应手机屏幕？](https://github.com/haizlin/fe-interview/issues/1780)
     - [css] [css图片缩放失真出现锯齿的如何解决呢？](https://github.com/haizlin/fe-interview/issues/1781)
