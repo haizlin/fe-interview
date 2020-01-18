@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.12
+> 最新：2020.01.19
 
+- [写一个方法判断一个数字是否为整数](https://github.com/haizlin/fe-interview/issues/1794)
+- [页面上的DOM有多个相同的ID，用js获取时结果会是怎么样的？](https://github.com/haizlin/fe-interview/issues/1790)
+- [如何在用户刷新、跳转、关闭浏览器时向服务端发送统计的数据？](https://github.com/haizlin/fe-interview/issues/1786)
+- [说下你对alert的理解，它有哪些特性呢？及使用它时要注意些什么？](https://github.com/haizlin/fe-interview/issues/1782)
+- [你知道js的可选链是什么吗？说说你对它的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1778)
+- [js的sort方法运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1774)
+- [用不同的方法改装下面的代码，使它的结果输出为0-4[代码]](https://github.com/haizlin/fe-interview/issues/1769)
 - [请分析!+[]+!![]+!![]+!![]+!![]+!![]的结果](https://github.com/haizlin/fe-interview/issues/1765)
 - [请分析020-088=?的过程及结果](https://github.com/haizlin/fe-interview/issues/1761)
 - [写一个让一句话随着鼠标移动的小插件](https://github.com/haizlin/fe-interview/issues/1756)

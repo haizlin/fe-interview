@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.12
+> 最新：2020.01.19
 
+- [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
+- [举例说明html的修饰元素有哪些？](https://github.com/haizlin/fe-interview/issues/1788)
+- [html的标签元素分为哪几大类？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1784)
+- [网站如何自适应手机屏幕？](https://github.com/haizlin/fe-interview/issues/1780)
+- [列举下哪些块元素里面不能放哪些块元素呢？](https://github.com/haizlin/fe-interview/issues/1776)
+- [html中p标签内为何不能嵌套div标签？](https://github.com/haizlin/fe-interview/issues/1772)
+- [移动端如何禁止用户手动缩放页面？](https://github.com/haizlin/fe-interview/issues/1767)
 - [HTML5的video怎样预加载（支持全量加载）？](https://github.com/haizlin/fe-interview/issues/1763)
 - [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
 - [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)

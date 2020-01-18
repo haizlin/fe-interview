@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.12
+> 最新：2020.01.19
 
+- [HTTP的请求除了get和post外还有哪些呢？说下你对它们的理解](https://github.com/haizlin/fe-interview/issues/1795)
+- [你知道TCP和UTP的区别是什么吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1791)
+- [说说你对前端架构的理解](https://github.com/haizlin/fe-interview/issues/1787)
+- [你当初为什么选择了前端？](https://github.com/haizlin/fe-interview/issues/1783)
+- [资源加载失败，你是如何排查它的原因并解决呢？](https://github.com/haizlin/fe-interview/issues/1779)
+- [你自己制作过字体吗？你知道字体是怎么制作出来的吗？](https://github.com/haizlin/fe-interview/issues/1775)
+- [备案指的是域名备案还是空间备案呢？](https://github.com/haizlin/fe-interview/issues/1770)
 - [你对“属于自己的时间”这句话是怎么理解的？你有属于自己的时间吗？](https://github.com/haizlin/fe-interview/issues/1766)
 - [如何让大脑保持高速运行？](https://github.com/haizlin/fe-interview/issues/1762)
 - [请举例说明你对MIME的理解](https://github.com/haizlin/fe-interview/issues/1757)

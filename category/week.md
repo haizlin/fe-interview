@@ -1,4 +1,4 @@
-# 周汇总 2020.01.12
+# 周汇总 2020.01.19
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [HTML5的video怎样预加载（支持全量加载）？](https://github.com/haizlin/fe-interview/issues/1763)
-- [HTML5的video怎么取消自动播放？](https://github.com/haizlin/fe-interview/issues/1759)
-- [HTML5如何隐藏video元素的控制栏、全屏按钮？](https://github.com/haizlin/fe-interview/issues/1754)
-- [如果要你实现一个代码（多种语言）高亮的组件，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/1750)
-- [关于iframe的跨域你有了解多少？](https://github.com/haizlin/fe-interview/issues/1746)
-- [https页面加载http的资源会导致页面报错的原因是什么？怎么解决？](https://github.com/haizlin/fe-interview/issues/1742)
-- [html5怎么判断是否在wifi环境？](https://github.com/haizlin/fe-interview/issues/1738)
+- [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
+- [举例说明html的修饰元素有哪些？](https://github.com/haizlin/fe-interview/issues/1788)
+- [html的标签元素分为哪几大类？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1784)
+- [网站如何自适应手机屏幕？](https://github.com/haizlin/fe-interview/issues/1780)
+- [列举下哪些块元素里面不能放哪些块元素呢？](https://github.com/haizlin/fe-interview/issues/1776)
+- [html中p标签内为何不能嵌套div标签？](https://github.com/haizlin/fe-interview/issues/1772)
+- [移动端如何禁止用户手动缩放页面？](https://github.com/haizlin/fe-interview/issues/1767)
 
 ## css
-- [使用sass里，你是怎么组织你的sass文件的？](https://github.com/haizlin/fe-interview/issues/1764)
-- [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
-- [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)
-- [你有用过sass中的Mixin功能吗？它有哪些作用？](https://github.com/haizlin/fe-interview/issues/1751)
-- [检测sass中错误的指令是哪个？](https://github.com/haizlin/fe-interview/issues/1747)
-- [说说你对sass的嵌套规则的理解？](https://github.com/haizlin/fe-interview/issues/1743)
-- [你认为sass和less的最大区别是什么呢？你喜欢哪个？为什么？](https://github.com/haizlin/fe-interview/issues/1739)
+- [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
+- [一个页面引用多个文件，如何防止样式冲突？](https://github.com/haizlin/fe-interview/issues/1789)
+- [如何清除在项目中无用的css代码呢？](https://github.com/haizlin/fe-interview/issues/1785)
+- [css图片缩放失真出现锯齿的如何解决呢？](https://github.com/haizlin/fe-interview/issues/1781)
+- [css如何消除字体的锯齿？](https://github.com/haizlin/fe-interview/issues/1777)
+- [请使用CSS画一个带锯齿形边框圆圈](https://github.com/haizlin/fe-interview/issues/1773)
+- [sass是如何导入模块的](https://github.com/haizlin/fe-interview/issues/1768)
 
 ## js
-- [请分析!+[]+!![]+!![]+!![]+!![]+!![]的结果](https://github.com/haizlin/fe-interview/issues/1765)
-- [请分析020-088=?的过程及结果](https://github.com/haizlin/fe-interview/issues/1761)
-- [写一个让一句话随着鼠标移动的小插件](https://github.com/haizlin/fe-interview/issues/1756)
-- [如果让你把把html页面导出为pdf，不用插件的话，你该怎么做？](https://github.com/haizlin/fe-interview/issues/1752)
-- [用js实现一个导航吸顶效果](https://github.com/haizlin/fe-interview/issues/1748)
-- [window.console.log()和console .log()有区别吗？体现在哪里？](https://github.com/haizlin/fe-interview/issues/1744)
-- [getelementbyId和queryselect平时经常使用哪一个？说说你的看法](https://github.com/haizlin/fe-interview/issues/1740)
+- [写一个方法判断一个数字是否为整数](https://github.com/haizlin/fe-interview/issues/1794)
+- [页面上的DOM有多个相同的ID，用js获取时结果会是怎么样的？](https://github.com/haizlin/fe-interview/issues/1790)
+- [如何在用户刷新、跳转、关闭浏览器时向服务端发送统计的数据？](https://github.com/haizlin/fe-interview/issues/1786)
+- [说下你对alert的理解，它有哪些特性呢？及使用它时要注意些什么？](https://github.com/haizlin/fe-interview/issues/1782)
+- [你知道js的可选链是什么吗？说说你对它的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1778)
+- [js的sort方法运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1774)
+- [用不同的方法改装下面的代码，使它的结果输出为0-4[代码]](https://github.com/haizlin/fe-interview/issues/1769)
 
 ## 软技能
-- [你对“属于自己的时间”这句话是怎么理解的？你有属于自己的时间吗？](https://github.com/haizlin/fe-interview/issues/1766)
-- [如何让大脑保持高速运行？](https://github.com/haizlin/fe-interview/issues/1762)
-- [请举例说明你对MIME的理解](https://github.com/haizlin/fe-interview/issues/1757)
-- [你认为全栈工程师应该具体什么样的条件（技能、素质等）？](https://github.com/haizlin/fe-interview/issues/1753)
-- [SEO是什么？TDK要怎么写才是最优的呢？](https://github.com/haizlin/fe-interview/issues/1749)
-- [举例说明IE和chrome有哪些不一样的特性](https://github.com/haizlin/fe-interview/issues/1745)
-- [说说你对TDD和BDD的理解](https://github.com/haizlin/fe-interview/issues/1741)
+- [HTTP的请求除了get和post外还有哪些呢？说下你对它们的理解](https://github.com/haizlin/fe-interview/issues/1795)
+- [你知道TCP和UTP的区别是什么吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1791)
+- [说说你对前端架构的理解](https://github.com/haizlin/fe-interview/issues/1787)
+- [你当初为什么选择了前端？](https://github.com/haizlin/fe-interview/issues/1783)
+- [资源加载失败，你是如何排查它的原因并解决呢？](https://github.com/haizlin/fe-interview/issues/1779)
+- [你自己制作过字体吗？你知道字体是怎么制作出来的吗？](https://github.com/haizlin/fe-interview/issues/1775)
+- [备案指的是域名备案还是空间备案呢？](https://github.com/haizlin/fe-interview/issues/1770)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

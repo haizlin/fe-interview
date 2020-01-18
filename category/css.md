@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.12
+> 最新：2020.01.19
 
+- [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
+- [一个页面引用多个文件，如何防止样式冲突？](https://github.com/haizlin/fe-interview/issues/1789)
+- [如何清除在项目中无用的css代码呢？](https://github.com/haizlin/fe-interview/issues/1785)
+- [css图片缩放失真出现锯齿的如何解决呢？](https://github.com/haizlin/fe-interview/issues/1781)
+- [css如何消除字体的锯齿？](https://github.com/haizlin/fe-interview/issues/1777)
+- [请使用CSS画一个带锯齿形边框圆圈](https://github.com/haizlin/fe-interview/issues/1773)
+- [sass是如何导入模块的](https://github.com/haizlin/fe-interview/issues/1768)
 - [使用sass里，你是怎么组织你的sass文件的？](https://github.com/haizlin/fe-interview/issues/1764)
 - [说说sass有哪些你认为很棒的特性](https://github.com/haizlin/fe-interview/issues/1760)
 - [在sass中可以执行布尔运算吗？](https://github.com/haizlin/fe-interview/issues/1755)

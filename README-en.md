@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.18) —— 277 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [举例说明html的修饰元素有哪些？](https://github.com/haizlin/fe-interview/issues/1788)
-- [css] [一个页面引用多个文件，如何防止样式冲突？](https://github.com/haizlin/fe-interview/issues/1789)
-- [js] [页面上的DOM有多个相同的ID，用js获取时结果会是怎么样的？](https://github.com/haizlin/fe-interview/issues/1790)
-- [skill] [你知道TCP和UTP的区别是什么吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1791)
+## Today's Knowledge Points (2020.01.19) —— 278 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
+- [css] [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
+- [js] [写一个方法判断一个数字是否为整数](https://github.com/haizlin/fe-interview/issues/1794)
+- [skill] [HTTP的请求除了get和post外还有哪些呢？说下你对它们的理解](https://github.com/haizlin/fe-interview/issues/1795)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 275 days (2020.01.16)
-    - [html] [网站如何自适应手机屏幕？](https://github.com/haizlin/fe-interview/issues/1780)
-    - [css] [css图片缩放失真出现锯齿的如何解决呢？](https://github.com/haizlin/fe-interview/issues/1781)
-    - [js] [说下你对alert的理解，它有哪些特性呢？及使用它时要注意些什么？](https://github.com/haizlin/fe-interview/issues/1782)
-    - [skill] [你当初为什么选择了前端？](https://github.com/haizlin/fe-interview/issues/1783)
-
 - 276 days (2020.01.17)
     - [html] [html的标签元素分为哪几大类？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1784)
     - [css] [如何清除在项目中无用的css代码呢？](https://github.com/haizlin/fe-interview/issues/1785)
     - [js] [如何在用户刷新、跳转、关闭浏览器时向服务端发送统计的数据？](https://github.com/haizlin/fe-interview/issues/1786)
     - [skill] [说说你对前端架构的理解](https://github.com/haizlin/fe-interview/issues/1787)
+
+- 277 days (2020.01.18)
+    - [html] [举例说明html的修饰元素有哪些？](https://github.com/haizlin/fe-interview/issues/1788)
+    - [css] [一个页面引用多个文件，如何防止样式冲突？](https://github.com/haizlin/fe-interview/issues/1789)
+    - [js] [页面上的DOM有多个相同的ID，用js获取时结果会是怎么样的？](https://github.com/haizlin/fe-interview/issues/1790)
+    - [skill] [你知道TCP和UTP的区别是什么吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1791)
 
 - **[All](category/history.md)**
 
