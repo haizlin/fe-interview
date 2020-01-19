@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第278天 (2020.01.19)
+    - [html] [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
+    - [css] [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
+    - [js] [写一个方法判断一个数字是否为整数](https://github.com/haizlin/fe-interview/issues/1794)
+    - [软技能] [HTTP的请求除了get和post外还有哪些呢？说下你对它们的理解](https://github.com/haizlin/fe-interview/issues/1795)
+
 - 第277天 (2020.01.18)
     - [html] [举例说明html的修饰元素有哪些？](https://github.com/haizlin/fe-interview/issues/1788)
     - [css] [一个页面引用多个文件，如何防止样式冲突？](https://github.com/haizlin/fe-interview/issues/1789)
