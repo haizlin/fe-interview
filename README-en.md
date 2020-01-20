@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.19) —— 278 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
-- [css] [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
-- [js] [写一个方法判断一个数字是否为整数](https://github.com/haizlin/fe-interview/issues/1794)
-- [skill] [HTTP的请求除了get和post外还有哪些呢？说下你对它们的理解](https://github.com/haizlin/fe-interview/issues/1795)
+## Today's Knowledge Points (2020.01.21) —— 280 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [使用递归时应该注意哪些问题？](https://github.com/haizlin/fe-interview/issues/1800)
+- [css] [使用css3绘制一个圆形动态的时钟](https://github.com/haizlin/fe-interview/issues/1801)
+- [js] [使用js写一个计算字符串的字节数的方法](https://github.com/haizlin/fe-interview/issues/1802)
+- [skill] [请说说协商缓存和强缓存的区别？](https://github.com/haizlin/fe-interview/issues/1803)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 277 days (2020.01.18)
-    - [html] [举例说明html的修饰元素有哪些？](https://github.com/haizlin/fe-interview/issues/1788)
-    - [css] [一个页面引用多个文件，如何防止样式冲突？](https://github.com/haizlin/fe-interview/issues/1789)
-    - [js] [页面上的DOM有多个相同的ID，用js获取时结果会是怎么样的？](https://github.com/haizlin/fe-interview/issues/1790)
-    - [skill] [你知道TCP和UTP的区别是什么吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1791)
-
 - 278 days (2020.01.19)
     - [html] [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
     - [css] [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
     - [js] [写一个方法判断一个数字是否为整数](https://github.com/haizlin/fe-interview/issues/1794)
     - [skill] [HTTP的请求除了get和post外还有哪些呢？说下你对它们的理解](https://github.com/haizlin/fe-interview/issues/1795)
+
+- 279 days (2020.01.20)
+    - [html] [canvas有哪些渲染上下文？](https://github.com/haizlin/fe-interview/issues/1796)
+    - [css] [使用css将图片转换成黑白的效果](https://github.com/haizlin/fe-interview/issues/1797)
+    - [js] [用代码实现游戏应用中连续按键触发必杀技的监测方法](https://github.com/haizlin/fe-interview/issues/1798)
+    - [skill] [HTTP的请求头有什么作用？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1799)
 
 - **[All](category/history.md)**
 

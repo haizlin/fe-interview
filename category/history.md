@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第279天 (2020.01.20)
+    - [html] [canvas有哪些渲染上下文？](https://github.com/haizlin/fe-interview/issues/1796)
+    - [css] [使用css将图片转换成黑白的效果](https://github.com/haizlin/fe-interview/issues/1797)
+    - [js] [用代码实现游戏应用中连续按键触发必杀技的监测方法](https://github.com/haizlin/fe-interview/issues/1798)
+    - [软技能] [HTTP的请求头有什么作用？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1799)
+
 - 第278天 (2020.01.19)
     - [html] [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
     - [css] [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
