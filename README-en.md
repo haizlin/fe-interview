@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.21) —— 280 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [使用递归时应该注意哪些问题？](https://github.com/haizlin/fe-interview/issues/1800)
-- [css] [使用css3绘制一个圆形动态的时钟](https://github.com/haizlin/fe-interview/issues/1801)
-- [js] [使用js写一个计算字符串的字节数的方法](https://github.com/haizlin/fe-interview/issues/1802)
-- [skill] [请说说协商缓存和强缓存的区别？](https://github.com/haizlin/fe-interview/issues/1803)
+## Today's Knowledge Points (2020.01.22) —— 281 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [写个布局，当页面高度不够时，底部固定在下面，反之不固定](https://github.com/haizlin/fe-interview/issues/1804)
+- [css] [请使用css3来模拟中/英文打字的效果](https://github.com/haizlin/fe-interview/issues/1805)
+- [js] [写一个任意进制转换的程序](https://github.com/haizlin/fe-interview/issues/1806)
+- [skill] [当网站遇到性能问题时，你是如何一步步解决的？说说你的方法](https://github.com/haizlin/fe-interview/issues/1807)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 278 days (2020.01.19)
-    - [html] [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
-    - [css] [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
-    - [js] [写一个方法判断一个数字是否为整数](https://github.com/haizlin/fe-interview/issues/1794)
-    - [skill] [HTTP的请求除了get和post外还有哪些呢？说下你对它们的理解](https://github.com/haizlin/fe-interview/issues/1795)
-
 - 279 days (2020.01.20)
     - [html] [canvas有哪些渲染上下文？](https://github.com/haizlin/fe-interview/issues/1796)
     - [css] [使用css将图片转换成黑白的效果](https://github.com/haizlin/fe-interview/issues/1797)
     - [js] [用代码实现游戏应用中连续按键触发必杀技的监测方法](https://github.com/haizlin/fe-interview/issues/1798)
     - [skill] [HTTP的请求头有什么作用？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1799)
+
+- 280 days (2020.01.21)
+    - [html] [使用递归时应该注意哪些问题？](https://github.com/haizlin/fe-interview/issues/1800)
+    - [css] [使用css3绘制一个圆形动态的时钟](https://github.com/haizlin/fe-interview/issues/1801)
+    - [js] [使用js写一个计算字符串的字节数的方法](https://github.com/haizlin/fe-interview/issues/1802)
+    - [skill] [请说说协商缓存和强缓存的区别？](https://github.com/haizlin/fe-interview/issues/1803)
 
 - **[All](category/history.md)**
 
