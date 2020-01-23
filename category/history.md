@@ -1,6 +1,18 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第282天 (2020.01.23)
+    - [html] [写html代码时，如果缺少了结束标签，你如何检测及如何预防？](https://github.com/haizlin/fe-interview/issues/1808)
+    - [css] [使用css3画一个扇形](https://github.com/haizlin/fe-interview/issues/1809)
+    - [js] [使用js写一个时钟的程序](https://github.com/haizlin/fe-interview/issues/1810)
+    - [软技能] [请描述处TCP的三次握手和四次挥手](https://github.com/haizlin/fe-interview/issues/1811)
+
+- 第281天 (2020.01.22)
+    - [html] [写个布局，当页面高度不够时，底部固定在下面，反之不固定](https://github.com/haizlin/fe-interview/issues/1804)
+    - [css] [请使用css3来模拟中/英文打字的效果](https://github.com/haizlin/fe-interview/issues/1805)
+    - [js] [写一个任意进制转换的程序](https://github.com/haizlin/fe-interview/issues/1806)
+    - [软技能] [当网站遇到性能问题时，你是如何一步步解决的？说说你的方法](https://github.com/haizlin/fe-interview/issues/1807)
+
 - 第280天 (2020.01.21)
     - [html] [使用递归时应该注意哪些问题？](https://github.com/haizlin/fe-interview/issues/1800)
     - [css] [使用css3绘制一个圆形动态的时钟](https://github.com/haizlin/fe-interview/issues/1801)
