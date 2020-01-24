@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第283天 (2020.01.24)
+    - [html] [解释下什么是CDATA？](https://github.com/haizlin/fe-interview/issues/1812)
+    - [css] [使用css3绘制一个QQ小企鹅的LOGO](https://github.com/haizlin/fe-interview/issues/1813)
+    - [js] [有了解过`getSelection`API吗？怎么使用，有哪些场景？](https://github.com/haizlin/fe-interview/issues/1814)
+    - [软技能] [说说你对相对路径和绝对路径的理解](https://github.com/haizlin/fe-interview/issues/1815)
+
 - 第282天 (2020.01.23)
     - [html] [写html代码时，如果缺少了结束标签，你如何检测及如何预防？](https://github.com/haizlin/fe-interview/issues/1808)
     - [css] [使用css3画一个扇形](https://github.com/haizlin/fe-interview/issues/1809)
