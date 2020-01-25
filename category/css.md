@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.19
+> 最新：2020.01.26
 
+- [css中的baseline，你知道吗？](https://github.com/haizlin/fe-interview/issues/1821)
+- [你知道什么是动态伪类吗？](https://github.com/haizlin/fe-interview/issues/1817)
+- [使用css3绘制一个QQ小企鹅的LOGO](https://github.com/haizlin/fe-interview/issues/1813)
+- [使用css3画一个扇形](https://github.com/haizlin/fe-interview/issues/1809)
+- [请使用css3来模拟中/英文打字的效果](https://github.com/haizlin/fe-interview/issues/1805)
+- [使用css3绘制一个圆形动态的时钟](https://github.com/haizlin/fe-interview/issues/1801)
+- [使用css将图片转换成黑白的效果](https://github.com/haizlin/fe-interview/issues/1797)
 - [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
 - [一个页面引用多个文件，如何防止样式冲突？](https://github.com/haizlin/fe-interview/issues/1789)
 - [如何清除在项目中无用的css代码呢？](https://github.com/haizlin/fe-interview/issues/1785)

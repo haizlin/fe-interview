@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.25) —— 284 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
-- [css] [你知道什么是动态伪类吗？](https://github.com/haizlin/fe-interview/issues/1817)
-- [js] [写一个方法监听某个div滚动](https://github.com/haizlin/fe-interview/issues/1818)
-- [skill] [做表单验证时主要是验证哪些内容呢？](https://github.com/haizlin/fe-interview/issues/1819)
+## Today's Knowledge Points (2020.01.26) —— 285 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [iOS下页面如何启动加载时显示画面图片？如何设置大小？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1820)
+- [css] [css中的baseline，你知道吗？](https://github.com/haizlin/fe-interview/issues/1821)
+- [js] [pageshow和pageshide有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/1822)
+- [skill] [你知道什么是RSS订阅吗？说说它的原理是什么](https://github.com/haizlin/fe-interview/issues/1823)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 282 days (2020.01.23)
-    - [html] [写html代码时，如果缺少了结束标签，你如何检测及如何预防？](https://github.com/haizlin/fe-interview/issues/1808)
-    - [css] [使用css3画一个扇形](https://github.com/haizlin/fe-interview/issues/1809)
-    - [js] [使用js写一个时钟的程序](https://github.com/haizlin/fe-interview/issues/1810)
-    - [skill] [请描述处TCP的三次握手和四次挥手](https://github.com/haizlin/fe-interview/issues/1811)
-
 - 283 days (2020.01.24)
     - [html] [解释下什么是CDATA？](https://github.com/haizlin/fe-interview/issues/1812)
     - [css] [使用css3绘制一个QQ小企鹅的LOGO](https://github.com/haizlin/fe-interview/issues/1813)
     - [js] [有了解过`getSelection`API吗？怎么使用，有哪些场景？](https://github.com/haizlin/fe-interview/issues/1814)
     - [skill] [说说你对相对路径和绝对路径的理解](https://github.com/haizlin/fe-interview/issues/1815)
+
+- 284 days (2020.01.25)
+    - [html] [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
+    - [css] [你知道什么是动态伪类吗？](https://github.com/haizlin/fe-interview/issues/1817)
+    - [js] [写一个方法监听某个div滚动](https://github.com/haizlin/fe-interview/issues/1818)
+    - [skill] [做表单验证时主要是验证哪些内容呢？](https://github.com/haizlin/fe-interview/issues/1819)
 
 - **[All](category/history.md)**
 

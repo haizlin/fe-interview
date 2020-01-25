@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第284天 (2020.01.25)
+    - [html] [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
+    - [css] [你知道什么是动态伪类吗？](https://github.com/haizlin/fe-interview/issues/1817)
+    - [js] [写一个方法监听某个div滚动](https://github.com/haizlin/fe-interview/issues/1818)
+    - [软技能] [做表单验证时主要是验证哪些内容呢？](https://github.com/haizlin/fe-interview/issues/1819)
+
 - 第283天 (2020.01.24)
     - [html] [解释下什么是CDATA？](https://github.com/haizlin/fe-interview/issues/1812)
     - [css] [使用css3绘制一个QQ小企鹅的LOGO](https://github.com/haizlin/fe-interview/issues/1813)

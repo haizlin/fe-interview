@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.19
+> 最新：2020.01.26
 
+- [pageshow和pageshide有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/1822)
+- [写一个方法监听某个div滚动](https://github.com/haizlin/fe-interview/issues/1818)
+- [有了解过`getSelection`API吗？怎么使用，有哪些场景？](https://github.com/haizlin/fe-interview/issues/1814)
+- [使用js写一个时钟的程序](https://github.com/haizlin/fe-interview/issues/1810)
+- [写一个任意进制转换的程序](https://github.com/haizlin/fe-interview/issues/1806)
+- [使用js写一个计算字符串的字节数的方法](https://github.com/haizlin/fe-interview/issues/1802)
+- [用代码实现游戏应用中连续按键触发必杀技的监测方法](https://github.com/haizlin/fe-interview/issues/1798)
 - [写一个方法判断一个数字是否为整数](https://github.com/haizlin/fe-interview/issues/1794)
 - [页面上的DOM有多个相同的ID，用js获取时结果会是怎么样的？](https://github.com/haizlin/fe-interview/issues/1790)
 - [如何在用户刷新、跳转、关闭浏览器时向服务端发送统计的数据？](https://github.com/haizlin/fe-interview/issues/1786)

@@ -1,4 +1,4 @@
-# 周汇总 2020.01.19
+# 周汇总 2020.01.26
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
-- [举例说明html的修饰元素有哪些？](https://github.com/haizlin/fe-interview/issues/1788)
-- [html的标签元素分为哪几大类？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1784)
-- [网站如何自适应手机屏幕？](https://github.com/haizlin/fe-interview/issues/1780)
-- [列举下哪些块元素里面不能放哪些块元素呢？](https://github.com/haizlin/fe-interview/issues/1776)
-- [html中p标签内为何不能嵌套div标签？](https://github.com/haizlin/fe-interview/issues/1772)
-- [移动端如何禁止用户手动缩放页面？](https://github.com/haizlin/fe-interview/issues/1767)
+- [iOS下页面如何启动加载时显示画面图片？如何设置大小？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1820)
+- [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
+- [解释下什么是CDATA？](https://github.com/haizlin/fe-interview/issues/1812)
+- [写html代码时，如果缺少了结束标签，你如何检测及如何预防？](https://github.com/haizlin/fe-interview/issues/1808)
+- [写个布局，当页面高度不够时，底部固定在下面，反之不固定](https://github.com/haizlin/fe-interview/issues/1804)
+- [使用递归时应该注意哪些问题？](https://github.com/haizlin/fe-interview/issues/1800)
+- [canvas有哪些渲染上下文？](https://github.com/haizlin/fe-interview/issues/1796)
 
 ## css
-- [说说你对css的合成与混合模式的理解](https://github.com/haizlin/fe-interview/issues/1793)
-- [一个页面引用多个文件，如何防止样式冲突？](https://github.com/haizlin/fe-interview/issues/1789)
-- [如何清除在项目中无用的css代码呢？](https://github.com/haizlin/fe-interview/issues/1785)
-- [css图片缩放失真出现锯齿的如何解决呢？](https://github.com/haizlin/fe-interview/issues/1781)
-- [css如何消除字体的锯齿？](https://github.com/haizlin/fe-interview/issues/1777)
-- [请使用CSS画一个带锯齿形边框圆圈](https://github.com/haizlin/fe-interview/issues/1773)
-- [sass是如何导入模块的](https://github.com/haizlin/fe-interview/issues/1768)
+- [css中的baseline，你知道吗？](https://github.com/haizlin/fe-interview/issues/1821)
+- [你知道什么是动态伪类吗？](https://github.com/haizlin/fe-interview/issues/1817)
+- [使用css3绘制一个QQ小企鹅的LOGO](https://github.com/haizlin/fe-interview/issues/1813)
+- [使用css3画一个扇形](https://github.com/haizlin/fe-interview/issues/1809)
+- [请使用css3来模拟中/英文打字的效果](https://github.com/haizlin/fe-interview/issues/1805)
+- [使用css3绘制一个圆形动态的时钟](https://github.com/haizlin/fe-interview/issues/1801)
+- [使用css将图片转换成黑白的效果](https://github.com/haizlin/fe-interview/issues/1797)
 
 ## js
-- [写一个方法判断一个数字是否为整数](https://github.com/haizlin/fe-interview/issues/1794)
-- [页面上的DOM有多个相同的ID，用js获取时结果会是怎么样的？](https://github.com/haizlin/fe-interview/issues/1790)
-- [如何在用户刷新、跳转、关闭浏览器时向服务端发送统计的数据？](https://github.com/haizlin/fe-interview/issues/1786)
-- [说下你对alert的理解，它有哪些特性呢？及使用它时要注意些什么？](https://github.com/haizlin/fe-interview/issues/1782)
-- [你知道js的可选链是什么吗？说说你对它的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1778)
-- [js的sort方法运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1774)
-- [用不同的方法改装下面的代码，使它的结果输出为0-4[代码]](https://github.com/haizlin/fe-interview/issues/1769)
+- [pageshow和pageshide有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/1822)
+- [写一个方法监听某个div滚动](https://github.com/haizlin/fe-interview/issues/1818)
+- [有了解过`getSelection`API吗？怎么使用，有哪些场景？](https://github.com/haizlin/fe-interview/issues/1814)
+- [使用js写一个时钟的程序](https://github.com/haizlin/fe-interview/issues/1810)
+- [写一个任意进制转换的程序](https://github.com/haizlin/fe-interview/issues/1806)
+- [使用js写一个计算字符串的字节数的方法](https://github.com/haizlin/fe-interview/issues/1802)
+- [用代码实现游戏应用中连续按键触发必杀技的监测方法](https://github.com/haizlin/fe-interview/issues/1798)
 
 ## 软技能
-- [HTTP的请求除了get和post外还有哪些呢？说下你对它们的理解](https://github.com/haizlin/fe-interview/issues/1795)
-- [你知道TCP和UTP的区别是什么吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1791)
-- [说说你对前端架构的理解](https://github.com/haizlin/fe-interview/issues/1787)
-- [你当初为什么选择了前端？](https://github.com/haizlin/fe-interview/issues/1783)
-- [资源加载失败，你是如何排查它的原因并解决呢？](https://github.com/haizlin/fe-interview/issues/1779)
-- [你自己制作过字体吗？你知道字体是怎么制作出来的吗？](https://github.com/haizlin/fe-interview/issues/1775)
-- [备案指的是域名备案还是空间备案呢？](https://github.com/haizlin/fe-interview/issues/1770)
+- [你知道什么是RSS订阅吗？说说它的原理是什么](https://github.com/haizlin/fe-interview/issues/1823)
+- [做表单验证时主要是验证哪些内容呢？](https://github.com/haizlin/fe-interview/issues/1819)
+- [说说你对相对路径和绝对路径的理解](https://github.com/haizlin/fe-interview/issues/1815)
+- [请描述处TCP的三次握手和四次挥手](https://github.com/haizlin/fe-interview/issues/1811)
+- [当网站遇到性能问题时，你是如何一步步解决的？说说你的方法](https://github.com/haizlin/fe-interview/issues/1807)
+- [请说说协商缓存和强缓存的区别？](https://github.com/haizlin/fe-interview/issues/1803)
+- [HTTP的请求头有什么作用？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1799)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

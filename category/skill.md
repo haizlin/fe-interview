@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.19
+> 最新：2020.01.26
 
+- [你知道什么是RSS订阅吗？说说它的原理是什么](https://github.com/haizlin/fe-interview/issues/1823)
+- [做表单验证时主要是验证哪些内容呢？](https://github.com/haizlin/fe-interview/issues/1819)
+- [说说你对相对路径和绝对路径的理解](https://github.com/haizlin/fe-interview/issues/1815)
+- [请描述处TCP的三次握手和四次挥手](https://github.com/haizlin/fe-interview/issues/1811)
+- [当网站遇到性能问题时，你是如何一步步解决的？说说你的方法](https://github.com/haizlin/fe-interview/issues/1807)
+- [请说说协商缓存和强缓存的区别？](https://github.com/haizlin/fe-interview/issues/1803)
+- [HTTP的请求头有什么作用？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1799)
 - [HTTP的请求除了get和post外还有哪些呢？说下你对它们的理解](https://github.com/haizlin/fe-interview/issues/1795)
 - [你知道TCP和UTP的区别是什么吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1791)
 - [说说你对前端架构的理解](https://github.com/haizlin/fe-interview/issues/1787)

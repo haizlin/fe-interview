@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.19
+> 最新：2020.01.26
 
+- [iOS下页面如何启动加载时显示画面图片？如何设置大小？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1820)
+- [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
+- [解释下什么是CDATA？](https://github.com/haizlin/fe-interview/issues/1812)
+- [写html代码时，如果缺少了结束标签，你如何检测及如何预防？](https://github.com/haizlin/fe-interview/issues/1808)
+- [写个布局，当页面高度不够时，底部固定在下面，反之不固定](https://github.com/haizlin/fe-interview/issues/1804)
+- [使用递归时应该注意哪些问题？](https://github.com/haizlin/fe-interview/issues/1800)
+- [canvas有哪些渲染上下文？](https://github.com/haizlin/fe-interview/issues/1796)
 - [如何禁止html页面缓存？](https://github.com/haizlin/fe-interview/issues/1792)
 - [举例说明html的修饰元素有哪些？](https://github.com/haizlin/fe-interview/issues/1788)
 - [html的标签元素分为哪几大类？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/1784)
