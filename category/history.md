@@ -1,6 +1,18 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第286天 (2020.01.27)
+    - [html] [移动端如何使页面横、竖屏？](https://github.com/haizlin/fe-interview/issues/1824)
+    - [css] [使用纯css实现一个rate评分的功能](https://github.com/haizlin/fe-interview/issues/1825)
+    - [js] [列举下获取指定日期的毫秒数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1826)
+    - [软技能] [用户在浏览器中禁用了js脚本时该怎么办？](https://github.com/haizlin/fe-interview/issues/1827)
+
+- 第285天 (2020.01.26)
+    - [html] [iOS下页面如何启动加载时显示画面图片？如何设置大小？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1820)
+    - [css] [css中的baseline，你知道吗？](https://github.com/haizlin/fe-interview/issues/1821)
+    - [js] [pageshow和pageshide有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/1822)
+    - [软技能] [你知道什么是RSS订阅吗？说说它的原理是什么](https://github.com/haizlin/fe-interview/issues/1823)
+
 - 第284天 (2020.01.25)
     - [html] [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
     - [css] [你知道什么是动态伪类吗？](https://github.com/haizlin/fe-interview/issues/1817)

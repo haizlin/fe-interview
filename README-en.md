@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.26) —— 285 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [iOS下页面如何启动加载时显示画面图片？如何设置大小？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1820)
-- [css] [css中的baseline，你知道吗？](https://github.com/haizlin/fe-interview/issues/1821)
-- [js] [pageshow和pageshide有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/1822)
-- [skill] [你知道什么是RSS订阅吗？说说它的原理是什么](https://github.com/haizlin/fe-interview/issues/1823)
+## Today's Knowledge Points (2020.01.28) —— 287 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [IOS在播放视频时，有可能会出现短暂的黑屏，如何解决呢？](https://github.com/haizlin/fe-interview/issues/1828)
+- [css] [如何将元素的所有css属性恢复为初始化状态？](https://github.com/haizlin/fe-interview/issues/1829)
+- [js] [写一个汉字与Unicode码的相转的方法](https://github.com/haizlin/fe-interview/issues/1830)
+- [skill] [你知道Nginx吗，知道如何利用Nginx反向代理吗](https://github.com/haizlin/fe-interview/issues/1831)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 283 days (2020.01.24)
-    - [html] [解释下什么是CDATA？](https://github.com/haizlin/fe-interview/issues/1812)
-    - [css] [使用css3绘制一个QQ小企鹅的LOGO](https://github.com/haizlin/fe-interview/issues/1813)
-    - [js] [有了解过`getSelection`API吗？怎么使用，有哪些场景？](https://github.com/haizlin/fe-interview/issues/1814)
-    - [skill] [说说你对相对路径和绝对路径的理解](https://github.com/haizlin/fe-interview/issues/1815)
+- 285 days (2020.01.26)
+    - [html] [iOS下页面如何启动加载时显示画面图片？如何设置大小？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1820)
+    - [css] [css中的baseline，你知道吗？](https://github.com/haizlin/fe-interview/issues/1821)
+    - [js] [pageshow和pageshide有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/1822)
+    - [skill] [你知道什么是RSS订阅吗？说说它的原理是什么](https://github.com/haizlin/fe-interview/issues/1823)
 
-- 284 days (2020.01.25)
-    - [html] [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
-    - [css] [你知道什么是动态伪类吗？](https://github.com/haizlin/fe-interview/issues/1817)
-    - [js] [写一个方法监听某个div滚动](https://github.com/haizlin/fe-interview/issues/1818)
-    - [skill] [做表单验证时主要是验证哪些内容呢？](https://github.com/haizlin/fe-interview/issues/1819)
+- 286 days (2020.01.27)
+    - [html] [移动端如何使页面横、竖屏？](https://github.com/haizlin/fe-interview/issues/1824)
+    - [css] [使用纯css实现一个rate评分的功能](https://github.com/haizlin/fe-interview/issues/1825)
+    - [js] [列举下获取指定日期的毫秒数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1826)
+    - [skill] [用户在浏览器中禁用了js脚本时该怎么办？](https://github.com/haizlin/fe-interview/issues/1827)
 
 - **[All](category/history.md)**
 
