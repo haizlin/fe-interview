@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第287天 (2020.01.28)
+    - [html] [IOS在播放视频时，有可能会出现短暂的黑屏，如何解决呢？](https://github.com/haizlin/fe-interview/issues/1828)
+    - [css] [如何将元素的所有css属性恢复为初始化状态？](https://github.com/haizlin/fe-interview/issues/1829)
+    - [js] [写一个汉字与Unicode码的相转的方法](https://github.com/haizlin/fe-interview/issues/1830)
+    - [软技能] [你知道Nginx吗，知道如何利用Nginx反向代理吗？](https://github.com/haizlin/fe-interview/issues/1831)
+
 - 第286天 (2020.01.27)
     - [html] [移动端如何使页面横、竖屏？](https://github.com/haizlin/fe-interview/issues/1824)
     - [css] [使用纯css实现一个rate评分的功能](https://github.com/haizlin/fe-interview/issues/1825)
