@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第289天 (2020.01.30)
+    - [html] [移动端如何实现长按保存图片（图片上的二维码是动态的）？](https://github.com/haizlin/fe-interview/issues/1836)
+    - [css] [用CSS实现tab切换](https://github.com/haizlin/fe-interview/issues/1837)
+    - [js] [说说你对postMessage的理解，它有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1838)
+    - [软技能] [举例说明你对前端工程化的理解 ](https://github.com/haizlin/fe-interview/issues/1839)
+
 - 第288天 (2020.01.29)
     - [html] [你有了解video的x5-video-player-type这个属性吗？它的作用是什么呢？](https://github.com/haizlin/fe-interview/issues/1832)
     - [css] [移动端1px像素的问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1833)

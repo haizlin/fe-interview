@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.01.30) —— 289 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [移动端如何实现长按保存图片（图片上的二维码是动态的）？](https://github.com/haizlin/fe-interview/issues/1836)
-- [css] [用CSS实现tab切换](https://github.com/haizlin/fe-interview/issues/1837)
-- [js] [说说你对postMessage的理解，它有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1838)
-- [skill] [举例说明你对前端工程化的理解 ](https://github.com/haizlin/fe-interview/issues/1839)
+## Today's Knowledge Points (2020.01.31) —— 290 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)
+- [css] [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)
+- [js] [如何判断一个对象是否为空？](https://github.com/haizlin/fe-interview/issues/1842)
+- [skill] [举例说明你对前端自动化的理解 ](https://github.com/haizlin/fe-interview/issues/1843)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 287 days (2020.01.28)
-    - [html] [IOS在播放视频时，有可能会出现短暂的黑屏，如何解决呢？](https://github.com/haizlin/fe-interview/issues/1828)
-    - [css] [如何将元素的所有css属性恢复为初始化状态？](https://github.com/haizlin/fe-interview/issues/1829)
-    - [js] [写一个汉字与Unicode码的相转的方法](https://github.com/haizlin/fe-interview/issues/1830)
-    - [skill] [你知道Nginx吗，知道如何利用Nginx反向代理吗？](https://github.com/haizlin/fe-interview/issues/1831)
-
 - 288 days (2020.01.29)
     - [html] [你有了解video的x5-video-player-type这个属性吗？它的作用是什么呢？](https://github.com/haizlin/fe-interview/issues/1832)
     - [css] [移动端1px像素的问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1833)
     - [js] [用js封装一个前端分页的库，说说你的思路](https://github.com/haizlin/fe-interview/issues/1834)
     - [skill] [有IT行业的实际工作中，有哪些操作是属于违法的呢？](https://github.com/haizlin/fe-interview/issues/1835)
+
+- 289 days (2020.01.30)
+    - [html] [移动端如何实现长按保存图片（图片上的二维码是动态的）？](https://github.com/haizlin/fe-interview/issues/1836)
+    - [css] [用CSS实现tab切换](https://github.com/haizlin/fe-interview/issues/1837)
+    - [js] [说说你对postMessage的理解，它有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1838)
+    - [skill] [举例说明你对前端工程化的理解 ](https://github.com/haizlin/fe-interview/issues/1839)
 
 - **[All](category/history.md)**
 
