@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第288天 (2020.01.29)
+    - [html] [你有了解video的x5-video-player-type这个属性吗？它的作用是什么呢？](https://github.com/haizlin/fe-interview/issues/1832)
+    - [css] [移动端1px像素的问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1833)
+    - [js] [用js封装一个前端分页的库，说说你的思路](https://github.com/haizlin/fe-interview/issues/1834)
+    - [软技能] [有IT行业的实际工作中，有哪些操作是属于违法的呢？](https://github.com/haizlin/fe-interview/issues/1835)
+
 - 第287天 (2020.01.28)
     - [html] [IOS在播放视频时，有可能会出现短暂的黑屏，如何解决呢？](https://github.com/haizlin/fe-interview/issues/1828)
     - [css] [如何将元素的所有css属性恢复为初始化状态？](https://github.com/haizlin/fe-interview/issues/1829)
@@ -17,7 +23,7 @@
     - [html] [iOS下页面如何启动加载时显示画面图片？如何设置大小？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1820)
     - [css] [css中的baseline，你知道吗？](https://github.com/haizlin/fe-interview/issues/1821)
     - [js] [pageshow和pageshide有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/1822)
-    - [软技能] [你知道什么是RSS订阅吗？说说它的原理是什么](https://github.com/haizlin/fe-interview/issues/1823)
+    - [软技能] [你知道什么是RSS订阅吗？说说它的原理是什么？](https://github.com/haizlin/fe-interview/issues/1823)
 
 - 第284天 (2020.01.25)
     - [html] [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
