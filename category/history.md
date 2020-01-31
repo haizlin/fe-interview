@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第290天 (2020.01.31)
+    - [html] [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)
+    - [css] [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)
+    - [js] [如何判断一个对象是否为空？](https://github.com/haizlin/fe-interview/issues/1842)
+    - [软技能] [举例说明你对前端自动化的理解 ](https://github.com/haizlin/fe-interview/issues/1843)
+
 - 第289天 (2020.01.30)
     - [html] [移动端如何实现长按保存图片（图片上的二维码是动态的）？](https://github.com/haizlin/fe-interview/issues/1836)
     - [css] [用CSS实现tab切换](https://github.com/haizlin/fe-interview/issues/1837)

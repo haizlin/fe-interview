@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.01.31) —— 第290天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)
-- [css] [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)
-- [js] [如何判断一个对象是否为空？](https://github.com/haizlin/fe-interview/issues/1842)
-- [软技能] [举例说明你对前端自动化的理解 ](https://github.com/haizlin/fe-interview/issues/1843)
+## 今天的知识点 (2020.02.01) —— 第291天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
+- [css] [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
+- [js] [js对象如何深比较？](https://github.com/haizlin/fe-interview/issues/1846)
+- [软技能] [常遇到的浏览器兼容性有哪些？你是怎样解决的？](https://github.com/haizlin/fe-interview/issues/1847)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第288天 (2020.01.29)
-    - [html] [你有了解video的x5-video-player-type这个属性吗？它的作用是什么呢？](https://github.com/haizlin/fe-interview/issues/1832)
-    - [css] [移动端1px像素的问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1833)
-    - [js] [用js封装一个前端分页的库，说说你的思路](https://github.com/haizlin/fe-interview/issues/1834)
-    - [软技能] [有IT行业的实际工作中，有哪些操作是属于违法的呢？](https://github.com/haizlin/fe-interview/issues/1835)
-
 - 第289天 (2020.01.30)
     - [html] [移动端如何实现长按保存图片（图片上的二维码是动态的）？](https://github.com/haizlin/fe-interview/issues/1836)
     - [css] [用CSS实现tab切换](https://github.com/haizlin/fe-interview/issues/1837)
     - [js] [说说你对postMessage的理解，它有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1838)
     - [软技能] [举例说明你对前端工程化的理解 ](https://github.com/haizlin/fe-interview/issues/1839)
+
+- 第290天 (2020.01.31)
+    - [html] [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)
+    - [css] [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)
+    - [js] [如何判断一个对象是否为空？](https://github.com/haizlin/fe-interview/issues/1842)
+    - [软技能] [举例说明你对前端自动化的理解 ](https://github.com/haizlin/fe-interview/issues/1843)
     
 - **[查看全部](category/history.md)**
 
