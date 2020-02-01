@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.02.01) —— 291 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
-- [css] [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
-- [js] [js对象如何深比较？](https://github.com/haizlin/fe-interview/issues/1846)
-- [skill] [常遇到的浏览器兼容性有哪些？你是怎样解决的？](https://github.com/haizlin/fe-interview/issues/1847)
+## Today's Knowledge Points (2020.02.02) —— 292 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [页面上的登录表单记住了密码（显示星号），但我又忘了密码，如何找回这个密码呢？](https://github.com/haizlin/fe-interview/issues/1848)
+- [css] [你知道字体所拥有的字重的数量和font-weight的数值字重是什么对应关系吗？](https://github.com/haizlin/fe-interview/issues/1849)
+- [js] [你觉得虚拟DOM快吗？还有没有比它还快的方式？](https://github.com/haizlin/fe-interview/issues/1850)
+- [skill] [你认为前端工程师真正的价值体现在哪里？](https://github.com/haizlin/fe-interview/issues/1851)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 289 days (2020.01.30)
-    - [html] [移动端如何实现长按保存图片（图片上的二维码是动态的）？](https://github.com/haizlin/fe-interview/issues/1836)
-    - [css] [用CSS实现tab切换](https://github.com/haizlin/fe-interview/issues/1837)
-    - [js] [说说你对postMessage的理解，它有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1838)
-    - [skill] [举例说明你对前端工程化的理解 ](https://github.com/haizlin/fe-interview/issues/1839)
-
 - 290 days (2020.01.31)
     - [html] [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)
     - [css] [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)
     - [js] [如何判断一个对象是否为空？](https://github.com/haizlin/fe-interview/issues/1842)
     - [skill] [举例说明你对前端自动化的理解 ](https://github.com/haizlin/fe-interview/issues/1843)
+
+- 291 days (2020.02.01)
+    - [html] [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
+    - [css] [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
+    - [js] [js对象如何深比较？](https://github.com/haizlin/fe-interview/issues/1846)
+    - [skill] [常遇到的浏览器兼容性有哪些？你是怎样解决的？](https://github.com/haizlin/fe-interview/issues/1847)
 
 - **[All](category/history.md)**
 

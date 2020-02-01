@@ -2,8 +2,16 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.26
+> 最新：2020.02.02
 
+## 软技能
+- [你认为前端工程师真正的价值体现在哪里？](https://github.com/haizlin/fe-interview/issues/1851)
+- [常遇到的浏览器兼容性有哪些？你是怎样解决的？](https://github.com/haizlin/fe-interview/issues/1847)
+- [举例说明你对前端自动化的理解 ](https://github.com/haizlin/fe-interview/issues/1843)
+- [举例说明你对前端工程化的理解 ](https://github.com/haizlin/fe-interview/issues/1839)
+- [有IT行业的实际工作中，有哪些操作是属于违法的呢？](https://github.com/haizlin/fe-interview/issues/1835)
+- [你知道Nginx吗，知道如何利用Nginx反向代理吗？](https://github.com/haizlin/fe-interview/issues/1831)
+- [用户在浏览器中禁用了js脚本时该怎么办？](https://github.com/haizlin/fe-interview/issues/1827)
 - [你知道什么是RSS订阅吗？说说它的原理是什么](https://github.com/haizlin/fe-interview/issues/1823)
 - [做表单验证时主要是验证哪些内容呢？](https://github.com/haizlin/fe-interview/issues/1819)
 - [说说你对相对路径和绝对路径的理解](https://github.com/haizlin/fe-interview/issues/1815)

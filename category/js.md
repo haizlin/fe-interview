@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.26
+> 最新：2020.02.02
 
+- [你觉得虚拟DOM快吗？还有没有比它还快的方式？](https://github.com/haizlin/fe-interview/issues/1850)
+- [js对象如何深比较？](https://github.com/haizlin/fe-interview/issues/1846)
+- [如何判断一个对象是否为空？](https://github.com/haizlin/fe-interview/issues/1842)
+- [说说你对postMessage的理解，它有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1838)
+- [用js封装一个前端分页的库，说说你的思路](https://github.com/haizlin/fe-interview/issues/1834)
+- [写一个汉字与Unicode码的互转的方法](https://github.com/haizlin/fe-interview/issues/1830)
+- [列举下获取指定日期的毫秒数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1826)
 - [pageshow和pageshide有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/1822)
 - [写一个方法监听某个div滚动](https://github.com/haizlin/fe-interview/issues/1818)
 - [有了解过`getSelection`API吗？怎么使用，有哪些场景？](https://github.com/haizlin/fe-interview/issues/1814)

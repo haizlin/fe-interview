@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第291天 (2020.02.01)
+    - [html] [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
+    - [css] [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
+    - [js] [js对象如何深比较？](https://github.com/haizlin/fe-interview/issues/1846)
+    - [软技能] [常遇到的浏览器兼容性有哪些？你是怎样解决的？](https://github.com/haizlin/fe-interview/issues/1847)
+
 - 第290天 (2020.01.31)
     - [html] [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)
     - [css] [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)

@@ -1,4 +1,4 @@
-# 周汇总 2020.01.26
+# 周汇总 2020.02.02
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [iOS下页面如何启动加载时显示画面图片？如何设置大小？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1820)
-- [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
-- [解释下什么是CDATA？](https://github.com/haizlin/fe-interview/issues/1812)
-- [写html代码时，如果缺少了结束标签，你如何检测及如何预防？](https://github.com/haizlin/fe-interview/issues/1808)
-- [写个布局，当页面高度不够时，底部固定在下面，反之不固定](https://github.com/haizlin/fe-interview/issues/1804)
-- [使用递归时应该注意哪些问题？](https://github.com/haizlin/fe-interview/issues/1800)
-- [canvas有哪些渲染上下文？](https://github.com/haizlin/fe-interview/issues/1796)
+- [页面上的登录表单记住了密码（显示星号），但我又忘了密码，如何找回这个密码呢？](https://github.com/haizlin/fe-interview/issues/1848)
+- [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
+- [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)
+- [移动端如何实现长按保存图片（图片上的二维码是动态的）？](https://github.com/haizlin/fe-interview/issues/1836)
+- [你有了解video的x5-video-player-type这个属性吗？它的作用是什么呢？](https://github.com/haizlin/fe-interview/issues/1832)
+- [IOS在播放视频时，有可能会出现短暂的黑屏，如何解决呢？](https://github.com/haizlin/fe-interview/issues/1828)
+- [移动端如何使页面横、竖屏？](https://github.com/haizlin/fe-interview/issues/1824)
 
 ## css
-- [css中的baseline，你知道吗？](https://github.com/haizlin/fe-interview/issues/1821)
-- [你知道什么是动态伪类吗？](https://github.com/haizlin/fe-interview/issues/1817)
-- [使用css3绘制一个QQ小企鹅的LOGO](https://github.com/haizlin/fe-interview/issues/1813)
-- [使用css3画一个扇形](https://github.com/haizlin/fe-interview/issues/1809)
-- [请使用css3来模拟中/英文打字的效果](https://github.com/haizlin/fe-interview/issues/1805)
-- [使用css3绘制一个圆形动态的时钟](https://github.com/haizlin/fe-interview/issues/1801)
-- [使用css将图片转换成黑白的效果](https://github.com/haizlin/fe-interview/issues/1797)
+- [你知道字体所拥有的字重的数量和font-weight的数值字重是什么对应关系吗？](https://github.com/haizlin/fe-interview/issues/1849)
+- [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
+- [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)
+- [用CSS实现tab切换](https://github.com/haizlin/fe-interview/issues/1837)
+- [移动端1px像素的问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1833)
+- [如何将元素的所有css属性恢复为初始化状态？](https://github.com/haizlin/fe-interview/issues/1829)
+- [使用纯css实现一个rate评分的功能](https://github.com/haizlin/fe-interview/issues/1825)
 
 ## js
-- [pageshow和pageshide有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/1822)
-- [写一个方法监听某个div滚动](https://github.com/haizlin/fe-interview/issues/1818)
-- [有了解过`getSelection`API吗？怎么使用，有哪些场景？](https://github.com/haizlin/fe-interview/issues/1814)
-- [使用js写一个时钟的程序](https://github.com/haizlin/fe-interview/issues/1810)
-- [写一个任意进制转换的程序](https://github.com/haizlin/fe-interview/issues/1806)
-- [使用js写一个计算字符串的字节数的方法](https://github.com/haizlin/fe-interview/issues/1802)
-- [用代码实现游戏应用中连续按键触发必杀技的监测方法](https://github.com/haizlin/fe-interview/issues/1798)
+- [你觉得虚拟DOM快吗？还有没有比它还快的方式？](https://github.com/haizlin/fe-interview/issues/1850)
+- [js对象如何深比较？](https://github.com/haizlin/fe-interview/issues/1846)
+- [如何判断一个对象是否为空？](https://github.com/haizlin/fe-interview/issues/1842)
+- [说说你对postMessage的理解，它有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1838)
+- [用js封装一个前端分页的库，说说你的思路](https://github.com/haizlin/fe-interview/issues/1834)
+- [写一个汉字与Unicode码的互转的方法](https://github.com/haizlin/fe-interview/issues/1830)
+- [列举下获取指定日期的毫秒数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1826)
 
 ## 软技能
-- [你知道什么是RSS订阅吗？说说它的原理是什么](https://github.com/haizlin/fe-interview/issues/1823)
-- [做表单验证时主要是验证哪些内容呢？](https://github.com/haizlin/fe-interview/issues/1819)
-- [说说你对相对路径和绝对路径的理解](https://github.com/haizlin/fe-interview/issues/1815)
-- [请描述处TCP的三次握手和四次挥手](https://github.com/haizlin/fe-interview/issues/1811)
-- [当网站遇到性能问题时，你是如何一步步解决的？说说你的方法](https://github.com/haizlin/fe-interview/issues/1807)
-- [请说说协商缓存和强缓存的区别？](https://github.com/haizlin/fe-interview/issues/1803)
-- [HTTP的请求头有什么作用？它的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/1799)
+- [你认为前端工程师真正的价值体现在哪里？](https://github.com/haizlin/fe-interview/issues/1851)
+- [常遇到的浏览器兼容性有哪些？你是怎样解决的？](https://github.com/haizlin/fe-interview/issues/1847)
+- [举例说明你对前端自动化的理解 ](https://github.com/haizlin/fe-interview/issues/1843)
+- [举例说明你对前端工程化的理解 ](https://github.com/haizlin/fe-interview/issues/1839)
+- [有IT行业的实际工作中，有哪些操作是属于违法的呢？](https://github.com/haizlin/fe-interview/issues/1835)
+- [你知道Nginx吗，知道如何利用Nginx反向代理吗？](https://github.com/haizlin/fe-interview/issues/1831)
+- [用户在浏览器中禁用了js脚本时该怎么办？](https://github.com/haizlin/fe-interview/issues/1827)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

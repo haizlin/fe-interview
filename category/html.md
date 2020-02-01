@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.26
+> 最新：2020.02.02
 
+- [页面上的登录表单记住了密码（显示星号），但我又忘了密码，如何找回这个密码呢？](https://github.com/haizlin/fe-interview/issues/1848)
+- [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
+- [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)
+- [移动端如何实现长按保存图片（图片上的二维码是动态的）？](https://github.com/haizlin/fe-interview/issues/1836)
+- [你有了解video的x5-video-player-type这个属性吗？它的作用是什么呢？](https://github.com/haizlin/fe-interview/issues/1832)
+- [IOS在播放视频时，有可能会出现短暂的黑屏，如何解决呢？](https://github.com/haizlin/fe-interview/issues/1828)
+- [移动端如何使页面横、竖屏？](https://github.com/haizlin/fe-interview/issues/1824)
 - [iOS下页面如何启动加载时显示画面图片？如何设置大小？它有什么好处？](https://github.com/haizlin/fe-interview/issues/1820)
 - [移动端如何设置页面以全屏模式运行？](https://github.com/haizlin/fe-interview/issues/1816)
 - [解释下什么是CDATA？](https://github.com/haizlin/fe-interview/issues/1812)

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.01.26
+> 最新：2020.02.02
 
+- [你知道字体所拥有的字重的数量和font-weight的数值字重是什么对应关系吗？](https://github.com/haizlin/fe-interview/issues/1849)
+- [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
+- [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)
+- [用CSS实现tab切换](https://github.com/haizlin/fe-interview/issues/1837)
+- [移动端1px像素的问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1833)
+- [如何将元素的所有css属性恢复为初始化状态？](https://github.com/haizlin/fe-interview/issues/1829)
+- [使用纯css实现一个rate评分的功能](https://github.com/haizlin/fe-interview/issues/1825)
 - [css中的baseline，你知道吗？](https://github.com/haizlin/fe-interview/issues/1821)
 - [你知道什么是动态伪类吗？](https://github.com/haizlin/fe-interview/issues/1817)
 - [使用css3绘制一个QQ小企鹅的LOGO](https://github.com/haizlin/fe-interview/issues/1813)
