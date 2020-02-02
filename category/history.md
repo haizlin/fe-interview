@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第292天 (2020.02.02)
+    - [html] [页面上的登录表单记住了密码（显示星号），但我又忘了密码，如何找回这个密码呢？](https://github.com/haizlin/fe-interview/issues/1848)
+    - [css] [你知道字体所拥有的字重的数量和font-weight的数值字重是什么对应关系吗？](https://github.com/haizlin/fe-interview/issues/1849)
+    - [js] [你觉得虚拟DOM快吗？还有没有比它还快的方式？](https://github.com/haizlin/fe-interview/issues/1850)
+    - [软技能] [你认为前端工程师真正的价值体现在哪里？](https://github.com/haizlin/fe-interview/issues/1851)
+
 - 第291天 (2020.02.01)
     - [html] [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
     - [css] [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
