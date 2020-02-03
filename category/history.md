@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第293天 (2020.02.03)
+    - [html] [img中的src加载失败时如何用默认图片来替换呢？](https://github.com/haizlin/fe-interview/issues/1852)
+    - [css] [举例说明跟字体相关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1853)
+    - [js] [阅读下面关于setTimeout和Promise的代码，判断结果会输出什么？为什么？](https://github.com/haizlin/fe-interview/issues/1854)
+    - [软技能] [请解释下Expires和Cache-Control有什么区别？](https://github.com/haizlin/fe-interview/issues/1855)
+
 - 第292天 (2020.02.02)
     - [html] [页面上的登录表单记住了密码（显示星号），但我又忘了密码，如何找回这个密码呢？](https://github.com/haizlin/fe-interview/issues/1848)
     - [css] [你知道字体所拥有的字重的数量和font-weight的数值字重是什么对应关系吗？](https://github.com/haizlin/fe-interview/issues/1849)

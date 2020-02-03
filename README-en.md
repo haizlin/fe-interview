@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.02.03) —— 293 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [img中的src加载失败时如何用默认图片来替换呢？](https://github.com/haizlin/fe-interview/issues/1852)
-- [css] [举例说明跟字体相关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1853)
-- [js] [阅读下面关于setTimeout和Promise的代码，判断结果会输出什么？为什么？](https://github.com/haizlin/fe-interview/issues/1854)
-- [skill] [请解释下Expires和Cache-Control有什么区别？](https://github.com/haizlin/fe-interview/issues/1855)
+## Today's Knowledge Points (2020.02.04) —— 294 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [怎样去除iOS和Android中的输入URL地址的控件条呢？](https://github.com/haizlin/fe-interview/issues/1856)
+- [css] [你所理解的css高级技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1857)
+- [js] [js如何检测当前页面是否以全屏模式显示？](https://github.com/haizlin/fe-interview/issues/1858)
+- [skill] [ETag有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1859)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 291 days (2020.02.01)
-    - [html] [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
-    - [css] [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
-    - [js] [js对象如何深比较？](https://github.com/haizlin/fe-interview/issues/1846)
-    - [skill] [常遇到的浏览器兼容性有哪些？你是怎样解决的？](https://github.com/haizlin/fe-interview/issues/1847)
-
 - 292 days (2020.02.02)
     - [html] [页面上的登录表单记住了密码（显示星号），但我又忘了密码，如何找回这个密码呢？](https://github.com/haizlin/fe-interview/issues/1848)
     - [css] [你知道字体所拥有的字重的数量和font-weight的数值字重是什么对应关系吗？](https://github.com/haizlin/fe-interview/issues/1849)
     - [js] [你觉得虚拟DOM快吗？还有没有比它还快的方式？](https://github.com/haizlin/fe-interview/issues/1850)
     - [skill] [你认为前端工程师真正的价值体现在哪里？](https://github.com/haizlin/fe-interview/issues/1851)
+
+- 293 days (2020.02.03)
+    - [html] [img中的src加载失败时如何用默认图片来替换呢？](https://github.com/haizlin/fe-interview/issues/1852)
+    - [css] [举例说明跟字体相关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1853)
+    - [js] [阅读下面关于setTimeout和Promise的代码，判断结果会输出什么？为什么？](https://github.com/haizlin/fe-interview/issues/1854)
+    - [skill] [请解释下Expires和Cache-Control有什么区别？](https://github.com/haizlin/fe-interview/issues/1855)
 
 - **[All](category/history.md)**
 
