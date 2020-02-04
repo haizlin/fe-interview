@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第294天 (2020.02.04)
+    - [html] [怎样去除iOS和Android中的输入URL地址的控件条呢？](https://github.com/haizlin/fe-interview/issues/1856)
+    - [css] [你所理解的css高级技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1857)
+    - [js] [js如何检测当前页面是否以全屏模式显示？](https://github.com/haizlin/fe-interview/issues/1858)
+    - [软技能] [ETag有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1859)
+
 - 第293天 (2020.02.03)
     - [html] [img中的src加载失败时如何用默认图片来替换呢？](https://github.com/haizlin/fe-interview/issues/1852)
     - [css] [举例说明跟字体相关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1853)

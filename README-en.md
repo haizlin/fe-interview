@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.02.04) —— 294 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [怎样去除iOS和Android中的输入URL地址的控件条呢？](https://github.com/haizlin/fe-interview/issues/1856)
-- [css] [你所理解的css高级技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1857)
-- [js] [js如何检测当前页面是否以全屏模式显示？](https://github.com/haizlin/fe-interview/issues/1858)
-- [skill] [ETag有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1859)
+## Today's Knowledge Points (2020.02.05) —— 295 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [HTML5中的article和section有什么区别？](https://github.com/haizlin/fe-interview/issues/1860)
+- [css] [body{height:100%}和html,body{height:100%}有什么区别？为什么html要设置height:100%呢，html不就是整个窗口吗？](https://github.com/haizlin/fe-interview/issues/1861)
+- [js] [写一个方法，实现使用canvas播放视频？](https://github.com/haizlin/fe-interview/issues/1862)
+- [skill] [说说栈和队列的区别是什么？](https://github.com/haizlin/fe-interview/issues/1863)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 292 days (2020.02.02)
-    - [html] [页面上的登录表单记住了密码（显示星号），但我又忘了密码，如何找回这个密码呢？](https://github.com/haizlin/fe-interview/issues/1848)
-    - [css] [你知道字体所拥有的字重的数量和font-weight的数值字重是什么对应关系吗？](https://github.com/haizlin/fe-interview/issues/1849)
-    - [js] [你觉得虚拟DOM快吗？还有没有比它还快的方式？](https://github.com/haizlin/fe-interview/issues/1850)
-    - [skill] [你认为前端工程师真正的价值体现在哪里？](https://github.com/haizlin/fe-interview/issues/1851)
-
 - 293 days (2020.02.03)
     - [html] [img中的src加载失败时如何用默认图片来替换呢？](https://github.com/haizlin/fe-interview/issues/1852)
     - [css] [举例说明跟字体相关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1853)
     - [js] [阅读下面关于setTimeout和Promise的代码，判断结果会输出什么？为什么？](https://github.com/haizlin/fe-interview/issues/1854)
     - [skill] [请解释下Expires和Cache-Control有什么区别？](https://github.com/haizlin/fe-interview/issues/1855)
+
+- 294 days (2020.02.04)
+    - [html] [怎样去除iOS和Android中的输入URL地址的控件条呢？](https://github.com/haizlin/fe-interview/issues/1856)
+    - [css] [你所理解的css高级技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1857)
+    - [js] [js如何检测当前页面是否以全屏模式显示？](https://github.com/haizlin/fe-interview/issues/1858)
+    - [skill] [ETag有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1859)
 
 - **[All](category/history.md)**
 
