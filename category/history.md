@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第295天 (2020.02.05)
+    - [html] [HTML5中的article和section有什么区别？](https://github.com/haizlin/fe-interview/issues/1860)
+    - [css] [body{height:100%}和html,body{height:100%}有什么区别？为什么html要设置height:100%呢，html不就是整个窗口吗？](https://github.com/haizlin/fe-interview/issues/1861)
+    - [js] [写一个方法，实现使用canvas播放视频？](https://github.com/haizlin/fe-interview/issues/1862)
+    - [软技能] [说说栈和队列的区别是什么？](https://github.com/haizlin/fe-interview/issues/1863)
+
 - 第294天 (2020.02.04)
     - [html] [怎样去除iOS和Android中的输入URL地址的控件条呢？](https://github.com/haizlin/fe-interview/issues/1856)
     - [css] [你所理解的css高级技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1857)
