@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第296天 (2020.02.06)
+    - [html] [html标签的属性值是否可以省略引号？为什么？](https://github.com/haizlin/fe-interview/issues/1864)
+    - [css] [你有使用过font-size-adjust属性吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1865)
+    - [js] [setTimeout和setInterval有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1866)
+    - [软技能] [请问ie和chrome可以并行下载多少个资源？](https://github.com/haizlin/fe-interview/issues/1867)
+
 - 第295天 (2020.02.05)
     - [html] [HTML5中的article和section有什么区别？](https://github.com/haizlin/fe-interview/issues/1860)
     - [css] [body{height:100%}和html,body{height:100%}有什么区别？为什么html要设置height:100%呢，html不就是整个窗口吗？](https://github.com/haizlin/fe-interview/issues/1861)

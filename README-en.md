@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.02.06) —— 296 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [html标签的属性值是否可以省略引号？为什么？](https://github.com/haizlin/fe-interview/issues/1864)
-- [css] [你有使用过font-size-adjust属性吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1865)
-- [js] [setTimeout和setInterval有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1866)
-- [skill] [请问ie和chrome可以并行下载多少个资源？](https://github.com/haizlin/fe-interview/issues/1867)
+## Today's Knowledge Points (2020.02.07) —— 297 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明实现文字贯穿线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1868)
+- [css] [当使用@font-face的时候，为什么src中要加入local呢？](https://github.com/haizlin/fe-interview/issues/1869)
+- [js] [axios如何一次发送多个并发请求？](https://github.com/haizlin/fe-interview/issues/1870)
+- [skill] [说说你对前端架构师职位的理解，你觉得前端架构师应具备什么样的技能呢？](https://github.com/haizlin/fe-interview/issues/1871)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 294 days (2020.02.04)
-    - [html] [怎样去除iOS和Android中的输入URL地址的控件条呢？](https://github.com/haizlin/fe-interview/issues/1856)
-    - [css] [你所理解的css高级技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1857)
-    - [js] [js如何检测当前页面是否以全屏模式显示？](https://github.com/haizlin/fe-interview/issues/1858)
-    - [skill] [ETag有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1859)
-
 - 295 days (2020.02.05)
     - [html] [HTML5中的article和section有什么区别？](https://github.com/haizlin/fe-interview/issues/1860)
     - [css] [body{height:100%}和html,body{height:100%}有什么区别？为什么html要设置height:100%呢，html不就是整个窗口吗？](https://github.com/haizlin/fe-interview/issues/1861)
     - [js] [写一个方法，实现使用canvas播放视频？](https://github.com/haizlin/fe-interview/issues/1862)
     - [skill] [说说栈和队列的区别是什么？](https://github.com/haizlin/fe-interview/issues/1863)
+
+- 296 days (2020.02.06)
+    - [html] [html标签的属性值是否可以省略引号？为什么？](https://github.com/haizlin/fe-interview/issues/1864)
+    - [css] [你有使用过font-size-adjust属性吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1865)
+    - [js] [setTimeout和setInterval有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1866)
+    - [skill] [请问ie和chrome可以并行下载多少个资源？](https://github.com/haizlin/fe-interview/issues/1867)
 
 - **[All](category/history.md)**
 
