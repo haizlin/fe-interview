@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第297天 (2020.02.07)
+    - [html] [举例说明实现文字贯穿线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1868)
+    - [css] [当使用@font-face的时候，为什么src中要加入local呢？](https://github.com/haizlin/fe-interview/issues/1869)
+    - [js] [axios如何一次发送多个并发请求？](https://github.com/haizlin/fe-interview/issues/1870)
+    - [软技能] [说说你对前端架构师职位的理解，你觉得前端架构师应具备什么样的技能呢？](https://github.com/haizlin/fe-interview/issues/1871)
+
 - 第296天 (2020.02.06)
     - [html] [html标签的属性值是否可以省略引号？为什么？](https://github.com/haizlin/fe-interview/issues/1864)
     - [css] [你有使用过font-size-adjust属性吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1865)

@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.02.07) —— 第297天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [举例说明实现文字贯穿线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1868)
-- [css] [当使用@font-face的时候，为什么src中要加入local呢？](https://github.com/haizlin/fe-interview/issues/1869)
-- [js] [axios如何一次发送多个并发请求？](https://github.com/haizlin/fe-interview/issues/1870)
-- [软技能] [说说你对前端架构师职位的理解，你觉得前端架构师应具备什么样的技能呢？](https://github.com/haizlin/fe-interview/issues/1871)
+## 今天的知识点 (2020.02.08) —— 第298天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何在桌面上生成网站的快捷方式图标？](https://github.com/haizlin/fe-interview/issues/1872)
+- [css] [如何解决css加载字体跨域的问题？](https://github.com/haizlin/fe-interview/issues/1873)
+- [js] [这两种展开运算符的方式有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1874)
+- [软技能] [git pull和git fetch有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1875)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第295天 (2020.02.05)
-    - [html] [HTML5中的article和section有什么区别？](https://github.com/haizlin/fe-interview/issues/1860)
-    - [css] [body{height:100%}和html,body{height:100%}有什么区别？为什么html要设置height:100%呢，html不就是整个窗口吗？](https://github.com/haizlin/fe-interview/issues/1861)
-    - [js] [写一个方法，实现使用canvas播放视频？](https://github.com/haizlin/fe-interview/issues/1862)
-    - [软技能] [说说栈和队列的区别是什么？](https://github.com/haizlin/fe-interview/issues/1863)
-
 - 第296天 (2020.02.06)
     - [html] [html标签的属性值是否可以省略引号？为什么？](https://github.com/haizlin/fe-interview/issues/1864)
     - [css] [你有使用过font-size-adjust属性吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1865)
     - [js] [setTimeout和setInterval有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1866)
     - [软技能] [请问ie和chrome可以并行下载多少个资源？](https://github.com/haizlin/fe-interview/issues/1867)
+
+- 第297天 (2020.02.07)
+    - [html] [举例说明实现文字贯穿线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1868)
+    - [css] [当使用@font-face的时候，为什么src中要加入local呢？](https://github.com/haizlin/fe-interview/issues/1869)
+    - [js] [axios如何一次发送多个并发请求？](https://github.com/haizlin/fe-interview/issues/1870)
+    - [软技能] [说说你对前端架构师职位的理解，你觉得前端架构师应具备什么样的技能呢？](https://github.com/haizlin/fe-interview/issues/1871)
     
 - **[查看全部](category/history.md)**
 
