@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.02
+> 最新：2020.02.09
 
+- [如何在页面上显示Emoji表情？](https://github.com/haizlin/fe-interview/issues/1876)
+- [如何在桌面上生成网站的快捷方式图标？](https://github.com/haizlin/fe-interview/issues/1872)
+- [举例说明实现文字贯穿线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1868)
+- [html标签的属性值是否可以省略引号？为什么？](https://github.com/haizlin/fe-interview/issues/1864)
+- [HTML5中的article和section有什么区别？](https://github.com/haizlin/fe-interview/issues/1860)
+- [怎样去除iOS和Android中的输入URL地址的控件条呢？](https://github.com/haizlin/fe-interview/issues/1856)
+- [img中的src加载失败时如何用默认图片来替换呢？](https://github.com/haizlin/fe-interview/issues/1852)
 - [页面上的登录表单记住了密码（显示星号），但我又忘了密码，如何找回这个密码呢？](https://github.com/haizlin/fe-interview/issues/1848)
 - [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
 - [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)

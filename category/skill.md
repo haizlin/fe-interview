@@ -2,9 +2,17 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.02
+> 最新：2020.02.09
 
 ## 软技能
+
+- [说说你对304缓存的理解](https://github.com/haizlin/fe-interview/issues/1879)
+- [git pull和git fetch有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1875)
+- [说说你对前端架构师职位的理解，你觉得前端架构师应具备什么样的技能呢？](https://github.com/haizlin/fe-interview/issues/1871)
+- [请问ie和chrome可以并行下载多少个资源？](https://github.com/haizlin/fe-interview/issues/1867)
+- [说说栈和队列的区别是什么？](https://github.com/haizlin/fe-interview/issues/1863)
+- [ETag有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1859)
+- [请解释下Expires和Cache-Control有什么区别？](https://github.com/haizlin/fe-interview/issues/1855)
 - [你认为前端工程师真正的价值体现在哪里？](https://github.com/haizlin/fe-interview/issues/1851)
 - [常遇到的浏览器兼容性有哪些？你是怎样解决的？](https://github.com/haizlin/fe-interview/issues/1847)
 - [举例说明你对前端自动化的理解 ](https://github.com/haizlin/fe-interview/issues/1843)

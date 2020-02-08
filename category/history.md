@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第298天 (2020.02.08)
+    - [html] [如何在桌面上生成网站的快捷方式图标？](https://github.com/haizlin/fe-interview/issues/1872)
+    - [css] [如何解决css加载字体跨域的问题？](https://github.com/haizlin/fe-interview/issues/1873)
+    - [js] [这两种展开运算符的方式有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1874)
+    - [软技能] [git pull和git fetch有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1875)
+
 - 第297天 (2020.02.07)
     - [html] [举例说明实现文字贯穿线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1868)
     - [css] [当使用@font-face的时候，为什么src中要加入local呢？](https://github.com/haizlin/fe-interview/issues/1869)

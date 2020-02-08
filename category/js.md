@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.02
+> 最新：2020.02.09
 
+- [根据下面代码：说出执行结果，并解释为何是会是这样的结果？[代码]](https://github.com/haizlin/fe-interview/issues/1878)
+- [这两种展开运算符的方式有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1874)
+- [axios如何一次发送多个并发请求？](https://github.com/haizlin/fe-interview/issues/1870)
+- [setTimeout和setInterval有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1866)
+- [写一个方法，实现使用canvas播放视频？](https://github.com/haizlin/fe-interview/issues/1862)
+- [js如何检测当前页面是否以全屏模式显示？](https://github.com/haizlin/fe-interview/issues/1858)
+- [阅读下面关于setTimeout和Promise的代码，判断结果会输出什么？为什么？](https://github.com/haizlin/fe-interview/issues/1854)
 - [你觉得虚拟DOM快吗？还有没有比它还快的方式？](https://github.com/haizlin/fe-interview/issues/1850)
 - [js对象如何深比较？](https://github.com/haizlin/fe-interview/issues/1846)
 - [如何判断一个对象是否为空？](https://github.com/haizlin/fe-interview/issues/1842)

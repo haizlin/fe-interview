@@ -1,4 +1,4 @@
-# 周汇总 2020.02.02
+# 周汇总 2020.02.09
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [页面上的登录表单记住了密码（显示星号），但我又忘了密码，如何找回这个密码呢？](https://github.com/haizlin/fe-interview/issues/1848)
-- [举例说明写一个button的按钮的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1844)
-- [你知道微信端的浏览器内核是什么吗？](https://github.com/haizlin/fe-interview/issues/1840)
-- [移动端如何实现长按保存图片（图片上的二维码是动态的）？](https://github.com/haizlin/fe-interview/issues/1836)
-- [你有了解video的x5-video-player-type这个属性吗？它的作用是什么呢？](https://github.com/haizlin/fe-interview/issues/1832)
-- [IOS在播放视频时，有可能会出现短暂的黑屏，如何解决呢？](https://github.com/haizlin/fe-interview/issues/1828)
-- [移动端如何使页面横、竖屏？](https://github.com/haizlin/fe-interview/issues/1824)
+- [如何在页面上显示Emoji表情？](https://github.com/haizlin/fe-interview/issues/1876)
+- [如何在桌面上生成网站的快捷方式图标？](https://github.com/haizlin/fe-interview/issues/1872)
+- [举例说明实现文字贯穿线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1868)
+- [html标签的属性值是否可以省略引号？为什么？](https://github.com/haizlin/fe-interview/issues/1864)
+- [HTML5中的article和section有什么区别？](https://github.com/haizlin/fe-interview/issues/1860)
+- [怎样去除iOS和Android中的输入URL地址的控件条呢？](https://github.com/haizlin/fe-interview/issues/1856)
+- [img中的src加载失败时如何用默认图片来替换呢？](https://github.com/haizlin/fe-interview/issues/1852)
 
 ## css
-- [你知道字体所拥有的字重的数量和font-weight的数值字重是什么对应关系吗？](https://github.com/haizlin/fe-interview/issues/1849)
-- [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
-- [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)
-- [用CSS实现tab切换](https://github.com/haizlin/fe-interview/issues/1837)
-- [移动端1px像素的问题及解决方案是什么？](https://github.com/haizlin/fe-interview/issues/1833)
-- [如何将元素的所有css属性恢复为初始化状态？](https://github.com/haizlin/fe-interview/issues/1829)
-- [使用纯css实现一个rate评分的功能](https://github.com/haizlin/fe-interview/issues/1825)
+- [说下你对css样式的这几个属性值initial、inherit、unset、revert的理解](https://github.com/haizlin/fe-interview/issues/1877)
+- [如何解决css加载字体跨域的问题？](https://github.com/haizlin/fe-interview/issues/1873)
+- [当使用@font-face的时候，为什么src中要加入local呢？](https://github.com/haizlin/fe-interview/issues/1869)
+- [你有使用过font-size-adjust属性吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1865)
+- [body{height:100%}和html,body{height:100%}有什么区别？为什么html要设置height:100%呢，html不就是整个窗口吗？](https://github.com/haizlin/fe-interview/issues/1861)
+- [你所理解的css高级技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1857)
+- [举例说明跟字体相关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1853)
 
 ## js
-- [你觉得虚拟DOM快吗？还有没有比它还快的方式？](https://github.com/haizlin/fe-interview/issues/1850)
-- [js对象如何深比较？](https://github.com/haizlin/fe-interview/issues/1846)
-- [如何判断一个对象是否为空？](https://github.com/haizlin/fe-interview/issues/1842)
-- [说说你对postMessage的理解，它有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1838)
-- [用js封装一个前端分页的库，说说你的思路](https://github.com/haizlin/fe-interview/issues/1834)
-- [写一个汉字与Unicode码的互转的方法](https://github.com/haizlin/fe-interview/issues/1830)
-- [列举下获取指定日期的毫秒数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1826)
+- [根据下面代码：说出执行结果，并解释为何是会是这样的结果？[代码]](https://github.com/haizlin/fe-interview/issues/1878)
+- [这两种展开运算符的方式有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1874)
+- [axios如何一次发送多个并发请求？](https://github.com/haizlin/fe-interview/issues/1870)
+- [setTimeout和setInterval有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1866)
+- [写一个方法，实现使用canvas播放视频？](https://github.com/haizlin/fe-interview/issues/1862)
+- [js如何检测当前页面是否以全屏模式显示？](https://github.com/haizlin/fe-interview/issues/1858)
+- [阅读下面关于setTimeout和Promise的代码，判断结果会输出什么？为什么？](https://github.com/haizlin/fe-interview/issues/1854)
 
 ## 软技能
-- [你认为前端工程师真正的价值体现在哪里？](https://github.com/haizlin/fe-interview/issues/1851)
-- [常遇到的浏览器兼容性有哪些？你是怎样解决的？](https://github.com/haizlin/fe-interview/issues/1847)
-- [举例说明你对前端自动化的理解 ](https://github.com/haizlin/fe-interview/issues/1843)
-- [举例说明你对前端工程化的理解 ](https://github.com/haizlin/fe-interview/issues/1839)
-- [有IT行业的实际工作中，有哪些操作是属于违法的呢？](https://github.com/haizlin/fe-interview/issues/1835)
-- [你知道Nginx吗，知道如何利用Nginx反向代理吗？](https://github.com/haizlin/fe-interview/issues/1831)
-- [用户在浏览器中禁用了js脚本时该怎么办？](https://github.com/haizlin/fe-interview/issues/1827)
+- [说说你对304缓存的理解](https://github.com/haizlin/fe-interview/issues/1879)
+- [git pull和git fetch有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1875)
+- [说说你对前端架构师职位的理解，你觉得前端架构师应具备什么样的技能呢？](https://github.com/haizlin/fe-interview/issues/1871)
+- [请问ie和chrome可以并行下载多少个资源？](https://github.com/haizlin/fe-interview/issues/1867)
+- [说说栈和队列的区别是什么？](https://github.com/haizlin/fe-interview/issues/1863)
+- [ETag有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1859)
+- [请解释下Expires和Cache-Control有什么区别？](https://github.com/haizlin/fe-interview/issues/1855)
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

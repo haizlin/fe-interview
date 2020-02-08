@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.02
+> 最新：2020.02.09
 
+- [说下你对css样式的这几个属性值initial、inherit、unset、revert的理解](https://github.com/haizlin/fe-interview/issues/1877)
+- [如何解决css加载字体跨域的问题？](https://github.com/haizlin/fe-interview/issues/1873)
+- [当使用@font-face的时候，为什么src中要加入local呢？](https://github.com/haizlin/fe-interview/issues/1869)
+- [你有使用过font-size-adjust属性吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1865)
+- [body{height:100%}和html,body{height:100%}有什么区别？为什么html要设置height:100%呢，html不就是整个窗口吗？](https://github.com/haizlin/fe-interview/issues/1861)
+- [你所理解的css高级技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1857)
+- [举例说明跟字体相关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1853)
 - [你知道字体所拥有的字重的数量和font-weight的数值字重是什么对应关系吗？](https://github.com/haizlin/fe-interview/issues/1849)
 - [字体的粗细的属性是用哪一个？它有哪些属性值？](https://github.com/haizlin/fe-interview/issues/1845)
 - [用CSS实现一个轮播图](https://github.com/haizlin/fe-interview/issues/1841)
