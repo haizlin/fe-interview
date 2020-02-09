@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第299天 (2020.02.09)
+    - [html] [如何在页面上显示Emoji表情？](https://github.com/haizlin/fe-interview/issues/1876)
+    - [css] [说下你对css样式的这几个属性值initial、inherit、unset、revert的理解](https://github.com/haizlin/fe-interview/issues/1877)
+    - [js] [根据下面代码：说出执行结果，并解释为何是会是这样的结果？[代码]](https://github.com/haizlin/fe-interview/issues/1878)
+    - [软技能] [说说你对304缓存的理解](https://github.com/haizlin/fe-interview/issues/1879)
+
 - 第298天 (2020.02.08)
     - [html] [如何在桌面上生成网站的快捷方式图标？](https://github.com/haizlin/fe-interview/issues/1872)
     - [css] [如何解决css加载字体跨域的问题？](https://github.com/haizlin/fe-interview/issues/1873)
