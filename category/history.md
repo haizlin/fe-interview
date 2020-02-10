@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第300天 (2020.02.10)
+    - [html] [html5应该注意哪些安全的问题？](https://github.com/haizlin/fe-interview/issues/1880)
+    - [css] [如何取消从父级元素继承下来的CSS样式呢？](https://github.com/haizlin/fe-interview/issues/1881)
+    - [js] [axios为什么能在浏览器中环境运行又能在node中环境运行？](https://github.com/haizlin/fe-interview/issues/1882)
+    - [软技能] [OSI七层模型指的是哪七层？](https://github.com/haizlin/fe-interview/issues/1883)
+
 - 第299天 (2020.02.09)
     - [html] [如何在页面上显示Emoji表情？](https://github.com/haizlin/fe-interview/issues/1876)
     - [css] [说下你对css样式的这几个属性值initial、inherit、unset、revert的理解](https://github.com/haizlin/fe-interview/issues/1877)
