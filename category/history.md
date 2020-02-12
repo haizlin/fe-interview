@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第302天 (2020.02.12)
+    - [html] [a标签可以再嵌套a标签吗？为什么？如果不行，那又想要嵌套效果怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1895)
+    - [css] [css的height:100%和height:inherit之间有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1896)
+    - [js] [写一个方法删除字符串中所有相邻重复的项](https://github.com/haizlin/fe-interview/issues/1897)
+    - [软技能] [说下你对沉浸式体验的理解](https://github.com/haizlin/fe-interview/issues/1898)
+
 - 第301天 (2020.02.11)
     - [html] [html5有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1891)
     - [css] [css的哪个属性可以把所有元素或其父元素的属性重置呢？](https://github.com/haizlin/fe-interview/issues/1892)
