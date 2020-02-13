@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.02.13) —— 303 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [说说你对html的嵌套规范的理解，都有哪些规范呢？](https://github.com/haizlin/fe-interview/issues/1899)
-- [css] [如何禁止长按保存或复制图像？](https://github.com/haizlin/fe-interview/issues/1900)
-- [js] [如何让js的filter方法支持大小写？](https://github.com/haizlin/fe-interview/issues/1901)
-- [skill] [你是如何测试代码的性能的？都有用到哪些工具？](https://github.com/haizlin/fe-interview/issues/1902)
+## Today's Knowledge Points (2020.02.14) —— 304 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
+- [css] [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
+- [js] [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)
+- [skill] [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 301 days (2020.02.11)
-    - [html] [html5有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1891)
-    - [css] [css的哪个属性可以把所有元素或其父元素的属性重置呢？](https://github.com/haizlin/fe-interview/issues/1892)
-    - [js] [axios相比原生ajax的优点有哪些呢？](https://github.com/haizlin/fe-interview/issues/1893)
-    - [skill] [TCP和UDP属于计算机网络中的哪一层？](https://github.com/haizlin/fe-interview/issues/1894)
-
 - 302 days (2020.02.12)
     - [html] [a标签可以再嵌套a标签吗？为什么？如果不行，那又想要嵌套效果怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1895)
     - [css] [css的height:100%和height:inherit之间有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1896)
     - [js] [写一个方法删除字符串中所有相邻重复的项](https://github.com/haizlin/fe-interview/issues/1897)
     - [skill] [说下你对沉浸式体验的理解](https://github.com/haizlin/fe-interview/issues/1898)
+
+- 303 days (2020.02.13)
+    - [html] [说说你对html的嵌套规范的理解，都有哪些规范呢？](https://github.com/haizlin/fe-interview/issues/1899)
+    - [css] [如何禁止长按保存或复制图像？](https://github.com/haizlin/fe-interview/issues/1900)
+    - [js] [如何让js的filter方法支持大小写？](https://github.com/haizlin/fe-interview/issues/1901)
+    - [skill] [你是如何测试代码的性能的？都有用到哪些工具？](https://github.com/haizlin/fe-interview/issues/1902)
 
 - **[All](category/history.md)**
 

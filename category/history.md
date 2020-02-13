@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第303天 (2020.02.13)
+    - [html] [说说你对html的嵌套规范的理解，都有哪些规范呢？](https://github.com/haizlin/fe-interview/issues/1899)
+    - [css] [如何禁止长按保存或复制图像？](https://github.com/haizlin/fe-interview/issues/1900)
+    - [js] [如何让js的filter方法支持大小写？](https://github.com/haizlin/fe-interview/issues/1901)
+    - [软技能] [你是如何测试代码的性能的？都有用到哪些工具？](https://github.com/haizlin/fe-interview/issues/1902)
+
 - 第302天 (2020.02.12)
     - [html] [a标签可以再嵌套a标签吗？为什么？如果不行，那又想要嵌套效果怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1895)
     - [css] [css的height:100%和height:inherit之间有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1896)
