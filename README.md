@@ -33,11 +33,11 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.02.14) —— 第304天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
-- [css] [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
-- [js] [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)
-- [软技能] [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
+## 今天的知识点 (2020.02.15) —— 第305天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
+- [css] [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
+- [js] [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
+- [软技能] [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +75,17 @@
 
 …………  
 
-- 第302天 (2020.02.12)
-    - [html] [a标签可以再嵌套a标签吗？为什么？如果不行，那又想要嵌套效果怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1895)
-    - [css] [css的height:100%和height:inherit之间有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1896)
-    - [js] [写一个方法删除字符串中所有相邻重复的项](https://github.com/haizlin/fe-interview/issues/1897)
-    - [软技能] [说下你对沉浸式体验的理解](https://github.com/haizlin/fe-interview/issues/1898)
-
 - 第303天 (2020.02.13)
     - [html] [说说你对html的嵌套规范的理解，都有哪些规范呢？](https://github.com/haizlin/fe-interview/issues/1899)
     - [css] [如何禁止长按保存或复制图像？](https://github.com/haizlin/fe-interview/issues/1900)
     - [js] [如何让js的filter方法支持大小写？](https://github.com/haizlin/fe-interview/issues/1901)
     - [软技能] [你是如何测试代码的性能的？都有用到哪些工具？](https://github.com/haizlin/fe-interview/issues/1902)
+
+- 第304天 (2020.02.14)
+    - [html] [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
+    - [css] [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
+    - [js] [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)
+    - [软技能] [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
     
 - **[查看全部](category/history.md)**
 
