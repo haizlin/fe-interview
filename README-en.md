@@ -35,11 +35,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## Today's Knowledge Points (2020.02.15) —— 305 days ([Issue](http://web.haizlin.cn/interview/index.html))
-- [html] [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
-- [css] [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
-- [js] [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
-- [skill] [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
+## Today's Knowledge Points (2020.02.16) —— 306 days ([Issue](http://web.haizlin.cn/interview/index.html))
+- [html] [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
+- [css] [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
+- [js] [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
+- [skill] [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
 
@@ -76,17 +76,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 …………  
 
-- 303 days (2020.02.13)
-    - [html] [说说你对html的嵌套规范的理解，都有哪些规范呢？](https://github.com/haizlin/fe-interview/issues/1899)
-    - [css] [如何禁止长按保存或复制图像？](https://github.com/haizlin/fe-interview/issues/1900)
-    - [js] [如何让js的filter方法支持大小写？](https://github.com/haizlin/fe-interview/issues/1901)
-    - [skill] [你是如何测试代码的性能的？都有用到哪些工具？](https://github.com/haizlin/fe-interview/issues/1902)
-
 - 304 days (2020.02.14)
     - [html] [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
     - [css] [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
     - [js] [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)
     - [skill] [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
+
+- 305 days (2020.02.15)
+    - [html] [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
+    - [css] [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
+    - [js] [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
+    - [skill] [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
 
 - **[All](category/history.md)**
 

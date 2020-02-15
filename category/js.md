@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.09
+> 最新：2020.02.16
 
+- [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
+- [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
+- [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)
+- [如何让js的filter方法支持大小写？](https://github.com/haizlin/fe-interview/issues/1901)
+- [写一个方法删除字符串中所有相邻重复的项](https://github.com/haizlin/fe-interview/issues/1897)
+- [axios相比原生ajax的优点有哪些呢？](https://github.com/haizlin/fe-interview/issues/1893)
+- [axios为什么能在浏览器中环境运行又能在node中环境运行？](https://github.com/haizlin/fe-interview/issues/1882)
 - [根据下面代码：说出执行结果，并解释为何是会是这样的结果？[代码]](https://github.com/haizlin/fe-interview/issues/1878)
 - [这两种展开运算符的方式有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1874)
 - [axios如何一次发送多个并发请求？](https://github.com/haizlin/fe-interview/issues/1870)

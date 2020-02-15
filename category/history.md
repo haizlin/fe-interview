@@ -1,6 +1,12 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第305天 (2020.02.15)
+    - [html] [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
+    - [css] [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
+    - [js] [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
+    - [软技能] [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
+
 - 第304天 (2020.02.14)
     - [html] [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
     - [css] [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)

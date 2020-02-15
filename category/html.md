@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.09
+> 最新：2020.02.16
 
+- [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
+- [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
+- [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
+- [说说你对html的嵌套规范的理解，都有哪些规范呢？](https://github.com/haizlin/fe-interview/issues/1899)
+- [a标签可以再嵌套a标签吗？为什么？如果不行，那又想要嵌套效果怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1895)
+- [html5有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1891)
+- [html5应该注意哪些安全的问题？](https://github.com/haizlin/fe-interview/issues/1880)
 - [如何在页面上显示Emoji表情？](https://github.com/haizlin/fe-interview/issues/1876)
 - [如何在桌面上生成网站的快捷方式图标？](https://github.com/haizlin/fe-interview/issues/1872)
 - [举例说明实现文字贯穿线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1868)

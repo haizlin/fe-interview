@@ -1,4 +1,4 @@
-# 周汇总 2020.02.09
+# 周汇总 2020.02.16
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,42 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [如何在页面上显示Emoji表情？](https://github.com/haizlin/fe-interview/issues/1876)
-- [如何在桌面上生成网站的快捷方式图标？](https://github.com/haizlin/fe-interview/issues/1872)
-- [举例说明实现文字贯穿线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/1868)
-- [html标签的属性值是否可以省略引号？为什么？](https://github.com/haizlin/fe-interview/issues/1864)
-- [HTML5中的article和section有什么区别？](https://github.com/haizlin/fe-interview/issues/1860)
-- [怎样去除iOS和Android中的输入URL地址的控件条呢？](https://github.com/haizlin/fe-interview/issues/1856)
-- [img中的src加载失败时如何用默认图片来替换呢？](https://github.com/haizlin/fe-interview/issues/1852)
+- [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
+- [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
+- [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
+- [说说你对html的嵌套规范的理解，都有哪些规范呢？](https://github.com/haizlin/fe-interview/issues/1899)
+- [a标签可以再嵌套a标签吗？为什么？如果不行，那又想要嵌套效果怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1895)
+- [html5有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1891)
+- [html5应该注意哪些安全的问题？](https://github.com/haizlin/fe-interview/issues/1880)
 
 ## css
-- [说下你对css样式的这几个属性值initial、inherit、unset、revert的理解](https://github.com/haizlin/fe-interview/issues/1877)
-- [如何解决css加载字体跨域的问题？](https://github.com/haizlin/fe-interview/issues/1873)
-- [当使用@font-face的时候，为什么src中要加入local呢？](https://github.com/haizlin/fe-interview/issues/1869)
-- [你有使用过font-size-adjust属性吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/1865)
-- [body{height:100%}和html,body{height:100%}有什么区别？为什么html要设置height:100%呢，html不就是整个窗口吗？](https://github.com/haizlin/fe-interview/issues/1861)
-- [你所理解的css高级技巧有哪些？](https://github.com/haizlin/fe-interview/issues/1857)
-- [举例说明跟字体相关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/1853)
+- [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
+- [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
+- [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
+- [如何禁止长按保存或复制图像？](https://github.com/haizlin/fe-interview/issues/1900)
+- [css的height:100%和height:inherit之间有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1896)
+- [css的哪个属性可以把所有元素或其父元素的属性重置呢？](https://github.com/haizlin/fe-interview/issues/1892)
+- [如何取消从父级元素继承下来的CSS样式呢？](https://github.com/haizlin/fe-interview/issues/1881)
 
 ## js
-- [根据下面代码：说出执行结果，并解释为何是会是这样的结果？[代码]](https://github.com/haizlin/fe-interview/issues/1878)
-- [这两种展开运算符的方式有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1874)
-- [axios如何一次发送多个并发请求？](https://github.com/haizlin/fe-interview/issues/1870)
-- [setTimeout和setInterval有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1866)
-- [写一个方法，实现使用canvas播放视频？](https://github.com/haizlin/fe-interview/issues/1862)
-- [js如何检测当前页面是否以全屏模式显示？](https://github.com/haizlin/fe-interview/issues/1858)
-- [阅读下面关于setTimeout和Promise的代码，判断结果会输出什么？为什么？](https://github.com/haizlin/fe-interview/issues/1854)
+- [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
+- [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
+- [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)
+- [如何让js的filter方法支持大小写？](https://github.com/haizlin/fe-interview/issues/1901)
+- [写一个方法删除字符串中所有相邻重复的项](https://github.com/haizlin/fe-interview/issues/1897)
+- [axios相比原生ajax的优点有哪些呢？](https://github.com/haizlin/fe-interview/issues/1893)
+- [axios为什么能在浏览器中环境运行又能在node中环境运行？](https://github.com/haizlin/fe-interview/issues/1882)
 
 ## 软技能
-- [说说你对304缓存的理解](https://github.com/haizlin/fe-interview/issues/1879)
-- [git pull和git fetch有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1875)
-- [说说你对前端架构师职位的理解，你觉得前端架构师应具备什么样的技能呢？](https://github.com/haizlin/fe-interview/issues/1871)
-- [请问ie和chrome可以并行下载多少个资源？](https://github.com/haizlin/fe-interview/issues/1867)
-- [说说栈和队列的区别是什么？](https://github.com/haizlin/fe-interview/issues/1863)
-- [ETag有什么运用场景呢？](https://github.com/haizlin/fe-interview/issues/1859)
-- [请解释下Expires和Cache-Control有什么区别？](https://github.com/haizlin/fe-interview/issues/1855)
+- [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
+- [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
+- [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
+- [你是如何测试代码的性能的？都有用到哪些工具？](https://github.com/haizlin/fe-interview/issues/1902)
+- [说下你对沉浸式体验的理解](https://github.com/haizlin/fe-interview/issues/1898)
+- [TCP和UDP属于计算机网络中的哪一层？](https://github.com/haizlin/fe-interview/issues/1894)
+- [OSI七层模型指的是哪七层？](https://github.com/haizlin/fe-interview/issues/1883)
+
+
 
 ## 全部
 [所有](https://github.com/haizlin/fe-interview/blob/master/category/week.md)

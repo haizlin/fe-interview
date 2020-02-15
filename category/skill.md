@@ -2,10 +2,17 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.09
+> 最新：2020.02.16
 
 ## 软技能
 
+- [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
+- [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
+- [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
+- [你是如何测试代码的性能的？都有用到哪些工具？](https://github.com/haizlin/fe-interview/issues/1902)
+- [说下你对沉浸式体验的理解](https://github.com/haizlin/fe-interview/issues/1898)
+- [TCP和UDP属于计算机网络中的哪一层？](https://github.com/haizlin/fe-interview/issues/1894)
+- [OSI七层模型指的是哪七层？](https://github.com/haizlin/fe-interview/issues/1883)
 - [说说你对304缓存的理解](https://github.com/haizlin/fe-interview/issues/1879)
 - [git pull和git fetch有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1875)
 - [说说你对前端架构师职位的理解，你觉得前端架构师应具备什么样的技能呢？](https://github.com/haizlin/fe-interview/issues/1871)

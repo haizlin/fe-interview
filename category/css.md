@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.09
+> 最新：2020.02.16
 
+- [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
+- [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
+- [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
+- [如何禁止长按保存或复制图像？](https://github.com/haizlin/fe-interview/issues/1900)
+- [css的height:100%和height:inherit之间有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1896)
+- [css的哪个属性可以把所有元素或其父元素的属性重置呢？](https://github.com/haizlin/fe-interview/issues/1892)
+- [如何取消从父级元素继承下来的CSS样式呢？](https://github.com/haizlin/fe-interview/issues/1881)
 - [说下你对css样式的这几个属性值initial、inherit、unset、revert的理解](https://github.com/haizlin/fe-interview/issues/1877)
 - [如何解决css加载字体跨域的问题？](https://github.com/haizlin/fe-interview/issues/1873)
 - [当使用@font-face的时候，为什么src中要加入local呢？](https://github.com/haizlin/fe-interview/issues/1869)
