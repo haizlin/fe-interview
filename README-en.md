@@ -40,7 +40,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [html] [怎么去除img之间存在的间隔缝隙？](https://github.com/haizlin/fe-interview/issues/118)
 - [css] [padding会影响到元素的大小，那不想让它影响到元素的宽度应该怎么办？](https://github.com/haizlin/fe-interview/issues/119)
 - [js] [写一个方法把对象和字符串互转](https://github.com/haizlin/fe-interview/issues/120)
-- [软技能] [开发触摸屏的页面时应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/121)
+- [skill] [开发触摸屏的页面时应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/121)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
