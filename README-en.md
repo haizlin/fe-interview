@@ -83,14 +83,14 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
     - [html] [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
 	- [css] [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
 	- [js] [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
-	- [软技能] [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
+	- [skill] [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
 	
 
 - 306 days (2020.02.16)
     - [html] [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
 	- [css] [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
 	- [js] [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
-	- [软技能] [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
+	- [skill] [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
 	
 
 - **[All](category/history.md)**
@@ -126,7 +126,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
 - 2019.04.25 — 添加了面试题的分类
 - 2019.04.27 — 添加了Issues的模板
-- 2019.04.28 — 每日3题改成每日3+1，即添加了一个软技能题
+- 2019.04.28 — 每日3题改成每日3+1，即添加了一个skill题
 - 2019.04.29 — 添加了特别感谢的朋友
 - 2019.04.30 — 添加了QQ讨论群
 - 2019.05.02 — 去除QQ讨论群二维码，添加公众号及个人微信二维码
@@ -146,7 +146,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.06.13 — star数突破700！离5月13日刚好满一个月，增加了400，看来爱学习的朋友还是很多的！感谢关注！
 - 2019.06.14 — 同步开通了简书入口，让更多的朋友参与。
 - 2019.06.20 — star数突破888！好吉利的数字！
-- 2019.06.21 — vue的题量突破150+，html/css/javascript/软技能的题量分别为67，成为目前市面上题量最大的开源仓库！（全球第一），感谢坚持！
+- 2019.06.21 — vue的题量突破150+，html/css/javascript/skill的题量分别为67，成为目前市面上题量最大的开源仓库！（全球第一），感谢坚持！
 - 2019.06.23 — 仅仅两天，vue的题量再次突破220+，非常感谢坚持！
 - 2019.06.25 — 误打误撞，github上面搜索“前端面试”，按star排行，成功挺进前10，立个flag，年底目标前5！
 - 2019.06.26 — 第71天，star数突破1000，issues数突破500！
