@@ -33,11 +33,13 @@
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
 
-## 今天的知识点 (2020.02.16) —— 第306天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
-- [css] [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
-- [js] [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
-- [软技能] [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
+
+## 今天的知识点 (2020.02.17) —— 第307天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [怎么去除img之间存在的间隔缝隙？](https://github.com/haizlin/fe-interview/issues/118)
+- [css] [padding会影响到元素的大小，那不想让它影响到元素的宽度应该怎么办？](https://github.com/haizlin/fe-interview/issues/119)
+- [js] [写一个方法把对象和字符串互转](https://github.com/haizlin/fe-interview/issues/120)
+- [软技能] [开发触摸屏的页面时应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/121)
+
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
@@ -75,17 +77,20 @@
 
 …………  
 
-- 第304天 (2020.02.14)
-    - [html] [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
-    - [css] [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
-    - [js] [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)
-    - [软技能] [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
 
 - 第305天 (2020.02.15)
     - [html] [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
-    - [css] [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
-    - [js] [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
-    - [软技能] [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
+	- [css] [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
+	- [js] [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
+	- [软技能] [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
+	
+
+- 第306天 (2020.02.16)
+    - [html] [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
+	- [css] [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
+	- [js] [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
+	- [软技能] [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
+	
     
 - **[查看全部](category/history.md)**
 
