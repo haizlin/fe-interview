@@ -35,10 +35,10 @@
 
 
 ## 今天的知识点 (2020.02.18) —— 第308天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [给内联元素加float与给块元素加float有什么区别？](https://github.com/haizlin/fe-interview/issues/undefined)
-- [css] [什么是hack？css的hack有哪些？](https://github.com/haizlin/fe-interview/issues/undefined)
-- [js] [js如何监听页面缩放？](https://github.com/haizlin/fe-interview/issues/undefined)
-- [软技能] [把html、css、js这三个分别做个比喻，你会把它们比喻成什么呢？](https://github.com/haizlin/fe-interview/issues/undefined)
+- [html] [给内联元素加float与给块元素加float有什么区别？](https://github.com/haizlin/fe-interview/issues/1924)
+- [css] [什么是hack？css的hack有哪些？](https://github.com/haizlin/fe-interview/issues/1925)
+- [js] [js如何监听页面缩放？](https://github.com/haizlin/fe-interview/issues/1926)
+- [软技能] [把html、css、js这三个分别做个比喻，你会把它们比喻成什么呢？](https://github.com/haizlin/fe-interview/issues/1927)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
