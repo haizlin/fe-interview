@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.02.18) —— 第308天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [给内联元素加float与给块元素加float有什么区别？](https://github.com/haizlin/fe-interview/issues/1924)
-- [css] [什么是hack？css的hack有哪些？](https://github.com/haizlin/fe-interview/issues/1925)
-- [js] [js如何监听页面缩放？](https://github.com/haizlin/fe-interview/issues/1926)
-- [软技能] [把html、css、js这三个分别做个比喻，你会把它们比喻成什么呢？](https://github.com/haizlin/fe-interview/issues/1927)
+## 今天的知识点 (2020.02.19) —— 第309天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何解决input在Firefox和Chrome中高度不一致的问题？](https://github.com/haizlin/fe-interview/issues/1928)
+- [css] [如何让IE6支持min-width和max-width？](https://github.com/haizlin/fe-interview/issues/1929)
+- [js] [请解释下如下js代码对数组排序后的输出结果[代码]](https://github.com/haizlin/fe-interview/issues/1930)
+- [软技能] [你觉得前端有必要懂后端语言吗？](https://github.com/haizlin/fe-interview/issues/1931)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第306天 (2020.02.16)
-    - [html] [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
-	- [css] [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
-	- [js] [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
-	- [软技能] [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
-	
-
 - 第307天 (2020.02.17)
     - [html] [怎么去除img之间存在的间隔缝隙？](https://github.com/haizlin/fe-interview/issues/1919)
 	- [css] [padding会影响到元素的大小，那不想让它影响到元素的宽度应该怎么办？](https://github.com/haizlin/fe-interview/issues/1920)
 	- [js] [写一个方法把对象和字符串互转](https://github.com/haizlin/fe-interview/issues/1921)
 	- [软技能] [开发触摸屏的页面时应该注意些什么问题？](https://github.com/haizlin/fe-interview/issues/1922)
+	
+
+- 第308天 (2020.02.18)
+    - [html] [给内联元素加float与给块元素加float有什么区别？](https://github.com/haizlin/fe-interview/issues/1924)
+	- [css] [什么是hack？css的hack有哪些？](https://github.com/haizlin/fe-interview/issues/1925)
+	- [js] [js如何监听页面缩放？](https://github.com/haizlin/fe-interview/issues/1926)
+	- [软技能] [把html、css、js这三个分别做个比喻，你会把它们比喻成什么呢？](https://github.com/haizlin/fe-interview/issues/1927)
 	
     
 - **[查看全部](category/history.md)**
