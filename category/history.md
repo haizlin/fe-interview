@@ -1,6 +1,36 @@
 # 历史题目
 > 注：不包含当天的题，当天的题在首页显示
 
+- 第310天 (2020.02.20)
+    - [html] [可以给内联元素设置宽和高吗？为什么？](https://github.com/haizlin/fe-interview/issues/1932)
+    - [css] [如何解决IE6浮动时产生双倍边距的BUG？](https://github.com/haizlin/fe-interview/issues/1933)
+    - [js] [说下js的parseInt()和Number()有什么区别？](https://github.com/haizlin/fe-interview/issues/1934)
+    - [软技能] [你是如何看待女程序员的？](https://github.com/haizlin/fe-interview/issues/1935)
+
+- 第309天 (2020.02.19)
+    - [html] [如何解决input在Firefox和Chrome中高度不一致的问题？](https://github.com/haizlin/fe-interview/issues/1928)
+    - [css] [如何让IE6支持min-width和max-width？](https://github.com/haizlin/fe-interview/issues/1929)
+    - [js] [请解释下如下js代码对数组排序后的输出结果[代码]](https://github.com/haizlin/fe-interview/issues/1930)
+    - [软技能] [你觉得前端有必要懂后端语言吗？](https://github.com/haizlin/fe-interview/issues/1931)
+
+- 第308天 (2020.02.18)
+    - [html] [什么是hack？css的hack有哪些？](https://github.com/haizlin/fe-interview/issues/1924)
+    - [css] [给内联元素加float与给块元素加float有什么区别？](https://github.com/haizlin/fe-interview/issues/1925)
+    - [js] [js如何监听页面缩放？](https://github.com/haizlin/fe-interview/issues/1926)
+    - [软技能] [把html、css、js这三个分别做个比喻，你会把它们比喻成什么呢？](https://github.com/haizlin/fe-interview/issues/1927)
+
+- 第307天 (2020.02.17)
+    - [html] [怎么去除img之间存在的间隔缝隙？](https://github.com/haizlin/fe-interview/issues/1919)
+    - [css] [padding会影响到元素的大小，那不想让它影响到元素的宽度应该怎么办？](https://github.com/haizlin/fe-interview/issues/1920)
+    - [js] [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1921)
+    - [软技能] [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1922)
+
+- 第306天 (2020.02.16)
+    - [html] [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
+    - [css] [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
+    - [js] [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
+    - [软技能] [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
+
 - 第305天 (2020.02.15)
     - [html] [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
     - [css] [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
