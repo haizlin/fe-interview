@@ -37,8 +37,8 @@
 ## 今天的知识点 (2020.02.22) —— 第312天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
 - [html] [IE6文字溢出BUG（别名：多出来的猪、谍影重重）怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1945)
 - [css] [OOCSS有哪些好处？对应的库有哪些？](https://github.com/haizlin/fe-interview/issues/1946)
-- [js] [W3C的事件处理和IE的事件处理有哪些区别？](https://github.com/haizlin/fe-interview/issues/)
-- [软技能] [你知道什么是微服务吗？](https://github.com/haizlin/fe-interview/issues/)
+- [js] [W3C的事件处理和IE的事件处理有哪些区别？](https://github.com/haizlin/fe-interview/issues/1947)
+- [软技能] [你知道什么是微服务吗？](https://github.com/haizlin/fe-interview/issues/1948)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
