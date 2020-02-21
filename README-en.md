@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.02.21) —— 311 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你知道著名的3像素Bug指的是什么吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1941)
-- [css] [你知道什么是面向对象的css（oocss）吗？有没有实践过？](https://github.com/haizlin/fe-interview/issues/1942)
-- [js] [DOM0、DOM2、DOM3事件处理方式的区别是什么？](https://github.com/haizlin/fe-interview/issues/1943)
-- [skill] [你是怎样对首屏进行优化的呢？](https://github.com/haizlin/fe-interview/issues/1944)
+## Today's Knowledge Points (2020.02.22) —— 312 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [IE6文字溢出BUG（别名：多出来的猪、谍影重重）怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1945)
+- [css] [OOCSS有哪些好处？对应的库有哪些？](https://github.com/haizlin/fe-interview/issues/1946)
+- [js] [W3C的事件处理和IE的事件处理有哪些区别？](https://github.com/haizlin/fe-interview/issues/)
+- [skill] [你知道什么是微服务吗？](https://github.com/haizlin/fe-interview/issues/)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 309 days (2020.02.19)
-    - [html] [如何解决input在Firefox和Chrome中高度不一致的问题？](https://github.com/haizlin/fe-interview/issues/1928)
-	- [css] [如何让IE6支持min-width和max-width？](https://github.com/haizlin/fe-interview/issues/1929)
-	- [js] [请解释下如下js代码对数组排序后的输出结果[代码]](https://github.com/haizlin/fe-interview/issues/1930)
-	- [skill] [你觉得前端有必要懂后端语言吗？](https://github.com/haizlin/fe-interview/issues/1931)
-	
-
 - 310 days (2020.02.20)
     - [html] [可以给内联元素设置宽和高吗？为什么？](https://github.com/haizlin/fe-interview/issues/1932)
 	- [css] [如何解决IE6浮动时产生双倍边距的BUG？](https://github.com/haizlin/fe-interview/issues/1933)
 	- [js] [说下js的parseInt()和Number()有什么区别？](https://github.com/haizlin/fe-interview/issues/1934)
 	- [skill] [你是如何看待女程序员的？](https://github.com/haizlin/fe-interview/issues/1935)
+	
+
+- 311 days (2020.02.21)
+    - [html] [你知道著名的3像素Bug指的是什么吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1941)
+	- [css] [你知道什么是面向对象的css（oocss）吗？有没有实践过？](https://github.com/haizlin/fe-interview/issues/1942)
+	- [js] [DOM0、DOM2、DOM3事件处理方式的区别是什么？](https://github.com/haizlin/fe-interview/issues/1943)
+	- [skill] [你是怎样对首屏进行优化的呢？](https://github.com/haizlin/fe-interview/issues/1944)
 	
 
 - **[All](category/history.md)**
