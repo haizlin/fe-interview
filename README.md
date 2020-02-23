@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.02.23) —— 第313天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [对一个元素设置浮动后，它的特征是什么？](https://github.com/haizlin/fe-interview/issues/1949)
-- [css] [flex布局的缺点有哪些？（除兼容性外）](https://github.com/haizlin/fe-interview/issues/1950)
-- [js] [如何用jst获取DOM元素在页面中的绝对位置？](https://github.com/haizlin/fe-interview/issues/1951)
-- [软技能] [如果让你去管理一个10人的前端团队，你该怎么管理？第一步先干嘛？](https://github.com/haizlin/fe-interview/issues/)
+## 今天的知识点 (2020.02.24) —— 第314天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [微软雅黑是有版权的，在页面中使用font-family:Microsoft YaHei会不会有版权问题呢？](https://github.com/haizlin/fe-interview/issues/1953)
+- [css] [CSS中哪些属性会引起GPU渲染，会增加耗电吗？](https://github.com/haizlin/fe-interview/issues/1954)
+- [js] [看下面代码，判断a和b的类型是否为true？为什么？什么是基本包装类型？[代码]](https://github.com/haizlin/fe-interview/issues/1955)
+- [软技能] [你认为作为一个管理岗位，最重要的是什么？请说出三点](https://github.com/haizlin/fe-interview/issues/1956)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第311天 (2020.02.21)
-    - [html] [你知道著名的3像素Bug指的是什么吗？怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1941)
-	- [css] [你知道什么是面向对象的css（oocss）吗？有没有实践过？](https://github.com/haizlin/fe-interview/issues/1942)
-	- [js] [DOM0、DOM2、DOM3事件处理方式的区别是什么？](https://github.com/haizlin/fe-interview/issues/1943)
-	- [软技能] [你是怎样对首屏进行优化的呢？](https://github.com/haizlin/fe-interview/issues/1944)
-	
-
 - 第312天 (2020.02.22)
     - [html] [IE6文字溢出BUG（别名：多出来的猪、谍影重重）怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1945)
 	- [css] [OOCSS有哪些好处？对应的库有哪些？](https://github.com/haizlin/fe-interview/issues/1946)
 	- [js] [W3C的事件处理和IE的事件处理有哪些区别？](https://github.com/haizlin/fe-interview/issues/1947)
 	- [软技能] [你知道什么是微服务吗？](https://github.com/haizlin/fe-interview/issues/1948)
+	
+
+- 第313天 (2020.02.23)
+    - [html] [对一个元素设置浮动后，它的特征是什么？](https://github.com/haizlin/fe-interview/issues/1949)
+	- [css] [flex布局的缺点有哪些？（除兼容性外）](https://github.com/haizlin/fe-interview/issues/1950)
+	- [js] [如何用jst获取DOM元素在页面中的绝对位置？](https://github.com/haizlin/fe-interview/issues/1951)
+	- [软技能] [如果让你去管理一个10人的前端团队，你该怎么管理？第一步先干嘛？](https://github.com/haizlin/fe-interview/issues/1952)
 	
     
 - **[查看全部](category/history.md)**
