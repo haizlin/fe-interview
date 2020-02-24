@@ -39,8 +39,8 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 ## Today's Knowledge Points (2020.02.25) —— 315 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
 - [html] [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
 - [css] [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
-- [js] [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/)
-- [skill] [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/)
+- [js] [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/1959)
+- [skill] [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!

@@ -37,8 +37,8 @@
 ## 今天的知识点 (2020.02.25) —— 第315天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
 - [html] [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
 - [css] [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
-- [js] [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/)
-- [软技能] [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/)
+- [js] [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/1959)
+- [软技能] [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
