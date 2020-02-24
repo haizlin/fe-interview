@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.02.24) —— 314 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [微软雅黑是有版权的，在页面中使用font-family:Microsoft YaHei会不会有版权问题呢？](https://github.com/haizlin/fe-interview/issues/1953)
-- [css] [CSS中哪些属性会引起GPU渲染，会增加耗电吗？](https://github.com/haizlin/fe-interview/issues/1954)
-- [js] [看下面代码，判断a和b的类型是否为true？为什么？什么是基本包装类型？[代码]](https://github.com/haizlin/fe-interview/issues/1955)
-- [skill] [你认为作为一个管理岗位，最重要的是什么？请说出三点](https://github.com/haizlin/fe-interview/issues/1956)
+## Today's Knowledge Points (2020.02.25) —— 315 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
+- [css] [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
+- [js] [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/)
+- [skill] [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 312 days (2020.02.22)
-    - [html] [IE6文字溢出BUG（别名：多出来的猪、谍影重重）怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1945)
-	- [css] [OOCSS有哪些好处？对应的库有哪些？](https://github.com/haizlin/fe-interview/issues/1946)
-	- [js] [W3C的事件处理和IE的事件处理有哪些区别？](https://github.com/haizlin/fe-interview/issues/1947)
-	- [skill] [你知道什么是微服务吗？](https://github.com/haizlin/fe-interview/issues/1948)
-	
-
 - 313 days (2020.02.23)
     - [html] [对一个元素设置浮动后，它的特征是什么？](https://github.com/haizlin/fe-interview/issues/1949)
 	- [css] [flex布局的缺点有哪些？（除兼容性外）](https://github.com/haizlin/fe-interview/issues/1950)
 	- [js] [如何用jst获取DOM元素在页面中的绝对位置？](https://github.com/haizlin/fe-interview/issues/1951)
 	- [skill] [如果让你去管理一个10人的前端团队，你该怎么管理？第一步先干嘛？](https://github.com/haizlin/fe-interview/issues/1952)
+	
+
+- 314 days (2020.02.24)
+    - [html] [微软雅黑是有版权的，在页面中使用font-family:Microsoft YaHei会不会有版权问题呢？](https://github.com/haizlin/fe-interview/issues/1953)
+	- [css] [CSS中哪些属性会引起GPU渲染，会增加耗电吗？](https://github.com/haizlin/fe-interview/issues/1954)
+	- [js] [看下面代码，判断a和b的类型是否为true？为什么？什么是基本包装类型？[代码]](https://github.com/haizlin/fe-interview/issues/1955)
+	- [skill] [你认为作为一个管理岗位，最重要的是什么？请说出三点](https://github.com/haizlin/fe-interview/issues/1956)
 	
 
 - **[All](category/history.md)**
