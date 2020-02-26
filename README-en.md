@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.02.26) —— 316 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
-- [css] [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
-- [js] [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
-- [skill] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/)
+## Today's Knowledge Points (2020.02.27) —— 317 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [iframe如何自动调整高度？](https://github.com/haizlin/fe-interview/issues/)
+- [css] [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/)
+- [js] [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/)
+- [skill] [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 314 days (2020.02.24)
-    - [html] [微软雅黑是有版权的，在页面中使用font-family:Microsoft YaHei会不会有版权问题呢？](https://github.com/haizlin/fe-interview/issues/1953)
-	- [css] [CSS中哪些属性会引起GPU渲染，会增加耗电吗？](https://github.com/haizlin/fe-interview/issues/1954)
-	- [js] [看下面代码，判断a和b的类型是否为true？为什么？什么是基本包装类型？[代码]](https://github.com/haizlin/fe-interview/issues/1955)
-	- [skill] [你认为作为一个管理岗位，最重要的是什么？请说出三点](https://github.com/haizlin/fe-interview/issues/1956)
-	
-
 - 315 days (2020.02.25)
     - [html] [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
 	- [css] [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
 	- [js] [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/1959)
 	- [skill] [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
+	
+
+- 316 days (2020.02.26)
+    - [html] [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
+	- [css] [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
+	- [js] [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
+	- [skill] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
 	
 
 - **[All](category/history.md)**
