@@ -40,7 +40,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [html] [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
 - [css] [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
 - [js] [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
-- [skill] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/)
+- [skill] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -236,4 +236,4 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
   3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## License
-[![MIT](http://101.201.31.25:10000/?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)

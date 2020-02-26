@@ -38,7 +38,7 @@
 - [html] [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
 - [css] [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
 - [js] [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
-- [软技能] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/)
+- [软技能] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -237,4 +237,4 @@
   3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
 
 ## License
-[![MIT](http://101.201.31.25:10000/?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
