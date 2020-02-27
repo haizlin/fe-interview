@@ -35,10 +35,10 @@
 
 
 ## 今天的知识点 (2020.02.28) —— 第318天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/)
-- [css] [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/)
-- [js] [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/)
-- [软技能] [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/)
+- [html] [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/1972)
+- [css] [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/1973)
+- [js] [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/1974)
+- [软技能] [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！

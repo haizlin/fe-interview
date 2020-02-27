@@ -37,10 +37,10 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 
 ## Today's Knowledge Points (2020.02.28) —— 318 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/)
-- [css] [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/)
-- [js] [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/)
-- [skill] [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/)
+- [html] [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/1972)
+- [css] [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/1973)
+- [js] [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/1974)
+- [skill] [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
