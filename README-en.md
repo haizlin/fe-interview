@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.02.27) —— 317 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [iframe如何自动调整高度？](https://github.com/haizlin/fe-interview/issues/)
-- [css] [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/)
-- [js] [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/)
-- [skill] [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/)
+## Today's Knowledge Points (2020.02.28) —— 318 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/)
+- [css] [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/)
+- [js] [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/)
+- [skill] [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 315 days (2020.02.25)
-    - [html] [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
-	- [css] [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
-	- [js] [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/1959)
-	- [skill] [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
-	
-
 - 316 days (2020.02.26)
     - [html] [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
 	- [css] [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
 	- [js] [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
 	- [skill] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
+	
+
+- 317 days (2020.02.27)
+    - [html] [iframe如何自动调整高度？](https://github.com/haizlin/fe-interview/issues/1967)
+	- [css] [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/1968)
+	- [js] [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/1969)
+	- [skill] [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/1970)
 	
 
 - **[All](category/history.md)**
@@ -236,4 +236,4 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
   3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## License
-[![MIT](http://101.201.31.25:10000/?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)

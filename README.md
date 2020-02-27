@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.02.27) —— 第317天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [iframe如何自动调整高度？](https://github.com/haizlin/fe-interview/issues/)
-- [css] [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/)
-- [js] [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/)
-- [软技能] [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/)
+## 今天的知识点 (2020.02.28) —— 第318天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/)
+- [css] [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/)
+- [js] [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/)
+- [软技能] [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第315天 (2020.02.25)
-    - [html] [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
-	- [css] [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
-	- [js] [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/1959)
-	- [软技能] [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
-	
-
 - 第316天 (2020.02.26)
     - [html] [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
 	- [css] [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
 	- [js] [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
 	- [软技能] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
+	
+
+- 第317天 (2020.02.27)
+    - [html] [iframe如何自动调整高度？](https://github.com/haizlin/fe-interview/issues/1967)
+	- [css] [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/1968)
+	- [js] [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/1969)
+	- [软技能] [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/1970)
 	
     
 - **[查看全部](category/history.md)**
@@ -237,4 +237,4 @@
   3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
 
 ## License
-[![MIT](http://101.201.31.25:10000/?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
