@@ -171,6 +171,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 - 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
 - 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
+- 2020.02.28 — 第317天，第7次登上github热门榜！
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
