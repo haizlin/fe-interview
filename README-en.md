@@ -39,8 +39,8 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 ## Today's Knowledge Points (2020.02.29) —— 319 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
 - [html] [iframe在更改了src之后，不出现后退或者前进按钮怎么解决？](https://github.com/haizlin/fe-interview/issues/1977)
 - [css] [用css画一个五边形和一个六边形](https://github.com/haizlin/fe-interview/issues/1978)
-- [js] [什么是UUID？它有什么作用？用js写一个生成UUID的方法](https://github.com/haizlin/fe-interview/issues/)
-- [skill] [你知道网站运营的指标有哪些吗？](https://github.com/haizlin/fe-interview/issues/)
+- [js] [什么是UUID？它有什么作用？用js写一个生成UUID的方法](https://github.com/haizlin/fe-interview/issues/1979)
+- [skill] [你知道网站运营的指标有哪些吗？](https://github.com/haizlin/fe-interview/issues/1980)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
