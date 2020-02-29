@@ -2,10 +2,17 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.16
+> 最新：2020.03.01
 
 ## 软技能
 
+- [长链接在http2中与http/1.1协议中有什么区别？](https://github.com/haizlin/fe-interview/issues/1984)
+- [你知道网站运营的指标有哪些吗？](https://github.com/haizlin/fe-interview/issues/1980)
+- [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)
+- [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/1970)
+- [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
+- [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
+- [你认为作为一个管理岗位，最重要的是什么？请说出三点](https://github.com/haizlin/fe-interview/issues/1956)
 - [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
 - [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
 - [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)

@@ -1,4 +1,4 @@
-# 周汇总 2020.02.16
+# 周汇总 2020.03.01
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [table中给td设置宽度无效怎么解决？](https://github.com/haizlin/fe-interview/issues/1915)
-- [块级元素不能包含其他块级元素有那些？](https://github.com/haizlin/fe-interview/issues/1911)
-- [html的img标签为什么要添加alt属性呢？](https://github.com/haizlin/fe-interview/issues/1907)
-- [说说你对html的嵌套规范的理解，都有哪些规范呢？](https://github.com/haizlin/fe-interview/issues/1899)
-- [a标签可以再嵌套a标签吗？为什么？如果不行，那又想要嵌套效果怎么解决呢？](https://github.com/haizlin/fe-interview/issues/1895)
-- [html5有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/1891)
-- [html5应该注意哪些安全的问题？](https://github.com/haizlin/fe-interview/issues/1880)
+- [iframe可以使用父页面中的资源吗（如：css、js等）？](https://github.com/haizlin/fe-interview/issues/1981)
+- [iframe在更改了src之后，不出现后退或者前进按钮怎么解决？](https://github.com/haizlin/fe-interview/issues/1977)
+- [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/1972)
+- [iframe如何自动调整高度？](https://github.com/haizlin/fe-interview/issues/1967)
+- [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
+- [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
+- [微软雅黑是有版权的，在页面中使用font-family:Microsoft YaHei会不会有版权问题呢？](https://github.com/haizlin/fe-interview/issues/1953)
 
 ## css
-- [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
-- [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
-- [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
-- [如何禁止长按保存或复制图像？](https://github.com/haizlin/fe-interview/issues/1900)
-- [css的height:100%和height:inherit之间有什么区别呢？](https://github.com/haizlin/fe-interview/issues/1896)
-- [css的哪个属性可以把所有元素或其父元素的属性重置呢？](https://github.com/haizlin/fe-interview/issues/1892)
-- [如何取消从父级元素继承下来的CSS样式呢？](https://github.com/haizlin/fe-interview/issues/1881)
+- [使用纯css来创建一个滑块](https://github.com/haizlin/fe-interview/issues/1982)
+- [用css画一个五边形和一个六边形](https://github.com/haizlin/fe-interview/issues/1978)
+- [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/1973)
+- [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/1968)
+- [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
+- [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
+- [CSS中哪些属性会引起GPU渲染，会增加耗电吗？](https://github.com/haizlin/fe-interview/issues/1954)
 
 ## js
-- [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
-- [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
-- [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)
-- [如何让js的filter方法支持大小写？](https://github.com/haizlin/fe-interview/issues/1901)
-- [写一个方法删除字符串中所有相邻重复的项](https://github.com/haizlin/fe-interview/issues/1897)
-- [axios相比原生ajax的优点有哪些呢？](https://github.com/haizlin/fe-interview/issues/1893)
-- [axios为什么能在浏览器中环境运行又能在node中环境运行？](https://github.com/haizlin/fe-interview/issues/1882)
+- [在axios中怎样添加授权验证？](https://github.com/haizlin/fe-interview/issues/1983)
+- [什么是UUID？它有什么作用？用js写一个生成UUID的方法](https://github.com/haizlin/fe-interview/issues/1979)
+- [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/1974)
+- [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/1969)
+- [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
+- [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/1959)
+- [看下面代码，判断a和b的类型是否为true？为什么？什么是基本包装类型？[代码]](https://github.com/haizlin/fe-interview/issues/1955)
 
 ## 软技能
-- [你了解什么是物联网吗？](https://github.com/haizlin/fe-interview/issues/1918)
-- [你有考过相关的技能证书吗？](https://github.com/haizlin/fe-interview/issues/1914)
-- [post和get有什么区别？它们分别在什么时候用到？](https://github.com/haizlin/fe-interview/issues/1910)
-- [你是如何测试代码的性能的？都有用到哪些工具？](https://github.com/haizlin/fe-interview/issues/1902)
-- [说下你对沉浸式体验的理解](https://github.com/haizlin/fe-interview/issues/1898)
-- [TCP和UDP属于计算机网络中的哪一层？](https://github.com/haizlin/fe-interview/issues/1894)
-- [OSI七层模型指的是哪七层？](https://github.com/haizlin/fe-interview/issues/1883)
+- [长链接在http2中与http/1.1协议中有什么区别？](https://github.com/haizlin/fe-interview/issues/1984)
+- [你知道网站运营的指标有哪些吗？](https://github.com/haizlin/fe-interview/issues/1980)
+- [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)
+- [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/1970)
+- [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
+- [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
+- [你认为作为一个管理岗位，最重要的是什么？请说出三点](https://github.com/haizlin/fe-interview/issues/1956)
 
 
 

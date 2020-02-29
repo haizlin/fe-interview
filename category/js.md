@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.16
+> 最新：2020.03.01
 
+- [在axios中怎样添加授权验证？](https://github.com/haizlin/fe-interview/issues/1983)
+- [什么是UUID？它有什么作用？用js写一个生成UUID的方法](https://github.com/haizlin/fe-interview/issues/1979)
+- [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/1974)
+- [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/1969)
+- [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
+- [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/1959)
+- [看下面代码，判断a和b的类型是否为true？为什么？什么是基本包装类型？[代码]](https://github.com/haizlin/fe-interview/issues/1955)
 - [表达式和语句有什么区别？如何把语句转换为表达式？](https://github.com/haizlin/fe-interview/issues/1917)
 - [用js写一个方法检测指定的函数体是否为空](https://github.com/haizlin/fe-interview/issues/1913)
 - [写一个方法检查给定的函数是否为js运行时环境的内置函数](https://github.com/haizlin/fe-interview/issues/1909)

@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.02.16
+> 最新：2020.03.01
 
+- [使用纯css来创建一个滑块](https://github.com/haizlin/fe-interview/issues/1982)
+- [用css画一个五边形和一个六边形](https://github.com/haizlin/fe-interview/issues/1978)
+- [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/1973)
+- [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/1968)
+- [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
+- [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
+- [CSS中哪些属性会引起GPU渲染，会增加耗电吗？](https://github.com/haizlin/fe-interview/issues/1954)
 - [说说你对相对定位、绝对定位、固定定位的理解](https://github.com/haizlin/fe-interview/issues/1916)
 - [css中的选择器、属性、属性值区分大小写吗？](https://github.com/haizlin/fe-interview/issues/1912)
 - [img标签是行内元素，为什么却能设置宽高？](https://github.com/haizlin/fe-interview/issues/1908)
