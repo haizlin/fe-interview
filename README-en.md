@@ -40,7 +40,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [html] [iframe可以使用父页面中的资源吗（如：css、js等）？](https://github.com/haizlin/fe-interview/issues/1981)
 - [css] [使用纯css来创建一个滑块](https://github.com/haizlin/fe-interview/issues/1982)
 - [js] [在axios中怎样添加授权验证？](https://github.com/haizlin/fe-interview/issues/1983)
-- [skill] [长链接在http2中与http/1.1协议中有什么区别？](https://github.com/haizlin/fe-interview/issues/)
+- [skill] [长链接在http2中与http/1.1协议中有什么区别？](https://github.com/haizlin/fe-interview/issues/1984)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
