@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.02.28) —— 第318天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/1972)
-- [css] [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/1973)
-- [js] [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/1974)
-- [软技能] [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)
+## 今天的知识点 (2020.03.01) —— 第320天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [iframe可以使用父页面中的资源吗（如：css、js等）？](https://github.com/haizlin/fe-interview/issues/1981)
+- [css] [使用纯css来创建一个滑块](https://github.com/haizlin/fe-interview/issues/1982)
+- [js] [在axios中怎样添加授权验证？](https://github.com/haizlin/fe-interview/issues/1983)
+- [软技能] [长链接在http2中与http/1.1协议中有什么区别？](https://github.com/haizlin/fe-interview/issues/)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第316天 (2020.02.26)
-    - [html] [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
-	- [css] [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
-	- [js] [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
-	- [软技能] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
+- 第318天 (2020.02.28)
+    - [html] [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/1972)
+	- [css] [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/1973)
+	- [js] [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/1974)
+	- [软技能] [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)
 	
 
-- 第317天 (2020.02.27)
-    - [html] [iframe如何自动调整高度？](https://github.com/haizlin/fe-interview/issues/1967)
-	- [css] [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/1968)
-	- [js] [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/1969)
-	- [软技能] [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/1970)
+- 第319天 (2020.02.29)
+    - [html] [iframe在更改了src之后，不出现后退或者前进按钮怎么解决？](https://github.com/haizlin/fe-interview/issues/1977)
+	- [css] [用css画一个五边形和一个六边形](https://github.com/haizlin/fe-interview/issues/1978)
+	- [js] [什么是UUID？它有什么作用？用js写一个生成UUID的方法](https://github.com/haizlin/fe-interview/issues/1979)
+	- [软技能] [你知道网站运营的指标有哪些吗？](https://github.com/haizlin/fe-interview/issues/1980)
 	
     
 - **[查看全部](category/history.md)**
@@ -172,7 +172,6 @@
 - 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 - 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
 - 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
-- 2020.02.28 — 第317天，第7次登上github热门榜！
 
 ## 在哪可以看到
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN每天同步更新）
