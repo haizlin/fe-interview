@@ -38,9 +38,9 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 ## Today's Knowledge Points (2020.03.02) —— 321 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
 - [html] [为什么移动端页面的设计稿一般是750px/640px呢？](https://github.com/haizlin/fe-interview/issues/1985)
-- [css] [使用css3实现一个斑马线的效果](https://github.com/haizlin/fe-interview/issues/)
-- [js] [有用过Handlebars模板引擎吗？它的工作原理是怎样的？](https://github.com/haizlin/fe-interview/issues/)
-- [skill] [你觉得前端有必要写文档吗？](https://github.com/haizlin/fe-interview/issues/)
+- [css] [使用css3实现一个斑马线的效果](https://github.com/haizlin/fe-interview/issues/1986)
+- [js] [有用过Handlebars模板引擎吗？它的工作原理是怎样的？](https://github.com/haizlin/fe-interview/issues/1987)
+- [skill] [你觉得前端有必要写文档吗？](https://github.com/haizlin/fe-interview/issues/1988)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
