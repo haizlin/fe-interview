@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.03.03) —— 322 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [怎样使用iframe刷新父级页面？](https://github.com/haizlin/fe-interview/issues/1994)
-- [css] [如何使用css实现跨浏览器的最小高度？](https://github.com/haizlin/fe-interview/issues/1995)
-- [js] [用js写一个绑定事件检测窗口大小](https://github.com/haizlin/fe-interview/issues/1996)
-- [skill] [图片是不是越小越好？如何优化图片呢？](https://github.com/haizlin/fe-interview/issues/1997)
+## Today's Knowledge Points (2020.03.04) —— 323 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [在两个iframe之间传递参数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2003)
+- [css] [怎么设置可点击的元素上强制手型？](https://github.com/haizlin/fe-interview/issues/2004)
+- [js] [说说你对js中的依赖注入的理解，它的实现方式有哪些呢？](https://github.com/haizlin/fe-interview/issues/2005)
+- [skill] [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 320 days (2020.03.01)
-    - [html] [iframe可以使用父页面中的资源吗（如：css、js等）？](https://github.com/haizlin/fe-interview/issues/1981)
-	- [css] [使用纯css来创建一个滑块](https://github.com/haizlin/fe-interview/issues/1982)
-	- [js] [在axios中怎样添加授权验证？](https://github.com/haizlin/fe-interview/issues/1983)
-	- [skill] [长链接在http2中与http/1.1协议中有什么区别？](https://github.com/haizlin/fe-interview/issues/1984)
-	
-
 - 321 days (2020.03.02)
     - [html] [为什么移动端页面的设计稿一般是750px/640px呢？](https://github.com/haizlin/fe-interview/issues/1985)
 	- [css] [使用css3实现一个斑马线的效果](https://github.com/haizlin/fe-interview/issues/1986)
 	- [js] [有用过Handlebars模板引擎吗？它的工作原理是怎样的？](https://github.com/haizlin/fe-interview/issues/1987)
 	- [skill] [你觉得前端有必要写文档吗？](https://github.com/haizlin/fe-interview/issues/1988)
+	
+
+- 322 days (2020.03.03)
+    - [html] [怎样使用iframe刷新父级页面？](https://github.com/haizlin/fe-interview/issues/1994)
+	- [css] [如何使用css实现跨浏览器的最小高度？](https://github.com/haizlin/fe-interview/issues/1995)
+	- [js] [用js写一个绑定事件检测窗口大小](https://github.com/haizlin/fe-interview/issues/1996)
+	- [skill] [图片是不是越小越好？如何优化图片呢？](https://github.com/haizlin/fe-interview/issues/1997)
 	
 
 - **[All](category/history.md)**
@@ -171,6 +171,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 - 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
 - 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
+- 2020.02.28 — 第317天，第7次登上github热门榜！
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
