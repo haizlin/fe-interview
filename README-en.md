@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.03.04) —— 323 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [在两个iframe之间传递参数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2003)
-- [css] [怎么设置可点击的元素上强制手型？](https://github.com/haizlin/fe-interview/issues/2004)
-- [js] [说说你对js中的依赖注入的理解，它的实现方式有哪些呢？](https://github.com/haizlin/fe-interview/issues/2005)
-- [skill] [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
+## Today's Knowledge Points (2020.03.05) —— 324 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [你知道什么是html5plus吗？](https://github.com/haizlin/fe-interview/issues/2007)
+- [css] [使用css实现悬浮提示文本](https://github.com/haizlin/fe-interview/issues/2008)
+- [js] [说下你对IoC的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2009)
+- [skill] [前端资源发布路径怎么实现非覆盖式发布（平滑升级）？](https://github.com/haizlin/fe-interview/issues/2010)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 321 days (2020.03.02)
-    - [html] [为什么移动端页面的设计稿一般是750px/640px呢？](https://github.com/haizlin/fe-interview/issues/1985)
-	- [css] [使用css3实现一个斑马线的效果](https://github.com/haizlin/fe-interview/issues/1986)
-	- [js] [有用过Handlebars模板引擎吗？它的工作原理是怎样的？](https://github.com/haizlin/fe-interview/issues/1987)
-	- [skill] [你觉得前端有必要写文档吗？](https://github.com/haizlin/fe-interview/issues/1988)
-	
-
 - 322 days (2020.03.03)
     - [html] [怎样使用iframe刷新父级页面？](https://github.com/haizlin/fe-interview/issues/1994)
 	- [css] [如何使用css实现跨浏览器的最小高度？](https://github.com/haizlin/fe-interview/issues/1995)
 	- [js] [用js写一个绑定事件检测窗口大小](https://github.com/haizlin/fe-interview/issues/1996)
 	- [skill] [图片是不是越小越好？如何优化图片呢？](https://github.com/haizlin/fe-interview/issues/1997)
+	
+
+- 323 days (2020.03.04)
+    - [html] [在两个iframe之间传递参数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2003)
+	- [css] [怎么设置可点击的元素上强制手型？](https://github.com/haizlin/fe-interview/issues/2004)
+	- [js] [说说你对js中的依赖注入的理解，它的实现方式有哪些呢？](https://github.com/haizlin/fe-interview/issues/2005)
+	- [skill] [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
 	
 
 - **[All](category/history.md)**
