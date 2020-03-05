@@ -4,7 +4,7 @@
 
 <!-- <p align="center"><a rel="noopener noreferrer"><img width="100" src="https://github.com/haizlin/fe-interview/raw/master/resource/images/logo.jpg" alt="fe-interview logo"></a></p> -->
 
-<p align="left">   
+<p align="left">
   <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=html" alt="html"></a>
   <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="css"></a>
   <a href="https://github.com/haizlin/fe-interview/issues"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=javascript" alt="javascript"></a>
@@ -37,10 +37,10 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 
 
 ## Today's Knowledge Points (2020.03.06) —— 325 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/)
-- [css] [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/)
-- [js] [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/)
-- [skill] [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/)
+- [html] [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/2011)
+- [css] [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/2012)
+- [js] [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/2013)
+- [skill] [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -121,7 +121,6 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [xiqi99520](https://github.com/xiqi99520)
 - [LeannaLady](https://github.com/LeannaLady)
 - [cxwht](https://github.com/cxwht)
-- [zhaoqian0901](https://github.com/zhaoqian0901)
 
 ## Events
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
