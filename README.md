@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.05) —— 第324天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你知道什么是html5plus吗？](https://github.com/haizlin/fe-interview/issues/2007)
-- [css] [使用css实现悬浮提示文本](https://github.com/haizlin/fe-interview/issues/2008)
-- [js] [说下你对IoC的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2009)
-- [软技能] [前端资源发布路径怎么实现非覆盖式发布（平滑升级）？](https://github.com/haizlin/fe-interview/issues/2010)
+## 今天的知识点 (2020.03.06) —— 第325天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/)
+- [css] [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/)
+- [js] [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/)
+- [软技能] [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第322天 (2020.03.03)
-    - [html] [怎样使用iframe刷新父级页面？](https://github.com/haizlin/fe-interview/issues/1994)
-	- [css] [如何使用css实现跨浏览器的最小高度？](https://github.com/haizlin/fe-interview/issues/1995)
-	- [js] [用js写一个绑定事件检测窗口大小](https://github.com/haizlin/fe-interview/issues/1996)
-	- [软技能] [图片是不是越小越好？如何优化图片呢？](https://github.com/haizlin/fe-interview/issues/1997)
-	
-
 - 第323天 (2020.03.04)
     - [html] [在两个iframe之间传递参数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2003)
 	- [css] [怎么设置可点击的元素上强制手型？](https://github.com/haizlin/fe-interview/issues/2004)
 	- [js] [说说你对js中的依赖注入的理解，它的实现方式有哪些呢？](https://github.com/haizlin/fe-interview/issues/2005)
 	- [软技能] [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
+	
+
+- 第324天 (2020.03.05)
+    - [html] [你知道什么是html5plus吗？](https://github.com/haizlin/fe-interview/issues/2007)
+	- [css] [使用css实现悬浮提示文本](https://github.com/haizlin/fe-interview/issues/2008)
+	- [js] [说下你对IoC的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2009)
+	- [软技能] [前端资源发布路径怎么实现非覆盖式发布（平滑升级）？](https://github.com/haizlin/fe-interview/issues/2010)
 	
     
 - **[查看全部](category/history.md)**
