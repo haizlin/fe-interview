@@ -237,4 +237,4 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
   3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## License
-[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=interview_en)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)

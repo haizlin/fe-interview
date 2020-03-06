@@ -238,4 +238,4 @@
   3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
 
 ## License
-[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=interview)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
