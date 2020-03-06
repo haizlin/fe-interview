@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.03.06) —— 325 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/2011)
-- [css] [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/2012)
-- [js] [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/2013)
-- [skill] [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)
+## Today's Knowledge Points (2020.03.07) —— 326 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [html5点击返回键怎样不让它返回上一页？](https://github.com/haizlin/fe-interview/issues/2015)
+- [css] [颜色hsla的字母分别表示什么？](https://github.com/haizlin/fe-interview/issues/2016)
+- [js] [举例说明为什么说ES模块比commonJS模块还优秀？](https://github.com/haizlin/fe-interview/issues/2017)
+- [skill] [你最近在忙什么？](https://github.com/haizlin/fe-interview/issues/2018)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 323 days (2020.03.04)
-    - [html] [在两个iframe之间传递参数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2003)
-	- [css] [怎么设置可点击的元素上强制手型？](https://github.com/haizlin/fe-interview/issues/2004)
-	- [js] [说说你对js中的依赖注入的理解，它的实现方式有哪些呢？](https://github.com/haizlin/fe-interview/issues/2005)
-	- [skill] [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
-	
-
 - 324 days (2020.03.05)
     - [html] [你知道什么是html5plus吗？](https://github.com/haizlin/fe-interview/issues/2007)
 	- [css] [使用css实现悬浮提示文本](https://github.com/haizlin/fe-interview/issues/2008)
 	- [js] [说下你对IoC的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2009)
 	- [skill] [前端资源发布路径怎么实现非覆盖式发布（平滑升级）？](https://github.com/haizlin/fe-interview/issues/2010)
+	
+
+- 325 days (2020.03.06)
+    - [html] [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/2011)
+	- [css] [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/2012)
+	- [js] [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/2013)
+	- [skill] [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)
 	
 
 - **[All](category/history.md)**
@@ -121,6 +121,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [xiqi99520](https://github.com/xiqi99520)
 - [LeannaLady](https://github.com/LeannaLady)
 - [cxwht](https://github.com/cxwht)
+- [zhaoqian0901](https://github.com/zhaoqian0901)
 
 ## Events
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -237,4 +238,4 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
   3. You do not need to crawl this warehouse, if you need any format, you can chat with me, such as local reading PDF, I have time to make PDF, for your convenience!
 
 ## License
-[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=interview_en)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)

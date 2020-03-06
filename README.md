@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.06) —— 第325天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/2011)
-- [css] [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/2012)
-- [js] [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/2013)
-- [软技能] [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)
+## 今天的知识点 (2020.03.07) —— 第326天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [html5点击返回键怎样不让它返回上一页？](https://github.com/haizlin/fe-interview/issues/2015)
+- [css] [颜色hsla的字母分别表示什么？](https://github.com/haizlin/fe-interview/issues/2016)
+- [js] [举例说明为什么说ES模块比commonJS模块还优秀？](https://github.com/haizlin/fe-interview/issues/2017)
+- [软技能] [你最近在忙什么？](https://github.com/haizlin/fe-interview/issues/2018)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第323天 (2020.03.04)
-    - [html] [在两个iframe之间传递参数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2003)
-	- [css] [怎么设置可点击的元素上强制手型？](https://github.com/haizlin/fe-interview/issues/2004)
-	- [js] [说说你对js中的依赖注入的理解，它的实现方式有哪些呢？](https://github.com/haizlin/fe-interview/issues/2005)
-	- [软技能] [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
-	
-
 - 第324天 (2020.03.05)
     - [html] [你知道什么是html5plus吗？](https://github.com/haizlin/fe-interview/issues/2007)
 	- [css] [使用css实现悬浮提示文本](https://github.com/haizlin/fe-interview/issues/2008)
 	- [js] [说下你对IoC的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2009)
 	- [软技能] [前端资源发布路径怎么实现非覆盖式发布（平滑升级）？](https://github.com/haizlin/fe-interview/issues/2010)
+	
+
+- 第325天 (2020.03.06)
+    - [html] [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/2011)
+	- [css] [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/2012)
+	- [js] [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/2013)
+	- [软技能] [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)
 	
     
 - **[查看全部](category/history.md)**
@@ -122,6 +122,7 @@
 - [xiqi99520](https://github.com/xiqi99520)
 - [LeannaLady](https://github.com/LeannaLady)
 - [cxwht](https://github.com/cxwht)
+- [zhaoqian0901](https://github.com/zhaoqian0901)
 
 ## 重大事件
 - 2019.04.17 — 来源于一张离职同事发来的求助面试题，然后大家突发其想说干就干
@@ -227,7 +228,7 @@
 * [面试图谱](https://yuchengkai.cn/docs/) （打造最好的面试图谱）
 * [前端知识整理](https://github.com/pingan8787/Leo-JavaScript) （Cute系列更新一些系列文章和框架demo，作为自己学习结果的输出，喜欢的朋友欢迎 👉star）
 * 洞见前端小程序-(微信搜索，非常有意思的小程序，刷题必备)
-* 前端荣耀小程序-(微信搜索，非常有意思的小程序，通关打卡还有排行榜) 
+* 前端荣耀小程序-(微信搜索，非常有意思的小程序，通关打卡还有排行榜)
 
 ## 转载说明
 > 近期，看到很多网络上的朋友滥用链接，滥用面试题，包装了下就收费了，让有需要的朋友找不到最新的试题，违背了我的初衷，特添加了些声明：
@@ -238,4 +239,4 @@
   3. 大家不需要对此仓库进行爬虫，如有需要什么格式的，可以私聊我，比如本地阅读的PDF，我有时间会做成PDF的，方便大家！
 
 ## License
-[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=interview)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
+[![MIT](http://api.haizlin.cn/api?mod=interview&ctr=issues&act=generateSVG&type=a.svg)](https://github.com/haizlin/fe-interview/blob/master/LICENSE)
