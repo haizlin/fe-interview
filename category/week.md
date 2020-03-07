@@ -1,4 +1,4 @@
-# 周汇总 2020.03.01
+# 周汇总 2020.03.08
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,41 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [iframe可以使用父页面中的资源吗（如：css、js等）？](https://github.com/haizlin/fe-interview/issues/1981)
-- [iframe在更改了src之后，不出现后退或者前进按钮怎么解决？](https://github.com/haizlin/fe-interview/issues/1977)
-- [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/1972)
-- [iframe如何自动调整高度？](https://github.com/haizlin/fe-interview/issues/1967)
-- [如何禁止web端的页面缩放？](https://github.com/haizlin/fe-interview/issues/1963)
-- [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
-- [微软雅黑是有版权的，在页面中使用font-family:Microsoft YaHei会不会有版权问题呢？](https://github.com/haizlin/fe-interview/issues/1953)
+- [如何禁止移动端的左右划动手势？](https://github.com/haizlin/fe-interview/issues/2019)
+- [html5点击返回键怎样不让它返回上一页？](https://github.com/haizlin/fe-interview/issues/2015)
+- [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/2011)
+- [你知道什么是html5plus吗？](https://github.com/haizlin/fe-interview/issues/2007)
+- [在两个iframe之间传递参数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2003)
+- [怎样使用iframe刷新父级页面？](https://github.com/haizlin/fe-interview/issues/1994)
+- [为什么移动端页面的设计稿一般是750px/640px呢？](https://github.com/haizlin/fe-interview/issues/1985)
 
 ## css
-- [使用纯css来创建一个滑块](https://github.com/haizlin/fe-interview/issues/1982)
-- [用css画一个五边形和一个六边形](https://github.com/haizlin/fe-interview/issues/1978)
-- [你有没有使用过“形似猫头鹰”（例：`* + *{ ... }`） 的选择器？](https://github.com/haizlin/fe-interview/issues/1973)
-- [为什么说css中能用子代选择器的时候不要用后代选择器？](https://github.com/haizlin/fe-interview/issues/1968)
-- [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
-- [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
-- [CSS中哪些属性会引起GPU渲染，会增加耗电吗？](https://github.com/haizlin/fe-interview/issues/1954)
+- [说说你对table-layout的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2020)
+- [颜色hsla的字母分别表示什么？](https://github.com/haizlin/fe-interview/issues/2016)
+- [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/2012)
+- [使用css实现悬浮提示文本](https://github.com/haizlin/fe-interview/issues/2008)
+- [怎么设置可点击的元素上强制手型？](https://github.com/haizlin/fe-interview/issues/2004)
+- [如何使用css实现跨浏览器的最小高度？](https://github.com/haizlin/fe-interview/issues/1995)
+- [使用css3实现一个斑马线的效果](https://github.com/haizlin/fe-interview/issues/1986)
 
 ## js
-- [在axios中怎样添加授权验证？](https://github.com/haizlin/fe-interview/issues/1983)
-- [什么是UUID？它有什么作用？用js写一个生成UUID的方法](https://github.com/haizlin/fe-interview/issues/1979)
-- [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/1974)
-- [js如何解决数字精度丢失的问题？](https://github.com/haizlin/fe-interview/issues/1969)
-- [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
-- [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/1959)
-- [看下面代码，判断a和b的类型是否为true？为什么？什么是基本包装类型？[代码]](https://github.com/haizlin/fe-interview/issues/1955)
+- [什么是函数式编程？它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2021)
+- [举例说明为什么说ES模块比commonJS模块还优秀？](https://github.com/haizlin/fe-interview/issues/2017)
+- [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/2013)
+- [说下你对IoC的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2009)
+- [说说你对js中的依赖注入的理解，它的实现方式有哪些呢？](https://github.com/haizlin/fe-interview/issues/2005)
+- [用js写一个绑定事件检测窗口大小](https://github.com/haizlin/fe-interview/issues/1996)
+- [有用过Handlebars模板引擎吗？它的工作原理是怎样的？](https://github.com/haizlin/fe-interview/issues/1987)
 
 ## 软技能
-- [长链接在http2中与http/1.1协议中有什么区别？](https://github.com/haizlin/fe-interview/issues/1984)
-- [你知道网站运营的指标有哪些吗？](https://github.com/haizlin/fe-interview/issues/1980)
-- [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)
-- [Chrome浏览器允许的一次性最大TCP并发链接](https://github.com/haizlin/fe-interview/issues/1970)
-- [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
-- [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
-- [你认为作为一个管理岗位，最重要的是什么？请说出三点](https://github.com/haizlin/fe-interview/issues/1956)
-
+- [你觉得一线城市和三四线城市的区别在哪？你比较喜欢哪个？](https://github.com/haizlin/fe-interview/issues/2022)
+- [你最近在忙什么？](https://github.com/haizlin/fe-interview/issues/2018)
+- [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)
+- [前端资源发布路径怎么实现非覆盖式发布（平滑升级）？](https://github.com/haizlin/fe-interview/issues/2010)
+- [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
+- [图片是不是越小越好？如何优化图片呢？](https://github.com/haizlin/fe-interview/issues/1997)
+- [你觉得前端有必要写文档吗？](https://github.com/haizlin/fe-interview/issues/1988)
 
 
 ## 全部

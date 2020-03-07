@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.03.01
+> 最新：2020.03.08
 
+- [什么是函数式编程？它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2021)
+- [举例说明为什么说ES模块比commonJS模块还优秀？](https://github.com/haizlin/fe-interview/issues/2017)
+- [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/2013)
+- [说下你对IoC的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2009)
+- [说说你对js中的依赖注入的理解，它的实现方式有哪些呢？](https://github.com/haizlin/fe-interview/issues/2005)
+- [用js写一个绑定事件检测窗口大小](https://github.com/haizlin/fe-interview/issues/1996)
+- [有用过Handlebars模板引擎吗？它的工作原理是怎样的？](https://github.com/haizlin/fe-interview/issues/1987)
 - [在axios中怎样添加授权验证？](https://github.com/haizlin/fe-interview/issues/1983)
 - [什么是UUID？它有什么作用？用js写一个生成UUID的方法](https://github.com/haizlin/fe-interview/issues/1979)
 - [用js实现一个加法的方法](https://github.com/haizlin/fe-interview/issues/1974)

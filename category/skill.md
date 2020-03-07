@@ -2,10 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.03.01
+> 最新：2020.03.08
 
-## 软技能
-
+- [你觉得一线城市和三四线城市的区别在哪？你比较喜欢哪个？](https://github.com/haizlin/fe-interview/issues/2022)
+- [你最近在忙什么？](https://github.com/haizlin/fe-interview/issues/2018)
+- [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)
+- [前端资源发布路径怎么实现非覆盖式发布（平滑升级）？](https://github.com/haizlin/fe-interview/issues/2010)
+- [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
+- [图片是不是越小越好？如何优化图片呢？](https://github.com/haizlin/fe-interview/issues/1997)
+- [你觉得前端有必要写文档吗？](https://github.com/haizlin/fe-interview/issues/1988)
 - [长链接在http2中与http/1.1协议中有什么区别？](https://github.com/haizlin/fe-interview/issues/1984)
 - [你知道网站运营的指标有哪些吗？](https://github.com/haizlin/fe-interview/issues/1980)
 - [你知道网站的PV、UV、IP分别代表什么吗？](https://github.com/haizlin/fe-interview/issues/1975)

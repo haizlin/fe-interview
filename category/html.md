@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.03.01
+> 最新：2020.03.08
 
+- [如何禁止移动端的左右划动手势？](https://github.com/haizlin/fe-interview/issues/2019)
+- [html5点击返回键怎样不让它返回上一页？](https://github.com/haizlin/fe-interview/issues/2015)
+- [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/2011)
+- [你知道什么是html5plus吗？](https://github.com/haizlin/fe-interview/issues/2007)
+- [在两个iframe之间传递参数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2003)
+- [怎样使用iframe刷新父级页面？](https://github.com/haizlin/fe-interview/issues/1994)
+- [为什么移动端页面的设计稿一般是750px/640px呢？](https://github.com/haizlin/fe-interview/issues/1985)
 - [iframe可以使用父页面中的资源吗（如：css、js等）？](https://github.com/haizlin/fe-interview/issues/1981)
 - [iframe在更改了src之后，不出现后退或者前进按钮怎么解决？](https://github.com/haizlin/fe-interview/issues/1977)
 - [iframe父页面如何获取子页面的元素？](https://github.com/haizlin/fe-interview/issues/1972)
