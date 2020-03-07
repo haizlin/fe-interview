@@ -2,6 +2,11 @@
 
 
 
+- 第327天 (2020.03.08)
+    - [html] [如何禁止移动端的左右划动手势？](https://github.com/haizlin/fe-interview/issues/2019)
+    - [css] [说说你对table-layout的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2020)
+    - [js] [什么是函数式编程？它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2021)
+    - [软技能] [你觉得一线城市和三四线城市的区别在哪？你比较喜欢哪个？](https://github.com/haizlin/fe-interview/issues/2022)
 - 第326天 (2020.03.07)
     - [html] [html5点击返回键怎样不让它返回上一页？](https://github.com/haizlin/fe-interview/issues/2015)
     - [css] [颜色hsla的字母分别表示什么？](https://github.com/haizlin/fe-interview/issues/2016)
