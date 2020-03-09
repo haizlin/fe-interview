@@ -2,8 +2,13 @@
 
 
 
+- 第329天 (2020.03.10)
+    - [html] [如何使用html5进行图片压缩上传？](https://github.com/haizlin/fe-interview/issues/2033)
+    - [css] [如何隐藏没有静音、自动播放的音视频？](https://github.com/haizlin/fe-interview/issues/2034)
+    - [js] [举例说明什么是响应式编程？](https://github.com/haizlin/fe-interview/issues/2035)
+    - [软技能] [请问单元测试和集成测试有什么区别？](https://github.com/haizlin/fe-interview/issues/2036)
 - 第328天 (2020.03.09)
-    - [html] [你知道<a>标签的target属性规定在何处打开链接文档吗？](https://github.com/haizlin/fe-interview/issues/2023)
+    - [html] [你知道`<a>`标签的target属性规定在何处打开链接文档吗？](https://github.com/haizlin/fe-interview/issues/2023)
     - [css] [怎么使用css选择空链接？](https://github.com/haizlin/fe-interview/issues/2024)
     - [js] [你知道什么是纯函数吗？](https://github.com/haizlin/fe-interview/issues/2025)
     - [软技能] [举例说明你对时间复杂度和空间复杂度的理解](https://github.com/haizlin/fe-interview/issues/2026)
@@ -438,7 +443,7 @@
     - [js] [说说你对js排序的理解，你有了解哪些算法呢？](https://github.com/haizlin/fe-interview/issues/1647)
     - [软技能] [你有女朋友吗？你结婚了吗？有小孩吗？](https://github.com/haizlin/fe-interview/issues/1648)
 - 第241天 (2019.12.13)
-    - [html] [html的标签<a>除了用作跳转链接外，还有哪些用途？](https://github.com/haizlin/fe-interview/issues/1641)
+    - [html] [html的标签`<a>`除了用作跳转链接外，还有哪些用途？](https://github.com/haizlin/fe-interview/issues/1641)
     - [css] [你有使用过vmax和vmin吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/1642)
     - [js] [请说说你对try/catch的理解，平时有在哪些场景会用到呢？](https://github.com/haizlin/fe-interview/issues/1643)
     - [软技能] [说说你对开源项目的理解，它的意义何在？你有参与过开源项目吗？](https://github.com/haizlin/fe-interview/issues/1644)
