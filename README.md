@@ -204,6 +204,9 @@
 * [SHERlocked93](https://github.com/SHERlocked93/blog) （公众号 「前端下午茶」作者，分享前端精选文章，和大家一起成长）
 * [lucifer](https://github.com/azl397985856/fe-interview) （公众号 「脑洞前端」作者，宇宙最强的前端面试指南）
 * [_frank](https://mp.weixin.qq.com/s/K3yG4eyuQvZxXIU9jas8kA) （公众号 「前端迷」作者，定期分享源码解析，面试经历以及前端技术）
+* [达达前端](https://github.com/webVueBlog/vueblog) （公众号 「达达前端」作者，一个热爱前端的达达程序员）
+* [前端高校](https://github.com/webVueBlog/vueblog) （公众号 「前端高校」作者，置身世外只为暗中观察）
+* [魔王哪吒](https://juejin.im/user/5e477d7ce51d4526c550a27d) （web前端开发工程师）
 * [若川](https://github.com/lxchuan12/blog) （公众号 「若川视野」作者，freeCodeCamp杭州社区组织者之一）
 * [qiangdada](https://github.com/xuqiang521/overwrite) （公众号「合格前端」，定期推送一些精选博文，内容包括但不仅限于前端，不定期进行技术直播分享。）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
