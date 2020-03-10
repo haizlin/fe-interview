@@ -2,6 +2,11 @@
 
 
 
+- 第330天 (2020.03.11)
+    - [html] [怎样避免让用户看到长时间的白屏？](https://github.com/haizlin/fe-interview/issues/2038)
+    - [css] [使用css实现对话气泡的效果](https://github.com/haizlin/fe-interview/issues/2039)
+    - [js] [js循环的数据量很大（例如100W+）时会出现什么情况？如何进行性能优化？](https://github.com/haizlin/fe-interview/issues/2040)
+    - [软技能] [说说你对PWA的理解](https://github.com/haizlin/fe-interview/issues/2041)
 - 第329天 (2020.03.10)
     - [html] [如何使用html5进行图片压缩上传？](https://github.com/haizlin/fe-interview/issues/2033)
     - [css] [如何隐藏没有静音、自动播放的音视频？](https://github.com/haizlin/fe-interview/issues/2034)

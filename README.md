@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.10) —— 第329天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [如何使用html5进行图片压缩上传？](https://github.com/haizlin/fe-interview/issues/2033)
-- [css] [如何隐藏没有静音、自动播放的音视频？](https://github.com/haizlin/fe-interview/issues/2034)
-- [js] [举例说明什么是响应式编程？](https://github.com/haizlin/fe-interview/issues/2035)
-- [软技能] [请问单元测试和集成测试有什么区别？](https://github.com/haizlin/fe-interview/issues/2036)
+## 今天的知识点 (2020.03.11) —— 第330天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [怎样避免让用户看到长时间的白屏？](https://github.com/haizlin/fe-interview/issues/2038)
+- [css] [使用css实现对话气泡的效果](https://github.com/haizlin/fe-interview/issues/2039)
+- [js] [js循环的数据量很大（例如100W+）时会出现什么情况？如何进行性能优化？](https://github.com/haizlin/fe-interview/issues/2040)
+- [软技能] [说说你对PWA的理解](https://github.com/haizlin/fe-interview/issues/2041)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第327天 (2020.03.08)
-    - [html] [如何禁止移动端的左右划动手势？](https://github.com/haizlin/fe-interview/issues/2019)
-	- [css] [说说你对table-layout的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2020)
-	- [js] [什么是函数式编程？它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2021)
-	- [软技能] [你觉得一线城市和三四线城市的区别在哪？你比较喜欢哪个？](https://github.com/haizlin/fe-interview/issues/2022)
-	
-
 - 第328天 (2020.03.09)
     - [html] [你知道`<a>`标签的target属性规定在何处打开链接文档吗？](https://github.com/haizlin/fe-interview/issues/2023)
 	- [css] [怎么使用css选择空链接？](https://github.com/haizlin/fe-interview/issues/2024)
 	- [js] [你知道什么是纯函数吗？](https://github.com/haizlin/fe-interview/issues/2025)
 	- [软技能] [举例说明你对时间复杂度和空间复杂度的理解](https://github.com/haizlin/fe-interview/issues/2026)
+	
+
+- 第329天 (2020.03.10)
+    - [html] [如何使用html5进行图片压缩上传？](https://github.com/haizlin/fe-interview/issues/2033)
+	- [css] [如何隐藏没有静音、自动播放的音视频？](https://github.com/haizlin/fe-interview/issues/2034)
+	- [js] [举例说明什么是响应式编程？](https://github.com/haizlin/fe-interview/issues/2035)
+	- [软技能] [请问单元测试和集成测试有什么区别？](https://github.com/haizlin/fe-interview/issues/2036)
 	
     
 - **[查看全部](category/history.md)**
