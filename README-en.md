@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.03.09) —— 328 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你知道`<a>`标签的target属性规定在何处打开链接文档吗？](https://github.com/haizlin/fe-interview/issues/2023)
-- [css] [怎么使用css选择空链接？](https://github.com/haizlin/fe-interview/issues/2024)
-- [js] [你知道什么是纯函数吗？](https://github.com/haizlin/fe-interview/issues/2025)
-- [skill] [举例说明你对时间复杂度和空间复杂度的理解](https://github.com/haizlin/fe-interview/issues/2026)
+## Today's Knowledge Points (2020.03.13) —— 332 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明当我们在写布局时，都有哪些边界的情况需要关注的？](https://github.com/haizlin/fe-interview/issues/2047)
+- [css] [css中Scroll-behavior属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2048)
+- [js] [用js实现一个HashMap，不可以使用Object](https://github.com/haizlin/fe-interview/issues/2049)
+- [skill] [你了解什么是极限编程吗？](https://github.com/haizlin/fe-interview/issues/2050)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 326 days (2020.03.07)
-    - [html] [html5点击返回键怎样不让它返回上一页？](https://github.com/haizlin/fe-interview/issues/2015)
-	- [css] [颜色hsla的字母分别表示什么？](https://github.com/haizlin/fe-interview/issues/2016)
-	- [js] [举例说明为什么说ES模块比commonJS模块还优秀？](https://github.com/haizlin/fe-interview/issues/2017)
-	- [skill] [你最近在忙什么？](https://github.com/haizlin/fe-interview/issues/2018)
+- 330 days (2020.03.11)
+    - [html] [怎样避免让用户看到长时间的白屏？](https://github.com/haizlin/fe-interview/issues/2038)
+	- [css] [使用css实现对话气泡的效果](https://github.com/haizlin/fe-interview/issues/2039)
+	- [js] [js循环的数据量很大（例如100W+）时会出现什么情况？如何进行性能优化？](https://github.com/haizlin/fe-interview/issues/2040)
+	- [skill] [说说你对PWA的理解](https://github.com/haizlin/fe-interview/issues/2041)
 	
 
-- 327 days (2020.03.08)
-    - [html] [如何禁止移动端的左右划动手势？](https://github.com/haizlin/fe-interview/issues/2019)
-	- [css] [说说你对table-layout的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2020)
-	- [js] [什么是函数式编程？它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2021)
-	- [skill] [你觉得一线城市和三四线城市的区别在哪？你比较喜欢哪个？](https://github.com/haizlin/fe-interview/issues/2022)
+- 331 days (2020.03.12)
+    - [html] [如何去除标签`<i>`默认斜体？](https://github.com/haizlin/fe-interview/issues/2043)
+	- [css] [你有使用过css的writing-mode属性吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/2044)
+	- [js] [日常开发中写JS循环时应该注意哪些情况？](https://github.com/haizlin/fe-interview/issues/2045)
+	- [skill] [PWA如何改变我们的移动体验？](https://github.com/haizlin/fe-interview/issues/2046)
 	
 
 - **[All](category/history.md)**
@@ -173,6 +173,17 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
 - 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
 - 2020.02.28 — 第317天，第7次登上github热门榜！
+- 2020.03.09 — 第328天，第8次登上github热门榜！去年年底说的官网的事还没上线，不找理由，继续期待吧，满一年的时候会实现的
+- 2020.03.11 — 第330天，star数突破10000，真正跨入万人项目了，在这公布下数据统计（真开源，敢反馈） ：
+    - 坚持每天4.30-5:00之间发布3+1题目，第330天
+    - github有10000人关注，全球开源项目排名第1468名
+    - 总共发布2012道题，涉及html/javascript/css/skill/vue/react/es/nodejs/jquery等题目，前端类题目全球排名第一，包含各大厂商 
+    - 共有39个作者贡献了题目
+    - 总共1250位朋友参与答题，共有6165条回复
+    - 公众号有3710位朋友关注
+    - 有8次上了github全球热门榜
+    - 每天从掘金、简书、sf等平台访问过来的人数达到5千人
+    - 微信上的广告收入：490.55元（广告放在底部，从不干扰读者，后期将会用于相关网站建设支出，服务于社区）
 
 ## Source
 - [前端向朔](https://blog.csdn.net/u013778905/article/category/9098225)（CSDN Daily Synchronized Updates）
@@ -203,6 +214,9 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
 * [SHERlocked93](https://github.com/SHERlocked93/blog) （公众号 「前端下午茶」作者，分享前端精选文章，和大家一起成长）
 * [lucifer](https://github.com/azl397985856/fe-interview) （公众号 「脑洞前端」作者，宇宙最强的前端面试指南）
 * [_frank](https://mp.weixin.qq.com/s/K3yG4eyuQvZxXIU9jas8kA) （公众号 「前端迷」作者，定期分享源码解析，面试经历以及前端技术）
+* [达达前端](https://github.com/webVueBlog/vueblog) （公众号 「达达前端」作者，一个热爱前端的达达程序员）
+* [前端高校](https://github.com/webVueBlog/vueblog) （公众号 「前端高校」作者，置身世外只为暗中观察）
+* [魔王哪吒](https://juejin.im/user/5e477d7ce51d4526c550a27d) （web前端开发工程师）
 * [若川](https://github.com/lxchuan12/blog) （公众号 「若川视野」作者，freeCodeCamp杭州社区组织者之一）
 * [qiangdada](https://github.com/xuqiang521/overwrite) （公众号「合格前端」，定期推送一些精选博文，内容包括但不仅限于前端，不定期进行技术直播分享。）
 * [木易杨](https://github.com/Advanced-Frontend/Daily-Interview-Question)（公众号「高级前端进阶」和壹题的作者，每天搞定一道前端大厂面试题，一年后会看到不一样的自己。）
