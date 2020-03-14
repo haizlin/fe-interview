@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.03.13) —— 332 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [举例说明当我们在写布局时，都有哪些边界的情况需要关注的？](https://github.com/haizlin/fe-interview/issues/2047)
-- [css] [css中Scroll-behavior属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2048)
-- [js] [用js实现一个HashMap，不可以使用Object](https://github.com/haizlin/fe-interview/issues/2049)
-- [skill] [你了解什么是极限编程吗？](https://github.com/haizlin/fe-interview/issues/2050)
+## Today's Knowledge Points (2020.03.15) —— 334 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [html如何创建图片热区（img usemap）？](https://github.com/haizlin/fe-interview/issues/2062)
+- [css] [如何用css实现把“我不爱996”变成“699爱不我”？](https://github.com/haizlin/fe-interview/issues/2063)
+- [js] [请举例说明JSON.stringify()有哪些特性？](https://github.com/haizlin/fe-interview/issues/2064)
+- [skill] [解释下后端渲染与前端渲染有什么区别呢？](https://github.com/haizlin/fe-interview/issues/2065)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
