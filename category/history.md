@@ -2,6 +2,16 @@
 
 
 
+- 第334天 (2020.03.15)
+    - [html] [html如何创建图片热区（img usemap）？](https://github.com/haizlin/fe-interview/issues/2062)
+    - [css] [如何用css实现把“我不爱996”变成“699爱不我”？](https://github.com/haizlin/fe-interview/issues/2063)
+    - [js] [请举例说明JSON.stringify()有哪些特性？](https://github.com/haizlin/fe-interview/issues/2064)
+    - [软技能] [解释下后端渲染与前端渲染有什么区别呢？](https://github.com/haizlin/fe-interview/issues/2065)
+- 第333天 (2020.03.14)
+    - [html] [当img标签中的src图片加载失败时，怎么让它变得更美观呢？](https://github.com/haizlin/fe-interview/issues/2057)
+    - [css] [scroll-snap-align属性的应用场景是什么？](https://github.com/haizlin/fe-interview/issues/2058)
+    - [js] [用js实现typeof的功能](https://github.com/haizlin/fe-interview/issues/2059)
+    - [软技能] [你们前端项目是怎么做监控（埋点）的？都监控哪些维度的数据呢？](https://github.com/haizlin/fe-interview/issues/2060)
 - 第332天 (2020.03.13)
     - [html] [举例说明当我们在写布局时，都有哪些边界的情况需要关注的？](https://github.com/haizlin/fe-interview/issues/2047)
     - [css] [css中Scroll-behavior属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2048)

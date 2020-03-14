@@ -233,6 +233,7 @@ Thank you to all the people who already contributed to 'Front-end interview **3+
 * [前端小智](https://juejin.im/user/59df61ec51882578ce26ee6e)（公众号「大迁世界」作者）
 * [ConardLi](https://github.com/ConardLi)（公众号「code秘密花园」作者）
 * [RobinsonZhang](https://github.com/robinson90)（公众号「达摩空间」作者，爱分享，爱挑战，技术狂热，不断写作，前沿布道。 我们从小白到大师，慢慢来。）
+* [Wscats](https://github.com/Wscats/articles)（公众号「前端漫游」作者，始于前端但不止于前端。）
 * [前端晚练课](https://github.com/fezaoduke/fe-practice-hard)（前端早读课的姊妹篇，每天一个前端知识点，苦练前端真功夫）
 * [每日一题](https://juejin.im/user/5c31b0176fb9a049f7465912)（每日一题（开开森森学前端系列））
 * [前端漫谈](https://juejin.im/user/585a2f52128fe10069ba1b95/posts)（前端漫谈系列）
