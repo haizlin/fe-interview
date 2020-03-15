@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.15) —— 第334天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [html如何创建图片热区（img usemap）？](https://github.com/haizlin/fe-interview/issues/2062)
-- [css] [如何用css实现把“我不爱996”变成“699爱不我”？](https://github.com/haizlin/fe-interview/issues/2063)
-- [js] [请举例说明JSON.stringify()有哪些特性？](https://github.com/haizlin/fe-interview/issues/2064)
-- [软技能] [解释下后端渲染与前端渲染有什么区别呢？](https://github.com/haizlin/fe-interview/issues/2065)
+## 今天的知识点 (2020.03.16) —— 第335天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [你有用过图片热区吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2066)
+- [css] [举例说明你对指针事件（pointer-events）的理解](https://github.com/haizlin/fe-interview/issues/2067)
+- [js] [举例说明js鼠标事件有哪些？](https://github.com/haizlin/fe-interview/issues/2068)
+- [软技能] [前端做单元测试时基本原则有哪些？](https://github.com/haizlin/fe-interview/issues/2069)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！

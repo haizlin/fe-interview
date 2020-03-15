@@ -2,6 +2,11 @@
 
 
 
+- 第335天 (2020.03.16)
+    - [html] [你有用过图片热区吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2066)
+    - [css] [举例说明你对指针事件（pointer-events）的理解](https://github.com/haizlin/fe-interview/issues/2067)
+    - [js] [举例说明js鼠标事件有哪些？](https://github.com/haizlin/fe-interview/issues/2068)
+    - [软技能] [前端做单元测试时基本原则有哪些？](https://github.com/haizlin/fe-interview/issues/2069)
 - 第334天 (2020.03.15)
     - [html] [html如何创建图片热区（img usemap）？](https://github.com/haizlin/fe-interview/issues/2062)
     - [css] [如何用css实现把“我不爱996”变成“699爱不我”？](https://github.com/haizlin/fe-interview/issues/2063)
