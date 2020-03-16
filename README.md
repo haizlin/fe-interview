@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.16) —— 第335天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你有用过图片热区吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2066)
-- [css] [举例说明你对指针事件（pointer-events）的理解](https://github.com/haizlin/fe-interview/issues/2067)
-- [js] [举例说明js鼠标事件有哪些？](https://github.com/haizlin/fe-interview/issues/2068)
-- [软技能] [前端做单元测试时基本原则有哪些？](https://github.com/haizlin/fe-interview/issues/2069)
+## 今天的知识点 (2020.03.17) —— 第336天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [当html中使用map标签时,area中coords值如何精确定位呢？](https://github.com/haizlin/fe-interview/issues/2076)
+- [css] [鼠标事件css的:hover和js的mouseover有什么区别？](https://github.com/haizlin/fe-interview/issues/2077)
+- [js] [如何判断一个元素文本是否换行？](https://github.com/haizlin/fe-interview/issues/2078)
+- [软技能] [举例说明前端的代码是如何解耦的？](https://github.com/haizlin/fe-interview/issues/2079)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
