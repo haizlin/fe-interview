@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.17) —— 第336天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [当html中使用map标签时,area中coords值如何精确定位呢？](https://github.com/haizlin/fe-interview/issues/2076)
-- [css] [鼠标事件css的:hover和js的mouseover有什么区别？](https://github.com/haizlin/fe-interview/issues/2077)
-- [js] [如何判断一个元素文本是否换行？](https://github.com/haizlin/fe-interview/issues/2078)
-- [软技能] [举例说明前端的代码是如何解耦的？](https://github.com/haizlin/fe-interview/issues/2079)
+## 今天的知识点 (2020.03.19) —— 第338天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何禁止input输入的历史记录？](https://github.com/haizlin/fe-interview/issues/2089)
+- [css] [举例说明如何从html元素继承box-sizing？](https://github.com/haizlin/fe-interview/issues/2090)
+- [js] [js可以用中文作为变量命名吗？为什么？](https://github.com/haizlin/fe-interview/issues/2091)
+- [软技能] [说说你对Retine高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！

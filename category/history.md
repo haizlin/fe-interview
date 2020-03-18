@@ -2,6 +2,16 @@
 
 
 
+- 第338天 (2020.03.19)
+    - [html] [如何禁止input输入的历史记录？](https://github.com/haizlin/fe-interview/issues/2089)
+    - [css] [举例说明如何从html元素继承box-sizing？](https://github.com/haizlin/fe-interview/issues/2090)
+    - [js] [js可以用中文作为变量命名吗？为什么？](https://github.com/haizlin/fe-interview/issues/2091)
+    - [软技能] [说说你对Retine高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
+- 第337天 (2020.03.18)
+    - [html] [举例说明Shadow DOM的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2085)
+    - [css] [使用css的attr()写一个类似a标签title的提示框](https://github.com/haizlin/fe-interview/issues/2086)
+    - [js] [解释下如下代码的意图：Array.prototype.slice.apply(arguments)](https://github.com/haizlin/fe-interview/issues/2087)
+    - [软技能] [你为什么希望到我们公司工作？](https://github.com/haizlin/fe-interview/issues/2088)
 - 第336天 (2020.03.17)
     - [html] [当html中使用map标签时,area中coords值如何精确定位呢？](https://github.com/haizlin/fe-interview/issues/2076)
     - [css] [鼠标事件css的:hover和js的mouseover有什么区别？](https://github.com/haizlin/fe-interview/issues/2077)
