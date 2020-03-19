@@ -2,6 +2,11 @@
 
 
 
+- 第339天 (2020.03.20)
+    - [html] [input上传文件可以同时选择多张吗？怎么设置？](https://github.com/haizlin/fe-interview/issues/2093)
+    - [css] [异步加载CSS的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2094)
+    - [js] [写个方法近似计算指定数组或对象占用内存的大小](https://github.com/haizlin/fe-interview/issues/2095)
+    - [软技能] [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)
 - 第338天 (2020.03.19)
     - [html] [如何禁止input输入的历史记录？](https://github.com/haizlin/fe-interview/issues/2089)
     - [css] [举例说明如何从html元素继承box-sizing？](https://github.com/haizlin/fe-interview/issues/2090)
