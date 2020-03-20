@@ -2,6 +2,11 @@
 
 
 
+- 第340天 (2020.03.21)
+    - [html] [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
+    - [css] [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)
+    - [js] [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
+    - [软技能] [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
 - 第339天 (2020.03.20)
     - [html] [input上传文件可以同时选择多张吗？怎么设置？](https://github.com/haizlin/fe-interview/issues/2093)
     - [css] [异步加载CSS的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2094)

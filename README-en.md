@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.03.20) —— 339 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [input上传文件可以同时选择多张吗？怎么设置？](https://github.com/haizlin/fe-interview/issues/2093)
-- [css] [异步加载CSS的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2094)
-- [js] [写个方法近似计算指定数组或对象占用内存的大小](https://github.com/haizlin/fe-interview/issues/2095)
-- [skill] [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)
+## Today's Knowledge Points (2020.03.21) —— 340 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
+- [css] [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)
+- [js] [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
+- [skill] [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 337 days (2020.03.18)
-    - [html] [举例说明Shadow DOM的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2085)
-	- [css] [使用css的attr()写一个类似a标签title的提示框](https://github.com/haizlin/fe-interview/issues/2086)
-	- [js] [解释下如下代码的意图：Array.prototype.slice.apply(arguments)](https://github.com/haizlin/fe-interview/issues/2087)
-	- [skill] [你为什么希望到我们公司工作？](https://github.com/haizlin/fe-interview/issues/2088)
-	
-
 - 338 days (2020.03.19)
     - [html] [如何禁止input输入的历史记录？](https://github.com/haizlin/fe-interview/issues/2089)
 	- [css] [举例说明如何从html元素继承box-sizing？](https://github.com/haizlin/fe-interview/issues/2090)
 	- [js] [js可以用中文作为变量命名吗？为什么？](https://github.com/haizlin/fe-interview/issues/2091)
 	- [skill] [说说你对Retine高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
+	
+
+- 339 days (2020.03.20)
+    - [html] [input上传文件可以同时选择多张吗？怎么设置？](https://github.com/haizlin/fe-interview/issues/2093)
+	- [css] [异步加载CSS的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2094)
+	- [js] [写个方法近似计算指定数组或对象占用内存的大小](https://github.com/haizlin/fe-interview/issues/2095)
+	- [skill] [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)
 	
 
 - **[All](category/history.md)**
