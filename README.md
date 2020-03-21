@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.13) —— 第332天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [举例说明当我们在写布局时，都有哪些边界的情况需要关注的？](https://github.com/haizlin/fe-interview/issues/2047)
-- [css] [css中Scroll-behavior属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2048)
-- [js] [用js实现一个HashMap，不可以使用Object](https://github.com/haizlin/fe-interview/issues/2049)
-- [软技能] [你了解什么是极限编程吗？](https://github.com/haizlin/fe-interview/issues/2050)
+## 今天的知识点 (2020.03.22) —— 第341天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [android手机的微信H5弹出的软键盘挡住了文本框，如何解决？](https://github.com/haizlin/fe-interview/issues/2107)
+- [css] [css的加载会阻塞js运行吗？为什么？](https://github.com/haizlin/fe-interview/issues/2108)
+- [js] [js的数组/对象在内存中分别是如何存储的？](https://github.com/haizlin/fe-interview/issues/2109)
+- [软技能] [你认为一个友好的错误处理机制应该满足哪些条件？](https://github.com/haizlin/fe-interview/issues/2110)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第330天 (2020.03.11)
-    - [html] [怎样避免让用户看到长时间的白屏？](https://github.com/haizlin/fe-interview/issues/2038)
-	- [css] [使用css实现对话气泡的效果](https://github.com/haizlin/fe-interview/issues/2039)
-	- [js] [js循环的数据量很大（例如100W+）时会出现什么情况？如何进行性能优化？](https://github.com/haizlin/fe-interview/issues/2040)
-	- [软技能] [说说你对PWA的理解](https://github.com/haizlin/fe-interview/issues/2041)
+- 第339天 (2020.03.20)
+    - [html] [input上传文件可以同时选择多张吗？怎么设置？](https://github.com/haizlin/fe-interview/issues/2093)
+	- [css] [异步加载CSS的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2094)
+	- [js] [写个方法近似计算指定数组或对象占用内存的大小](https://github.com/haizlin/fe-interview/issues/2095)
+	- [软技能] [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)
 	
 
-- 第331天 (2020.03.12)
-    - [html] [如何去除标签`<i>`默认斜体？](https://github.com/haizlin/fe-interview/issues/2043)
-	- [css] [你有使用过css的writing-mode属性吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/2044)
-	- [js] [日常开发中写JS循环时应该注意哪些情况？](https://github.com/haizlin/fe-interview/issues/2045)
-	- [软技能] [PWA如何改变我们的移动体验？](https://github.com/haizlin/fe-interview/issues/2046)
+- 第340天 (2020.03.21)
+    - [html] [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
+	- [css] [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)
+	- [js] [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
+	- [软技能] [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
 	
     
 - **[查看全部](category/history.md)**
