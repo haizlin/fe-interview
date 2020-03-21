@@ -2,8 +2,22 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.03.08
+> 最新：2029.03.22
 
+- [css的加载会阻塞js运行吗？为什么？](https://github.com/haizlin/fe-interview/issues/2108)
+- [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)
+- [异步加载CSS的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2094)
+- [举例说明如何从html元素继承box-sizing？](https://github.com/haizlin/fe-interview/issues/2090)
+- [使用css的attr()写一个类似a标签title的提示框](https://github.com/haizlin/fe-interview/issues/2086)
+- [鼠标事件css的:hover和js的mouseover有什么区别？](https://github.com/haizlin/fe-interview/issues/2077)
+- [举例说明你对指针事件（pointer-events）的理解](https://github.com/haizlin/fe-interview/issues/2067)
+- [如何用css实现把“我不爱996”变成“699爱不我”？](https://github.com/haizlin/fe-interview/issues/2063)
+- [scroll-snap-align属性的应用场景是什么？](https://github.com/haizlin/fe-interview/issues/2058)
+- [css中Scroll-behavior属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2048)
+- [你有使用过css的writing-mode属性吗？说说它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/2044)
+- [使用css实现对话气泡的效果](https://github.com/haizlin/fe-interview/issues/2039)
+- [如何隐藏没有静音、自动播放的音视频？](https://github.com/haizlin/fe-interview/issues/2034)
+- [怎么使用css选择空链接？](https://github.com/haizlin/fe-interview/issues/2024)
 - [说说你对table-layout的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2020)
 - [颜色hsla的字母分别表示什么？](https://github.com/haizlin/fe-interview/issues/2016)
 - [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/2012)

@@ -2,8 +2,22 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.03.08
+> 最新：2029.03.22
 
+- [你认为一个友好的错误处理机制应该满足哪些条件？](https://github.com/haizlin/fe-interview/issues/2110)
+- [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
+- [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)
+- [说说你对Retine高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
+- [你为什么希望到我们公司工作？](https://github.com/haizlin/fe-interview/issues/2088)
+- [举例说明前端的代码是如何解耦的？](https://github.com/haizlin/fe-interview/issues/2079)
+- [前端做单元测试时基本原则有哪些？](https://github.com/haizlin/fe-interview/issues/2069)
+- [解释下后端渲染与前端渲染有什么区别呢？](https://github.com/haizlin/fe-interview/issues/2065)
+- [你们前端项目是怎么做监控（埋点）的？都监控哪些维度的数据呢？](https://github.com/haizlin/fe-interview/issues/2060)
+- [你了解什么是极限编程吗？](https://github.com/haizlin/fe-interview/issues/2050)
+- [PWA如何改变我们的移动体验？](https://github.com/haizlin/fe-interview/issues/2046)
+- [说说你对PWA的理解](https://github.com/haizlin/fe-interview/issues/2041)
+- [请问单元测试和集成测试有什么区别？](https://github.com/haizlin/fe-interview/issues/2036)
+- [举例说明你对时间复杂度和空间复杂度的理解](https://github.com/haizlin/fe-interview/issues/2026)
 - [你觉得一线城市和三四线城市的区别在哪？你比较喜欢哪个？](https://github.com/haizlin/fe-interview/issues/2022)
 - [你最近在忙什么？](https://github.com/haizlin/fe-interview/issues/2018)
 - [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)

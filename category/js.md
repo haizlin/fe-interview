@@ -2,8 +2,22 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.03.08
+> 最新：2029.03.22
 
+- [js的数组/对象在内存中分别是如何存储的？](https://github.com/haizlin/fe-interview/issues/2109)
+- [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
+- [写个方法近似计算指定数组或对象占用内存的大小](https://github.com/haizlin/fe-interview/issues/2095)
+- [js可以用中文作为变量命名吗？为什么？](https://github.com/haizlin/fe-interview/issues/2091)
+- [解释下如下代码的意图：Array.prototype.slice.apply(arguments)](https://github.com/haizlin/fe-interview/issues/2087)
+- [如何判断一个元素文本是否换行？](https://github.com/haizlin/fe-interview/issues/2078)
+- [举例说明js鼠标事件有哪些？](https://github.com/haizlin/fe-interview/issues/2068)
+- [请举例说明JSON.stringify()有哪些特性？](https://github.com/haizlin/fe-interview/issues/2064)
+- [用js实现typeof的功能](https://github.com/haizlin/fe-interview/issues/2059)
+- [用js实现一个HashMap，不可以使用Object](https://github.com/haizlin/fe-interview/issues/2049)
+- [日常开发中写JS循环时应该注意哪些情况？](https://github.com/haizlin/fe-interview/issues/2045)
+- [js循环的数据量很大（例如100W+）时会出现什么情况？如何进行性能优化？](https://github.com/haizlin/fe-interview/issues/2040)
+- [举例说明什么是响应式编程？](https://github.com/haizlin/fe-interview/issues/2035)
+- [你知道什么是纯函数吗？](https://github.com/haizlin/fe-interview/issues/2025)
 - [什么是函数式编程？它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2021)
 - [举例说明为什么说ES模块比commonJS模块还优秀？](https://github.com/haizlin/fe-interview/issues/2017)
 - [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/2013)

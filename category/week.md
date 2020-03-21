@@ -1,4 +1,4 @@
-# 周汇总 2020.03.08
+# 周汇总 2029.03.22
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [如何禁止移动端的左右划动手势？](https://github.com/haizlin/fe-interview/issues/2019)
-- [html5点击返回键怎样不让它返回上一页？](https://github.com/haizlin/fe-interview/issues/2015)
-- [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/2011)
-- [你知道什么是html5plus吗？](https://github.com/haizlin/fe-interview/issues/2007)
-- [在两个iframe之间传递参数的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2003)
-- [怎样使用iframe刷新父级页面？](https://github.com/haizlin/fe-interview/issues/1994)
-- [为什么移动端页面的设计稿一般是750px/640px呢？](https://github.com/haizlin/fe-interview/issues/1985)
+- [android手机的微信H5弹出的软键盘挡住了文本框，如何解决？](https://github.com/haizlin/fe-interview/issues/2107)
+- [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
+- [input上传文件可以同时选择多张吗？怎么设置？](https://github.com/haizlin/fe-interview/issues/2093)
+- [如何禁止input输入的历史记录？](https://github.com/haizlin/fe-interview/issues/2089)
+- [举例说明Shadow DOM的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2085)
+- [当html中使用map标签时,area中coords值如何精确定位呢？](https://github.com/haizlin/fe-interview/issues/2076)
+- [你有用过图片热区吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2066)
 
 ## css
-- [说说你对table-layout的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2020)
-- [颜色hsla的字母分别表示什么？](https://github.com/haizlin/fe-interview/issues/2016)
-- [如何禁用移动的选择高亮？](https://github.com/haizlin/fe-interview/issues/2012)
-- [使用css实现悬浮提示文本](https://github.com/haizlin/fe-interview/issues/2008)
-- [怎么设置可点击的元素上强制手型？](https://github.com/haizlin/fe-interview/issues/2004)
-- [如何使用css实现跨浏览器的最小高度？](https://github.com/haizlin/fe-interview/issues/1995)
-- [使用css3实现一个斑马线的效果](https://github.com/haizlin/fe-interview/issues/1986)
+- [css的加载会阻塞js运行吗？为什么？](https://github.com/haizlin/fe-interview/issues/2108)
+- [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)
+- [异步加载CSS的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2094)
+- [举例说明如何从html元素继承box-sizing？](https://github.com/haizlin/fe-interview/issues/2090)
+- [使用css的attr()写一个类似a标签title的提示框](https://github.com/haizlin/fe-interview/issues/2086)
+- [鼠标事件css的:hover和js的mouseover有什么区别？](https://github.com/haizlin/fe-interview/issues/2077)
+- [举例说明你对指针事件（pointer-events）的理解](https://github.com/haizlin/fe-interview/issues/2067)
 
 ## js
-- [什么是函数式编程？它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2021)
-- [举例说明为什么说ES模块比commonJS模块还优秀？](https://github.com/haizlin/fe-interview/issues/2017)
-- [请说说commonJS模块与ES模块的差异有哪些？](https://github.com/haizlin/fe-interview/issues/2013)
-- [说下你对IoC的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2009)
-- [说说你对js中的依赖注入的理解，它的实现方式有哪些呢？](https://github.com/haizlin/fe-interview/issues/2005)
-- [用js写一个绑定事件检测窗口大小](https://github.com/haizlin/fe-interview/issues/1996)
-- [有用过Handlebars模板引擎吗？它的工作原理是怎样的？](https://github.com/haizlin/fe-interview/issues/1987)
+- [js的数组/对象在内存中分别是如何存储的？](https://github.com/haizlin/fe-interview/issues/2109)
+- [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
+- [写个方法近似计算指定数组或对象占用内存的大小](https://github.com/haizlin/fe-interview/issues/2095)
+- [js可以用中文作为变量命名吗？为什么？](https://github.com/haizlin/fe-interview/issues/2091)
+- [解释下如下代码的意图：Array.prototype.slice.apply(arguments)](https://github.com/haizlin/fe-interview/issues/2087)
+- [如何判断一个元素文本是否换行？](https://github.com/haizlin/fe-interview/issues/2078)
+- [举例说明js鼠标事件有哪些？](https://github.com/haizlin/fe-interview/issues/2068)
 
 ## 软技能
-- [你觉得一线城市和三四线城市的区别在哪？你比较喜欢哪个？](https://github.com/haizlin/fe-interview/issues/2022)
-- [你最近在忙什么？](https://github.com/haizlin/fe-interview/issues/2018)
-- [你英语怎么样？不用全文翻译能正常阅读外文文档吗？](https://github.com/haizlin/fe-interview/issues/2014)
-- [前端资源发布路径怎么实现非覆盖式发布（平滑升级）？](https://github.com/haizlin/fe-interview/issues/2010)
-- [说说轮询、长轮询、长连接、socket连接、WebSocket的区别](https://github.com/haizlin/fe-interview/issues/2006)
-- [图片是不是越小越好？如何优化图片呢？](https://github.com/haizlin/fe-interview/issues/1997)
-- [你觉得前端有必要写文档吗？](https://github.com/haizlin/fe-interview/issues/1988)
+- [你认为一个友好的错误处理机制应该满足哪些条件？](https://github.com/haizlin/fe-interview/issues/2110)
+- [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
+- [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)
+- [说说你对Retine高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
+- [你为什么希望到我们公司工作？](https://github.com/haizlin/fe-interview/issues/2088)
+- [举例说明前端的代码是如何解耦的？](https://github.com/haizlin/fe-interview/issues/2079)
+- [前端做单元测试时基本原则有哪些？](https://github.com/haizlin/fe-interview/issues/2069)
 
 
 ## 全部

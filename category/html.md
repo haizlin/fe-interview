@@ -2,8 +2,22 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2020.03.08
+> 最新：2029.03.22
 
+- [android手机的微信H5弹出的软键盘挡住了文本框，如何解决？](https://github.com/haizlin/fe-interview/issues/2107)
+- [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
+- [input上传文件可以同时选择多张吗？怎么设置？](https://github.com/haizlin/fe-interview/issues/2093)
+- [如何禁止input输入的历史记录？](https://github.com/haizlin/fe-interview/issues/2089)
+- [举例说明Shadow DOM的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2085)
+- [当html中使用map标签时,area中coords值如何精确定位呢？](https://github.com/haizlin/fe-interview/issues/2076)
+- [你有用过图片热区吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2066)
+- [html如何创建图片热区（img usemap）？](https://github.com/haizlin/fe-interview/issues/2062)
+- [当img标签中的src图片加载失败时，怎么让它变得更美观呢？](https://github.com/haizlin/fe-interview/issues/2057)
+- [举例说明当我们在写布局时，都有哪些边界的情况需要关注的？](https://github.com/haizlin/fe-interview/issues/2047)
+- [如何去除标签`<i>`默认斜体？](https://github.com/haizlin/fe-interview/issues/2043)
+- [怎样避免让用户看到长时间的白屏？](https://github.com/haizlin/fe-interview/issues/2038)
+- [如何使用html5进行图片压缩上传？](https://github.com/haizlin/fe-interview/issues/2033)
+- [你知道`<a>`标签的target属性规定在何处打开链接文档吗？](https://github.com/haizlin/fe-interview/issues/2023)
 - [如何禁止移动端的左右划动手势？](https://github.com/haizlin/fe-interview/issues/2019)
 - [html5点击返回键怎样不让它返回上一页？](https://github.com/haizlin/fe-interview/issues/2015)
 - [在普通网页中如何调用html5+的plus对象？](https://github.com/haizlin/fe-interview/issues/2011)
