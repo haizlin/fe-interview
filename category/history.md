@@ -2,6 +2,11 @@
 
 
 
+- 第341天 (2020.03.22)
+    - [html] [android手机的微信H5弹出的软键盘挡住了文本框，如何解决？](https://github.com/haizlin/fe-interview/issues/2107)
+    - [css] [css的加载会阻塞js运行吗？为什么？](https://github.com/haizlin/fe-interview/issues/2108)
+    - [js] [js的数组/对象在内存中分别是如何存储的？](https://github.com/haizlin/fe-interview/issues/2109)
+    - [软技能] [你认为一个友好的错误处理机制应该满足哪些条件？](https://github.com/haizlin/fe-interview/issues/2110)
 - 第340天 (2020.03.21)
     - [html] [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
     - [css] [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)

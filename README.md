@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.21) —— 第340天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
-- [css] [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)
-- [js] [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
-- [软技能] [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
+## 今天的知识点 (2020.03.22) —— 第341天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [android手机的微信H5弹出的软键盘挡住了文本框，如何解决？](https://github.com/haizlin/fe-interview/issues/2107)
+- [css] [css的加载会阻塞js运行吗？为什么？](https://github.com/haizlin/fe-interview/issues/2108)
+- [js] [js的数组/对象在内存中分别是如何存储的？](https://github.com/haizlin/fe-interview/issues/2109)
+- [软技能] [你认为一个友好的错误处理机制应该满足哪些条件？](https://github.com/haizlin/fe-interview/issues/2110)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第338天 (2020.03.19)
-    - [html] [如何禁止input输入的历史记录？](https://github.com/haizlin/fe-interview/issues/2089)
-	- [css] [举例说明如何从html元素继承box-sizing？](https://github.com/haizlin/fe-interview/issues/2090)
-	- [js] [js可以用中文作为变量命名吗？为什么？](https://github.com/haizlin/fe-interview/issues/2091)
-	- [软技能] [说说你对Retine高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
-	
-
 - 第339天 (2020.03.20)
     - [html] [input上传文件可以同时选择多张吗？怎么设置？](https://github.com/haizlin/fe-interview/issues/2093)
 	- [css] [异步加载CSS的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2094)
 	- [js] [写个方法近似计算指定数组或对象占用内存的大小](https://github.com/haizlin/fe-interview/issues/2095)
 	- [软技能] [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)
+	
+
+- 第340天 (2020.03.21)
+    - [html] [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
+	- [css] [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)
+	- [js] [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
+	- [软技能] [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
 	
     
 - **[查看全部](category/history.md)**
