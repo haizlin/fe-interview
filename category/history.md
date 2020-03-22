@@ -2,6 +2,11 @@
 
 
 
+- 第342天 (2020.03.23)
+    - [html] [编写一个布局，让文字环绕在图片的周围](https://github.com/haizlin/fe-interview/issues/2111)
+    - [css] [为了减小css文件的大小，怎么去除无用css呢？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2112)
+    - [js] [判断[].__proto__.__proto__ === {}.__proto__结果并解释为什么[代码]](https://github.com/haizlin/fe-interview/issues/2113)
+    - [软技能] [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
 - 第341天 (2020.03.22)
     - [html] [android手机的微信H5弹出的软键盘挡住了文本框，如何解决？](https://github.com/haizlin/fe-interview/issues/2107)
     - [css] [css的加载会阻塞js运行吗？为什么？](https://github.com/haizlin/fe-interview/issues/2108)
