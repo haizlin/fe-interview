@@ -2,6 +2,11 @@
 
 
 
+- 第343天 (2020.03.24)
+    - [html] [编写html时，你有没有用过Emmet插件呢？说说它的优点及规则有哪些？](https://github.com/haizlin/fe-interview/issues/2121)
+    - [css] [在一个项目里，你是如何组织(架构)css代码的？](https://github.com/haizlin/fe-interview/issues/2122)
+    - [js] [在chrome中js的数组占用了多少内存？](https://github.com/haizlin/fe-interview/issues/2123)
+    - [软技能] [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
 - 第342天 (2020.03.23)
     - [html] [编写一个布局，让文字环绕在图片的周围](https://github.com/haizlin/fe-interview/issues/2111)
     - [css] [为了减小css文件的大小，怎么去除无用css呢？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2112)

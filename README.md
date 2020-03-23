@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.23) —— 第342天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [编写一个布局，让文字环绕在图片的周围](https://github.com/haizlin/fe-interview/issues/2111)
-- [css] [为了减小css文件的大小，怎么去除无用css呢？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2112)
-- [js] [判断[].__proto__.__proto__ === {}.__proto__结果并解释为什么[代码]](https://github.com/haizlin/fe-interview/issues/2113)
-- [软技能] [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
+## 今天的知识点 (2020.03.24) —— 第343天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [编写html时，你有没有用过Emmet插件呢？说说它的优点及规则有哪些？](https://github.com/haizlin/fe-interview/issues/2121)
+- [css] [在一个项目里，你是如何组织(架构)css代码的？](https://github.com/haizlin/fe-interview/issues/2122)
+- [js] [在chrome中js的数组占用了多少内存？](https://github.com/haizlin/fe-interview/issues/2123)
+- [软技能] [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第340天 (2020.03.21)
-    - [html] [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
-	- [css] [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)
-	- [js] [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
-	- [软技能] [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
-	
-
 - 第341天 (2020.03.22)
     - [html] [android手机的微信H5弹出的软键盘挡住了文本框，如何解决？](https://github.com/haizlin/fe-interview/issues/2107)
 	- [css] [css的加载会阻塞js运行吗？为什么？](https://github.com/haizlin/fe-interview/issues/2108)
 	- [js] [js的数组/对象在内存中分别是如何存储的？](https://github.com/haizlin/fe-interview/issues/2109)
 	- [软技能] [你认为一个友好的错误处理机制应该满足哪些条件？](https://github.com/haizlin/fe-interview/issues/2110)
+	
+
+- 第342天 (2020.03.23)
+    - [html] [编写一个布局，让文字环绕在图片的周围](https://github.com/haizlin/fe-interview/issues/2111)
+	- [css] [为了减小css文件的大小，怎么去除无用css呢？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2112)
+	- [js] [判断[].__proto__.__proto__ === {}.__proto__结果并解释为什么[代码]](https://github.com/haizlin/fe-interview/issues/2113)
+	- [软技能] [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
 	
     
 - **[查看全部](category/history.md)**
