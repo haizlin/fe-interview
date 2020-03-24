@@ -2,6 +2,11 @@
 
 
 
+- 第344天 (2020.03.25)
+    - [html] [你是如何理解html与css分离的？](https://github.com/haizlin/fe-interview/issues/2125)
+    - [css] [使用纯css能否监控到用户的一些信息？怎么实现？](https://github.com/haizlin/fe-interview/issues/2126)
+    - [js] [使用js生成1-10000的数组](https://github.com/haizlin/fe-interview/issues/2127)
+    - [软技能] [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
 - 第343天 (2020.03.24)
     - [html] [编写html时，你有没有用过Emmet插件呢？说说它的优点及规则有哪些？](https://github.com/haizlin/fe-interview/issues/2121)
     - [css] [在一个项目里，你是如何组织(架构)css代码的？](https://github.com/haizlin/fe-interview/issues/2122)
