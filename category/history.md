@@ -2,6 +2,11 @@
 
 
 
+- 第345天 (2020.03.26)
+    - [html] [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
+    - [css] [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)
+    - [js] [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
+    - [软技能] [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
 - 第344天 (2020.03.25)
     - [html] [你是如何理解html与css分离的？](https://github.com/haizlin/fe-interview/issues/2125)
     - [css] [使用纯css能否监控到用户的一些信息？怎么实现？](https://github.com/haizlin/fe-interview/issues/2126)

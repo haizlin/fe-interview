@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.25) —— 第344天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你是如何理解html与css分离的？](https://github.com/haizlin/fe-interview/issues/2125)
-- [css] [使用纯css能否监控到用户的一些信息？怎么实现？](https://github.com/haizlin/fe-interview/issues/2126)
-- [js] [使用js生成1-10000的数组](https://github.com/haizlin/fe-interview/issues/2127)
-- [软技能] [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
+## 今天的知识点 (2020.03.26) —— 第345天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
+- [css] [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)
+- [js] [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
+- [软技能] [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第342天 (2020.03.23)
-    - [html] [编写一个布局，让文字环绕在图片的周围](https://github.com/haizlin/fe-interview/issues/2111)
-	- [css] [为了减小css文件的大小，怎么去除无用css呢？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2112)
-	- [js] [判断[].__proto__.__proto__ === {}.__proto__结果并解释为什么[代码]](https://github.com/haizlin/fe-interview/issues/2113)
-	- [软技能] [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
-	
-
 - 第343天 (2020.03.24)
     - [html] [编写html时，你有没有用过Emmet插件呢？说说它的优点及规则有哪些？](https://github.com/haizlin/fe-interview/issues/2121)
 	- [css] [在一个项目里，你是如何组织(架构)css代码的？](https://github.com/haizlin/fe-interview/issues/2122)
 	- [js] [在chrome中js的数组占用了多少内存？](https://github.com/haizlin/fe-interview/issues/2123)
 	- [软技能] [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
+	
+
+- 第344天 (2020.03.25)
+    - [html] [你是如何理解html与css分离的？](https://github.com/haizlin/fe-interview/issues/2125)
+	- [css] [使用纯css能否监控到用户的一些信息？怎么实现？](https://github.com/haizlin/fe-interview/issues/2126)
+	- [js] [使用js生成1-10000的数组](https://github.com/haizlin/fe-interview/issues/2127)
+	- [软技能] [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
 	
     
 - **[查看全部](category/history.md)**
