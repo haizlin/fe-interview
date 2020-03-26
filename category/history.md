@@ -2,6 +2,11 @@
 
 
 
+- 第346天 (2020.03.27)
+    - [html] [举例说明锚点定位有什么作用？](https://github.com/haizlin/fe-interview/issues/2147)
+    - [css] [使用css画个钟表的时间刻度](https://github.com/haizlin/fe-interview/issues/2148)
+    - [js] [写一个方法获取指定数组中间的值（一个或者两个）](https://github.com/haizlin/fe-interview/issues/2149)
+    - [软技能] [如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/haizlin/fe-interview/issues/2150)
 - 第345天 (2020.03.26)
     - [html] [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
     - [css] [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)

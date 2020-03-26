@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.03.26) —— 345 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
-- [css] [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)
-- [js] [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
-- [skill] [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
+## Today's Knowledge Points (2020.03.27) —— 346 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明锚点定位有什么作用？](https://github.com/haizlin/fe-interview/issues/2147)
+- [css] [使用css画个钟表的时间刻度](https://github.com/haizlin/fe-interview/issues/2148)
+- [js] [写一个方法获取指定数组中间的值（一个或者两个）](https://github.com/haizlin/fe-interview/issues/2149)
+- [skill] [如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/haizlin/fe-interview/issues/2150)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 343 days (2020.03.24)
-    - [html] [编写html时，你有没有用过Emmet插件呢？说说它的优点及规则有哪些？](https://github.com/haizlin/fe-interview/issues/2121)
-	- [css] [在一个项目里，你是如何组织(架构)css代码的？](https://github.com/haizlin/fe-interview/issues/2122)
-	- [js] [在chrome中js的数组占用了多少内存？](https://github.com/haizlin/fe-interview/issues/2123)
-	- [skill] [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
-	
-
 - 344 days (2020.03.25)
     - [html] [你是如何理解html与css分离的？](https://github.com/haizlin/fe-interview/issues/2125)
 	- [css] [使用纯css能否监控到用户的一些信息？怎么实现？](https://github.com/haizlin/fe-interview/issues/2126)
 	- [js] [使用js生成1-10000的数组](https://github.com/haizlin/fe-interview/issues/2127)
 	- [skill] [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
+	
+
+- 345 days (2020.03.26)
+    - [html] [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
+	- [css] [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)
+	- [js] [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
+	- [skill] [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
 	
 
 - **[All](category/history.md)**
