@@ -2,6 +2,11 @@
 
 
 
+- 第347天 (2020.03.28)
+    - [html] [html6即将到来，你最期待的是什么特性呢？](https://github.com/haizlin/fe-interview/issues/2151)
+    - [css] [ui设计中px、pt、ppi、dpi、dp、sp之间的关系？](https://github.com/haizlin/fe-interview/issues/2152)
+    - [js] [写一个方法把分钟转化为时分，例如：150->02:30](https://github.com/haizlin/fe-interview/issues/2153)
+    - [软技能] [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
 - 第346天 (2020.03.27)
     - [html] [举例说明锚点定位有什么作用？](https://github.com/haizlin/fe-interview/issues/2147)
     - [css] [使用css画个钟表的时间刻度](https://github.com/haizlin/fe-interview/issues/2148)
