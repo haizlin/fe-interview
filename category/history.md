@@ -2,6 +2,11 @@
 
 
 
+- 第348天 (2020.03.29)
+    - [html] [后缀.html和.htm有什么区别？](https://github.com/haizlin/fe-interview/issues/2155)
+    - [css] [举例说明shape-outside的属性的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2156)
+    - [js] [用js怎么实现图片马赛克效果？](https://github.com/haizlin/fe-interview/issues/2157)
+    - [软技能] [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
 - 第347天 (2020.03.28)
     - [html] [html6即将到来，你最期待的是什么特性呢？](https://github.com/haizlin/fe-interview/issues/2151)
     - [css] [ui设计中px、pt、ppi、dpi、dp、sp之间的关系？](https://github.com/haizlin/fe-interview/issues/2152)

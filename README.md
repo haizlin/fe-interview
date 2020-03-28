@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.28) —— 第347天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [html6即将到来，你最期待的是什么特性呢？](https://github.com/haizlin/fe-interview/issues/2151)
-- [css] [ui设计中px、pt、ppi、dpi、dp、sp之间的关系？](https://github.com/haizlin/fe-interview/issues/2152)
-- [js] [写一个方法把分钟转化为时分，例如：150->02:30](https://github.com/haizlin/fe-interview/issues/2153)
-- [软技能] [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
+## 今天的知识点 (2020.03.29) —— 第348天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [后缀.html和.htm有什么区别？](https://github.com/haizlin/fe-interview/issues/2155)
+- [css] [举例说明shape-outside的属性的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2156)
+- [js] [用js怎么实现图片马赛克效果？](https://github.com/haizlin/fe-interview/issues/2157)
+- [软技能] [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第345天 (2020.03.26)
-    - [html] [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
-	- [css] [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)
-	- [js] [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
-	- [软技能] [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
-	
-
 - 第346天 (2020.03.27)
     - [html] [举例说明锚点定位有什么作用？](https://github.com/haizlin/fe-interview/issues/2147)
 	- [css] [使用css画个钟表的时间刻度](https://github.com/haizlin/fe-interview/issues/2148)
 	- [js] [写一个方法获取指定数组中间的值（一个或者两个）](https://github.com/haizlin/fe-interview/issues/2149)
 	- [软技能] [如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/haizlin/fe-interview/issues/2150)
+	
+
+- 第347天 (2020.03.28)
+    - [html] [html6即将到来，你最期待的是什么特性呢？](https://github.com/haizlin/fe-interview/issues/2151)
+	- [css] [ui设计中px、pt、ppi、dpi、dp、sp之间的关系？](https://github.com/haizlin/fe-interview/issues/2152)
+	- [js] [写一个方法把分钟转化为时分，例如：150->02:30](https://github.com/haizlin/fe-interview/issues/2153)
+	- [软技能] [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
 	
     
 - **[查看全部](category/history.md)**
