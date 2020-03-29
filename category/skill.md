@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2029.03.22
+> 最新：2029.03.29
 
+- [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
+- [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
+- [如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/haizlin/fe-interview/issues/2150)
+- [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
+- [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
+- [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
+- [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
 - [你认为一个友好的错误处理机制应该满足哪些条件？](https://github.com/haizlin/fe-interview/issues/2110)
 - [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
 - [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)

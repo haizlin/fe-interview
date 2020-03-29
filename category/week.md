@@ -1,4 +1,4 @@
-# 周汇总 2029.03.22
+# 周汇总 2029.03.29
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [android手机的微信H5弹出的软键盘挡住了文本框，如何解决？](https://github.com/haizlin/fe-interview/issues/2107)
-- [input上传图片怎样触发默认拍照功能？](https://github.com/haizlin/fe-interview/issues/2103)
-- [input上传文件可以同时选择多张吗？怎么设置？](https://github.com/haizlin/fe-interview/issues/2093)
-- [如何禁止input输入的历史记录？](https://github.com/haizlin/fe-interview/issues/2089)
-- [举例说明Shadow DOM的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2085)
-- [当html中使用map标签时,area中coords值如何精确定位呢？](https://github.com/haizlin/fe-interview/issues/2076)
-- [你有用过图片热区吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2066)
+- [后缀.html和.htm有什么区别？](https://github.com/haizlin/fe-interview/issues/2155)
+- [html6即将到来，你最期待的是什么特性呢？](https://github.com/haizlin/fe-interview/issues/2151)
+- [举例说明锚点定位有什么作用？](https://github.com/haizlin/fe-interview/issues/2147)
+- [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
+- [你是如何理解html与css分离的？](https://github.com/haizlin/fe-interview/issues/2125)
+- [编写html时，你有没有用过Emmet插件呢？说说它的优点及规则有哪些？](https://github.com/haizlin/fe-interview/issues/2121)
+- [编写一个布局，让文字环绕在图片的周围](https://github.com/haizlin/fe-interview/issues/2111)
 
 ## css
-- [css的加载会阻塞js运行吗？为什么？](https://github.com/haizlin/fe-interview/issues/2108)
-- [css的加载会阻塞DOM树解析和渲染吗？为什么？](https://github.com/haizlin/fe-interview/issues/2104)
-- [异步加载CSS的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2094)
-- [举例说明如何从html元素继承box-sizing？](https://github.com/haizlin/fe-interview/issues/2090)
-- [使用css的attr()写一个类似a标签title的提示框](https://github.com/haizlin/fe-interview/issues/2086)
-- [鼠标事件css的:hover和js的mouseover有什么区别？](https://github.com/haizlin/fe-interview/issues/2077)
-- [举例说明你对指针事件（pointer-events）的理解](https://github.com/haizlin/fe-interview/issues/2067)
+- [举例说明shape-outside的属性的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2156)
+- [ui设计中px、pt、ppi、dpi、dp、sp之间的关系？](https://github.com/haizlin/fe-interview/issues/2152)
+- [使用css画个钟表的时间刻度](https://github.com/haizlin/fe-interview/issues/2148)
+- [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)
+- [使用纯css能否监控到用户的一些信息？怎么实现？](https://github.com/haizlin/fe-interview/issues/2126)
+- [在一个项目里，你是如何组织(架构)css代码的？](https://github.com/haizlin/fe-interview/issues/2122)
+- [为了减小css文件的大小，怎么去除无用css呢？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2112)
 
 ## js
-- [js的数组/对象在内存中分别是如何存储的？](https://github.com/haizlin/fe-interview/issues/2109)
-- [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
-- [写个方法近似计算指定数组或对象占用内存的大小](https://github.com/haizlin/fe-interview/issues/2095)
-- [js可以用中文作为变量命名吗？为什么？](https://github.com/haizlin/fe-interview/issues/2091)
-- [解释下如下代码的意图：Array.prototype.slice.apply(arguments)](https://github.com/haizlin/fe-interview/issues/2087)
-- [如何判断一个元素文本是否换行？](https://github.com/haizlin/fe-interview/issues/2078)
-- [举例说明js鼠标事件有哪些？](https://github.com/haizlin/fe-interview/issues/2068)
+- [用js怎么实现图片马赛克效果？](https://github.com/haizlin/fe-interview/issues/2157)
+- [写一个方法把分钟转化为时分，例如：150->02:30](https://github.com/haizlin/fe-interview/issues/2153)
+- [写一个方法获取指定数组中间的值（一个或者两个）](https://github.com/haizlin/fe-interview/issues/2149)
+- [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
+- [使用js生成1-10000的数组](https://github.com/haizlin/fe-interview/issues/2127)
+- [在chrome中js的数组占用了多少内存？](https://github.com/haizlin/fe-interview/issues/2123)
+- [判断[].__proto__.__proto__ === {}.__proto__结果并解释为什么[代码]](https://github.com/haizlin/fe-interview/issues/2113)
 
 ## 软技能
-- [你认为一个友好的错误处理机制应该满足哪些条件？](https://github.com/haizlin/fe-interview/issues/2110)
-- [现有几名候选人，说说你认为你的最大优势是什么？](https://github.com/haizlin/fe-interview/issues/2106)
-- [你有使用过2k屏或4k屏吗？说说你对它们的理解](https://github.com/haizlin/fe-interview/issues/2096)
-- [说说你对Retine高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
-- [你为什么希望到我们公司工作？](https://github.com/haizlin/fe-interview/issues/2088)
-- [举例说明前端的代码是如何解耦的？](https://github.com/haizlin/fe-interview/issues/2079)
-- [前端做单元测试时基本原则有哪些？](https://github.com/haizlin/fe-interview/issues/2069)
+- [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
+- [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
+- [如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/haizlin/fe-interview/issues/2150)
+- [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
+- [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
+- [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
+- [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
 
 
 ## 全部

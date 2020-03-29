@@ -2,8 +2,15 @@
 > 一周汇总一次
 
 ## 历史题目
-> 最新：2029.03.22
+> 最新：2029.03.29
 
+- [用js怎么实现图片马赛克效果？](https://github.com/haizlin/fe-interview/issues/2157)
+- [写一个方法把分钟转化为时分，例如：150->02:30](https://github.com/haizlin/fe-interview/issues/2153)
+- [写一个方法获取指定数组中间的值（一个或者两个）](https://github.com/haizlin/fe-interview/issues/2149)
+- [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
+- [使用js生成1-10000的数组](https://github.com/haizlin/fe-interview/issues/2127)
+- [在chrome中js的数组占用了多少内存？](https://github.com/haizlin/fe-interview/issues/2123)
+- [判断[].__proto__.__proto__ === {}.__proto__结果并解释为什么[代码]](https://github.com/haizlin/fe-interview/issues/2113)
 - [js的数组/对象在内存中分别是如何存储的？](https://github.com/haizlin/fe-interview/issues/2109)
 - [写个方法判断数组对象中是否存在某个对象](https://github.com/haizlin/fe-interview/issues/2105)
 - [写个方法近似计算指定数组或对象占用内存的大小](https://github.com/haizlin/fe-interview/issues/2095)
