@@ -2,6 +2,11 @@
 
 
 
+- 第349天 (2020.03.30)
+    - [html] [使用canvas制作一个印章](https://github.com/haizlin/fe-interview/issues/2159)
+    - [css] [用css3画出一个立体魔方](https://github.com/haizlin/fe-interview/issues/2160)
+    - [js] [ajax请求中为何会出现OPTIONS请求？](https://github.com/haizlin/fe-interview/issues/2161)
+    - [软技能] [说说扫码登陆和扫码支付的原理及流程是什么？](https://github.com/haizlin/fe-interview/issues/2162)
 - 第348天 (2020.03.29)
     - [html] [后缀.html和.htm有什么区别？](https://github.com/haizlin/fe-interview/issues/2155)
     - [css] [举例说明shape-outside的属性的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2156)
