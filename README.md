@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.03.30) —— 第349天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [使用canvas制作一个印章](https://github.com/haizlin/fe-interview/issues/2159)
-- [css] [用css3画出一个立体魔方](https://github.com/haizlin/fe-interview/issues/2160)
-- [js] [ajax请求中为何会出现OPTIONS请求？](https://github.com/haizlin/fe-interview/issues/2161)
-- [软技能] [说说扫码登陆和扫码支付的原理及流程是什么？](https://github.com/haizlin/fe-interview/issues/2162)
+## 今天的知识点 (2020.03.31) —— 第350天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何构建“弱网络环境”友好的项目？](https://github.com/haizlin/fe-interview/issues/2163)
+- [css] [如何重写行内样式？方法有哪些（至少两种）？](https://github.com/haizlin/fe-interview/issues/2164)
+- [js] [Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/2165)
+- [软技能] [说说你对文件后缀的理解，为什么会有这么多种类型的后缀呢？](https://github.com/haizlin/fe-interview/issues/2167)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第347天 (2020.03.28)
-    - [html] [html6即将到来，你最期待的是什么特性呢？](https://github.com/haizlin/fe-interview/issues/2151)
-	- [css] [ui设计中px、pt、ppi、dpi、dp、sp之间的关系？](https://github.com/haizlin/fe-interview/issues/2152)
-	- [js] [写一个方法把分钟转化为时分，例如：150->02:30](https://github.com/haizlin/fe-interview/issues/2153)
-	- [软技能] [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
-	
-
 - 第348天 (2020.03.29)
     - [html] [后缀.html和.htm有什么区别？](https://github.com/haizlin/fe-interview/issues/2155)
 	- [css] [举例说明shape-outside的属性的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2156)
 	- [js] [用js怎么实现图片马赛克效果？](https://github.com/haizlin/fe-interview/issues/2157)
 	- [软技能] [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
+	
+
+- 第349天 (2020.03.30)
+    - [html] [使用canvas制作一个印章](https://github.com/haizlin/fe-interview/issues/2159)
+	- [css] [用css3画出一个立体魔方](https://github.com/haizlin/fe-interview/issues/2160)
+	- [js] [ajax请求中为何会出现OPTIONS请求？](https://github.com/haizlin/fe-interview/issues/2161)
+	- [软技能] [说说扫码登陆和扫码支付的原理及流程是什么？](https://github.com/haizlin/fe-interview/issues/2162)
 	
     
 - **[查看全部](category/history.md)**
