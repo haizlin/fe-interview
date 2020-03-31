@@ -35,10 +35,10 @@
 
 
 ## 今天的知识点 (2020.04.01) —— 第351天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [如何构建“弱网络环境”友好的项目？](https://github.com/haizlin/fe-interview/issues/2169)
-- [css] [如何重写行内样式？方法有哪些（至少两种）？](https://github.com/haizlin/fe-interview/issues/2170)
-- [js] [Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/2171)
-- [软技能] [说说你对文件后缀的理解，为什么会有这么多种类型的后缀呢？](https://github.com/haizlin/fe-interview/issues/2172)
+- [html] [你知道什么是粘性布局吗？](https://github.com/haizlin/fe-interview/issues/2176)
+- [css] [有哪些标签是不支持伪元素的？](https://github.com/haizlin/fe-interview/issues/2173)
+- [js] [请写一个性能最好的深度克隆对象的方法](https://github.com/haizlin/fe-interview/issues/2174)
+- [软技能] [什么是补间动画？它分为哪几种类型？](https://github.com/haizlin/fe-interview/issues/2175)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -86,10 +86,10 @@
 	
 
 - 第350天 (2020.03.31)
-    - [] [](https://github.com/haizlin/fe-interview/issues/)
-	- [] [](https://github.com/haizlin/fe-interview/issues/)
-	- [] [](https://github.com/haizlin/fe-interview/issues/)
-	- [] [](https://github.com/haizlin/fe-interview/issues/)
+    - [html] [如何构建“弱网络环境”友好的项目？](https://github.com/haizlin/fe-interview/issues/2163)
+	- [css] [如何重写行内样式？方法有哪些（至少两种）？](https://github.com/haizlin/fe-interview/issues/2165)
+	- [js] [Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/2164)
+	- [软技能] [说说你对文件后缀的理解，为什么会有这么多种类型的后缀呢？](https://github.com/haizlin/fe-interview/issues/2167)
 	
     
 - **[查看全部](category/history.md)**
