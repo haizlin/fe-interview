@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.04.01) —— 351 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你知道什么是粘性布局吗？](https://github.com/haizlin/fe-interview/issues/2176)
-- [css] [有哪些标签是不支持伪元素的？](https://github.com/haizlin/fe-interview/issues/2173)
-- [js] [请写一个性能最好的深度克隆对象的方法](https://github.com/haizlin/fe-interview/issues/2174)
-- [skill] [什么是补间动画？它分为哪几种类型？](https://github.com/haizlin/fe-interview/issues/2175)
+## Today's Knowledge Points (2020.04.02) —— 352 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [说说页面中字体渲染规则是怎样的？会有哪些因素影响字体的渲染？](https://github.com/haizlin/fe-interview/issues/2178)
+- [css] [请使用纯css实现波浪效果](https://github.com/haizlin/fe-interview/issues/2179)
+- [js] [使用ajax请求真的不安全吗？为什么？](https://github.com/haizlin/fe-interview/issues/2180)
+- [skill] [相同的内容生成的二维码是一样的吗？不同内容的二维码会不会重复？](https://github.com/haizlin/fe-interview/issues/2181)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 349 days (2020.03.30)
-    - [html] [使用canvas制作一个印章](https://github.com/haizlin/fe-interview/issues/2159)
-	- [css] [用css3画出一个立体魔方](https://github.com/haizlin/fe-interview/issues/2160)
-	- [js] [ajax请求中为何会出现OPTIONS请求？](https://github.com/haizlin/fe-interview/issues/2161)
-	- [skill] [说说扫码登陆和扫码支付的原理及流程是什么？](https://github.com/haizlin/fe-interview/issues/2162)
-	
-
 - 350 days (2020.03.31)
     - [html] [如何构建“弱网络环境”友好的项目？](https://github.com/haizlin/fe-interview/issues/2163)
 	- [css] [如何重写行内样式？方法有哪些（至少两种）？](https://github.com/haizlin/fe-interview/issues/2165)
 	- [js] [Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/2164)
 	- [skill] [说说你对文件后缀的理解，为什么会有这么多种类型的后缀呢？](https://github.com/haizlin/fe-interview/issues/2167)
+	
+
+- 351 days (2020.04.01)
+    - [html] [你知道什么是粘性布局吗？](https://github.com/haizlin/fe-interview/issues/2176)
+	- [css] [有哪些标签是不支持伪元素的？](https://github.com/haizlin/fe-interview/issues/2173)
+	- [js] [请写一个性能最好的深度克隆对象的方法](https://github.com/haizlin/fe-interview/issues/2174)
+	- [skill] [什么是补间动画？它分为哪几种类型？](https://github.com/haizlin/fe-interview/issues/2175)
 	
 
 - **[All](category/history.md)**
