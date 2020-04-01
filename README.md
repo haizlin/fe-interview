@@ -80,8 +80,8 @@
 
 - 第350天 (2020.03.31)
     - [html] [如何构建“弱网络环境”友好的项目？](https://github.com/haizlin/fe-interview/issues/2163)
-	- [css] [如何重写行内样式？方法有哪些（至少两种）？](https://github.com/haizlin/fe-interview/issues/2165)
-	- [js] [Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/2164)
+	- [css] [如何重写行内样式？方法有哪些（至少两种）？](https://github.com/haizlin/fe-interview/issues/2164)
+	- [js] [Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/2165)
 	- [软技能] [说说你对文件后缀的理解，为什么会有这么多种类型的后缀呢？](https://github.com/haizlin/fe-interview/issues/2167)
 	
 
