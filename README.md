@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.04.02) —— 第352天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [说说页面中字体渲染规则是怎样的？会有哪些因素影响字体的渲染？](https://github.com/haizlin/fe-interview/issues/2178)
-- [css] [请使用纯css实现波浪效果](https://github.com/haizlin/fe-interview/issues/2179)
-- [js] [使用ajax请求真的不安全吗？为什么？](https://github.com/haizlin/fe-interview/issues/2180)
-- [软技能] [相同的内容生成的二维码是一样的吗？不同内容的二维码会不会重复？](https://github.com/haizlin/fe-interview/issues/2181)
+## 今天的知识点 (2020.04.03) —— 第353天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [列举几种瀑布流布局的方法](https://github.com/haizlin/fe-interview/issues/2182)
+- [css] [请问class与[class=xxx]的区别是什么？两者是否等价？](https://github.com/haizlin/fe-interview/issues/2183)
+- [js] [你有使用过pjax吗？它的原理是什么？](https://github.com/haizlin/fe-interview/issues/2184)
+- [软技能] [如何做用户身份验证？](https://github.com/haizlin/fe-interview/issues/2185)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第350天 (2020.03.31)
-    - [html] [如何构建“弱网络环境”友好的项目？](https://github.com/haizlin/fe-interview/issues/2163)
-	- [css] [如何重写行内样式？方法有哪些（至少两种）？](https://github.com/haizlin/fe-interview/issues/2164)
-	- [js] [Math.ceil()、Math.round()、Math.floor()三者的区别是什么？](https://github.com/haizlin/fe-interview/issues/2165)
-	- [软技能] [说说你对文件后缀的理解，为什么会有这么多种类型的后缀呢？](https://github.com/haizlin/fe-interview/issues/2167)
-	
-
 - 第351天 (2020.04.01)
     - [html] [你知道什么是粘性布局吗？](https://github.com/haizlin/fe-interview/issues/2176)
 	- [css] [有哪些标签是不支持伪元素的？](https://github.com/haizlin/fe-interview/issues/2173)
 	- [js] [请写一个性能最好的深度克隆对象的方法](https://github.com/haizlin/fe-interview/issues/2174)
 	- [软技能] [什么是补间动画？它分为哪几种类型？](https://github.com/haizlin/fe-interview/issues/2175)
+	
+
+- 第352天 (2020.04.02)
+    - [html] [说说页面中字体渲染规则是怎样的？会有哪些因素影响字体的渲染？](https://github.com/haizlin/fe-interview/issues/2178)
+	- [css] [请使用纯css实现波浪效果](https://github.com/haizlin/fe-interview/issues/2179)
+	- [js] [使用ajax请求真的不安全吗？为什么？](https://github.com/haizlin/fe-interview/issues/2180)
+	- [软技能] [相同的内容生成的二维码是一样的吗？不同内容的二维码会不会重复？](https://github.com/haizlin/fe-interview/issues/2181)
 	
     
 - **[查看全部](category/history.md)**

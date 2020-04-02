@@ -2,6 +2,11 @@
 
 
 
+- 第353天 (2020.04.03)
+    - [html] [列举几种瀑布流布局的方法](https://github.com/haizlin/fe-interview/issues/2182)
+    - [css] [请问class与[class=xxx]的区别是什么？两者是否等价？](https://github.com/haizlin/fe-interview/issues/2183)
+    - [js] [你有使用过pjax吗？它的原理是什么？](https://github.com/haizlin/fe-interview/issues/2184)
+    - [软技能] [如何做用户身份验证？](https://github.com/haizlin/fe-interview/issues/2185)
 - 第352天 (2020.04.02)
     - [html] [说说页面中字体渲染规则是怎样的？会有哪些因素影响字体的渲染？](https://github.com/haizlin/fe-interview/issues/2178)
     - [css] [请使用纯css实现波浪效果](https://github.com/haizlin/fe-interview/issues/2179)
