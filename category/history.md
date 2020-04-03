@@ -2,6 +2,11 @@
 
 
 
+- 第354天 (2020.04.04)
+    - [html] [列举几种多列等高布局的方法](https://github.com/haizlin/fe-interview/issues/2186)
+    - [css] [为什么说对opacity进行动画要比box-shadow进行动画性能更好呢？](https://github.com/haizlin/fe-interview/issues/2187)
+    - [js] [pjax和ajax的区别是什么？](https://github.com/haizlin/fe-interview/issues/2188)
+    - [软技能] [你知道什么是伪代码吗？如何编写伪代码呢？](https://github.com/haizlin/fe-interview/issues/2189)
 - 第353天 (2020.04.03)
     - [html] [列举几种瀑布流布局的方法](https://github.com/haizlin/fe-interview/issues/2182)
     - [css] [请问class与[class=xxx]的区别是什么？两者是否等价？](https://github.com/haizlin/fe-interview/issues/2183)
