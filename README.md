@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.04.04) —— 第354天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [列举几种多列等高布局的方法](https://github.com/haizlin/fe-interview/issues/2186)
-- [css] [为什么说对opacity进行动画要比box-shadow进行动画性能更好呢？](https://github.com/haizlin/fe-interview/issues/2187)
-- [js] [pjax和ajax的区别是什么？](https://github.com/haizlin/fe-interview/issues/2188)
-- [软技能] [你知道什么是伪代码吗？如何编写伪代码呢？](https://github.com/haizlin/fe-interview/issues/2189)
+## 今天的知识点 (2020.04.05) —— 第355天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [隐藏div内文字的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2190)
+- [css] [能不能使用纯css使你的浏览器卡死？怎么实现？](https://github.com/haizlin/fe-interview/issues/2191)
+- [js] [实现一个ajax的队列请求](https://github.com/haizlin/fe-interview/issues/2192)
+- [软技能] [你每天（周）会制定一天（周）的计划吗？是如何定的？](https://github.com/haizlin/fe-interview/issues/2193)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第352天 (2020.04.02)
-    - [html] [说说页面中字体渲染规则是怎样的？会有哪些因素影响字体的渲染？](https://github.com/haizlin/fe-interview/issues/2178)
-	- [css] [请使用纯css实现波浪效果](https://github.com/haizlin/fe-interview/issues/2179)
-	- [js] [使用ajax请求真的不安全吗？为什么？](https://github.com/haizlin/fe-interview/issues/2180)
-	- [软技能] [相同的内容生成的二维码是一样的吗？不同内容的二维码会不会重复？](https://github.com/haizlin/fe-interview/issues/2181)
-	
-
 - 第353天 (2020.04.03)
     - [html] [列举几种瀑布流布局的方法](https://github.com/haizlin/fe-interview/issues/2182)
 	- [css] [请问class与[class=xxx]的区别是什么？两者是否等价？](https://github.com/haizlin/fe-interview/issues/2183)
 	- [js] [你有使用过pjax吗？它的原理是什么？](https://github.com/haizlin/fe-interview/issues/2184)
 	- [软技能] [如何做用户身份验证？](https://github.com/haizlin/fe-interview/issues/2185)
+	
+
+- 第354天 (2020.04.04)
+    - [html] [列举几种多列等高布局的方法](https://github.com/haizlin/fe-interview/issues/2186)
+	- [css] [为什么说对opacity进行动画要比box-shadow进行动画性能更好呢？](https://github.com/haizlin/fe-interview/issues/2187)
+	- [js] [pjax和ajax的区别是什么？](https://github.com/haizlin/fe-interview/issues/2188)
+	- [软技能] [你知道什么是伪代码吗？如何编写伪代码呢？](https://github.com/haizlin/fe-interview/issues/2189)
 	
     
 - **[查看全部](category/history.md)**
