@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.04.05) —— 355 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [隐藏div内文字的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2190)
-- [css] [能不能使用纯css使你的浏览器卡死？怎么实现？](https://github.com/haizlin/fe-interview/issues/2191)
-- [js] [实现一个ajax的队列请求](https://github.com/haizlin/fe-interview/issues/2192)
-- [skill] [你每天（周）会制定一天（周）的计划吗？是如何定的？](https://github.com/haizlin/fe-interview/issues/2193)
+## Today's Knowledge Points (2020.04.06) —— 356 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [noscript标签有什么作用？](https://github.com/haizlin/fe-interview/issues/2194)
+- [css] [如何使用css实现鼠标跟随？](https://github.com/haizlin/fe-interview/issues/2195)
+- [js] [根据元素ID遍历树形结构，查找到所有父元素ID [代码]](https://github.com/haizlin/fe-interview/issues/2196)
+- [skill] [如果只能选一个，工作和家庭你认为哪个更重要？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2197)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 353 days (2020.04.03)
-    - [html] [列举几种瀑布流布局的方法](https://github.com/haizlin/fe-interview/issues/2182)
-	- [css] [请问class与[class=xxx]的区别是什么？两者是否等价？](https://github.com/haizlin/fe-interview/issues/2183)
-	- [js] [你有使用过pjax吗？它的原理是什么？](https://github.com/haizlin/fe-interview/issues/2184)
-	- [skill] [如何做用户身份验证？](https://github.com/haizlin/fe-interview/issues/2185)
-	
-
 - 354 days (2020.04.04)
     - [html] [列举几种多列等高布局的方法](https://github.com/haizlin/fe-interview/issues/2186)
 	- [css] [为什么说对opacity进行动画要比box-shadow进行动画性能更好呢？](https://github.com/haizlin/fe-interview/issues/2187)
 	- [js] [pjax和ajax的区别是什么？](https://github.com/haizlin/fe-interview/issues/2188)
 	- [skill] [你知道什么是伪代码吗？如何编写伪代码呢？](https://github.com/haizlin/fe-interview/issues/2189)
+	
+
+- 355 days (2020.04.05)
+    - [html] [隐藏div内文字的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2190)
+	- [css] [能不能使用纯css使你的浏览器卡死？怎么实现？](https://github.com/haizlin/fe-interview/issues/2191)
+	- [js] [实现一个ajax的队列请求](https://github.com/haizlin/fe-interview/issues/2192)
+	- [skill] [你每天（周）会制定一天（周）的计划吗？是如何定的？](https://github.com/haizlin/fe-interview/issues/2193)
 	
 
 - **[All](category/history.md)**

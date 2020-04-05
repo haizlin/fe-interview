@@ -2,6 +2,11 @@
 
 
 
+- 第356天 (2020.04.06)
+    - [html] [noscript标签有什么作用？](https://github.com/haizlin/fe-interview/issues/2194)
+    - [css] [如何使用css实现鼠标跟随？](https://github.com/haizlin/fe-interview/issues/2195)
+    - [js] [根据元素ID遍历树形结构，查找到所有父元素ID [代码]](https://github.com/haizlin/fe-interview/issues/2196)
+    - [软技能] [如果只能选一个，工作和家庭你认为哪个更重要？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2197)
 - 第355天 (2020.04.05)
     - [html] [隐藏div内文字的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2190)
     - [css] [能不能使用纯css使你的浏览器卡死？怎么实现？](https://github.com/haizlin/fe-interview/issues/2191)
