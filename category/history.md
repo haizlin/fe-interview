@@ -2,6 +2,11 @@
 
 
 
+- 第358天 (2020.04.08)
+    - [html] [给一个元素加下划线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2204)
+    - [css] [用css3实现文字发光的效果](https://github.com/haizlin/fe-interview/issues/2205)
+    - [js] [举例说明Object.defineProperty会在什么情况下造成循环引用导致栈溢出？](https://github.com/haizlin/fe-interview/issues/2206)
+    - [软技能] [你知道什么是TC39吗？它们的工作流程是怎样的？](https://github.com/haizlin/fe-interview/issues/2207)
 - 第357天 (2020.04.07)
     - [html] [input元素size属性和width 的区别是什么？](https://github.com/haizlin/fe-interview/issues/2198)
     - [css] [你有使用过css的属性background-blend-mode吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2199)
@@ -101,7 +106,7 @@
     - [html] [如何禁止input输入的历史记录？](https://github.com/haizlin/fe-interview/issues/2089)
     - [css] [举例说明如何从html元素继承box-sizing？](https://github.com/haizlin/fe-interview/issues/2090)
     - [js] [js可以用中文作为变量命名吗？为什么？](https://github.com/haizlin/fe-interview/issues/2091)
-    - [软技能] [说说你对Retine高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
+    - [软技能] [说说你对Retina高清屏的理解，它和2k屏有什么区别？](https://github.com/haizlin/fe-interview/issues/2092)
 - 第337天 (2020.03.18)
     - [html] [举例说明Shadow DOM的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2085)
     - [css] [使用css的attr()写一个类似a标签title的提示框](https://github.com/haizlin/fe-interview/issues/2086)

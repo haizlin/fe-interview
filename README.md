@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.04.07) —— 第357天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [input元素size属性和width 的区别是什么？](https://github.com/haizlin/fe-interview/issues/2198)
-- [css] [你有使用过css的属性background-blend-mode吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2199)
-- [js] [document.domain的作用是什么？它有什么限制？](https://github.com/haizlin/fe-interview/issues/2200)
-- [软技能] [作为团队的Leader，最近发现你手下有位同事工作状态比较消极，你该怎么办？](https://github.com/haizlin/fe-interview/issues/2201)
+## 今天的知识点 (2020.04.08) —— 第358天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [给一个元素加下划线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2204)
+- [css] [用css3实现文字发光的效果](https://github.com/haizlin/fe-interview/issues/2205)
+- [js] [举例说明Object.defineProperty会在什么情况下造成循环引用导致栈溢出？](https://github.com/haizlin/fe-interview/issues/2206)
+- [软技能] [你知道什么是TC39吗？它们的工作流程是怎样的？](https://github.com/haizlin/fe-interview/issues/2207)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第355天 (2020.04.05)
-    - [html] [隐藏div内文字的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2190)
-	- [css] [能不能使用纯css使你的浏览器卡死？怎么实现？](https://github.com/haizlin/fe-interview/issues/2191)
-	- [js] [实现一个ajax的队列请求](https://github.com/haizlin/fe-interview/issues/2192)
-	- [软技能] [你每天（周）会制定一天（周）的计划吗？是如何定的？](https://github.com/haizlin/fe-interview/issues/2193)
-	
-
 - 第356天 (2020.04.06)
     - [html] [noscript标签有什么作用？](https://github.com/haizlin/fe-interview/issues/2194)
 	- [css] [如何使用css实现鼠标跟随？](https://github.com/haizlin/fe-interview/issues/2195)
 	- [js] [根据元素ID遍历树形结构，查找到所有父元素ID [代码]](https://github.com/haizlin/fe-interview/issues/2196)
 	- [软技能] [如果只能选一个，工作和家庭你认为哪个更重要？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2197)
+	
+
+- 第357天 (2020.04.07)
+    - [html] [input元素size属性和width 的区别是什么？](https://github.com/haizlin/fe-interview/issues/2198)
+	- [css] [你有使用过css的属性background-blend-mode吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2199)
+	- [js] [document.domain的作用是什么？它有什么限制？](https://github.com/haizlin/fe-interview/issues/2200)
+	- [软技能] [作为团队的Leader，最近发现你手下有位同事工作状态比较消极，你该怎么办？](https://github.com/haizlin/fe-interview/issues/2201)
 	
     
 - **[查看全部](category/history.md)**
