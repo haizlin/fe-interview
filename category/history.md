@@ -2,6 +2,11 @@
 
 
 
+- 第357天 (2020.04.07)
+    - [html] [input元素size属性和width 的区别是什么？](https://github.com/haizlin/fe-interview/issues/2198)
+    - [css] [你有使用过css的属性background-blend-mode吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2199)
+    - [js] [document.domain的作用是什么？它有什么限制？](https://github.com/haizlin/fe-interview/issues/2200)
+    - [软技能] [作为团队的Leader，最近发现你手下有位同事工作状态比较消极，你该怎么办？](https://github.com/haizlin/fe-interview/issues/2201)
 - 第356天 (2020.04.06)
     - [html] [noscript标签有什么作用？](https://github.com/haizlin/fe-interview/issues/2194)
     - [css] [如何使用css实现鼠标跟随？](https://github.com/haizlin/fe-interview/issues/2195)
