@@ -2,6 +2,11 @@
 
 
 
+- 第359天 (2020.04.09)
+    - [html] [说下你对组件、模块、元素的理解，它们的区别在哪里？](https://github.com/haizlin/fe-interview/issues/2208)
+    - [css] [用css3实现伪3D的文字效果](https://github.com/haizlin/fe-interview/issues/2209)
+    - [js] [微信的JSSDK都有哪些内容？如何接入？](https://github.com/haizlin/fe-interview/issues/2210)
+    - [软技能] [你认为PC端开发和移动端开发主要有什么区别呢？](https://github.com/haizlin/fe-interview/issues/2211)
 - 第358天 (2020.04.08)
     - [html] [给一个元素加下划线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2204)
     - [css] [用css3实现文字发光的效果](https://github.com/haizlin/fe-interview/issues/2205)
