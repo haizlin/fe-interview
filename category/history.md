@@ -2,6 +2,16 @@
 
 
 
+- 第361天 (2020.04.11)
+    - [html] [如何设置打印尺寸？](https://github.com/haizlin/fe-interview/issues/2217)
+    - [css] [css的height:100%和height:inherit有什么区别？](https://github.com/haizlin/fe-interview/issues/2218)
+    - [js] [写一个方法，当给定数字位数不足8位时，则在左边补充0以补足8位数的方法](https://github.com/haizlin/fe-interview/issues/2219)
+    - [软技能] [WEB开发中的会话跟踪方法有哪些？](https://github.com/haizlin/fe-interview/issues/2220)
+- 第360天 (2020.04.10)
+    - [html] [打印网页的时候，如何让指定的元素另起一页（打印分页）？](https://github.com/haizlin/fe-interview/issues/2213)
+    - [css] [css如何让height:100%起作用？](https://github.com/haizlin/fe-interview/issues/2214)
+    - [js] [说说你对JS中暂性死区的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2215)
+    - [软技能] [屏幕坐标、客户区域（可视窗口）坐标、页面坐标分别是什么？](https://github.com/haizlin/fe-interview/issues/2216)
 - 第359天 (2020.04.09)
     - [html] [说下你对组件、模块、元素的理解，它们的区别在哪里？](https://github.com/haizlin/fe-interview/issues/2208)
     - [css] [用css3实现伪3D的文字效果](https://github.com/haizlin/fe-interview/issues/2209)
@@ -730,7 +740,7 @@
 - 第214天 (2019.11.16)
     - [html] [HTML5中required属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/1525)
     - [css] [实现文本的竖向排版](https://github.com/haizlin/fe-interview/issues/1526)
-    - [js] [js如何实现打印指定的区域？](https://github.com/haizlin/fe-interview/issues/1527)
+    - [js] [js如何实现打印指定的区域（局部打印）？](https://github.com/haizlin/fe-interview/issues/1527)
     - [软技能] [你了解我们公司吗？说说你对我们公司的了解](https://github.com/haizlin/fe-interview/issues/1528)
 - 第213天 (2019.11.15)
     - [html] [给单个表格的单元格设置背景色有什么方法？](https://github.com/haizlin/fe-interview/issues/1520)
