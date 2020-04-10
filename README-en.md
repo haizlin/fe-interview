@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.04.09) —— 359 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [说下你对组件、模块、元素的理解，它们的区别在哪里？](https://github.com/haizlin/fe-interview/issues/2208)
-- [css] [用css3实现伪3D的文字效果](https://github.com/haizlin/fe-interview/issues/2209)
-- [js] [微信的JSSDK都有哪些内容？如何接入？](https://github.com/haizlin/fe-interview/issues/2210)
-- [skill] [你认为PC端开发和移动端开发主要有什么区别呢？](https://github.com/haizlin/fe-interview/issues/2211)
+## Today's Knowledge Points (2020.04.11) —— 361 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何设置打印尺寸？](https://github.com/haizlin/fe-interview/issues/2217)
+- [css] [css的height:100%和height:inherit有什么区别？](https://github.com/haizlin/fe-interview/issues/2218)
+- [js] [写一个方法，当给定数字位数不足8位时，则在左边补充0以补足8位数的方法](https://github.com/haizlin/fe-interview/issues/2219)
+- [skill] [WEB开发中的会话跟踪方法有哪些？](https://github.com/haizlin/fe-interview/issues/2220)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 357 days (2020.04.07)
-    - [html] [input元素size属性和width 的区别是什么？](https://github.com/haizlin/fe-interview/issues/2198)
-	- [css] [你有使用过css的属性background-blend-mode吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2199)
-	- [js] [document.domain的作用是什么？它有什么限制？](https://github.com/haizlin/fe-interview/issues/2200)
-	- [skill] [作为团队的Leader，最近发现你手下有位同事工作状态比较消极，你该怎么办？](https://github.com/haizlin/fe-interview/issues/2201)
+- 359 days (2020.04.09)
+    - [html] [说下你对组件、模块、元素的理解，它们的区别在哪里？](https://github.com/haizlin/fe-interview/issues/2208)
+	- [css] [用css3实现伪3D的文字效果](https://github.com/haizlin/fe-interview/issues/2209)
+	- [js] [微信的JSSDK都有哪些内容？如何接入？](https://github.com/haizlin/fe-interview/issues/2210)
+	- [skill] [你认为PC端开发和移动端开发主要有什么区别呢？](https://github.com/haizlin/fe-interview/issues/2211)
 	
 
-- 358 days (2020.04.08)
-    - [html] [给一个元素加下划线的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2204)
-	- [css] [用css3实现文字发光的效果](https://github.com/haizlin/fe-interview/issues/2205)
-	- [js] [举例说明Object.defineProperty会在什么情况下造成循环引用导致栈溢出？](https://github.com/haizlin/fe-interview/issues/2206)
-	- [skill] [你知道什么是TC39吗？它们的工作流程是怎样的？](https://github.com/haizlin/fe-interview/issues/2207)
+- 360 days (2020.04.10)
+    - [html] [打印网页的时候，如何让指定的元素另起一页（打印分页）？](https://github.com/haizlin/fe-interview/issues/2213)
+	- [css] [css如何让height:100%起作用？](https://github.com/haizlin/fe-interview/issues/2214)
+	- [js] [说说你对JS中暂性死区的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2215)
+	- [skill] [屏幕坐标、客户区域（可视窗口）坐标、页面坐标分别是什么？](https://github.com/haizlin/fe-interview/issues/2216)
 	
 
 - **[All](category/history.md)**
