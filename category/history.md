@@ -2,6 +2,11 @@
 
 
 
+- 第362天 (2020.04.12)
+    - [html] [link标签的属性media有哪些值？都有什么作用？](https://github.com/haizlin/fe-interview/issues/2221)
+    - [css] [如何解决html设置height：100%无效的问题？](https://github.com/haizlin/fe-interview/issues/2222)
+    - [js] [如何提升JSON.stringify的性能？](https://github.com/haizlin/fe-interview/issues/2223)
+    - [软技能] [说说你对请求数和并发数的理解](https://github.com/haizlin/fe-interview/issues/2224)
 - 第361天 (2020.04.11)
     - [html] [如何设置打印尺寸？](https://github.com/haizlin/fe-interview/issues/2217)
     - [css] [css的height:100%和height:inherit有什么区别？](https://github.com/haizlin/fe-interview/issues/2218)
