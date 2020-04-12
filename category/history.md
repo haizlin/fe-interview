@@ -2,6 +2,11 @@
 
 
 
+- 第363天 (2020.04.13)
+    - [html] [打印页面时怎样自定义打印页眉页脚或者去掉眉页脚？](https://github.com/haizlin/fe-interview/issues/2232)
+    - [css] [用css画出中间一个大圆，四周有12个小圆环绕并和大圆是同心](https://github.com/haizlin/fe-interview/issues/2233)
+    - [js] [使用ajax轮询接口有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2234)
+    - [软技能] [QPS和TPS有什么区别？](https://github.com/haizlin/fe-interview/issues/2235)
 - 第362天 (2020.04.12)
     - [html] [link标签的属性media有哪些值？都有什么作用？](https://github.com/haizlin/fe-interview/issues/2221)
     - [css] [如何解决html设置height：100%无效的问题？](https://github.com/haizlin/fe-interview/issues/2222)
