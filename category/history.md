@@ -2,6 +2,11 @@
 
 
 
+- 第364天 (2020.04.14)
+    - [html] [浏览器的默认字体大小是多少？怎么设计它的基准？](https://github.com/haizlin/fe-interview/issues/2236)
+    - [css] [用css画出两个大圆相交，可以在各自圆及相交部分输入文字](https://github.com/haizlin/fe-interview/issues/2237)
+    - [js] [构造一个自定义二维 N*N 矩阵，从左上角第一个单元格依次填入1 - N*N的数字，从矩阵中指定单元格出发，经过相邻的单元格(不可重复)，走 X 步，输出所有可能的路径和每条路径单元格对应的数字。](https://github.com/haizlin/fe-interview/issues/2238)
+    - [软技能] [你知道你开发好的页面，测试人员是从哪些方面来测的吗？](https://github.com/haizlin/fe-interview/issues/2239)
 - 第363天 (2020.04.13)
     - [html] [打印页面时怎样自定义打印页眉页脚或者去掉眉页脚？](https://github.com/haizlin/fe-interview/issues/2232)
     - [css] [用css画出中间一个大圆，四周有12个小圆环绕并和大圆是同心](https://github.com/haizlin/fe-interview/issues/2233)
