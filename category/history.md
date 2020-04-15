@@ -2,6 +2,16 @@
 
 
 
+- 第366天 (2020.04.16)
+    - [html] [写页面布局时你有考虑过分辨率因素吗？还要考虑哪些因素呢？](https://github.com/haizlin/fe-interview/issues/2246)
+    - [css] [用css画出一个圆圈，里面有个叉号（不能用英文字母x）](https://github.com/haizlin/fe-interview/issues/2247)
+    - [js] [你认为es5的设计缺陷有哪些？](https://github.com/haizlin/fe-interview/issues/2248)
+    - [软技能] [你知道什么是后端套模板吗？他们是怎么操作的知道吗？](https://github.com/haizlin/fe-interview/issues/2249)
+- 第365天 (2020.04.15)
+    - [html] [div等元素如何阻止点击穿透和实现点击穿透？](https://github.com/haizlin/fe-interview/issues/2244)
+    - [css] [用css画出一个圆圈，里面有个对号](https://github.com/haizlin/fe-interview/issues/2245)
+    - [undefined] [undefined](https://github.com/haizlin/fe-interview/issues/undefined)
+    - [undefined] [undefined](https://github.com/haizlin/fe-interview/issues/undefined)
 - 第364天 (2020.04.14)
     - [html] [浏览器的默认字体大小是多少？怎么设计它的基准？](https://github.com/haizlin/fe-interview/issues/2236)
     - [css] [用css画出两个大圆相交，可以在各自圆及相交部分输入文字](https://github.com/haizlin/fe-interview/issues/2237)

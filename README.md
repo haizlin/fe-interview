@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.04.14) —— 第364天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [浏览器的默认字体大小是多少？怎么设计它的基准？](https://github.com/haizlin/fe-interview/issues/2236)
-- [css] [用css画出两个大圆相交，可以在各自圆及相交部分输入文字](https://github.com/haizlin/fe-interview/issues/2237)
-- [js] [构造一个自定义二维 N*N 矩阵，从左上角第一个单元格依次填入1 - N*N的数字，从矩阵中指定单元格出发，经过相邻的单元格(不可重复)，走 X 步，输出所有可能的路径和每条路径单元格对应的数字。](https://github.com/haizlin/fe-interview/issues/2238)
-- [软技能] [你知道你开发好的页面，测试人员是从哪些方面来测的吗？](https://github.com/haizlin/fe-interview/issues/2239)
+## 今天的知识点 (2020.04.16) —— 第366天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [写页面布局时你有考虑过分辨率因素吗？还要考虑哪些因素呢？](https://github.com/haizlin/fe-interview/issues/2246)
+- [css] [用css画出一个圆圈，里面有个叉号（不能用英文字母x）](https://github.com/haizlin/fe-interview/issues/2247)
+- [js] [你认为es5的设计缺陷有哪些？](https://github.com/haizlin/fe-interview/issues/2248)
+- [软技能] [你知道什么是后端套模板吗？他们是怎么操作的知道吗？](https://github.com/haizlin/fe-interview/issues/2249)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第362天 (2020.04.12)
-    - [html] [link标签的属性media有哪些值？都有什么作用？](https://github.com/haizlin/fe-interview/issues/2221)
-	- [css] [如何解决html设置height：100%无效的问题？](https://github.com/haizlin/fe-interview/issues/2222)
-	- [js] [如何提升JSON.stringify的性能？](https://github.com/haizlin/fe-interview/issues/2223)
-	- [软技能] [说说你对请求数和并发数的理解](https://github.com/haizlin/fe-interview/issues/2224)
+- 第364天 (2020.04.14)
+    - [html] [浏览器的默认字体大小是多少？怎么设计它的基准？](https://github.com/haizlin/fe-interview/issues/2236)
+	- [css] [用css画出两个大圆相交，可以在各自圆及相交部分输入文字](https://github.com/haizlin/fe-interview/issues/2237)
+	- [js] [构造一个自定义二维 N*N 矩阵，从左上角第一个单元格依次填入1 - N*N的数字，从矩阵中指定单元格出发，经过相邻的单元格(不可重复)，走 X 步，输出所有可能的路径和每条路径单元格对应的数字。](https://github.com/haizlin/fe-interview/issues/2238)
+	- [软技能] [你知道你开发好的页面，测试人员是从哪些方面来测的吗？](https://github.com/haizlin/fe-interview/issues/2239)
 	
 
-- 第363天 (2020.04.13)
-    - [html] [打印页面时怎样自定义打印页眉页脚或者去掉眉页脚？](https://github.com/haizlin/fe-interview/issues/2232)
-	- [css] [用css画出中间一个大圆，四周有12个小圆环绕并和大圆是同心](https://github.com/haizlin/fe-interview/issues/2233)
-	- [js] [使用ajax轮询接口有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2234)
-	- [软技能] [QPS和TPS有什么区别？](https://github.com/haizlin/fe-interview/issues/2235)
+- 第365天 (2020.04.15)
+    - [html] [div等元素如何阻止点击穿透和实现点击穿透？](https://github.com/haizlin/fe-interview/issues/2244)
+	- [css] [用css画出一个圆圈，里面有个对号](https://github.com/haizlin/fe-interview/issues/2245)
+	- [] [](https://github.com/haizlin/fe-interview/issues/)
+	- [] [](https://github.com/haizlin/fe-interview/issues/)
 	
     
 - **[查看全部](category/history.md)**
