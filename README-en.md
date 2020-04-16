@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.04.16) —— 366 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [写页面布局时你有考虑过分辨率因素吗？还要考虑哪些因素呢？](https://github.com/haizlin/fe-interview/issues/2246)
-- [css] [用css画出一个圆圈，里面有个叉号（不能用英文字母x）](https://github.com/haizlin/fe-interview/issues/2247)
-- [js] [你认为es5的设计缺陷有哪些？](https://github.com/haizlin/fe-interview/issues/2248)
-- [skill] [你知道什么是后端套模板吗？他们是怎么操作的知道吗？](https://github.com/haizlin/fe-interview/issues/2249)
+## Today's Knowledge Points (2020.04.17) —— 367 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [说说你对网格布局的理解](https://github.com/haizlin/fe-interview/issues/2250)
+- [css] [CSS content属性特殊字符有哪些？](https://github.com/haizlin/fe-interview/issues/2251)
+- [js] [解释下深度优先遍历和广度优先遍历的区别及如何实现](https://github.com/haizlin/fe-interview/issues/2252)
+- [skill] [你还有什么问题想问我们的？](https://github.com/haizlin/fe-interview/issues/2253)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 364 days (2020.04.14)
-    - [html] [浏览器的默认字体大小是多少？怎么设计它的基准？](https://github.com/haizlin/fe-interview/issues/2236)
-	- [css] [用css画出两个大圆相交，可以在各自圆及相交部分输入文字](https://github.com/haizlin/fe-interview/issues/2237)
-	- [js] [构造一个自定义二维 N*N 矩阵，从左上角第一个单元格依次填入1 - N*N的数字，从矩阵中指定单元格出发，经过相邻的单元格(不可重复)，走 X 步，输出所有可能的路径和每条路径单元格对应的数字。](https://github.com/haizlin/fe-interview/issues/2238)
-	- [skill] [你知道你开发好的页面，测试人员是从哪些方面来测的吗？](https://github.com/haizlin/fe-interview/issues/2239)
-	
-
 - 365 days (2020.04.15)
     - [html] [div等元素如何阻止点击穿透和实现点击穿透？](https://github.com/haizlin/fe-interview/issues/2244)
 	- [css] [用css画出一个圆圈，里面有个对号](https://github.com/haizlin/fe-interview/issues/2245)
 	- [] [](https://github.com/haizlin/fe-interview/issues/)
 	- [] [](https://github.com/haizlin/fe-interview/issues/)
+	
+
+- 366 days (2020.04.16)
+    - [html] [写页面布局时你有考虑过分辨率因素吗？还要考虑哪些因素呢？](https://github.com/haizlin/fe-interview/issues/2246)
+	- [css] [用css画出一个圆圈，里面有个叉号（不能用英文字母x）](https://github.com/haizlin/fe-interview/issues/2247)
+	- [js] [你认为es5的设计缺陷有哪些？](https://github.com/haizlin/fe-interview/issues/2248)
+	- [skill] [你知道什么是后端套模板吗？他们是怎么操作的知道吗？](https://github.com/haizlin/fe-interview/issues/2249)
 	
 
 - **[All](category/history.md)**
