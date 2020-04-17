@@ -2,6 +2,11 @@
 
 
 
+- 第368天 (2020.04.18)
+    - [html] [实现一个居中半透明的模态窗](https://github.com/haizlin/fe-interview/issues/2254)
+    - [css] [使用css画个鸡蛋](https://github.com/haizlin/fe-interview/issues/2255)
+    - [js] [setTimeout的第三个参数有什么用？](https://github.com/haizlin/fe-interview/issues/2256)
+    - [软技能] [前端报错，你是怎么上报错误的？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2257)
 - 第367天 (2020.04.17)
     - [html] [说说你对网格布局的理解](https://github.com/haizlin/fe-interview/issues/2250)
     - [css] [CSS content属性特殊字符有哪些？](https://github.com/haizlin/fe-interview/issues/2251)
