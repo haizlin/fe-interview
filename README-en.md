@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.04.18) —— 368 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [实现一个居中半透明的模态窗](https://github.com/haizlin/fe-interview/issues/2254)
-- [css] [使用css画个鸡蛋](https://github.com/haizlin/fe-interview/issues/2255)
-- [js] [setTimeout的第三个参数有什么用？](https://github.com/haizlin/fe-interview/issues/2256)
-- [skill] [前端报错，你是怎么上报错误的？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2257)
+## Today's Knowledge Points (2020.04.20) —— 370 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [说说你对这几个概念的理解：层叠上下文、层叠等级、层叠顺序](https://github.com/haizlin/fe-interview/issues/2262)
+- [css] [写出在不固定宽高的元素在固定高度的情况下水平垂直居中的方法](https://github.com/haizlin/fe-interview/issues/2263)
+- [js] [对`a == ('1'||'2'||'3') ? false : true`写法进行改进，写出你优化后的方法](https://github.com/haizlin/fe-interview/issues/2264)
+- [skill] [要你写一个手机端的图形解锁的工具，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/2265)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 366 days (2020.04.16)
-    - [html] [写页面布局时你有考虑过分辨率因素吗？还要考虑哪些因素呢？](https://github.com/haizlin/fe-interview/issues/2246)
-	- [css] [用css画出一个圆圈，里面有个叉号（不能用英文字母x）](https://github.com/haizlin/fe-interview/issues/2247)
-	- [js] [你认为es5的设计缺陷有哪些？](https://github.com/haizlin/fe-interview/issues/2248)
-	- [skill] [你知道什么是后端套模板吗？他们是怎么操作的知道吗？](https://github.com/haizlin/fe-interview/issues/2249)
+- 368 days (2020.04.18)
+    - [html] [实现一个居中半透明的模态窗](https://github.com/haizlin/fe-interview/issues/2254)
+	- [css] [使用css画个鸡蛋](https://github.com/haizlin/fe-interview/issues/2255)
+	- [js] [setTimeout的第三个参数有什么用？](https://github.com/haizlin/fe-interview/issues/2256)
+	- [skill] [前端报错，你是怎么上报错误的？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2257)
 	
 
-- 367 days (2020.04.17)
-    - [html] [说说你对网格布局的理解](https://github.com/haizlin/fe-interview/issues/2250)
-	- [css] [CSS content属性特殊字符有哪些？](https://github.com/haizlin/fe-interview/issues/2251)
-	- [js] [解释下深度优先遍历和广度优先遍历的区别及如何实现](https://github.com/haizlin/fe-interview/issues/2252)
-	- [skill] [你还有什么问题想问我们的？](https://github.com/haizlin/fe-interview/issues/2253)
+- 369 days (2020.04.19)
+    - [html] [实现一个stick-footer布局](https://github.com/haizlin/fe-interview/issues/2258)
+	- [css] [使用css画一根燃烧中的蜡烛](https://github.com/haizlin/fe-interview/issues/2259)
+	- [js] [Geolocation.getCurrentPosition()用来做什么的？在什么浏览器不受兼容？](https://github.com/haizlin/fe-interview/issues/2260)
+	- [skill] [你知道pass、sass、lass的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/2261)
 	
 
 - **[All](category/history.md)**
