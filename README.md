@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.04.20) —— 第370天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [说说你对这几个概念的理解：层叠上下文、层叠等级、层叠顺序](https://github.com/haizlin/fe-interview/issues/2262)
-- [css] [写出在不固定宽高的元素在固定高度的情况下水平垂直居中的方法](https://github.com/haizlin/fe-interview/issues/2263)
-- [js] [对`a == ('1'||'2'||'3') ? false : true`写法进行改进，写出你优化后的方法](https://github.com/haizlin/fe-interview/issues/2264)
-- [软技能] [要你写一个手机端的图形解锁的工具，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/2265)
+## 今天的知识点 (2020.04.21) —— 第371天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [说说元素上下层叠关系及七阶层叠关系](https://github.com/haizlin/fe-interview/issues/2266)
+- [css] [一个项目中有很多无用的css代码，怎么找到并清除这些无用的代码？](https://github.com/haizlin/fe-interview/issues/2267)
+- [js] [用js写一个方法检测浏览器是否支持css3的属性](https://github.com/haizlin/fe-interview/issues/2268)
+- [软技能] [怎么禁止爬虫对网站信息的抓取？](https://github.com/haizlin/fe-interview/issues/2269)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第368天 (2020.04.18)
-    - [html] [实现一个居中半透明的模态窗](https://github.com/haizlin/fe-interview/issues/2254)
-	- [css] [使用css画个鸡蛋](https://github.com/haizlin/fe-interview/issues/2255)
-	- [js] [setTimeout的第三个参数有什么用？](https://github.com/haizlin/fe-interview/issues/2256)
-	- [软技能] [前端报错，你是怎么上报错误的？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2257)
-	
-
 - 第369天 (2020.04.19)
     - [html] [实现一个stick-footer布局](https://github.com/haizlin/fe-interview/issues/2258)
 	- [css] [使用css画一根燃烧中的蜡烛](https://github.com/haizlin/fe-interview/issues/2259)
 	- [js] [Geolocation.getCurrentPosition()用来做什么的？在什么浏览器不受兼容？](https://github.com/haizlin/fe-interview/issues/2260)
 	- [软技能] [你知道pass、sass、lass的区别是什么吗？](https://github.com/haizlin/fe-interview/issues/2261)
+	
+
+- 第370天 (2020.04.20)
+    - [html] [说说你对这几个概念的理解：层叠上下文、层叠等级、层叠顺序](https://github.com/haizlin/fe-interview/issues/2262)
+	- [css] [写出在不固定宽高的元素在固定高度的情况下水平垂直居中的方法](https://github.com/haizlin/fe-interview/issues/2263)
+	- [js] [对`a == ('1'||'2'||'3') ? false : true`写法进行改进，写出你优化后的方法](https://github.com/haizlin/fe-interview/issues/2264)
+	- [软技能] [要你写一个手机端的图形解锁的工具，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/2265)
 	
     
 - **[查看全部](category/history.md)**
