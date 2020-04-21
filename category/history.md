@@ -2,6 +2,11 @@
 
 
 
+- 第372天 (2020.04.22)
+    - [html] [实现九宫格布局](https://github.com/haizlin/fe-interview/issues/2270)
+    - [css] [使用纯css画出一个右侧滚动顶部进度条的效果](https://github.com/haizlin/fe-interview/issues/2271)
+    - [js] [在设置keyup监听事件后按F5刷新和按浏览器中刷新键刷新有什么区别？](https://github.com/haizlin/fe-interview/issues/2272)
+    - [软技能] [你分自己切图吗？还是让设计员给你切呢？](https://github.com/haizlin/fe-interview/issues/2273)
 - 第371天 (2020.04.21)
     - [html] [说说元素上下层叠关系及七阶层叠关系](https://github.com/haizlin/fe-interview/issues/2266)
     - [css] [一个项目中有很多无用的css代码，怎么找到并清除这些无用的代码？](https://github.com/haizlin/fe-interview/issues/2267)
