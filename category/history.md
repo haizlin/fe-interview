@@ -2,6 +2,11 @@
 
 
 
+- 第373天 (2020.04.23)
+    - [html] [你有使用过IE的条件注释吗？](https://github.com/haizlin/fe-interview/issues/2277)
+    - [css] [你们团队中css的class命名采用的是什么方式呢？下划线还是横线还是驼峰？](https://github.com/haizlin/fe-interview/issues/2278)
+    - [js] [写一个方法获取图片的方向](https://github.com/haizlin/fe-interview/issues/2279)
+    - [软技能] [你认为做为前端开发是要自己切图好还是让美工来切图好呢？](https://github.com/haizlin/fe-interview/issues/2280)
 - 第372天 (2020.04.22)
     - [html] [实现九宫格布局](https://github.com/haizlin/fe-interview/issues/2270)
     - [css] [使用纯css画出一个右侧滚动顶部进度条的效果](https://github.com/haizlin/fe-interview/issues/2271)

@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.04.22) —— 第372天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [实现九宫格布局](https://github.com/haizlin/fe-interview/issues/2270)
-- [css] [使用纯css画出一个右侧滚动顶部进度条的效果](https://github.com/haizlin/fe-interview/issues/2271)
-- [js] [在设置keyup监听事件后按F5刷新和按浏览器中刷新键刷新有什么区别？](https://github.com/haizlin/fe-interview/issues/2272)
-- [软技能] [你分自己切图吗？还是让设计员给你切呢？](https://github.com/haizlin/fe-interview/issues/2273)
+## 今天的知识点 (2020.04.23) —— 第373天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [你有使用过IE的条件注释吗？](https://github.com/haizlin/fe-interview/issues/2277)
+- [css] [你们团队中css的class命名采用的是什么方式呢？下划线还是横线还是驼峰？](https://github.com/haizlin/fe-interview/issues/2278)
+- [js] [写一个方法获取图片的方向](https://github.com/haizlin/fe-interview/issues/2279)
+- [软技能] [你认为做为前端开发是要自己切图好还是让美工来切图好呢？](https://github.com/haizlin/fe-interview/issues/2280)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第370天 (2020.04.20)
-    - [html] [说说你对这几个概念的理解：层叠上下文、层叠等级、层叠顺序](https://github.com/haizlin/fe-interview/issues/2262)
-	- [css] [写出在不固定宽高的元素在固定高度的情况下水平垂直居中的方法](https://github.com/haizlin/fe-interview/issues/2263)
-	- [js] [对`a == ('1'||'2'||'3') ? false : true`写法进行改进，写出你优化后的方法](https://github.com/haizlin/fe-interview/issues/2264)
-	- [软技能] [要你写一个手机端的图形解锁的工具，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/2265)
-	
-
 - 第371天 (2020.04.21)
     - [html] [说说元素上下层叠关系及七阶层叠关系](https://github.com/haizlin/fe-interview/issues/2266)
 	- [css] [一个项目中有很多无用的css代码，怎么找到并清除这些无用的代码？](https://github.com/haizlin/fe-interview/issues/2267)
 	- [js] [用js写一个方法检测浏览器是否支持css3的属性](https://github.com/haizlin/fe-interview/issues/2268)
 	- [软技能] [怎么禁止爬虫对网站信息的抓取？](https://github.com/haizlin/fe-interview/issues/2269)
+	
+
+- 第372天 (2020.04.22)
+    - [html] [实现九宫格布局](https://github.com/haizlin/fe-interview/issues/2270)
+	- [css] [使用纯css画出一个右侧滚动顶部进度条的效果](https://github.com/haizlin/fe-interview/issues/2271)
+	- [js] [在设置keyup监听事件后按F5刷新和按浏览器中刷新键刷新有什么区别？](https://github.com/haizlin/fe-interview/issues/2272)
+	- [软技能] [你分自己切图吗？还是让设计员给你切呢？](https://github.com/haizlin/fe-interview/issues/2273)
 	
     
 - **[查看全部](category/history.md)**
