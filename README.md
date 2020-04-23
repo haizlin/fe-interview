@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.04.23) —— 第373天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你有使用过IE的条件注释吗？](https://github.com/haizlin/fe-interview/issues/2277)
-- [css] [你们团队中css的class命名采用的是什么方式呢？下划线还是横线还是驼峰？](https://github.com/haizlin/fe-interview/issues/2278)
-- [js] [写一个方法获取图片的方向](https://github.com/haizlin/fe-interview/issues/2279)
-- [软技能] [你认为做为前端开发是要自己切图好还是让美工来切图好呢？](https://github.com/haizlin/fe-interview/issues/2280)
+## 今天的知识点 (2020.04.24) —— 第374天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [实现一个全屏布局](https://github.com/haizlin/fe-interview/issues/2286)
+- [css] [举例说明CSS特性检测的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2287)
+- [js] [写一个方法获取图片的exif信息](https://github.com/haizlin/fe-interview/issues/2288)
+- [软技能] [说说你对版权的理解，前端开发的过程中应该注意哪些版权相关的问题呢？](https://github.com/haizlin/fe-interview/issues/2289)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第371天 (2020.04.21)
-    - [html] [说说元素上下层叠关系及七阶层叠关系](https://github.com/haizlin/fe-interview/issues/2266)
-	- [css] [一个项目中有很多无用的css代码，怎么找到并清除这些无用的代码？](https://github.com/haizlin/fe-interview/issues/2267)
-	- [js] [用js写一个方法检测浏览器是否支持css3的属性](https://github.com/haizlin/fe-interview/issues/2268)
-	- [软技能] [怎么禁止爬虫对网站信息的抓取？](https://github.com/haizlin/fe-interview/issues/2269)
-	
-
 - 第372天 (2020.04.22)
     - [html] [实现九宫格布局](https://github.com/haizlin/fe-interview/issues/2270)
 	- [css] [使用纯css画出一个右侧滚动顶部进度条的效果](https://github.com/haizlin/fe-interview/issues/2271)
 	- [js] [在设置keyup监听事件后按F5刷新和按浏览器中刷新键刷新有什么区别？](https://github.com/haizlin/fe-interview/issues/2272)
 	- [软技能] [你分自己切图吗？还是让设计员给你切呢？](https://github.com/haizlin/fe-interview/issues/2273)
+	
+
+- 第373天 (2020.04.23)
+    - [html] [你有使用过IE的条件注释吗？](https://github.com/haizlin/fe-interview/issues/2277)
+	- [css] [你们团队中css的class命名采用的是什么方式呢？下划线还是横线还是驼峰？](https://github.com/haizlin/fe-interview/issues/2278)
+	- [js] [写一个方法获取图片的方向](https://github.com/haizlin/fe-interview/issues/2279)
+	- [软技能] [你认为做为前端开发是要自己切图好还是让美工来切图好呢？](https://github.com/haizlin/fe-interview/issues/2280)
 	
     
 - **[查看全部](category/history.md)**
