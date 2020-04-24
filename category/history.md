@@ -2,6 +2,11 @@
 
 
 
+- 第375天 (2020.04.25)
+    - [html] [当网页放大或者缩小后如何让页面布局不乱？](https://github.com/haizlin/fe-interview/issues/2290)
+    - [css] [如何使用css给一个正方形添加一条对角斜线？](https://github.com/haizlin/fe-interview/issues/2291)
+    - [js] [如何按回车自动提交表单](https://github.com/haizlin/fe-interview/issues/2292)
+    - [软技能] [请解释下http请求头中Referer的含义和作用是什么？](https://github.com/haizlin/fe-interview/issues/2293)
 - 第374天 (2020.04.24)
     - [html] [实现一个全屏布局](https://github.com/haizlin/fe-interview/issues/2286)
     - [css] [举例说明CSS特性检测的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2287)

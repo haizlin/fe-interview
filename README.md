@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.04.24) —— 第374天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [实现一个全屏布局](https://github.com/haizlin/fe-interview/issues/2286)
-- [css] [举例说明CSS特性检测的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2287)
-- [js] [写一个方法获取图片的exif信息](https://github.com/haizlin/fe-interview/issues/2288)
-- [软技能] [说说你对版权的理解，前端开发的过程中应该注意哪些版权相关的问题呢？](https://github.com/haizlin/fe-interview/issues/2289)
+## 今天的知识点 (2020.04.25) —— 第375天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [当网页放大或者缩小后如何让页面布局不乱？](https://github.com/haizlin/fe-interview/issues/2290)
+- [css] [如何使用css给一个正方形添加一条对角斜线？](https://github.com/haizlin/fe-interview/issues/2291)
+- [js] [如何按回车自动提交表单](https://github.com/haizlin/fe-interview/issues/2292)
+- [软技能] [请解释下http请求头中Referer的含义和作用是什么？](https://github.com/haizlin/fe-interview/issues/2293)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第372天 (2020.04.22)
-    - [html] [实现九宫格布局](https://github.com/haizlin/fe-interview/issues/2270)
-	- [css] [使用纯css画出一个右侧滚动顶部进度条的效果](https://github.com/haizlin/fe-interview/issues/2271)
-	- [js] [在设置keyup监听事件后按F5刷新和按浏览器中刷新键刷新有什么区别？](https://github.com/haizlin/fe-interview/issues/2272)
-	- [软技能] [你分自己切图吗？还是让设计员给你切呢？](https://github.com/haizlin/fe-interview/issues/2273)
-	
-
 - 第373天 (2020.04.23)
     - [html] [你有使用过IE的条件注释吗？](https://github.com/haizlin/fe-interview/issues/2277)
 	- [css] [你们团队中css的class命名采用的是什么方式呢？下划线还是横线还是驼峰？](https://github.com/haizlin/fe-interview/issues/2278)
 	- [js] [写一个方法获取图片的方向](https://github.com/haizlin/fe-interview/issues/2279)
 	- [软技能] [你认为做为前端开发是要自己切图好还是让美工来切图好呢？](https://github.com/haizlin/fe-interview/issues/2280)
+	
+
+- 第374天 (2020.04.24)
+    - [html] [实现一个全屏布局](https://github.com/haizlin/fe-interview/issues/2286)
+	- [css] [举例说明CSS特性检测的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2287)
+	- [js] [写一个方法获取图片的exif信息](https://github.com/haizlin/fe-interview/issues/2288)
+	- [软技能] [说说你对版权的理解，前端开发的过程中应该注意哪些版权相关的问题呢？](https://github.com/haizlin/fe-interview/issues/2289)
 	
     
 - **[查看全部](category/history.md)**
