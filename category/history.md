@@ -2,6 +2,11 @@
 
 
 
+- 第376天 (2020.04.26)
+    - [html] [字体图标加载出来成了小方块，是什么原因呢？如何解决？](https://github.com/haizlin/fe-interview/issues/2294)
+    - [css] [说说position:sticky有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2295)
+    - [js] [AudioContext有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2296)
+    - [软技能] [你一般用什么工具测试前端代码的性能？](https://github.com/haizlin/fe-interview/issues/2297)
 - 第375天 (2020.04.25)
     - [html] [当网页放大或者缩小后如何让页面布局不乱？](https://github.com/haizlin/fe-interview/issues/2290)
     - [css] [如何使用css给一个正方形添加一条对角斜线？](https://github.com/haizlin/fe-interview/issues/2291)
