@@ -2,6 +2,11 @@
 
 
 
+- 第377天 (2020.04.27)
+    - [html] [如何使用普通元素拥有像textarea元素一样缩放？](https://github.com/haizlin/fe-interview/issues/2298)
+    - [css] [用css画出一把刻度尺](https://github.com/haizlin/fe-interview/issues/2299)
+    - [js] [写一个方法实现自定义右键菜单的功能](https://github.com/haizlin/fe-interview/issues/2300)
+    - [软技能] [接口调用频率太高，如何做好接口的限制呢？](https://github.com/haizlin/fe-interview/issues/2301)
 - 第376天 (2020.04.26)
     - [html] [字体图标加载出来成了小方块，是什么原因呢？如何解决？](https://github.com/haizlin/fe-interview/issues/2294)
     - [css] [说说position:sticky有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2295)
@@ -26,7 +31,7 @@
     - [html] [实现九宫格布局](https://github.com/haizlin/fe-interview/issues/2270)
     - [css] [使用纯css画出一个右侧滚动顶部进度条的效果](https://github.com/haizlin/fe-interview/issues/2271)
     - [js] [在设置keyup监听事件后按F5刷新和按浏览器中刷新键刷新有什么区别？](https://github.com/haizlin/fe-interview/issues/2272)
-    - [软技能] [你分自己切图吗？还是让设计员给你切呢？](https://github.com/haizlin/fe-interview/issues/2273)
+    - [软技能] [你会自己切图吗？还是让设计员给你切呢？](https://github.com/haizlin/fe-interview/issues/2273)
 - 第371天 (2020.04.21)
     - [html] [说说元素上下层叠关系及七阶层叠关系](https://github.com/haizlin/fe-interview/issues/2266)
     - [css] [一个项目中有很多无用的css代码，怎么找到并清除这些无用的代码？](https://github.com/haizlin/fe-interview/issues/2267)
