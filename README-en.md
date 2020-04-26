@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.04.26) —— 376 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [字体图标加载出来成了小方块，是什么原因呢？如何解决？](https://github.com/haizlin/fe-interview/issues/2294)
-- [css] [说说position:sticky有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2295)
-- [js] [AudioContext有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2296)
-- [skill] [你一般用什么工具测试前端代码的性能？](https://github.com/haizlin/fe-interview/issues/2297)
+## Today's Knowledge Points (2020.04.27) —— 377 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何使用普通元素拥有像textarea元素一样缩放？](https://github.com/haizlin/fe-interview/issues/2298)
+- [css] [用css画出一把刻度尺](https://github.com/haizlin/fe-interview/issues/2299)
+- [js] [写一个方法实现自定义右键菜单的功能](https://github.com/haizlin/fe-interview/issues/2300)
+- [skill] [接口调用频率太高，如何做好接口的限制呢？](https://github.com/haizlin/fe-interview/issues/2301)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 374 days (2020.04.24)
-    - [html] [实现一个全屏布局](https://github.com/haizlin/fe-interview/issues/2286)
-	- [css] [举例说明CSS特性检测的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2287)
-	- [js] [写一个方法获取图片的exif信息](https://github.com/haizlin/fe-interview/issues/2288)
-	- [skill] [说说你对版权的理解，前端开发的过程中应该注意哪些版权相关的问题呢？](https://github.com/haizlin/fe-interview/issues/2289)
-	
-
 - 375 days (2020.04.25)
     - [html] [当网页放大或者缩小后如何让页面布局不乱？](https://github.com/haizlin/fe-interview/issues/2290)
 	- [css] [如何使用css给一个正方形添加一条对角斜线？](https://github.com/haizlin/fe-interview/issues/2291)
 	- [js] [如何按回车自动提交表单](https://github.com/haizlin/fe-interview/issues/2292)
 	- [skill] [请解释下http请求头中Referer的含义和作用是什么？](https://github.com/haizlin/fe-interview/issues/2293)
+	
+
+- 376 days (2020.04.26)
+    - [html] [字体图标加载出来成了小方块，是什么原因呢？如何解决？](https://github.com/haizlin/fe-interview/issues/2294)
+	- [css] [说说position:sticky有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2295)
+	- [js] [AudioContext有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2296)
+	- [skill] [你一般用什么工具测试前端代码的性能？](https://github.com/haizlin/fe-interview/issues/2297)
 	
 
 - **[All](category/history.md)**
