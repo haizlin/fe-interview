@@ -2,6 +2,11 @@
 
 
 
+- 第378天 (2020.04.28)
+    - [html] [实现一个面包屑导航的效果](https://github.com/haizlin/fe-interview/issues/2302)
+    - [css] [你会经常用到伪元素吗？一般都用在哪方面？](https://github.com/haizlin/fe-interview/issues/2303)
+    - [js] [callee和caller的区别和作用是什么？](https://github.com/haizlin/fe-interview/issues/2304)
+    - [软技能] [怎么让接口只能调用一次，再次刷新时就失效呢？](https://github.com/haizlin/fe-interview/issues/2305)
 - 第377天 (2020.04.27)
     - [html] [如何使用普通元素拥有像textarea元素一样缩放？](https://github.com/haizlin/fe-interview/issues/2298)
     - [css] [用css画出一把刻度尺](https://github.com/haizlin/fe-interview/issues/2299)
