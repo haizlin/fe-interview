@@ -2,6 +2,11 @@
 
 
 
+- 第379天 (2020.04.29)
+    - [html] [在网格布局中都有哪些概念呢？比如：网格线](https://github.com/haizlin/fe-interview/issues/2306)
+    - [css] [使用负文本缩进text-indent: -9999px时有没有遇到过什么奇怪的问题呢？怎么解决？](https://github.com/haizlin/fe-interview/issues/2307)
+    - [js] [script所在的位置会影响首屏显示时间吗？](https://github.com/haizlin/fe-interview/issues/2308)
+    - [软技能] [怎样在HTTP1.1的基础上实现多路复用？](https://github.com/haizlin/fe-interview/issues/2309)
 - 第378天 (2020.04.28)
     - [html] [实现一个面包屑导航的效果](https://github.com/haizlin/fe-interview/issues/2302)
     - [css] [你会经常用到伪元素吗？一般都用在哪方面？](https://github.com/haizlin/fe-interview/issues/2303)
