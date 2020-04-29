@@ -2,6 +2,11 @@
 
 
 
+- 第380天 (2020.04.30)
+    - [html] [如何让`<p>测试 空格</p>`这两个词之间的空格变大？](https://github.com/haizlin/fe-interview/issues/2311)
+    - [css] [你有使用过css的混合模式mix-blend-mode和background-blend-mode吗？](https://github.com/haizlin/fe-interview/issues/2312)
+    - [js] [js怎么实现一个类并实例化这个类？](https://github.com/haizlin/fe-interview/issues/2313)
+    - [软技能] [你知道什么是防御性编程吗？如何进行防御性编程？](https://github.com/haizlin/fe-interview/issues/2314)
 - 第379天 (2020.04.29)
     - [html] [在网格布局中都有哪些概念呢？比如：网格线](https://github.com/haizlin/fe-interview/issues/2306)
     - [css] [使用负文本缩进text-indent: -9999px时有没有遇到过什么奇怪的问题呢？怎么解决？](https://github.com/haizlin/fe-interview/issues/2307)

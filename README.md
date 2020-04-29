@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.04.29) —— 第379天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [在网格布局中都有哪些概念呢？比如：网格线](https://github.com/haizlin/fe-interview/issues/2306)
-- [css] [使用负文本缩进text-indent: -9999px时有没有遇到过什么奇怪的问题呢？怎么解决？](https://github.com/haizlin/fe-interview/issues/2307)
-- [js] [script所在的位置会影响首屏显示时间吗？](https://github.com/haizlin/fe-interview/issues/2308)
-- [软技能] [怎样在HTTP1.1的基础上实现多路复用？](https://github.com/haizlin/fe-interview/issues/2309)
+## 今天的知识点 (2020.04.30) —— 第380天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何让`<p>测试 空格</p>`这两个词之间的空格变大？](https://github.com/haizlin/fe-interview/issues/2311)
+- [css] [你有使用过css的混合模式mix-blend-mode和background-blend-mode吗？](https://github.com/haizlin/fe-interview/issues/2312)
+- [js] [js怎么实现一个类并实例化这个类？](https://github.com/haizlin/fe-interview/issues/2313)
+- [软技能] [你知道什么是防御性编程吗？如何进行防御性编程？](https://github.com/haizlin/fe-interview/issues/2314)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第377天 (2020.04.27)
-    - [html] [如何使用普通元素拥有像textarea元素一样缩放？](https://github.com/haizlin/fe-interview/issues/2298)
-	- [css] [用css画出一把刻度尺](https://github.com/haizlin/fe-interview/issues/2299)
-	- [js] [写一个方法实现自定义右键菜单的功能](https://github.com/haizlin/fe-interview/issues/2300)
-	- [软技能] [接口调用频率太高，如何做好接口的限制呢？](https://github.com/haizlin/fe-interview/issues/2301)
-	
-
 - 第378天 (2020.04.28)
     - [html] [实现一个面包屑导航的效果](https://github.com/haizlin/fe-interview/issues/2302)
 	- [css] [你会经常用到伪元素吗？一般都用在哪方面？](https://github.com/haizlin/fe-interview/issues/2303)
 	- [js] [callee和caller的区别和作用是什么？](https://github.com/haizlin/fe-interview/issues/2304)
 	- [软技能] [怎么让接口只能调用一次，再次刷新时就失效呢？](https://github.com/haizlin/fe-interview/issues/2305)
+	
+
+- 第379天 (2020.04.29)
+    - [html] [在网格布局中都有哪些概念呢？比如：网格线](https://github.com/haizlin/fe-interview/issues/2306)
+	- [css] [使用负文本缩进text-indent: -9999px时有没有遇到过什么奇怪的问题呢？怎么解决？](https://github.com/haizlin/fe-interview/issues/2307)
+	- [js] [script所在的位置会影响首屏显示时间吗？](https://github.com/haizlin/fe-interview/issues/2308)
+	- [软技能] [怎样在HTTP1.1的基础上实现多路复用？](https://github.com/haizlin/fe-interview/issues/2309)
 	
     
 - **[查看全部](category/history.md)**
