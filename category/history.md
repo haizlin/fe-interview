@@ -2,6 +2,11 @@
 
 
 
+- 第381天 (2020.05.01)
+    - [html] [怎样在文本框中禁用中文输入法？](https://github.com/haizlin/fe-interview/issues/2315)
+    - [css] [使用css实现一个loading的效果](https://github.com/haizlin/fe-interview/issues/2316)
+    - [js] [json和对象有什么区别？](https://github.com/haizlin/fe-interview/issues/2317)
+    - [软技能] [你知道什么是RIA吗？](https://github.com/haizlin/fe-interview/issues/2318)
 - 第380天 (2020.04.30)
     - [html] [如何让`<p>测试 空格</p>`这两个词之间的空格变大？](https://github.com/haizlin/fe-interview/issues/2311)
     - [css] [你有使用过css的混合模式mix-blend-mode和background-blend-mode吗？](https://github.com/haizlin/fe-interview/issues/2312)

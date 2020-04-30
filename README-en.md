@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.04.30) —— 380 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [如何让`<p>测试 空格</p>`这两个词之间的空格变大？](https://github.com/haizlin/fe-interview/issues/2311)
-- [css] [你有使用过css的混合模式mix-blend-mode和background-blend-mode吗？](https://github.com/haizlin/fe-interview/issues/2312)
-- [js] [js怎么实现一个类并实例化这个类？](https://github.com/haizlin/fe-interview/issues/2313)
-- [skill] [你知道什么是防御性编程吗？如何进行防御性编程？](https://github.com/haizlin/fe-interview/issues/2314)
+## Today's Knowledge Points (2020.05.01) —— 381 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [怎样在文本框中禁用中文输入法？](https://github.com/haizlin/fe-interview/issues/2315)
+- [css] [使用css实现一个loading的效果](https://github.com/haizlin/fe-interview/issues/2316)
+- [js] [json和对象有什么区别？](https://github.com/haizlin/fe-interview/issues/2317)
+- [skill] [你知道什么是RIA吗？](https://github.com/haizlin/fe-interview/issues/2318)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 378 days (2020.04.28)
-    - [html] [实现一个面包屑导航的效果](https://github.com/haizlin/fe-interview/issues/2302)
-	- [css] [你会经常用到伪元素吗？一般都用在哪方面？](https://github.com/haizlin/fe-interview/issues/2303)
-	- [js] [callee和caller的区别和作用是什么？](https://github.com/haizlin/fe-interview/issues/2304)
-	- [skill] [怎么让接口只能调用一次，再次刷新时就失效呢？](https://github.com/haizlin/fe-interview/issues/2305)
-	
-
 - 379 days (2020.04.29)
     - [html] [在网格布局中都有哪些概念呢？比如：网格线](https://github.com/haizlin/fe-interview/issues/2306)
 	- [css] [使用负文本缩进text-indent: -9999px时有没有遇到过什么奇怪的问题呢？怎么解决？](https://github.com/haizlin/fe-interview/issues/2307)
 	- [js] [script所在的位置会影响首屏显示时间吗？](https://github.com/haizlin/fe-interview/issues/2308)
 	- [skill] [怎样在HTTP1.1的基础上实现多路复用？](https://github.com/haizlin/fe-interview/issues/2309)
+	
+
+- 380 days (2020.04.30)
+    - [html] [如何让`<p>测试 空格</p>`这两个词之间的空格变大？](https://github.com/haizlin/fe-interview/issues/2311)
+	- [css] [你有使用过css的混合模式mix-blend-mode和background-blend-mode吗？](https://github.com/haizlin/fe-interview/issues/2312)
+	- [js] [js怎么实现一个类并实例化这个类？](https://github.com/haizlin/fe-interview/issues/2313)
+	- [skill] [你知道什么是防御性编程吗？如何进行防御性编程？](https://github.com/haizlin/fe-interview/issues/2314)
 	
 
 - **[All](category/history.md)**
