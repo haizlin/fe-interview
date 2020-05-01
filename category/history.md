@@ -2,6 +2,11 @@
 
 
 
+- 第382天 (2020.05.02)
+    - [html] [说说html5手势检测原理是什么？](https://github.com/haizlin/fe-interview/issues/2319)
+    - [css] [说说sroll-snap-type属性的运用场景有哪些？相关联的属性还有哪些？](https://github.com/haizlin/fe-interview/issues/2320)
+    - [js] [在DOM上同时绑定两个点击事件（一个用捕获，一个用冒泡），事件总共会执行几次，先执行哪个事件？](https://github.com/haizlin/fe-interview/issues/2321)
+    - [软技能] [你会喝酒吗？平时没事时有没有小喝点？](https://github.com/haizlin/fe-interview/issues/2322)
 - 第381天 (2020.05.01)
     - [html] [怎样在文本框中禁用中文输入法？](https://github.com/haizlin/fe-interview/issues/2315)
     - [css] [使用css实现一个loading的效果](https://github.com/haizlin/fe-interview/issues/2316)

@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.05.01) —— 381 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [怎样在文本框中禁用中文输入法？](https://github.com/haizlin/fe-interview/issues/2315)
-- [css] [使用css实现一个loading的效果](https://github.com/haizlin/fe-interview/issues/2316)
-- [js] [json和对象有什么区别？](https://github.com/haizlin/fe-interview/issues/2317)
-- [skill] [你知道什么是RIA吗？](https://github.com/haizlin/fe-interview/issues/2318)
+## Today's Knowledge Points (2020.05.02) —— 382 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [说说html5手势检测原理是什么？](https://github.com/haizlin/fe-interview/issues/2319)
+- [css] [说说sroll-snap-type属性的运用场景有哪些？相关联的属性还有哪些？](https://github.com/haizlin/fe-interview/issues/2320)
+- [js] [在DOM上同时绑定两个点击事件（一个用捕获，一个用冒泡），事件总共会执行几次，先执行哪个事件？](https://github.com/haizlin/fe-interview/issues/2321)
+- [skill] [你会喝酒吗？平时没事时有没有小喝点？](https://github.com/haizlin/fe-interview/issues/2322)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 379 days (2020.04.29)
-    - [html] [在网格布局中都有哪些概念呢？比如：网格线](https://github.com/haizlin/fe-interview/issues/2306)
-	- [css] [使用负文本缩进text-indent: -9999px时有没有遇到过什么奇怪的问题呢？怎么解决？](https://github.com/haizlin/fe-interview/issues/2307)
-	- [js] [script所在的位置会影响首屏显示时间吗？](https://github.com/haizlin/fe-interview/issues/2308)
-	- [skill] [怎样在HTTP1.1的基础上实现多路复用？](https://github.com/haizlin/fe-interview/issues/2309)
-	
-
 - 380 days (2020.04.30)
     - [html] [如何让`<p>测试 空格</p>`这两个词之间的空格变大？](https://github.com/haizlin/fe-interview/issues/2311)
 	- [css] [你有使用过css的混合模式mix-blend-mode和background-blend-mode吗？](https://github.com/haizlin/fe-interview/issues/2312)
 	- [js] [js怎么实现一个类并实例化这个类？](https://github.com/haizlin/fe-interview/issues/2313)
 	- [skill] [你知道什么是防御性编程吗？如何进行防御性编程？](https://github.com/haizlin/fe-interview/issues/2314)
+	
+
+- 381 days (2020.05.01)
+    - [html] [怎样在文本框中禁用中文输入法？](https://github.com/haizlin/fe-interview/issues/2315)
+	- [css] [使用css实现一个loading的效果](https://github.com/haizlin/fe-interview/issues/2316)
+	- [js] [json和对象有什么区别？](https://github.com/haizlin/fe-interview/issues/2317)
+	- [skill] [你知道什么是RIA吗？](https://github.com/haizlin/fe-interview/issues/2318)
 	
 
 - **[All](category/history.md)**
