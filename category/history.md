@@ -2,6 +2,11 @@
 
 
 
+- 第383天 (2020.05.03)
+    - [html] [举例说明原生的html组件有哪些？](https://github.com/haizlin/fe-interview/issues/2323)
+    - [css] [使用css实现气泡框的效果](https://github.com/haizlin/fe-interview/issues/2324)
+    - [js] [如何判断对象是否属于某个类？](https://github.com/haizlin/fe-interview/issues/2325)
+    - [软技能] [你觉得自己的性格是内向还是外向的？](https://github.com/haizlin/fe-interview/issues/2326)
 - 第382天 (2020.05.02)
     - [html] [说说html5手势检测原理是什么？](https://github.com/haizlin/fe-interview/issues/2319)
     - [css] [说说sroll-snap-type属性的运用场景有哪些？相关联的属性还有哪些？](https://github.com/haizlin/fe-interview/issues/2320)

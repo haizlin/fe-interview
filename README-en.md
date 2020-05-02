@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.05.02) —— 382 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [说说html5手势检测原理是什么？](https://github.com/haizlin/fe-interview/issues/2319)
-- [css] [说说sroll-snap-type属性的运用场景有哪些？相关联的属性还有哪些？](https://github.com/haizlin/fe-interview/issues/2320)
-- [js] [在DOM上同时绑定两个点击事件（一个用捕获，一个用冒泡），事件总共会执行几次，先执行哪个事件？](https://github.com/haizlin/fe-interview/issues/2321)
-- [skill] [你会喝酒吗？平时没事时有没有小喝点？](https://github.com/haizlin/fe-interview/issues/2322)
+## Today's Knowledge Points (2020.05.03) —— 383 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明原生的html组件有哪些？](https://github.com/haizlin/fe-interview/issues/2323)
+- [css] [使用css实现气泡框的效果](https://github.com/haizlin/fe-interview/issues/2324)
+- [js] [如何判断对象是否属于某个类？](https://github.com/haizlin/fe-interview/issues/2325)
+- [skill] [你觉得自己的性格是内向还是外向的？](https://github.com/haizlin/fe-interview/issues/2326)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 380 days (2020.04.30)
-    - [html] [如何让`<p>测试 空格</p>`这两个词之间的空格变大？](https://github.com/haizlin/fe-interview/issues/2311)
-	- [css] [你有使用过css的混合模式mix-blend-mode和background-blend-mode吗？](https://github.com/haizlin/fe-interview/issues/2312)
-	- [js] [js怎么实现一个类并实例化这个类？](https://github.com/haizlin/fe-interview/issues/2313)
-	- [skill] [你知道什么是防御性编程吗？如何进行防御性编程？](https://github.com/haizlin/fe-interview/issues/2314)
-	
-
 - 381 days (2020.05.01)
     - [html] [怎样在文本框中禁用中文输入法？](https://github.com/haizlin/fe-interview/issues/2315)
 	- [css] [使用css实现一个loading的效果](https://github.com/haizlin/fe-interview/issues/2316)
 	- [js] [json和对象有什么区别？](https://github.com/haizlin/fe-interview/issues/2317)
 	- [skill] [你知道什么是RIA吗？](https://github.com/haizlin/fe-interview/issues/2318)
+	
+
+- 382 days (2020.05.02)
+    - [html] [说说html5手势检测原理是什么？](https://github.com/haizlin/fe-interview/issues/2319)
+	- [css] [说说sroll-snap-type属性的运用场景有哪些？相关联的属性还有哪些？](https://github.com/haizlin/fe-interview/issues/2320)
+	- [js] [在DOM上同时绑定两个点击事件（一个用捕获，一个用冒泡），事件总共会执行几次，先执行哪个事件？](https://github.com/haizlin/fe-interview/issues/2321)
+	- [skill] [你会喝酒吗？平时没事时有没有小喝点？](https://github.com/haizlin/fe-interview/issues/2322)
 	
 
 - **[All](category/history.md)**
