@@ -2,6 +2,11 @@
 
 
 
+- 第384天 (2020.05.04)
+    - [html] [history和hash两种路由方式的最大区别是什么？](https://github.com/haizlin/fe-interview/issues/2327)
+    - [css] [:placeholder-shown和:focus-within这两个伪类你有使用过吗？说说看](https://github.com/haizlin/fe-interview/issues/2328)
+    - [js] [js操作节点的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2329)
+    - [软技能] [如果HTTP2、5G普及了，浏览器也支持es module了，Webpack、Rollup这种打包工具还有意义吗？](https://github.com/haizlin/fe-interview/issues/2330)
 - 第383天 (2020.05.03)
     - [html] [举例说明原生的html组件有哪些？](https://github.com/haizlin/fe-interview/issues/2323)
     - [css] [使用css实现气泡框的效果](https://github.com/haizlin/fe-interview/issues/2324)
