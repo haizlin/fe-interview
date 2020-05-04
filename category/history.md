@@ -2,6 +2,11 @@
 
 
 
+- 第385天 (2020.05.05)
+    - [html] [使用history路由方式时，你有自己动手配置过服务器端吗？为什么要配服务器端？怎么配？](https://github.com/haizlin/fe-interview/issues/2331)
+    - [css] [使用css实现霓虹灯效果](https://github.com/haizlin/fe-interview/issues/2332)
+    - [js] [说说你对js对象生命周期的理解](https://github.com/haizlin/fe-interview/issues/2333)
+    - [软技能] [说说你对WASM的了解](https://github.com/haizlin/fe-interview/issues/2334)
 - 第384天 (2020.05.04)
     - [html] [history和hash两种路由方式的最大区别是什么？](https://github.com/haizlin/fe-interview/issues/2327)
     - [css] [:placeholder-shown和:focus-within这两个伪类你有使用过吗？说说看](https://github.com/haizlin/fe-interview/issues/2328)
