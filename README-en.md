@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.05.05) —— 385 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [使用history路由方式时，你有自己动手配置过服务器端吗？为什么要配服务器端？怎么配？](https://github.com/haizlin/fe-interview/issues/2331)
-- [css] [使用css实现霓虹灯效果](https://github.com/haizlin/fe-interview/issues/2332)
-- [js] [说说你对js对象生命周期的理解](https://github.com/haizlin/fe-interview/issues/2333)
-- [skill] [说说你对WASM的了解](https://github.com/haizlin/fe-interview/issues/2334)
+## Today's Knowledge Points (2020.05.06) —— 386 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [html5的Notification桌面通知如何请求权限？](https://github.com/haizlin/fe-interview/issues/2335)
+- [css] [为什么说css的选择器是从右向左匹配？](https://github.com/haizlin/fe-interview/issues/2336)
+- [js] [写一个格式化时间的方法](https://github.com/haizlin/fe-interview/issues/2337)
+- [skill] [你知道什么是“银弹”吗？它指的是什么？](https://github.com/haizlin/fe-interview/issues/2338)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 383 days (2020.05.03)
-    - [html] [举例说明原生的html组件有哪些？](https://github.com/haizlin/fe-interview/issues/2323)
-	- [css] [使用css实现气泡框的效果](https://github.com/haizlin/fe-interview/issues/2324)
-	- [js] [如何判断对象是否属于某个类？](https://github.com/haizlin/fe-interview/issues/2325)
-	- [skill] [你觉得自己的性格是内向还是外向的？](https://github.com/haizlin/fe-interview/issues/2326)
-	
-
 - 384 days (2020.05.04)
     - [html] [history和hash两种路由方式的最大区别是什么？](https://github.com/haizlin/fe-interview/issues/2327)
 	- [css] [:placeholder-shown和:focus-within这两个伪类你有使用过吗？说说看](https://github.com/haizlin/fe-interview/issues/2328)
 	- [js] [js操作节点的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2329)
 	- [skill] [如果HTTP2、5G普及了，浏览器也支持es module了，Webpack、Rollup这种打包工具还有意义吗？](https://github.com/haizlin/fe-interview/issues/2330)
+	
+
+- 385 days (2020.05.05)
+    - [html] [使用history路由方式时，你有自己动手配置过服务器端吗？为什么要配服务器端？怎么配？](https://github.com/haizlin/fe-interview/issues/2331)
+	- [css] [使用css实现霓虹灯效果](https://github.com/haizlin/fe-interview/issues/2332)
+	- [js] [说说你对js对象生命周期的理解](https://github.com/haizlin/fe-interview/issues/2333)
+	- [skill] [说说你对WASM的了解](https://github.com/haizlin/fe-interview/issues/2334)
 	
 
 - **[All](category/history.md)**

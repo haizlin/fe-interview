@@ -2,6 +2,11 @@
 
 
 
+- 第386天 (2020.05.06)
+    - [html] [html5的Notification桌面通知如何请求权限？](https://github.com/haizlin/fe-interview/issues/2335)
+    - [css] [为什么说css的选择器是从右向左匹配？](https://github.com/haizlin/fe-interview/issues/2336)
+    - [js] [写一个格式化时间的方法](https://github.com/haizlin/fe-interview/issues/2337)
+    - [软技能] [你知道什么是“银弹”吗？它指的是什么？](https://github.com/haizlin/fe-interview/issues/2338)
 - 第385天 (2020.05.05)
     - [html] [使用history路由方式时，你有自己动手配置过服务器端吗？为什么要配服务器端？怎么配？](https://github.com/haizlin/fe-interview/issues/2331)
     - [css] [使用css实现霓虹灯效果](https://github.com/haizlin/fe-interview/issues/2332)
