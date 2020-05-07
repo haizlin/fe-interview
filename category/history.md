@@ -2,6 +2,11 @@
 
 
 
+- 第388天 (2020.05.08)
+    - [html] [请说说input的inputmode属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2343)
+    - [css] [当拿到一个新的项目，让你对这个项目的css做下架构设计，你该如何下手？](https://github.com/haizlin/fe-interview/issues/2344)
+    - [js] [XML与JSO有什么的区别？](https://github.com/haizlin/fe-interview/issues/2345)
+    - [软技能] [你有没有看过哪些开源项目的源码？说说你看源码的流程](https://github.com/haizlin/fe-interview/issues/2346)
 - 第387天 (2020.05.07)
     - [html] [html5的游戏引擎你了解多少？都有哪些比较好用的引擎呢？](https://github.com/haizlin/fe-interview/issues/2339)
     - [css] [表列举一些你认为最“昂贵”的css属性并解释为什么](https://github.com/haizlin/fe-interview/issues/2340)
