@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.05.08) —— 第388天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [请说说input的inputmode属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2343)
-- [css] [当拿到一个新的项目，让你对这个项目的css做下架构设计，你该如何下手？](https://github.com/haizlin/fe-interview/issues/2344)
-- [js] [XML与JSO有什么的区别？](https://github.com/haizlin/fe-interview/issues/2345)
-- [软技能] [你有没有看过哪些开源项目的源码？说说你看源码的流程](https://github.com/haizlin/fe-interview/issues/2346)
+## 今天的知识点 (2020.05.09) —— 第389天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [举例说明图片懒加载的方案有哪些？](https://github.com/haizlin/fe-interview/issues/2347)
+- [css] [除了可以用js跟踪用户信息外，如果不用js，使用纯css怎么做呢？](https://github.com/haizlin/fe-interview/issues/2348)
+- [js] [写一个获取页面中所有checkbox的方法](https://github.com/haizlin/fe-interview/issues/2349)
+- [软技能] [你上家公司内部用的是什么协同工具（企业微信、钉钉、QQ、RTX等）？](https://github.com/haizlin/fe-interview/issues/2350)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第386天 (2020.05.06)
-    - [html] [html5的Notification桌面通知如何请求权限？](https://github.com/haizlin/fe-interview/issues/2335)
-	- [css] [为什么说css的选择器是从右向左匹配？](https://github.com/haizlin/fe-interview/issues/2336)
-	- [js] [写一个格式化时间的方法](https://github.com/haizlin/fe-interview/issues/2337)
-	- [软技能] [你知道什么是“银弹”吗？它指的是什么？](https://github.com/haizlin/fe-interview/issues/2338)
-	
-
 - 第387天 (2020.05.07)
     - [html] [html5的游戏引擎你了解多少？都有哪些比较好用的引擎呢？](https://github.com/haizlin/fe-interview/issues/2339)
 	- [css] [表列举一些你认为最“昂贵”的css属性并解释为什么](https://github.com/haizlin/fe-interview/issues/2340)
 	- [js] [flash如何与js交互？](https://github.com/haizlin/fe-interview/issues/2341)
 	- [软技能] [你认为前端工程师需要很好的审美吗？](https://github.com/haizlin/fe-interview/issues/2342)
+	
+
+- 第388天 (2020.05.08)
+    - [html] [请说说input的inputmode属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2343)
+	- [css] [当拿到一个新的项目，让你对这个项目的css做下架构设计，你该如何下手？](https://github.com/haizlin/fe-interview/issues/2344)
+	- [js] [XML与JSON有什么的区别？](https://github.com/haizlin/fe-interview/issues/2345)
+	- [软技能] [你有没有看过哪些开源项目的源码？说说你看源码的流程](https://github.com/haizlin/fe-interview/issues/2346)
 	
     
 - **[查看全部](category/history.md)**

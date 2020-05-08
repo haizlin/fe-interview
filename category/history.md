@@ -2,10 +2,15 @@
 
 
 
+- 第389天 (2020.05.09)
+    - [html] [举例说明图片懒加载的方案有哪些？](https://github.com/haizlin/fe-interview/issues/2347)
+    - [css] [除了可以用js跟踪用户信息外，如果不用js，使用纯css怎么做呢？](https://github.com/haizlin/fe-interview/issues/2348)
+    - [js] [写一个获取页面中所有checkbox的方法](https://github.com/haizlin/fe-interview/issues/2349)
+    - [软技能] [你上家公司内部用的是什么协同工具（企业微信、钉钉、QQ、RTX等）？](https://github.com/haizlin/fe-interview/issues/2350)
 - 第388天 (2020.05.08)
     - [html] [请说说input的inputmode属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2343)
     - [css] [当拿到一个新的项目，让你对这个项目的css做下架构设计，你该如何下手？](https://github.com/haizlin/fe-interview/issues/2344)
-    - [js] [XML与JSO有什么的区别？](https://github.com/haizlin/fe-interview/issues/2345)
+    - [js] [XML与JSON有什么的区别？](https://github.com/haizlin/fe-interview/issues/2345)
     - [软技能] [你有没有看过哪些开源项目的源码？说说你看源码的流程](https://github.com/haizlin/fe-interview/issues/2346)
 - 第387天 (2020.05.07)
     - [html] [html5的游戏引擎你了解多少？都有哪些比较好用的引擎呢？](https://github.com/haizlin/fe-interview/issues/2339)
