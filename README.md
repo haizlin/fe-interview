@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.05.09) —— 第389天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [举例说明图片懒加载的方案有哪些？](https://github.com/haizlin/fe-interview/issues/2347)
-- [css] [除了可以用js跟踪用户信息外，如果不用js，使用纯css怎么做呢？](https://github.com/haizlin/fe-interview/issues/2348)
-- [js] [写一个获取页面中所有checkbox的方法](https://github.com/haizlin/fe-interview/issues/2349)
-- [软技能] [你上家公司内部用的是什么协同工具（企业微信、钉钉、QQ、RTX等）？](https://github.com/haizlin/fe-interview/issues/2350)
+## 今天的知识点 (2020.05.12) —— 第392天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何实现前端代码实时预览效果？](https://github.com/haizlin/fe-interview/issues/2363)
+- [css] [你了解CSS Houdini吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2364)
+- [js] [如何判断两个对象相等？](https://github.com/haizlin/fe-interview/issues/2365)
+- [软技能] [周末，你在和朋友聚会喝酒吃饭，中途其他同事打电话让去公司解决紧急bug，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/2366)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第387天 (2020.05.07)
-    - [html] [html5的游戏引擎你了解多少？都有哪些比较好用的引擎呢？](https://github.com/haizlin/fe-interview/issues/2339)
-	- [css] [表列举一些你认为最“昂贵”的css属性并解释为什么](https://github.com/haizlin/fe-interview/issues/2340)
-	- [js] [flash如何与js交互？](https://github.com/haizlin/fe-interview/issues/2341)
-	- [软技能] [你认为前端工程师需要很好的审美吗？](https://github.com/haizlin/fe-interview/issues/2342)
+- 第390天 (2020.05.10)
+    - [html] [浏览器是如何解析html的？](https://github.com/haizlin/fe-interview/issues/2351)
+	- [css] [使用css写一个红绿灯交替的动画效果](https://github.com/haizlin/fe-interview/issues/2352)
+	- [js] [写一个获取非行间样式的方法](https://github.com/haizlin/fe-interview/issues/2353)
+	- [软技能] [你认为企业内部协同工具最重要的功能是什么？](https://github.com/haizlin/fe-interview/issues/2354)
 	
 
-- 第388天 (2020.05.08)
-    - [html] [请说说input的inputmode属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2343)
-	- [css] [当拿到一个新的项目，让你对这个项目的css做下架构设计，你该如何下手？](https://github.com/haizlin/fe-interview/issues/2344)
-	- [js] [XML与JSON有什么的区别？](https://github.com/haizlin/fe-interview/issues/2345)
-	- [软技能] [你有没有看过哪些开源项目的源码？说说你看源码的流程](https://github.com/haizlin/fe-interview/issues/2346)
+- 第391天 (2020.05.11)
+    - [html] [html如何启动本地的exe应用？](https://github.com/haizlin/fe-interview/issues/2359)
+	- [css] [使用css画个镰刀形的月亮](https://github.com/haizlin/fe-interview/issues/2360)
+	- [js] [localStorage什么时候过期？](https://github.com/haizlin/fe-interview/issues/2361)
+	- [软技能] [你会沉迷于玩手机吗？对于微信的使用你是怎么看待的？](https://github.com/haizlin/fe-interview/issues/2362)
 	
     
 - **[查看全部](category/history.md)**
