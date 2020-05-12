@@ -34,11 +34,11 @@
 </p>
 
 
-## 今天的知识点 (2020.05.12) —— 第392天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [如何实现前端代码实时预览效果？](https://github.com/haizlin/fe-interview/issues/2363)
-- [css] [你了解CSS Houdini吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2364)
-- [js] [如何判断两个对象相等？](https://github.com/haizlin/fe-interview/issues/2365)
-- [软技能] [周末，你在和朋友聚会喝酒吃饭，中途其他同事打电话让去公司解决紧急bug，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/2366)
+## 今天的知识点 (2020.05.13) —— 第393天 ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [你有使用过time标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2368)
+- [css] [css的负边距有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/2369)
+- [js] [举例说明js中什么是尾调用优化？](https://github.com/haizlin/fe-interview/issues/2370)
+- [软技能] [你们平时怎么学习的效率最高？](https://github.com/haizlin/fe-interview/issues/2371)
 
 
 > 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -78,18 +78,18 @@
 …………  
 
 
-- 第390天 (2020.05.10)
-    - [html] [浏览器是如何解析html的？](https://github.com/haizlin/fe-interview/issues/2351)
-	- [css] [使用css写一个红绿灯交替的动画效果](https://github.com/haizlin/fe-interview/issues/2352)
-	- [js] [写一个获取非行间样式的方法](https://github.com/haizlin/fe-interview/issues/2353)
-	- [软技能] [你认为企业内部协同工具最重要的功能是什么？](https://github.com/haizlin/fe-interview/issues/2354)
-	
-
 - 第391天 (2020.05.11)
     - [html] [html如何启动本地的exe应用？](https://github.com/haizlin/fe-interview/issues/2359)
 	- [css] [使用css画个镰刀形的月亮](https://github.com/haizlin/fe-interview/issues/2360)
 	- [js] [localStorage什么时候过期？](https://github.com/haizlin/fe-interview/issues/2361)
 	- [软技能] [你会沉迷于玩手机吗？对于微信的使用你是怎么看待的？](https://github.com/haizlin/fe-interview/issues/2362)
+	
+
+- 第392天 (2020.05.12)
+    - [html] [如何实现前端代码实时预览效果？](https://github.com/haizlin/fe-interview/issues/2363)
+	- [css] [你了解CSS Houdini吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2364)
+	- [js] [如何判断两个对象相等？](https://github.com/haizlin/fe-interview/issues/2365)
+	- [软技能] [周末，你在和朋友聚会喝酒吃饭，中途其他同事打电话让去公司解决紧急bug，这时你该怎么办？](https://github.com/haizlin/fe-interview/issues/2366)
 	
     
 - **[查看全部](category/history.md)**
