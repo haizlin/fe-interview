@@ -2,6 +2,11 @@
 
 
 
+- 第394天 (2020.05.14)
+    - [html] [你有使用过blockquote标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2372)
+    - [css] [clear属性只对块级元素有效么？为何无法应用于行内元素？](https://github.com/haizlin/fe-interview/issues/2373)
+    - [js] [innerHTML有什么缺点？](https://github.com/haizlin/fe-interview/issues/2374)
+    - [软技能] [说说你对“管理”职位的理解](https://github.com/haizlin/fe-interview/issues/2375)
 - 第393天 (2020.05.13)
     - [html] [你有使用过time标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2368)
     - [css] [css的负边距有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/2369)
