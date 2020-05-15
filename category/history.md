@@ -2,6 +2,11 @@
 
 
 
+- 第396天 (2020.05.16)
+    - [html] [你有使用过template标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2382)
+    - [css] [如何让背景图片固定不随滚动条滚动？](https://github.com/haizlin/fe-interview/issues/2383)
+    - [js] [js的循环结构有哪些？](https://github.com/haizlin/fe-interview/issues/2384)
+    - [软技能] [如果要你实现下拉刷新和下拉加载，说说你的技术方案](https://github.com/haizlin/fe-interview/issues/2385)
 - 第395天 (2020.05.15)
     - [html] [你有使用过meter标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2378)
     - [css] [你用过css的tab-size属性吗？浏览器默认显示tab为几个空格？](https://github.com/haizlin/fe-interview/issues/2379)
