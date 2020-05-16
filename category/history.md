@@ -2,6 +2,11 @@
 
 
 
+- 第397天 (2020.05.17)
+    - [html] [如何使用纯html制作一个进度条？](https://github.com/haizlin/fe-interview/issues/2386)
+    - [css] [举例说明与打印有关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/2387)
+    - [js] [在不支持js的浏览器中如何隐藏JavaScript代码？](https://github.com/haizlin/fe-interview/issues/2388)
+    - [软技能] [二维码会不会重复？如果重复怎么办？](https://github.com/haizlin/fe-interview/issues/2389)
 - 第396天 (2020.05.16)
     - [html] [你有使用过template标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2382)
     - [css] [如何让背景图片固定不随滚动条滚动？](https://github.com/haizlin/fe-interview/issues/2383)

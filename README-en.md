@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.05.16) —— 396 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [你有使用过template标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2382)
-- [css] [如何让背景图片固定不随滚动条滚动？](https://github.com/haizlin/fe-interview/issues/2383)
-- [js] [js的循环结构有哪些？](https://github.com/haizlin/fe-interview/issues/2384)
-- [skill] [如果要你实现下拉刷新和下拉加载，说说你的技术方案](https://github.com/haizlin/fe-interview/issues/2385)
+## Today's Knowledge Points (2020.05.17) —— 397 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [如何使用纯html制作一个进度条？](https://github.com/haizlin/fe-interview/issues/2386)
+- [css] [举例说明与打印有关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/2387)
+- [js] [在不支持js的浏览器中如何隐藏JavaScript代码？](https://github.com/haizlin/fe-interview/issues/2388)
+- [skill] [二维码会不会重复？如果重复怎么办？](https://github.com/haizlin/fe-interview/issues/2389)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 394 days (2020.05.14)
-    - [html] [你有使用过blockquote标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2372)
-	- [css] [clear属性只对块级元素有效么？为何无法应用于行内元素？](https://github.com/haizlin/fe-interview/issues/2373)
-	- [js] [innerHTML有什么缺点？](https://github.com/haizlin/fe-interview/issues/2374)
-	- [skill] [说说你对“管理”职位的理解](https://github.com/haizlin/fe-interview/issues/2375)
-	
-
 - 395 days (2020.05.15)
     - [html] [你有使用过meter标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2378)
 	- [css] [你用过css的tab-size属性吗？浏览器默认显示tab为几个空格？](https://github.com/haizlin/fe-interview/issues/2379)
 	- [js] [字符串拼接有哪些方式？哪种性能好？](https://github.com/haizlin/fe-interview/issues/2380)
 	- [skill] [你知道什么是单点登录吗？说说单点登录的流程](https://github.com/haizlin/fe-interview/issues/2381)
+	
+
+- 396 days (2020.05.16)
+    - [html] [你有使用过template标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2382)
+	- [css] [如何让背景图片固定不随滚动条滚动？](https://github.com/haizlin/fe-interview/issues/2383)
+	- [js] [js的循环结构有哪些？](https://github.com/haizlin/fe-interview/issues/2384)
+	- [skill] [如果要你实现下拉刷新和下拉加载，说说你的技术方案](https://github.com/haizlin/fe-interview/issues/2385)
 	
 
 - **[All](category/history.md)**
