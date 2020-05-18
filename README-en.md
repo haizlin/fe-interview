@@ -36,11 +36,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.05.17) —— 397 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
-- [html] [如何使用纯html制作一个进度条？](https://github.com/haizlin/fe-interview/issues/2386)
-- [css] [举例说明与打印有关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/2387)
-- [js] [在不支持js的浏览器中如何隐藏JavaScript代码？](https://github.com/haizlin/fe-interview/issues/2388)
-- [skill] [二维码会不会重复？如果重复怎么办？](https://github.com/haizlin/fe-interview/issues/2389)
+## Today's Knowledge Points (2020.05.19) —— 399 days ([我也要出题](http://web.haizlin.cn/interview/index.html))
+- [html] [android手机能同时播放两个video音频吗？](https://github.com/haizlin/fe-interview/issues/2394)
+- [css] [使用css写一个垂直翻转图片的效果](https://github.com/haizlin/fe-interview/issues/2395)
+- [js] [Number()的存储空间是多大？假如接口返回一个超过最大字节的数字怎么办？](https://github.com/haizlin/fe-interview/issues/2396)
+- [skill] [你上家公司对于前端部门的验收标准有吗？都规范了哪些标准呢？](https://github.com/haizlin/fe-interview/issues/2397)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -79,18 +79,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 395 days (2020.05.15)
-    - [html] [你有使用过meter标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2378)
-	- [css] [你用过css的tab-size属性吗？浏览器默认显示tab为几个空格？](https://github.com/haizlin/fe-interview/issues/2379)
-	- [js] [字符串拼接有哪些方式？哪种性能好？](https://github.com/haizlin/fe-interview/issues/2380)
-	- [skill] [你知道什么是单点登录吗？说说单点登录的流程](https://github.com/haizlin/fe-interview/issues/2381)
+- 397 days (2020.05.17)
+    - [html] [如何使用纯html制作一个进度条？](https://github.com/haizlin/fe-interview/issues/2386)
+	- [css] [举例说明与打印有关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/2387)
+	- [js] [在不支持js的浏览器中如何隐藏JavaScript代码？](https://github.com/haizlin/fe-interview/issues/2388)
+	- [skill] [二维码会不会重复？如果重复怎么办？](https://github.com/haizlin/fe-interview/issues/2389)
 	
 
-- 396 days (2020.05.16)
-    - [html] [你有使用过template标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2382)
-	- [css] [如何让背景图片固定不随滚动条滚动？](https://github.com/haizlin/fe-interview/issues/2383)
-	- [js] [js的循环结构有哪些？](https://github.com/haizlin/fe-interview/issues/2384)
-	- [skill] [如果要你实现下拉刷新和下拉加载，说说你的技术方案](https://github.com/haizlin/fe-interview/issues/2385)
+- 398 days (2020.05.18)
+    - [html] [你有使用过output标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2390)
+	- [css] [请写出font属性的快捷写法](https://github.com/haizlin/fe-interview/issues/2391)
+	- [js] [alert如何让文本换行？](https://github.com/haizlin/fe-interview/issues/2392)
+	- [skill] [为什么会有ipv6的出现？它的出现将会带动哪些产业的发展](https://github.com/haizlin/fe-interview/issues/2393)
 	
 
 - **[All](category/history.md)**

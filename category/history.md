@@ -2,6 +2,16 @@
 
 
 
+- 第399天 (2020.05.19)
+    - [html] [android手机能同时播放两个video音频吗？](https://github.com/haizlin/fe-interview/issues/2394)
+    - [css] [使用css写一个垂直翻转图片的效果](https://github.com/haizlin/fe-interview/issues/2395)
+    - [js] [Number()的存储空间是多大？假如接口返回一个超过最大字节的数字怎么办？](https://github.com/haizlin/fe-interview/issues/2396)
+    - [软技能] [你上家公司对于前端部门的验收标准有吗？都规范了哪些标准呢？](https://github.com/haizlin/fe-interview/issues/2397)
+- 第398天 (2020.05.18)
+    - [html] [你有使用过output标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2390)
+    - [css] [请写出font属性的快捷写法](https://github.com/haizlin/fe-interview/issues/2391)
+    - [js] [alert如何让文本换行？](https://github.com/haizlin/fe-interview/issues/2392)
+    - [软技能] [为什么会有ipv6的出现？它的出现将会带动哪些产业的发展](https://github.com/haizlin/fe-interview/issues/2393)
 - 第397天 (2020.05.17)
     - [html] [如何使用纯html制作一个进度条？](https://github.com/haizlin/fe-interview/issues/2386)
     - [css] [举例说明与打印有关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/2387)
