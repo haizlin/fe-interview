@@ -2,6 +2,11 @@
 
 
 
+- 第400天 (2020.05.20)
+    - [html] [DOM节点的根节点是不是body？](https://github.com/haizlin/fe-interview/issues/2398)
+    - [css] [css中的url()要不要加引号？说说你的理解](https://github.com/haizlin/fe-interview/issues/2399)
+    - [js] [一个api接口从请求数据到请求结束共与服务器进行了几次交互？](https://github.com/haizlin/fe-interview/issues/2400)
+    - [软技能] [你有对接过微信支付吗？说说微信支付的流程](https://github.com/haizlin/fe-interview/issues/2401)
 - 第399天 (2020.05.19)
     - [html] [android手机能同时播放两个video音频吗？](https://github.com/haizlin/fe-interview/issues/2394)
     - [css] [使用css写一个垂直翻转图片的效果](https://github.com/haizlin/fe-interview/issues/2395)
