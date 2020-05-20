@@ -2,6 +2,11 @@
 
 
 
+- 第401天 (2020.05.21)
+    - [html] [DOM节点的种类有哪些？](https://github.com/haizlin/fe-interview/issues/2402)
+    - [css] [如何使用css显示a链接的url？](https://github.com/haizlin/fe-interview/issues/2403)
+    - [js] [使用js实现一个循环队列](https://github.com/haizlin/fe-interview/issues/2404)
+    - [软技能] [有新同事入职，你是要安排他先做新项目还是老项目？为什么？](https://github.com/haizlin/fe-interview/issues/2405)
 - 第400天 (2020.05.20)
     - [html] [DOM节点的根节点是不是body？](https://github.com/haizlin/fe-interview/issues/2398)
     - [css] [css中的url()要不要加引号？说说你的理解](https://github.com/haizlin/fe-interview/issues/2399)

@@ -36,14 +36,14 @@
 </p>
 
 
-## 今天的知识点 (2020.05.20) —— 第400天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [DOM节点的根节点是不是body？](https://github.com/haizlin/fe-interview/issues/2398)
-- [css] [css中的url()要不要加引号？说说你的理解](https://github.com/haizlin/fe-interview/issues/2399)
-- [js] [一个api接口从请求数据到请求结束共与服务器进行了几次交互？](https://github.com/haizlin/fe-interview/issues/2400)
-- [软技能] [你有对接过微信支付吗？说说微信支付的流程](https://github.com/haizlin/fe-interview/issues/2401)
+## 今天的知识点 (2020.05.21) —— 第401天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [DOM节点的种类有哪些？](https://github.com/haizlin/fe-interview/issues/2402)
+- [css] [如何使用css显示a链接的url？](https://github.com/haizlin/fe-interview/issues/2403)
+- [js] [使用js实现一个循环队列](https://github.com/haizlin/fe-interview/issues/2404)
+- [软技能] [有新同事入职，你是要安排他先做新项目还是老项目？为什么？](https://github.com/haizlin/fe-interview/issues/2405)
 
 
-> 点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
+> 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 > 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
 ## 试题分类
@@ -80,18 +80,18 @@
 …………  
 
 
-- 第398天 (2020.05.18)
-    - [html] [你有使用过output标签吗？说说它的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2390)
-	- [css] [请写出font属性的快捷写法](https://github.com/haizlin/fe-interview/issues/2391)
-	- [js] [alert如何让文本换行？](https://github.com/haizlin/fe-interview/issues/2392)
-	- [软技能] [为什么会有ipv6的出现？它的出现将会带动哪些产业的发展](https://github.com/haizlin/fe-interview/issues/2393)
-	
-
 - 第399天 (2020.05.19)
     - [html] [android手机能同时播放两个video音频吗？](https://github.com/haizlin/fe-interview/issues/2394)
 	- [css] [使用css写一个垂直翻转图片的效果](https://github.com/haizlin/fe-interview/issues/2395)
 	- [js] [Number()的存储空间是多大？假如接口返回一个超过最大字节的数字怎么办？](https://github.com/haizlin/fe-interview/issues/2396)
 	- [软技能] [你上家公司对于前端部门的验收标准有吗？都规范了哪些标准呢？](https://github.com/haizlin/fe-interview/issues/2397)
+	
+
+- 第400天 (2020.05.20)
+    - [html] [DOM节点的根节点是不是body？](https://github.com/haizlin/fe-interview/issues/2398)
+	- [css] [css中的url()要不要加引号？说说你的理解](https://github.com/haizlin/fe-interview/issues/2399)
+	- [js] [一个api接口从请求数据到请求结束共与服务器进行了几次交互？](https://github.com/haizlin/fe-interview/issues/2400)
+	- [软技能] [你有对接过微信支付吗？说说微信支付的流程](https://github.com/haizlin/fe-interview/issues/2401)
 	
     
 - **[查看全部](category/history.md)**
@@ -172,7 +172,7 @@
 - 2019.09.13 — 今天是更新的第150天，刚好中秋节，农历十五中秋节，是一种巧合，意味着团团圆圆！祝所有朋友幸福健康！
 - 2019.09.18 — 今天一看关注数增加了不少，才发现又一次上了github热门榜，第三次了，看来爱学习的朋友很多！
 - 2019.10.10 — 第四次登上github热门榜，应该是坚持更新的结果，同时项目被[前端网](http://qianduan.cc)收录！
-- 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://web.haizlin.cn/interview/index.html) 贡献你的题目吧，让大家一起来挑战你的题目！
+- 2019.10.20 - 毕竟一个人的能力有限，集体的力量才是无限的！欢迎大家一起来贡献题目，为**前端面试每日3+1**开源社区贡献力量！点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
 - 2019.11.13 — 第211天，第5次登上github热门榜！预计元旦前将会上线3+1的官网，敬请期待！
 - 2019.12.21 — 第249天，第6次登上github热门榜！最近好多朋友都在问，答案在哪？我的回答还是，没有答案，提倡主动思考！
 - 2020.02.28 — 第317天，第7次登上github热门榜！
@@ -187,6 +187,7 @@
     - 有8次上了github全球热门榜
     - 每天从掘金、简书、sf等平台访问过来的人数达到5千人
     - 微信上的广告收入：490.55元（广告放在底部，从不干扰读者，后期将会用于相关网站建设支出，服务于社区）
+- 2020.04.16 — 第366天，前端面试每日3+1，满一年啦，366天从未间断，感谢大家的陪伴与参与！！！未来的日子会继续努力做得更好！
 - 2020.05.20 — 第440天，3+1在5.20这浪漫的日子上线了（让大家久等了，感谢团队的努力付出）：[GO，去瞧瞧](http://www.h-camel.com/index.html)
 
 ## 在哪可以看到
