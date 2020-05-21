@@ -36,11 +36,11 @@
 </p>
 
 
-## 今天的知识点 (2020.05.21) —— 第401天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [DOM节点的种类有哪些？](https://github.com/haizlin/fe-interview/issues/2402)
-- [css] [如何使用css显示a链接的url？](https://github.com/haizlin/fe-interview/issues/2403)
-- [js] [使用js实现一个循环队列](https://github.com/haizlin/fe-interview/issues/2404)
-- [软技能] [有新同事入职，你是要安排他先做新项目还是老项目？为什么？](https://github.com/haizlin/fe-interview/issues/2405)
+## 今天的知识点 (2020.05.22) —— 第402天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [微信公众号如何打开关联的小程序？](https://github.com/haizlin/fe-interview/issues/2406)
+- [css] [怎么给手持设备添加特殊样式？](https://github.com/haizlin/fe-interview/issues/2407)
+- [js] [举例说明面向对象编程有什么缺点？](https://github.com/haizlin/fe-interview/issues/2408)
+- [软技能] [你的数学学得怎么样？举例说明有哪些场景会用到很强的数学知识](https://github.com/haizlin/fe-interview/issues/2409)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -80,18 +80,18 @@
 …………  
 
 
-- 第399天 (2020.05.19)
-    - [html] [android手机能同时播放两个video音频吗？](https://github.com/haizlin/fe-interview/issues/2394)
-	- [css] [使用css写一个垂直翻转图片的效果](https://github.com/haizlin/fe-interview/issues/2395)
-	- [js] [Number()的存储空间是多大？假如接口返回一个超过最大字节的数字怎么办？](https://github.com/haizlin/fe-interview/issues/2396)
-	- [软技能] [你上家公司对于前端部门的验收标准有吗？都规范了哪些标准呢？](https://github.com/haizlin/fe-interview/issues/2397)
-	
-
 - 第400天 (2020.05.20)
     - [html] [DOM节点的根节点是不是body？](https://github.com/haizlin/fe-interview/issues/2398)
 	- [css] [css中的url()要不要加引号？说说你的理解](https://github.com/haizlin/fe-interview/issues/2399)
 	- [js] [一个api接口从请求数据到请求结束共与服务器进行了几次交互？](https://github.com/haizlin/fe-interview/issues/2400)
 	- [软技能] [你有对接过微信支付吗？说说微信支付的流程](https://github.com/haizlin/fe-interview/issues/2401)
+	
+
+- 第401天 (2020.05.21)
+    - [html] [DOM节点的种类有哪些？](https://github.com/haizlin/fe-interview/issues/2402)
+	- [css] [如何使用css显示a链接的url？](https://github.com/haizlin/fe-interview/issues/2403)
+	- [js] [使用js实现一个循环队列](https://github.com/haizlin/fe-interview/issues/2404)
+	- [软技能] [有新同事入职，你是要安排他先做新项目还是老项目？为什么？](https://github.com/haizlin/fe-interview/issues/2405)
 	
     
 - **[查看全部](category/history.md)**

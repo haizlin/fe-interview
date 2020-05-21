@@ -2,6 +2,11 @@
 
 
 
+- 第402天 (2020.05.22)
+    - [html] [微信公众号如何打开关联的小程序？](https://github.com/haizlin/fe-interview/issues/2406)
+    - [css] [怎么给手持设备添加特殊样式？](https://github.com/haizlin/fe-interview/issues/2407)
+    - [js] [举例说明面向对象编程有什么缺点？](https://github.com/haizlin/fe-interview/issues/2408)
+    - [软技能] [你的数学学得怎么样？举例说明有哪些场景会用到很强的数学知识](https://github.com/haizlin/fe-interview/issues/2409)
 - 第401天 (2020.05.21)
     - [html] [DOM节点的种类有哪些？](https://github.com/haizlin/fe-interview/issues/2402)
     - [css] [如何使用css显示a链接的url？](https://github.com/haizlin/fe-interview/issues/2403)
