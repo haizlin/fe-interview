@@ -2,6 +2,11 @@
 
 
 
+- 第404天 (2020.05.24)
+    - [html] [如何扩大CheckBox点击区域](https://github.com/haizlin/fe-interview/issues/2414)
+    - [css] [判断如下边框的颜色，并解释为什么[代码]？](https://github.com/haizlin/fe-interview/issues/2415)
+    - [js] [axios为什么可以使用对象和函数两种方式调用？是如何实现的？](https://github.com/haizlin/fe-interview/issues/2416)
+    - [软技能] [你上家公司做的项目你有没有关注过qps？qps是多少呢？](https://github.com/haizlin/fe-interview/issues/2417)
 - 第403天 (2020.05.23)
     - [html] [如何放大点击的区域？](https://github.com/haizlin/fe-interview/issues/2410)
     - [css] [如何使用伪元素实现增大点击热区来增加用户体验？](https://github.com/haizlin/fe-interview/issues/2411)
