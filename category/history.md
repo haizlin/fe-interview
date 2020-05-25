@@ -2,6 +2,11 @@
 
 
 
+- 第406天 (2020.05.26)
+    - [html] [如何在网页中打开腾讯QQ？](https://github.com/haizlin/fe-interview/issues/2423)
+    - [css] [给一个图片设置透明有哪些方式呢？](https://github.com/haizlin/fe-interview/issues/2424)
+    - [js] [你是如何比较js函数的执行速度的？](https://github.com/haizlin/fe-interview/issues/2425)
+    - [软技能] [工作中如何高效沟通？](https://github.com/haizlin/fe-interview/issues/2426)
 - 第405天 (2020.05.25)
     - [html] [如何在网页中嵌入公司地址的地图？](https://github.com/haizlin/fe-interview/issues/2418)
     - [css] [box-sizing的宽度包含了哪些？](https://github.com/haizlin/fe-interview/issues/2419)
