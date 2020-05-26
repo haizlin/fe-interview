@@ -2,6 +2,11 @@
 
 
 
+- 第407天 (2020.05.27)
+    - [html] [页面布局时你使用最多的标签是什么？div吗？在什么情况下会使用到div？](https://github.com/haizlin/fe-interview/issues/2430)
+    - [css] [不用换行的标签，怎么伪元素实现换行的效果？](https://github.com/haizlin/fe-interview/issues/2431)
+    - [js] [手写一个trim()的方法](https://github.com/haizlin/fe-interview/issues/2432)
+    - [软技能] [如果你是Leader，如何提升团队的战斗力呢？](https://github.com/haizlin/fe-interview/issues/2433)
 - 第406天 (2020.05.26)
     - [html] [如何在网页中打开腾讯QQ？](https://github.com/haizlin/fe-interview/issues/2423)
     - [css] [给一个图片设置透明有哪些方式呢？](https://github.com/haizlin/fe-interview/issues/2424)
