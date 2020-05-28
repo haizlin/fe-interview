@@ -2,6 +2,11 @@
 
 
 
+- 第409天 (2020.05.29)
+    - [html] [pre与xmp标签有什么区别？](https://github.com/haizlin/fe-interview/issues/2440)
+    - [css] [如何让表格单元格等宽显示？](https://github.com/haizlin/fe-interview/issues/2441)
+    - [js] [写一个方法遍历指定对象的所有属性](https://github.com/haizlin/fe-interview/issues/2442)
+    - [软技能] [127.0.0.1和localhost区别是什么？](https://github.com/haizlin/fe-interview/issues/2443)
 - 第408天 (2020.05.28)
     - [html] [怎样在`<pre>`标签内不转义<和>符号（原样输出html标签）？](https://github.com/haizlin/fe-interview/issues/2435)
     - [css] [固定的外框尺寸，里面的图片尺寸不固定，如何让图像自适应外框呢？](https://github.com/haizlin/fe-interview/issues/2436)
