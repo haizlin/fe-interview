@@ -2,6 +2,11 @@
 
 
 
+- 第412天 (2020.06.01)
+    - [html] [html5的video如何附带字幕？](https://github.com/haizlin/fe-interview/issues/2452)
+    - [css] [在响应式布局中，如何使用纯css使得块元素等比缩放？](https://github.com/haizlin/fe-interview/issues/2453)
+    - [js] [说说你对JSBridge的理解](https://github.com/haizlin/fe-interview/issues/2454)
+    - [软技能] [对于网站的风格，你能说说在国内与国外的区别有哪些吗？](https://github.com/haizlin/fe-interview/issues/2455)
 - 第411天 (2020.05.31)
     - [html] [你有使用过html5的rt标签吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2448)
     - [css] [用css画一个平行四边形](https://github.com/haizlin/fe-interview/issues/2449)
