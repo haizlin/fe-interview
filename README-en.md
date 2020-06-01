@@ -16,13 +16,14 @@
 
 ## Four goals：diligent thinking，more hands-on，good summary，can adhere to   
 
-> "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day)。  
+> "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day).  
+> Confucius said, "don't be angry, don't be sad. If one corner is not reversed by three corners, it will be no longer. " 
 > Front-end interview 3+1 per day，Driven by interview questions, make progress every day！  
 > Let hard work become a habit, let struggle become a kind of enjoyment!
 > Believe in the power of **perseverance**！！！
 
 ---
-- Learn without closing, strive to meet better oneself, 365 days without holidays, **5 a.m. every day** to publish interview questions by hand.（**Knock oneself**）。
+- Learn without closing, strive to meet better oneself, 365 days without holidays, **5 a.m. every day** to publish interview questions by hand.(**Knock oneself**).
 - I hope you can stay calm in this **grandiose** front-end circle and stick to spending 20 minutes a day studying and thinking.
 - In this ever-changing, class library emerges endlessly at the front end, I suggest that you do not wait until you find a job before brushing the test question, advocating daily learning! (Don't forget the beginning, html, css, JavaScript is the cornerstone!)
 - Welcome to **Issues**, encourage **PR**, and thank **Star**、thank**watch**.，What good suggestions do you have for us to share and discuss with me via Wechat！
