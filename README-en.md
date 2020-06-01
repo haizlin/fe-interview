@@ -19,7 +19,7 @@
 > "The Confucian Analects", Master Zeng said, Every day I do self-inspection on three aspects. (I reflect on myself many times every day).  
 > Confucius said, "don't be angry, don't be sad. If one corner is not reversed by three corners, it will be no longer. " 
 > Front-end interview 3+1 per day，Driven by interview questions, make progress every day！  
-> Let hard work become a habit, let struggle become a kind of enjoyment!
+> Let hard work become a habit, let struggle become a kind of enjoyment!  
 > Believe in the power of **perseverance**！！！
 
 ---
