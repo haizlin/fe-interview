@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.06.02) —— 413 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [html中如何使用svg？](https://github.com/haizlin/fe-interview/issues/2456)
-- [css] [如何阻止:hover、:active等鼠标行为状态的触发？](https://github.com/haizlin/fe-interview/issues/2457)
-- [js] [代码中如果遇到未定义的变量，会抛出异常吗？程序还会不会继续往下走？](https://github.com/haizlin/fe-interview/issues/2458)
-- [skill] [说说你对UML的理解](https://github.com/haizlin/fe-interview/issues/2459)
+## Today's Knowledge Points (2020.06.03) —— 414 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [你有使用过webp的图片格式吗？](https://github.com/haizlin/fe-interview/issues/2460)
+- [css] [假如css的分号写在声明块之外，将会发生什么呢？解释下原因[代码]](https://github.com/haizlin/fe-interview/issues/2461)
+- [js] [使用delete删除数组，其长度会改变吗？](https://github.com/haizlin/fe-interview/issues/2462)
+- [skill] [如果给你接手团队的管理，团队内部的流程很乱你该怎么办？](https://github.com/haizlin/fe-interview/issues/2463)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 411 days (2020.05.31)
-    - [html] [你有使用过html5的rt标签吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2448)
-	- [css] [用css画一个平行四边形](https://github.com/haizlin/fe-interview/issues/2449)
-	- [js] [写一个方法粘贴复制的图片并显示出来](https://github.com/haizlin/fe-interview/issues/2450)
-	- [skill] [什么是cookie伪造？如何防止伪造？](https://github.com/haizlin/fe-interview/issues/2451)
-	
-
 - 412 days (2020.06.01)
     - [html] [html5的video如何附带字幕？](https://github.com/haizlin/fe-interview/issues/2452)
 	- [css] [在响应式布局中，如何使用纯css使得块元素等比缩放？](https://github.com/haizlin/fe-interview/issues/2453)
 	- [js] [说说你对JSBridge的理解](https://github.com/haizlin/fe-interview/issues/2454)
 	- [skill] [对于网站的风格，你能说说在国内与国外的区别有哪些吗？](https://github.com/haizlin/fe-interview/issues/2455)
+	
+
+- 413 days (2020.06.02)
+    - [html] [html中如何使用svg？](https://github.com/haizlin/fe-interview/issues/2456)
+	- [css] [如何阻止:hover、:active等鼠标行为状态的触发？](https://github.com/haizlin/fe-interview/issues/2457)
+	- [js] [代码中如果遇到未定义的变量，会抛出异常吗？程序还会不会继续往下走？](https://github.com/haizlin/fe-interview/issues/2458)
+	- [skill] [说说你对UML的理解](https://github.com/haizlin/fe-interview/issues/2459)
 	
 
 - **[All](category/history.md)**

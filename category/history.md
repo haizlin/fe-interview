@@ -2,6 +2,11 @@
 
 
 
+- 第414天 (2020.06.03)
+    - [html] [你有使用过webp的图片格式吗？](https://github.com/haizlin/fe-interview/issues/2460)
+    - [css] [假如css的分号写在声明块之外，将会发生什么呢？解释下原因[代码]](https://github.com/haizlin/fe-interview/issues/2461)
+    - [js] [使用delete删除数组，其长度会改变吗？](https://github.com/haizlin/fe-interview/issues/2462)
+    - [软技能] [如果给你接手团队的管理，团队内部的流程很乱你该怎么办？](https://github.com/haizlin/fe-interview/issues/2463)
 - 第413天 (2020.06.02)
     - [html] [html中如何使用svg？](https://github.com/haizlin/fe-interview/issues/2456)
     - [css] [如何阻止:hover、:active等鼠标行为状态的触发？](https://github.com/haizlin/fe-interview/issues/2457)
