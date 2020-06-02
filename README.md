@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.06.01) —— 第412天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [html5的video如何附带字幕？](https://github.com/haizlin/fe-interview/issues/2452)
-- [css] [在响应式布局中，如何使用纯css使得块元素等比缩放？](https://github.com/haizlin/fe-interview/issues/2453)
-- [js] [说说你对JSBridge的理解](https://github.com/haizlin/fe-interview/issues/2454)
-- [软技能] [对于网站的风格，你能说说在国内与国外的区别有哪些吗？](https://github.com/haizlin/fe-interview/issues/2455)
+## 今天的知识点 (2020.06.02) —— 第413天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [html中如何使用svg？](https://github.com/haizlin/fe-interview/issues/2456)
+- [css] [如何阻止:hover、:active等鼠标行为状态的触发？](https://github.com/haizlin/fe-interview/issues/2457)
+- [js] [代码中如果遇到未定义的变量，会抛出异常吗？程序还会不会继续往下走？](https://github.com/haizlin/fe-interview/issues/2458)
+- [软技能] [说说你对UML的理解](https://github.com/haizlin/fe-interview/issues/2459)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第410天 (2020.05.30)
-    - [html] [网页打印与标准纸张换算时，cm和px是如何换算的？](https://github.com/haizlin/fe-interview/issues/2444)
-	- [css] [H5如何禁止显示系统菜单？](https://github.com/haizlin/fe-interview/issues/2445)
-	- [js] [js循环中调用异步的方法，如何确保执行结果的顺序是正确的？](https://github.com/haizlin/fe-interview/issues/2446)
-	- [软技能] [举例说明恶意代码都有哪些？](https://github.com/haizlin/fe-interview/issues/2447)
-	
-
 - 第411天 (2020.05.31)
     - [html] [你有使用过html5的rt标签吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2448)
 	- [css] [用css画一个平行四边形](https://github.com/haizlin/fe-interview/issues/2449)
 	- [js] [写一个方法粘贴复制的图片并显示出来](https://github.com/haizlin/fe-interview/issues/2450)
 	- [软技能] [什么是cookie伪造？如何防止伪造？](https://github.com/haizlin/fe-interview/issues/2451)
+	
+
+- 第412天 (2020.06.01)
+    - [html] [html5的video如何附带字幕？](https://github.com/haizlin/fe-interview/issues/2452)
+	- [css] [在响应式布局中，如何使用纯css使得块元素等比缩放？](https://github.com/haizlin/fe-interview/issues/2453)
+	- [js] [说说你对JSBridge的理解](https://github.com/haizlin/fe-interview/issues/2454)
+	- [软技能] [对于网站的风格，你能说说在国内与国外的区别有哪些吗？](https://github.com/haizlin/fe-interview/issues/2455)
 	
     
 - **[查看全部](category/history.md)**

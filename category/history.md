@@ -2,6 +2,11 @@
 
 
 
+- 第413天 (2020.06.02)
+    - [html] [html中如何使用svg？](https://github.com/haizlin/fe-interview/issues/2456)
+    - [css] [如何阻止:hover、:active等鼠标行为状态的触发？](https://github.com/haizlin/fe-interview/issues/2457)
+    - [js] [代码中如果遇到未定义的变量，会抛出异常吗？程序还会不会继续往下走？](https://github.com/haizlin/fe-interview/issues/2458)
+    - [软技能] [说说你对UML的理解](https://github.com/haizlin/fe-interview/issues/2459)
 - 第412天 (2020.06.01)
     - [html] [html5的video如何附带字幕？](https://github.com/haizlin/fe-interview/issues/2452)
     - [css] [在响应式布局中，如何使用纯css使得块元素等比缩放？](https://github.com/haizlin/fe-interview/issues/2453)
