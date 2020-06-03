@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.06.03) —— 414 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [你有使用过webp的图片格式吗？](https://github.com/haizlin/fe-interview/issues/2460)
-- [css] [假如css的分号写在声明块之外，将会发生什么呢？解释下原因[代码]](https://github.com/haizlin/fe-interview/issues/2461)
-- [js] [使用delete删除数组，其长度会改变吗？](https://github.com/haizlin/fe-interview/issues/2462)
-- [skill] [如果给你接手团队的管理，团队内部的流程很乱你该怎么办？](https://github.com/haizlin/fe-interview/issues/2463)
+## Today's Knowledge Points (2020.06.04) —— 415 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [webp与jpg、png比较，它有什么优劣势？如何选择？](https://github.com/haizlin/fe-interview/issues/2464)
+- [css] [父元素下有子元素，子元素也有高度但父元素的高度为何为0呢？分析下可能出现的原因及解决方法](https://github.com/haizlin/fe-interview/issues/2465)
+- [js] [写一个方法，实时验证input输入的值是否满足金额如：3.56(最多只有两位小数且只能数字和小数点)的格式，其它特殊字符禁止输入](https://github.com/haizlin/fe-interview/issues/2466)
+- [skill] [你所在的公司有晋升体系吗？如果有那你有晋升过吗？如果没有，说说你心目中的晋升应该是什么样的？](https://github.com/haizlin/fe-interview/issues/2467)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 412 days (2020.06.01)
-    - [html] [html5的video如何附带字幕？](https://github.com/haizlin/fe-interview/issues/2452)
-	- [css] [在响应式布局中，如何使用纯css使得块元素等比缩放？](https://github.com/haizlin/fe-interview/issues/2453)
-	- [js] [说说你对JSBridge的理解](https://github.com/haizlin/fe-interview/issues/2454)
-	- [skill] [对于网站的风格，你能说说在国内与国外的区别有哪些吗？](https://github.com/haizlin/fe-interview/issues/2455)
-	
-
 - 413 days (2020.06.02)
     - [html] [html中如何使用svg？](https://github.com/haizlin/fe-interview/issues/2456)
 	- [css] [如何阻止:hover、:active等鼠标行为状态的触发？](https://github.com/haizlin/fe-interview/issues/2457)
 	- [js] [代码中如果遇到未定义的变量，会抛出异常吗？程序还会不会继续往下走？](https://github.com/haizlin/fe-interview/issues/2458)
 	- [skill] [说说你对UML的理解](https://github.com/haizlin/fe-interview/issues/2459)
+	
+
+- 414 days (2020.06.03)
+    - [html] [你有使用过webp的图片格式吗？](https://github.com/haizlin/fe-interview/issues/2460)
+	- [css] [假如css的分号写在声明块之外，将会发生什么呢？解释下原因[代码]](https://github.com/haizlin/fe-interview/issues/2461)
+	- [js] [使用delete删除数组，其长度会改变吗？](https://github.com/haizlin/fe-interview/issues/2462)
+	- [skill] [如果给你接手团队的管理，团队内部的流程很乱你该怎么办？](https://github.com/haizlin/fe-interview/issues/2463)
 	
 
 - **[All](category/history.md)**
