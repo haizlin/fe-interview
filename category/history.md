@@ -2,6 +2,11 @@
 
 
 
+- 第416天 (2020.06.05)
+    - [html] [svg如何转为字体图标？](https://github.com/haizlin/fe-interview/issues/2468)
+    - [css] [使用css实现手风琴的效果](https://github.com/haizlin/fe-interview/issues/2469)
+    - [js] [js怎样避免原型链上的对象共享？](https://github.com/haizlin/fe-interview/issues/2470)
+    - [软技能] [你有考虑过研发团队的整体支出情况吗？](https://github.com/haizlin/fe-interview/issues/2471)
 - 第415天 (2020.06.04)
     - [html] [webp与jpg、png比较，它有什么优劣势？如何选择？](https://github.com/haizlin/fe-interview/issues/2464)
     - [css] [父元素下有子元素，子元素也有高度但父元素的高度为何为0呢？分析下可能出现的原因及解决方法](https://github.com/haizlin/fe-interview/issues/2465)
