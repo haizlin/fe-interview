@@ -2,6 +2,11 @@
 
 
 
+- 第417天 (2020.06.06)
+    - [html] [如何让table的边框双线变单线？](https://github.com/haizlin/fe-interview/issues/2478)
+    - [css] [使用css实现蒙版的效果](https://github.com/haizlin/fe-interview/issues/2479)
+    - [js] [写一个方法把科学计数法转换成数字或者字符串](https://github.com/haizlin/fe-interview/issues/2480)
+    - [软技能] [你上家公司的组织架构是怎么样的？你觉得那里的组织架构有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2481)
 - 第416天 (2020.06.05)
     - [html] [svg如何转为字体图标？](https://github.com/haizlin/fe-interview/issues/2468)
     - [css] [使用css实现手风琴的效果](https://github.com/haizlin/fe-interview/issues/2469)

@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.06.05) —— 第416天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [svg如何转为字体图标？](https://github.com/haizlin/fe-interview/issues/2468)
-- [css] [使用css实现手风琴的效果](https://github.com/haizlin/fe-interview/issues/2469)
-- [js] [js怎样避免原型链上的对象共享？](https://github.com/haizlin/fe-interview/issues/2470)
-- [软技能] [你有考虑过研发团队的整体支出情况吗？](https://github.com/haizlin/fe-interview/issues/2471)
+## 今天的知识点 (2020.06.06) —— 第417天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [如何让table的边框双线变单线？](https://github.com/haizlin/fe-interview/issues/2478)
+- [css] [使用css实现蒙版的效果](https://github.com/haizlin/fe-interview/issues/2479)
+- [js] [写一个方法把科学计数法转换成数字或者字符串](https://github.com/haizlin/fe-interview/issues/2480)
+- [软技能] [你上家公司的组织架构是怎么样的？你觉得那里的组织架构有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2481)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第414天 (2020.06.03)
-    - [html] [你有使用过webp的图片格式吗？](https://github.com/haizlin/fe-interview/issues/2460)
-	- [css] [假如css的分号写在声明块之外，将会发生什么呢？解释下原因[代码]](https://github.com/haizlin/fe-interview/issues/2461)
-	- [js] [使用delete删除数组，其长度会改变吗？](https://github.com/haizlin/fe-interview/issues/2462)
-	- [软技能] [如果给你接手团队的管理，团队内部的流程很乱你该怎么办？](https://github.com/haizlin/fe-interview/issues/2463)
-	
-
 - 第415天 (2020.06.04)
     - [html] [webp与jpg、png比较，它有什么优劣势？如何选择？](https://github.com/haizlin/fe-interview/issues/2464)
 	- [css] [父元素下有子元素，子元素也有高度但父元素的高度为何为0呢？分析下可能出现的原因及解决方法](https://github.com/haizlin/fe-interview/issues/2465)
 	- [js] [写一个方法，实时验证input输入的值是否满足金额如：3.56(最多只有两位小数且只能数字和小数点)的格式，其它特殊字符禁止输入](https://github.com/haizlin/fe-interview/issues/2466)
 	- [软技能] [你所在的公司有晋升体系吗？如果有那你有晋升过吗？如果没有，说说你心目中的晋升应该是什么样的？](https://github.com/haizlin/fe-interview/issues/2467)
+	
+
+- 第416天 (2020.06.05)
+    - [html] [svg如何转为字体图标？](https://github.com/haizlin/fe-interview/issues/2468)
+	- [css] [使用css实现手风琴的效果](https://github.com/haizlin/fe-interview/issues/2469)
+	- [js] [js怎样避免原型链上的对象共享？](https://github.com/haizlin/fe-interview/issues/2470)
+	- [软技能] [你有考虑过研发团队的整体支出情况吗？](https://github.com/haizlin/fe-interview/issues/2471)
 	
     
 - **[查看全部](category/history.md)**
