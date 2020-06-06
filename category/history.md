@@ -2,6 +2,11 @@
 
 
 
+- 第418天 (2020.06.07)
+    - [html] [使用H5实现一个手势密码](https://github.com/haizlin/fe-interview/issues/2482)
+    - [css] [用css实现一个等腰三角形的小图标](https://github.com/haizlin/fe-interview/issues/2483)
+    - [js] [内存泄漏和内存溢出有什么区别](https://github.com/haizlin/fe-interview/issues/2484)
+    - [软技能] [后台接口返回的数据可信吗？如果不可信，那么前端应该怎么做？](https://github.com/haizlin/fe-interview/issues/2485)
 - 第417天 (2020.06.06)
     - [html] [如何让table的边框双线变单线？](https://github.com/haizlin/fe-interview/issues/2478)
     - [css] [使用css实现蒙版的效果](https://github.com/haizlin/fe-interview/issues/2479)

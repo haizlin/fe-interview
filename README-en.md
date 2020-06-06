@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.06.06) —— 417 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [如何让table的边框双线变单线？](https://github.com/haizlin/fe-interview/issues/2478)
-- [css] [使用css实现蒙版的效果](https://github.com/haizlin/fe-interview/issues/2479)
-- [js] [写一个方法把科学计数法转换成数字或者字符串](https://github.com/haizlin/fe-interview/issues/2480)
-- [skill] [你上家公司的组织架构是怎么样的？你觉得那里的组织架构有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2481)
+## Today's Knowledge Points (2020.06.07) —— 418 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [使用H5实现一个手势密码](https://github.com/haizlin/fe-interview/issues/2482)
+- [css] [用css实现一个等腰三角形的小图标](https://github.com/haizlin/fe-interview/issues/2483)
+- [js] [内存泄漏和内存溢出有什么区别](https://github.com/haizlin/fe-interview/issues/2484)
+- [skill] [后台接口返回的数据可信吗？如果不可信，那么前端应该怎么做？](https://github.com/haizlin/fe-interview/issues/2485)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 415 days (2020.06.04)
-    - [html] [webp与jpg、png比较，它有什么优劣势？如何选择？](https://github.com/haizlin/fe-interview/issues/2464)
-	- [css] [父元素下有子元素，子元素也有高度但父元素的高度为何为0呢？分析下可能出现的原因及解决方法](https://github.com/haizlin/fe-interview/issues/2465)
-	- [js] [写一个方法，实时验证input输入的值是否满足金额如：3.56(最多只有两位小数且只能数字和小数点)的格式，其它特殊字符禁止输入](https://github.com/haizlin/fe-interview/issues/2466)
-	- [skill] [你所在的公司有晋升体系吗？如果有那你有晋升过吗？如果没有，说说你心目中的晋升应该是什么样的？](https://github.com/haizlin/fe-interview/issues/2467)
-	
-
 - 416 days (2020.06.05)
     - [html] [svg如何转为字体图标？](https://github.com/haizlin/fe-interview/issues/2468)
 	- [css] [使用css实现手风琴的效果](https://github.com/haizlin/fe-interview/issues/2469)
 	- [js] [js怎样避免原型链上的对象共享？](https://github.com/haizlin/fe-interview/issues/2470)
 	- [skill] [你有考虑过研发团队的整体支出情况吗？](https://github.com/haizlin/fe-interview/issues/2471)
+	
+
+- 417 days (2020.06.06)
+    - [html] [如何让table的边框双线变单线？](https://github.com/haizlin/fe-interview/issues/2478)
+	- [css] [使用css实现蒙版的效果](https://github.com/haizlin/fe-interview/issues/2479)
+	- [js] [写一个方法把科学计数法转换成数字或者字符串](https://github.com/haizlin/fe-interview/issues/2480)
+	- [skill] [你上家公司的组织架构是怎么样的？你觉得那里的组织架构有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2481)
 	
 
 - **[All](category/history.md)**
