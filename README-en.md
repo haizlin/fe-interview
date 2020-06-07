@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.06.07) —— 418 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [使用H5实现一个手势密码](https://github.com/haizlin/fe-interview/issues/2482)
-- [css] [用css实现一个等腰三角形的小图标](https://github.com/haizlin/fe-interview/issues/2483)
-- [js] [内存泄漏和内存溢出有什么区别](https://github.com/haizlin/fe-interview/issues/2484)
-- [skill] [后台接口返回的数据可信吗？如果不可信，那么前端应该怎么做？](https://github.com/haizlin/fe-interview/issues/2485)
+## Today's Knowledge Points (2020.06.08) —— 419 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [input如何在各个浏览器下保持UI统一？](https://github.com/haizlin/fe-interview/issues/2486)
+- [css] [当display:flex遇到white-space nowrap会对布局有什么样的影响？如何解决？](https://github.com/haizlin/fe-interview/issues/2487)
+- [js] [promise的构造函数是同步执行还是异步执行，它的then方法呢？](https://github.com/haizlin/fe-interview/issues/2488)
+- [skill] [你喜欢弹性工作制吗？为什么？](https://github.com/haizlin/fe-interview/issues/2489)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 416 days (2020.06.05)
-    - [html] [svg如何转为字体图标？](https://github.com/haizlin/fe-interview/issues/2468)
-	- [css] [使用css实现手风琴的效果](https://github.com/haizlin/fe-interview/issues/2469)
-	- [js] [js怎样避免原型链上的对象共享？](https://github.com/haizlin/fe-interview/issues/2470)
-	- [skill] [你有考虑过研发团队的整体支出情况吗？](https://github.com/haizlin/fe-interview/issues/2471)
-	
-
 - 417 days (2020.06.06)
     - [html] [如何让table的边框双线变单线？](https://github.com/haizlin/fe-interview/issues/2478)
 	- [css] [使用css实现蒙版的效果](https://github.com/haizlin/fe-interview/issues/2479)
 	- [js] [写一个方法把科学计数法转换成数字或者字符串](https://github.com/haizlin/fe-interview/issues/2480)
 	- [skill] [你上家公司的组织架构是怎么样的？你觉得那里的组织架构有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2481)
+	
+
+- 418 days (2020.06.07)
+    - [html] [使用H5实现一个手势密码](https://github.com/haizlin/fe-interview/issues/2482)
+	- [css] [用css实现一个等腰三角形的小图标](https://github.com/haizlin/fe-interview/issues/2483)
+	- [js] [内存泄漏和内存溢出有什么区别](https://github.com/haizlin/fe-interview/issues/2484)
+	- [skill] [后台接口返回的数据可信吗？如果不可信，那么前端应该怎么做？](https://github.com/haizlin/fe-interview/issues/2485)
 	
 
 - **[All](category/history.md)**

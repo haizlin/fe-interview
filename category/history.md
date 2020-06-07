@@ -2,6 +2,11 @@
 
 
 
+- 第419天 (2020.06.08)
+    - [html] [input如何在各个浏览器下保持UI统一？](https://github.com/haizlin/fe-interview/issues/2486)
+    - [css] [当display:flex遇到white-space nowrap会对布局有什么样的影响？如何解决？](https://github.com/haizlin/fe-interview/issues/2487)
+    - [js] [promise的构造函数是同步执行还是异步执行，它的then方法呢？](https://github.com/haizlin/fe-interview/issues/2488)
+    - [软技能] [你喜欢弹性工作制吗？为什么？](https://github.com/haizlin/fe-interview/issues/2489)
 - 第418天 (2020.06.07)
     - [html] [使用H5实现一个手势密码](https://github.com/haizlin/fe-interview/issues/2482)
     - [css] [用css实现一个等腰三角形的小图标](https://github.com/haizlin/fe-interview/issues/2483)
