@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.06.08) —— 第419天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [input如何在各个浏览器下保持UI统一？](https://github.com/haizlin/fe-interview/issues/2486)
-- [css] [当display:flex遇到white-space nowrap会对布局有什么样的影响？如何解决？](https://github.com/haizlin/fe-interview/issues/2487)
-- [js] [promise的构造函数是同步执行还是异步执行，它的then方法呢？](https://github.com/haizlin/fe-interview/issues/2488)
-- [软技能] [你喜欢弹性工作制吗？为什么？](https://github.com/haizlin/fe-interview/issues/2489)
+## 今天的知识点 (2020.06.09) —— 第420天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [浏览器是怎么对HTML5的离线储存资源进行管理和加载的](https://github.com/haizlin/fe-interview/issues/2490)
+- [css] [你有用过animation-fill-mode属性吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2492)
+- [js] [写个方法获取屏幕的DPI](https://github.com/haizlin/fe-interview/issues/2493)
+- [软技能] [你知道什么是末位淘汰吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2494)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第417天 (2020.06.06)
-    - [html] [如何让table的边框双线变单线？](https://github.com/haizlin/fe-interview/issues/2478)
-	- [css] [使用css实现蒙版的效果](https://github.com/haizlin/fe-interview/issues/2479)
-	- [js] [写一个方法把科学计数法转换成数字或者字符串](https://github.com/haizlin/fe-interview/issues/2480)
-	- [软技能] [你上家公司的组织架构是怎么样的？你觉得那里的组织架构有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2481)
-	
-
 - 第418天 (2020.06.07)
     - [html] [使用H5实现一个手势密码](https://github.com/haizlin/fe-interview/issues/2482)
 	- [css] [用css实现一个等腰三角形的小图标](https://github.com/haizlin/fe-interview/issues/2483)
 	- [js] [内存泄漏和内存溢出有什么区别](https://github.com/haizlin/fe-interview/issues/2484)
 	- [软技能] [后台接口返回的数据可信吗？如果不可信，那么前端应该怎么做？](https://github.com/haizlin/fe-interview/issues/2485)
+	
+
+- 第419天 (2020.06.08)
+    - [html] [input如何在各个浏览器下保持UI统一？](https://github.com/haizlin/fe-interview/issues/2486)
+	- [css] [当display:flex遇到white-space nowrap会对布局有什么样的影响？如何解决？](https://github.com/haizlin/fe-interview/issues/2487)
+	- [js] [promise的构造函数是同步执行还是异步执行，它的then方法呢？](https://github.com/haizlin/fe-interview/issues/2488)
+	- [软技能] [你喜欢弹性工作制吗？为什么？](https://github.com/haizlin/fe-interview/issues/2489)
 	
     
 - **[查看全部](category/history.md)**
