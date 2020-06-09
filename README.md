@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.06.09) —— 第420天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [浏览器是怎么对HTML5的离线储存资源进行管理和加载的](https://github.com/haizlin/fe-interview/issues/2490)
-- [css] [你有用过animation-fill-mode属性吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2492)
-- [js] [写个方法获取屏幕的DPI](https://github.com/haizlin/fe-interview/issues/2493)
-- [软技能] [你知道什么是末位淘汰吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2494)
+## 今天的知识点 (2020.06.10) —— 第421天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [说说你对Media Source Extensions(MSE)的理解，它解决了什么问题呢？](https://github.com/haizlin/fe-interview/issues/2495)
+- [css] [使用css实现太阳自转同时地球围着太阳公转的效果](https://github.com/haizlin/fe-interview/issues/2496)
+- [js] [使用for-in语句能保证遍历对象的顺序吗？如果不能那为什么？如果可以那又如何保证？](https://github.com/haizlin/fe-interview/issues/2497)
+- [软技能] [登录时的验证码是纯数字的话，你觉得用4位数好还是6位数好？说说你的看法？](https://github.com/haizlin/fe-interview/issues/2498)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第418天 (2020.06.07)
-    - [html] [使用H5实现一个手势密码](https://github.com/haizlin/fe-interview/issues/2482)
-	- [css] [用css实现一个等腰三角形的小图标](https://github.com/haizlin/fe-interview/issues/2483)
-	- [js] [内存泄漏和内存溢出有什么区别](https://github.com/haizlin/fe-interview/issues/2484)
-	- [软技能] [后台接口返回的数据可信吗？如果不可信，那么前端应该怎么做？](https://github.com/haizlin/fe-interview/issues/2485)
-	
-
 - 第419天 (2020.06.08)
     - [html] [input如何在各个浏览器下保持UI统一？](https://github.com/haizlin/fe-interview/issues/2486)
 	- [css] [当display:flex遇到white-space nowrap会对布局有什么样的影响？如何解决？](https://github.com/haizlin/fe-interview/issues/2487)
 	- [js] [promise的构造函数是同步执行还是异步执行，它的then方法呢？](https://github.com/haizlin/fe-interview/issues/2488)
 	- [软技能] [你喜欢弹性工作制吗？为什么？](https://github.com/haizlin/fe-interview/issues/2489)
+	
+
+- 第420天 (2020.06.09)
+    - [html] [浏览器是怎么对HTML5的离线储存资源进行管理和加载的](https://github.com/haizlin/fe-interview/issues/2490)
+	- [css] [你有用过animation-fill-mode属性吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2492)
+	- [js] [写个方法获取屏幕的DPI](https://github.com/haizlin/fe-interview/issues/2493)
+	- [软技能] [你知道什么是末位淘汰吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2494)
 	
     
 - **[查看全部](category/history.md)**

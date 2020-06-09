@@ -2,6 +2,11 @@
 
 
 
+- 第421天 (2020.06.10)
+    - [html] [说说你对Media Source Extensions(MSE)的理解，它解决了什么问题呢？](https://github.com/haizlin/fe-interview/issues/2495)
+    - [css] [使用css实现太阳自转同时地球围着太阳公转的效果](https://github.com/haizlin/fe-interview/issues/2496)
+    - [js] [使用for-in语句能保证遍历对象的顺序吗？如果不能那为什么？如果可以那又如何保证？](https://github.com/haizlin/fe-interview/issues/2497)
+    - [软技能] [登录时的验证码是纯数字的话，你觉得用4位数好还是6位数好？说说你的看法？](https://github.com/haizlin/fe-interview/issues/2498)
 - 第420天 (2020.06.09)
     - [html] [浏览器是怎么对HTML5的离线储存资源进行管理和加载的](https://github.com/haizlin/fe-interview/issues/2490)
     - [css] [你有用过animation-fill-mode属性吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2492)
