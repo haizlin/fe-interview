@@ -2,6 +2,11 @@
 
 
 
+- 第422天 (2020.06.11)
+    - [html] [切页面时，每次都动手刷新看效果很麻烦，如果要让你写一个实时刷新预览的工具你该怎么写？](https://github.com/haizlin/fe-interview/issues/2499)
+    - [css] [使用纯CSS实现3D按钮效果](https://github.com/haizlin/fe-interview/issues/2500)
+    - [js] [使用js实现一个图片剪裁的功能](https://github.com/haizlin/fe-interview/issues/2501)
+    - [软技能] [说下你对噪声的理解，它在前端中有哪些应用场景呢？](https://github.com/haizlin/fe-interview/issues/2502)
 - 第421天 (2020.06.10)
     - [html] [说说你对Media Source Extensions(MSE)的理解，它解决了什么问题呢？](https://github.com/haizlin/fe-interview/issues/2495)
     - [css] [使用css实现太阳自转同时地球围着太阳公转的效果](https://github.com/haizlin/fe-interview/issues/2496)
