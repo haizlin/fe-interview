@@ -2,6 +2,11 @@
 
 
 
+- 第423天 (2020.06.12)
+    - [html] [你有使用过HTML5 Boilerplate吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2504)
+    - [css] [为什么说css的选择器一般不要超过三级？](https://github.com/haizlin/fe-interview/issues/2505)
+    - [js] [为什么要用纯函数？](https://github.com/haizlin/fe-interview/issues/2506)
+    - [软技能] [你是怎么平衡及处理工作，学习，生活三者的关系？](https://github.com/haizlin/fe-interview/issues/2507)
 - 第422天 (2020.06.11)
     - [html] [切页面时，每次都动手刷新看效果很麻烦，如果要让你写一个实时刷新预览的工具你该怎么写？](https://github.com/haizlin/fe-interview/issues/2499)
     - [css] [使用纯CSS实现3D按钮效果](https://github.com/haizlin/fe-interview/issues/2500)
