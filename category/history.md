@@ -2,6 +2,21 @@
 
 
 
+- 第426天 (2020.06.15)
+    - [html] [websocket和socket有什么区别？](https://github.com/haizlin/fe-interview/issues/2516)
+    - [css] [举例说明with属性的fill-available有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2517)
+    - [js] [写一个 document.querySelector 的逆方法](https://github.com/haizlin/fe-interview/issues/2518)
+    - [软技能] [对于前端项目，你是如何做架构设计的？](https://github.com/haizlin/fe-interview/issues/2519)
+- 第425天 (2020.06.14)
+    - [html] [websocket和http有什么区别？](https://github.com/haizlin/fe-interview/issues/2512)
+    - [css] [width属性的min-content和max-content有什么作用？](https://github.com/haizlin/fe-interview/issues/2513)
+    - [js] [说说你对js沙箱的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2514)
+    - [软技能] [你设计好的规范文档，团队人员不按照要求去执行怎么办？如何才能让大家认可并执行？](https://github.com/haizlin/fe-interview/issues/2515)
+- 第424天 (2020.06.13)
+    - [html] [图片上传时实现本地预览功能的原理是什么？](https://github.com/haizlin/fe-interview/issues/2508)
+    - [css] [你用过outline属性吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2509)
+    - [js] [纯函数和函数式编程有什么关系？](https://github.com/haizlin/fe-interview/issues/2510)
+    - [软技能] [你认为微信或支付宝的哪些功能用户体验做得是非常好的？为什么？](https://github.com/haizlin/fe-interview/issues/2511)
 - 第423天 (2020.06.12)
     - [html] [你有使用过HTML5 Boilerplate吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2504)
     - [css] [为什么说css的选择器一般不要超过三级？](https://github.com/haizlin/fe-interview/issues/2505)

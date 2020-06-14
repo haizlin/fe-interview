@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.06.12) —— 第423天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [你有使用过HTML5 Boilerplate吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2504)
-- [css] [为什么说css的选择器一般不要超过三级？](https://github.com/haizlin/fe-interview/issues/2505)
-- [js] [为什么要用纯函数？](https://github.com/haizlin/fe-interview/issues/2506)
-- [软技能] [你是怎么平衡及处理工作，学习，生活三者的关系？](https://github.com/haizlin/fe-interview/issues/2507)
+## 今天的知识点 (2020.06.15) —— 第426天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [websocket和socket有什么区别？](https://github.com/haizlin/fe-interview/issues/2516)
+- [css] [举例说明with属性的fill-available有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2517)
+- [js] [写一个 document.querySelector 的逆方法](https://github.com/haizlin/fe-interview/issues/2518)
+- [软技能] [对于前端项目，你是如何做架构设计的？](https://github.com/haizlin/fe-interview/issues/2519)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第421天 (2020.06.10)
-    - [html] [说说你对Media Source Extensions(MSE)的理解，它解决了什么问题呢？](https://github.com/haizlin/fe-interview/issues/2495)
-	- [css] [使用css实现太阳自转同时地球围着太阳公转的效果](https://github.com/haizlin/fe-interview/issues/2496)
-	- [js] [使用for-in语句能保证遍历对象的顺序吗？如果不能那为什么？如果可以那又如何保证？](https://github.com/haizlin/fe-interview/issues/2497)
-	- [软技能] [登录时的验证码是纯数字的话，你觉得用4位数好还是6位数好？说说你的看法？](https://github.com/haizlin/fe-interview/issues/2498)
+- 第424天 (2020.06.13)
+    - [html] [图片上传时实现本地预览功能的原理是什么？](https://github.com/haizlin/fe-interview/issues/2508)
+	- [css] [你用过outline属性吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2509)
+	- [js] [纯函数和函数式编程有什么关系？](https://github.com/haizlin/fe-interview/issues/2510)
+	- [软技能] [你认为微信或支付宝的哪些功能用户体验做得是非常好的？为什么？](https://github.com/haizlin/fe-interview/issues/2511)
 	
 
-- 第422天 (2020.06.11)
-    - [html] [切页面时，每次都动手刷新看效果很麻烦，如果要让你写一个实时刷新预览的工具你该怎么写？](https://github.com/haizlin/fe-interview/issues/2499)
-	- [css] [使用纯CSS实现3D按钮效果](https://github.com/haizlin/fe-interview/issues/2500)
-	- [js] [使用js实现一个图片剪裁的功能](https://github.com/haizlin/fe-interview/issues/2501)
-	- [软技能] [说下你对噪声的理解，它在前端中有哪些应用场景呢？](https://github.com/haizlin/fe-interview/issues/2502)
+- 第425天 (2020.06.14)
+    - [html] [websocket和http有什么区别？](https://github.com/haizlin/fe-interview/issues/2512)
+	- [css] [width属性的min-content和max-content有什么作用？](https://github.com/haizlin/fe-interview/issues/2513)
+	- [js] [说说你对js沙箱的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2514)
+	- [软技能] [你设计好的规范文档，团队人员不按照要求去执行怎么办？如何才能让大家认可并执行？](https://github.com/haizlin/fe-interview/issues/2515)
 	
     
 - **[查看全部](category/history.md)**
