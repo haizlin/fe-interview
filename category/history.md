@@ -2,6 +2,11 @@
 
 
 
+- 第427天 (2020.06.16)
+    - [html] [http和websocket能共用一个端口吗？为什么？](https://github.com/haizlin/fe-interview/issues/2520)
+    - [css] [举例说明background-repeat的新属性值：round和space的作用是什么？](https://github.com/haizlin/fe-interview/issues/2521)
+    - [js] [不用 + eval Function 实现加法](https://github.com/haizlin/fe-interview/issues/2522)
+    - [软技能] [让你去重构一个很老旧但很重要的系统，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/2523)
 - 第426天 (2020.06.15)
     - [html] [websocket和socket有什么区别？](https://github.com/haizlin/fe-interview/issues/2516)
     - [css] [举例说明with属性的fill-available有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2517)

@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.06.15) —— 第426天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [websocket和socket有什么区别？](https://github.com/haizlin/fe-interview/issues/2516)
-- [css] [举例说明with属性的fill-available有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2517)
-- [js] [写一个 document.querySelector 的逆方法](https://github.com/haizlin/fe-interview/issues/2518)
-- [软技能] [对于前端项目，你是如何做架构设计的？](https://github.com/haizlin/fe-interview/issues/2519)
+## 今天的知识点 (2020.06.16) —— 第427天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [http和websocket能共用一个端口吗？为什么？](https://github.com/haizlin/fe-interview/issues/2520)
+- [css] [举例说明background-repeat的新属性值：round和space的作用是什么？](https://github.com/haizlin/fe-interview/issues/2521)
+- [js] [不用 + eval Function 实现加法](https://github.com/haizlin/fe-interview/issues/2522)
+- [软技能] [让你去重构一个很老旧但很重要的系统，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/2523)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第424天 (2020.06.13)
-    - [html] [图片上传时实现本地预览功能的原理是什么？](https://github.com/haizlin/fe-interview/issues/2508)
-	- [css] [你用过outline属性吗？它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2509)
-	- [js] [纯函数和函数式编程有什么关系？](https://github.com/haizlin/fe-interview/issues/2510)
-	- [软技能] [你认为微信或支付宝的哪些功能用户体验做得是非常好的？为什么？](https://github.com/haizlin/fe-interview/issues/2511)
-	
-
 - 第425天 (2020.06.14)
     - [html] [websocket和http有什么区别？](https://github.com/haizlin/fe-interview/issues/2512)
 	- [css] [width属性的min-content和max-content有什么作用？](https://github.com/haizlin/fe-interview/issues/2513)
 	- [js] [说说你对js沙箱的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2514)
 	- [软技能] [你设计好的规范文档，团队人员不按照要求去执行怎么办？如何才能让大家认可并执行？](https://github.com/haizlin/fe-interview/issues/2515)
+	
+
+- 第426天 (2020.06.15)
+    - [html] [websocket和socket有什么区别？](https://github.com/haizlin/fe-interview/issues/2516)
+	- [css] [举例说明with属性的fill-available有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2517)
+	- [js] [写一个 document.querySelector 的逆方法](https://github.com/haizlin/fe-interview/issues/2518)
+	- [软技能] [对于前端项目，你是如何做架构设计的？](https://github.com/haizlin/fe-interview/issues/2519)
 	
     
 - **[查看全部](category/history.md)**
