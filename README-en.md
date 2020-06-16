@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.06.16) —— 427 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [http和websocket能共用一个端口吗？为什么？](https://github.com/haizlin/fe-interview/issues/2520)
-- [css] [举例说明background-repeat的新属性值：round和space的作用是什么？](https://github.com/haizlin/fe-interview/issues/2521)
-- [js] [不用 + eval Function 实现加法](https://github.com/haizlin/fe-interview/issues/2522)
-- [skill] [让你去重构一个很老旧但很重要的系统，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/2523)
+## Today's Knowledge Points (2020.06.17) —— 428 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [websocket是如何做心跳检测、数据加密、身份验证的？](https://github.com/haizlin/fe-interview/issues/2524)
+- [css] [使用css如何设置背景虚化？](https://github.com/haizlin/fe-interview/issues/2525)
+- [js] [js源代码压缩都有哪些方法？它们的压缩原理分别是什么？](https://github.com/haizlin/fe-interview/issues/2526)
+- [skill] [对于用户的隐私你是如何看待的？](https://github.com/haizlin/fe-interview/issues/2527)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 425 days (2020.06.14)
-    - [html] [websocket和http有什么区别？](https://github.com/haizlin/fe-interview/issues/2512)
-	- [css] [width属性的min-content和max-content有什么作用？](https://github.com/haizlin/fe-interview/issues/2513)
-	- [js] [说说你对js沙箱的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2514)
-	- [skill] [你设计好的规范文档，团队人员不按照要求去执行怎么办？如何才能让大家认可并执行？](https://github.com/haizlin/fe-interview/issues/2515)
-	
-
 - 426 days (2020.06.15)
     - [html] [websocket和socket有什么区别？](https://github.com/haizlin/fe-interview/issues/2516)
 	- [css] [举例说明with属性的fill-available有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2517)
 	- [js] [写一个 document.querySelector 的逆方法](https://github.com/haizlin/fe-interview/issues/2518)
 	- [skill] [对于前端项目，你是如何做架构设计的？](https://github.com/haizlin/fe-interview/issues/2519)
+	
+
+- 427 days (2020.06.16)
+    - [html] [http和websocket能共用一个端口吗？为什么？](https://github.com/haizlin/fe-interview/issues/2520)
+	- [css] [举例说明background-repeat的新属性值：round和space的作用是什么？](https://github.com/haizlin/fe-interview/issues/2521)
+	- [js] [不用 + eval Function 实现加法](https://github.com/haizlin/fe-interview/issues/2522)
+	- [skill] [让你去重构一个很老旧但很重要的系统，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/2523)
 	
 
 - **[All](category/history.md)**

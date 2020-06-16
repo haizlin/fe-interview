@@ -2,6 +2,11 @@
 
 
 
+- 第428天 (2020.06.17)
+    - [html] [websocket是如何做心跳检测、数据加密、身份验证的？](https://github.com/haizlin/fe-interview/issues/2524)
+    - [css] [使用css如何设置背景虚化？](https://github.com/haizlin/fe-interview/issues/2525)
+    - [js] [js源代码压缩都有哪些方法？它们的压缩原理分别是什么？](https://github.com/haizlin/fe-interview/issues/2526)
+    - [软技能] [对于用户的隐私你是如何看待的？](https://github.com/haizlin/fe-interview/issues/2527)
 - 第427天 (2020.06.16)
     - [html] [http和websocket能共用一个端口吗？为什么？](https://github.com/haizlin/fe-interview/issues/2520)
     - [css] [举例说明background-repeat的新属性值：round和space的作用是什么？](https://github.com/haizlin/fe-interview/issues/2521)
