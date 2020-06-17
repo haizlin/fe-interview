@@ -2,6 +2,11 @@
 
 
 
+- 第429天 (2020.06.18)
+    - [html] [websocket握手阶段是通过什么协议传输的？](https://github.com/haizlin/fe-interview/issues/2528)
+    - [css] [使用css画一个饼图的效果](https://github.com/haizlin/fe-interview/issues/2529)
+    - [js] [ajax如何接收后台传来的图片？](https://github.com/haizlin/fe-interview/issues/2530)
+    - [软技能] [你办公软件用得熟练吗？都有哪些技巧呢？](https://github.com/haizlin/fe-interview/issues/2531)
 - 第428天 (2020.06.17)
     - [html] [websocket是如何做心跳检测、数据加密、身份验证的？](https://github.com/haizlin/fe-interview/issues/2524)
     - [css] [使用css如何设置背景虚化？](https://github.com/haizlin/fe-interview/issues/2525)

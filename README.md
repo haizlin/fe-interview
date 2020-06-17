@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.06.17) —— 第428天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [websocket是如何做心跳检测、数据加密、身份验证的？](https://github.com/haizlin/fe-interview/issues/2524)
-- [css] [使用css如何设置背景虚化？](https://github.com/haizlin/fe-interview/issues/2525)
-- [js] [js源代码压缩都有哪些方法？它们的压缩原理分别是什么？](https://github.com/haizlin/fe-interview/issues/2526)
-- [软技能] [对于用户的隐私你是如何看待的？](https://github.com/haizlin/fe-interview/issues/2527)
+## 今天的知识点 (2020.06.18) —— 第429天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [websocket握手阶段是通过什么协议传输的？](https://github.com/haizlin/fe-interview/issues/2528)
+- [css] [使用css画一个饼图的效果](https://github.com/haizlin/fe-interview/issues/2529)
+- [js] [ajax如何接收后台传来的图片？](https://github.com/haizlin/fe-interview/issues/2530)
+- [软技能] [你办公软件用得熟练吗？都有哪些技巧呢？](https://github.com/haizlin/fe-interview/issues/2531)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第426天 (2020.06.15)
-    - [html] [websocket和socket有什么区别？](https://github.com/haizlin/fe-interview/issues/2516)
-	- [css] [举例说明with属性的fill-available有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2517)
-	- [js] [写一个 document.querySelector 的逆方法](https://github.com/haizlin/fe-interview/issues/2518)
-	- [软技能] [对于前端项目，你是如何做架构设计的？](https://github.com/haizlin/fe-interview/issues/2519)
-	
-
 - 第427天 (2020.06.16)
     - [html] [http和websocket能共用一个端口吗？为什么？](https://github.com/haizlin/fe-interview/issues/2520)
 	- [css] [举例说明background-repeat的新属性值：round和space的作用是什么？](https://github.com/haizlin/fe-interview/issues/2521)
 	- [js] [不用 + eval Function 实现加法](https://github.com/haizlin/fe-interview/issues/2522)
 	- [软技能] [让你去重构一个很老旧但很重要的系统，你的方法论是什么？](https://github.com/haizlin/fe-interview/issues/2523)
+	
+
+- 第428天 (2020.06.17)
+    - [html] [websocket是如何做心跳检测、数据加密、身份验证的？](https://github.com/haizlin/fe-interview/issues/2524)
+	- [css] [使用css如何设置背景虚化？](https://github.com/haizlin/fe-interview/issues/2525)
+	- [js] [js源代码压缩都有哪些方法？它们的压缩原理分别是什么？](https://github.com/haizlin/fe-interview/issues/2526)
+	- [软技能] [对于用户的隐私你是如何看待的？](https://github.com/haizlin/fe-interview/issues/2527)
 	
     
 - **[查看全部](category/history.md)**
