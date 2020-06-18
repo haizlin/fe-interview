@@ -2,6 +2,11 @@
 
 
 
+- 第430天 (2020.06.19)
+    - [html] [websocket握手成功会返回一个干什么状态吗？是200吗？](https://github.com/haizlin/fe-interview/issues/2533)
+    - [css] [::first-letter有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2534)
+    - [js] [实现多张图片合成一张的效果](https://github.com/haizlin/fe-interview/issues/2535)
+    - [软技能] [当你拿到设计稿后，你首页要做的是什么呢？](https://github.com/haizlin/fe-interview/issues/2536)
 - 第429天 (2020.06.18)
     - [html] [websocket握手阶段是通过什么协议传输的？](https://github.com/haizlin/fe-interview/issues/2528)
     - [css] [使用css画一个饼图的效果](https://github.com/haizlin/fe-interview/issues/2529)
