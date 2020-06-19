@@ -2,11 +2,16 @@
 
 
 
+- 第431天 (2020.06.20)
+    - [html] [websocket可以携带cookie吗？为什么？如果可以，怎样做到呢？](https://github.com/haizlin/fe-interview/issues/2537)
+    - [css] [举例说说你对white-space属性的理解](https://github.com/haizlin/fe-interview/issues/2538)
+    - [js] [请使用 js 实现一个双向链表](https://github.com/haizlin/fe-interview/issues/2539)
+    - [软技能] [什么是物理像素和逻辑像素？](https://github.com/haizlin/fe-interview/issues/2540)
 - 第430天 (2020.06.19)
     - [html] [websocket握手成功会返回一个干什么状态吗？是200吗？](https://github.com/haizlin/fe-interview/issues/2533)
     - [css] [::first-letter有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2534)
     - [js] [实现多张图片合成一张的效果](https://github.com/haizlin/fe-interview/issues/2535)
-    - [软技能] [当你拿到设计稿后，你首页要做的是什么呢？](https://github.com/haizlin/fe-interview/issues/2536)
+    - [软技能] [当你拿到设计稿后，你首先要做的是什么呢？](https://github.com/haizlin/fe-interview/issues/2536)
 - 第429天 (2020.06.18)
     - [html] [websocket握手阶段是通过什么协议传输的？](https://github.com/haizlin/fe-interview/issues/2528)
     - [css] [使用css画一个饼图的效果](https://github.com/haizlin/fe-interview/issues/2529)
