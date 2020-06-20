@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.06.20) —— 第431天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [websocket可以携带cookie吗？为什么？如果可以，怎样做到呢？](https://github.com/haizlin/fe-interview/issues/2537)
-- [css] [举例说说你对white-space属性的理解](https://github.com/haizlin/fe-interview/issues/2538)
-- [js] [请使用 js 实现一个双向链表](https://github.com/haizlin/fe-interview/issues/2539)
-- [软技能] [什么是物理像素和逻辑像素？](https://github.com/haizlin/fe-interview/issues/2540)
+## 今天的知识点 (2020.06.21) —— 第432天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [websocket如何区分不同的客户端？](https://github.com/haizlin/fe-interview/issues/2541)
+- [css] [为什么伪类的content不能被选中？](https://github.com/haizlin/fe-interview/issues/2542)
+- [js] [说说防止重复发送ajax请求的方法有哪些？各自有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2543)
+- [软技能] [如何保证前端项目的质量？](https://github.com/haizlin/fe-interview/issues/2544)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第429天 (2020.06.18)
-    - [html] [websocket握手阶段是通过什么协议传输的？](https://github.com/haizlin/fe-interview/issues/2528)
-	- [css] [使用css画一个饼图的效果](https://github.com/haizlin/fe-interview/issues/2529)
-	- [js] [ajax如何接收后台传来的图片？](https://github.com/haizlin/fe-interview/issues/2530)
-	- [软技能] [你办公软件用得熟练吗？都有哪些技巧呢？](https://github.com/haizlin/fe-interview/issues/2531)
-	
-
 - 第430天 (2020.06.19)
     - [html] [websocket握手成功会返回一个干什么状态吗？是200吗？](https://github.com/haizlin/fe-interview/issues/2533)
 	- [css] [::first-letter有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2534)
 	- [js] [实现多张图片合成一张的效果](https://github.com/haizlin/fe-interview/issues/2535)
 	- [软技能] [当你拿到设计稿后，你首先要做的是什么呢？](https://github.com/haizlin/fe-interview/issues/2536)
+	
+
+- 第431天 (2020.06.20)
+    - [html] [websocket可以携带cookie吗？为什么？如果可以，怎样做到呢？](https://github.com/haizlin/fe-interview/issues/2537)
+	- [css] [举例说说你对white-space属性的理解](https://github.com/haizlin/fe-interview/issues/2538)
+	- [js] [请使用 js 实现一个双向链表](https://github.com/haizlin/fe-interview/issues/2539)
+	- [软技能] [什么是物理像素和逻辑像素？](https://github.com/haizlin/fe-interview/issues/2540)
 	
     
 - **[查看全部](category/history.md)**

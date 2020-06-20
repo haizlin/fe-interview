@@ -2,6 +2,11 @@
 
 
 
+- 第432天 (2020.06.21)
+    - [html] [websocket如何区分不同的客户端？](https://github.com/haizlin/fe-interview/issues/2541)
+    - [css] [为什么伪类的content不能被选中？](https://github.com/haizlin/fe-interview/issues/2542)
+    - [js] [说说防止重复发送ajax请求的方法有哪些？各自有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2543)
+    - [软技能] [如何保证前端项目的质量？](https://github.com/haizlin/fe-interview/issues/2544)
 - 第431天 (2020.06.20)
     - [html] [websocket可以携带cookie吗？为什么？如果可以，怎样做到呢？](https://github.com/haizlin/fe-interview/issues/2537)
     - [css] [举例说说你对white-space属性的理解](https://github.com/haizlin/fe-interview/issues/2538)
