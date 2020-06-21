@@ -2,6 +2,11 @@
 
 
 
+- 第433天 (2020.06.22)
+    - [html] [websocket和http2有什么区别？http2能取代websocket吗？为什么？](https://github.com/haizlin/fe-interview/issues/2545)
+    - [css] [如何取消页面中选中的文字？](https://github.com/haizlin/fe-interview/issues/2546)
+    - [js] [写一个方法判断数组内元素是否全部相同](https://github.com/haizlin/fe-interview/issues/2547)
+    - [软技能] [做移动端开发时，你是如何调试的？](https://github.com/haizlin/fe-interview/issues/2548)
 - 第432天 (2020.06.21)
     - [html] [websocket如何区分不同的客户端？](https://github.com/haizlin/fe-interview/issues/2541)
     - [css] [为什么伪类的content不能被选中？](https://github.com/haizlin/fe-interview/issues/2542)
