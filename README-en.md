@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.06.22) —— 433 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [websocket和http2有什么区别？http2能取代websocket吗？为什么？](https://github.com/haizlin/fe-interview/issues/2545)
-- [css] [如何取消页面中选中的文字？](https://github.com/haizlin/fe-interview/issues/2546)
-- [js] [写一个方法判断数组内元素是否全部相同](https://github.com/haizlin/fe-interview/issues/2547)
-- [skill] [做移动端开发时，你是如何调试的？](https://github.com/haizlin/fe-interview/issues/2548)
+## Today's Knowledge Points (2020.06.23) —— 434 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [跨标签页的通讯方式有哪些](https://github.com/haizlin/fe-interview/issues/2549)
+- [css] [实现一个下拉不到底的橡皮筋效果](https://github.com/haizlin/fe-interview/issues/2550)
+- [js] [异步请求重试策略有哪些呢？](https://github.com/haizlin/fe-interview/issues/2551)
+- [skill] [LF和CRLF的区别是什么？](https://github.com/haizlin/fe-interview/issues/2552)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 431 days (2020.06.20)
-    - [html] [websocket可以携带cookie吗？为什么？如果可以，怎样做到呢？](https://github.com/haizlin/fe-interview/issues/2537)
-	- [css] [举例说说你对white-space属性的理解](https://github.com/haizlin/fe-interview/issues/2538)
-	- [js] [请使用 js 实现一个双向链表](https://github.com/haizlin/fe-interview/issues/2539)
-	- [skill] [什么是物理像素和逻辑像素？](https://github.com/haizlin/fe-interview/issues/2540)
-	
-
 - 432 days (2020.06.21)
     - [html] [websocket如何区分不同的客户端？](https://github.com/haizlin/fe-interview/issues/2541)
 	- [css] [为什么伪类的content不能被选中？](https://github.com/haizlin/fe-interview/issues/2542)
 	- [js] [说说防止重复发送ajax请求的方法有哪些？各自有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2543)
 	- [skill] [如何保证前端项目的质量？](https://github.com/haizlin/fe-interview/issues/2544)
+	
+
+- 433 days (2020.06.22)
+    - [html] [websocket和http2有什么区别？http2能取代websocket吗？为什么？](https://github.com/haizlin/fe-interview/issues/2545)
+	- [css] [如何取消页面中选中的文字？](https://github.com/haizlin/fe-interview/issues/2546)
+	- [js] [写一个方法判断数组内元素是否全部相同](https://github.com/haizlin/fe-interview/issues/2547)
+	- [skill] [做移动端开发时，你是如何调试的？](https://github.com/haizlin/fe-interview/issues/2548)
 	
 
 - **[All](category/history.md)**

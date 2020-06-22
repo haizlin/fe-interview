@@ -2,6 +2,11 @@
 
 
 
+- 第434天 (2020.06.23)
+    - [html] [跨标签页的通讯方式有哪些](https://github.com/haizlin/fe-interview/issues/2549)
+    - [css] [实现一个下拉不到底的橡皮筋效果](https://github.com/haizlin/fe-interview/issues/2550)
+    - [js] [异步请求重试策略有哪些呢？](https://github.com/haizlin/fe-interview/issues/2551)
+    - [软技能] [LF和CRLF的区别是什么？](https://github.com/haizlin/fe-interview/issues/2552)
 - 第433天 (2020.06.22)
     - [html] [websocket和http2有什么区别？http2能取代websocket吗？为什么？](https://github.com/haizlin/fe-interview/issues/2545)
     - [css] [如何取消页面中选中的文字？](https://github.com/haizlin/fe-interview/issues/2546)
