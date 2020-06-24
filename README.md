@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.06.23) —— 第434天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [跨标签页的通讯方式有哪些](https://github.com/haizlin/fe-interview/issues/2549)
-- [css] [实现一个下拉不到底的橡皮筋效果](https://github.com/haizlin/fe-interview/issues/2550)
-- [js] [异步请求重试策略有哪些呢？](https://github.com/haizlin/fe-interview/issues/2551)
-- [软技能] [LF和CRLF的区别是什么？](https://github.com/haizlin/fe-interview/issues/2552)
+## 今天的知识点 (2020.06.25) —— 第436天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [请问60*80的canvas占多少内存？你是怎么计算的？](https://github.com/haizlin/fe-interview/issues/2558)
+- [css] [什么是逐帧动画？](https://github.com/haizlin/fe-interview/issues/2559)
+- [js] [写一个方法实现promise失败后自动重试](https://github.com/haizlin/fe-interview/issues/2560)
+- [软技能] [说说你对脚本语言的理解](https://github.com/haizlin/fe-interview/issues/2561)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第432天 (2020.06.21)
-    - [html] [websocket如何区分不同的客户端？](https://github.com/haizlin/fe-interview/issues/2541)
-	- [css] [为什么伪类的content不能被选中？](https://github.com/haizlin/fe-interview/issues/2542)
-	- [js] [说说防止重复发送ajax请求的方法有哪些？各自有什么优缺点？](https://github.com/haizlin/fe-interview/issues/2543)
-	- [软技能] [如何保证前端项目的质量？](https://github.com/haizlin/fe-interview/issues/2544)
+- 第434天 (2020.06.23)
+    - [html] [跨标签页的通讯方式有哪些](https://github.com/haizlin/fe-interview/issues/2549)
+	- [css] [实现一个下拉不到底的橡皮筋效果](https://github.com/haizlin/fe-interview/issues/2550)
+	- [js] [异步请求重试策略有哪些呢？](https://github.com/haizlin/fe-interview/issues/2551)
+	- [软技能] [LF和CRLF的区别是什么？](https://github.com/haizlin/fe-interview/issues/2552)
 	
 
-- 第433天 (2020.06.22)
-    - [html] [websocket和http2有什么区别？http2能取代websocket吗？为什么？](https://github.com/haizlin/fe-interview/issues/2545)
-	- [css] [如何取消页面中选中的文字？](https://github.com/haizlin/fe-interview/issues/2546)
-	- [js] [写一个方法判断数组内元素是否全部相同](https://github.com/haizlin/fe-interview/issues/2547)
-	- [软技能] [做移动端开发时，你是如何调试的？](https://github.com/haizlin/fe-interview/issues/2548)
+- 第435天 (2020.06.24)
+    - [html] [精确获取页面元素位置的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2554)
+	- [css] [什么是关键帧动画？](https://github.com/haizlin/fe-interview/issues/2555)
+	- [js] [for in 和 for of 的区别？](https://github.com/haizlin/fe-interview/issues/2556)
+	- [软技能] [上线后什么情况下会回滚呢？回滚的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/2557)
 	
     
 - **[查看全部](category/history.md)**
