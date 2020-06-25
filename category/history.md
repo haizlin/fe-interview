@@ -2,6 +2,11 @@
 
 
 
+- 第437天 (2020.06.26)
+    - [html] [如何给页面添加追加右键菜单（原右键菜单功能保持不变）](https://github.com/haizlin/fe-interview/issues/2562)
+    - [css] [为什么float会导致父元素塌陷？](https://github.com/haizlin/fe-interview/issues/2563)
+    - [js] [微信小程序实现轨迹回放，微信原生小程序，基于uniapp的小程序？](https://github.com/haizlin/fe-interview/issues/2564)
+    - [软技能] [TCP为什么是有状态的？](https://github.com/haizlin/fe-interview/issues/2565)
 - 第436天 (2020.06.25)
     - [html] [请问60*80的canvas占多少内存？你是怎么计算的？](https://github.com/haizlin/fe-interview/issues/2558)
     - [css] [什么是逐帧动画？](https://github.com/haizlin/fe-interview/issues/2559)

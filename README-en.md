@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.06.25) —— 436 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [请问60*80的canvas占多少内存？你是怎么计算的？](https://github.com/haizlin/fe-interview/issues/2558)
-- [css] [什么是逐帧动画？](https://github.com/haizlin/fe-interview/issues/2559)
-- [js] [写一个方法实现promise失败后自动重试](https://github.com/haizlin/fe-interview/issues/2560)
-- [skill] [说说你对脚本语言的理解](https://github.com/haizlin/fe-interview/issues/2561)
+## Today's Knowledge Points (2020.06.26) —— 437 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [如何给页面添加追加右键菜单（原右键菜单功能保持不变）](https://github.com/haizlin/fe-interview/issues/2562)
+- [css] [为什么float会导致父元素塌陷？](https://github.com/haizlin/fe-interview/issues/2563)
+- [js] [微信小程序实现轨迹回放，微信原生小程序，基于uniapp的小程序？](https://github.com/haizlin/fe-interview/issues/2564)
+- [skill] [TCP为什么是有状态的？](https://github.com/haizlin/fe-interview/issues/2565)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 434 days (2020.06.23)
-    - [html] [跨标签页的通讯方式有哪些](https://github.com/haizlin/fe-interview/issues/2549)
-	- [css] [实现一个下拉不到底的橡皮筋效果](https://github.com/haizlin/fe-interview/issues/2550)
-	- [js] [异步请求重试策略有哪些呢？](https://github.com/haizlin/fe-interview/issues/2551)
-	- [skill] [LF和CRLF的区别是什么？](https://github.com/haizlin/fe-interview/issues/2552)
-	
-
 - 435 days (2020.06.24)
     - [html] [精确获取页面元素位置的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2554)
 	- [css] [什么是关键帧动画？](https://github.com/haizlin/fe-interview/issues/2555)
 	- [js] [for in 和 for of 的区别？](https://github.com/haizlin/fe-interview/issues/2556)
 	- [skill] [上线后什么情况下会回滚呢？回滚的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/2557)
+	
+
+- 436 days (2020.06.25)
+    - [html] [请问60*80的canvas占多少内存？你是怎么计算的？](https://github.com/haizlin/fe-interview/issues/2558)
+	- [css] [什么是逐帧动画？](https://github.com/haizlin/fe-interview/issues/2559)
+	- [js] [写一个方法实现promise失败后自动重试](https://github.com/haizlin/fe-interview/issues/2560)
+	- [skill] [说说你对脚本语言的理解](https://github.com/haizlin/fe-interview/issues/2561)
 	
 
 - **[All](category/history.md)**
