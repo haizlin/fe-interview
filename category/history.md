@@ -2,6 +2,11 @@
 
 
 
+- 第438天 (2020.06.27)
+    - [html] [如何判断用户正在操作页面？当页面一个小时没有操作时跳转到指定页面如何做？](https://github.com/haizlin/fe-interview/issues/2566)
+    - [css] [如何形成BFC？](https://github.com/haizlin/fe-interview/issues/2567)
+    - [js] [ajax请求地址只支持http/https吗？能做到让它支持rtmp://等其它自定义协议吗 ？](https://github.com/haizlin/fe-interview/issues/2568)
+    - [软技能] [如何确保TCP包的有序传输？](https://github.com/haizlin/fe-interview/issues/2569)
 - 第437天 (2020.06.26)
     - [html] [如何给页面添加追加右键菜单（原右键菜单功能保持不变）](https://github.com/haizlin/fe-interview/issues/2562)
     - [css] [为什么float会导致父元素塌陷？](https://github.com/haizlin/fe-interview/issues/2563)
