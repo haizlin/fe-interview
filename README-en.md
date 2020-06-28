@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.06.27) —— 438 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [如何判断用户正在操作页面？当页面一个小时没有操作时跳转到指定页面如何做？](https://github.com/haizlin/fe-interview/issues/2566)
-- [css] [如何形成BFC？](https://github.com/haizlin/fe-interview/issues/2567)
-- [js] [ajax请求地址只支持http/https吗？能做到让它支持rtmp://等其它自定义协议吗 ？](https://github.com/haizlin/fe-interview/issues/2568)
-- [skill] [如何确保TCP包的有序传输？](https://github.com/haizlin/fe-interview/issues/2569)
+## Today's Knowledge Points (2020.06.28) —— 439 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [实现一个页面锁屏的功能](https://github.com/haizlin/fe-interview/issues/2570)
+- [css] [举例说明BFC会与float元素相互覆盖吗？为什么？](https://github.com/haizlin/fe-interview/issues/2571)
+- [js] [举例说明js立即执行函数的写法有哪些？](https://github.com/haizlin/fe-interview/issues/2572)
+- [skill] [你对颜色的搭配有了解吗？你觉得红、绿、蓝分别搭配什么颜色比较好看呢？](https://github.com/haizlin/fe-interview/issues/2573)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 436 days (2020.06.25)
-    - [html] [请问60*80的canvas占多少内存？你是怎么计算的？](https://github.com/haizlin/fe-interview/issues/2558)
-	- [css] [什么是逐帧动画？](https://github.com/haizlin/fe-interview/issues/2559)
-	- [js] [写一个方法实现promise失败后自动重试](https://github.com/haizlin/fe-interview/issues/2560)
-	- [skill] [说说你对脚本语言的理解](https://github.com/haizlin/fe-interview/issues/2561)
-	
-
 - 437 days (2020.06.26)
     - [html] [如何给页面添加追加右键菜单（原右键菜单功能保持不变）](https://github.com/haizlin/fe-interview/issues/2562)
 	- [css] [为什么float会导致父元素塌陷？](https://github.com/haizlin/fe-interview/issues/2563)
 	- [js] [微信小程序实现轨迹回放，微信原生小程序，基于uniapp的小程序？](https://github.com/haizlin/fe-interview/issues/2564)
 	- [skill] [TCP为什么是有状态的？](https://github.com/haizlin/fe-interview/issues/2565)
+	
+
+- 438 days (2020.06.27)
+    - [html] [如何判断用户正在操作页面？当页面一个小时没有操作时跳转到指定页面如何做？](https://github.com/haizlin/fe-interview/issues/2566)
+	- [css] [如何形成BFC？](https://github.com/haizlin/fe-interview/issues/2567)
+	- [js] [ajax请求地址只支持http/https吗？能做到让它支持rtmp://等其它自定义协议吗 ？](https://github.com/haizlin/fe-interview/issues/2568)
+	- [skill] [如何确保TCP包的有序传输？](https://github.com/haizlin/fe-interview/issues/2569)
 	
 
 - **[All](category/history.md)**
