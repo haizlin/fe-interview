@@ -2,6 +2,11 @@
 
 
 
+- 第440天 (2020.06.29)
+    - [html] [能否做到禁止打印页面？如果可以那要怎么做？](https://github.com/haizlin/fe-interview/issues/2574)
+    - [css] [BFC与IFC有什么区别？](https://github.com/haizlin/fe-interview/issues/2575)
+    - [js] [如何避免JS浮点运算的精度问题（例：0.1+0.7=0.7999999999999999）](https://github.com/haizlin/fe-interview/issues/2576)
+    - [软技能] [做项目复盘时，是如何复盘的？都复盘哪些内容呢？](https://github.com/haizlin/fe-interview/issues/2577)
 - 第439天 (2020.06.28)
     - [html] [实现一个页面锁屏的功能](https://github.com/haizlin/fe-interview/issues/2570)
     - [css] [举例说明BFC会与float元素相互覆盖吗？为什么？](https://github.com/haizlin/fe-interview/issues/2571)
