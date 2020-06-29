@@ -2,6 +2,11 @@
 
 
 
+- 第441天 (2020.06.30)
+    - [html] [怎样禁用页面中的右键、打印、另存为、复制等功能？](https://github.com/haizlin/fe-interview/issues/2578)
+    - [css] [translate3D有什么作用？](https://github.com/haizlin/fe-interview/issues/2579)
+    - [js] [ReferenceError和TypeError有什么区别？](https://github.com/haizlin/fe-interview/issues/2580)
+    - [软技能] [你想当全栈工程师吗？](https://github.com/haizlin/fe-interview/issues/2581)
 - 第440天 (2020.06.29)
     - [html] [能否做到禁止打印页面？如果可以那要怎么做？](https://github.com/haizlin/fe-interview/issues/2574)
     - [css] [BFC与IFC有什么区别？](https://github.com/haizlin/fe-interview/issues/2575)
