@@ -2,6 +2,11 @@
 
 
 
+- 第442天 (2020.07.01)
+    - [html] [开发静态页面时，不依赖node相关的工具，如何提取出公共部分并引入？](https://github.com/haizlin/fe-interview/issues/2582)
+    - [css] [使用css3画个旋转的立方体](https://github.com/haizlin/fe-interview/issues/2583)
+    - [js] [一道变态题 Number.call.call(Number, undefined, 0) 等于什么？](https://github.com/haizlin/fe-interview/issues/2584)
+    - [软技能] [你喜欢在大城市工作还是小城市？为什么？](https://github.com/haizlin/fe-interview/issues/2585)
 - 第441天 (2020.06.30)
     - [html] [怎样禁用页面中的右键、打印、另存为、复制等功能？](https://github.com/haizlin/fe-interview/issues/2578)
     - [css] [translate3D有什么作用？](https://github.com/haizlin/fe-interview/issues/2579)
