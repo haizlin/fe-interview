@@ -2,6 +2,11 @@
 
 
 
+- 第444天 (2020.07.03)
+    - [html] [请实现一个文章阅读的进度条](https://github.com/haizlin/fe-interview/issues/2590)
+    - [css] [行内元素可以设置padding和margin吗？](https://github.com/haizlin/fe-interview/issues/2591)
+    - [js] [js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/haizlin/fe-interview/issues/2592)
+    - [软技能] [5G即将到来，你觉得对前端将面临什么挑战和机遇呢？](https://github.com/haizlin/fe-interview/issues/2593)
 - 第443天 (2020.07.02)
     - [html] [请实现一个网站加载进度条](https://github.com/haizlin/fe-interview/issues/2586)
     - [css] [如果要你自己设计一个css框架，说说你的思路](https://github.com/haizlin/fe-interview/issues/2587)
