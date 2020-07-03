@@ -37,11 +37,11 @@
 </p>
 
 
-## 今天的知识点 (2020.07.03) —— 第444天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [请实现一个文章阅读的进度条](https://github.com/haizlin/fe-interview/issues/2590)
-- [css] [行内元素可以设置padding和margin吗？](https://github.com/haizlin/fe-interview/issues/2591)
-- [js] [js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/haizlin/fe-interview/issues/2592)
-- [软技能] [5G即将到来，你觉得对前端将面临什么挑战和机遇呢？](https://github.com/haizlin/fe-interview/issues/2593)
+## 今天的知识点 (2020.07.04) —— 第445天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [canvas透明度是0.6的矩形和透明度是0.2的矩形叠加到一起，透明度是多少？](https://github.com/haizlin/fe-interview/issues/2596)
+- [css] [pseudo-class与pseudo-element有什么区别？](https://github.com/haizlin/fe-interview/issues/2597)
+- [js] [请使用js实现商品的sku，并说说你的思路](https://github.com/haizlin/fe-interview/issues/2598)
+- [软技能] [你喜欢在大公司工作还是小公司（创业公司）工作？为什么？](https://github.com/haizlin/fe-interview/issues/2599)
 
 
 > 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
@@ -81,18 +81,18 @@
 …………  
 
 
-- 第442天 (2020.07.01)
-    - [html] [开发静态页面时，不依赖node相关的工具，如何提取出公共部分并引入？](https://github.com/haizlin/fe-interview/issues/2582)
-	- [css] [使用css3画个旋转的立方体](https://github.com/haizlin/fe-interview/issues/2583)
-	- [js] [一道变态题 Number.call.call(Number, undefined, 0) 等于什么？](https://github.com/haizlin/fe-interview/issues/2584)
-	- [软技能] [你喜欢在大城市工作还是小城市？为什么？](https://github.com/haizlin/fe-interview/issues/2585)
-	
-
 - 第443天 (2020.07.02)
     - [html] [请实现一个网站加载进度条](https://github.com/haizlin/fe-interview/issues/2586)
 	- [css] [如果要你自己设计一个css框架，说说你的思路](https://github.com/haizlin/fe-interview/issues/2587)
 	- [js] [获取浏览器当前页面的滚动条高度的兼容写法](https://github.com/haizlin/fe-interview/issues/2588)
 	- [软技能] [你有参与过哪些开源项目吗？有给项目提交过PR吗？](https://github.com/haizlin/fe-interview/issues/2589)
+	
+
+- 第444天 (2020.07.03)
+    - [html] [请实现一个文章阅读的进度条](https://github.com/haizlin/fe-interview/issues/2590)
+	- [css] [行内元素可以设置padding和margin吗？](https://github.com/haizlin/fe-interview/issues/2591)
+	- [js] [js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/haizlin/fe-interview/issues/2592)
+	- [软技能] [5G即将到来，你觉得对前端将面临什么挑战和机遇呢？](https://github.com/haizlin/fe-interview/issues/2593)
 	
     
 - **[查看全部](category/history.md)**

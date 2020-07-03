@@ -2,6 +2,11 @@
 
 
 
+- 第445天 (2020.07.04)
+    - [html] [canvas透明度是0.6的矩形和透明度是0.2的矩形叠加到一起，透明度是多少？](https://github.com/haizlin/fe-interview/issues/2596)
+    - [css] [pseudo-class与pseudo-element有什么区别？](https://github.com/haizlin/fe-interview/issues/2597)
+    - [js] [请使用js实现商品的sku，并说说你的思路](https://github.com/haizlin/fe-interview/issues/2598)
+    - [软技能] [你喜欢在大公司工作还是小公司（创业公司）工作？为什么？](https://github.com/haizlin/fe-interview/issues/2599)
 - 第444天 (2020.07.03)
     - [html] [请实现一个文章阅读的进度条](https://github.com/haizlin/fe-interview/issues/2590)
     - [css] [行内元素可以设置padding和margin吗？](https://github.com/haizlin/fe-interview/issues/2591)
