@@ -2,6 +2,11 @@
 
 
 
+- 第446天 (2020.07.05)
+    - [html] [页面刷新时sessionStroage会变（会清空）吗？](https://github.com/haizlin/fe-interview/issues/2600)
+    - [css] [flex与其他有什么不同，用它有什么好处？](https://github.com/haizlin/fe-interview/issues/2601)
+    - [js] [请使用js实现vue的diff算法](https://github.com/haizlin/fe-interview/issues/2602)
+    - [软技能] [说下你学习前端的历程吧](https://github.com/haizlin/fe-interview/issues/2603)
 - 第445天 (2020.07.04)
     - [html] [canvas透明度是0.6的矩形和透明度是0.2的矩形叠加到一起，透明度是多少？](https://github.com/haizlin/fe-interview/issues/2596)
     - [css] [pseudo-class与pseudo-element有什么区别？](https://github.com/haizlin/fe-interview/issues/2597)
