@@ -2,6 +2,11 @@
 
 
 
+- 第448天 (2020.07.07)
+    - [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)
+    - [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)
+    - [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)
+    - [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)
 - 第447天 (2020.07.06)
     - [html] [使用a标签的download属性下载文件会有跨域问题吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2604)
     - [css] [怎样把单位cm转换成px呢（在打印时有时会用到）？](https://github.com/haizlin/fe-interview/issues/2605)

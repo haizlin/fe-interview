@@ -2,15 +2,13 @@
 
 [官网](http://www.h-camel.com/index.html) | [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
-## 今天的知识点 (2020.07.06) —— 第447天 ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [使用a标签的download属性下载文件会有跨域问题吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2604)
-- [css] [怎样把单位cm转换成px呢（在打印时有时会用到）？](https://github.com/haizlin/fe-interview/issues/2605)
-- [js] [写一个单向链数据结构的 js 实现并标注复杂度](https://github.com/haizlin/fe-interview/issues/2606)
-- [软技能] [说下JWT的认证过程](https://github.com/haizlin/fe-interview/issues/2607)
 
+## 今天的知识点 (2020.07.07) —— 第448天 ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)
+- [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)
+- [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)
+- [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)
 
-> 点击 [我也要出题](http://www.h-camel.com/contribution.html) 贡献你的题目吧，让大家一起来挑战你的题目！
-> 欢迎在 [**Issues**](https://github.com/haizlin/fe-interview/issues) 和朋友们一同讨论学习！
 
 ### 四大宗旨：
 * 勤思考
@@ -70,18 +68,19 @@
 …………  
 
 
-- 第445天 (2020.07.04)
-    - [html] [canvas透明度是0.6的矩形和透明度是0.2的矩形叠加到一起，透明度是多少？](https://github.com/haizlin/fe-interview/issues/2596)
-	- [css] [pseudo-class与pseudo-element有什么区别？](https://github.com/haizlin/fe-interview/issues/2597)
-	- [js] [请使用js实现商品的sku，并说说你的思路](https://github.com/haizlin/fe-interview/issues/2598)
-	- [软技能] [你喜欢在大公司工作还是小公司（创业公司）工作？为什么？](https://github.com/haizlin/fe-interview/issues/2599)
-	
-
 - 第446天 (2020.07.05)
     - [html] [页面刷新时sessionStroage会变（会清空）吗？](https://github.com/haizlin/fe-interview/issues/2600)
 	- [css] [flex与其他有什么不同，用它有什么好处？](https://github.com/haizlin/fe-interview/issues/2601)
 	- [js] [请使用js实现vue的diff算法](https://github.com/haizlin/fe-interview/issues/2602)
 	- [软技能] [说下你学习前端的历程吧](https://github.com/haizlin/fe-interview/issues/2603)
+	
+
+- 第447天 (2020.07.06)
+    - [html] [使用a标签的download属性下载文件会有跨域问题吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2604)
+	- [css] [怎样把单位cm转换成px呢（在打印时有时会用到）？](https://github.com/haizlin/fe-interview/issues/2605)
+	- [js] [写一个单向链数据结构的 js 实现并标注复杂度](https://github.com/haizlin/fe-interview/issues/2606)
+	- [软技能] [说下JWT的认证过程](https://github.com/haizlin/fe-interview/issues/2607)
+	
 	
     
 - **[查看全部](category/history.md)**
@@ -98,21 +97,6 @@
 <p align="center">
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg">
 </p>
-
-## 特别感谢（排名不分先后）
-- [qq674785876](https://github.com/qq674785876)
-- [undefinedYu](https://github.com/undefinedYu)
-- [qingleizhang123](https://github.com/qingleizhang123)
-- [yxkhaha](https://github.com/yxkhaha)
-- [AnsonZnl](https://github.com/AnsonZnl)
-- [Luke.Deng](https://github.com/xiangshuo1992)
-- [xiqi99520](https://github.com/xiqi99520)
-- [LeannaLady](https://github.com/LeannaLady)
-- [cxwht](https://github.com/cxwht)
-- [zhaoqian0901](https://github.com/zhaoqian0901)
-
-## 重大事件
-* [查看](./resource/md/event.md)
 
 ## 在哪可以看到
 - [前端向朔](https://blog.csdn.net/u013778905)（CSDN每天同步更新）

@@ -39,11 +39,11 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 </p>
 
 
-## Today's Knowledge Points (2020.07.06) —— 447 days ([我也要出题](http://www.h-camel.com/contribution.html))
-- [html] [使用a标签的download属性下载文件会有跨域问题吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2604)
-- [css] [怎样把单位cm转换成px呢（在打印时有时会用到）？](https://github.com/haizlin/fe-interview/issues/2605)
-- [js] [写一个单向链数据结构的 js 实现并标注复杂度](https://github.com/haizlin/fe-interview/issues/2606)
-- [skill] [说下JWT的认证过程](https://github.com/haizlin/fe-interview/issues/2607)
+## Today's Knowledge Points (2020.07.07) —— 448 days ([我也要出题](http://www.h-camel.com/contribution.html))
+- [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)
+- [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)
+- [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)
+- [skill] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)
 
 
 > Welcome to [**Issues**](https://github.com/haizlin/fe-interview/issues) and friends to discuss learning!
@@ -82,18 +82,18 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 …………  
 
 
-- 445 days (2020.07.04)
-    - [html] [canvas透明度是0.6的矩形和透明度是0.2的矩形叠加到一起，透明度是多少？](https://github.com/haizlin/fe-interview/issues/2596)
-	- [css] [pseudo-class与pseudo-element有什么区别？](https://github.com/haizlin/fe-interview/issues/2597)
-	- [js] [请使用js实现商品的sku，并说说你的思路](https://github.com/haizlin/fe-interview/issues/2598)
-	- [skill] [你喜欢在大公司工作还是小公司（创业公司）工作？为什么？](https://github.com/haizlin/fe-interview/issues/2599)
-	
-
 - 446 days (2020.07.05)
     - [html] [页面刷新时sessionStroage会变（会清空）吗？](https://github.com/haizlin/fe-interview/issues/2600)
 	- [css] [flex与其他有什么不同，用它有什么好处？](https://github.com/haizlin/fe-interview/issues/2601)
 	- [js] [请使用js实现vue的diff算法](https://github.com/haizlin/fe-interview/issues/2602)
 	- [skill] [说下你学习前端的历程吧](https://github.com/haizlin/fe-interview/issues/2603)
+	
+
+- 447 days (2020.07.06)
+    - [html] [使用a标签的download属性下载文件会有跨域问题吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2604)
+	- [css] [怎样把单位cm转换成px呢（在打印时有时会用到）？](https://github.com/haizlin/fe-interview/issues/2605)
+	- [js] [写一个单向链数据结构的 js 实现并标注复杂度](https://github.com/haizlin/fe-interview/issues/2606)
+	- [skill] [说下JWT的认证过程](https://github.com/haizlin/fe-interview/issues/2607)
 	
 
 - **[All](category/history.md)**
