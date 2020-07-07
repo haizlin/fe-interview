@@ -15,13 +15,16 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
+> :star: 这是一个前端知识题库最多、最全的免费开源项目！
+
+
 ### :clock430: 今天的知识点 (2020.07.07) —— 第448天
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:hash: [我也要出题](http://www.h-camel.com/contribution.html)   
+:hash: [我也要出题](http://www.h-camel.com/contribution.html)   
 
 
 | :pencil2:基础 | [HTML](category/html.md) | [CSS](category/css.md) | [JavaScript](category/css.md) | [软技能](category/skill.md) |  | | | 
@@ -30,7 +33,7 @@
 | :hammer:工具 | [webpack](tools/webpack.md) | 
 | :coffee:汇总 | [周](category/week.md) | [历史题目](category/history.md)  | 
 
-### :camel: 历史面试题
+### :camel: 历史题目
 - 第1天 (2019.04.17)
     - [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
     - [css] [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)
