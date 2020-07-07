@@ -1,7 +1,7 @@
 [官网](http://www.h-camel.com/index.html) | [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
-    <a href="http://www.h-camel.com"><img src="http://www.h-camel.com/statics/images/logo.png" width="200px"></a>
+    <a href="http://www.h-camel.com"><img src="http://www.h-camel.com/statics/images/logo.png" width="250px"></a>
 </div>
   
 <p align="center">
@@ -15,7 +15,7 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（2500+）、最全**，参与人数最多的免费开源项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
@@ -50,10 +50,11 @@
 ### :baby_chick: 交流讨论
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎微信扫码关注 **前端剑解** 公众号，并加入 **“前端学习每日3+1”** 微信群相互交流（点击公众号的菜单：进群交流）。
 
-:point_right:  [点击查看 “卓越-九周年” 视频](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)
+:point_right:  [点击查看 “卓越-九周年” 视频](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)  
+:point_right:  [点击查看 “主动思考” 视频](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)  
 
 <p align="center">
-    <img src="http://www.h-camel.com/statics/images/qrcode_jianjie.png" width="100px">
+    <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg" width="200px">
 </p>
 
 ### :smiley: 寄语
@@ -112,6 +113,12 @@
 </a>
 <a href="https://github.com/zhaoqian0901">
     <img src="https://avatars1.githubusercontent.com/u/49831394?s=400&v=4" width="50px">
+</a>
+<a href="https://github.com/hiyangguo">
+    <img src="https://avatars1.githubusercontent.com/u/15609339?s=400&v=4" width="50px">
+</a>
+<a href="https://github.com/Wscats">
+    <img src="https://avatars1.githubusercontent.com/u/17243165?s=400&v=4" width="50px">
 </a>
 
 ### :exclamation: 转载说明
