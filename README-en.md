@@ -1,4 +1,4 @@
-[官网](http://www.h-camel.com/index.html) | [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
+[Website](http://www.h-camel.com/index.html) | [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
     <a href="http://www.h-camel.com"><img src="http://www.h-camel.com/statics/images/logo.png" width="250px"></a>
@@ -51,23 +51,24 @@
 - **[All](category/history.md)**
 
 ### :baby_chick: Exchange
-欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎微信扫码关注 **前端剑解** 公众号，并加入 **“前端学习每日3+1”** 微信群相互交流（点击公众号的菜单：进群交流）。
+Welcome to discuss, if you feel that it is helpful to your study, please click [**Star**](https://github.com/haizlin/fe-interview), and Welcome to the Wechat Sweeping Pay attention to the front-end sword to understand the WeChat Official Account, and join the "front-end learning 3 + 1" Wechat group to communicate with each other (click on the menu of the public number: group communication).
 
-:point_right:  [点击查看 “卓越-九周年” 视频](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)  
+
+:point_right:  [Click to view the "excellence - 9th anniversary" video](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)  
 
 <p align="center">
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg" width="200px">
 </p>
 
 ### :smiley: Message
-- 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）  
-- 孔子曰：**“不愤不启，不悱不发。举一隅不以三隅反，则不复也”**  
-- 前端面试每日3+1，以面试题来驱动学习，每天进步一点！
-- 学习不打烊，充电加油只为**遇到更好的自己**，365天无节假日，**每天早上5点**纯手工发布面试题（**死磕自己，愉悦大家**）。
-- 希望大家在这**浮夸**的前端圈里，保持**冷静**，坚持每天花20分钟来学习与思考。
-- 在这千变万化，类库层出不穷的前端，建议大家不要等到找工作时，才狂刷题，提倡**每日学习**！（**不忘初心**，html、css、javascript才是基石！）
-- 让努力成为一种习惯，让奋斗成为一种享受！  
-- 相信 **坚持** 的力量！！！
+- In the Analects of Confucius, Zeng Zi said: "I examine myself three times every day." * (I reflect on myself many times every day)
+- Confucius said: * * "no anger, no enlightenment, no emotion, no hair. If one corner is not reversed by three, then it will be lost. "**
+- Front end interview every day 3 + 1, with interview questions to drive learning, daily progress!
+- Learning does not close, charging only for * * to meet a better self * *, 365 days without holidays, * * every morning at 5:00 * * purely manual release interview questions (* * die hard, happy everyone * *).
+- I hope you can stay calm and spend 20 minutes every day studying and thinking in this front-end circle of exaggeration.
+- In this ever-changing, class libraries emerge in endlessly. It is recommended that you do not wait until you are looking for a job to brush your questions, and advocate * * daily learning * *! (* * do not forget the original intention * *, HTML, CSS, JavaScript are the cornerstone!)
+- Let effort become a habit, let struggle become a kind of enjoyment!
+- Believe in the power of * * stick to * *!!!
 
 ### :question: How to learn
 - Whether you understand the topic or not, you have to think first and then Baidu. After thinking, you must write it out.
@@ -76,15 +77,20 @@
 - After you don't understand Baidu's title, don't copy a large paragraph directly, you should summarize it in your own words concisely.
 
 ### :palm_tree: Source
-- [前端向朔-CSDN](https://blog.csdn.net/u013778905) | [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [知乎专栏](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [简书专栏](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault专栏](https://segmentfault.com/blog/frontend-interview) | [新浪微博](https://weibo.com/haizlin) | [开发者头条专栏](https://toutiao.io/subjects/359261) | [看云](https://www.kancloud.cn/aya001001/fe-interview) | 前端剑解(扫码关注)
+- [CSDN](https://blog.csdn.net/u013778905) | [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [zhihu](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [jianshu](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault](https://segmentfault.com/blog/frontend-interview) | [weibo](https://weibo.com/haizlin) | [- [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
+](https://toutiao.io/subjects/359261) | [kancloud](https://www.kancloud.cn/aya001001/fe-interview) | 前端剑解(扫码关注)
+
+### :family: Events
+* [See more](./resource/md/event.md)
 
 ### :family: Friendship Links
-* 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
-* [查看更多](./resource/md/link.md)
+* 【recommend】Welcome to work with jsliang to work on the front end and systematize the front-end knowledge. At present, we are wrestling with leetcode, intending to get through the relationship between algorithm and data structure。[GitHub](https://github.com/LiangJunrong/document-library)
+* [See more](./resource/md/link.md)
 
 ### :trophy: Thanks
-* 感谢所有为"前端面试每日3+1"做出贡献的朋友！，当然不仅仅只有这些贡献者，这里就不一一列举了，如果未添加到这个名单中，请与我联系。
-* 请在提交PR前先阅读[贡献指南](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md)  
+* Thanks to all the friends who have contributed to "3 + 1 daily front end interview"! Of course, these contributors are not the only ones. If they are not added to this list, please contact me.
+* Please read the [Contribution Guide](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md) before submitting PR
+Thank you to all the people who already contributed to 'Front-end interview **3+1** per day'!
 
 <a href="https://github.com/qq674785876">
     <img src="https://avatars1.githubusercontent.com/u/24448911?s=400&v=4" width="50px">

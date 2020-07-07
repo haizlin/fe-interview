@@ -79,6 +79,9 @@
 ### :palm_tree: 同步更新
 - [前端向朔-CSDN](https://blog.csdn.net/u013778905) | [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [知乎专栏](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [简书专栏](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault专栏](https://segmentfault.com/blog/frontend-interview) | [新浪微博](https://weibo.com/haizlin) | [开发者头条专栏](https://toutiao.io/subjects/359261) | [看云](https://www.kancloud.cn/aya001001/fe-interview) | 前端剑解(扫码关注)
 
+### :family: 重大事件
+* [查看更多](./resource/md/event.md)
+
 ### :family: 友情链接
 * 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 * [查看更多](./resource/md/link.md)
