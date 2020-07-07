@@ -25,7 +25,7 @@
 
 
 | :pencil2:基础 | [HTML](category/html.md) | [CSS](category/css.md) | [JavaScript](category/css.md) | [软技能](category/skill.md) |  | | | 
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | 
 | :newspaper:专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript](category/ECMAScript.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer:工具 | [webpack](tools/webpack.md) | 
 | :coffee:汇总 | [周](category/week.md) | [历史题目](category/history.md)  | 
