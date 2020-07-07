@@ -12,18 +12,18 @@
   <a href="https://github.com/haizlin/fe-interview/stargazers"><img src="https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg" alt="Statr"></a>
 </p>
 <p align="center">
-    勤思考 - 多动手 - 善总结 - 能坚持  
+    Think hard - do more - summarize - insist
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（2500+）、最全**，参与人数最多的免费开源项目！
+> :star: This is a free and open source project involving the front-end knowledge database * * the most (2500 +), the most complete * *, and the largest number of participants!
 
-:hash: [我也要出题](http://www.h-camel.com/contribution.html) 
+:hash: [I'm going to set a question](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML](category/html.md) | [CSS](category/css.md) | [JavaScript](category/css.md) | [Skill](category/skill.md) |  | | | 
+| :bulb: Base | [HTML](category/html.md) | [CSS](category/css.md) | [JavaScript](category/css.md) | [Skill](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
-| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
-| :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
-| :coffee: 汇总 | [week](category/week.md) | [history](category/history.md)  |
+| :newspaper: Special | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [wxapp](lib/wxapp.md) | 
+| :hammer: Tool | [webpack 13+](tools/webpack.md) | 
+| :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
 ## Today's Knowledge Points (2020.07.07) —— 448 days

@@ -27,10 +27,10 @@
 
 
 ## :clock430:  (2020.07.07) —— 第448天
-    :one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)
-    :two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)
-    :three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)
-    :four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)
+    	 :one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)
+	 :two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)
+	 :three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)
+	 :four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)
  
   
 ### :camel: 历史题目
@@ -38,7 +38,7 @@
     :one: [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)  
     :two: [css] [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)  
     :three: [js] [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizlin/fe-interview/issues/3)  
-
+    
     …………  
 
 
