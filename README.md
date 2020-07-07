@@ -16,12 +16,12 @@
 </p>
 
 ### :clock430: 今天的知识点 (2020.07.07) —— 第448天
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:hash: [我也要出题](http://www.h-camel.com/contribution.html)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:hash: [我也要出题](http://www.h-camel.com/contribution.html)   
 
 
 | :pencil2:基础 | [HTML](category/html.md) | [CSS](category/css.md) | [JavaScript](category/css.md) | [软技能](category/skill.md) |  | | | 
@@ -77,28 +77,15 @@
 - 不懂的题百度后，不要直接复制一大段过来，要用自己的话精简地总结概括出来
 
 ### :palm_tree: 同步更新
-- [前端向朔](https://blog.csdn.net/u013778905)（CSDN每天同步更新）
-- [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts)（每天同步更新）
-- [知乎专栏](https://zhuanlan.zhihu.com/fe-interview)（每天同步更新）
-- [Github](https://github.com/haizlin/fe-interview)（每天同步更新）
-- [Gitee](https://gitee.com/haizhilin/fe-interview)（每天同步更新）
-- [简书专栏](https://www.jianshu.com/c/1ba24fbe0006)（每天同步更新）
-- [segmentfault专栏](https://segmentfault.com/blog/frontend-interview)（每天同步更新）https://weibo.com/haizlin
-- [新浪微博](https://weibo.com/haizlin)（每天同步更新）
-- [开发者头条专栏](https://toutiao.io/subjects/359261)（每天同步更新）
-- [看云](https://www.kancloud.cn/aya001001/fe-interview)（每周同步更新）
-- 「前端剑解」 微信公众号（扫描上方二维码，每天同步更新）
+- [前端向朔-CSDN](https://blog.csdn.net/u013778905) | [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [知乎专栏](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [简书专栏](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault专栏](https://segmentfault.com/blog/frontend-interview) | [新浪微博](https://weibo.com/haizlin) | [开发者头条专栏](https://toutiao.io/subjects/359261) | [看云](https://www.kancloud.cn/aya001001/fe-interview) | 前端剑解(扫码关注)
 
-### :cat: 贡献题目
-请在提交PR前先阅读[贡献指南](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md)  
-感谢所有为"前端面试每日3+1"做出贡献的人！
-
-### :link: 友情链接（欢迎推荐）
+### :family: 友情链接
 * 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 * [查看更多](./resource/md/link.md)
 
 ### :trophy: 感谢
-感谢以下朋友对本项目做出的贡献，当然不仅仅只有这些贡献者，这里就不一一列举了，如果未添加到这个名单中，请与我联系。
+* 感谢所有为"前端面试每日3+1"做出贡献的朋友！，当然不仅仅只有这些贡献者，这里就不一一列举了，如果未添加到这个名单中，请与我联系。
+* 请在提交PR前先阅读[贡献指南](https://github.com/haizlin/fe-interview/blob/master/.github/PULL_REQUEST_TEMPLATE.md)  
 
 <a href="https://github.com/qq674785876">
     <img src="https://avatars1.githubusercontent.com/u/24448911?s=400&v=4" width="50px">
