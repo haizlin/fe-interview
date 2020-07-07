@@ -20,8 +20,8 @@
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
 | :pencil2: 基础 | [HTML](category/html.md) | [CSS](category/css.md) | [JavaScript](category/css.md) | [软技能](category/skill.md) |  | | | 
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | 
-| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery 22+](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
+| :---: | :---- | :---: | :---- | :---- | :---- | :---- | :---- | 
+| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
@@ -31,11 +31,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
   
-  
-
-
- 
-
 ### :camel: 历史题目
 - 第1天 (2019.04.17)
     - [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
