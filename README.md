@@ -26,10 +26,10 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 ### :clock430: 今天的知识点 (2020.07.07) —— 第448天
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
+    :one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
+    :two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)  
+    :three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
+    :four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
   
 ### :camel: 历史题目
 - 第1天 (2019.04.17)  
@@ -51,7 +51,6 @@
 欢迎大家前来讨论，如果觉得对你的学习有一定的帮助，欢迎点个[**Star**](https://github.com/haizlin/fe-interview), 同时欢迎微信扫码关注 **前端剑解** 公众号，并加入 **“前端学习每日3+1”** 微信群相互交流（点击公众号的菜单：进群交流）。
 
 :point_right:  [点击查看 “卓越-九周年” 视频](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)  
-:point_right:  [点击查看 “主动思考” 视频](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)  
 
 <p align="center">
     <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg" width="200px">
