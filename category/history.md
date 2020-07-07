@@ -2,6 +2,11 @@
 
 
 
+- 第449天 (2020.07.08)  
+    - [html] [通过设置表单的target="_blank"来下载文件会被浏览器拦截吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2612)
+    - [css] [写出固定子容器在固定的父容器下水平垂直居中的布局](https://github.com/haizlin/fe-interview/issues/2613)
+    - [js] [模拟 localStorage 时如何实现过期时间功能](https://github.com/haizlin/fe-interview/issues/2614)
+    - [软技能] [你有写过软件概要设计文档吗？都包括哪些内容？](https://github.com/haizlin/fe-interview/issues/2615)
 - 第448天 (2020.07.07)  
     - [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)
     - [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)
