@@ -15,8 +15,15 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多、最全** 的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多、最全**，参与人数最多的免费开源项目！
 
+:hash: [我也要出题](http://www.h-camel.com/contribution.html) 
+
+| :pencil2: 基础 | [HTML](category/html.md) | [CSS](category/css.md) | [JavaScript](category/css.md) | [软技能](category/skill.md) |  | | | 
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | 
+| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript](category/ECMAScript.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
+| :hammer: 工具 | [webpack](tools/webpack.md) | 
+| :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 ### :clock430: 今天的知识点 (2020.07.07) —— 第448天
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
@@ -24,14 +31,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
   
-:hash: [我也要出题](http://www.h-camel.com/contribution.html)   
+  
 
 
-| :pencil2: 基础 | [HTML](category/html.md) | [CSS](category/css.md) | [JavaScript](category/css.md) | [软技能](category/skill.md) |  | | | 
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | 
-| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript](category/ECMAScript.md) | [NodeJs](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
-| :hammer: 工具 | [webpack](tools/webpack.md) | 
-| :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  | 
+ 
 
 ### :camel: 历史题目
 - 第1天 (2019.04.17)
