@@ -31,8 +31,6 @@
 | :coffee:汇总 | [周](category/week.md) | [历史题目](category/history.md)  | 
 
 ### :camel: 历史面试题
-- **[查看全部](category/history.md)**
-
 - 第1天 (2019.04.17)
     - [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
     - [css] [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)
@@ -57,24 +55,21 @@
     <img src="http://www.h-camel.com/statics/images/qrcode_jianjie.png" width="100px">
 </p>
 
-> 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）  
-> 孔子曰：**“不愤不启，不悱不发。举一隅不以三隅反，则不复也”**  
-> 前端面试每日3+1，以面试题来驱动学习，每天进步一点！  
-> 让努力成为一种习惯，让奋斗成为一种享受！  
-> 相信 **坚持** 的力量！！！
-
----
+### :smiley: 寄语
+- 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）  
+- 孔子曰：**“不愤不启，不悱不发。举一隅不以三隅反，则不复也”**  
+- 前端面试每日3+1，以面试题来驱动学习，每天进步一点！
 - 学习不打烊，充电加油只为**遇到更好的自己**，365天无节假日，**每天早上5点**纯手工发布面试题（**死磕自己，愉悦大家**）。
 - 希望大家在这**浮夸**的前端圈里，保持**冷静**，坚持每天花20分钟来学习与思考。
 - 在这千变万化，类库层出不穷的前端，建议大家不要等到找工作时，才狂刷题，提倡**每日学习**！（**不忘初心**，html、css、javascript才是基石！）
-- 欢迎大家到**Issues**交流，鼓励**PR**，感谢**Star**、感谢**watch**，大家有啥好的建议可以加我微信一起交流讨论！
-- 希望大家**每日**去学习与思考，这才达到来这里的目的！！！（不要为了谁而来，要为自己而来！）
+- 让努力成为一种习惯，让奋斗成为一种享受！  
+- 相信 **坚持** 的力量！！！
 
-### :question: 怎样学习
+### :question: 如何学习
 - 不管题目懂与不懂都要先思考再百度，思考后一定要去写出来
-- 如果是原生js的题，不要依赖第三方库，如jquery等
+- 如果是原生js的题，不要依赖使用第三方库，如jquery等
 - 每天的题目都是独立的，不需要按顺序来，但建议每道题都去答下，有你会的和有你不会的，答了才知道
-- 不懂的题百度后，不要直接复制一大段过来，要用自己的话精简地总结概括出来
+- 不懂的题百度学习后，不要直接复制一大段过来，要用自己的话精简地总结概括出来
 
 ### :palm_tree: 同步更新
 - [前端向朔-CSDN](https://blog.csdn.net/u013778905) | [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [知乎专栏](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [简书专栏](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault专栏](https://segmentfault.com/blog/frontend-interview) | [新浪微博](https://weibo.com/haizlin) | [开发者头条专栏](https://toutiao.io/subjects/359261) | [看云](https://www.kancloud.cn/aya001001/fe-interview) | 前端剑解(扫码关注)
