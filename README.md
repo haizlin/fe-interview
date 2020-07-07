@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.07) —— 第448天
-	 :one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
-	 :two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)  
-	 :three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
-	 :four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
+## :clock430: 今天的知识点   (2020.07.07) —— 第448天  
+:one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
+:two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)  
+:three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
+:four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
  
   
 ### :camel: 历史题目
@@ -42,7 +42,7 @@
     …………  
 
 
-- 第447天 (2020.07.06)
+- 第447天 (2020.07.06)  
     	 :one: [html] [使用a标签的download属性下载文件会有跨域问题吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2604)  
 	 :two: [css] [怎样把单位cm转换成px呢（在打印时有时会用到）？](https://github.com/haizlin/fe-interview/issues/2605)  
 	 :three: [js] [写一个单向链数据结构的 js 实现并标注复杂度](https://github.com/haizlin/fe-interview/issues/2606)  
