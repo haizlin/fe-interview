@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.08) —— 449 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [通过设置表单的target="_blank"来下载文件会被浏览器拦截吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2612)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写出固定子容器在固定的父容器下水平垂直居中的布局](https://github.com/haizlin/fe-interview/issues/2613)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [模拟 localStorage 时如何实现过期时间功能](https://github.com/haizlin/fe-interview/issues/2614)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有写过软件概要设计文档吗？都包括哪些内容？](https://github.com/haizlin/fe-interview/issues/2615)  
+## :clock430: Today's Knowledge Points (2020.07.09) —— 450 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在主框架下引入的iframe，如果检测这个iframe是否能打开，如果打不开则跳到404页面](https://github.com/haizlin/fe-interview/issues/2616)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css如何拉伸字体？](https://github.com/haizlin/fe-interview/issues/2617)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请使用js实现一个秒表计时器的程序](https://github.com/haizlin/fe-interview/issues/2618)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [都说前后端分离好，那重构前后端分离的目的是什么？](https://github.com/haizlin/fe-interview/issues/2619)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 448 days (2020.07.07)  
-    	 :one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
-	 :two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)  
-	 :three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
-	 :four: [skill] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
+- 449 days (2020.07.08)  
+    	 :one: [html] [通过设置表单的target="_blank"来下载文件会被浏览器拦截吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2612)  
+	 :two: [css] [写出固定子容器在固定的父容器下水平垂直居中的布局](https://github.com/haizlin/fe-interview/issues/2613)  
+	 :three: [js] [模拟 localStorage 时如何实现过期时间功能](https://github.com/haizlin/fe-interview/issues/2614)  
+	 :four: [skill] [你有写过软件概要设计文档吗？都包括哪些内容？](https://github.com/haizlin/fe-interview/issues/2615)  
  
 	
 - **[All](category/history.md)**

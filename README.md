@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.08) —— 第449天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [通过设置表单的target="_blank"来下载文件会被浏览器拦截吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2612)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写出固定子容器在固定的父容器下水平垂直居中的布局](https://github.com/haizlin/fe-interview/issues/2613)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [模拟 localStorage 时如何实现过期时间功能](https://github.com/haizlin/fe-interview/issues/2614)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有写过软件概要设计文档吗？都包括哪些内容？](https://github.com/haizlin/fe-interview/issues/2615)  
+## :clock430: 今天的知识点   (2020.07.09) —— 第450天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在主框架下引入的iframe，如果检测这个iframe是否能打开，如果打不开则跳到404页面](https://github.com/haizlin/fe-interview/issues/2616)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css如何拉伸字体？](https://github.com/haizlin/fe-interview/issues/2617)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请使用js实现一个秒表计时器的程序](https://github.com/haizlin/fe-interview/issues/2618)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [都说前后端分离好，那重构前后端分离的目的是什么？](https://github.com/haizlin/fe-interview/issues/2619)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第448天 (2020.07.07)  
-    	 :one: [html] [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)  
-	 :two: [css] [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)  
-	 :three: [js] [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)  
-	 :four: [软技能] [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)  
+- 第449天 (2020.07.08)  
+    	 :one: [html] [通过设置表单的target="_blank"来下载文件会被浏览器拦截吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2612)  
+	 :two: [css] [写出固定子容器在固定的父容器下水平垂直居中的布局](https://github.com/haizlin/fe-interview/issues/2613)  
+	 :three: [js] [模拟 localStorage 时如何实现过期时间功能](https://github.com/haizlin/fe-interview/issues/2614)  
+	 :four: [软技能] [你有写过软件概要设计文档吗？都包括哪些内容？](https://github.com/haizlin/fe-interview/issues/2615)  
  
 	
 - **[查看全部](category/history.md)**
@@ -127,7 +127,7 @@
     <img src="https://avatars1.githubusercontent.com/u/17243165?s=400&v=4" width="50px">
 </a>
 
-### :exclamation: 转载说明
+### :exclamation: 转载声明
 > 近期，看到很多网络上的朋友滥用链接，滥用面试题，包装了下就收费了，让有需要的朋友找不到最新的试题，违背了我的初衷，特添加了些声明：
 
 - 声明
