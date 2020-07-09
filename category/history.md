@@ -2,6 +2,11 @@
 
 
 
+- 第451天 (2020.07.10)  
+    - [html] [404页面有什么作用？](https://github.com/haizlin/fe-interview/issues/2620)
+    - [css] [如何设置字体的左右间距？](https://github.com/haizlin/fe-interview/issues/2621)
+    - [js] [你用过Navigator.sendBeacon()吗？说说它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2622)
+    - [软技能] [你能看懂时序图吗？有画过时序图吗？](https://github.com/haizlin/fe-interview/issues/2623)
 - 第450天 (2020.07.09)  
     - [html] [在主框架下引入的iframe，如果检测这个iframe是否能打开，如果打不开则跳到404页面](https://github.com/haizlin/fe-interview/issues/2616)
     - [css] [使用css如何拉伸字体？](https://github.com/haizlin/fe-interview/issues/2617)

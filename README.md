@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.09) —— 第450天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在主框架下引入的iframe，如果检测这个iframe是否能打开，如果打不开则跳到404页面](https://github.com/haizlin/fe-interview/issues/2616)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css如何拉伸字体？](https://github.com/haizlin/fe-interview/issues/2617)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请使用js实现一个秒表计时器的程序](https://github.com/haizlin/fe-interview/issues/2618)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [都说前后端分离好，那重构前后端分离的目的是什么？](https://github.com/haizlin/fe-interview/issues/2619)  
+## :clock430: 今天的知识点   (2020.07.10) —— 第451天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [404页面有什么作用？](https://github.com/haizlin/fe-interview/issues/2620)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何设置字体的左右间距？](https://github.com/haizlin/fe-interview/issues/2621)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你用过Navigator.sendBeacon()吗？说说它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2622)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你能看懂时序图吗？有画过时序图吗？](https://github.com/haizlin/fe-interview/issues/2623)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第449天 (2020.07.08)  
-    	 :one: [html] [通过设置表单的target="_blank"来下载文件会被浏览器拦截吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2612)  
-	 :two: [css] [写出固定子容器在固定的父容器下水平垂直居中的布局](https://github.com/haizlin/fe-interview/issues/2613)  
-	 :three: [js] [模拟 localStorage 时如何实现过期时间功能](https://github.com/haizlin/fe-interview/issues/2614)  
-	 :four: [软技能] [你有写过软件概要设计文档吗？都包括哪些内容？](https://github.com/haizlin/fe-interview/issues/2615)  
+- 第450天 (2020.07.09)  
+    	 :one: [html] [在主框架下引入的iframe，如果检测这个iframe是否能打开，如果打不开则跳到404页面](https://github.com/haizlin/fe-interview/issues/2616)  
+	 :two: [css] [使用css如何拉伸字体？](https://github.com/haizlin/fe-interview/issues/2617)  
+	 :three: [js] [请使用js实现一个秒表计时器的程序](https://github.com/haizlin/fe-interview/issues/2618)  
+	 :four: [软技能] [都说前后端分离好，那重构前后端分离的目的是什么？](https://github.com/haizlin/fe-interview/issues/2619)  
  
 	
 - **[查看全部](category/history.md)**
@@ -79,7 +79,7 @@
 ### :palm_tree: 同步更新
 - [前端向朔-CSDN](https://blog.csdn.net/u013778905) | [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [知乎专栏](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [简书专栏](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault专栏](https://segmentfault.com/blog/frontend-interview) | [新浪微博](https://weibo.com/haizlin) | [开发者头条专栏](https://toutiao.io/subjects/359261) | [看云](https://www.kancloud.cn/aya001001/fe-interview) | 前端剑解(扫码关注)
 
-### :fire: 重大事件
+### :family: 重大事件
 * [查看更多](./resource/md/event.md)
 
 ### :family: 友情链接
