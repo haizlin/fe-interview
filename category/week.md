@@ -1,4 +1,4 @@
-# 周汇总 2029.03.29
+# 周汇总 2029.07.07
 
 > 《论语》，曾子曰：**“吾日三省吾身”**（我每天多次反省自己）。  
 > 前端面试每日3+1题，以面试题来驱动学习，每天进步一点！  
@@ -17,40 +17,40 @@
 【推荐】欢迎跟 jsliang 一起折腾前端，系统整理前端知识，目前正在折腾 LeetCode，打算打通算法与数据结构的任督二脉。[GitHub 地址](https://github.com/LiangJunrong/document-library)
 
 ## html
-- [后缀.html和.htm有什么区别？](https://github.com/haizlin/fe-interview/issues/2155)
-- [html6即将到来，你最期待的是什么特性呢？](https://github.com/haizlin/fe-interview/issues/2151)
-- [举例说明锚点定位有什么作用？](https://github.com/haizlin/fe-interview/issues/2147)
-- [什么是表单域？它有哪些运用场景？](https://github.com/haizlin/fe-interview/issues/2134)
-- [你是如何理解html与css分离的？](https://github.com/haizlin/fe-interview/issues/2125)
-- [编写html时，你有没有用过Emmet插件呢？说说它的优点及规则有哪些？](https://github.com/haizlin/fe-interview/issues/2121)
-- [编写一个布局，让文字环绕在图片的周围](https://github.com/haizlin/fe-interview/issues/2111)
+- [在主框架下引入的iframe，如果检测这个iframe是否能打开，如果打不开则跳到404页面](https://github.com/haizlin/fe-interview/issues/2616)
+- [通过设置表单的target="_blank"来下载文件会被浏览器拦截吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2612)
+- [如何通过表单下载文件？](https://github.com/haizlin/fe-interview/issues/2608)
+- [使用a标签的download属性下载文件会有跨域问题吗？如何解决？](https://github.com/haizlin/fe-interview/issues/2604)
+- [页面刷新时sessionStroage会变（会清空）吗？](https://github.com/haizlin/fe-interview/issues/2600)
+- [canvas透明度是0.6的矩形和透明度是0.2的矩形叠加到一起，透明度是多少？](https://github.com/haizlin/fe-interview/issues/2596)
+- [请实现一个文章阅读的进度条](https://github.com/haizlin/fe-interview/issues/2590)
 
 ## css
-- [举例说明shape-outside的属性的用途有哪些？](https://github.com/haizlin/fe-interview/issues/2156)
-- [ui设计中px、pt、ppi、dpi、dp、sp之间的关系？](https://github.com/haizlin/fe-interview/issues/2152)
-- [使用css画个钟表的时间刻度](https://github.com/haizlin/fe-interview/issues/2148)
-- [请使用css3实现图片的平滑转换](https://github.com/haizlin/fe-interview/issues/2135)
-- [使用纯css能否监控到用户的一些信息？怎么实现？](https://github.com/haizlin/fe-interview/issues/2126)
-- [在一个项目里，你是如何组织(架构)css代码的？](https://github.com/haizlin/fe-interview/issues/2122)
-- [为了减小css文件的大小，怎么去除无用css呢？有哪些方法？](https://github.com/haizlin/fe-interview/issues/2112)
+- [使用css如何拉伸字体？](https://github.com/haizlin/fe-interview/issues/2617)
+- [写出固定子容器在固定的父容器下水平垂直居中的布局](https://github.com/haizlin/fe-interview/issues/2613)
+- [在固定宽度的div下，怎么让字体自适应大小，不超出宽度，也不要换行](https://github.com/haizlin/fe-interview/issues/2609)
+- [怎样把单位cm转换成px呢（在打印时有时会用到）？](https://github.com/haizlin/fe-interview/issues/2605)
+- [flex与其他有什么不同，用它有什么好处？](https://github.com/haizlin/fe-interview/issues/2601)
+- [pseudo-class与pseudo-element有什么区别？](https://github.com/haizlin/fe-interview/issues/2597)
+- [行内元素可以设置padding和margin吗？](https://github.com/haizlin/fe-interview/issues/2591)
 
 ## js
-- [用js怎么实现图片马赛克效果？](https://github.com/haizlin/fe-interview/issues/2157)
-- [写一个方法把分钟转化为时分，例如：150->02:30](https://github.com/haizlin/fe-interview/issues/2153)
-- [写一个方法获取指定数组中间的值（一个或者两个）](https://github.com/haizlin/fe-interview/issues/2149)
-- [你是如何排查js内存泄漏的？](https://github.com/haizlin/fe-interview/issues/2136)
-- [使用js生成1-10000的数组](https://github.com/haizlin/fe-interview/issues/2127)
-- [在chrome中js的数组占用了多少内存？](https://github.com/haizlin/fe-interview/issues/2123)
-- [判断[].__proto__.__proto__ === {}.__proto__结果并解释为什么[代码]](https://github.com/haizlin/fe-interview/issues/2113)
+- [请使用js实现一个秒表计时器的程序](https://github.com/haizlin/fe-interview/issues/2618)
+- [模拟 localStorage 时如何实现过期时间功能](https://github.com/haizlin/fe-interview/issues/2614)
+- [用函数实现扑克牌排序](https://github.com/haizlin/fe-interview/issues/2610)
+- [写一个单向链数据结构的 js 实现并标注复杂度](https://github.com/haizlin/fe-interview/issues/2606)
+- [请使用js实现vue的diff算法](https://github.com/haizlin/fe-interview/issues/2602)
+- [请使用js实现商品的sku，并说说你的思路](https://github.com/haizlin/fe-interview/issues/2598)
+- [js中的undefined和 ReferenceError: xxx is not defined 有什么区别？](https://github.com/haizlin/fe-interview/issues/2592)
 
 ## 软技能
-- [如果要你定义一个版本号的规则，你该定义成什么样的？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2158)
-- [你上家公司是怎么管理版本的？](https://github.com/haizlin/fe-interview/issues/2154)
-- [如何迁移仓库，同时保留原有的提交记录和分支？](https://github.com/haizlin/fe-interview/issues/2150)
-- [git pull 报错怎么解决？](https://github.com/haizlin/fe-interview/issues/2137)
-- [如何禁止百度爬虫抓取网站？](https://github.com/haizlin/fe-interview/issues/2128)
-- [你知道什么是中间人攻击吗？它产生的原因是什么？有什么危害？如何避免？](https://github.com/haizlin/fe-interview/issues/2124)
-- [说说你遇到过最大的bug是什么？怎么解决的？](https://github.com/haizlin/fe-interview/issues/2114)
+- [都说前后端分离好，那重构前后端分离的目的是什么？](https://github.com/haizlin/fe-interview/issues/2619)
+- [你有写过软件概要设计文档吗？都包括哪些内容？](https://github.com/haizlin/fe-interview/issues/2615)
+- [如果给你配台新电脑，你需要什么样的配置？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2611)
+- [说下JWT的认证过程](https://github.com/haizlin/fe-interview/issues/2607)
+- [说下你学习前端的历程吧](https://github.com/haizlin/fe-interview/issues/2603)
+- [你喜欢在大公司工作还是小公司（创业公司）工作？为什么？](https://github.com/haizlin/fe-interview/issues/2599)
+- [5G即将到来，你觉得对前端将面临什么挑战和机遇呢？](https://github.com/haizlin/fe-interview/issues/2593)
 
 
 ## 全部
