@@ -19,7 +19,7 @@
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 500+](category/html.md) | [CSS 500+](category/css.md) | [JS 500+](category/css.md) | [软技能 500+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 500+](category/html.md) | [CSS 500+](category/css.md) | [JS 500+](category/js.md) | [软技能 500+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
@@ -57,7 +57,7 @@
 :point_right:  [点击查看 “卓越-九周年” 视频](https://v.youku.com/v_show/id_XNDI2NDUyOTY2MA==.html?spm=a2h3j.8428770.3416059.1)  
 
 <p align="center">
-    <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_public.jpg" width="200px">
+    <img src="https://github.com/haizlin/fe-interview/raw/master/resource/images/qrcode_liang.jpg" width="200px">
 </p>
 
 ### :smiley: 寄语
