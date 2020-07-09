@@ -80,7 +80,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - [CSDN](https://blog.csdn.net/u013778905) | [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [zhihu](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [jianshu](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault](https://segmentfault.com/blog/frontend-interview) | [weibo](https://weibo.com/haizlin) | [- [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
 ](https://toutiao.io/subjects/359261) | [kancloud](https://www.kancloud.cn/aya001001/fe-interview) | - [qianduanjianjie] wechat（Scan QR code，Daily Synchronized Updates）
 
-### :family: Events
+### :fire: Events
 * [See more](./resource/md/event.md)
 
 ### :family: Friendship Links
