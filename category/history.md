@@ -2,6 +2,11 @@
 
 
 
+- 第452天 (2020.07.11)  
+    - [html] [对于rtl网站的适配有哪些方案？](https://github.com/haizlin/fe-interview/issues/2628)
+    - [css] [你有用到以pt为单位过吗？pt单位有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/2629)
+    - [js] [如何使用js实现撤消和重做并写出伪代码](https://github.com/haizlin/fe-interview/issues/2630)
+    - [软技能] [位、字节、字符有什么区别？如何换算？](https://github.com/haizlin/fe-interview/issues/2631)
 - 第451天 (2020.07.10)  
     - [html] [404页面有什么作用？](https://github.com/haizlin/fe-interview/issues/2620)
     - [css] [如何设置字体的左右间距？](https://github.com/haizlin/fe-interview/issues/2621)
