@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.14) —— 第455天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用H5唤起原生地图APP（百度、高德、腾讯地图等）](https://github.com/haizlin/fe-interview/issues/2640)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css variable的使用方法和好处有哪些？](https://github.com/haizlin/fe-interview/issues/2641)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [前端如何保持与服务器时间同步（如何解决客户端与服务端时间不对称的问题）？](https://github.com/haizlin/fe-interview/issues/2642)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [代码里为什么换行要使用`\r\n`？](https://github.com/haizlin/fe-interview/issues/2643)  
+## :clock430: 今天的知识点   (2020.07.15) —— 第456天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个网页点击的特效](https://github.com/haizlin/fe-interview/issues/2644)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [有使用过css的images-set吗？它能解决什么问题？](https://github.com/haizlin/fe-interview/issues/2645)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [当用户打开一个网页时，想一直停留在当前打开的页面，如何禁止页面前进和后退](https://github.com/haizlin/fe-interview/issues/2646)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对代码可移植性的理解](https://github.com/haizlin/fe-interview/issues/2647)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第454天 (2020.07.13)  
-    	 :one: [html] [p标签里面嵌套img标签会出现向上高3像素是什么原因？如何处理？](https://github.com/haizlin/fe-interview/issues/2636)  
-	 :two: [css] [请说说css的三大特性是什么？](https://github.com/haizlin/fe-interview/issues/2637)  
-	 :three: [js] [客户端与服务端时间为什么会不对称？不对称将会出现哪些问题？](https://github.com/haizlin/fe-interview/issues/2638)  
-	 :four: [软技能] [如何让https和http切换时能共用cookie和localStorage？](https://github.com/haizlin/fe-interview/issues/2639)  
+- 第455天 (2020.07.14)  
+    	 :one: [html] [如何使用H5唤起原生地图APP（百度、高德、腾讯地图等）](https://github.com/haizlin/fe-interview/issues/2640)  
+	 :two: [css] [css variable的使用方法和好处有哪些？](https://github.com/haizlin/fe-interview/issues/2641)  
+	 :three: [js] [前端如何保持与服务器时间同步（如何解决客户端与服务端时间不对称的问题）？](https://github.com/haizlin/fe-interview/issues/2642)  
+	 :four: [软技能] [代码里为什么换行要使用`\r\n`？](https://github.com/haizlin/fe-interview/issues/2643)  
  
 	
 - **[查看全部](category/history.md)**
@@ -79,7 +79,7 @@
 ### :palm_tree: 同步更新
 - [前端向朔-CSDN](https://blog.csdn.net/u013778905) | [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [知乎专栏](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [简书专栏](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault专栏](https://segmentfault.com/blog/frontend-interview) | [新浪微博](https://weibo.com/haizlin) | [开发者头条专栏](https://toutiao.io/subjects/359261) | [看云](https://www.kancloud.cn/aya001001/fe-interview) | 前端剑解(扫码关注)
 
-### :family: 重大事件
+### :fire: 重大事件
 * [查看更多](./resource/md/event.md)
 
 ### :family: 友情链接
