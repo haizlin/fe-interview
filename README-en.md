@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.17) —— 458 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如果一个标签元素同时出现两个class属性，两个class都会生效吗？为什么？](https://github.com/haizlin/fe-interview/issues/2655)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [@media print可以用来控制web打印样式吗？](https://github.com/haizlin/fe-interview/issues/2656)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你能用js模拟出右键的复制和粘贴功能吗？如果可以说下是如何操作的？如果不可以请说明下理由](https://github.com/haizlin/fe-interview/issues/2657)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你是如何看待男程序员的？](https://github.com/haizlin/fe-interview/issues/2658)  
+## :clock430: Today's Knowledge Points (2020.07.18) —— 459 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5怎么禁用长按复制的功能？](https://github.com/haizlin/fe-interview/issues/2659)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [1in等于多少mm？1mm等于多少px？](https://github.com/haizlin/fe-interview/issues/2660)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [async属性诞生的初衷是什么？](https://github.com/haizlin/fe-interview/issues/2661)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果同事编程能力比你低，你是如何与他合作的？反之呢？](https://github.com/haizlin/fe-interview/issues/2662)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 457 days (2020.07.16)  
-    	 :one: [html] [写一个鼠标跟随的特效](https://github.com/haizlin/fe-interview/issues/2650)  
-	 :two: [css] [page-break-before和page-break-after属性有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2651)  
-	 :three: [js] [js延迟加载的方式中，只有IE浏览器支持的是哪一种方式](https://github.com/haizlin/fe-interview/issues/2652)  
-	 :four: [skill] [说说你对时间戳的理解](https://github.com/haizlin/fe-interview/issues/2653)  
+- 458 days (2020.07.17)  
+    	 :one: [html] [如果一个标签元素同时出现两个class属性，两个class都会生效吗？为什么？](https://github.com/haizlin/fe-interview/issues/2655)  
+	 :two: [css] [@media print可以用来控制web打印样式吗？](https://github.com/haizlin/fe-interview/issues/2656)  
+	 :three: [js] [你能用js模拟出右键的复制和粘贴功能吗？如果可以说下是如何操作的？如果不可以请说明下理由](https://github.com/haizlin/fe-interview/issues/2657)  
+	 :four: [skill] [你是如何看待男程序员的？](https://github.com/haizlin/fe-interview/issues/2658)  
  
 	
 - **[All](category/history.md)**
