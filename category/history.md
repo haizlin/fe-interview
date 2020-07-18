@@ -2,6 +2,11 @@
 
 
 
+- 第460天 (2020.07.19)  
+    - [html] [HTML5的video在手机端如何实现进来页面时就自动播放？](https://github.com/haizlin/fe-interview/issues/2663)
+    - [css] [如何使两张图片叠加？](https://github.com/haizlin/fe-interview/issues/2664)
+    - [js] [解释下隐式全局变量和外部函数作用域](https://github.com/haizlin/fe-interview/issues/2665)
+    - [软技能] [你是如何管理前端配置文件的？](https://github.com/haizlin/fe-interview/issues/2666)
 - 第459天 (2020.07.18)  
     - [html] [H5怎么禁用长按复制的功能？](https://github.com/haizlin/fe-interview/issues/2659)
     - [css] [1in等于多少mm？1mm等于多少px？](https://github.com/haizlin/fe-interview/issues/2660)
