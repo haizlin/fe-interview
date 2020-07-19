@@ -2,6 +2,11 @@
 
 
 
+- 第461天 (2020.07.20)  
+    - [html] [举例说明HTML5出来后，有哪些HTML标签被弃用了？](https://github.com/haizlin/fe-interview/issues/2667)
+    - [css] [说说你对在web端图片清晰和模糊的理解](https://github.com/haizlin/fe-interview/issues/2668)
+    - [js] [sessionStrorage也可以使用onstorage事件吗?](https://github.com/haizlin/fe-interview/issues/2669)
+    - [软技能] [说说你对端口的理解，端口号的范围是多少呢？](https://github.com/haizlin/fe-interview/issues/2670)
 - 第460天 (2020.07.19)  
     - [html] [HTML5的video在手机端如何实现进来页面时就自动播放？](https://github.com/haizlin/fe-interview/issues/2663)
     - [css] [如何使两张图片叠加？](https://github.com/haizlin/fe-interview/issues/2664)

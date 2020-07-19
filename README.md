@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.19) —— 第460天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5的video在手机端如何实现进来页面时就自动播放？](https://github.com/haizlin/fe-interview/issues/2663)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使两张图片叠加？](https://github.com/haizlin/fe-interview/issues/2664)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下隐式全局变量和外部函数作用域](https://github.com/haizlin/fe-interview/issues/2665)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何管理前端配置文件的？](https://github.com/haizlin/fe-interview/issues/2666)  
+## :clock430: 今天的知识点   (2020.07.20) —— 第461天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [举例说明HTML5出来后，有哪些HTML标签被弃用了？](https://github.com/haizlin/fe-interview/issues/2667)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对在web端图片清晰和模糊的理解](https://github.com/haizlin/fe-interview/issues/2668)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [sessionStrorage也可以使用onstorage事件吗?](https://github.com/haizlin/fe-interview/issues/2669)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对端口的理解，端口号的范围是多少呢？](https://github.com/haizlin/fe-interview/issues/2670)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第459天 (2020.07.18)  
-    	 :one: [html] [H5怎么禁用长按复制的功能？](https://github.com/haizlin/fe-interview/issues/2659)  
-	 :two: [css] [1in等于多少mm？1mm等于多少px？](https://github.com/haizlin/fe-interview/issues/2660)  
-	 :three: [js] [async属性诞生的初衷是什么？](https://github.com/haizlin/fe-interview/issues/2661)  
-	 :four: [软技能] [如果同事编程能力比你低，你是如何与他合作的？反之呢？](https://github.com/haizlin/fe-interview/issues/2662)  
+- 第460天 (2020.07.19)  
+    	 :one: [html] [HTML5的video在手机端如何实现进来页面时就自动播放？](https://github.com/haizlin/fe-interview/issues/2663)  
+	 :two: [css] [如何使两张图片叠加？](https://github.com/haizlin/fe-interview/issues/2664)  
+	 :three: [js] [解释下隐式全局变量和外部函数作用域](https://github.com/haizlin/fe-interview/issues/2665)  
+	 :four: [软技能] [你是如何管理前端配置文件的？](https://github.com/haizlin/fe-interview/issues/2666)  
  
 	
 - **[查看全部](category/history.md)**

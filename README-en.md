@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.19) —— 460 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5的video在手机端如何实现进来页面时就自动播放？](https://github.com/haizlin/fe-interview/issues/2663)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使两张图片叠加？](https://github.com/haizlin/fe-interview/issues/2664)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下隐式全局变量和外部函数作用域](https://github.com/haizlin/fe-interview/issues/2665)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你是如何管理前端配置文件的？](https://github.com/haizlin/fe-interview/issues/2666)  
+## :clock430: Today's Knowledge Points (2020.07.20) —— 461 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [举例说明HTML5出来后，有哪些HTML标签被弃用了？](https://github.com/haizlin/fe-interview/issues/2667)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对在web端图片清晰和模糊的理解](https://github.com/haizlin/fe-interview/issues/2668)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [sessionStrorage也可以使用onstorage事件吗?](https://github.com/haizlin/fe-interview/issues/2669)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对端口的理解，端口号的范围是多少呢？](https://github.com/haizlin/fe-interview/issues/2670)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 459 days (2020.07.18)  
-    	 :one: [html] [H5怎么禁用长按复制的功能？](https://github.com/haizlin/fe-interview/issues/2659)  
-	 :two: [css] [1in等于多少mm？1mm等于多少px？](https://github.com/haizlin/fe-interview/issues/2660)  
-	 :three: [js] [async属性诞生的初衷是什么？](https://github.com/haizlin/fe-interview/issues/2661)  
-	 :four: [skill] [如果同事编程能力比你低，你是如何与他合作的？反之呢？](https://github.com/haizlin/fe-interview/issues/2662)  
+- 460 days (2020.07.19)  
+    	 :one: [html] [HTML5的video在手机端如何实现进来页面时就自动播放？](https://github.com/haizlin/fe-interview/issues/2663)  
+	 :two: [css] [如何使两张图片叠加？](https://github.com/haizlin/fe-interview/issues/2664)  
+	 :three: [js] [解释下隐式全局变量和外部函数作用域](https://github.com/haizlin/fe-interview/issues/2665)  
+	 :four: [skill] [你是如何管理前端配置文件的？](https://github.com/haizlin/fe-interview/issues/2666)  
  
 	
 - **[All](category/history.md)**
