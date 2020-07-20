@@ -2,6 +2,11 @@
 
 
 
+- 第462天 (2020.07.21)  
+    - [html] [HTML5如何监听video的全屏和退出全屏？](https://github.com/haizlin/fe-interview/issues/2671)
+    - [css] [如何设置字体之间的间隙？](https://github.com/haizlin/fe-interview/issues/2672)
+    - [js] [使用window.open(url)下载文件时为什么会被浏览器拦截？如何解决？](https://github.com/haizlin/fe-interview/issues/2673)
+    - [软技能] [你喜欢用svn还是git？为什么？](https://github.com/haizlin/fe-interview/issues/2674)
 - 第461天 (2020.07.20)  
     - [html] [举例说明HTML5出来后，有哪些HTML标签被弃用了？](https://github.com/haizlin/fe-interview/issues/2667)
     - [css] [说说你对在web端图片清晰和模糊的理解](https://github.com/haizlin/fe-interview/issues/2668)
