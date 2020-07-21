@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.21) —— 462 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5如何监听video的全屏和退出全屏？](https://github.com/haizlin/fe-interview/issues/2671)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何设置字体之间的间隙？](https://github.com/haizlin/fe-interview/issues/2672)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用window.open(url)下载文件时为什么会被浏览器拦截？如何解决？](https://github.com/haizlin/fe-interview/issues/2673)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你喜欢用svn还是git？为什么？](https://github.com/haizlin/fe-interview/issues/2674)  
+## :clock430: Today's Knowledge Points (2020.07.22) —— 463 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，当页面滚动一定高时，导航始终固定在顶部，反之恢复原位](https://github.com/haizlin/fe-interview/issues/2675)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用css实现两端对齐text-align: justify有什么不足之处？](https://github.com/haizlin/fe-interview/issues/2676)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [前端下载文件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2677)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [前端代码你是如何做抽象的？](https://github.com/haizlin/fe-interview/issues/2678)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 461 days (2020.07.20)  
-    	 :one: [html] [举例说明HTML5出来后，有哪些HTML标签被弃用了？](https://github.com/haizlin/fe-interview/issues/2667)  
-	 :two: [css] [说说你对在web端图片清晰和模糊的理解](https://github.com/haizlin/fe-interview/issues/2668)  
-	 :three: [js] [sessionStrorage也可以使用onstorage事件吗?](https://github.com/haizlin/fe-interview/issues/2669)  
-	 :four: [skill] [说说你对端口的理解，端口号的范围是多少呢？](https://github.com/haizlin/fe-interview/issues/2670)  
+- 462 days (2020.07.21)  
+    	 :one: [html] [HTML5如何监听video的全屏和退出全屏？](https://github.com/haizlin/fe-interview/issues/2671)  
+	 :two: [css] [如何设置字体之间的间隙？](https://github.com/haizlin/fe-interview/issues/2672)  
+	 :three: [js] [使用window.open(url)下载文件时为什么会被浏览器拦截？如何解决？](https://github.com/haizlin/fe-interview/issues/2673)  
+	 :four: [skill] [你喜欢用svn还是git？为什么？](https://github.com/haizlin/fe-interview/issues/2674)  
  
 	
 - **[All](category/history.md)**
