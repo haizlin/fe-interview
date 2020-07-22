@@ -15,7 +15,7 @@
     Think hard - do more - summarize - insist
 </p>
 
-> :star: This is a free and open source project involving the front-end knowledge database * * the most (2500 +), the most complete * *, and the largest number of participants!
+> :star: This is a free and open source project involving the front-end knowledge database * * the most (3000 +), the most complete * *, and the largest number of participants!
 
 :hash: [I'm going to set a question](http://www.h-camel.com/contribution.html) 
 
@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.22) —— 463 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，当页面滚动一定高时，导航始终固定在顶部，反之恢复原位](https://github.com/haizlin/fe-interview/issues/2675)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用css实现两端对齐text-align: justify有什么不足之处？](https://github.com/haizlin/fe-interview/issues/2676)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [前端下载文件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2677)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [前端代码你是如何做抽象的？](https://github.com/haizlin/fe-interview/issues/2678)  
+## :clock430: Today's Knowledge Points (2020.07.23) —— 464 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说base标签有什么作用？](https://github.com/haizlin/fe-interview/issues/2679)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用text-align: justify怎么让单行也起作用？](https://github.com/haizlin/fe-interview/issues/2680)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js动态创建一个有不少于10万个节点的树](https://github.com/haizlin/fe-interview/issues/2681)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你知道什么是伪静态吗？它有什么作用？如何实现伪静态呢？](https://github.com/haizlin/fe-interview/issues/2682)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 462 days (2020.07.21)  
-    	 :one: [html] [HTML5如何监听video的全屏和退出全屏？](https://github.com/haizlin/fe-interview/issues/2671)  
-	 :two: [css] [如何设置字体之间的间隙？](https://github.com/haizlin/fe-interview/issues/2672)  
-	 :three: [js] [使用window.open(url)下载文件时为什么会被浏览器拦截？如何解决？](https://github.com/haizlin/fe-interview/issues/2673)  
-	 :four: [skill] [你喜欢用svn还是git？为什么？](https://github.com/haizlin/fe-interview/issues/2674)  
+- 463 days (2020.07.22)  
+    	 :one: [html] [写一个布局，当页面滚动一定高时，导航始终固定在顶部，反之恢复原位](https://github.com/haizlin/fe-interview/issues/2675)  
+	 :two: [css] [用css实现两端对齐text-align: justify有什么不足之处？](https://github.com/haizlin/fe-interview/issues/2676)  
+	 :three: [js] [前端下载文件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2677)  
+	 :four: [skill] [前端代码你是如何做抽象的？](https://github.com/haizlin/fe-interview/issues/2678)  
  
 	
 - **[All](category/history.md)**
