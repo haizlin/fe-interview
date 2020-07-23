@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.23) —— 第464天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说base标签有什么作用？](https://github.com/haizlin/fe-interview/issues/2679)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用text-align: justify怎么让单行也起作用？](https://github.com/haizlin/fe-interview/issues/2680)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js动态创建一个有不少于10万个节点的树](https://github.com/haizlin/fe-interview/issues/2681)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你知道什么是伪静态吗？它有什么作用？如何实现伪静态呢？](https://github.com/haizlin/fe-interview/issues/2682)  
+## :clock430: 今天的知识点   (2020.07.24) —— 第465天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html标签中的lang属性有什么作用？](https://github.com/haizlin/fe-interview/issues/2683)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何实现css隔离？](https://github.com/haizlin/fe-interview/issues/2684)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [为什么jsonp不支持post的方法？](https://github.com/haizlin/fe-interview/issues/2685)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有自己做过外包吗？你对外包有什么看法？](https://github.com/haizlin/fe-interview/issues/2686)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第463天 (2020.07.22)  
-    	 :one: [html] [写一个布局，当页面滚动一定高时，导航始终固定在顶部，反之恢复原位](https://github.com/haizlin/fe-interview/issues/2675)  
-	 :two: [css] [用css实现两端对齐text-align: justify有什么不足之处？](https://github.com/haizlin/fe-interview/issues/2676)  
-	 :three: [js] [前端下载文件的方式有哪些？](https://github.com/haizlin/fe-interview/issues/2677)  
-	 :four: [软技能] [前端代码你是如何做抽象的？](https://github.com/haizlin/fe-interview/issues/2678)  
+- 第464天 (2020.07.23)  
+    	 :one: [html] [说说base标签有什么作用？](https://github.com/haizlin/fe-interview/issues/2679)  
+	 :two: [css] [使用text-align: justify怎么让单行也起作用？](https://github.com/haizlin/fe-interview/issues/2680)  
+	 :three: [js] [使用js动态创建一个有不少于10万个节点的树](https://github.com/haizlin/fe-interview/issues/2681)  
+	 :four: [软技能] [你知道什么是伪静态吗？它有什么作用？如何实现伪静态呢？](https://github.com/haizlin/fe-interview/issues/2682)  
  
 	
 - **[查看全部](category/history.md)**
