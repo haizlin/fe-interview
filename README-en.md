@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.24) —— 465 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html标签中的lang属性有什么作用？](https://github.com/haizlin/fe-interview/issues/2683)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何实现css隔离？](https://github.com/haizlin/fe-interview/issues/2684)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [为什么jsonp不支持post的方法？](https://github.com/haizlin/fe-interview/issues/2685)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有自己做过外包吗？你对外包有什么看法？](https://github.com/haizlin/fe-interview/issues/2686)  
+## :clock430: Today's Knowledge Points (2020.07.25) —— 466 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说如果meta标签没有写charset属性，将会如何？](https://github.com/haizlin/fe-interview/issues/2687)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [举例说明photoshop中的设置与css哪些属性是对应的呢？](https://github.com/haizlin/fe-interview/issues/2688)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个图片压缩的小工具](https://github.com/haizlin/fe-interview/issues/2689)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [当人手忙不过来时，你还会做代码测试吗？](https://github.com/haizlin/fe-interview/issues/2690)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 464 days (2020.07.23)  
-    	 :one: [html] [说说base标签有什么作用？](https://github.com/haizlin/fe-interview/issues/2679)  
-	 :two: [css] [使用text-align: justify怎么让单行也起作用？](https://github.com/haizlin/fe-interview/issues/2680)  
-	 :three: [js] [使用js动态创建一个有不少于10万个节点的树](https://github.com/haizlin/fe-interview/issues/2681)  
-	 :four: [skill] [你知道什么是伪静态吗？它有什么作用？如何实现伪静态呢？](https://github.com/haizlin/fe-interview/issues/2682)  
+- 465 days (2020.07.24)  
+    	 :one: [html] [html标签中的lang属性有什么作用？](https://github.com/haizlin/fe-interview/issues/2683)  
+	 :two: [css] [如何实现css隔离？](https://github.com/haizlin/fe-interview/issues/2684)  
+	 :three: [js] [为什么jsonp不支持post的方法？](https://github.com/haizlin/fe-interview/issues/2685)  
+	 :four: [skill] [你有自己做过外包吗？你对外包有什么看法？](https://github.com/haizlin/fe-interview/issues/2686)  
  
 	
 - **[All](category/history.md)**

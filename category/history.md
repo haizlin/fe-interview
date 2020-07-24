@@ -2,6 +2,11 @@
 
 
 
+- 第466天 (2020.07.25)  
+    - [html] [说说如果meta标签没有写charset属性，将会如何？](https://github.com/haizlin/fe-interview/issues/2687)
+    - [css] [举例说明photoshop中的设置与css哪些属性是对应的呢？](https://github.com/haizlin/fe-interview/issues/2688)
+    - [js] [使用js写一个图片压缩的小工具](https://github.com/haizlin/fe-interview/issues/2689)
+    - [软技能] [当人手忙不过来时，你还会做代码测试吗？](https://github.com/haizlin/fe-interview/issues/2690)
 - 第465天 (2020.07.24)  
     - [html] [html标签中的lang属性有什么作用？](https://github.com/haizlin/fe-interview/issues/2683)
     - [css] [如何实现css隔离？](https://github.com/haizlin/fe-interview/issues/2684)
