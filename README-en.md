@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.25) —— 466 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说如果meta标签没有写charset属性，将会如何？](https://github.com/haizlin/fe-interview/issues/2687)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [举例说明photoshop中的设置与css哪些属性是对应的呢？](https://github.com/haizlin/fe-interview/issues/2688)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个图片压缩的小工具](https://github.com/haizlin/fe-interview/issues/2689)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [当人手忙不过来时，你还会做代码测试吗？](https://github.com/haizlin/fe-interview/issues/2690)  
+## :clock430: Today's Knowledge Points (2020.07.26) —— 467 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个左中右的满屏布局，左右固定220px,中间自适应并且要优先加载](https://github.com/haizlin/fe-interview/issues/2692)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css在页面上画一个正方形，边长为页面宽度的一半](https://github.com/haizlin/fe-interview/issues/2693)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用try catch哪些异常是捕获不到的？哪些能捕获到？捕获不到的要怎样才能捕获到？](https://github.com/haizlin/fe-interview/issues/2694)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [当需求不饱和时，多余的时间你会怎么利用？](https://github.com/haizlin/fe-interview/issues/2695)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 465 days (2020.07.24)  
-    	 :one: [html] [html标签中的lang属性有什么作用？](https://github.com/haizlin/fe-interview/issues/2683)  
-	 :two: [css] [如何实现css隔离？](https://github.com/haizlin/fe-interview/issues/2684)  
-	 :three: [js] [为什么jsonp不支持post的方法？](https://github.com/haizlin/fe-interview/issues/2685)  
-	 :four: [skill] [你有自己做过外包吗？你对外包有什么看法？](https://github.com/haizlin/fe-interview/issues/2686)  
+- 466 days (2020.07.25)  
+    	 :one: [html] [说说如果meta标签没有写charset属性，将会如何？](https://github.com/haizlin/fe-interview/issues/2687)  
+	 :two: [css] [举例说明photoshop中的设置与css哪些属性是对应的呢？](https://github.com/haizlin/fe-interview/issues/2688)  
+	 :three: [js] [使用js写一个图片压缩的小工具](https://github.com/haizlin/fe-interview/issues/2689)  
+	 :four: [skill] [当人手忙不过来时，你还会做代码测试吗？](https://github.com/haizlin/fe-interview/issues/2690)  
  
 	
 - **[All](category/history.md)**
