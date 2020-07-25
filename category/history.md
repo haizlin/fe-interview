@@ -2,6 +2,11 @@
 
 
 
+- 第467天 (2020.07.26)  
+    - [html] [写一个左中右的满屏布局，左右固定220px,中间自适应并且要优先加载](https://github.com/haizlin/fe-interview/issues/2692)
+    - [css] [css在页面上画一个正方形，边长为页面宽度的一半](https://github.com/haizlin/fe-interview/issues/2693)
+    - [js] [使用try catch哪些异常是捕获不到的？哪些能捕获到？捕获不到的要怎样才能捕获到？](https://github.com/haizlin/fe-interview/issues/2694)
+    - [软技能] [当需求不饱和时，多余的时间你会怎么利用？](https://github.com/haizlin/fe-interview/issues/2695)
 - 第466天 (2020.07.25)  
     - [html] [说说如果meta标签没有写charset属性，将会如何？](https://github.com/haizlin/fe-interview/issues/2687)
     - [css] [举例说明photoshop中的设置与css哪些属性是对应的呢？](https://github.com/haizlin/fe-interview/issues/2688)
