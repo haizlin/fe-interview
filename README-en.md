@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.26) —— 467 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个左中右的满屏布局，左右固定220px,中间自适应并且要优先加载](https://github.com/haizlin/fe-interview/issues/2692)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css在页面上画一个正方形，边长为页面宽度的一半](https://github.com/haizlin/fe-interview/issues/2693)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用try catch哪些异常是捕获不到的？哪些能捕获到？捕获不到的要怎样才能捕获到？](https://github.com/haizlin/fe-interview/issues/2694)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [当需求不饱和时，多余的时间你会怎么利用？](https://github.com/haizlin/fe-interview/issues/2695)  
+## :clock430: Today's Knowledge Points (2020.07.27) —— 468 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何关闭HTML页面在IOS下的键盘首字母自动大写？](https://github.com/haizlin/fe-interview/issues/2696)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在css中哪个属性会影响DOM读取文档流的顺序？](https://github.com/haizlin/fe-interview/issues/2697)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用canvas画一个小球自由落体的效果](https://github.com/haizlin/fe-interview/issues/2698)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [一般与git服务器连接有http/ssh等，你用的是哪种方式？为什么？](https://github.com/haizlin/fe-interview/issues/2699)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 466 days (2020.07.25)  
-    	 :one: [html] [说说如果meta标签没有写charset属性，将会如何？](https://github.com/haizlin/fe-interview/issues/2687)  
-	 :two: [css] [举例说明photoshop中的设置与css哪些属性是对应的呢？](https://github.com/haizlin/fe-interview/issues/2688)  
-	 :three: [js] [使用js写一个图片压缩的小工具](https://github.com/haizlin/fe-interview/issues/2689)  
-	 :four: [skill] [当人手忙不过来时，你还会做代码测试吗？](https://github.com/haizlin/fe-interview/issues/2690)  
+- 467 days (2020.07.26)  
+    	 :one: [html] [写一个左中右的满屏布局，左右固定220px,中间自适应并且要优先加载](https://github.com/haizlin/fe-interview/issues/2692)  
+	 :two: [css] [css在页面上画一个正方形，边长为页面宽度的一半](https://github.com/haizlin/fe-interview/issues/2693)  
+	 :three: [js] [使用try catch哪些异常是捕获不到的？哪些能捕获到？捕获不到的要怎样才能捕获到？](https://github.com/haizlin/fe-interview/issues/2694)  
+	 :four: [skill] [当需求不饱和时，多余的时间你会怎么利用？](https://github.com/haizlin/fe-interview/issues/2695)  
  
 	
 - **[All](category/history.md)**

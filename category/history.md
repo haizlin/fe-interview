@@ -2,6 +2,11 @@
 
 
 
+- 第468天 (2020.07.27)  
+    - [html] [如何关闭HTML页面在IOS下的键盘首字母自动大写？](https://github.com/haizlin/fe-interview/issues/2696)
+    - [css] [在css中哪个属性会影响DOM读取文档流的顺序？](https://github.com/haizlin/fe-interview/issues/2697)
+    - [js] [使用canvas画一个小球自由落体的效果](https://github.com/haizlin/fe-interview/issues/2698)
+    - [软技能] [一般与git服务器连接有http/ssh等，你用的是哪种方式？为什么？](https://github.com/haizlin/fe-interview/issues/2699)
 - 第467天 (2020.07.26)  
     - [html] [写一个左中右的满屏布局，左右固定220px,中间自适应并且要优先加载](https://github.com/haizlin/fe-interview/issues/2692)
     - [css] [css在页面上画一个正方形，边长为页面宽度的一半](https://github.com/haizlin/fe-interview/issues/2693)
