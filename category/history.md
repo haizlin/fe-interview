@@ -2,6 +2,11 @@
 
 
 
+- 第469天 (2020.07.28)  
+    - [html] [做好的页面，你是如何获取更好的搜索引擎优化？](https://github.com/haizlin/fe-interview/issues/2700)
+    - [css] [不加css和id使得倒数三个li背景色为红色](https://github.com/haizlin/fe-interview/issues/2701)
+    - [js] [下文Promise的执行顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/2702)
+    - [软技能] [说说你所在公司的git或svn提交注释的规范有哪些？](https://github.com/haizlin/fe-interview/issues/2703)
 - 第468天 (2020.07.27)  
     - [html] [如何关闭HTML页面在IOS下的键盘首字母自动大写？](https://github.com/haizlin/fe-interview/issues/2696)
     - [css] [在css中哪个属性会影响DOM读取文档流的顺序？](https://github.com/haizlin/fe-interview/issues/2697)

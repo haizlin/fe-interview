@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.07.27) —— 468 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何关闭HTML页面在IOS下的键盘首字母自动大写？](https://github.com/haizlin/fe-interview/issues/2696)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在css中哪个属性会影响DOM读取文档流的顺序？](https://github.com/haizlin/fe-interview/issues/2697)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用canvas画一个小球自由落体的效果](https://github.com/haizlin/fe-interview/issues/2698)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [一般与git服务器连接有http/ssh等，你用的是哪种方式？为什么？](https://github.com/haizlin/fe-interview/issues/2699)  
+## :clock430: Today's Knowledge Points (2020.07.28) —— 469 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [做好的页面，你是如何获取更好的搜索引擎优化？](https://github.com/haizlin/fe-interview/issues/2700)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [不加css和id使得倒数三个li背景色为红色](https://github.com/haizlin/fe-interview/issues/2701)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [下文Promise的执行顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/2702)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你所在公司的git或svn提交注释的规范有哪些？](https://github.com/haizlin/fe-interview/issues/2703)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 467 days (2020.07.26)  
-    	 :one: [html] [写一个左中右的满屏布局，左右固定220px,中间自适应并且要优先加载](https://github.com/haizlin/fe-interview/issues/2692)  
-	 :two: [css] [css在页面上画一个正方形，边长为页面宽度的一半](https://github.com/haizlin/fe-interview/issues/2693)  
-	 :three: [js] [使用try catch哪些异常是捕获不到的？哪些能捕获到？捕获不到的要怎样才能捕获到？](https://github.com/haizlin/fe-interview/issues/2694)  
-	 :four: [skill] [当需求不饱和时，多余的时间你会怎么利用？](https://github.com/haizlin/fe-interview/issues/2695)  
+- 468 days (2020.07.27)  
+    	 :one: [html] [如何关闭HTML页面在IOS下的键盘首字母自动大写？](https://github.com/haizlin/fe-interview/issues/2696)  
+	 :two: [css] [在css中哪个属性会影响DOM读取文档流的顺序？](https://github.com/haizlin/fe-interview/issues/2697)  
+	 :three: [js] [使用canvas画一个小球自由落体的效果](https://github.com/haizlin/fe-interview/issues/2698)  
+	 :four: [skill] [一般与git服务器连接有http/ssh等，你用的是哪种方式？为什么？](https://github.com/haizlin/fe-interview/issues/2699)  
  
 	
 - **[All](category/history.md)**
