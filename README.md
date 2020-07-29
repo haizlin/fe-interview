@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.29) —— 第470天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [制作页面时，前端如何适应各种异形屏？](https://github.com/haizlin/fe-interview/issues/2704)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [z-index可以是负数吗？](https://github.com/haizlin/fe-interview/issues/2705)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法监听DOM宽高的变化](https://github.com/haizlin/fe-interview/issues/2706)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [markdown文件如何实现页面内跳转？](https://github.com/haizlin/fe-interview/issues/2707)  
+## :clock430: 今天的知识点   (2020.07.30) —— 第471天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML为什么要语义化？语义化有什么好处？](https://github.com/haizlin/fe-interview/issues/2708)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下z-index最大值和最小值可以设置为多少呢？](https://github.com/haizlin/fe-interview/issues/2709)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说MutationObserver的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2710)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [全角字符和半角字符有什么区别？](https://github.com/haizlin/fe-interview/issues/2711)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第469天 (2020.07.28)  
-    	 :one: [html] [做好的页面，你是如何获取更好的搜索引擎优化？](https://github.com/haizlin/fe-interview/issues/2700)  
-	 :two: [css] [不加class和id使得倒数三个li背景色为红色](https://github.com/haizlin/fe-interview/issues/2701)  
-	 :three: [js] [下文Promise的执行顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/2702)  
-	 :four: [软技能] [说说你所在公司的git或svn提交注释的规范有哪些？](https://github.com/haizlin/fe-interview/issues/2703)  
+- 第470天 (2020.07.29)  
+    	 :one: [html] [制作页面时，前端如何适应各种异形屏？](https://github.com/haizlin/fe-interview/issues/2704)  
+	 :two: [css] [z-index可以是负数吗？](https://github.com/haizlin/fe-interview/issues/2705)  
+	 :three: [js] [写一个方法监听DOM宽高的变化](https://github.com/haizlin/fe-interview/issues/2706)  
+	 :four: [软技能] [markdown文件如何实现页面内跳转？](https://github.com/haizlin/fe-interview/issues/2707)  
  
 	
 - **[查看全部](category/history.md)**

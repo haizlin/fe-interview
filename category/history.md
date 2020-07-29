@@ -2,6 +2,11 @@
 
 
 
+- 第471天 (2020.07.30)  
+    - [html] [HTML为什么要语义化？语义化有什么好处？](https://github.com/haizlin/fe-interview/issues/2708)
+    - [css] [解释下z-index最大值和最小值可以设置为多少呢？](https://github.com/haizlin/fe-interview/issues/2709)
+    - [js] [说说MutationObserver的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2710)
+    - [软技能] [全角字符和半角字符有什么区别？](https://github.com/haizlin/fe-interview/issues/2711)
 - 第470天 (2020.07.29)  
     - [html] [制作页面时，前端如何适应各种异形屏？](https://github.com/haizlin/fe-interview/issues/2704)
     - [css] [z-index可以是负数吗？](https://github.com/haizlin/fe-interview/issues/2705)
