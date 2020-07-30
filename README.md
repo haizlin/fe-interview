@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.30) —— 第471天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML为什么要语义化？语义化有什么好处？](https://github.com/haizlin/fe-interview/issues/2708)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下z-index最大值和最小值可以设置为多少呢？](https://github.com/haizlin/fe-interview/issues/2709)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说MutationObserver的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2710)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [全角字符和半角字符有什么区别？](https://github.com/haizlin/fe-interview/issues/2711)  
+## :clock430: 今天的知识点   (2020.07.31) —— 第472天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [什么是空元素？常用的空元素有哪些？](https://github.com/haizlin/fe-interview/issues/2713)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css中的fill有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2714)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [getComputedStyle和element.style有什么不同？](https://github.com/haizlin/fe-interview/issues/2715)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何看待IT行业学历与经验间的关系？](https://github.com/haizlin/fe-interview/issues/2716)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第470天 (2020.07.29)  
-    	 :one: [html] [制作页面时，前端如何适应各种异形屏？](https://github.com/haizlin/fe-interview/issues/2704)  
-	 :two: [css] [z-index可以是负数吗？](https://github.com/haizlin/fe-interview/issues/2705)  
-	 :three: [js] [写一个方法监听DOM宽高的变化](https://github.com/haizlin/fe-interview/issues/2706)  
-	 :four: [软技能] [markdown文件如何实现页面内跳转？](https://github.com/haizlin/fe-interview/issues/2707)  
+- 第471天 (2020.07.30)  
+    	 :one: [html] [HTML为什么要语义化？语义化有什么好处？](https://github.com/haizlin/fe-interview/issues/2708)  
+	 :two: [css] [解释下z-index最大值和最小值可以设置为多少呢？](https://github.com/haizlin/fe-interview/issues/2709)  
+	 :three: [js] [说说MutationObserver的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2710)  
+	 :four: [软技能] [全角字符和半角字符有什么区别？](https://github.com/haizlin/fe-interview/issues/2711)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第472天 (2020.07.31)  
+    - [html] [什么是空元素？常用的空元素有哪些？](https://github.com/haizlin/fe-interview/issues/2713)
+    - [css] [css中的fill有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2714)
+    - [js] [getComputedStyle和element.style有什么不同？](https://github.com/haizlin/fe-interview/issues/2715)
+    - [软技能] [你是如何看待IT行业学历与经验间的关系？](https://github.com/haizlin/fe-interview/issues/2716)
 - 第471天 (2020.07.30)  
     - [html] [HTML为什么要语义化？语义化有什么好处？](https://github.com/haizlin/fe-interview/issues/2708)
     - [css] [解释下z-index最大值和最小值可以设置为多少呢？](https://github.com/haizlin/fe-interview/issues/2709)
