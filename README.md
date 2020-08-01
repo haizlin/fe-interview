@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.07.31) —— 第472天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [什么是空元素？常用的空元素有哪些？](https://github.com/haizlin/fe-interview/issues/2713)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css中的fill有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2714)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [getComputedStyle和element.style有什么不同？](https://github.com/haizlin/fe-interview/issues/2715)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何看待IT行业学历与经验间的关系？](https://github.com/haizlin/fe-interview/issues/2716)  
+## :clock430: 今天的知识点   (2020.08.02) —— 第474天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5的Web Storage带来什么好处？](https://github.com/haizlin/fe-interview/issues/2721)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [举例说明pointer-events有什么实际用途？](https://github.com/haizlin/fe-interview/issues/2722)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [动态加载的li如何绑定事件？](https://github.com/haizlin/fe-interview/issues/2723)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [前端的错误有哪些分类？如果捕获这些错误？](https://github.com/haizlin/fe-interview/issues/2724)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第471天 (2020.07.30)  
-    	 :one: [html] [HTML为什么要语义化？语义化有什么好处？](https://github.com/haizlin/fe-interview/issues/2708)  
-	 :two: [css] [解释下z-index最大值和最小值可以设置为多少呢？](https://github.com/haizlin/fe-interview/issues/2709)  
-	 :three: [js] [说说MutationObserver的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2710)  
-	 :four: [软技能] [全角字符和半角字符有什么区别？](https://github.com/haizlin/fe-interview/issues/2711)  
+- 第473天 (2020.08.01)  
+    	 :one: [html] [把H5看成一个开放的平台，那构建它的模块有哪些？](https://github.com/haizlin/fe-interview/issues/2717)  
+	 :two: [css] [css穿透属性有哪些？](https://github.com/haizlin/fe-interview/issues/2718)  
+	 :three: [js] [使用js写一个方法生成0000-9999一万个数字（4位数）](https://github.com/haizlin/fe-interview/issues/2719)  
+	 :four: [软技能] [你是专科学历，你将如何提升你的竞争力？](https://github.com/haizlin/fe-interview/issues/2720)  
  
 	
 - **[查看全部](category/history.md)**
