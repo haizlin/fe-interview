@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.02) —— 第474天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5的Web Storage带来什么好处？](https://github.com/haizlin/fe-interview/issues/2721)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [举例说明pointer-events有什么实际用途？](https://github.com/haizlin/fe-interview/issues/2722)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [动态加载的li如何绑定事件？](https://github.com/haizlin/fe-interview/issues/2723)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [前端的错误有哪些分类？如果捕获这些错误？](https://github.com/haizlin/fe-interview/issues/2724)  
+## :clock430: 今天的知识点   (2020.08.03) —— 第475天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [当页面中使用application/xhtml+xml会出现什么问题吗？](https://github.com/haizlin/fe-interview/issues/2725)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [rem的弊端是什么？](https://github.com/haizlin/fe-interview/issues/2726)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [ArrayBuffer和Blob有什么区别？](https://github.com/haizlin/fe-interview/issues/2727)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [对于2K、4K屏的逐渐流行，对于前端来说将会有哪些改变呢？](https://github.com/haizlin/fe-interview/issues/2728)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第473天 (2020.08.01)  
-    	 :one: [html] [把H5看成一个开放的平台，那构建它的模块有哪些？](https://github.com/haizlin/fe-interview/issues/2717)  
-	 :two: [css] [css穿透属性有哪些？](https://github.com/haizlin/fe-interview/issues/2718)  
-	 :three: [js] [使用js写一个方法生成0000-9999一万个数字（4位数）](https://github.com/haizlin/fe-interview/issues/2719)  
-	 :four: [软技能] [你是专科学历，你将如何提升你的竞争力？](https://github.com/haizlin/fe-interview/issues/2720)  
+- 第474天 (2020.08.02)  
+    	 :one: [html] [H5的Web Storage带来什么好处？](https://github.com/haizlin/fe-interview/issues/2721)  
+	 :two: [css] [举例说明pointer-events有什么实际用途？](https://github.com/haizlin/fe-interview/issues/2722)  
+	 :three: [js] [动态加载的li如何绑定事件？](https://github.com/haizlin/fe-interview/issues/2723)  
+	 :four: [软技能] [前端的错误有哪些分类？如果捕获这些错误？](https://github.com/haizlin/fe-interview/issues/2724)  
  
 	
 - **[查看全部](category/history.md)**

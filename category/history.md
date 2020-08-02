@@ -2,6 +2,11 @@
 
 
 
+- 第475天 (2020.08.03)  
+    - [html] [当页面中使用application/xhtml+xml会出现什么问题吗？](https://github.com/haizlin/fe-interview/issues/2725)
+    - [css] [rem的弊端是什么？](https://github.com/haizlin/fe-interview/issues/2726)
+    - [js] [ArrayBuffer和Blob有什么区别？](https://github.com/haizlin/fe-interview/issues/2727)
+    - [软技能] [对于2K、4K屏的逐渐流行，对于前端来说将会有哪些改变呢？](https://github.com/haizlin/fe-interview/issues/2728)
 - 第474天 (2020.08.02)  
     - [html] [H5的Web Storage带来什么好处？](https://github.com/haizlin/fe-interview/issues/2721)
     - [css] [举例说明pointer-events有什么实际用途？](https://github.com/haizlin/fe-interview/issues/2722)
