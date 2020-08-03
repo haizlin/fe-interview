@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.03) —— 475 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [当页面中使用application/xhtml+xml会出现什么问题吗？](https://github.com/haizlin/fe-interview/issues/2725)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [rem的弊端是什么？](https://github.com/haizlin/fe-interview/issues/2726)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [ArrayBuffer和Blob有什么区别？](https://github.com/haizlin/fe-interview/issues/2727)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [对于2K、4K屏的逐渐流行，对于前端来说将会有哪些改变呢？](https://github.com/haizlin/fe-interview/issues/2728)  
+## :clock430: Today's Knowledge Points (2020.08.04) —— 476 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [一般习惯把js写在`</body>`前，但有例外的情况吗？说说看](https://github.com/haizlin/fe-interview/issues/2729)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用flex实现一个自适应的九官格](https://github.com/haizlin/fe-interview/issues/2730)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Array(3)和Array(3, 4)的区别是什么？](https://github.com/haizlin/fe-interview/issues/2731)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你知道什么是硬编码吗？什么时候会用到硬编码呢？](https://github.com/haizlin/fe-interview/issues/2732)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 474 days (2020.08.02)  
-    	 :one: [html] [H5的Web Storage带来什么好处？](https://github.com/haizlin/fe-interview/issues/2721)  
-	 :two: [css] [举例说明pointer-events有什么实际用途？](https://github.com/haizlin/fe-interview/issues/2722)  
-	 :three: [js] [动态加载的li如何绑定事件？](https://github.com/haizlin/fe-interview/issues/2723)  
-	 :four: [skill] [前端的错误有哪些分类？如果捕获这些错误？](https://github.com/haizlin/fe-interview/issues/2724)  
+- 475 days (2020.08.03)  
+    	 :one: [html] [当页面中使用application/xhtml+xml会出现什么问题吗？](https://github.com/haizlin/fe-interview/issues/2725)  
+	 :two: [css] [rem的弊端是什么？](https://github.com/haizlin/fe-interview/issues/2726)  
+	 :three: [js] [ArrayBuffer和Blob有什么区别？](https://github.com/haizlin/fe-interview/issues/2727)  
+	 :four: [skill] [对于2K、4K屏的逐渐流行，对于前端来说将会有哪些改变呢？](https://github.com/haizlin/fe-interview/issues/2728)  
  
 	
 - **[All](category/history.md)**
