@@ -2,6 +2,11 @@
 
 
 
+- 第477天 (2020.08.05)  
+    - [html] [在H5中如何预加载音频？](https://github.com/haizlin/fe-interview/issues/2734)
+    - [css] [margin属性的负值  在inline-block元素下是如何表现的？](https://github.com/haizlin/fe-interview/issues/2735)
+    - [js] [使用js写一个批量上传文件的组件](https://github.com/haizlin/fe-interview/issues/2736)
+    - [软技能] [127.0.0.1和0.0.0.0的区别是什么？](https://github.com/haizlin/fe-interview/issues/2737)
 - 第476天 (2020.08.04)  
     - [html] [一般习惯把js写在`</body>`前，但有例外的情况吗？说说看](https://github.com/haizlin/fe-interview/issues/2729)
     - [css] [使用flex实现一个自适应的九官格](https://github.com/haizlin/fe-interview/issues/2730)

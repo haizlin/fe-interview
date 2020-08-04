@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.04) —— 476 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [一般习惯把js写在`</body>`前，但有例外的情况吗？说说看](https://github.com/haizlin/fe-interview/issues/2729)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用flex实现一个自适应的九官格](https://github.com/haizlin/fe-interview/issues/2730)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Array(3)和Array(3, 4)的区别是什么？](https://github.com/haizlin/fe-interview/issues/2731)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你知道什么是硬编码吗？什么时候会用到硬编码呢？](https://github.com/haizlin/fe-interview/issues/2732)  
+## :clock430: Today's Knowledge Points (2020.08.05) —— 477 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在H5中如何预加载音频？](https://github.com/haizlin/fe-interview/issues/2734)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [margin属性的负值  在inline-block元素下是如何表现的？](https://github.com/haizlin/fe-interview/issues/2735)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个批量上传文件的组件](https://github.com/haizlin/fe-interview/issues/2736)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [127.0.0.1和0.0.0.0的区别是什么？](https://github.com/haizlin/fe-interview/issues/2737)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 475 days (2020.08.03)  
-    	 :one: [html] [当页面中使用application/xhtml+xml会出现什么问题吗？](https://github.com/haizlin/fe-interview/issues/2725)  
-	 :two: [css] [rem的弊端是什么？](https://github.com/haizlin/fe-interview/issues/2726)  
-	 :three: [js] [ArrayBuffer和Blob有什么区别？](https://github.com/haizlin/fe-interview/issues/2727)  
-	 :four: [skill] [对于2K、4K屏的逐渐流行，对于前端来说将会有哪些改变呢？](https://github.com/haizlin/fe-interview/issues/2728)  
+- 476 days (2020.08.04)  
+    	 :one: [html] [一般习惯把js写在`</body>`前，但有例外的情况吗？说说看](https://github.com/haizlin/fe-interview/issues/2729)  
+	 :two: [css] [使用flex实现一个自适应的九官格](https://github.com/haizlin/fe-interview/issues/2730)  
+	 :three: [js] [Array(3)和Array(3, 4)的区别是什么？](https://github.com/haizlin/fe-interview/issues/2731)  
+	 :four: [skill] [你知道什么是硬编码吗？什么时候会用到硬编码呢？](https://github.com/haizlin/fe-interview/issues/2732)  
  
 	
 - **[All](category/history.md)**
