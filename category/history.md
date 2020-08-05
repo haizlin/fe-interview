@@ -2,6 +2,11 @@
 
 
 
+- 第478天 (2020.08.06)  
+    - [html] [请使用canvas画一个椭圆](https://github.com/haizlin/fe-interview/issues/2739)
+    - [css] [请举例说明width:fit-conten有什么使用场景](https://github.com/haizlin/fe-interview/issues/2740)
+    - [js] [随机生成一个指定长度的验证码](https://github.com/haizlin/fe-interview/issues/2741)
+    - [软技能] [我们会经常用到ping命令，你知道它的作用和原理吗？](https://github.com/haizlin/fe-interview/issues/2742)
 - 第477天 (2020.08.05)  
     - [html] [在H5中如何预加载音频？](https://github.com/haizlin/fe-interview/issues/2734)
     - [css] [margin属性的负值  在inline-block元素下是如何表现的？](https://github.com/haizlin/fe-interview/issues/2735)
