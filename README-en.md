@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.06) —— 478 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用canvas画一个椭圆](https://github.com/haizlin/fe-interview/issues/2739)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请举例说明width:fit-conten有什么使用场景](https://github.com/haizlin/fe-interview/issues/2740)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [随机生成一个指定长度的验证码](https://github.com/haizlin/fe-interview/issues/2741)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [我们会经常用到ping命令，你知道它的作用和原理吗？](https://github.com/haizlin/fe-interview/issues/2742)  
+## :clock430: Today's Knowledge Points (2020.08.07) —— 479 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用canvas画一个渐变的长方形](https://github.com/haizlin/fe-interview/issues/2743)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [当css中background或background-image的值为url()或url(#)时，会发生什么情况？为什么？如何解决？](https://github.com/haizlin/fe-interview/issues/2744)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [浏览器中window.length的结果是什么？为什么？](https://github.com/haizlin/fe-interview/issues/2745)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [解释下内网IP和公网IP是什么？](https://github.com/haizlin/fe-interview/issues/2746)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 477 days (2020.08.05)  
-    	 :one: [html] [在H5中如何预加载音频？](https://github.com/haizlin/fe-interview/issues/2734)  
-	 :two: [css] [margin属性的负值  在inline-block元素下是如何表现的？](https://github.com/haizlin/fe-interview/issues/2735)  
-	 :three: [js] [使用js写一个批量上传文件的组件](https://github.com/haizlin/fe-interview/issues/2736)  
-	 :four: [skill] [127.0.0.1和0.0.0.0的区别是什么？](https://github.com/haizlin/fe-interview/issues/2737)  
+- 478 days (2020.08.06)  
+    	 :one: [html] [请使用canvas画一个椭圆](https://github.com/haizlin/fe-interview/issues/2739)  
+	 :two: [css] [请举例说明width:fit-conten有什么使用场景](https://github.com/haizlin/fe-interview/issues/2740)  
+	 :three: [js] [随机生成一个指定长度的验证码](https://github.com/haizlin/fe-interview/issues/2741)  
+	 :four: [skill] [我们会经常用到ping命令，你知道它的作用和原理吗？](https://github.com/haizlin/fe-interview/issues/2742)  
  
 	
 - **[All](category/history.md)**

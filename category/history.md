@@ -2,6 +2,11 @@
 
 
 
+- 第479天 (2020.08.07)  
+    - [html] [请使用canvas画一个渐变的长方形](https://github.com/haizlin/fe-interview/issues/2743)
+    - [css] [当css中background或background-image的值为url()或url(#)时，会发生什么情况？为什么？如何解决？](https://github.com/haizlin/fe-interview/issues/2744)
+    - [js] [浏览器中window.length的结果是什么？为什么？](https://github.com/haizlin/fe-interview/issues/2745)
+    - [软技能] [解释下内网IP和公网IP是什么？](https://github.com/haizlin/fe-interview/issues/2746)
 - 第478天 (2020.08.06)  
     - [html] [请使用canvas画一个椭圆](https://github.com/haizlin/fe-interview/issues/2739)
     - [css] [请举例说明width:fit-conten有什么使用场景](https://github.com/haizlin/fe-interview/issues/2740)
