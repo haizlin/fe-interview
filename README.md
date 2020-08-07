@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.07) —— 第479天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用canvas画一个渐变的长方形](https://github.com/haizlin/fe-interview/issues/2743)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [当css中background或background-image的值为url()或url(#)时，会发生什么情况？为什么？如何解决？](https://github.com/haizlin/fe-interview/issues/2744)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [浏览器中window.length的结果是什么？为什么？](https://github.com/haizlin/fe-interview/issues/2745)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [解释下内网IP和公网IP是什么？](https://github.com/haizlin/fe-interview/issues/2746)  
+## :clock430: 今天的知识点   (2020.08.08) —— 第480天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5的哪些特性需要https支持呢？](https://github.com/haizlin/fe-interview/issues/2747)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请说说position:absolute和float有什么不同？](https://github.com/haizlin/fe-interview/issues/2748)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js实现变态跳台阶](https://github.com/haizlin/fe-interview/issues/2749)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何压缩图片的？用的什么工具？](https://github.com/haizlin/fe-interview/issues/2750)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第478天 (2020.08.06)  
-    	 :one: [html] [请使用canvas画一个椭圆](https://github.com/haizlin/fe-interview/issues/2739)  
-	 :two: [css] [请举例说明width:fit-conten有什么使用场景](https://github.com/haizlin/fe-interview/issues/2740)  
-	 :three: [js] [随机生成一个指定长度的验证码](https://github.com/haizlin/fe-interview/issues/2741)  
-	 :four: [软技能] [我们会经常用到ping命令，你知道它的作用和原理吗？](https://github.com/haizlin/fe-interview/issues/2742)  
+- 第479天 (2020.08.07)  
+    	 :one: [html] [请使用canvas画一个渐变的长方形](https://github.com/haizlin/fe-interview/issues/2743)  
+	 :two: [css] [当css中background或background-image的值为url()或url(#)时，会发生什么情况？为什么？如何解决？](https://github.com/haizlin/fe-interview/issues/2744)  
+	 :three: [js] [浏览器中window.length的结果是什么？为什么？](https://github.com/haizlin/fe-interview/issues/2745)  
+	 :four: [软技能] [解释下内网IP和公网IP是什么？](https://github.com/haizlin/fe-interview/issues/2746)  
  
 	
 - **[查看全部](category/history.md)**

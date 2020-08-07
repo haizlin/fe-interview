@@ -2,6 +2,11 @@
 
 
 
+- 第480天 (2020.08.08)  
+    - [html] [H5的哪些特性需要https支持呢？](https://github.com/haizlin/fe-interview/issues/2747)
+    - [css] [请说说position:absolute和float有什么不同？](https://github.com/haizlin/fe-interview/issues/2748)
+    - [js] [使用js实现变态跳台阶](https://github.com/haizlin/fe-interview/issues/2749)
+    - [软技能] [你是如何压缩图片的？用的什么工具？](https://github.com/haizlin/fe-interview/issues/2750)
 - 第479天 (2020.08.07)  
     - [html] [请使用canvas画一个渐变的长方形](https://github.com/haizlin/fe-interview/issues/2743)
     - [css] [当css中background或background-image的值为url()或url(#)时，会发生什么情况？为什么？如何解决？](https://github.com/haizlin/fe-interview/issues/2744)
