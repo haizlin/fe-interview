@@ -2,6 +2,16 @@
 
 
 
+- 第482天 (2020.08.10)  
+    - [html] [怎样写出优雅的HTML结构？](https://github.com/haizlin/fe-interview/issues/2756)
+    - [css] [什么情况下会出现css阻塞？](https://github.com/haizlin/fe-interview/issues/2757)
+    - [js] [cookie的值可以设置为中文吗？为什么？如果可以怎么设置？](https://github.com/haizlin/fe-interview/issues/2758)
+    - [软技能] [请解释下dpr和dpi](https://github.com/haizlin/fe-interview/issues/2759)
+- 第481天 (2020.08.09)  
+    - [html] [button标签的type默认值是什么呢？](https://github.com/haizlin/fe-interview/issues/2751)
+    - [css] [position的relative和absolute分别是相对谁进行定位的？](https://github.com/haizlin/fe-interview/issues/2752)
+    - [js] [你有用过哪些模板引擎？你觉得哪个好用？为什么？](https://github.com/haizlin/fe-interview/issues/2753)
+    - [软技能] [一般情况下，大图片需要压缩到什么程度呢？](https://github.com/haizlin/fe-interview/issues/2754)
 - 第480天 (2020.08.08)  
     - [html] [H5的哪些特性需要https支持呢？](https://github.com/haizlin/fe-interview/issues/2747)
     - [css] [请说说position:absolute和float有什么不同？](https://github.com/haizlin/fe-interview/issues/2748)
