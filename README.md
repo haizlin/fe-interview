@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.10) —— 第482天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [怎样写出优雅的HTML结构？](https://github.com/haizlin/fe-interview/issues/2756)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [什么情况下会出现css阻塞？](https://github.com/haizlin/fe-interview/issues/2757)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [cookie的值可以设置为中文吗？为什么？如果可以怎么设置？](https://github.com/haizlin/fe-interview/issues/2758)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请解释下dpr和dpi](https://github.com/haizlin/fe-interview/issues/2759)  
+## :clock430: 今天的知识点   (2020.08.11) —— 第483天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你认为一个好的布局应该是什么样的？有哪些需要注意的地方？](https://github.com/haizlin/fe-interview/issues/2761)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css加载会阻塞DOM树解析吗？](https://github.com/haizlin/fe-interview/issues/2762)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么情况下会出现js阻塞？](https://github.com/haizlin/fe-interview/issues/2763)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [前端是如何收集用户行为信息的？都有哪些方法呢？](https://github.com/haizlin/fe-interview/issues/2764)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第481天 (2020.08.09)  
-    	 :one: [html] [button标签的type默认值是什么呢？](https://github.com/haizlin/fe-interview/issues/2751)  
-	 :two: [css] [position的relative和absolute分别是相对谁进行定位的？](https://github.com/haizlin/fe-interview/issues/2752)  
-	 :three: [js] [你有用过哪些模板引擎？你觉得哪个好用？为什么？](https://github.com/haizlin/fe-interview/issues/2753)  
-	 :four: [软技能] [一般情况下，大图片需要压缩到什么程度呢？](https://github.com/haizlin/fe-interview/issues/2754)  
+- 第482天 (2020.08.10)  
+    	 :one: [html] [怎样写出优雅的HTML结构？](https://github.com/haizlin/fe-interview/issues/2756)  
+	 :two: [css] [什么情况下会出现css阻塞？](https://github.com/haizlin/fe-interview/issues/2757)  
+	 :three: [js] [cookie的值可以设置为中文吗？为什么？如果可以怎么设置？](https://github.com/haizlin/fe-interview/issues/2758)  
+	 :four: [软技能] [请解释下dpr和dpi](https://github.com/haizlin/fe-interview/issues/2759)  
  
 	
 - **[查看全部](category/history.md)**

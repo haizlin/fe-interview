@@ -2,6 +2,11 @@
 
 
 
+- 第483天 (2020.08.11)  
+    - [html] [你认为一个好的布局应该是什么样的？有哪些需要注意的地方？](https://github.com/haizlin/fe-interview/issues/2761)
+    - [css] [css加载会阻塞DOM树解析吗？](https://github.com/haizlin/fe-interview/issues/2762)
+    - [js] [什么情况下会出现js阻塞？](https://github.com/haizlin/fe-interview/issues/2763)
+    - [软技能] [前端是如何收集用户行为信息的？都有哪些方法呢？](https://github.com/haizlin/fe-interview/issues/2764)
 - 第482天 (2020.08.10)  
     - [html] [怎样写出优雅的HTML结构？](https://github.com/haizlin/fe-interview/issues/2756)
     - [css] [什么情况下会出现css阻塞？](https://github.com/haizlin/fe-interview/issues/2757)
