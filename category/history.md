@@ -2,6 +2,11 @@
 
 
 
+- 第484天 (2020.08.12)  
+    - [html] [页面需要支持多语言，如果是你该怎么做？](https://github.com/haizlin/fe-interview/issues/2765)
+    - [css] [css加载会阻塞DOM树渲染吗？](https://github.com/haizlin/fe-interview/issues/2766)
+    - [js] [怎样做到js无阻塞加载？](https://github.com/haizlin/fe-interview/issues/2767)
+    - [软技能] [你了解什么是像素追踪吗？它是用来做什么的？它的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/2768)
 - 第483天 (2020.08.11)  
     - [html] [你认为一个好的布局应该是什么样的？有哪些需要注意的地方？](https://github.com/haizlin/fe-interview/issues/2761)
     - [css] [css加载会阻塞DOM树解析吗？](https://github.com/haizlin/fe-interview/issues/2762)

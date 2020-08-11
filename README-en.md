@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.11) —— 483 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你认为一个好的布局应该是什么样的？有哪些需要注意的地方？](https://github.com/haizlin/fe-interview/issues/2761)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css加载会阻塞DOM树解析吗？](https://github.com/haizlin/fe-interview/issues/2762)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么情况下会出现js阻塞？](https://github.com/haizlin/fe-interview/issues/2763)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [前端是如何收集用户行为信息的？都有哪些方法呢？](https://github.com/haizlin/fe-interview/issues/2764)  
+## :clock430: Today's Knowledge Points (2020.08.12) —— 484 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [页面需要支持多语言，如果是你该怎么做？](https://github.com/haizlin/fe-interview/issues/2765)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css加载会阻塞DOM树渲染吗？](https://github.com/haizlin/fe-interview/issues/2766)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [怎样做到js无阻塞加载？](https://github.com/haizlin/fe-interview/issues/2767)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你了解什么是像素追踪吗？它是用来做什么的？它的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/2768)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 482 days (2020.08.10)  
-    	 :one: [html] [怎样写出优雅的HTML结构？](https://github.com/haizlin/fe-interview/issues/2756)  
-	 :two: [css] [什么情况下会出现css阻塞？](https://github.com/haizlin/fe-interview/issues/2757)  
-	 :three: [js] [cookie的值可以设置为中文吗？为什么？如果可以怎么设置？](https://github.com/haizlin/fe-interview/issues/2758)  
-	 :four: [skill] [请解释下dpr和dpi](https://github.com/haizlin/fe-interview/issues/2759)  
+- 483 days (2020.08.11)  
+    	 :one: [html] [你认为一个好的布局应该是什么样的？有哪些需要注意的地方？](https://github.com/haizlin/fe-interview/issues/2761)  
+	 :two: [css] [css加载会阻塞DOM树解析吗？](https://github.com/haizlin/fe-interview/issues/2762)  
+	 :three: [js] [什么情况下会出现js阻塞？](https://github.com/haizlin/fe-interview/issues/2763)  
+	 :four: [skill] [前端是如何收集用户行为信息的？都有哪些方法呢？](https://github.com/haizlin/fe-interview/issues/2764)  
  
 	
 - **[All](category/history.md)**
