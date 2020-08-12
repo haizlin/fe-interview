@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.12) —— 第484天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [页面需要支持多语言，如果是你该怎么做？](https://github.com/haizlin/fe-interview/issues/2765)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css加载会阻塞DOM树渲染吗？](https://github.com/haizlin/fe-interview/issues/2766)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [怎样做到js无阻塞加载？](https://github.com/haizlin/fe-interview/issues/2767)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你了解什么是像素追踪吗？它是用来做什么的？它的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/2768)  
+## :clock430: 今天的知识点   (2020.08.13) —— 第485天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你写一个页面需要多长时间？](https://github.com/haizlin/fe-interview/issues/2769)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css加载会阻塞js运行吗？](https://github.com/haizlin/fe-interview/issues/2770)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，当复制页面中的内容时，同时把版权信息也复制上](https://github.com/haizlin/fe-interview/issues/2771)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [为什么nodejs更新代码后要重启进程，而PHP却不用呢？](https://github.com/haizlin/fe-interview/issues/2772)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第483天 (2020.08.11)  
-    	 :one: [html] [你认为一个好的布局应该是什么样的？有哪些需要注意的地方？](https://github.com/haizlin/fe-interview/issues/2761)  
-	 :two: [css] [css加载会阻塞DOM树解析吗？](https://github.com/haizlin/fe-interview/issues/2762)  
-	 :three: [js] [什么情况下会出现js阻塞？](https://github.com/haizlin/fe-interview/issues/2763)  
-	 :four: [软技能] [前端是如何收集用户行为信息的？都有哪些方法呢？](https://github.com/haizlin/fe-interview/issues/2764)  
+- 第484天 (2020.08.12)  
+    	 :one: [html] [页面需要支持多语言，如果是你该怎么做？](https://github.com/haizlin/fe-interview/issues/2765)  
+	 :two: [css] [css加载会阻塞DOM树渲染吗？](https://github.com/haizlin/fe-interview/issues/2766)  
+	 :three: [js] [怎样做到js无阻塞加载？](https://github.com/haizlin/fe-interview/issues/2767)  
+	 :four: [软技能] [你了解什么是像素追踪吗？它是用来做什么的？它的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/2768)  
  
 	
 - **[查看全部](category/history.md)**

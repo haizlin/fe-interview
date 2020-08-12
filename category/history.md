@@ -2,6 +2,11 @@
 
 
 
+- 第485天 (2020.08.13)  
+    - [html] [你写一个页面需要多长时间？](https://github.com/haizlin/fe-interview/issues/2769)
+    - [css] [css加载会阻塞js运行吗？](https://github.com/haizlin/fe-interview/issues/2770)
+    - [js] [写一个方法，当复制页面中的内容时，同时把版权信息也复制上](https://github.com/haizlin/fe-interview/issues/2771)
+    - [软技能] [为什么nodejs更新代码后要重启进程，而PHP却不用呢？](https://github.com/haizlin/fe-interview/issues/2772)
 - 第484天 (2020.08.12)  
     - [html] [页面需要支持多语言，如果是你该怎么做？](https://github.com/haizlin/fe-interview/issues/2765)
     - [css] [css加载会阻塞DOM树渲染吗？](https://github.com/haizlin/fe-interview/issues/2766)
