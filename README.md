@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.13) —— 第485天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你写一个页面需要多长时间？](https://github.com/haizlin/fe-interview/issues/2769)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css加载会阻塞js运行吗？](https://github.com/haizlin/fe-interview/issues/2770)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，当复制页面中的内容时，同时把版权信息也复制上](https://github.com/haizlin/fe-interview/issues/2771)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [为什么nodejs更新代码后要重启进程，而PHP却不用呢？](https://github.com/haizlin/fe-interview/issues/2772)  
+## :clock430: 今天的知识点   (2020.08.14) —— 第486天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/2773)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何优化打印样式？](https://github.com/haizlin/fe-interview/issues/2774)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在多个页面之间需要传递参数，你是如何传递这些参数的？](https://github.com/haizlin/fe-interview/issues/2775)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [URL和URI有什么区别？](https://github.com/haizlin/fe-interview/issues/2776)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第484天 (2020.08.12)  
-    	 :one: [html] [页面需要支持多语言，如果是你该怎么做？](https://github.com/haizlin/fe-interview/issues/2765)  
-	 :two: [css] [css加载会阻塞DOM树渲染吗？](https://github.com/haizlin/fe-interview/issues/2766)  
-	 :three: [js] [怎样做到js无阻塞加载？](https://github.com/haizlin/fe-interview/issues/2767)  
-	 :four: [软技能] [你了解什么是像素追踪吗？它是用来做什么的？它的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/2768)  
+- 第485天 (2020.08.13)  
+    	 :one: [html] [你写一个页面需要多长时间？](https://github.com/haizlin/fe-interview/issues/2769)  
+	 :two: [css] [css加载会阻塞js运行吗？](https://github.com/haizlin/fe-interview/issues/2770)  
+	 :three: [js] [写一个方法，当复制页面中的内容时，同时把版权信息也复制上](https://github.com/haizlin/fe-interview/issues/2771)  
+	 :four: [软技能] [为什么nodejs更新代码后要重启进程，而PHP却不用呢？](https://github.com/haizlin/fe-interview/issues/2772)  
  
 	
 - **[查看全部](category/history.md)**

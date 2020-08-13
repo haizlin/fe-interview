@@ -2,6 +2,11 @@
 
 
 
+- 第486天 (2020.08.14)  
+    - [html] [写一个三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/2773)
+    - [css] [如何优化打印样式？](https://github.com/haizlin/fe-interview/issues/2774)
+    - [js] [在多个页面之间需要传递参数，你是如何传递这些参数的？](https://github.com/haizlin/fe-interview/issues/2775)
+    - [软技能] [URL和URI有什么区别？](https://github.com/haizlin/fe-interview/issues/2776)
 - 第485天 (2020.08.13)  
     - [html] [你写一个页面需要多长时间？](https://github.com/haizlin/fe-interview/issues/2769)
     - [css] [css加载会阻塞js运行吗？](https://github.com/haizlin/fe-interview/issues/2770)
