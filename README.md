@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.14) —— 第486天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/2773)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何优化打印样式？](https://github.com/haizlin/fe-interview/issues/2774)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在多个页面之间需要传递参数，你是如何传递这些参数的？](https://github.com/haizlin/fe-interview/issues/2775)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [URL和URI有什么区别？](https://github.com/haizlin/fe-interview/issues/2776)  
+## :clock430: 今天的知识点   (2020.08.16) —— 第488天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [可替换元素和不可替换元素有什么不同的特点？](https://github.com/haizlin/fe-interview/issues/2781)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [我们使用第三方的css安全吗？为什么？](https://github.com/haizlin/fe-interview/issues/2782)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写方法把0123456789生成每组4个数，共有多少个组合和多少个排列？](https://github.com/haizlin/fe-interview/issues/2783)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [举例说下主流手机的分辨率有哪些？](https://github.com/haizlin/fe-interview/issues/2784)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第485天 (2020.08.13)  
-    	 :one: [html] [你写一个页面需要多长时间？](https://github.com/haizlin/fe-interview/issues/2769)  
-	 :two: [css] [css加载会阻塞js运行吗？](https://github.com/haizlin/fe-interview/issues/2770)  
-	 :three: [js] [写一个方法，当复制页面中的内容时，同时把版权信息也复制上](https://github.com/haizlin/fe-interview/issues/2771)  
-	 :four: [软技能] [为什么nodejs更新代码后要重启进程，而PHP却不用呢？](https://github.com/haizlin/fe-interview/issues/2772)  
+- 第487天 (2020.08.15)  
+    	 :one: [html] [html元素哪些标签是不可替换元素？哪些是可替换元素？](https://github.com/haizlin/fe-interview/issues/2777)  
+	 :two: [css] [使用display: table-cell有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/2778)  
+	 :three: [js] [写一个方法对对象中的key进行排序](https://github.com/haizlin/fe-interview/issues/2779)  
+	 :four: [软技能] [有ios和android两个下载链接，如何把它们合并成一个二维码？](https://github.com/haizlin/fe-interview/issues/2780)  
  
 	
 - **[查看全部](category/history.md)**

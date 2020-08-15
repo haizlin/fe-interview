@@ -2,6 +2,16 @@
 
 
 
+- 第488天 (2020.08.16)  
+    - [html] [可替换元素和不可替换元素有什么不同的特点？](https://github.com/haizlin/fe-interview/issues/2781)
+    - [css] [我们使用第三方的css安全吗？为什么？](https://github.com/haizlin/fe-interview/issues/2782)
+    - [js] [使用js写方法把0123456789生成每组4个数，共有多少个组合和多少个排列？](https://github.com/haizlin/fe-interview/issues/2783)
+    - [软技能] [举例说下主流手机的分辨率有哪些？](https://github.com/haizlin/fe-interview/issues/2784)
+- 第487天 (2020.08.15)  
+    - [html] [html元素哪些标签是不可替换元素？哪些是可替换元素？](https://github.com/haizlin/fe-interview/issues/2777)
+    - [css] [使用display: table-cell有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/2778)
+    - [js] [写一个方法对对象中的key进行排序](https://github.com/haizlin/fe-interview/issues/2779)
+    - [软技能] [有ios和android两个下载链接，如何把它们合并成一个二维码？](https://github.com/haizlin/fe-interview/issues/2780)
 - 第486天 (2020.08.14)  
     - [html] [写一个三栏布局，两边固定，中间自适应](https://github.com/haizlin/fe-interview/issues/2773)
     - [css] [如何优化打印样式？](https://github.com/haizlin/fe-interview/issues/2774)
