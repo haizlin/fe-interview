@@ -2,6 +2,11 @@
 
 
 
+- 第489天 (2020.08.17)  
+    - [html] [举例说明使用data-有什么优点？](https://github.com/haizlin/fe-interview/issues/2786)
+    - [css] [在不可替换元素上使用width/height/margin/padding会有什么样的表现？](https://github.com/haizlin/fe-interview/issues/2787)
+    - [js] [使用js写一个多文件上传的组件](https://github.com/haizlin/fe-interview/issues/2788)
+    - [软技能] [第三方网站使用QQ登录时，QQ是怎么检测到用户本地是否有QQ登录的？](https://github.com/haizlin/fe-interview/issues/2789)
 - 第488天 (2020.08.16)  
     - [html] [可替换元素和不可替换元素有什么不同的特点？](https://github.com/haizlin/fe-interview/issues/2781)
     - [css] [我们使用第三方的css安全吗？为什么？](https://github.com/haizlin/fe-interview/issues/2782)
