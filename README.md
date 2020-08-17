@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.17) —— 第489天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [举例说明使用data-有什么优点？](https://github.com/haizlin/fe-interview/issues/2786)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在不可替换元素上使用width/height/margin/padding会有什么样的表现？](https://github.com/haizlin/fe-interview/issues/2787)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个多文件上传的组件](https://github.com/haizlin/fe-interview/issues/2788)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [第三方网站使用QQ登录时，QQ是怎么检测到用户本地是否有QQ登录的？](https://github.com/haizlin/fe-interview/issues/2789)  
+## :clock430: 今天的知识点   (2020.08.18) —— 第490天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你最喜欢html的哪个标签？为什么？](https://github.com/haizlin/fe-interview/issues/2790)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3制作下雨动画的效果](https://github.com/haizlin/fe-interview/issues/2791)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何取消promise？](https://github.com/haizlin/fe-interview/issues/2792)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请说说扫码登录的原理及流程](https://github.com/haizlin/fe-interview/issues/2793)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第488天 (2020.08.16)  
-    	 :one: [html] [可替换元素和不可替换元素有什么不同的特点？](https://github.com/haizlin/fe-interview/issues/2781)  
-	 :two: [css] [我们使用第三方的css安全吗？为什么？](https://github.com/haizlin/fe-interview/issues/2782)  
-	 :three: [js] [使用js写方法把0123456789生成每组4个数，共有多少个组合和多少个排列？](https://github.com/haizlin/fe-interview/issues/2783)  
-	 :four: [软技能] [举例说下主流手机的分辨率有哪些？](https://github.com/haizlin/fe-interview/issues/2784)  
+- 第489天 (2020.08.17)  
+    	 :one: [html] [举例说明使用data-有什么优点？](https://github.com/haizlin/fe-interview/issues/2786)  
+	 :two: [css] [在不可替换元素上使用width/height/margin/padding会有什么样的表现？](https://github.com/haizlin/fe-interview/issues/2787)  
+	 :three: [js] [使用js写一个多文件上传的组件](https://github.com/haizlin/fe-interview/issues/2788)  
+	 :four: [软技能] [第三方网站使用QQ登录时，QQ是怎么检测到用户本地是否有QQ登录的？](https://github.com/haizlin/fe-interview/issues/2789)  
  
 	
 - **[查看全部](category/history.md)**

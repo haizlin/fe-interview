@@ -2,6 +2,11 @@
 
 
 
+- 第490天 (2020.08.18)  
+    - [html] [你最喜欢html的哪个标签？为什么？](https://github.com/haizlin/fe-interview/issues/2790)
+    - [css] [使用css3制作下雨动画的效果](https://github.com/haizlin/fe-interview/issues/2791)
+    - [js] [如何取消promise？](https://github.com/haizlin/fe-interview/issues/2792)
+    - [软技能] [请说说扫码登录的原理及流程](https://github.com/haizlin/fe-interview/issues/2793)
 - 第489天 (2020.08.17)  
     - [html] [举例说明使用data-有什么优点？](https://github.com/haizlin/fe-interview/issues/2786)
     - [css] [在不可替换元素上使用width/height/margin/padding会有什么样的表现？](https://github.com/haizlin/fe-interview/issues/2787)
