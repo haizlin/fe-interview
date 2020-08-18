@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.18) —— 第490天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你最喜欢html的哪个标签？为什么？](https://github.com/haizlin/fe-interview/issues/2790)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3制作下雨动画的效果](https://github.com/haizlin/fe-interview/issues/2791)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何取消promise？](https://github.com/haizlin/fe-interview/issues/2792)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请说说扫码登录的原理及流程](https://github.com/haizlin/fe-interview/issues/2793)  
+## :clock430: 今天的知识点   (2020.08.19) —— 第491天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在IOS下启用WebApp全屏模式？](https://github.com/haizlin/fe-interview/issues/2794)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你现在还经常写css代码吗？](https://github.com/haizlin/fe-interview/issues/2795)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，计算有N个数（可重复），分别放到M个位置中，有多少种排列？](https://github.com/haizlin/fe-interview/issues/2796)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [本地开发时如何不用修改hosts可以绑定域名开发？](https://github.com/haizlin/fe-interview/issues/2797)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第489天 (2020.08.17)  
-    	 :one: [html] [举例说明使用data-有什么优点？](https://github.com/haizlin/fe-interview/issues/2786)  
-	 :two: [css] [在不可替换元素上使用width/height/margin/padding会有什么样的表现？](https://github.com/haizlin/fe-interview/issues/2787)  
-	 :three: [js] [使用js写一个多文件上传的组件](https://github.com/haizlin/fe-interview/issues/2788)  
-	 :four: [软技能] [第三方网站使用QQ登录时，QQ是怎么检测到用户本地是否有QQ登录的？](https://github.com/haizlin/fe-interview/issues/2789)  
+- 第490天 (2020.08.18)  
+    	 :one: [html] [你最喜欢html的哪个标签？为什么？](https://github.com/haizlin/fe-interview/issues/2790)  
+	 :two: [css] [使用css3制作下雨动画的效果](https://github.com/haizlin/fe-interview/issues/2791)  
+	 :three: [js] [如何取消promise？](https://github.com/haizlin/fe-interview/issues/2792)  
+	 :four: [软技能] [请说说扫码登录的原理及流程](https://github.com/haizlin/fe-interview/issues/2793)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第491天 (2020.08.19)  
+    - [html] [如何在IOS下启用WebApp全屏模式？](https://github.com/haizlin/fe-interview/issues/2794)
+    - [css] [你现在还经常写css代码吗？](https://github.com/haizlin/fe-interview/issues/2795)
+    - [js] [写一个方法，计算有N个数（可重复），分别放到M个位置中，有多少种排列？](https://github.com/haizlin/fe-interview/issues/2796)
+    - [软技能] [本地开发时如何不用修改hosts可以绑定域名开发？](https://github.com/haizlin/fe-interview/issues/2797)
 - 第490天 (2020.08.18)  
     - [html] [你最喜欢html的哪个标签？为什么？](https://github.com/haizlin/fe-interview/issues/2790)
     - [css] [使用css3制作下雨动画的效果](https://github.com/haizlin/fe-interview/issues/2791)
