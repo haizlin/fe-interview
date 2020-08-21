@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.19) —— 491 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在IOS下启用WebApp全屏模式？](https://github.com/haizlin/fe-interview/issues/2794)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你现在还经常写css代码吗？](https://github.com/haizlin/fe-interview/issues/2795)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，计算有N个数（可重复），分别放到M个位置中，有多少种排列？](https://github.com/haizlin/fe-interview/issues/2796)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [本地开发时如何不用修改hosts可以绑定域名开发？](https://github.com/haizlin/fe-interview/issues/2797)  
+## :clock430: Today's Knowledge Points (2020.08.22) —— 494 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在a标签中，怎样防止链接跳转？](https://github.com/haizlin/fe-interview/issues/2807)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你觉得css高级的特性有哪些？](https://github.com/haizlin/fe-interview/issues/2808)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [给定特定的字符串，写个方法判断是否以元字母结尾](https://github.com/haizlin/fe-interview/issues/2809)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [功能上线后，发布报告要怎么写？你有写过吗？或者你有看过吗？](https://github.com/haizlin/fe-interview/issues/2810)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 490 days (2020.08.18)  
-    	 :one: [html] [你最喜欢html的哪个标签？为什么？](https://github.com/haizlin/fe-interview/issues/2790)  
-	 :two: [css] [使用css3制作下雨动画的效果](https://github.com/haizlin/fe-interview/issues/2791)  
-	 :three: [js] [如何取消promise？](https://github.com/haizlin/fe-interview/issues/2792)  
-	 :four: [skill] [请说说扫码登录的原理及流程](https://github.com/haizlin/fe-interview/issues/2793)  
+- 493 days (2020.08.21)  
+    	 :one: [html] [说说如果a链接href=""（空）时点击时会有什么表现？](https://github.com/haizlin/fe-interview/issues/2803)  
+	 :two: [css] [你是怎么学习css的？说说你的学习方法](https://github.com/haizlin/fe-interview/issues/2804)  
+	 :three: [js] [写一个方法，实现树的路径查询[代码]](https://github.com/haizlin/fe-interview/issues/2805)  
+	 :four: [skill] [说说你对端到端交付的理解](https://github.com/haizlin/fe-interview/issues/2806)  
  
 	
 - **[All](category/history.md)**

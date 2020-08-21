@@ -2,6 +2,21 @@
 
 
 
+- 第494天 (2020.08.22)  
+    - [html] [在a标签中，怎样防止链接跳转？](https://github.com/haizlin/fe-interview/issues/2807)
+    - [css] [你觉得css高级的特性有哪些？](https://github.com/haizlin/fe-interview/issues/2808)
+    - [js] [给定特定的字符串，写个方法判断是否以元字母结尾](https://github.com/haizlin/fe-interview/issues/2809)
+    - [软技能] [功能上线后，发布报告要怎么写？你有写过吗？或者你有看过吗？](https://github.com/haizlin/fe-interview/issues/2810)
+- 第493天 (2020.08.21)  
+    - [html] [说说如果a链接href=""（空）时点击时会有什么表现？](https://github.com/haizlin/fe-interview/issues/2803)
+    - [css] [你是怎么学习css的？说说你的学习方法](https://github.com/haizlin/fe-interview/issues/2804)
+    - [js] [写一个方法，实现树的路径查询[代码]](https://github.com/haizlin/fe-interview/issues/2805)
+    - [软技能] [说说你对端到端交付的理解](https://github.com/haizlin/fe-interview/issues/2806)
+- 第492天 (2020.08.20)  
+    - [html] [使用canvas时你有遇到过哪些坑？是如何解决的？](https://github.com/haizlin/fe-interview/issues/2798)
+    - [css] [你最喜欢的是哪个css特性？为什么？](https://github.com/haizlin/fe-interview/issues/2799)
+    - [js] [实现一个函数sum, 满足以下需求:](https://github.com/haizlin/fe-interview/issues/2801)
+    - [软技能] [https是如何保证数据传输的安全的？](https://github.com/haizlin/fe-interview/issues/2802)
 - 第491天 (2020.08.19)  
     - [html] [如何在IOS下启用WebApp全屏模式？](https://github.com/haizlin/fe-interview/issues/2794)
     - [css] [你现在还经常写css代码吗？](https://github.com/haizlin/fe-interview/issues/2795)
