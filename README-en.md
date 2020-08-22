@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.22) —— 494 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在a标签中，怎样防止链接跳转？](https://github.com/haizlin/fe-interview/issues/2807)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你觉得css高级的特性有哪些？](https://github.com/haizlin/fe-interview/issues/2808)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [给定特定的字符串，写个方法判断是否以元字母结尾](https://github.com/haizlin/fe-interview/issues/2809)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [功能上线后，发布报告要怎么写？你有写过吗？或者你有看过吗？](https://github.com/haizlin/fe-interview/issues/2810)  
+## :clock430: Today's Knowledge Points (2020.08.23) —— 495 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html的哪个标签可以预加载？](https://github.com/haizlin/fe-interview/issues/2811)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你现在还会经常学习css的新知识吗？](https://github.com/haizlin/fe-interview/issues/2812)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明json的标准格式](https://github.com/haizlin/fe-interview/issues/2813)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [做为管理者，你是喜欢能说会道的还是喜欢安静做事的人呢？为什么？](https://github.com/haizlin/fe-interview/issues/2814)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 493 days (2020.08.21)  
-    	 :one: [html] [说说如果a链接href=""（空）时点击时会有什么表现？](https://github.com/haizlin/fe-interview/issues/2803)  
-	 :two: [css] [你是怎么学习css的？说说你的学习方法](https://github.com/haizlin/fe-interview/issues/2804)  
-	 :three: [js] [写一个方法，实现树的路径查询[代码]](https://github.com/haizlin/fe-interview/issues/2805)  
-	 :four: [skill] [说说你对端到端交付的理解](https://github.com/haizlin/fe-interview/issues/2806)  
+- 494 days (2020.08.22)  
+    	 :one: [html] [在a标签中，怎样防止链接跳转？](https://github.com/haizlin/fe-interview/issues/2807)  
+	 :two: [css] [你觉得css高级的特性有哪些？](https://github.com/haizlin/fe-interview/issues/2808)  
+	 :three: [js] [给定特定的字符串，写个方法判断是否以元字母结尾](https://github.com/haizlin/fe-interview/issues/2809)  
+	 :four: [skill] [功能上线后，发布报告要怎么写？你有写过吗？或者你有看过吗？](https://github.com/haizlin/fe-interview/issues/2810)  
  
 	
 - **[All](category/history.md)**

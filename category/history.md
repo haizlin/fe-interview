@@ -2,6 +2,11 @@
 
 
 
+- 第495天 (2020.08.23)  
+    - [html] [html的哪个标签可以预加载？](https://github.com/haizlin/fe-interview/issues/2811)
+    - [css] [你现在还会经常学习css的新知识吗？](https://github.com/haizlin/fe-interview/issues/2812)
+    - [js] [举例说明json的标准格式](https://github.com/haizlin/fe-interview/issues/2813)
+    - [软技能] [做为管理者，你是喜欢能说会道的还是喜欢安静做事的人呢？为什么？](https://github.com/haizlin/fe-interview/issues/2814)
 - 第494天 (2020.08.22)  
     - [html] [在a标签中，怎样防止链接跳转？](https://github.com/haizlin/fe-interview/issues/2807)
     - [css] [你觉得css高级的特性有哪些？](https://github.com/haizlin/fe-interview/issues/2808)
