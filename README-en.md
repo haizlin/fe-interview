@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.23) —— 495 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html的哪个标签可以预加载？](https://github.com/haizlin/fe-interview/issues/2811)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你现在还会经常学习css的新知识吗？](https://github.com/haizlin/fe-interview/issues/2812)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明json的标准格式](https://github.com/haizlin/fe-interview/issues/2813)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [做为管理者，你是喜欢能说会道的还是喜欢安静做事的人呢？为什么？](https://github.com/haizlin/fe-interview/issues/2814)  
+## :clock430: Today's Knowledge Points (2020.08.24) —— 496 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html的哪个标签可以预渲染？](https://github.com/haizlin/fe-interview/issues/2815)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [当你忘记某个css时，你是如何解决的？](https://github.com/haizlin/fe-interview/issues/2816)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js如何创建一个private方法？](https://github.com/haizlin/fe-interview/issues/2817)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [web缓存需要后台或者运维怎么配合呢？](https://github.com/haizlin/fe-interview/issues/2818)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 494 days (2020.08.22)  
-    	 :one: [html] [在a标签中，怎样防止链接跳转？](https://github.com/haizlin/fe-interview/issues/2807)  
-	 :two: [css] [你觉得css高级的特性有哪些？](https://github.com/haizlin/fe-interview/issues/2808)  
-	 :three: [js] [给定特定的字符串，写个方法判断是否以元字母结尾](https://github.com/haizlin/fe-interview/issues/2809)  
-	 :four: [skill] [功能上线后，发布报告要怎么写？你有写过吗？或者你有看过吗？](https://github.com/haizlin/fe-interview/issues/2810)  
+- 495 days (2020.08.23)  
+    	 :one: [html] [html的哪个标签可以预加载？](https://github.com/haizlin/fe-interview/issues/2811)  
+	 :two: [css] [你现在还会经常学习css的新知识吗？](https://github.com/haizlin/fe-interview/issues/2812)  
+	 :three: [js] [举例说明json的标准格式](https://github.com/haizlin/fe-interview/issues/2813)  
+	 :four: [skill] [做为管理者，你是喜欢能说会道的还是喜欢安静做事的人呢？为什么？](https://github.com/haizlin/fe-interview/issues/2814)  
  
 	
 - **[All](category/history.md)**
