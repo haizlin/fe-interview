@@ -2,6 +2,11 @@
 
 
 
+- 第496天 (2020.08.24)  
+    - [html] [html的哪个标签可以预渲染？](https://github.com/haizlin/fe-interview/issues/2815)
+    - [css] [当你忘记某个css时，你是如何解决的？](https://github.com/haizlin/fe-interview/issues/2816)
+    - [js] [使用js如何创建一个private方法？](https://github.com/haizlin/fe-interview/issues/2817)
+    - [软技能] [web缓存需要后台或者运维怎么配合呢？](https://github.com/haizlin/fe-interview/issues/2818)
 - 第495天 (2020.08.23)  
     - [html] [html的哪个标签可以预加载？](https://github.com/haizlin/fe-interview/issues/2811)
     - [css] [你现在还会经常学习css的新知识吗？](https://github.com/haizlin/fe-interview/issues/2812)
