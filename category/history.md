@@ -2,6 +2,11 @@
 
 
 
+- 第497天 (2020.08.25)  
+    - [html] [如何优化页面的渲染过程？](https://github.com/haizlin/fe-interview/issues/2819)
+    - [css] [在工作中有没有遇到过哪些前端样式你是用css做不出来的？做不出来怎么办？](https://github.com/haizlin/fe-interview/issues/2820)
+    - [js] [输入一个四则混合运算的表达式，请写个方法求它的值](https://github.com/haizlin/fe-interview/issues/2821)
+    - [软技能] [同步和异步什么区别？它们各有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2822)
 - 第496天 (2020.08.24)  
     - [html] [html的哪个标签可以预渲染？](https://github.com/haizlin/fe-interview/issues/2815)
     - [css] [当你忘记某个css时，你是如何解决的？](https://github.com/haizlin/fe-interview/issues/2816)

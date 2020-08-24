@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.08.24) —— 第496天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html的哪个标签可以预渲染？](https://github.com/haizlin/fe-interview/issues/2815)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [当你忘记某个css时，你是如何解决的？](https://github.com/haizlin/fe-interview/issues/2816)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js如何创建一个private方法？](https://github.com/haizlin/fe-interview/issues/2817)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [web缓存需要后台或者运维怎么配合呢？](https://github.com/haizlin/fe-interview/issues/2818)  
+## :clock430: 今天的知识点   (2020.08.25) —— 第497天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何优化页面的渲染过程？](https://github.com/haizlin/fe-interview/issues/2819)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在工作中有没有遇到过哪些前端样式你是用css做不出来的？做不出来怎么办？](https://github.com/haizlin/fe-interview/issues/2820)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [输入一个四则混合运算的表达式，请写个方法求它的值](https://github.com/haizlin/fe-interview/issues/2821)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [同步和异步什么区别？它们各有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2822)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第495天 (2020.08.23)  
-    	 :one: [html] [html的哪个标签可以预加载？](https://github.com/haizlin/fe-interview/issues/2811)  
-	 :two: [css] [你现在还会经常学习css的新知识吗？](https://github.com/haizlin/fe-interview/issues/2812)  
-	 :three: [js] [举例说明json的标准格式](https://github.com/haizlin/fe-interview/issues/2813)  
-	 :four: [软技能] [做为管理者，你是喜欢能说会道的还是喜欢安静做事的人呢？为什么？](https://github.com/haizlin/fe-interview/issues/2814)  
+- 第496天 (2020.08.24)  
+    	 :one: [html] [html的哪个标签可以预渲染？](https://github.com/haizlin/fe-interview/issues/2815)  
+	 :two: [css] [当你忘记某个css时，你是如何解决的？](https://github.com/haizlin/fe-interview/issues/2816)  
+	 :three: [js] [使用js如何创建一个private方法？](https://github.com/haizlin/fe-interview/issues/2817)  
+	 :four: [软技能] [web缓存需要后台或者运维怎么配合呢？](https://github.com/haizlin/fe-interview/issues/2818)  
  
 	
 - **[查看全部](category/history.md)**
