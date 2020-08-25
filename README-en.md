@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.25) —— 497 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何优化页面的渲染过程？](https://github.com/haizlin/fe-interview/issues/2819)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在工作中有没有遇到过哪些前端样式你是用css做不出来的？做不出来怎么办？](https://github.com/haizlin/fe-interview/issues/2820)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [输入一个四则混合运算的表达式，请写个方法求它的值](https://github.com/haizlin/fe-interview/issues/2821)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [同步和异步什么区别？它们各有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2822)  
+## :clock430: Today's Knowledge Points (2020.08.26) —— 498 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html哪个标签属性可以通过预解析DNS？](https://github.com/haizlin/fe-interview/issues/2823)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你最不喜欢css的哪些特性是什么？为什么？](https://github.com/haizlin/fe-interview/issues/2824)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [列举出JS的全局函数](https://github.com/haizlin/fe-interview/issues/2825)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你比去年的这个时候有哪些成长呢？](https://github.com/haizlin/fe-interview/issues/2826)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 496 days (2020.08.24)  
-    	 :one: [html] [html的哪个标签可以预渲染？](https://github.com/haizlin/fe-interview/issues/2815)  
-	 :two: [css] [当你忘记某个css时，你是如何解决的？](https://github.com/haizlin/fe-interview/issues/2816)  
-	 :three: [js] [使用js如何创建一个private方法？](https://github.com/haizlin/fe-interview/issues/2817)  
-	 :four: [skill] [web缓存需要后台或者运维怎么配合呢？](https://github.com/haizlin/fe-interview/issues/2818)  
+- 497 days (2020.08.25)  
+    	 :one: [html] [如何优化页面的渲染过程？](https://github.com/haizlin/fe-interview/issues/2819)  
+	 :two: [css] [在工作中有没有遇到过哪些前端样式你是用css做不出来的？做不出来怎么办？](https://github.com/haizlin/fe-interview/issues/2820)  
+	 :three: [js] [输入一个四则混合运算的表达式，请写个方法求它的值](https://github.com/haizlin/fe-interview/issues/2821)  
+	 :four: [skill] [同步和异步什么区别？它们各有什么应用场景？](https://github.com/haizlin/fe-interview/issues/2822)  
  
 	
 - **[All](category/history.md)**
