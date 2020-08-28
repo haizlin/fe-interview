@@ -2,6 +2,11 @@
 
 
 
+- 第501天 (2020.08.29)  
+    - [html] [制作一个不规则形状有哪些方法可以实现？](https://github.com/haizlin/fe-interview/issues/2836)
+    - [css] [使用css实现闪光的霓虹灯文字效果](https://github.com/haizlin/fe-interview/issues/2837)
+    - [js] [请说说JS中的索引数组、关联数组和静态数组、动态数组的定义与区别](https://github.com/haizlin/fe-interview/issues/2838)
+    - [软技能] [说说你对覆盖率的理解，它解决什么问题？](https://github.com/haizlin/fe-interview/issues/2839)
 - 第500天 (2020.08.28)  
     - [html] [跨域通信有哪些方式？](https://github.com/haizlin/fe-interview/issues/2831)
     - [css] [说说CSS对元素属性赋值的详细过程？](https://github.com/haizlin/fe-interview/issues/2832)
