@@ -2,6 +2,11 @@
 
 
 
+- 第502天 (2020.08.30)  
+    - [html] [写一个密码默认星号，但可以查看密码的输入框](https://github.com/haizlin/fe-interview/issues/2840)
+    - [css] [使用css3实现小车行驶的动画效果](https://github.com/haizlin/fe-interview/issues/2841)
+    - [js] [js的哪些操作可以改变作用域链？](https://github.com/haizlin/fe-interview/issues/2842)
+    - [软技能] [websocket是如何实现握手？](https://github.com/haizlin/fe-interview/issues/2843)
 - 第501天 (2020.08.29)  
     - [html] [制作一个不规则形状有哪些方法可以实现？](https://github.com/haizlin/fe-interview/issues/2836)
     - [css] [使用css实现闪光的霓虹灯文字效果](https://github.com/haizlin/fe-interview/issues/2837)
