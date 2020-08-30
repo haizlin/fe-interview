@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.08.30) —— 502 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个密码默认星号，但可以查看密码的输入框](https://github.com/haizlin/fe-interview/issues/2840)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现小车行驶的动画效果](https://github.com/haizlin/fe-interview/issues/2841)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js的哪些操作可以改变作用域链？](https://github.com/haizlin/fe-interview/issues/2842)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [websocket是如何实现握手？](https://github.com/haizlin/fe-interview/issues/2843)  
+## :clock430: Today's Knowledge Points (2020.08.31) —— 503 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html的开始与结束标签嵌套错误会导致哪些问题？](https://github.com/haizlin/fe-interview/issues/2844)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css制作吊扇转动的效果](https://github.com/haizlin/fe-interview/issues/2845)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Math.min() < Math.max() 返回结果是什么？为什么？](https://github.com/haizlin/fe-interview/issues/2846)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你知道什么是webAssembly吗？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2847)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 501 days (2020.08.29)  
-    	 :one: [html] [制作一个不规则形状有哪些方法可以实现？](https://github.com/haizlin/fe-interview/issues/2836)  
-	 :two: [css] [使用css实现闪光的霓虹灯文字效果](https://github.com/haizlin/fe-interview/issues/2837)  
-	 :three: [js] [请说说JS中的索引数组、关联数组和静态数组、动态数组的定义与区别](https://github.com/haizlin/fe-interview/issues/2838)  
-	 :four: [skill] [说说你对覆盖率的理解，它解决什么问题？](https://github.com/haizlin/fe-interview/issues/2839)  
+- 502 days (2020.08.30)  
+    	 :one: [html] [写一个密码默认星号，但可以查看密码的输入框](https://github.com/haizlin/fe-interview/issues/2840)  
+	 :two: [css] [使用css3实现小车行驶的动画效果](https://github.com/haizlin/fe-interview/issues/2841)  
+	 :three: [js] [js的哪些操作可以改变作用域链？](https://github.com/haizlin/fe-interview/issues/2842)  
+	 :four: [skill] [websocket是如何实现握手？](https://github.com/haizlin/fe-interview/issues/2843)  
  
 	
 - **[All](category/history.md)**

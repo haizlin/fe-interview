@@ -2,6 +2,11 @@
 
 
 
+- 第503天 (2020.08.31)  
+    - [html] [html的开始与结束标签嵌套错误会导致哪些问题？](https://github.com/haizlin/fe-interview/issues/2844)
+    - [css] [使用css制作吊扇转动的效果](https://github.com/haizlin/fe-interview/issues/2845)
+    - [js] [Math.min() < Math.max() 返回结果是什么？为什么？](https://github.com/haizlin/fe-interview/issues/2846)
+    - [软技能] [你知道什么是webAssembly吗？它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2847)
 - 第502天 (2020.08.30)  
     - [html] [写一个密码默认星号，但可以查看密码的输入框](https://github.com/haizlin/fe-interview/issues/2840)
     - [css] [使用css3实现小车行驶的动画效果](https://github.com/haizlin/fe-interview/issues/2841)
