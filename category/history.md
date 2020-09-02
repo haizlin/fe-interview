@@ -2,6 +2,11 @@
 
 
 
+- 第505天 (2020.09.02)  
+    - [html] [HTML采用的是RGB颜色还是CMYK颜色？为什么？](https://github.com/haizlin/fe-interview/issues/2852)
+    - [css] [你有使用过grid布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2853)
+    - [js] [写一个js方法，输入指定类型的选择器(id，class，tagName)可以返回匹配的DOM节，要求兼容和性能](https://github.com/haizlin/fe-interview/issues/2854)
+    - [软技能] [说说你对http3的理解，它主要解决了哪些问题？](https://github.com/haizlin/fe-interview/issues/2855)
 - 第504天 (2020.09.01)  
     - [html] [如果列表元素li的兄弟元素为div，会产生什么情况？](https://github.com/haizlin/fe-interview/issues/2848)
     - [css] [使用css制作鼠标经过图片时，放大图片1.5倍](https://github.com/haizlin/fe-interview/issues/2849)
