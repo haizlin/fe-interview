@@ -2,6 +2,11 @@
 
 
 
+- 第506天 (2020.09.03)  
+    - [html] [给你一个参考网站，你能快速下载它的模板吗？用哪些方法？](https://github.com/haizlin/fe-interview/issues/2856)
+    - [css] [grid布局和flex布局有什么区别？](https://github.com/haizlin/fe-interview/issues/2857)
+    - [js] [写一个代理console.log的方法](https://github.com/haizlin/fe-interview/issues/2858)
+    - [软技能] [如何解决android键盘回落后留白问题？](https://github.com/haizlin/fe-interview/issues/2859)
 - 第505天 (2020.09.02)  
     - [html] [HTML采用的是RGB颜色还是CMYK颜色？为什么？](https://github.com/haizlin/fe-interview/issues/2852)
     - [css] [你有使用过grid布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2853)
