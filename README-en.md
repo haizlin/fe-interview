@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.03) —— 506 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [给你一个参考网站，你能快速下载它的模板吗？用哪些方法？](https://github.com/haizlin/fe-interview/issues/2856)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [grid布局和flex布局有什么区别？](https://github.com/haizlin/fe-interview/issues/2857)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个代理console.log的方法](https://github.com/haizlin/fe-interview/issues/2858)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何解决android键盘回落后留白问题？](https://github.com/haizlin/fe-interview/issues/2859)  
+## :clock430: Today's Knowledge Points (2020.09.04) —— 507 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用纯HTML实现跑马灯的效果？](https://github.com/haizlin/fe-interview/issues/2860)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css使用一个弹幕的效果](https://github.com/haizlin/fe-interview/issues/2861)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写个方法，实现对某个节点的拖拽](https://github.com/haizlin/fe-interview/issues/2862)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你在web端实现过批量打印吗？如何实现？](https://github.com/haizlin/fe-interview/issues/2863)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 505 days (2020.09.02)  
-    	 :one: [html] [HTML采用的是RGB颜色还是CMYK颜色？为什么？](https://github.com/haizlin/fe-interview/issues/2852)  
-	 :two: [css] [你有使用过grid布局吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2853)  
-	 :three: [js] [写一个js方法，输入指定类型的选择器(id，class，tagName)可以返回匹配的DOM节，要求兼容和性能](https://github.com/haizlin/fe-interview/issues/2854)  
-	 :four: [skill] [说说你对http3的理解，它主要解决了哪些问题？](https://github.com/haizlin/fe-interview/issues/2855)  
+- 506 days (2020.09.03)  
+    	 :one: [html] [给你一个参考网站，你能快速下载它的模板吗？用哪些方法？](https://github.com/haizlin/fe-interview/issues/2856)  
+	 :two: [css] [grid布局和flex布局有什么区别？](https://github.com/haizlin/fe-interview/issues/2857)  
+	 :three: [js] [写一个代理console.log的方法](https://github.com/haizlin/fe-interview/issues/2858)  
+	 :four: [skill] [如何解决android键盘回落后留白问题？](https://github.com/haizlin/fe-interview/issues/2859)  
  
 	
 - **[All](category/history.md)**
