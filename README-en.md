@@ -28,7 +28,7 @@
 
 ## :clock430: Today's Knowledge Points (2020.09.04) —— 507 days  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用纯HTML实现跑马灯的效果？](https://github.com/haizlin/fe-interview/issues/2860)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css使用一个弹幕的效果](https://github.com/haizlin/fe-interview/issues/2861)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个弹幕的效果](https://github.com/haizlin/fe-interview/issues/2861)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写个方法，实现对某个节点的拖拽](https://github.com/haizlin/fe-interview/issues/2862)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你在web端实现过批量打印吗？如何实现？](https://github.com/haizlin/fe-interview/issues/2863)  
  

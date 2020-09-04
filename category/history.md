@@ -4,7 +4,7 @@
 
 - 第507天 (2020.09.04)  
     - [html] [如何使用纯HTML实现跑马灯的效果？](https://github.com/haizlin/fe-interview/issues/2860)
-    - [css] [使用css使用一个弹幕的效果](https://github.com/haizlin/fe-interview/issues/2861)
+    - [css] [使用css实现一个弹幕的效果](https://github.com/haizlin/fe-interview/issues/2861)
     - [js] [写个方法，实现对某个节点的拖拽](https://github.com/haizlin/fe-interview/issues/2862)
     - [软技能] [你在web端实现过批量打印吗？如何实现？](https://github.com/haizlin/fe-interview/issues/2863)
 - 第506天 (2020.09.03)  
