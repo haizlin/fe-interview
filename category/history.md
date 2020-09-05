@@ -2,6 +2,16 @@
 
 
 
+- 第509天 (2020.09.06)  
+    - [html] [如何优化大数据列表（10万+）的性能？说说你的方案](https://github.com/haizlin/fe-interview/issues/2868)
+    - [css] [flex:1与flex:auto有什么区别？](https://github.com/haizlin/fe-interview/issues/2869)
+    - [js] [SeaJS和RequireJS有什么区别？](https://github.com/haizlin/fe-interview/issues/2870)
+    - [软技能] [作为技术的Leader，你是如何管理好你的团队？](https://github.com/haizlin/fe-interview/issues/2871)
+- 第508天 (2020.09.05)  
+    - [html] [请写一个正则获取html源码中所有img标签的src地址](https://github.com/haizlin/fe-interview/issues/2864)
+    - [css] [简写的flex:1的完整写法是什么？](https://github.com/haizlin/fe-interview/issues/2865)
+    - [js] [如果要你自己实现一个requireJS库，你该怎么做？](https://github.com/haizlin/fe-interview/issues/2866)
+    - [软技能] [作为技术的Leader，带团队和提升开发能力的平衡点你是如何把握的？](https://github.com/haizlin/fe-interview/issues/2867)
 - 第507天 (2020.09.04)  
     - [html] [如何使用纯HTML实现跑马灯的效果？](https://github.com/haizlin/fe-interview/issues/2860)
     - [css] [使用css实现一个弹幕的效果](https://github.com/haizlin/fe-interview/issues/2861)

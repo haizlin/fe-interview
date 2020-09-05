@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.04) —— 507 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用纯HTML实现跑马灯的效果？](https://github.com/haizlin/fe-interview/issues/2860)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个弹幕的效果](https://github.com/haizlin/fe-interview/issues/2861)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写个方法，实现对某个节点的拖拽](https://github.com/haizlin/fe-interview/issues/2862)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你在web端实现过批量打印吗？如何实现？](https://github.com/haizlin/fe-interview/issues/2863)  
+## :clock430: Today's Knowledge Points (2020.09.06) —— 509 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何优化大数据列表（10万+）的性能？说说你的方案](https://github.com/haizlin/fe-interview/issues/2868)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [flex:1与flex:auto有什么区别？](https://github.com/haizlin/fe-interview/issues/2869)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [SeaJS和RequireJS有什么区别？](https://github.com/haizlin/fe-interview/issues/2870)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [作为技术的Leader，你是如何管理好你的团队？](https://github.com/haizlin/fe-interview/issues/2871)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 506 days (2020.09.03)  
-    	 :one: [html] [给你一个参考网站，你能快速下载它的模板吗？用哪些方法？](https://github.com/haizlin/fe-interview/issues/2856)  
-	 :two: [css] [grid布局和flex布局有什么区别？](https://github.com/haizlin/fe-interview/issues/2857)  
-	 :three: [js] [写一个代理console.log的方法](https://github.com/haizlin/fe-interview/issues/2858)  
-	 :four: [skill] [如何解决android键盘回落后留白问题？](https://github.com/haizlin/fe-interview/issues/2859)  
+- 508 days (2020.09.05)  
+    	 :one: [html] [请写一个正则获取html源码中所有img标签的src地址](https://github.com/haizlin/fe-interview/issues/2864)  
+	 :two: [css] [简写的flex:1的完整写法是什么？](https://github.com/haizlin/fe-interview/issues/2865)  
+	 :three: [js] [如果要你自己实现一个requireJS库，你该怎么做？](https://github.com/haizlin/fe-interview/issues/2866)  
+	 :four: [skill] [作为技术的Leader，带团队和提升开发能力的平衡点你是如何把握的？](https://github.com/haizlin/fe-interview/issues/2867)  
  
 	
 - **[All](category/history.md)**
