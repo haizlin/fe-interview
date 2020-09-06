@@ -2,6 +2,11 @@
 
 
 
+- 第510天 (2020.09.07)  
+    - [html] [在head标签中必不少的是什么？](https://github.com/haizlin/fe-interview/issues/2872)
+    - [css] [请说说css常用的单位和不常用的单位分别有哪些？](https://github.com/haizlin/fe-interview/issues/2873)
+    - [js] [如何设计一个JS SDK？说说你的方法](https://github.com/haizlin/fe-interview/issues/2874)
+    - [软技能] [作为管理岗位，说下你带团队的经验吧](https://github.com/haizlin/fe-interview/issues/2875)
 - 第509天 (2020.09.06)  
     - [html] [如何优化大数据列表（10万+）的性能？说说你的方案](https://github.com/haizlin/fe-interview/issues/2868)
     - [css] [flex:1与flex:auto有什么区别？](https://github.com/haizlin/fe-interview/issues/2869)

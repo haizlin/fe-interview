@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.09.06) —— 第509天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何优化大数据列表（10万+）的性能？说说你的方案](https://github.com/haizlin/fe-interview/issues/2868)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [flex:1与flex:auto有什么区别？](https://github.com/haizlin/fe-interview/issues/2869)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [SeaJS和RequireJS有什么区别？](https://github.com/haizlin/fe-interview/issues/2870)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [作为技术的Leader，你是如何管理好你的团队？](https://github.com/haizlin/fe-interview/issues/2871)  
+## :clock430: 今天的知识点   (2020.09.07) —— 第510天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在head标签中必不少的是什么？](https://github.com/haizlin/fe-interview/issues/2872)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请说说css常用的单位和不常用的单位分别有哪些？](https://github.com/haizlin/fe-interview/issues/2873)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何设计一个JS SDK？说说你的方法](https://github.com/haizlin/fe-interview/issues/2874)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [作为管理岗位，说下你带团队的经验吧](https://github.com/haizlin/fe-interview/issues/2875)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第508天 (2020.09.05)  
-    	 :one: [html] [请写一个正则获取html源码中所有img标签的src地址](https://github.com/haizlin/fe-interview/issues/2864)  
-	 :two: [css] [简写的flex:1的完整写法是什么？](https://github.com/haizlin/fe-interview/issues/2865)  
-	 :three: [js] [如果要你自己实现一个requireJS库，你该怎么做？](https://github.com/haizlin/fe-interview/issues/2866)  
-	 :four: [软技能] [作为技术的Leader，带团队和提升开发能力的平衡点你是如何把握的？](https://github.com/haizlin/fe-interview/issues/2867)  
+- 第509天 (2020.09.06)  
+    	 :one: [html] [如何优化大数据列表（10万+）的性能？说说你的方案](https://github.com/haizlin/fe-interview/issues/2868)  
+	 :two: [css] [flex:1与flex:auto有什么区别？](https://github.com/haizlin/fe-interview/issues/2869)  
+	 :three: [js] [SeaJS和RequireJS有什么区别？](https://github.com/haizlin/fe-interview/issues/2870)  
+	 :four: [软技能] [作为技术的Leader，你是如何管理好你的团队？](https://github.com/haizlin/fe-interview/issues/2871)  
  
 	
 - **[查看全部](category/history.md)**
