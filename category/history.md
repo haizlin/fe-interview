@@ -2,6 +2,11 @@
 
 
 
+- 第511天 (2020.09.08)  
+    - [html] [说说你对H5的SharedWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2877)
+    - [css] [如何取消同级li的最后一个li标签的右边距？](https://github.com/haizlin/fe-interview/issues/2878)
+    - [js] [如何设计一个pageAPI？说说你的方法](https://github.com/haizlin/fe-interview/issues/2879)
+    - [软技能] [你认为管理团队有哪些核心的要素？](https://github.com/haizlin/fe-interview/issues/2880)
 - 第510天 (2020.09.07)  
     - [html] [在head标签中必不少的是什么？](https://github.com/haizlin/fe-interview/issues/2872)
     - [css] [请说说css常用的单位和不常用的单位分别有哪些？](https://github.com/haizlin/fe-interview/issues/2873)
