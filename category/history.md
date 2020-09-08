@@ -2,6 +2,11 @@
 
 
 
+- 第512天 (2020.09.09)  
+    - [html] [说说你对H5的ServiceWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2882)
+    - [css] [使用css3动画代替js的动画有什么好处？](https://github.com/haizlin/fe-interview/issues/2883)
+    - [js] [实现一个寄生式组合继承](https://github.com/haizlin/fe-interview/issues/2884)
+    - [软技能] [如果让你空降去管理团队，你如何让团队成员信服？](https://github.com/haizlin/fe-interview/issues/2885)
 - 第511天 (2020.09.08)  
     - [html] [说说你对H5的SharedWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2877)
     - [css] [如何取消同级li的最后一个li标签的右边距？](https://github.com/haizlin/fe-interview/issues/2878)

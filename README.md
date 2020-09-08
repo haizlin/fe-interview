@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.09.08) —— 第511天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对H5的SharedWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2877)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何取消同级li的最后一个li标签的右边距？](https://github.com/haizlin/fe-interview/issues/2878)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何设计一个pageAPI？说说你的方法](https://github.com/haizlin/fe-interview/issues/2879)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你认为管理团队有哪些核心的要素？](https://github.com/haizlin/fe-interview/issues/2880)  
+## :clock430: 今天的知识点   (2020.09.09) —— 第512天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对H5的ServiceWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2882)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3动画代替js的动画有什么好处？](https://github.com/haizlin/fe-interview/issues/2883)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [实现一个寄生式组合继承](https://github.com/haizlin/fe-interview/issues/2884)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果让你空降去管理团队，你如何让团队成员信服？](https://github.com/haizlin/fe-interview/issues/2885)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第510天 (2020.09.07)  
-    	 :one: [html] [在head标签中必不少的是什么？](https://github.com/haizlin/fe-interview/issues/2872)  
-	 :two: [css] [请说说css常用的单位和不常用的单位分别有哪些？](https://github.com/haizlin/fe-interview/issues/2873)  
-	 :three: [js] [如何设计一个JS SDK？说说你的方法](https://github.com/haizlin/fe-interview/issues/2874)  
-	 :four: [软技能] [作为管理岗位，说下你带团队的经验吧](https://github.com/haizlin/fe-interview/issues/2875)  
+- 第511天 (2020.09.08)  
+    	 :one: [html] [说说你对H5的SharedWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2877)  
+	 :two: [css] [如何取消同级li的最后一个li标签的右边距？](https://github.com/haizlin/fe-interview/issues/2878)  
+	 :three: [js] [如何设计一个pageAPI？说说你的方法](https://github.com/haizlin/fe-interview/issues/2879)  
+	 :four: [软技能] [你认为管理团队有哪些核心的要素？](https://github.com/haizlin/fe-interview/issues/2880)  
  
 	
 - **[查看全部](category/history.md)**
