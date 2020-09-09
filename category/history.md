@@ -2,6 +2,11 @@
 
 
 
+- 第513天 (2020.09.10)  
+    - [html] [你有使用过MediaRecorder吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2886)
+    - [css] [分离图层做动画有什么优点？](https://github.com/haizlin/fe-interview/issues/2887)
+    - [js] [说说你对RAIL性能评估模型的了解](https://github.com/haizlin/fe-interview/issues/2888)
+    - [软技能] [你觉得团队管理，人的方面重要还事的方面重要？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2889)
 - 第512天 (2020.09.09)  
     - [html] [说说你对H5的ServiceWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2882)
     - [css] [使用css3动画代替js的动画有什么好处？](https://github.com/haizlin/fe-interview/issues/2883)

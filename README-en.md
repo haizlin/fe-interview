@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.09) —— 512 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对H5的ServiceWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2882)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3动画代替js的动画有什么好处？](https://github.com/haizlin/fe-interview/issues/2883)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [实现一个寄生式组合继承](https://github.com/haizlin/fe-interview/issues/2884)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果让你空降去管理团队，你如何让团队成员信服？](https://github.com/haizlin/fe-interview/issues/2885)  
+## :clock430: Today's Knowledge Points (2020.09.10) —— 513 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过MediaRecorder吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2886)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [分离图层做动画有什么优点？](https://github.com/haizlin/fe-interview/issues/2887)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对RAIL性能评估模型的了解](https://github.com/haizlin/fe-interview/issues/2888)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得团队管理，人的方面重要还事的方面重要？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2889)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 511 days (2020.09.08)  
-    	 :one: [html] [说说你对H5的SharedWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2877)  
-	 :two: [css] [如何取消同级li的最后一个li标签的右边距？](https://github.com/haizlin/fe-interview/issues/2878)  
-	 :three: [js] [如何设计一个pageAPI？说说你的方法](https://github.com/haizlin/fe-interview/issues/2879)  
-	 :four: [skill] [你认为管理团队有哪些核心的要素？](https://github.com/haizlin/fe-interview/issues/2880)  
+- 512 days (2020.09.09)  
+    	 :one: [html] [说说你对H5的ServiceWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2882)  
+	 :two: [css] [使用css3动画代替js的动画有什么好处？](https://github.com/haizlin/fe-interview/issues/2883)  
+	 :three: [js] [实现一个寄生式组合继承](https://github.com/haizlin/fe-interview/issues/2884)  
+	 :four: [skill] [如果让你空降去管理团队，你如何让团队成员信服？](https://github.com/haizlin/fe-interview/issues/2885)  
  
 	
 - **[All](category/history.md)**
