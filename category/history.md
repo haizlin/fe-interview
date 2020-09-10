@@ -2,6 +2,11 @@
 
 
 
+- 第514天 (2020.09.11)  
+    - [html] [H5中video的事件的触发顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/2890)
+    - [css] [如何创建stacking context？](https://github.com/haizlin/fe-interview/issues/2891)
+    - [js] [请说说DOM节点的操作如何优化？](https://github.com/haizlin/fe-interview/issues/2892)
+    - [软技能] [当业务与技术冲突时你作为管理者你该如何决择？](https://github.com/haizlin/fe-interview/issues/2893)
 - 第513天 (2020.09.10)  
     - [html] [你有使用过MediaRecorder吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2886)
     - [css] [分离图层做动画有什么优点？](https://github.com/haizlin/fe-interview/issues/2887)

@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.10) —— 513 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过MediaRecorder吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2886)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [分离图层做动画有什么优点？](https://github.com/haizlin/fe-interview/issues/2887)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对RAIL性能评估模型的了解](https://github.com/haizlin/fe-interview/issues/2888)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得团队管理，人的方面重要还事的方面重要？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2889)  
+## :clock430: Today's Knowledge Points (2020.09.11) —— 514 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5中video的事件的触发顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/2890)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何创建stacking context？](https://github.com/haizlin/fe-interview/issues/2891)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说DOM节点的操作如何优化？](https://github.com/haizlin/fe-interview/issues/2892)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [当业务与技术冲突时你作为管理者你该如何决择？](https://github.com/haizlin/fe-interview/issues/2893)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 512 days (2020.09.09)  
-    	 :one: [html] [说说你对H5的ServiceWorker的理解，它有什么运用场景？](https://github.com/haizlin/fe-interview/issues/2882)  
-	 :two: [css] [使用css3动画代替js的动画有什么好处？](https://github.com/haizlin/fe-interview/issues/2883)  
-	 :three: [js] [实现一个寄生式组合继承](https://github.com/haizlin/fe-interview/issues/2884)  
-	 :four: [skill] [如果让你空降去管理团队，你如何让团队成员信服？](https://github.com/haizlin/fe-interview/issues/2885)  
+- 513 days (2020.09.10)  
+    	 :one: [html] [你有使用过MediaRecorder吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2886)  
+	 :two: [css] [分离图层做动画有什么优点？](https://github.com/haizlin/fe-interview/issues/2887)  
+	 :three: [js] [说说你对RAIL性能评估模型的了解](https://github.com/haizlin/fe-interview/issues/2888)  
+	 :four: [skill] [你觉得团队管理，人的方面重要还事的方面重要？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2889)  
  
 	
 - **[All](category/history.md)**
