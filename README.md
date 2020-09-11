@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.09.11) —— 第514天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5中video的事件的触发顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/2890)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何创建stacking context？](https://github.com/haizlin/fe-interview/issues/2891)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说DOM节点的操作如何优化？](https://github.com/haizlin/fe-interview/issues/2892)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [当业务与技术冲突时你作为管理者你该如何决择？](https://github.com/haizlin/fe-interview/issues/2893)  
+## :clock430: 今天的知识点   (2020.09.12) —— 第515天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [const nums1 = [1, 2, 2, 1], nums2 = [2] 交集是什么？](https://github.com/haizlin/fe-interview/issues/2894)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Fixed定位如果脱离Viewport会产生什么样的bug？如何解决？](https://github.com/haizlin/fe-interview/issues/2895)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js的请求一般情况下在哪些地方会有缓存的处理？](https://github.com/haizlin/fe-interview/issues/2896)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [作为管理者，你是如何处理组织内部的矛盾？](https://github.com/haizlin/fe-interview/issues/2897)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第513天 (2020.09.10)  
-    	 :one: [html] [你有使用过MediaRecorder吗？说说它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/2886)  
-	 :two: [css] [分离图层做动画有什么优点？](https://github.com/haizlin/fe-interview/issues/2887)  
-	 :three: [js] [说说你对RAIL性能评估模型的了解](https://github.com/haizlin/fe-interview/issues/2888)  
-	 :four: [软技能] [你觉得团队管理，人的方面重要还事的方面重要？说说你的理由？](https://github.com/haizlin/fe-interview/issues/2889)  
+- 第514天 (2020.09.11)  
+    	 :one: [html] [H5中video的事件的触发顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/2890)  
+	 :two: [css] [如何创建stacking context？](https://github.com/haizlin/fe-interview/issues/2891)  
+	 :three: [js] [请说说DOM节点的操作如何优化？](https://github.com/haizlin/fe-interview/issues/2892)  
+	 :four: [软技能] [当业务与技术冲突时你作为管理者你该如何决择？](https://github.com/haizlin/fe-interview/issues/2893)  
  
 	
 - **[查看全部](category/history.md)**
