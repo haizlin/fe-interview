@@ -2,6 +2,11 @@
 
 
 
+- 第516天 (2020.09.13)  
+    - [html] [html中在span标签里面可以放那些标签？](https://github.com/haizlin/fe-interview/issues/2898)
+    - [css] [哪些方式使得position:fixed定位的基准元素改变？](https://github.com/haizlin/fe-interview/issues/2899)
+    - [js] [假设要在UI渲染之前处理一些事情你该怎么办？](https://github.com/haizlin/fe-interview/issues/2900)
+    - [软技能] [假如今天是你和你老婆结婚10周年重要的日子并已约好，公司突然有紧急的事情需要你亲自处理，你如何选择？](https://github.com/haizlin/fe-interview/issues/2901)
 - 第515天 (2020.09.12)  
     - [html] [const nums1 = [1, 2, 2, 1], nums2 = [2] 交集是什么？](https://github.com/haizlin/fe-interview/issues/2894)
     - [css] [Fixed定位如果脱离Viewport会产生什么样的bug？如何解决？](https://github.com/haizlin/fe-interview/issues/2895)

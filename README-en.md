@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.12) —— 515 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [const nums1 = [1, 2, 2, 1], nums2 = [2] 交集是什么？](https://github.com/haizlin/fe-interview/issues/2894)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Fixed定位如果脱离Viewport会产生什么样的bug？如何解决？](https://github.com/haizlin/fe-interview/issues/2895)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js的请求一般情况下在哪些地方会有缓存的处理？](https://github.com/haizlin/fe-interview/issues/2896)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [作为管理者，你是如何处理组织内部的矛盾？](https://github.com/haizlin/fe-interview/issues/2897)  
+## :clock430: Today's Knowledge Points (2020.09.13) —— 516 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html中在span标签里面可以放那些标签？](https://github.com/haizlin/fe-interview/issues/2898)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [哪些方式使得position:fixed定位的基准元素改变？](https://github.com/haizlin/fe-interview/issues/2899)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [假设要在UI渲染之前处理一些事情你该怎么办？](https://github.com/haizlin/fe-interview/issues/2900)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [假如今天是你和你老婆结婚10周年重要的日子并已约好，公司突然有紧急的事情需要你亲自处理，你如何选择？](https://github.com/haizlin/fe-interview/issues/2901)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 514 days (2020.09.11)  
-    	 :one: [html] [H5中video的事件的触发顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/2890)  
-	 :two: [css] [如何创建stacking context？](https://github.com/haizlin/fe-interview/issues/2891)  
-	 :three: [js] [请说说DOM节点的操作如何优化？](https://github.com/haizlin/fe-interview/issues/2892)  
-	 :four: [skill] [当业务与技术冲突时你作为管理者你该如何决择？](https://github.com/haizlin/fe-interview/issues/2893)  
+- 515 days (2020.09.12)  
+    	 :one: [html] [const nums1 = [1, 2, 2, 1], nums2 = [2] 交集是什么？](https://github.com/haizlin/fe-interview/issues/2894)  
+	 :two: [css] [Fixed定位如果脱离Viewport会产生什么样的bug？如何解决？](https://github.com/haizlin/fe-interview/issues/2895)  
+	 :three: [js] [js的请求一般情况下在哪些地方会有缓存的处理？](https://github.com/haizlin/fe-interview/issues/2896)  
+	 :four: [skill] [作为管理者，你是如何处理组织内部的矛盾？](https://github.com/haizlin/fe-interview/issues/2897)  
  
 	
 - **[All](category/history.md)**
