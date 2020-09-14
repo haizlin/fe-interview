@@ -2,6 +2,11 @@
 
 
 
+- 第518天 (2020.09.15)  
+    - [html] [如何给input的右上角加个清除的按钮？](https://github.com/haizlin/fe-interview/issues/2907)
+    - [css] [css如何去掉i标签默认的斜体？](https://github.com/haizlin/fe-interview/issues/2908)
+    - [js] [你知道什么是空闲回调(requestIdleCallback)吗？](https://github.com/haizlin/fe-interview/issues/2909)
+    - [软技能] [模块热替换(HMR)的原理是什么？](https://github.com/haizlin/fe-interview/issues/2910)
 - 第517天 (2020.09.14)  
     - [html] [进入编辑页面时，如何把光标聚焦到第一个input？](https://github.com/haizlin/fe-interview/issues/2902)
     - [css] [fixed定位脱离文档流与float有什么区别？](https://github.com/haizlin/fe-interview/issues/2903)
