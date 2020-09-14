@@ -2,6 +2,11 @@
 
 
 
+- 第517天 (2020.09.14)  
+    - [html] [进入编辑页面时，如何把光标聚焦到第一个input？](https://github.com/haizlin/fe-interview/issues/2902)
+    - [css] [fixed定位脱离文档流与float有什么区别？](https://github.com/haizlin/fe-interview/issues/2903)
+    - [js] [requestAnimationFrame在EventLoop的什么阶段执行？](https://github.com/haizlin/fe-interview/issues/2904)
+    - [软技能] [前端是如何监控性能的？](https://github.com/haizlin/fe-interview/issues/2906)
 - 第516天 (2020.09.13)  
     - [html] [html中在span标签里面可以放那些标签？](https://github.com/haizlin/fe-interview/issues/2898)
     - [css] [哪些方式使得position:fixed定位的基准元素改变？](https://github.com/haizlin/fe-interview/issues/2899)
