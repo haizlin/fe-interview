@@ -2,6 +2,11 @@
 
 
 
+- 第521天 (2020.09.18)  
+    - [html] [如果src或者href为空时，将会伴随着哪些问题的出现？](https://github.com/haizlin/fe-interview/issues/2922)
+    - [css] [怎么让position:fixed相对于父元素定位？](https://github.com/haizlin/fe-interview/issues/2923)
+    - [js] [请说说以下两种原型的区别](https://github.com/haizlin/fe-interview/issues/2924)
+    - [软技能] [作为管理者，如果如何管理进度的？](https://github.com/haizlin/fe-interview/issues/2925)
 - 第520天 (2020.09.17)  
     - [html] [举例说明只用html和css如何使得一个列表编号倒序？](https://github.com/haizlin/fe-interview/issues/2918)
     - [css] [为什么代码中两个`display`属性为`inline-block`的元素之间有多余字符（包括换行、制表符等）会造成页面中这两个元素之间有空隙？解决方案是什么？替代方案又都有哪些？](https://github.com/haizlin/fe-interview/issues/2919)
