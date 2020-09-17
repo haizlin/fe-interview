@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.15) —— 518 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何给input的右上角加个清除的按钮？](https://github.com/haizlin/fe-interview/issues/2907)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css如何去掉i标签默认的斜体？](https://github.com/haizlin/fe-interview/issues/2908)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你知道什么是空闲回调(requestIdleCallback)吗？](https://github.com/haizlin/fe-interview/issues/2909)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [模块热替换(HMR)的原理是什么？](https://github.com/haizlin/fe-interview/issues/2910)  
+## :clock430: Today's Knowledge Points (2020.09.17) —— 520 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [举例说明只用html和css如何使得一个列表编号倒序？](https://github.com/haizlin/fe-interview/issues/2918)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [为什么代码中两个`display`属性为`inline-block`的元素之间有多余字符（包括换行、制表符等）会造成页面中这两个元素之间有空隙？解决方案是什么？替代方案又都有哪些？](https://github.com/haizlin/fe-interview/issues/2919)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [requestIdleCallback在EventLoop的什么阶段执行？如何执行？](https://github.com/haizlin/fe-interview/issues/2920)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [作为管理者，要你设计一个日报（周报）的excel模板，你是如何？有什么原则？要查看哪些信息呢？](https://github.com/haizlin/fe-interview/issues/2921)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 517 days (2020.09.14)  
-    	 :one: [html] [进入编辑页面时，如何把光标聚焦到第一个input？](https://github.com/haizlin/fe-interview/issues/2902)  
-	 :two: [css] [fixed定位脱离文档流与float有什么区别？](https://github.com/haizlin/fe-interview/issues/2903)  
-	 :three: [js] [requestAnimationFrame在EventLoop的什么阶段执行？](https://github.com/haizlin/fe-interview/issues/2904)  
-	 :four: [skill] [前端是如何监控性能的？](https://github.com/haizlin/fe-interview/issues/2906)  
+- 519 days (2020.09.16)  
+    	 :one: [html] [http中的301、302、307、308有什么区别？](https://github.com/haizlin/fe-interview/issues/2911)  
+	 :two: [css] [justify-content的space-between与around有什么区别？](https://github.com/haizlin/fe-interview/issues/2912)  
+	 :three: [js] [EventLoop有优点但也有缺点，请说说它的缺点是什么？](https://github.com/haizlin/fe-interview/issues/2913)  
+	 :four: [skill] [作为管理者，你觉得管理日常化的事情有哪些？](https://github.com/haizlin/fe-interview/issues/2914)  
  
 	
 - **[All](category/history.md)**
