@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.18) —— 521 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如果src或者href为空时，将会伴随着哪些问题的出现？](https://github.com/haizlin/fe-interview/issues/2922)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [怎么让position:fixed相对于父元素定位？](https://github.com/haizlin/fe-interview/issues/2923)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说以下两种原型的区别](https://github.com/haizlin/fe-interview/issues/2924)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [作为管理者，如果如何管理进度的？](https://github.com/haizlin/fe-interview/issues/2925)  
+## :clock430: Today's Knowledge Points (2020.09.19) —— 522 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5页面在微信中如何禁止分享给好友和朋友圈？](https://github.com/haizlin/fe-interview/issues/2926)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用flex实现一行有多个不等的标签元素宽度平均分配](https://github.com/haizlin/fe-interview/issues/2927)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [把对象转换到数字类型是如何转换的？](https://github.com/haizlin/fe-interview/issues/2928)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你是如何预估工作量的？有什么理论依据吗？](https://github.com/haizlin/fe-interview/issues/2929)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 520 days (2020.09.17)  
-    	 :one: [html] [举例说明只用html和css如何使得一个列表编号倒序？](https://github.com/haizlin/fe-interview/issues/2918)  
-	 :two: [css] [为什么代码中两个`display`属性为`inline-block`的元素之间有多余字符（包括换行、制表符等）会造成页面中这两个元素之间有空隙？解决方案是什么？替代方案又都有哪些？](https://github.com/haizlin/fe-interview/issues/2919)  
-	 :three: [js] [requestIdleCallback在EventLoop的什么阶段执行？如何执行？](https://github.com/haizlin/fe-interview/issues/2920)  
-	 :four: [skill] [作为管理者，要你设计一个日报（周报）的excel模板，你是如何？有什么原则？要查看哪些信息呢？](https://github.com/haizlin/fe-interview/issues/2921)  
+- 521 days (2020.09.18)  
+    	 :one: [html] [如果src或者href为空时，将会伴随着哪些问题的出现？](https://github.com/haizlin/fe-interview/issues/2922)  
+	 :two: [css] [怎么让position:fixed相对于父元素定位？](https://github.com/haizlin/fe-interview/issues/2923)  
+	 :three: [js] [请说说以下两种原型的区别](https://github.com/haizlin/fe-interview/issues/2924)  
+	 :four: [skill] [作为管理者，如果如何管理进度的？](https://github.com/haizlin/fe-interview/issues/2925)  
  
 	
 - **[All](category/history.md)**

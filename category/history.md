@@ -2,6 +2,11 @@
 
 
 
+- 第522天 (2020.09.19)  
+    - [html] [H5页面在微信中如何禁止分享给好友和朋友圈？](https://github.com/haizlin/fe-interview/issues/2926)
+    - [css] [使用flex实现一行有多个不等的标签元素宽度平均分配](https://github.com/haizlin/fe-interview/issues/2927)
+    - [js] [把对象转换到数字类型是如何转换的？](https://github.com/haizlin/fe-interview/issues/2928)
+    - [软技能] [你是如何预估工作量的？有什么理论依据吗？](https://github.com/haizlin/fe-interview/issues/2929)
 - 第521天 (2020.09.18)  
     - [html] [如果src或者href为空时，将会伴随着哪些问题的出现？](https://github.com/haizlin/fe-interview/issues/2922)
     - [css] [怎么让position:fixed相对于父元素定位？](https://github.com/haizlin/fe-interview/issues/2923)
