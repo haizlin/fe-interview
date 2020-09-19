@@ -2,6 +2,11 @@
 
 
 
+- 第523天 (2020.09.20)  
+    - [html] [微信H5页面如何更新缓存？](https://github.com/haizlin/fe-interview/issues/2930)
+    - [css] [使用了float的标签，如何避免左侧贴边重叠？](https://github.com/haizlin/fe-interview/issues/2931)
+    - [js] [把对象转换到字符串类型是如何转换的？](https://github.com/haizlin/fe-interview/issues/2932)
+    - [软技能] [说说你了解的前端代码评审Checklist有哪些项？](https://github.com/haizlin/fe-interview/issues/2933)
 - 第522天 (2020.09.19)  
     - [html] [H5页面在微信中如何禁止分享给好友和朋友圈？](https://github.com/haizlin/fe-interview/issues/2926)
     - [css] [使用flex实现一行有多个不等的标签元素宽度平均分配](https://github.com/haizlin/fe-interview/issues/2927)
