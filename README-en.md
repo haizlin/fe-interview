@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.20) —— 523 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [微信H5页面如何更新缓存？](https://github.com/haizlin/fe-interview/issues/2930)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用了float的标签，如何避免左侧贴边重叠？](https://github.com/haizlin/fe-interview/issues/2931)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [把对象转换到字符串类型是如何转换的？](https://github.com/haizlin/fe-interview/issues/2932)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你了解的前端代码评审Checklist有哪些项？](https://github.com/haizlin/fe-interview/issues/2933)  
+## :clock430: Today's Knowledge Points (2020.09.21) —— 524 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对短链接的理解，它有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/2941)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [怎样解决float元素无法撑起父级容器的高度？](https://github.com/haizlin/fe-interview/issues/2942)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请举例说明比较运算符`>,>=,<,<=`的比较规则](https://github.com/haizlin/fe-interview/issues/2943)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你每天的工作是谁给你安排的？](https://github.com/haizlin/fe-interview/issues/2944)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 522 days (2020.09.19)  
-    	 :one: [html] [H5页面在微信中如何禁止分享给好友和朋友圈？](https://github.com/haizlin/fe-interview/issues/2926)  
-	 :two: [css] [使用flex实现一行有多个不等的标签元素宽度平均分配](https://github.com/haizlin/fe-interview/issues/2927)  
-	 :three: [js] [把对象转换到数字类型是如何转换的？](https://github.com/haizlin/fe-interview/issues/2928)  
-	 :four: [skill] [你是如何预估工作量的？有什么理论依据吗？](https://github.com/haizlin/fe-interview/issues/2929)  
+- 523 days (2020.09.20)  
+    	 :one: [html] [微信H5页面如何更新缓存？](https://github.com/haizlin/fe-interview/issues/2930)  
+	 :two: [css] [使用了float的标签，如何避免左侧贴边重叠？](https://github.com/haizlin/fe-interview/issues/2931)  
+	 :three: [js] [把对象转换到字符串类型是如何转换的？](https://github.com/haizlin/fe-interview/issues/2932)  
+	 :four: [skill] [说说你了解的前端代码评审Checklist有哪些项？](https://github.com/haizlin/fe-interview/issues/2933)  
  
 	
 - **[All](category/history.md)**
