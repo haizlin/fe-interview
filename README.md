@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.09.21) —— 第524天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对短链接的理解，它有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/2941)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [怎样解决float元素无法撑起父级容器的高度？](https://github.com/haizlin/fe-interview/issues/2942)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请举例说明比较运算符`>,>=,<,<=`的比较规则](https://github.com/haizlin/fe-interview/issues/2943)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你每天的工作是谁给你安排的？](https://github.com/haizlin/fe-interview/issues/2944)  
+## :clock430: 今天的知识点   (2020.09.22) —— 第525天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你知道短链接的生成原理吗？](https://github.com/haizlin/fe-interview/issues/2945)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下BFC、IFC、GFC、FFC的区别是什么？](https://github.com/haizlin/fe-interview/issues/2946)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法获取指定窗口的尺寸大小](https://github.com/haizlin/fe-interview/issues/2947)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [编程中经常会提到副作用，那副作用指的是什么？](https://github.com/haizlin/fe-interview/issues/2948)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第523天 (2020.09.20)  
-    	 :one: [html] [微信H5页面如何更新缓存？](https://github.com/haizlin/fe-interview/issues/2930)  
-	 :two: [css] [使用了float的标签，如何避免左侧贴边重叠？](https://github.com/haizlin/fe-interview/issues/2931)  
-	 :three: [js] [把对象转换到字符串类型是如何转换的？](https://github.com/haizlin/fe-interview/issues/2932)  
-	 :four: [软技能] [说说你了解的前端代码评审Checklist有哪些项？](https://github.com/haizlin/fe-interview/issues/2933)  
+- 第524天 (2020.09.21)  
+    	 :one: [html] [说说你对短链接的理解，它有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/2941)  
+	 :two: [css] [怎样解决float元素无法撑起父级容器的高度？](https://github.com/haizlin/fe-interview/issues/2942)  
+	 :three: [js] [请举例说明比较运算符`>,>=,<,<=`的比较规则](https://github.com/haizlin/fe-interview/issues/2943)  
+	 :four: [软技能] [你每天的工作是谁给你安排的？](https://github.com/haizlin/fe-interview/issues/2944)  
  
 	
 - **[查看全部](category/history.md)**
