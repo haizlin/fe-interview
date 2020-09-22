@@ -2,6 +2,11 @@
 
 
 
+- 第526天 (2020.09.23)  
+    - [html] [网页中的友情链接有什么作用？](https://github.com/haizlin/fe-interview/issues/2952)
+    - [css] [使用纯css布局中一个“王”字](https://github.com/haizlin/fe-interview/issues/2953)
+    - [js] [写一个方法获取滚动条距离窗口顶部的距离](https://github.com/haizlin/fe-interview/issues/2954)
+    - [软技能] [你知道什么是约定优于配置吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2955)
 - 第525天 (2020.09.22)  
     - [html] [你知道短链接的生成原理吗？](https://github.com/haizlin/fe-interview/issues/2945)
     - [css] [解释下BFC、IFC、GFC、FFC的区别是什么？](https://github.com/haizlin/fe-interview/issues/2946)
