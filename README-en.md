@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.24) —— 527 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你知道什么是反向链接吗？它有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/2956)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [举例说明BFC有什么应用场景](https://github.com/haizlin/fe-interview/issues/2957)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明+运算符的运行机制](https://github.com/haizlin/fe-interview/issues/2958)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何进行网站性能优化？](https://github.com/haizlin/fe-interview/issues/2959)  
+## :clock430: Today's Knowledge Points (2020.09.26) —— 529 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个方法计算出页面中HTML使用最多的标签是哪一个](https://github.com/haizlin/fe-interview/issues/2975)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下为什么说通配符选择器要慎用？](https://github.com/haizlin/fe-interview/issues/2976)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明判断浏览器是否支持某个事件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2977)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [git区分大小写吗？如果不区分，那要如何设置？](https://github.com/haizlin/fe-interview/issues/2978)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 526 days (2020.09.23)  
-    	 :one: [html] [网页中的友情链接有什么作用？](https://github.com/haizlin/fe-interview/issues/2952)  
-	 :two: [css] [使用纯css布局中一个“王”字](https://github.com/haizlin/fe-interview/issues/2953)  
-	 :three: [js] [写一个方法获取滚动条距离窗口顶部的距离](https://github.com/haizlin/fe-interview/issues/2954)  
-	 :four: [skill] [你知道什么是约定优于配置吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/2955)  
+- 528 days (2020.09.25)  
+    	 :one: [html] [如何让pre标签中的元素自动换行？](https://github.com/haizlin/fe-interview/issues/2971)  
+	 :two: [css] [给兄弟元素的标签设置红色](https://github.com/haizlin/fe-interview/issues/2972)  
+	 :three: [js] [请说说focus、blur与focusin、focusout的区别是什么？](https://github.com/haizlin/fe-interview/issues/2973)  
+	 :four: [skill] [git怎样忽略已加入版本库的文件？](https://github.com/haizlin/fe-interview/issues/2974)  
  
 	
 - **[All](category/history.md)**

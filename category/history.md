@@ -2,6 +2,16 @@
 
 
 
+- 第529天 (2020.09.26)  
+    - [html] [写一个方法计算出页面中HTML使用最多的标签是哪一个](https://github.com/haizlin/fe-interview/issues/2975)
+    - [css] [解释下为什么说通配符选择器要慎用？](https://github.com/haizlin/fe-interview/issues/2976)
+    - [js] [举例说明判断浏览器是否支持某个事件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2977)
+    - [软技能] [git区分大小写吗？如果不区分，那要如何设置？](https://github.com/haizlin/fe-interview/issues/2978)
+- 第528天 (2020.09.25)  
+    - [html] [如何让pre标签中的元素自动换行？](https://github.com/haizlin/fe-interview/issues/2971)
+    - [css] [给兄弟元素的标签设置红色](https://github.com/haizlin/fe-interview/issues/2972)
+    - [js] [请说说focus、blur与focusin、focusout的区别是什么？](https://github.com/haizlin/fe-interview/issues/2973)
+    - [软技能] [git怎样忽略已加入版本库的文件？](https://github.com/haizlin/fe-interview/issues/2974)
 - 第527天 (2020.09.24)  
     - [html] [你知道什么是反向链接吗？它有什么应用场景呢？](https://github.com/haizlin/fe-interview/issues/2956)
     - [css] [举例说明BFC有什么应用场景](https://github.com/haizlin/fe-interview/issues/2957)
