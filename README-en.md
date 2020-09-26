@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.26) —— 529 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个方法计算出页面中HTML使用最多的标签是哪一个](https://github.com/haizlin/fe-interview/issues/2975)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下为什么说通配符选择器要慎用？](https://github.com/haizlin/fe-interview/issues/2976)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明判断浏览器是否支持某个事件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2977)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [git区分大小写吗？如果不区分，那要如何设置？](https://github.com/haizlin/fe-interview/issues/2978)  
+## :clock430: Today's Knowledge Points (2020.09.27) —— 530 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，满足当页面滚动时，左侧固定不动，右侧的最小高度与左侧一样](https://github.com/haizlin/fe-interview/issues/2980)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [伪类选择器和伪元素选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/2981)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [接口请求时需要做哪些安全处理？怎么做？](https://github.com/haizlin/fe-interview/issues/2982)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你之前公司有做前端的基础建设吗？都有哪些方面？](https://github.com/haizlin/fe-interview/issues/2983)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 528 days (2020.09.25)  
-    	 :one: [html] [如何让pre标签中的元素自动换行？](https://github.com/haizlin/fe-interview/issues/2971)  
-	 :two: [css] [给兄弟元素的标签设置红色](https://github.com/haizlin/fe-interview/issues/2972)  
-	 :three: [js] [请说说focus、blur与focusin、focusout的区别是什么？](https://github.com/haizlin/fe-interview/issues/2973)  
-	 :four: [skill] [git怎样忽略已加入版本库的文件？](https://github.com/haizlin/fe-interview/issues/2974)  
+- 529 days (2020.09.26)  
+    	 :one: [html] [写一个方法计算出页面中HTML使用最多的标签是哪一个](https://github.com/haizlin/fe-interview/issues/2975)  
+	 :two: [css] [解释下为什么说通配符选择器要慎用？](https://github.com/haizlin/fe-interview/issues/2976)  
+	 :three: [js] [举例说明判断浏览器是否支持某个事件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2977)  
+	 :four: [skill] [git区分大小写吗？如果不区分，那要如何设置？](https://github.com/haizlin/fe-interview/issues/2978)  
  
 	
 - **[All](category/history.md)**
