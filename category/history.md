@@ -2,6 +2,11 @@
 
 
 
+- 第531天 (2020.09.28)  
+    - [html] [H5的video可以播放哪些类型的文件？可以播放rtsp流吗？](https://github.com/haizlin/fe-interview/issues/2984)
+    - [css] [请说说width: auto和width: 100%有什么？区别](https://github.com/haizlin/fe-interview/issues/2985)
+    - [js] [写个方法获取给定开始和结束时间的所有日期和月份](https://github.com/haizlin/fe-interview/issues/2986)
+    - [软技能] [你认为沟通和技术哪个更为重要？](https://github.com/haizlin/fe-interview/issues/2987)
 - 第530天 (2020.09.27)  
     - [html] [写一个布局，满足当页面滚动时，左侧固定不动，右侧的最小高度与左侧一样](https://github.com/haizlin/fe-interview/issues/2980)
     - [css] [伪类选择器和伪元素选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/2981)

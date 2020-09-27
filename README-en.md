@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.27) —— 530 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，满足当页面滚动时，左侧固定不动，右侧的最小高度与左侧一样](https://github.com/haizlin/fe-interview/issues/2980)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [伪类选择器和伪元素选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/2981)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [接口请求时需要做哪些安全处理？怎么做？](https://github.com/haizlin/fe-interview/issues/2982)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你之前公司有做前端的基础建设吗？都有哪些方面？](https://github.com/haizlin/fe-interview/issues/2983)  
+## :clock430: Today's Knowledge Points (2020.09.28) —— 531 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5的video可以播放哪些类型的文件？可以播放rtsp流吗？](https://github.com/haizlin/fe-interview/issues/2984)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请说说width: auto和width: 100%有什么？区别](https://github.com/haizlin/fe-interview/issues/2985)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写个方法获取给定开始和结束时间的所有日期和月份](https://github.com/haizlin/fe-interview/issues/2986)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为沟通和技术哪个更为重要？](https://github.com/haizlin/fe-interview/issues/2987)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 529 days (2020.09.26)  
-    	 :one: [html] [写一个方法计算出页面中HTML使用最多的标签是哪一个](https://github.com/haizlin/fe-interview/issues/2975)  
-	 :two: [css] [解释下为什么说通配符选择器要慎用？](https://github.com/haizlin/fe-interview/issues/2976)  
-	 :three: [js] [举例说明判断浏览器是否支持某个事件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/2977)  
-	 :four: [skill] [git区分大小写吗？如果不区分，那要如何设置？](https://github.com/haizlin/fe-interview/issues/2978)  
+- 530 days (2020.09.27)  
+    	 :one: [html] [写一个布局，满足当页面滚动时，左侧固定不动，右侧的最小高度与左侧一样](https://github.com/haizlin/fe-interview/issues/2980)  
+	 :two: [css] [伪类选择器和伪元素选择器有什么区别？](https://github.com/haizlin/fe-interview/issues/2981)  
+	 :three: [js] [接口请求时需要做哪些安全处理？怎么做？](https://github.com/haizlin/fe-interview/issues/2982)  
+	 :four: [skill] [你之前公司有做前端的基础建设吗？都有哪些方面？](https://github.com/haizlin/fe-interview/issues/2983)  
  
 	
 - **[All](category/history.md)**
