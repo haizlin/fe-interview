@@ -2,6 +2,11 @@
 
 
 
+- 第532天 (2020.09.29)  
+    - [html] [请说说你在写布局时对于浏览器兼容性的感受或总结](https://github.com/haizlin/fe-interview/issues/2988)
+    - [css] [如何实现gif动图的暂停和播放？](https://github.com/haizlin/fe-interview/issues/2989)
+    - [js] [数组元素全倒排列并去重](https://github.com/haizlin/fe-interview/issues/2990)
+    - [软技能] [url的长度限制是多少呢？为什么会有这种限制？](https://github.com/haizlin/fe-interview/issues/2991)
 - 第531天 (2020.09.28)  
     - [html] [H5的video可以播放哪些类型的文件？可以播放rtsp流吗？](https://github.com/haizlin/fe-interview/issues/2984)
     - [css] [请说说width: auto和width: 100%有什么？区别](https://github.com/haizlin/fe-interview/issues/2985)
