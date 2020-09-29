@@ -2,6 +2,11 @@
 
 
 
+- 第533天 (2020.09.30)  
+    - [html] [html页面中如何实现gif图片重新播放？](https://github.com/haizlin/fe-interview/issues/2993)
+    - [css] [简述下Flex的容器和项目的概念](https://github.com/haizlin/fe-interview/issues/2994)
+    - [js] [函数的调用栈是怎么工作的？](https://github.com/haizlin/fe-interview/issues/2995)
+    - [软技能] [项目工作量的评估中，“人天”指的是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/2996)
 - 第532天 (2020.09.29)  
     - [html] [请说说你在写布局时对于浏览器兼容性的感受或总结](https://github.com/haizlin/fe-interview/issues/2988)
     - [css] [如何实现gif动图的暂停和播放？](https://github.com/haizlin/fe-interview/issues/2989)

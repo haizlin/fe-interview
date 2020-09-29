@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.09.29) —— 第532天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请说说你在写布局时对于浏览器兼容性的感受或总结](https://github.com/haizlin/fe-interview/issues/2988)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何实现gif动图的暂停和播放？](https://github.com/haizlin/fe-interview/issues/2989)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [数组元素全倒排列并去重](https://github.com/haizlin/fe-interview/issues/2990)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [url的长度限制是多少呢？为什么会有这种限制？](https://github.com/haizlin/fe-interview/issues/2991)  
+## :clock430: 今天的知识点   (2020.09.30) —— 第533天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html页面中如何实现gif图片重新播放？](https://github.com/haizlin/fe-interview/issues/2993)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [简述下Flex的容器和项目的概念](https://github.com/haizlin/fe-interview/issues/2994)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [函数的调用栈是怎么工作的？](https://github.com/haizlin/fe-interview/issues/2995)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [项目工作量的评估中，“人天”指的是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/2996)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第531天 (2020.09.28)  
-    	 :one: [html] [H5的video可以播放哪些类型的文件？可以播放rtsp流吗？](https://github.com/haizlin/fe-interview/issues/2984)  
-	 :two: [css] [请说说width: auto和width: 100%有什么？区别](https://github.com/haizlin/fe-interview/issues/2985)  
-	 :three: [js] [写个方法获取给定开始和结束时间的所有日期和月份](https://github.com/haizlin/fe-interview/issues/2986)  
-	 :four: [软技能] [你认为沟通和技术哪个更为重要？](https://github.com/haizlin/fe-interview/issues/2987)  
+- 第532天 (2020.09.29)  
+    	 :one: [html] [请说说你在写布局时对于浏览器兼容性的感受或总结](https://github.com/haizlin/fe-interview/issues/2988)  
+	 :two: [css] [如何实现gif动图的暂停和播放？](https://github.com/haizlin/fe-interview/issues/2989)  
+	 :three: [js] [数组元素全倒排列并去重](https://github.com/haizlin/fe-interview/issues/2990)  
+	 :four: [软技能] [url的长度限制是多少呢？为什么会有这种限制？](https://github.com/haizlin/fe-interview/issues/2991)  
  
 	
 - **[查看全部](category/history.md)**
