@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.09.30) —— 533 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html页面中如何实现gif图片重新播放？](https://github.com/haizlin/fe-interview/issues/2993)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [简述下Flex的容器和项目的概念](https://github.com/haizlin/fe-interview/issues/2994)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [函数的调用栈是怎么工作的？](https://github.com/haizlin/fe-interview/issues/2995)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [项目工作量的评估中，“人天”指的是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/2996)  
+## :clock430: Today's Knowledge Points (2020.10.02) —— 535 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何实现页面背景图固定不动，不跟随滚动条滚动？](https://github.com/haizlin/fe-interview/issues/3002)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过@support吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3003)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [用js写个算法算出筐里最少有多少个鸡蛋？](https://github.com/haizlin/fe-interview/issues/3004)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为前端传输过程的参数需要加密吗？为什么？怎么加密更安全？](https://github.com/haizlin/fe-interview/issues/3005)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 532 days (2020.09.29)  
-    	 :one: [html] [请说说你在写布局时对于浏览器兼容性的感受或总结](https://github.com/haizlin/fe-interview/issues/2988)  
-	 :two: [css] [如何实现gif动图的暂停和播放？](https://github.com/haizlin/fe-interview/issues/2989)  
-	 :three: [js] [数组元素全倒排列并去重](https://github.com/haizlin/fe-interview/issues/2990)  
-	 :four: [skill] [url的长度限制是多少呢？为什么会有这种限制？](https://github.com/haizlin/fe-interview/issues/2991)  
+- 534 days (2020.10.01)  
+    	 :one: [html] [如何实现默认显示git的第一帧图片，当鼠标经过时，播放完整的gif动画](https://github.com/haizlin/fe-interview/issues/2998)  
+	 :two: [css] [你在使用calc过程中遇到过哪些坑？如何解决？](https://github.com/haizlin/fe-interview/issues/2999)  
+	 :three: [js] [说说你对堆栈跟踪的理解](https://github.com/haizlin/fe-interview/issues/3000)  
+	 :four: [skill] [解释一下PRPL模式](https://github.com/haizlin/fe-interview/issues/3001)  
  
 	
 - **[All](category/history.md)**

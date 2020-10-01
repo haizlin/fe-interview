@@ -2,6 +2,16 @@
 
 
 
+- 第535天 (2020.10.02)  
+    - [html] [如何实现页面背景图固定不动，不跟随滚动条滚动？](https://github.com/haizlin/fe-interview/issues/3002)
+    - [css] [你有使用过@support吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3003)
+    - [js] [用js写个算法算出筐里最少有多少个鸡蛋？](https://github.com/haizlin/fe-interview/issues/3004)
+    - [软技能] [你认为前端传输过程的参数需要加密吗？为什么？怎么加密更安全？](https://github.com/haizlin/fe-interview/issues/3005)
+- 第534天 (2020.10.01)  
+    - [html] [如何实现默认显示git的第一帧图片，当鼠标经过时，播放完整的gif动画](https://github.com/haizlin/fe-interview/issues/2998)
+    - [css] [你在使用calc过程中遇到过哪些坑？如何解决？](https://github.com/haizlin/fe-interview/issues/2999)
+    - [js] [说说你对堆栈跟踪的理解](https://github.com/haizlin/fe-interview/issues/3000)
+    - [软技能] [解释一下PRPL模式](https://github.com/haizlin/fe-interview/issues/3001)
 - 第533天 (2020.09.30)  
     - [html] [html页面中如何实现gif图片重新播放？](https://github.com/haizlin/fe-interview/issues/2993)
     - [css] [简述下Flex的容器和项目的概念](https://github.com/haizlin/fe-interview/issues/2994)
