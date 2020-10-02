@@ -2,6 +2,11 @@
 
 
 
+- 第536天 (2020.10.03)  
+    - [html] [制作一个页面时，需要兼容PC端和手机端，你是要分别做两个页面还是只做一个页面自适应？为什么？说说你的理由](https://github.com/haizlin/fe-interview/issues/3006)
+    - [css] [解释下1px、1rem、1em、1vh代表的含义分别是什么？](https://github.com/haizlin/fe-interview/issues/3007)
+    - [js] [js如何实现函数缓存？函数缓存有什么运用场景？](https://github.com/haizlin/fe-interview/issues/3008)
+    - [软技能] [说说你对serverless的理解，它对前端有什么影响？](https://github.com/haizlin/fe-interview/issues/3009)
 - 第535天 (2020.10.02)  
     - [html] [如何实现页面背景图固定不动，不跟随滚动条滚动？](https://github.com/haizlin/fe-interview/issues/3002)
     - [css] [你有使用过@support吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3003)
