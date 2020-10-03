@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.03) —— 第536天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [制作一个页面时，需要兼容PC端和手机端，你是要分别做两个页面还是只做一个页面自适应？为什么？说说你的理由](https://github.com/haizlin/fe-interview/issues/3006)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下1px、1rem、1em、1vh代表的含义分别是什么？](https://github.com/haizlin/fe-interview/issues/3007)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js如何实现函数缓存？函数缓存有什么运用场景？](https://github.com/haizlin/fe-interview/issues/3008)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对serverless的理解，它对前端有什么影响？](https://github.com/haizlin/fe-interview/issues/3009)  
+## :clock430: 今天的知识点   (2020.10.04) —— 第537天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你能否画出一个0.5px的直线？](https://github.com/haizlin/fe-interview/issues/3011)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css制作出一个星星](https://github.com/haizlin/fe-interview/issues/3012)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Float32Array有几种构造方式？](https://github.com/haizlin/fe-interview/issues/3013)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [ws协议与http协议的不同？](https://github.com/haizlin/fe-interview/issues/3014)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第535天 (2020.10.02)  
-    	 :one: [html] [如何实现页面背景图固定不动，不跟随滚动条滚动？](https://github.com/haizlin/fe-interview/issues/3002)  
-	 :two: [css] [你有使用过@support吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3003)  
-	 :three: [js] [用js写个算法算出筐里最少有多少个鸡蛋？](https://github.com/haizlin/fe-interview/issues/3004)  
-	 :four: [软技能] [你认为前端传输过程的参数需要加密吗？为什么？怎么加密更安全？](https://github.com/haizlin/fe-interview/issues/3005)  
+- 第536天 (2020.10.03)  
+    	 :one: [html] [制作一个页面时，需要兼容PC端和手机端，你是要分别做两个页面还是只做一个页面自适应？为什么？说说你的理由](https://github.com/haizlin/fe-interview/issues/3006)  
+	 :two: [css] [解释下1px、1rem、1em、1vh代表的含义分别是什么？](https://github.com/haizlin/fe-interview/issues/3007)  
+	 :three: [js] [js如何实现函数缓存？函数缓存有什么运用场景？](https://github.com/haizlin/fe-interview/issues/3008)  
+	 :four: [软技能] [说说你对serverless的理解，它对前端有什么影响？](https://github.com/haizlin/fe-interview/issues/3009)  
  
 	
 - **[查看全部](category/history.md)**

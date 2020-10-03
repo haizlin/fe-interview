@@ -2,6 +2,11 @@
 
 
 
+- 第537天 (2020.10.04)  
+    - [html] [你能否画出一个0.5px的直线？](https://github.com/haizlin/fe-interview/issues/3011)
+    - [css] [使用css制作出一个星星](https://github.com/haizlin/fe-interview/issues/3012)
+    - [js] [Float32Array有几种构造方式？](https://github.com/haizlin/fe-interview/issues/3013)
+    - [软技能] [ws协议与http协议的不同？](https://github.com/haizlin/fe-interview/issues/3014)
 - 第536天 (2020.10.03)  
     - [html] [制作一个页面时，需要兼容PC端和手机端，你是要分别做两个页面还是只做一个页面自适应？为什么？说说你的理由](https://github.com/haizlin/fe-interview/issues/3006)
     - [css] [解释下1px、1rem、1em、1vh代表的含义分别是什么？](https://github.com/haizlin/fe-interview/issues/3007)
@@ -29,7 +34,7 @@
     - [软技能] [url的长度限制是多少呢？为什么会有这种限制？](https://github.com/haizlin/fe-interview/issues/2991)
 - 第531天 (2020.09.28)  
     - [html] [H5的video可以播放哪些类型的文件？可以播放rtsp流吗？](https://github.com/haizlin/fe-interview/issues/2984)
-    - [css] [请说说width: auto和width: 100%有什么？区别](https://github.com/haizlin/fe-interview/issues/2985)
+    - [css] [请说说width: auto和width: 100%有什么区别？](https://github.com/haizlin/fe-interview/issues/2985)
     - [js] [写个方法获取给定开始和结束时间的所有日期和月份](https://github.com/haizlin/fe-interview/issues/2986)
     - [软技能] [你认为沟通和技术哪个更为重要？](https://github.com/haizlin/fe-interview/issues/2987)
 - 第530天 (2020.09.27)  
