@@ -2,6 +2,11 @@
 
 
 
+- 第538天 (2020.10.05)  
+    - [html] [实现中国五星红旗国旗的布局](https://github.com/haizlin/fe-interview/issues/3015)
+    - [css] [使用css3制作一个鼠标经过文本时，显示出边框的动画特效](https://github.com/haizlin/fe-interview/issues/3016)
+    - [js] [什么时候在JS中使用Float32Array而不是Array？](https://github.com/haizlin/fe-interview/issues/3017)
+    - [软技能] [开发多个系统时如何共享组件化？有哪些方案？](https://github.com/haizlin/fe-interview/issues/3018)
 - 第537天 (2020.10.04)  
     - [html] [你能否画出一个0.5px的直线？](https://github.com/haizlin/fe-interview/issues/3011)
     - [css] [使用css制作出一个星星](https://github.com/haizlin/fe-interview/issues/3012)

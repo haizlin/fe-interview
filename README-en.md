@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.10.04) —— 537 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你能否画出一个0.5px的直线？](https://github.com/haizlin/fe-interview/issues/3011)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css制作出一个星星](https://github.com/haizlin/fe-interview/issues/3012)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Float32Array有几种构造方式？](https://github.com/haizlin/fe-interview/issues/3013)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [ws协议与http协议的不同？](https://github.com/haizlin/fe-interview/issues/3014)  
+## :clock430: Today's Knowledge Points (2020.10.05) —— 538 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [实现中国五星红旗国旗的布局](https://github.com/haizlin/fe-interview/issues/3015)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3制作一个鼠标经过文本时，显示出边框的动画特效](https://github.com/haizlin/fe-interview/issues/3016)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么时候在JS中使用Float32Array而不是Array？](https://github.com/haizlin/fe-interview/issues/3017)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [开发多个系统时如何共享组件化？有哪些方案？](https://github.com/haizlin/fe-interview/issues/3018)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 536 days (2020.10.03)  
-    	 :one: [html] [制作一个页面时，需要兼容PC端和手机端，你是要分别做两个页面还是只做一个页面自适应？为什么？说说你的理由](https://github.com/haizlin/fe-interview/issues/3006)  
-	 :two: [css] [解释下1px、1rem、1em、1vh代表的含义分别是什么？](https://github.com/haizlin/fe-interview/issues/3007)  
-	 :three: [js] [js如何实现函数缓存？函数缓存有什么运用场景？](https://github.com/haizlin/fe-interview/issues/3008)  
-	 :four: [skill] [说说你对serverless的理解，它对前端有什么影响？](https://github.com/haizlin/fe-interview/issues/3009)  
+- 537 days (2020.10.04)  
+    	 :one: [html] [你能否画出一个0.5px的直线？](https://github.com/haizlin/fe-interview/issues/3011)  
+	 :two: [css] [使用css制作出一个星星](https://github.com/haizlin/fe-interview/issues/3012)  
+	 :three: [js] [Float32Array有几种构造方式？](https://github.com/haizlin/fe-interview/issues/3013)  
+	 :four: [skill] [ws协议与http协议的不同？](https://github.com/haizlin/fe-interview/issues/3014)  
  
 	
 - **[All](category/history.md)**
