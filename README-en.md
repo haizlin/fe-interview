@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.10.05) —— 538 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [实现中国五星红旗国旗的布局](https://github.com/haizlin/fe-interview/issues/3015)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3制作一个鼠标经过文本时，显示出边框的动画特效](https://github.com/haizlin/fe-interview/issues/3016)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么时候在JS中使用Float32Array而不是Array？](https://github.com/haizlin/fe-interview/issues/3017)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [开发多个系统时如何共享组件化？有哪些方案？](https://github.com/haizlin/fe-interview/issues/3018)  
+## :clock430: Today's Knowledge Points (2020.10.06) —— 539 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何禁止手机端页面缩放？](https://github.com/haizlin/fe-interview/issues/3019)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [行内元素float:left后是否变为块级元素？](https://github.com/haizlin/fe-interview/issues/3020)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明你对TypedArray的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/3021)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对跨域存储的理解，跨域存储存储的方案有哪些？](https://github.com/haizlin/fe-interview/issues/3022)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 537 days (2020.10.04)  
-    	 :one: [html] [你能否画出一个0.5px的直线？](https://github.com/haizlin/fe-interview/issues/3011)  
-	 :two: [css] [使用css制作出一个星星](https://github.com/haizlin/fe-interview/issues/3012)  
-	 :three: [js] [Float32Array有几种构造方式？](https://github.com/haizlin/fe-interview/issues/3013)  
-	 :four: [skill] [ws协议与http协议的不同？](https://github.com/haizlin/fe-interview/issues/3014)  
+- 538 days (2020.10.05)  
+    	 :one: [html] [实现中国五星红旗国旗的布局](https://github.com/haizlin/fe-interview/issues/3015)  
+	 :two: [css] [使用css3制作一个鼠标经过文本时，显示出边框的动画特效](https://github.com/haizlin/fe-interview/issues/3016)  
+	 :three: [js] [什么时候在JS中使用Float32Array而不是Array？](https://github.com/haizlin/fe-interview/issues/3017)  
+	 :four: [skill] [开发多个系统时如何共享组件化？有哪些方案？](https://github.com/haizlin/fe-interview/issues/3018)  
  
 	
 - **[All](category/history.md)**

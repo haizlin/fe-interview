@@ -2,6 +2,11 @@
 
 
 
+- 第539天 (2020.10.06)  
+    - [html] [如何禁止手机端页面缩放？](https://github.com/haizlin/fe-interview/issues/3019)
+    - [css] [行内元素float:left后是否变为块级元素？](https://github.com/haizlin/fe-interview/issues/3020)
+    - [js] [举例说明你对TypedArray的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/3021)
+    - [软技能] [说说你对跨域存储的理解，跨域存储存储的方案有哪些？](https://github.com/haizlin/fe-interview/issues/3022)
 - 第538天 (2020.10.05)  
     - [html] [实现中国五星红旗国旗的布局](https://github.com/haizlin/fe-interview/issues/3015)
     - [css] [使用css3制作一个鼠标经过文本时，显示出边框的动画特效](https://github.com/haizlin/fe-interview/issues/3016)
