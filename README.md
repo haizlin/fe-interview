@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.06) —— 第539天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何禁止手机端页面缩放？](https://github.com/haizlin/fe-interview/issues/3019)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [行内元素float:left后是否变为块级元素？](https://github.com/haizlin/fe-interview/issues/3020)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明你对TypedArray的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/3021)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对跨域存储的理解，跨域存储存储的方案有哪些？](https://github.com/haizlin/fe-interview/issues/3022)  
+## :clock430: 今天的知识点   (2020.10.07) —— 第540天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何解决在移动端1px渲染成2px的问题？](https://github.com/haizlin/fe-interview/issues/3023)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [可以改变页面布局的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3024)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个方法将数字转换为float,并取N位小数](https://github.com/haizlin/fe-interview/issues/3025)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对开源协议的理解](https://github.com/haizlin/fe-interview/issues/3026)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第538天 (2020.10.05)  
-    	 :one: [html] [实现中国五星红旗国旗的布局](https://github.com/haizlin/fe-interview/issues/3015)  
-	 :two: [css] [使用css3制作一个鼠标经过文本时，显示出边框的动画特效](https://github.com/haizlin/fe-interview/issues/3016)  
-	 :three: [js] [什么时候在JS中使用Float32Array而不是Array？](https://github.com/haizlin/fe-interview/issues/3017)  
-	 :four: [软技能] [开发多个系统时如何共享组件化？有哪些方案？](https://github.com/haizlin/fe-interview/issues/3018)  
+- 第539天 (2020.10.06)  
+    	 :one: [html] [如何禁止手机端页面缩放？](https://github.com/haizlin/fe-interview/issues/3019)  
+	 :two: [css] [行内元素float:left后是否变为块级元素？](https://github.com/haizlin/fe-interview/issues/3020)  
+	 :three: [js] [举例说明你对TypedArray的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/3021)  
+	 :four: [软技能] [说说你对跨域存储的理解，跨域存储存储的方案有哪些？](https://github.com/haizlin/fe-interview/issues/3022)  
  
 	
 - **[查看全部](category/history.md)**

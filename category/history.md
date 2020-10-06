@@ -2,6 +2,11 @@
 
 
 
+- 第540天 (2020.10.07)  
+    - [html] [如何解决在移动端1px渲染成2px的问题？](https://github.com/haizlin/fe-interview/issues/3023)
+    - [css] [可以改变页面布局的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3024)
+    - [js] [使用js写一个方法将数字转换为float,并取N位小数](https://github.com/haizlin/fe-interview/issues/3025)
+    - [软技能] [说说你对开源协议的理解](https://github.com/haizlin/fe-interview/issues/3026)
 - 第539天 (2020.10.06)  
     - [html] [如何禁止手机端页面缩放？](https://github.com/haizlin/fe-interview/issues/3019)
     - [css] [行内元素float:left后是否变为块级元素？](https://github.com/haizlin/fe-interview/issues/3020)
