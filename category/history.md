@@ -2,6 +2,11 @@
 
 
 
+- 第541天 (2020.10.08)  
+    - [html] [如何垂直居中`<img>`？](https://github.com/haizlin/fe-interview/issues/3027)
+    - [css] [合并CSS的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3028)
+    - [js] [写一个ASCII与Unicode码的互转的方法](https://github.com/haizlin/fe-interview/issues/3029)
+    - [软技能] [开源等于免费吗？](https://github.com/haizlin/fe-interview/issues/3030)
 - 第540天 (2020.10.07)  
     - [html] [如何解决在移动端1px渲染成2px的问题？](https://github.com/haizlin/fe-interview/issues/3023)
     - [css] [可以改变页面布局的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3024)

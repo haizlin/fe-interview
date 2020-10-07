@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.07) —— 第540天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何解决在移动端1px渲染成2px的问题？](https://github.com/haizlin/fe-interview/issues/3023)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [可以改变页面布局的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3024)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个方法将数字转换为float,并取N位小数](https://github.com/haizlin/fe-interview/issues/3025)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对开源协议的理解](https://github.com/haizlin/fe-interview/issues/3026)  
+## :clock430: 今天的知识点   (2020.10.08) —— 第541天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何垂直居中`<img>`？](https://github.com/haizlin/fe-interview/issues/3027)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [合并CSS的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3028)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个ASCII与Unicode码的互转的方法](https://github.com/haizlin/fe-interview/issues/3029)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [开源等于免费吗？](https://github.com/haizlin/fe-interview/issues/3030)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第539天 (2020.10.06)  
-    	 :one: [html] [如何禁止手机端页面缩放？](https://github.com/haizlin/fe-interview/issues/3019)  
-	 :two: [css] [行内元素float:left后是否变为块级元素？](https://github.com/haizlin/fe-interview/issues/3020)  
-	 :three: [js] [举例说明你对TypedArray的理解，它的运用场景有哪些？](https://github.com/haizlin/fe-interview/issues/3021)  
-	 :four: [软技能] [说说你对跨域存储的理解，跨域存储存储的方案有哪些？](https://github.com/haizlin/fe-interview/issues/3022)  
+- 第540天 (2020.10.07)  
+    	 :one: [html] [如何解决在移动端1px渲染成2px的问题？](https://github.com/haizlin/fe-interview/issues/3023)  
+	 :two: [css] [可以改变页面布局的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3024)  
+	 :three: [js] [使用js写一个方法将数字转换为float,并取N位小数](https://github.com/haizlin/fe-interview/issues/3025)  
+	 :four: [软技能] [说说你对开源协议的理解](https://github.com/haizlin/fe-interview/issues/3026)  
  
 	
 - **[查看全部](category/history.md)**
