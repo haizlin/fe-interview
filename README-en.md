@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.10.08) —— 541 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何垂直居中`<img>`？](https://github.com/haizlin/fe-interview/issues/3027)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [合并CSS的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3028)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个ASCII与Unicode码的互转的方法](https://github.com/haizlin/fe-interview/issues/3029)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [开源等于免费吗？](https://github.com/haizlin/fe-interview/issues/3030)  
+## :clock430: Today's Knowledge Points (2020.10.09) —— 542 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [canvas生成图片有没有跨域问题？如果有如何解决？](https://github.com/haizlin/fe-interview/issues/3031)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对Bootstrap网格系统的工作原理的理解](https://github.com/haizlin/fe-interview/issues/3032)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法获取指定两个日期之间相隔的所有日期](https://github.com/haizlin/fe-interview/issues/3033)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对http的报文字段upgrade的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3034)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 540 days (2020.10.07)  
-    	 :one: [html] [如何解决在移动端1px渲染成2px的问题？](https://github.com/haizlin/fe-interview/issues/3023)  
-	 :two: [css] [可以改变页面布局的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3024)  
-	 :three: [js] [使用js写一个方法将数字转换为float,并取N位小数](https://github.com/haizlin/fe-interview/issues/3025)  
-	 :four: [skill] [说说你对开源协议的理解](https://github.com/haizlin/fe-interview/issues/3026)  
+- 541 days (2020.10.08)  
+    	 :one: [html] [如何垂直居中`<img>`？](https://github.com/haizlin/fe-interview/issues/3027)  
+	 :two: [css] [合并CSS的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3028)  
+	 :three: [js] [写一个ASCII与Unicode码的互转的方法](https://github.com/haizlin/fe-interview/issues/3029)  
+	 :four: [skill] [开源等于免费吗？](https://github.com/haizlin/fe-interview/issues/3030)  
  
 	
 - **[All](category/history.md)**

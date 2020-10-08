@@ -2,6 +2,11 @@
 
 
 
+- 第542天 (2020.10.09)  
+    - [html] [canvas生成图片有没有跨域问题？如果有如何解决？](https://github.com/haizlin/fe-interview/issues/3031)
+    - [css] [说说你对Bootstrap网格系统的工作原理的理解](https://github.com/haizlin/fe-interview/issues/3032)
+    - [js] [写一个方法获取指定两个日期之间相隔的所有日期](https://github.com/haizlin/fe-interview/issues/3033)
+    - [软技能] [说说你对http的报文字段upgrade的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3034)
 - 第541天 (2020.10.08)  
     - [html] [如何垂直居中`<img>`？](https://github.com/haizlin/fe-interview/issues/3027)
     - [css] [合并CSS的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3028)
