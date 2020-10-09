@@ -2,6 +2,11 @@
 
 
 
+- 第543天 (2020.10.10)  
+    - [html] [说说你对制表符的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3035)
+    - [css] [如何清除li列表的符号，改成图片背景](https://github.com/haizlin/fe-interview/issues/3036)
+    - [js] [new Function有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3037)
+    - [软技能] [当团队有人遇到能力边界时，你做为他的主管你该怎么办？](https://github.com/haizlin/fe-interview/issues/3038)
 - 第542天 (2020.10.09)  
     - [html] [canvas生成图片有没有跨域问题？如果有如何解决？](https://github.com/haizlin/fe-interview/issues/3031)
     - [css] [说说你对Bootstrap网格系统的工作原理的理解](https://github.com/haizlin/fe-interview/issues/3032)

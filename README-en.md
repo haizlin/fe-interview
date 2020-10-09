@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.10.09) —— 542 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [canvas生成图片有没有跨域问题？如果有如何解决？](https://github.com/haizlin/fe-interview/issues/3031)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对Bootstrap网格系统的工作原理的理解](https://github.com/haizlin/fe-interview/issues/3032)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法获取指定两个日期之间相隔的所有日期](https://github.com/haizlin/fe-interview/issues/3033)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对http的报文字段upgrade的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3034)  
+## :clock430: Today's Knowledge Points (2020.10.10) —— 543 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对制表符的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3035)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何清除li列表的符号，改成图片背景](https://github.com/haizlin/fe-interview/issues/3036)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [new Function有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3037)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [当团队有人遇到能力边界时，你做为他的主管你该怎么办？](https://github.com/haizlin/fe-interview/issues/3038)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 541 days (2020.10.08)  
-    	 :one: [html] [如何垂直居中`<img>`？](https://github.com/haizlin/fe-interview/issues/3027)  
-	 :two: [css] [合并CSS的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3028)  
-	 :three: [js] [写一个ASCII与Unicode码的互转的方法](https://github.com/haizlin/fe-interview/issues/3029)  
-	 :four: [skill] [开源等于免费吗？](https://github.com/haizlin/fe-interview/issues/3030)  
+- 542 days (2020.10.09)  
+    	 :one: [html] [canvas生成图片有没有跨域问题？如果有如何解决？](https://github.com/haizlin/fe-interview/issues/3031)  
+	 :two: [css] [说说你对Bootstrap网格系统的工作原理的理解](https://github.com/haizlin/fe-interview/issues/3032)  
+	 :three: [js] [写一个方法获取指定两个日期之间相隔的所有日期](https://github.com/haizlin/fe-interview/issues/3033)  
+	 :four: [skill] [说说你对http的报文字段upgrade的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3034)  
  
 	
 - **[All](category/history.md)**
