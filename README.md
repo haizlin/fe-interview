@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.10) —— 第543天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对制表符的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3035)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何清除li列表的符号，改成图片背景](https://github.com/haizlin/fe-interview/issues/3036)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [new Function有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3037)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [当团队有人遇到能力边界时，你做为他的主管你该怎么办？](https://github.com/haizlin/fe-interview/issues/3038)  
+## :clock430: 今天的知识点   (2020.10.11) —— 第544天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何根据设备尺寸做页面自适应？](https://github.com/haizlin/fe-interview/issues/3041)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请解释下outline-offset属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3042)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [计算从一个大数组中(如1万条数据)取出第一数据和最后一条数据的时间分别是多少？](https://github.com/haizlin/fe-interview/issues/3043)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [有同事离职，你是如何让他交接的？都要交接哪些内容呢？](https://github.com/haizlin/fe-interview/issues/3044)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第542天 (2020.10.09)  
-    	 :one: [html] [canvas生成图片有没有跨域问题？如果有如何解决？](https://github.com/haizlin/fe-interview/issues/3031)  
-	 :two: [css] [说说你对Bootstrap网格系统的工作原理的理解](https://github.com/haizlin/fe-interview/issues/3032)  
-	 :three: [js] [写一个方法获取指定两个日期之间相隔的所有日期](https://github.com/haizlin/fe-interview/issues/3033)  
-	 :four: [软技能] [说说你对http的报文字段upgrade的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3034)  
+- 第543天 (2020.10.10)  
+    	 :one: [html] [说说你对制表符的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3035)  
+	 :two: [css] [如何清除li列表的符号，改成图片背景](https://github.com/haizlin/fe-interview/issues/3036)  
+	 :three: [js] [new Function有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3037)  
+	 :four: [软技能] [当团队有人遇到能力边界时，你做为他的主管你该怎么办？](https://github.com/haizlin/fe-interview/issues/3038)  
  
 	
 - **[查看全部](category/history.md)**

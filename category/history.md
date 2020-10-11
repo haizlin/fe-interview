@@ -2,6 +2,11 @@
 
 
 
+- 第544天 (2020.10.11)  
+    - [html] [如何根据设备尺寸做页面自适应？](https://github.com/haizlin/fe-interview/issues/3041)
+    - [css] [请解释下outline-offset属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3042)
+    - [js] [计算从一个大数组中(如1万条数据)取出第一数据和最后一条数据的时间分别是多少？](https://github.com/haizlin/fe-interview/issues/3043)
+    - [软技能] [有同事离职，你是如何让他交接的？都要交接哪些内容呢？](https://github.com/haizlin/fe-interview/issues/3044)
 - 第543天 (2020.10.10)  
     - [html] [说说你对制表符的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3035)
     - [css] [如何清除li列表的符号，改成图片背景](https://github.com/haizlin/fe-interview/issues/3036)
