@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.10.11) —— 544 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何根据设备尺寸做页面自适应？](https://github.com/haizlin/fe-interview/issues/3041)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请解释下outline-offset属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3042)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [计算从一个大数组中(如1万条数据)取出第一数据和最后一条数据的时间分别是多少？](https://github.com/haizlin/fe-interview/issues/3043)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [有同事离职，你是如何让他交接的？都要交接哪些内容呢？](https://github.com/haizlin/fe-interview/issues/3044)  
+## :clock430: Today's Knowledge Points (2020.10.13) —— 546 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用一个div写出有三条横线的小图标](https://github.com/haizlin/fe-interview/issues/3049)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请解释下float的工作原理](https://github.com/haizlin/fe-interview/issues/3050)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法判断一组数字是连值](https://github.com/haizlin/fe-interview/issues/3051)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有看过哪些框架或者类库的源码吗？通过看源码可以收获什么？](https://github.com/haizlin/fe-interview/issues/3052)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 543 days (2020.10.10)  
-    	 :one: [html] [说说你对制表符的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/3035)  
-	 :two: [css] [如何清除li列表的符号，改成图片背景](https://github.com/haizlin/fe-interview/issues/3036)  
-	 :three: [js] [new Function有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3037)  
-	 :four: [skill] [当团队有人遇到能力边界时，你做为他的主管你该怎么办？](https://github.com/haizlin/fe-interview/issues/3038)  
+- 545 days (2020.10.12)  
+    	 :one: [html] [使用div+css进行布局有什么好处？](https://github.com/haizlin/fe-interview/issues/3045)  
+	 :two: [css] [请描述一下网页的层叠等级(z-index)？](https://github.com/haizlin/fe-interview/issues/3046)  
+	 :three: [js] [写一个方法将UTC时间和北京时间换算](https://github.com/haizlin/fe-interview/issues/3047)  
+	 :four: [skill] [svn仓库的提交记录能迁移到git吗？如何迁移？](https://github.com/haizlin/fe-interview/issues/3048)  
  
 	
 - **[All](category/history.md)**
