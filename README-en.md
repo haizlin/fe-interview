@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.10.13) —— 546 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用一个div写出有三条横线的小图标](https://github.com/haizlin/fe-interview/issues/3049)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请解释下float的工作原理](https://github.com/haizlin/fe-interview/issues/3050)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法判断一组数字是连值](https://github.com/haizlin/fe-interview/issues/3051)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有看过哪些框架或者类库的源码吗？通过看源码可以收获什么？](https://github.com/haizlin/fe-interview/issues/3052)  
+## :clock430: Today's Knowledge Points (2020.10.14) —— 547 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [响应式设计的有哪些技巧？有哪些好处？](https://github.com/haizlin/fe-interview/issues/3053)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请问下，居中为什么尽量用transform，而不用margin+left(top)？](https://github.com/haizlin/fe-interview/issues/3054)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，判断给定的几个数字是否相等，如[1,1,1,1]相等](https://github.com/haizlin/fe-interview/issues/3055)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有做过数据分析吗？如何做的？](https://github.com/haizlin/fe-interview/issues/3056)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 545 days (2020.10.12)  
-    	 :one: [html] [使用div+css进行布局有什么好处？](https://github.com/haizlin/fe-interview/issues/3045)  
-	 :two: [css] [请描述一下网页的层叠等级(z-index)？](https://github.com/haizlin/fe-interview/issues/3046)  
-	 :three: [js] [写一个方法将UTC时间和北京时间换算](https://github.com/haizlin/fe-interview/issues/3047)  
-	 :four: [skill] [svn仓库的提交记录能迁移到git吗？如何迁移？](https://github.com/haizlin/fe-interview/issues/3048)  
+- 546 days (2020.10.13)  
+    	 :one: [html] [请使用一个div写出有三条横线的小图标](https://github.com/haizlin/fe-interview/issues/3049)  
+	 :two: [css] [请解释下float的工作原理](https://github.com/haizlin/fe-interview/issues/3050)  
+	 :three: [js] [写一个方法判断一组数字是连值](https://github.com/haizlin/fe-interview/issues/3051)  
+	 :four: [skill] [你有看过哪些框架或者类库的源码吗？通过看源码可以收获什么？](https://github.com/haizlin/fe-interview/issues/3052)  
  
 	
 - **[All](category/history.md)**

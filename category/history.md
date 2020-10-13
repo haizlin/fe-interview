@@ -2,6 +2,11 @@
 
 
 
+- 第547天 (2020.10.14)  
+    - [html] [响应式设计的有哪些技巧？有哪些好处？](https://github.com/haizlin/fe-interview/issues/3053)
+    - [css] [请问下，居中为什么尽量用transform，而不用margin+left(top)？](https://github.com/haizlin/fe-interview/issues/3054)
+    - [js] [写一个方法，判断给定的几个数字是否相等，如[1,1,1,1]相等](https://github.com/haizlin/fe-interview/issues/3055)
+    - [软技能] [你有做过数据分析吗？如何做的？](https://github.com/haizlin/fe-interview/issues/3056)
 - 第546天 (2020.10.13)  
     - [html] [请使用一个div写出有三条横线的小图标](https://github.com/haizlin/fe-interview/issues/3049)
     - [css] [请解释下float的工作原理](https://github.com/haizlin/fe-interview/issues/3050)
