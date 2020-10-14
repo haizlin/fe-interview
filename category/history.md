@@ -2,6 +2,11 @@
 
 
 
+- 第548天 (2020.10.15)  
+    - [html] [如果浏览器支持的功能受限，如何更好的提供页面呢？](https://github.com/haizlin/fe-interview/issues/3057)
+    - [css] [css预的优点和缺点是什么？](https://github.com/haizlin/fe-interview/issues/3058)
+    - [js] [现在有一个宏任务，又有一个微任务两者同一层级，在微任务里面又有一个宏任务和一个微任务，请问执行顺序是什么,为什么？](https://github.com/haizlin/fe-interview/issues/3059)
+    - [软技能] [你开发出的一个页面，在服务器下运行，请算下它的并发量（服务器配置自己假设）](https://github.com/haizlin/fe-interview/issues/3060)
 - 第547天 (2020.10.14)  
     - [html] [响应式设计的有哪些技巧？有哪些好处？](https://github.com/haizlin/fe-interview/issues/3053)
     - [css] [请问下，居中为什么尽量用transform，而不用margin+left(top)？](https://github.com/haizlin/fe-interview/issues/3054)

@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.14) —— 第547天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [响应式设计的有哪些技巧？有哪些好处？](https://github.com/haizlin/fe-interview/issues/3053)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请问下，居中为什么尽量用transform，而不用margin+left(top)？](https://github.com/haizlin/fe-interview/issues/3054)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，判断给定的几个数字是否相等，如[1,1,1,1]相等](https://github.com/haizlin/fe-interview/issues/3055)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有做过数据分析吗？如何做的？](https://github.com/haizlin/fe-interview/issues/3056)  
+## :clock430: 今天的知识点   (2020.10.15) —— 第548天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如果浏览器支持的功能受限，如何更好的提供页面呢？](https://github.com/haizlin/fe-interview/issues/3057)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css预的优点和缺点是什么？](https://github.com/haizlin/fe-interview/issues/3058)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [现在有一个宏任务，又有一个微任务两者同一层级，在微任务里面又有一个宏任务和一个微任务，请问执行顺序是什么,为什么？](https://github.com/haizlin/fe-interview/issues/3059)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你开发出的一个页面，在服务器下运行，请算下它的并发量（服务器配置自己假设）](https://github.com/haizlin/fe-interview/issues/3060)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第546天 (2020.10.13)  
-    	 :one: [html] [请使用一个div写出有三条横线的小图标](https://github.com/haizlin/fe-interview/issues/3049)  
-	 :two: [css] [请解释下float的工作原理](https://github.com/haizlin/fe-interview/issues/3050)  
-	 :three: [js] [写一个方法判断一组数字是连值](https://github.com/haizlin/fe-interview/issues/3051)  
-	 :four: [软技能] [你有看过哪些框架或者类库的源码吗？通过看源码可以收获什么？](https://github.com/haizlin/fe-interview/issues/3052)  
+- 第547天 (2020.10.14)  
+    	 :one: [html] [响应式设计的有哪些技巧？有哪些好处？](https://github.com/haizlin/fe-interview/issues/3053)  
+	 :two: [css] [请问下，居中为什么尽量用transform，而不用margin+left(top)？](https://github.com/haizlin/fe-interview/issues/3054)  
+	 :three: [js] [写一个方法，判断给定的几个数字是否相等，如[1,1,1,1]相等](https://github.com/haizlin/fe-interview/issues/3055)  
+	 :four: [软技能] [你有做过数据分析吗？如何做的？](https://github.com/haizlin/fe-interview/issues/3056)  
  
 	
 - **[查看全部](category/history.md)**
