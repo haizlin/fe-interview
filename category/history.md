@@ -2,9 +2,14 @@
 
 
 
+- 第549天 (2020.10.16)  
+    - [html] [说说你对移动优先布局的理解](https://github.com/haizlin/fe-interview/issues/3062)
+    - [css] [在什么情况下，用translate()而不用绝对定位？反之呢？请说明理由](https://github.com/haizlin/fe-interview/issues/3063)
+    - [js] [请问css/html/js/img的下载顺序是怎样的？都是并发执行的吗？](https://github.com/haizlin/fe-interview/issues/3064)
+    - [软技能] [你上家公司开发的系统（页面）是给谁用的？给他们解决了什么问题？他们是怎么用的？](https://github.com/haizlin/fe-interview/issues/3065)
 - 第548天 (2020.10.15)  
     - [html] [如果浏览器支持的功能受限，如何更好的提供页面呢？](https://github.com/haizlin/fe-interview/issues/3057)
-    - [css] [css预的优点和缺点是什么？](https://github.com/haizlin/fe-interview/issues/3058)
+    - [css] [css预处理器的优点和缺点是什么？](https://github.com/haizlin/fe-interview/issues/3058)
     - [js] [现在有一个宏任务，又有一个微任务两者同一层级，在微任务里面又有一个宏任务和一个微任务，请问执行顺序是什么,为什么？](https://github.com/haizlin/fe-interview/issues/3059)
     - [软技能] [你开发出的一个页面，在服务器下运行，请算下它的并发量（服务器配置自己假设）](https://github.com/haizlin/fe-interview/issues/3060)
 - 第547天 (2020.10.14)  

@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.15) —— 第548天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如果浏览器支持的功能受限，如何更好的提供页面呢？](https://github.com/haizlin/fe-interview/issues/3057)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css预的优点和缺点是什么？](https://github.com/haizlin/fe-interview/issues/3058)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [现在有一个宏任务，又有一个微任务两者同一层级，在微任务里面又有一个宏任务和一个微任务，请问执行顺序是什么,为什么？](https://github.com/haizlin/fe-interview/issues/3059)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你开发出的一个页面，在服务器下运行，请算下它的并发量（服务器配置自己假设）](https://github.com/haizlin/fe-interview/issues/3060)  
+## :clock430: 今天的知识点   (2020.10.16) —— 第549天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对移动优先布局的理解](https://github.com/haizlin/fe-interview/issues/3062)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在什么情况下，用translate()而不用绝对定位？反之呢？请说明理由](https://github.com/haizlin/fe-interview/issues/3063)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请问css/html/js/img的下载顺序是怎样的？都是并发执行的吗？](https://github.com/haizlin/fe-interview/issues/3064)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你上家公司开发的系统（页面）是给谁用的？给他们解决了什么问题？他们是怎么用的？](https://github.com/haizlin/fe-interview/issues/3065)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第547天 (2020.10.14)  
-    	 :one: [html] [响应式设计的有哪些技巧？有哪些好处？](https://github.com/haizlin/fe-interview/issues/3053)  
-	 :two: [css] [请问下，居中为什么尽量用transform，而不用margin+left(top)？](https://github.com/haizlin/fe-interview/issues/3054)  
-	 :three: [js] [写一个方法，判断给定的几个数字是否相等，如[1,1,1,1]相等](https://github.com/haizlin/fe-interview/issues/3055)  
-	 :four: [软技能] [你有做过数据分析吗？如何做的？](https://github.com/haizlin/fe-interview/issues/3056)  
+- 第548天 (2020.10.15)  
+    	 :one: [html] [如果浏览器支持的功能受限，如何更好的提供页面呢？](https://github.com/haizlin/fe-interview/issues/3057)  
+	 :two: [css] [css预处理器的优点和缺点是什么？](https://github.com/haizlin/fe-interview/issues/3058)  
+	 :three: [js] [现在有一个宏任务，又有一个微任务两者同一层级，在微任务里面又有一个宏任务和一个微任务，请问执行顺序是什么,为什么？](https://github.com/haizlin/fe-interview/issues/3059)  
+	 :four: [软技能] [你开发出的一个页面，在服务器下运行，请算下它的并发量（服务器配置自己假设）](https://github.com/haizlin/fe-interview/issues/3060)  
  
 	
 - **[查看全部](category/history.md)**
