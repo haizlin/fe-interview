@@ -2,6 +2,11 @@
 
 
 
+- 第550天 (2020.10.17)  
+    - [html] [写一个三栏布局，中间固定，两边自适应（平均）](https://github.com/haizlin/fe-interview/issues/3067)
+    - [css] [以前我们都提倡把css通过外部引入，但现在使用webpack时往往会和html打包在一起？这是为什么呢？](https://github.com/haizlin/fe-interview/issues/3068)
+    - [js] [举例说明把一个数组扁平化的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3069)
+    - [软技能] [你有考虑过当网络断时，页面将会有什么变化吗？如何做到断线重连？](https://github.com/haizlin/fe-interview/issues/3070)
 - 第549天 (2020.10.16)  
     - [html] [说说你对移动优先布局的理解](https://github.com/haizlin/fe-interview/issues/3062)
     - [css] [在什么情况下，用translate()而不用绝对定位？反之呢？请说明理由](https://github.com/haizlin/fe-interview/issues/3063)
