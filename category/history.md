@@ -2,6 +2,11 @@
 
 
 
+- 第551天 (2020.10.18)  
+    - [html] [写出不定宽度的子级div，在相对于固定宽度的父级元素水平居中的布局](https://github.com/haizlin/fe-interview/issues/3071)
+    - [css] [写一个特效：鼠标经过文字时，文字旋转360度](https://github.com/haizlin/fe-interview/issues/3072)
+    - [js] [写一个方法计算N年时农场里有几只羊（见下文描述）？](https://github.com/haizlin/fe-interview/issues/3073)
+    - [软技能] [你有做过web端的压力测试吗？做压力测试有什么好处？怎么做？](https://github.com/haizlin/fe-interview/issues/3074)
 - 第550天 (2020.10.17)  
     - [html] [写一个三栏布局，中间固定，两边自适应（平均）](https://github.com/haizlin/fe-interview/issues/3067)
     - [css] [以前我们都提倡把css通过外部引入，但现在使用webpack时往往会和html打包在一起？这是为什么呢？](https://github.com/haizlin/fe-interview/issues/3068)

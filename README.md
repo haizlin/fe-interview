@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.17) —— 第550天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个三栏布局，中间固定，两边自适应（平均）](https://github.com/haizlin/fe-interview/issues/3067)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [以前我们都提倡把css通过外部引入，但现在使用webpack时往往会和html打包在一起？这是为什么呢？](https://github.com/haizlin/fe-interview/issues/3068)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明把一个数组扁平化的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3069)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有考虑过当网络断时，页面将会有什么变化吗？如何做到断线重连？](https://github.com/haizlin/fe-interview/issues/3070)  
+## :clock430: 今天的知识点   (2020.10.18) —— 第551天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写出不定宽度的子级div，在相对于固定宽度的父级元素水平居中的布局](https://github.com/haizlin/fe-interview/issues/3071)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写一个特效：鼠标经过文字时，文字旋转360度](https://github.com/haizlin/fe-interview/issues/3072)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法计算N年时农场里有几只羊（见下文描述）？](https://github.com/haizlin/fe-interview/issues/3073)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有做过web端的压力测试吗？做压力测试有什么好处？怎么做？](https://github.com/haizlin/fe-interview/issues/3074)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第549天 (2020.10.16)  
-    	 :one: [html] [说说你对移动优先布局的理解](https://github.com/haizlin/fe-interview/issues/3062)  
-	 :two: [css] [在什么情况下，用translate()而不用绝对定位？反之呢？请说明理由](https://github.com/haizlin/fe-interview/issues/3063)  
-	 :three: [js] [请问css/html/js/img的下载顺序是怎样的？都是并发执行的吗？](https://github.com/haizlin/fe-interview/issues/3064)  
-	 :four: [软技能] [你上家公司开发的系统（页面）是给谁用的？给他们解决了什么问题？他们是怎么用的？](https://github.com/haizlin/fe-interview/issues/3065)  
+- 第550天 (2020.10.17)  
+    	 :one: [html] [写一个三栏布局，中间固定，两边自适应（平均）](https://github.com/haizlin/fe-interview/issues/3067)  
+	 :two: [css] [以前我们都提倡把css通过外部引入，但现在使用webpack时往往会和html打包在一起？这是为什么呢？](https://github.com/haizlin/fe-interview/issues/3068)  
+	 :three: [js] [举例说明把一个数组扁平化的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3069)  
+	 :four: [软技能] [你有考虑过当网络断时，页面将会有什么变化吗？如何做到断线重连？](https://github.com/haizlin/fe-interview/issues/3070)  
  
 	
 - **[查看全部](category/history.md)**
