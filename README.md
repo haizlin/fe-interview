@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.18) —— 第551天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写出不定宽度的子级div，在相对于固定宽度的父级元素水平居中的布局](https://github.com/haizlin/fe-interview/issues/3071)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写一个特效：鼠标经过文字时，文字旋转360度](https://github.com/haizlin/fe-interview/issues/3072)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法计算N年时农场里有几只羊（见下文描述）？](https://github.com/haizlin/fe-interview/issues/3073)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有做过web端的压力测试吗？做压力测试有什么好处？怎么做？](https://github.com/haizlin/fe-interview/issues/3074)  
+## :clock430: 今天的知识点   (2020.10.19) —— 第552天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何禁用掉a标签的默认事件？](https://github.com/haizlin/fe-interview/issues/3075)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css中定义class时，中间有空格和没空格的区别是什么？](https://github.com/haizlin/fe-interview/issues/3076)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js实现一个数组flat()的方法](https://github.com/haizlin/fe-interview/issues/3077)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有完整看过微信公众平台开发的文档吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/3078)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第550天 (2020.10.17)  
-    	 :one: [html] [写一个三栏布局，中间固定，两边自适应（平均）](https://github.com/haizlin/fe-interview/issues/3067)  
-	 :two: [css] [以前我们都提倡把css通过外部引入，但现在使用webpack时往往会和html打包在一起？这是为什么呢？](https://github.com/haizlin/fe-interview/issues/3068)  
-	 :three: [js] [举例说明把一个数组扁平化的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3069)  
-	 :four: [软技能] [你有考虑过当网络断时，页面将会有什么变化吗？如何做到断线重连？](https://github.com/haizlin/fe-interview/issues/3070)  
+- 第551天 (2020.10.18)  
+    	 :one: [html] [写出不定宽度的子级div，在相对于固定宽度的父级元素水平居中的布局](https://github.com/haizlin/fe-interview/issues/3071)  
+	 :two: [css] [写一个特效：鼠标经过文字时，文字旋转360度](https://github.com/haizlin/fe-interview/issues/3072)  
+	 :three: [js] [写一个方法计算N年时农场里有几只羊（见下文描述）？](https://github.com/haizlin/fe-interview/issues/3073)  
+	 :four: [软技能] [你有做过web端的压力测试吗？做压力测试有什么好处？怎么做？](https://github.com/haizlin/fe-interview/issues/3074)  
  
 	
 - **[查看全部](category/history.md)**
