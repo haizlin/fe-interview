@@ -2,6 +2,11 @@
 
 
 
+- 第553天 (2020.10.20)  
+    - [html] [a标签的默认事件禁用后，如何实现跳转？](https://github.com/haizlin/fe-interview/issues/3079)
+    - [css] [使用css实现浮雕效果](https://github.com/haizlin/fe-interview/issues/3080)
+    - [js] [使用js写个方法，把下列数组对象按多字段排序，name升序，age降序](https://github.com/haizlin/fe-interview/issues/3081)
+    - [软技能] [说说你对3D打印的理解](https://github.com/haizlin/fe-interview/issues/3082)
 - 第552天 (2020.10.19)  
     - [html] [如何禁用掉a标签的默认事件？](https://github.com/haizlin/fe-interview/issues/3075)
     - [css] [css中定义class时，中间有空格和没空格的区别是什么？](https://github.com/haizlin/fe-interview/issues/3076)
@@ -1187,10 +1192,10 @@
     - [css] [如何给文字的color设置渐变](https://github.com/haizlin/fe-interview/issues/1964)
     - [js] [切换标签窗口后js定时器自动停止了，如何在激活标签后又继续呢？](https://github.com/haizlin/fe-interview/issues/1965)
     - [软技能] [在页面中引入静态资源文件，为什么静态资源文件改变后，再次发起请求还是之前的内容，没有变化呢？](https://github.com/haizlin/fe-interview/issues/1966)
-- 第315天 (2020.02.25)  
-    - [html] [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
+- 第undefined天 (Invalid date)  
+    - [undefined] [undefined](https://github.com/haizlin/fe-interview/issues/undefined)
     - [css] [如何在白天和黑夜自动切换页面的颜色？](https://github.com/haizlin/fe-interview/issues/1958)
-    - [js] [在浏览器标签页之间切换触发的事件是哪个？](https://github.com/haizlin/fe-interview/issues/1959)
+    - [js] [说说你对HTML5中video blob的理解](https://github.com/haizlin/fe-interview/issues/1957)
     - [软技能] [你知道PMP证书吗？](https://github.com/haizlin/fe-interview/issues/1960)
 - 第314天 (2020.02.24)  
     - [html] [微软雅黑是有版权的，在页面中使用font-family:Microsoft YaHei会不会有版权问题呢？](https://github.com/haizlin/fe-interview/issues/1953)

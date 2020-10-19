@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.19) —— 第552天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何禁用掉a标签的默认事件？](https://github.com/haizlin/fe-interview/issues/3075)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css中定义class时，中间有空格和没空格的区别是什么？](https://github.com/haizlin/fe-interview/issues/3076)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js实现一个数组flat()的方法](https://github.com/haizlin/fe-interview/issues/3077)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有完整看过微信公众平台开发的文档吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/3078)  
+## :clock430: 今天的知识点   (2020.10.20) —— 第553天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [a标签的默认事件禁用后，如何实现跳转？](https://github.com/haizlin/fe-interview/issues/3079)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现浮雕效果](https://github.com/haizlin/fe-interview/issues/3080)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写个方法，把下列数组对象按多字段排序，name升序，age降序](https://github.com/haizlin/fe-interview/issues/3081)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对3D打印的理解](https://github.com/haizlin/fe-interview/issues/3082)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第551天 (2020.10.18)  
-    	 :one: [html] [写出不定宽度的子级div，在相对于固定宽度的父级元素水平居中的布局](https://github.com/haizlin/fe-interview/issues/3071)  
-	 :two: [css] [写一个特效：鼠标经过文字时，文字旋转360度](https://github.com/haizlin/fe-interview/issues/3072)  
-	 :three: [js] [写一个方法计算N年时农场里有几只羊（见下文描述）？](https://github.com/haizlin/fe-interview/issues/3073)  
-	 :four: [软技能] [你有做过web端的压力测试吗？做压力测试有什么好处？怎么做？](https://github.com/haizlin/fe-interview/issues/3074)  
+- 第552天 (2020.10.19)  
+    	 :one: [html] [如何禁用掉a标签的默认事件？](https://github.com/haizlin/fe-interview/issues/3075)  
+	 :two: [css] [css中定义class时，中间有空格和没空格的区别是什么？](https://github.com/haizlin/fe-interview/issues/3076)  
+	 :three: [js] [使用js实现一个数组flat()的方法](https://github.com/haizlin/fe-interview/issues/3077)  
+	 :four: [软技能] [你有完整看过微信公众平台开发的文档吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/3078)  
  
 	
 - **[查看全部](category/history.md)**
