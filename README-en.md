@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.10.21) —— 554 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在页面引用外部的html页面？](https://github.com/haizlin/fe-interview/issues/3083)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现描边效果](https://github.com/haizlin/fe-interview/issues/3084)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写个方法，使得数组的两个元素互换，要求高性能](https://github.com/haizlin/fe-interview/issues/3085)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你听过边缘计算吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3086)  
+## :clock430: Today's Knowledge Points (2020.10.22) —— 555 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html实现页面跳转都有哪些方法？](https://github.com/haizlin/fe-interview/issues/3087)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现模糊的效果](https://github.com/haizlin/fe-interview/issues/3088)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个方法，使得数组的某个元素置顶](https://github.com/haizlin/fe-interview/issues/3089)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你对量子计算机有了解吗？说说当量子计算机普及时，对前端会有哪些改变？](https://github.com/haizlin/fe-interview/issues/3090)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 553 days (2020.10.20)  
-    	 :one: [html] [a标签的默认事件禁用后，如何实现跳转？](https://github.com/haizlin/fe-interview/issues/3079)  
-	 :two: [css] [使用css实现浮雕效果](https://github.com/haizlin/fe-interview/issues/3080)  
-	 :three: [js] [使用js写个方法，把下列数组对象按多字段排序，name升序，age降序](https://github.com/haizlin/fe-interview/issues/3081)  
-	 :four: [skill] [说说你对3D打印的理解](https://github.com/haizlin/fe-interview/issues/3082)  
+- 554 days (2020.10.21)  
+    	 :one: [html] [如何在页面引用外部的html页面？](https://github.com/haizlin/fe-interview/issues/3083)  
+	 :two: [css] [使用css实现描边效果](https://github.com/haizlin/fe-interview/issues/3084)  
+	 :three: [js] [使用js写个方法，使得数组的两个元素互换，要求高性能](https://github.com/haizlin/fe-interview/issues/3085)  
+	 :four: [skill] [你听过边缘计算吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3086)  
  
 	
 - **[All](category/history.md)**

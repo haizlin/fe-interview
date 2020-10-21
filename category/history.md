@@ -2,6 +2,11 @@
 
 
 
+- 第555天 (2020.10.22)  
+    - [html] [html实现页面跳转都有哪些方法？](https://github.com/haizlin/fe-interview/issues/3087)
+    - [css] [使用css实现模糊的效果](https://github.com/haizlin/fe-interview/issues/3088)
+    - [js] [使用js写一个方法，使得数组的某个元素置顶](https://github.com/haizlin/fe-interview/issues/3089)
+    - [软技能] [你对量子计算机有了解吗？说说当量子计算机普及时，对前端会有哪些改变？](https://github.com/haizlin/fe-interview/issues/3090)
 - 第554天 (2020.10.21)  
     - [html] [如何在页面引用外部的html页面？](https://github.com/haizlin/fe-interview/issues/3083)
     - [css] [使用css实现描边效果](https://github.com/haizlin/fe-interview/issues/3084)
