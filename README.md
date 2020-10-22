@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.22) —— 第555天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html实现页面跳转都有哪些方法？](https://github.com/haizlin/fe-interview/issues/3087)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现模糊的效果](https://github.com/haizlin/fe-interview/issues/3088)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个方法，使得数组的某个元素置顶](https://github.com/haizlin/fe-interview/issues/3089)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你对量子计算机有了解吗？说说当量子计算机普及时，对前端会有哪些改变？](https://github.com/haizlin/fe-interview/issues/3090)  
+## :clock430: 今天的知识点   (2020.10.23) —— 第556天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5的触屏事件有哪些？](https://github.com/haizlin/fe-interview/issues/3091)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [font-weight的默认值是多少？](https://github.com/haizlin/fe-interview/issues/3092)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js按贝格尔编排算法生成单循环对阵表](https://github.com/haizlin/fe-interview/issues/3093)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说使用base64存储图片的优缺点](https://github.com/haizlin/fe-interview/issues/3094)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第554天 (2020.10.21)  
-    	 :one: [html] [如何在页面引用外部的html页面？](https://github.com/haizlin/fe-interview/issues/3083)  
-	 :two: [css] [使用css实现描边效果](https://github.com/haizlin/fe-interview/issues/3084)  
-	 :three: [js] [使用js写个方法，使得数组的两个元素互换，要求高性能](https://github.com/haizlin/fe-interview/issues/3085)  
-	 :four: [软技能] [你听过边缘计算吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3086)  
+- 第555天 (2020.10.22)  
+    	 :one: [html] [html实现页面跳转都有哪些方法？](https://github.com/haizlin/fe-interview/issues/3087)  
+	 :two: [css] [使用css实现模糊的效果](https://github.com/haizlin/fe-interview/issues/3088)  
+	 :three: [js] [使用js写一个方法，使得数组的某个元素置顶](https://github.com/haizlin/fe-interview/issues/3089)  
+	 :four: [软技能] [你对量子计算机有了解吗？说说当量子计算机普及时，对前端会有哪些改变？](https://github.com/haizlin/fe-interview/issues/3090)  
  
 	
 - **[查看全部](category/history.md)**

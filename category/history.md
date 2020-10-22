@@ -2,6 +2,11 @@
 
 
 
+- 第556天 (2020.10.23)  
+    - [html] [HTML5的触屏事件有哪些？](https://github.com/haizlin/fe-interview/issues/3091)
+    - [css] [font-weight的默认值是多少？](https://github.com/haizlin/fe-interview/issues/3092)
+    - [js] [使用js按贝格尔编排算法生成单循环对阵表](https://github.com/haizlin/fe-interview/issues/3093)
+    - [软技能] [说说使用base64存储图片的优缺点](https://github.com/haizlin/fe-interview/issues/3094)
 - 第555天 (2020.10.22)  
     - [html] [html实现页面跳转都有哪些方法？](https://github.com/haizlin/fe-interview/issues/3087)
     - [css] [使用css实现模糊的效果](https://github.com/haizlin/fe-interview/issues/3088)
