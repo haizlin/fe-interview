@@ -2,6 +2,11 @@
 
 
 
+- 第557天 (2020.10.24)  
+    - [html] [HTML5的触屏事件与鼠标事件有什么区别？](https://github.com/haizlin/fe-interview/issues/3095)
+    - [css] [你是如何对 CSS 和 JavaScript 代码组织的？有哪些原则？](https://github.com/haizlin/fe-interview/issues/3096)
+    - [js] [使用js如何改变url参数值，并且页面不刷新？](https://github.com/haizlin/fe-interview/issues/3097)
+    - [软技能] [说下你对json schema的理解](https://github.com/haizlin/fe-interview/issues/3098)
 - 第556天 (2020.10.23)  
     - [html] [HTML5的触屏事件有哪些？](https://github.com/haizlin/fe-interview/issues/3091)
     - [css] [font-weight的默认值是多少？](https://github.com/haizlin/fe-interview/issues/3092)

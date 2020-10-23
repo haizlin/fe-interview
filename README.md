@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.23) —— 第556天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5的触屏事件有哪些？](https://github.com/haizlin/fe-interview/issues/3091)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [font-weight的默认值是多少？](https://github.com/haizlin/fe-interview/issues/3092)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js按贝格尔编排算法生成单循环对阵表](https://github.com/haizlin/fe-interview/issues/3093)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说使用base64存储图片的优缺点](https://github.com/haizlin/fe-interview/issues/3094)  
+## :clock430: 今天的知识点   (2020.10.24) —— 第557天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5的触屏事件与鼠标事件有什么区别？](https://github.com/haizlin/fe-interview/issues/3095)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你是如何对 CSS 和 JavaScript 代码组织的？有哪些原则？](https://github.com/haizlin/fe-interview/issues/3096)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js如何改变url参数值，并且页面不刷新？](https://github.com/haizlin/fe-interview/issues/3097)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说下你对json schema的理解](https://github.com/haizlin/fe-interview/issues/3098)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第555天 (2020.10.22)  
-    	 :one: [html] [html实现页面跳转都有哪些方法？](https://github.com/haizlin/fe-interview/issues/3087)  
-	 :two: [css] [使用css实现模糊的效果](https://github.com/haizlin/fe-interview/issues/3088)  
-	 :three: [js] [使用js写一个方法，使得数组的某个元素置顶](https://github.com/haizlin/fe-interview/issues/3089)  
-	 :four: [软技能] [你对量子计算机有了解吗？说说当量子计算机普及时，对前端会有哪些改变？](https://github.com/haizlin/fe-interview/issues/3090)  
+- 第556天 (2020.10.23)  
+    	 :one: [html] [HTML5的触屏事件有哪些？](https://github.com/haizlin/fe-interview/issues/3091)  
+	 :two: [css] [font-weight的默认值是多少？](https://github.com/haizlin/fe-interview/issues/3092)  
+	 :three: [js] [使用js按贝格尔编排算法生成单循环对阵表](https://github.com/haizlin/fe-interview/issues/3093)  
+	 :four: [软技能] [说说使用base64存储图片的优缺点](https://github.com/haizlin/fe-interview/issues/3094)  
  
 	
 - **[查看全部](category/history.md)**
