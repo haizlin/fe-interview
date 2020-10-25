@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.10.24) —— 557 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5的触屏事件与鼠标事件有什么区别？](https://github.com/haizlin/fe-interview/issues/3095)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你是如何对 CSS 和 JavaScript 代码组织的？有哪些原则？](https://github.com/haizlin/fe-interview/issues/3096)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js如何改变url参数值，并且页面不刷新？](https://github.com/haizlin/fe-interview/issues/3097)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说下你对json schema的理解](https://github.com/haizlin/fe-interview/issues/3098)  
+## :clock430: Today's Knowledge Points (2020.10.26) —— 559 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对object标签的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3103)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你自认为自己的css水平如何？还有哪些是用css实现不了的？](https://github.com/haizlin/fe-interview/issues/3104)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用递归实现指定最小值和最大值之间的所有整数求和](https://github.com/haizlin/fe-interview/issues/3105)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对alpha/beta/RC/Release各版本的理解](https://github.com/haizlin/fe-interview/issues/3106)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 556 days (2020.10.23)  
-    	 :one: [html] [HTML5的触屏事件有哪些？](https://github.com/haizlin/fe-interview/issues/3091)  
-	 :two: [css] [font-weight的默认值是多少？](https://github.com/haizlin/fe-interview/issues/3092)  
-	 :three: [js] [使用js按贝格尔编排算法生成单循环对阵表](https://github.com/haizlin/fe-interview/issues/3093)  
-	 :four: [skill] [说说使用base64存储图片的优缺点](https://github.com/haizlin/fe-interview/issues/3094)  
+- 558 days (2020.10.25)  
+    	 :one: [html] [说说你对abbr标签的理解，它有什么含义？](https://github.com/haizlin/fe-interview/issues/3099)  
+	 :two: [css] [请使用css实现一个小波纹的效果](https://github.com/haizlin/fe-interview/issues/3100)  
+	 :three: [js] [使用原生js实现给定节点的父节点下所有子节点的元素](https://github.com/haizlin/fe-interview/issues/3101)  
+	 :four: [skill] [请解释下windows和linux中换行和回车的区别，以后在编码中应该注意什么？](https://github.com/haizlin/fe-interview/issues/3102)  
  
 	
 - **[All](category/history.md)**
