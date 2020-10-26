@@ -2,6 +2,11 @@
 
 
 
+- 第560天 (2020.10.27)  
+    - [html] [HTML5的var标签有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3108)
+    - [css] [你有使用过touch-action属性吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3109)
+    - [js] [深拷贝里的循环引用如何解决？](https://github.com/haizlin/fe-interview/issues/3110)
+    - [软技能] [请说说你对DevOps的理解](https://github.com/haizlin/fe-interview/issues/3111)
 - 第559天 (2020.10.26)  
     - [html] [说说你对object标签的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3103)
     - [css] [你自认为自己的css水平如何？还有哪些是用css实现不了的？](https://github.com/haizlin/fe-interview/issues/3104)

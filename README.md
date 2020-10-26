@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.26) —— 第559天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对object标签的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3103)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你自认为自己的css水平如何？还有哪些是用css实现不了的？](https://github.com/haizlin/fe-interview/issues/3104)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用递归实现指定最小值和最大值之间的所有整数求和](https://github.com/haizlin/fe-interview/issues/3105)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对alpha/beta/RC/Release各版本的理解](https://github.com/haizlin/fe-interview/issues/3106)  
+## :clock430: 今天的知识点   (2020.10.27) —— 第560天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5的var标签有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3108)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过touch-action属性吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3109)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [深拷贝里的循环引用如何解决？](https://github.com/haizlin/fe-interview/issues/3110)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请说说你对DevOps的理解](https://github.com/haizlin/fe-interview/issues/3111)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第558天 (2020.10.25)  
-    	 :one: [html] [说说你对abbr标签的理解，它有什么含义？](https://github.com/haizlin/fe-interview/issues/3099)  
-	 :two: [css] [请使用css实现一个小波纹的效果](https://github.com/haizlin/fe-interview/issues/3100)  
-	 :three: [js] [使用原生js实现给定节点的父节点下所有子节点的元素](https://github.com/haizlin/fe-interview/issues/3101)  
-	 :four: [软技能] [请解释下windows和linux中换行和回车的区别，以后在编码中应该注意什么？](https://github.com/haizlin/fe-interview/issues/3102)  
+- 第559天 (2020.10.26)  
+    	 :one: [html] [说说你对object标签的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3103)  
+	 :two: [css] [你自认为自己的css水平如何？还有哪些是用css实现不了的？](https://github.com/haizlin/fe-interview/issues/3104)  
+	 :three: [js] [使用递归实现指定最小值和最大值之间的所有整数求和](https://github.com/haizlin/fe-interview/issues/3105)  
+	 :four: [软技能] [说说你对alpha/beta/RC/Release各版本的理解](https://github.com/haizlin/fe-interview/issues/3106)  
  
 	
 - **[查看全部](category/history.md)**
