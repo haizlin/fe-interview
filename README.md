@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.27) —— 第560天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5的var标签有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3108)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过touch-action属性吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3109)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [深拷贝里的循环引用如何解决？](https://github.com/haizlin/fe-interview/issues/3110)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请说说你对DevOps的理解](https://github.com/haizlin/fe-interview/issues/3111)  
+## :clock430: 今天的知识点   (2020.10.28) —— 第561天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5布局的页面结构和HTML4有什么不同？](https://github.com/haizlin/fe-interview/issues/3112)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何创建块级格式化上下文(block formatting context),BFC有什么用](https://github.com/haizlin/fe-interview/issues/3113)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个羽毛球16个队抽签随机队伍编号的方法](https://github.com/haizlin/fe-interview/issues/3114)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请举例说明，你认为优秀的人身上会有哪些特质？](https://github.com/haizlin/fe-interview/issues/3115)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第559天 (2020.10.26)  
-    	 :one: [html] [说说你对object标签的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3103)  
-	 :two: [css] [你自认为自己的css水平如何？还有哪些是用css实现不了的？](https://github.com/haizlin/fe-interview/issues/3104)  
-	 :three: [js] [使用递归实现指定最小值和最大值之间的所有整数求和](https://github.com/haizlin/fe-interview/issues/3105)  
-	 :four: [软技能] [说说你对alpha/beta/RC/Release各版本的理解](https://github.com/haizlin/fe-interview/issues/3106)  
+- 第560天 (2020.10.27)  
+    	 :one: [html] [HTML5的var标签有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3108)  
+	 :two: [css] [你有使用过touch-action属性吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3109)  
+	 :three: [js] [深拷贝里的循环引用如何解决？](https://github.com/haizlin/fe-interview/issues/3110)  
+	 :four: [软技能] [请说说你对DevOps的理解](https://github.com/haizlin/fe-interview/issues/3111)  
  
 	
 - **[查看全部](category/history.md)**
