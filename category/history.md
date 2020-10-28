@@ -2,6 +2,11 @@
 
 
 
+- 第562天 (2020.10.29)  
+    - [html] [你有使用过bdi标签吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3116)
+    - [css] [通过CSS的定位有几种，分别相对于什么定位？](https://github.com/haizlin/fe-interview/issues/3117)
+    - [js] [一次JS的请求哪些地方会有缓存处理？](https://github.com/haizlin/fe-interview/issues/3118)
+    - [软技能] [为什么要有同源限制？](https://github.com/haizlin/fe-interview/issues/3119)
 - 第561天 (2020.10.28)  
     - [html] [HTML5布局的页面结构和HTML4有什么不同？](https://github.com/haizlin/fe-interview/issues/3112)
     - [css] [如何创建块级格式化上下文(block formatting context),BFC有什么用](https://github.com/haizlin/fe-interview/issues/3113)

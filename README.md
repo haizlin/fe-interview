@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.28) —— 第561天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5布局的页面结构和HTML4有什么不同？](https://github.com/haizlin/fe-interview/issues/3112)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何创建块级格式化上下文(block formatting context),BFC有什么用](https://github.com/haizlin/fe-interview/issues/3113)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个羽毛球16个队抽签随机队伍编号的方法](https://github.com/haizlin/fe-interview/issues/3114)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请举例说明，你认为优秀的人身上会有哪些特质？](https://github.com/haizlin/fe-interview/issues/3115)  
+## :clock430: 今天的知识点   (2020.10.29) —— 第562天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过bdi标签吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3116)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [通过CSS的定位有几种，分别相对于什么定位？](https://github.com/haizlin/fe-interview/issues/3117)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [一次JS的请求哪些地方会有缓存处理？](https://github.com/haizlin/fe-interview/issues/3118)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [为什么要有同源限制？](https://github.com/haizlin/fe-interview/issues/3119)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第560天 (2020.10.27)  
-    	 :one: [html] [HTML5的var标签有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3108)  
-	 :two: [css] [你有使用过touch-action属性吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3109)  
-	 :three: [js] [深拷贝里的循环引用如何解决？](https://github.com/haizlin/fe-interview/issues/3110)  
-	 :four: [软技能] [请说说你对DevOps的理解](https://github.com/haizlin/fe-interview/issues/3111)  
+- 第561天 (2020.10.28)  
+    	 :one: [html] [HTML5布局的页面结构和HTML4有什么不同？](https://github.com/haizlin/fe-interview/issues/3112)  
+	 :two: [css] [如何创建块级格式化上下文(block formatting context),BFC有什么用](https://github.com/haizlin/fe-interview/issues/3113)  
+	 :three: [js] [使用js写一个羽毛球16个队抽签随机队伍编号的方法](https://github.com/haizlin/fe-interview/issues/3114)  
+	 :four: [软技能] [请举例说明，你认为优秀的人身上会有哪些特质？](https://github.com/haizlin/fe-interview/issues/3115)  
  
 	
 - **[查看全部](category/history.md)**
