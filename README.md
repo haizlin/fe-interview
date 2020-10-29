@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.10.29) —— 第562天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过bdi标签吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3116)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [通过CSS的定位有几种，分别相对于什么定位？](https://github.com/haizlin/fe-interview/issues/3117)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [一次JS的请求哪些地方会有缓存处理？](https://github.com/haizlin/fe-interview/issues/3118)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [为什么要有同源限制？](https://github.com/haizlin/fe-interview/issues/3119)  
+## :clock430: 今天的知识点   (2020.10.30) —— 第563天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [直接使用b标签和使用css的font-weight有什么区别？](https://github.com/haizlin/fe-interview/issues/3120)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何垂直居中一个浮动的元素？](https://github.com/haizlin/fe-interview/issues/3121)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [map和forEach有什么区别？](https://github.com/haizlin/fe-interview/issues/3122)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [假如没有同源限制将会怎么样？](https://github.com/haizlin/fe-interview/issues/3123)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第561天 (2020.10.28)  
-    	 :one: [html] [HTML5布局的页面结构和HTML4有什么不同？](https://github.com/haizlin/fe-interview/issues/3112)  
-	 :two: [css] [如何创建块级格式化上下文(block formatting context),BFC有什么用](https://github.com/haizlin/fe-interview/issues/3113)  
-	 :three: [js] [使用js写一个羽毛球16个队抽签随机队伍编号的方法](https://github.com/haizlin/fe-interview/issues/3114)  
-	 :four: [软技能] [请举例说明，你认为优秀的人身上会有哪些特质？](https://github.com/haizlin/fe-interview/issues/3115)  
+- 第562天 (2020.10.29)  
+    	 :one: [html] [你有使用过bdi标签吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3116)  
+	 :two: [css] [通过CSS的定位有几种，分别相对于什么定位？](https://github.com/haizlin/fe-interview/issues/3117)  
+	 :three: [js] [一次JS的请求哪些地方会有缓存处理？](https://github.com/haizlin/fe-interview/issues/3118)  
+	 :four: [软技能] [为什么要有同源限制？](https://github.com/haizlin/fe-interview/issues/3119)  
  
 	
 - **[查看全部](category/history.md)**

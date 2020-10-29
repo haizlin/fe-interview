@@ -2,6 +2,11 @@
 
 
 
+- 第563天 (2020.10.30)  
+    - [html] [直接使用b标签和使用css的font-weight有什么区别？](https://github.com/haizlin/fe-interview/issues/3120)
+    - [css] [如何垂直居中一个浮动的元素？](https://github.com/haizlin/fe-interview/issues/3121)
+    - [js] [map和forEach有什么区别？](https://github.com/haizlin/fe-interview/issues/3122)
+    - [软技能] [假如没有同源限制将会怎么样？](https://github.com/haizlin/fe-interview/issues/3123)
 - 第562天 (2020.10.29)  
     - [html] [你有使用过bdi标签吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3116)
     - [css] [通过CSS的定位有几种，分别相对于什么定位？](https://github.com/haizlin/fe-interview/issues/3117)
