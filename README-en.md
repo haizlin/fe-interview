@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.10.30) —— 563 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [直接使用b标签和使用css的font-weight有什么区别？](https://github.com/haizlin/fe-interview/issues/3120)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何垂直居中一个浮动的元素？](https://github.com/haizlin/fe-interview/issues/3121)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [map和forEach有什么区别？](https://github.com/haizlin/fe-interview/issues/3122)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [假如没有同源限制将会怎么样？](https://github.com/haizlin/fe-interview/issues/3123)  
+## :clock430: Today's Knowledge Points (2020.10.31) —— 564 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请说说h1-h6它们的默认字体大小是多少吗？](https://github.com/haizlin/fe-interview/issues/3125)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你感觉css哪块的知识点最难掌握？为什么？](https://github.com/haizlin/fe-interview/issues/3126)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [一个函数调用会产生多少个上下文环境？](https://github.com/haizlin/fe-interview/issues/3127)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [网站正在开发测试阶段，不想让百度抓取怎么办？](https://github.com/haizlin/fe-interview/issues/3128)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 562 days (2020.10.29)  
-    	 :one: [html] [你有使用过bdi标签吗？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3116)  
-	 :two: [css] [通过CSS的定位有几种，分别相对于什么定位？](https://github.com/haizlin/fe-interview/issues/3117)  
-	 :three: [js] [一次JS的请求哪些地方会有缓存处理？](https://github.com/haizlin/fe-interview/issues/3118)  
-	 :four: [skill] [为什么要有同源限制？](https://github.com/haizlin/fe-interview/issues/3119)  
+- 563 days (2020.10.30)  
+    	 :one: [html] [直接使用b标签和使用css的font-weight有什么区别？](https://github.com/haizlin/fe-interview/issues/3120)  
+	 :two: [css] [如何垂直居中一个浮动的元素？](https://github.com/haizlin/fe-interview/issues/3121)  
+	 :three: [js] [map和forEach有什么区别？](https://github.com/haizlin/fe-interview/issues/3122)  
+	 :four: [skill] [假如没有同源限制将会怎么样？](https://github.com/haizlin/fe-interview/issues/3123)  
  
 	
 - **[All](category/history.md)**
