@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.01) —— 565 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过samp标签吗？说说它的应用场景](https://github.com/haizlin/fe-interview/issues/3129)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [控制换行的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3130)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何激活一个上下文？](https://github.com/haizlin/fe-interview/issues/3131)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对单体应用的理解？单体应用有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3132)  
+## :clock430: Today's Knowledge Points (2020.11.02) —— 566 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你觉得html的标签（包括html5）总共有多少个？它们是如何分类的？](https://github.com/haizlin/fe-interview/issues/3133)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [举例说明如何控制中文不换行？](https://github.com/haizlin/fe-interview/issues/3134)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如果给你一段代码，你能画出执行过程的上下文堆栈的变化吗？](https://github.com/haizlin/fe-interview/issues/3135)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [301跳转和302跳转有什么区别？](https://github.com/haizlin/fe-interview/issues/3136)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 564 days (2020.10.31)  
-    	 :one: [html] [请说说h1-h6它们的默认字体大小是多少吗？](https://github.com/haizlin/fe-interview/issues/3125)  
-	 :two: [css] [你感觉css哪块的知识点最难掌握？为什么？](https://github.com/haizlin/fe-interview/issues/3126)  
-	 :three: [js] [一个函数调用会产生多少个上下文环境？](https://github.com/haizlin/fe-interview/issues/3127)  
-	 :four: [skill] [网站正在开发测试阶段，不想让百度抓取怎么办？](https://github.com/haizlin/fe-interview/issues/3128)  
+- 565 days (2020.11.01)  
+    	 :one: [html] [你有使用过samp标签吗？说说它的应用场景](https://github.com/haizlin/fe-interview/issues/3129)  
+	 :two: [css] [控制换行的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3130)  
+	 :three: [js] [如何激活一个上下文？](https://github.com/haizlin/fe-interview/issues/3131)  
+	 :four: [skill] [说说你对单体应用的理解？单体应用有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3132)  
  
 	
 - **[All](category/history.md)**

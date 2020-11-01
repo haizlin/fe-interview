@@ -2,6 +2,11 @@
 
 
 
+- 第566天 (2020.11.02)  
+    - [html] [你觉得html的标签（包括html5）总共有多少个？它们是如何分类的？](https://github.com/haizlin/fe-interview/issues/3133)
+    - [css] [举例说明如何控制中文不换行？](https://github.com/haizlin/fe-interview/issues/3134)
+    - [js] [如果给你一段代码，你能画出执行过程的上下文堆栈的变化吗？](https://github.com/haizlin/fe-interview/issues/3135)
+    - [软技能] [301跳转和302跳转有什么区别？](https://github.com/haizlin/fe-interview/issues/3136)
 - 第565天 (2020.11.01)  
     - [html] [你有使用过samp标签吗？说说它的应用场景](https://github.com/haizlin/fe-interview/issues/3129)
     - [css] [控制换行的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3130)
