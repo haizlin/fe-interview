@@ -2,6 +2,11 @@
 
 
 
+- 第567天 (2020.11.03)  
+    - [html] [HTML5是SGML的子集吗？](https://github.com/haizlin/fe-interview/issues/3137)
+    - [css] [如果元素宽度不够时，如何使得长串单词不会被截断？](https://github.com/haizlin/fe-interview/issues/3138)
+    - [js] [请说说你对变量对象的理解](https://github.com/haizlin/fe-interview/issues/3139)
+    - [软技能] [为什么浏览器要限制tcp的连接最大个数？](https://github.com/haizlin/fe-interview/issues/3140)
 - 第566天 (2020.11.02)  
     - [html] [你觉得html的标签（包括html5）总共有多少个？它们是如何分类的？](https://github.com/haizlin/fe-interview/issues/3133)
     - [css] [举例说明如何控制中文不换行？](https://github.com/haizlin/fe-interview/issues/3134)

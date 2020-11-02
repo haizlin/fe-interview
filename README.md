@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.02) —— 第566天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你觉得html的标签（包括html5）总共有多少个？它们是如何分类的？](https://github.com/haizlin/fe-interview/issues/3133)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [举例说明如何控制中文不换行？](https://github.com/haizlin/fe-interview/issues/3134)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如果给你一段代码，你能画出执行过程的上下文堆栈的变化吗？](https://github.com/haizlin/fe-interview/issues/3135)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [301跳转和302跳转有什么区别？](https://github.com/haizlin/fe-interview/issues/3136)  
+## :clock430: 今天的知识点   (2020.11.03) —— 第567天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5是SGML的子集吗？](https://github.com/haizlin/fe-interview/issues/3137)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如果元素宽度不够时，如何使得长串单词不会被截断？](https://github.com/haizlin/fe-interview/issues/3138)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说你对变量对象的理解](https://github.com/haizlin/fe-interview/issues/3139)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [为什么浏览器要限制tcp的连接最大个数？](https://github.com/haizlin/fe-interview/issues/3140)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第565天 (2020.11.01)  
-    	 :one: [html] [你有使用过samp标签吗？说说它的应用场景](https://github.com/haizlin/fe-interview/issues/3129)  
-	 :two: [css] [控制换行的属性有哪些？](https://github.com/haizlin/fe-interview/issues/3130)  
-	 :three: [js] [如何激活一个上下文？](https://github.com/haizlin/fe-interview/issues/3131)  
-	 :four: [软技能] [说说你对单体应用的理解？单体应用有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3132)  
+- 第566天 (2020.11.02)  
+    	 :one: [html] [你觉得html的标签（包括html5）总共有多少个？它们是如何分类的？](https://github.com/haizlin/fe-interview/issues/3133)  
+	 :two: [css] [举例说明如何控制中文不换行？](https://github.com/haizlin/fe-interview/issues/3134)  
+	 :three: [js] [如果给你一段代码，你能画出执行过程的上下文堆栈的变化吗？](https://github.com/haizlin/fe-interview/issues/3135)  
+	 :four: [软技能] [301跳转和302跳转有什么区别？](https://github.com/haizlin/fe-interview/issues/3136)  
  
 	
 - **[查看全部](category/history.md)**
