@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.03) —— 第567天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5是SGML的子集吗？](https://github.com/haizlin/fe-interview/issues/3137)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如果元素宽度不够时，如何使得长串单词不会被截断？](https://github.com/haizlin/fe-interview/issues/3138)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说你对变量对象的理解](https://github.com/haizlin/fe-interview/issues/3139)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [为什么浏览器要限制tcp的连接最大个数？](https://github.com/haizlin/fe-interview/issues/3140)  
+## :clock430: 今天的知识点   (2020.11.04) —— 第568天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html的属性值有规定要使用单引号还是双引号吗？](https://github.com/haizlin/fe-interview/issues/3141)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [举例说明哪些css属性可以简写？](https://github.com/haizlin/fe-interview/issues/3142)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说你对活动对象的理解](https://github.com/haizlin/fe-interview/issues/3143)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [1.1版本单个tcp连接下的http请求为什么只能同步处理？](https://github.com/haizlin/fe-interview/issues/3144)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第566天 (2020.11.02)  
-    	 :one: [html] [你觉得html的标签（包括html5）总共有多少个？它们是如何分类的？](https://github.com/haizlin/fe-interview/issues/3133)  
-	 :two: [css] [举例说明如何控制中文不换行？](https://github.com/haizlin/fe-interview/issues/3134)  
-	 :three: [js] [如果给你一段代码，你能画出执行过程的上下文堆栈的变化吗？](https://github.com/haizlin/fe-interview/issues/3135)  
-	 :four: [软技能] [301跳转和302跳转有什么区别？](https://github.com/haizlin/fe-interview/issues/3136)  
+- 第567天 (2020.11.03)  
+    	 :one: [html] [HTML5是SGML的子集吗？](https://github.com/haizlin/fe-interview/issues/3137)  
+	 :two: [css] [如果元素宽度不够时，如何使得长串单词不会被截断？](https://github.com/haizlin/fe-interview/issues/3138)  
+	 :three: [js] [请说说你对变量对象的理解](https://github.com/haizlin/fe-interview/issues/3139)  
+	 :four: [软技能] [为什么浏览器要限制tcp的连接最大个数？](https://github.com/haizlin/fe-interview/issues/3140)  
  
 	
 - **[查看全部](category/history.md)**

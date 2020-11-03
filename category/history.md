@@ -2,6 +2,11 @@
 
 
 
+- 第568天 (2020.11.04)  
+    - [html] [html的属性值有规定要使用单引号还是双引号吗？](https://github.com/haizlin/fe-interview/issues/3141)
+    - [css] [举例说明哪些css属性可以简写？](https://github.com/haizlin/fe-interview/issues/3142)
+    - [js] [请说说你对活动对象的理解](https://github.com/haizlin/fe-interview/issues/3143)
+    - [软技能] [1.1版本单个tcp连接下的http请求为什么只能同步处理？](https://github.com/haizlin/fe-interview/issues/3144)
 - 第567天 (2020.11.03)  
     - [html] [HTML5是SGML的子集吗？](https://github.com/haizlin/fe-interview/issues/3137)
     - [css] [如果元素宽度不够时，如何使得长串单词不会被截断？](https://github.com/haizlin/fe-interview/issues/3138)
