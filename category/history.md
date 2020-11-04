@@ -2,6 +2,11 @@
 
 
 
+- 第569天 (2020.11.05)  
+    - [html] [XHTML有哪些强制的要求？](https://github.com/haizlin/fe-interview/issues/3145)
+    - [css] [为什么有时候给元素设置宽度不起作用呢？](https://github.com/haizlin/fe-interview/issues/3146)
+    - [js] [闭包是如何形成的？](https://github.com/haizlin/fe-interview/issues/3147)
+    - [软技能] [1.1版本http协议中的管道机制和非管道情况下处理差别体现在哪里？](https://github.com/haizlin/fe-interview/issues/3148)
 - 第568天 (2020.11.04)  
     - [html] [html的属性值有规定要使用单引号还是双引号吗？](https://github.com/haizlin/fe-interview/issues/3141)
     - [css] [举例说明哪些css属性可以简写？](https://github.com/haizlin/fe-interview/issues/3142)
