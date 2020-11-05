@@ -2,6 +2,11 @@
 
 
 
+- 第570天 (2020.11.06)  
+    - [html] [HTML5语义化更好的标签有哪些？](https://github.com/haizlin/fe-interview/issues/3149)
+    - [css] [如果设置一个元素的字体为：font-size:18，没有写单位px，那么会默认有px的单位吗？](https://github.com/haizlin/fe-interview/issues/3150)
+    - [js] [你觉得递归好写吗？](https://github.com/haizlin/fe-interview/issues/3151)
+    - [软技能] [需要从前端上传一个大文件（如500M）到服务器，你是如何考虑的？](https://github.com/haizlin/fe-interview/issues/3152)
 - 第569天 (2020.11.05)  
     - [html] [XHTML有哪些强制的要求？](https://github.com/haizlin/fe-interview/issues/3145)
     - [css] [为什么有时候给元素设置宽度不起作用呢？](https://github.com/haizlin/fe-interview/issues/3146)
