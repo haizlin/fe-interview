@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.06) —— 第570天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5语义化更好的标签有哪些？](https://github.com/haizlin/fe-interview/issues/3149)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如果设置一个元素的字体为：font-size:18，没有写单位px，那么会默认有px的单位吗？](https://github.com/haizlin/fe-interview/issues/3150)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你觉得递归好写吗？](https://github.com/haizlin/fe-interview/issues/3151)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [需要从前端上传一个大文件（如500M）到服务器，你是如何考虑的？](https://github.com/haizlin/fe-interview/issues/3152)  
+## :clock430: 今天的知识点   (2020.11.07) —— 第571天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [怎样处理HTML5新标签在浏览器中兼容的问题？](https://github.com/haizlin/fe-interview/issues/3153)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何清除input元素聚焦时的边框](https://github.com/haizlin/fe-interview/issues/3154)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [是否所有的循环都能用递归代替？为什么？如果不可以，请举例说明](https://github.com/haizlin/fe-interview/issues/3155)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [为什么我们以0.0.0.0:80不能直接访问本地项目？](https://github.com/haizlin/fe-interview/issues/3156)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第569天 (2020.11.05)  
-    	 :one: [html] [XHTML有哪些强制的要求？](https://github.com/haizlin/fe-interview/issues/3145)  
-	 :two: [css] [为什么有时候给元素设置宽度不起作用呢？](https://github.com/haizlin/fe-interview/issues/3146)  
-	 :three: [js] [闭包是如何形成的？](https://github.com/haizlin/fe-interview/issues/3147)  
-	 :four: [软技能] [1.1版本http协议中的管道机制和非管道情况下处理差别体现在哪里？](https://github.com/haizlin/fe-interview/issues/3148)  
+- 第570天 (2020.11.06)  
+    	 :one: [html] [HTML5语义化更好的标签有哪些？](https://github.com/haizlin/fe-interview/issues/3149)  
+	 :two: [css] [如果设置一个元素的字体为：font-size:18，没有写单位px，那么会默认有px的单位吗？](https://github.com/haizlin/fe-interview/issues/3150)  
+	 :three: [js] [你觉得递归好写吗？](https://github.com/haizlin/fe-interview/issues/3151)  
+	 :four: [软技能] [需要从前端上传一个大文件（如500M）到服务器，你是如何考虑的？](https://github.com/haizlin/fe-interview/issues/3152)  
  
 	
 - **[查看全部](category/history.md)**

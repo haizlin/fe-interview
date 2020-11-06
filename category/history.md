@@ -2,6 +2,11 @@
 
 
 
+- 第571天 (2020.11.07)  
+    - [html] [怎样处理HTML5新标签在浏览器中兼容的问题？](https://github.com/haizlin/fe-interview/issues/3153)
+    - [css] [如何清除input元素聚焦时的边框](https://github.com/haizlin/fe-interview/issues/3154)
+    - [js] [是否所有的循环都能用递归代替？为什么？如果不可以，请举例说明](https://github.com/haizlin/fe-interview/issues/3155)
+    - [软技能] [为什么我们以0.0.0.0:80不能直接访问本地项目？](https://github.com/haizlin/fe-interview/issues/3156)
 - 第570天 (2020.11.06)  
     - [html] [HTML5语义化更好的标签有哪些？](https://github.com/haizlin/fe-interview/issues/3149)
     - [css] [如果设置一个元素的字体为：font-size:18，没有写单位px，那么会默认有px的单位吗？](https://github.com/haizlin/fe-interview/issues/3150)
