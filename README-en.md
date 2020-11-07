@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.07) —— 571 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [怎样处理HTML5新标签在浏览器中兼容的问题？](https://github.com/haizlin/fe-interview/issues/3153)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何清除input元素聚焦时的边框](https://github.com/haizlin/fe-interview/issues/3154)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [是否所有的循环都能用递归代替？为什么？如果不可以，请举例说明](https://github.com/haizlin/fe-interview/issues/3155)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [为什么我们以0.0.0.0:80不能直接访问本地项目？](https://github.com/haizlin/fe-interview/issues/3156)  
+## :clock430: Today's Knowledge Points (2020.11.08) —— 572 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你是如何区分HTML和HTML5的？](https://github.com/haizlin/fe-interview/issues/3157)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何让子元素不继承父元素的:hover效果？](https://github.com/haizlin/fe-interview/issues/3158)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [字符串从哪里来的split方法和length属性？](https://github.com/haizlin/fe-interview/issues/3159)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你是如何做兼容性检测的？](https://github.com/haizlin/fe-interview/issues/3160)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 570 days (2020.11.06)  
-    	 :one: [html] [HTML5语义化更好的标签有哪些？](https://github.com/haizlin/fe-interview/issues/3149)  
-	 :two: [css] [如果设置一个元素的字体为：font-size:18，没有写单位px，那么会默认有px的单位吗？](https://github.com/haizlin/fe-interview/issues/3150)  
-	 :three: [js] [你觉得递归好写吗？](https://github.com/haizlin/fe-interview/issues/3151)  
-	 :four: [skill] [需要从前端上传一个大文件（如500M）到服务器，你是如何考虑的？](https://github.com/haizlin/fe-interview/issues/3152)  
+- 571 days (2020.11.07)  
+    	 :one: [html] [怎样处理HTML5新标签在浏览器中兼容的问题？](https://github.com/haizlin/fe-interview/issues/3153)  
+	 :two: [css] [如何清除input元素聚焦时的边框](https://github.com/haizlin/fe-interview/issues/3154)  
+	 :three: [js] [是否所有的循环都能用递归代替？为什么？如果不可以，请举例说明](https://github.com/haizlin/fe-interview/issues/3155)  
+	 :four: [skill] [为什么我们以0.0.0.0:80不能直接访问本地项目？](https://github.com/haizlin/fe-interview/issues/3156)  
  
 	
 - **[All](category/history.md)**

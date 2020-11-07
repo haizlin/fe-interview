@@ -2,6 +2,11 @@
 
 
 
+- 第572天 (2020.11.08)  
+    - [html] [你是如何区分HTML和HTML5的？](https://github.com/haizlin/fe-interview/issues/3157)
+    - [css] [如何让子元素不继承父元素的:hover效果？](https://github.com/haizlin/fe-interview/issues/3158)
+    - [js] [字符串从哪里来的split方法和length属性？](https://github.com/haizlin/fe-interview/issues/3159)
+    - [软技能] [你是如何做兼容性检测的？](https://github.com/haizlin/fe-interview/issues/3160)
 - 第571天 (2020.11.07)  
     - [html] [怎样处理HTML5新标签在浏览器中兼容的问题？](https://github.com/haizlin/fe-interview/issues/3153)
     - [css] [如何清除input元素聚焦时的边框](https://github.com/haizlin/fe-interview/issues/3154)
