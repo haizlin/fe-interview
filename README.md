@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.08) —— 第572天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你是如何区分HTML和HTML5的？](https://github.com/haizlin/fe-interview/issues/3157)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何让子元素不继承父元素的:hover效果？](https://github.com/haizlin/fe-interview/issues/3158)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [字符串从哪里来的split方法和length属性？](https://github.com/haizlin/fe-interview/issues/3159)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何做兼容性检测的？](https://github.com/haizlin/fe-interview/issues/3160)  
+## :clock430: 今天的知识点   (2020.11.09) —— 第573天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [tabindex属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3161)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何去掉button的点击样式？](https://github.com/haizlin/fe-interview/issues/3162)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将汉字转换成拼音首字母](https://github.com/haizlin/fe-interview/issues/3163)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你认为你在别人的眼里是一个什么样的人（别人如何评价你）？](https://github.com/haizlin/fe-interview/issues/3164)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第571天 (2020.11.07)  
-    	 :one: [html] [怎样处理HTML5新标签在浏览器中兼容的问题？](https://github.com/haizlin/fe-interview/issues/3153)  
-	 :two: [css] [如何清除input元素聚焦时的边框](https://github.com/haizlin/fe-interview/issues/3154)  
-	 :three: [js] [是否所有的循环都能用递归代替？为什么？如果不可以，请举例说明](https://github.com/haizlin/fe-interview/issues/3155)  
-	 :four: [软技能] [为什么我们以0.0.0.0:80不能直接访问本地项目？](https://github.com/haizlin/fe-interview/issues/3156)  
+- 第572天 (2020.11.08)  
+    	 :one: [html] [你是如何区分HTML和HTML5的？](https://github.com/haizlin/fe-interview/issues/3157)  
+	 :two: [css] [如何让子元素不继承父元素的:hover效果？](https://github.com/haizlin/fe-interview/issues/3158)  
+	 :three: [js] [字符串从哪里来的split方法和length属性？](https://github.com/haizlin/fe-interview/issues/3159)  
+	 :four: [软技能] [你是如何做兼容性检测的？](https://github.com/haizlin/fe-interview/issues/3160)  
  
 	
 - **[查看全部](category/history.md)**
