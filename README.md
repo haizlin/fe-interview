@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.09) —— 第573天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [tabindex属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3161)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何去掉button的点击样式？](https://github.com/haizlin/fe-interview/issues/3162)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将汉字转换成拼音首字母](https://github.com/haizlin/fe-interview/issues/3163)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你认为你在别人的眼里是一个什么样的人（别人如何评价你）？](https://github.com/haizlin/fe-interview/issues/3164)  
+## :clock430: 今天的知识点   (2020.11.10) —— 第574天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对HTML5中pattern属性的理解](https://github.com/haizlin/fe-interview/issues/3165)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css unicode字符集有哪些分类？](https://github.com/haizlin/fe-interview/issues/3166)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，批量删除指定索引的数组元素](https://github.com/haizlin/fe-interview/issues/3167)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对上家公司的评价](https://github.com/haizlin/fe-interview/issues/3168)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第572天 (2020.11.08)  
-    	 :one: [html] [你是如何区分HTML和HTML5的？](https://github.com/haizlin/fe-interview/issues/3157)  
-	 :two: [css] [如何让子元素不继承父元素的:hover效果？](https://github.com/haizlin/fe-interview/issues/3158)  
-	 :three: [js] [字符串从哪里来的split方法和length属性？](https://github.com/haizlin/fe-interview/issues/3159)  
-	 :four: [软技能] [你是如何做兼容性检测的？](https://github.com/haizlin/fe-interview/issues/3160)  
+- 第573天 (2020.11.09)  
+    	 :one: [html] [tabindex属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3161)  
+	 :two: [css] [如何去掉button的点击样式？](https://github.com/haizlin/fe-interview/issues/3162)  
+	 :three: [js] [写一个方法将汉字转换成拼音首字母](https://github.com/haizlin/fe-interview/issues/3163)  
+	 :four: [软技能] [你认为你在别人的眼里是一个什么样的人（别人如何评价你）？](https://github.com/haizlin/fe-interview/issues/3164)  
  
 	
 - **[查看全部](category/history.md)**

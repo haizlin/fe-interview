@@ -2,6 +2,11 @@
 
 
 
+- 第574天 (2020.11.10)  
+    - [html] [说说你对HTML5中pattern属性的理解](https://github.com/haizlin/fe-interview/issues/3165)
+    - [css] [css unicode字符集有哪些分类？](https://github.com/haizlin/fe-interview/issues/3166)
+    - [js] [写一个方法，批量删除指定索引的数组元素](https://github.com/haizlin/fe-interview/issues/3167)
+    - [软技能] [说说你对上家公司的评价](https://github.com/haizlin/fe-interview/issues/3168)
 - 第573天 (2020.11.09)  
     - [html] [tabindex属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3161)
     - [css] [如何去掉button的点击样式？](https://github.com/haizlin/fe-interview/issues/3162)
