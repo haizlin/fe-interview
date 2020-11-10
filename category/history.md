@@ -2,6 +2,11 @@
 
 
 
+- 第575天 (2020.11.11)  
+    - [html] [为什么要优先选择html5开发移动应用？](https://github.com/haizlin/fe-interview/issues/3169)
+    - [css] [css unicode字符集使用时要注意哪些问题？](https://github.com/haizlin/fe-interview/issues/3170)
+    - [js] [url链接中如果有两个问号会出现什么问题？如果通过js获取url的参数时能正常获取到吗？](https://github.com/haizlin/fe-interview/issues/3171)
+    - [软技能] [你今年比去年最大的成长是什么（或想在哪方面有成长）？](https://github.com/haizlin/fe-interview/issues/3172)
 - 第574天 (2020.11.10)  
     - [html] [说说你对HTML5中pattern属性的理解](https://github.com/haizlin/fe-interview/issues/3165)
     - [css] [css unicode字符集有哪些分类？](https://github.com/haizlin/fe-interview/issues/3166)

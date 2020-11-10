@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.10) —— 574 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对HTML5中pattern属性的理解](https://github.com/haizlin/fe-interview/issues/3165)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css unicode字符集有哪些分类？](https://github.com/haizlin/fe-interview/issues/3166)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，批量删除指定索引的数组元素](https://github.com/haizlin/fe-interview/issues/3167)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对上家公司的评价](https://github.com/haizlin/fe-interview/issues/3168)  
+## :clock430: Today's Knowledge Points (2020.11.11) —— 575 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [为什么要优先选择html5开发移动应用？](https://github.com/haizlin/fe-interview/issues/3169)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css unicode字符集使用时要注意哪些问题？](https://github.com/haizlin/fe-interview/issues/3170)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [url链接中如果有两个问号会出现什么问题？如果通过js获取url的参数时能正常获取到吗？](https://github.com/haizlin/fe-interview/issues/3171)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你今年比去年最大的成长是什么（或想在哪方面有成长）？](https://github.com/haizlin/fe-interview/issues/3172)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 573 days (2020.11.09)  
-    	 :one: [html] [tabindex属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3161)  
-	 :two: [css] [如何去掉button的点击样式？](https://github.com/haizlin/fe-interview/issues/3162)  
-	 :three: [js] [写一个方法将汉字转换成拼音首字母](https://github.com/haizlin/fe-interview/issues/3163)  
-	 :four: [skill] [你认为你在别人的眼里是一个什么样的人（别人如何评价你）？](https://github.com/haizlin/fe-interview/issues/3164)  
+- 574 days (2020.11.10)  
+    	 :one: [html] [说说你对HTML5中pattern属性的理解](https://github.com/haizlin/fe-interview/issues/3165)  
+	 :two: [css] [css unicode字符集有哪些分类？](https://github.com/haizlin/fe-interview/issues/3166)  
+	 :three: [js] [写一个方法，批量删除指定索引的数组元素](https://github.com/haizlin/fe-interview/issues/3167)  
+	 :four: [skill] [说说你对上家公司的评价](https://github.com/haizlin/fe-interview/issues/3168)  
  
 	
 - **[All](category/history.md)**
