@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.11) —— 第575天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [为什么要优先选择html5开发移动应用？](https://github.com/haizlin/fe-interview/issues/3169)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css unicode字符集使用时要注意哪些问题？](https://github.com/haizlin/fe-interview/issues/3170)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [url链接中如果有两个问号会出现什么问题？如果通过js获取url的参数时能正常获取到吗？](https://github.com/haizlin/fe-interview/issues/3171)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你今年比去年最大的成长是什么（或想在哪方面有成长）？](https://github.com/haizlin/fe-interview/issues/3172)  
+## :clock430: 今天的知识点   (2020.11.12) —— 第576天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画一条折线图](https://github.com/haizlin/fe-interview/issues/3173)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下为什么css中值为0时可以不写单位吗？](https://github.com/haizlin/fe-interview/issues/3174)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将字符串中的制表符全部替换为逗号](https://github.com/haizlin/fe-interview/issues/3175)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对我（面试官）的评价](https://github.com/haizlin/fe-interview/issues/3176)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第574天 (2020.11.10)  
-    	 :one: [html] [说说你对HTML5中pattern属性的理解](https://github.com/haizlin/fe-interview/issues/3165)  
-	 :two: [css] [css unicode字符集有哪些分类？](https://github.com/haizlin/fe-interview/issues/3166)  
-	 :three: [js] [写一个方法，批量删除指定索引的数组元素](https://github.com/haizlin/fe-interview/issues/3167)  
-	 :four: [软技能] [说说你对上家公司的评价](https://github.com/haizlin/fe-interview/issues/3168)  
+- 第575天 (2020.11.11)  
+    	 :one: [html] [为什么要优先选择html5开发移动应用？](https://github.com/haizlin/fe-interview/issues/3169)  
+	 :two: [css] [css unicode字符集使用时要注意哪些问题？](https://github.com/haizlin/fe-interview/issues/3170)  
+	 :three: [js] [url链接中如果有两个问号会出现什么问题？如果通过js获取url的参数时能正常获取到吗？](https://github.com/haizlin/fe-interview/issues/3171)  
+	 :four: [软技能] [你今年比去年最大的成长是什么（或想在哪方面有成长）？](https://github.com/haizlin/fe-interview/issues/3172)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第576天 (2020.11.12)  
+    - [html] [使用svg画一条折线图](https://github.com/haizlin/fe-interview/issues/3173)
+    - [css] [解释下为什么css中值为0时可以不写单位吗？](https://github.com/haizlin/fe-interview/issues/3174)
+    - [js] [写一个方法将字符串中的制表符全部替换为逗号](https://github.com/haizlin/fe-interview/issues/3175)
+    - [软技能] [说说你对我（面试官）的评价](https://github.com/haizlin/fe-interview/issues/3176)
 - 第575天 (2020.11.11)  
     - [html] [为什么要优先选择html5开发移动应用？](https://github.com/haizlin/fe-interview/issues/3169)
     - [css] [css unicode字符集使用时要注意哪些问题？](https://github.com/haizlin/fe-interview/issues/3170)
