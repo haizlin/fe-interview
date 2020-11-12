@@ -2,6 +2,11 @@
 
 
 
+- 第577天 (2020.11.13)  
+    - [html] [使用svg画一个三角形](https://github.com/haizlin/fe-interview/issues/3177)
+    - [css] [你觉得在css中如果值是0时写单位好还是不写好呢？为什么？](https://github.com/haizlin/fe-interview/issues/3178)
+    - [js] [为什么eva要添加括号呢？](https://github.com/haizlin/fe-interview/issues/3179)
+    - [软技能] [举例说明学习数据结构和算法有什么用？](https://github.com/haizlin/fe-interview/issues/3180)
 - 第576天 (2020.11.12)  
     - [html] [使用svg画一条折线图](https://github.com/haizlin/fe-interview/issues/3173)
     - [css] [解释下为什么css中值为0时可以不写单位吗？](https://github.com/haizlin/fe-interview/issues/3174)

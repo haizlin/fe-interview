@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.12) —— 576 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画一条折线图](https://github.com/haizlin/fe-interview/issues/3173)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下为什么css中值为0时可以不写单位吗？](https://github.com/haizlin/fe-interview/issues/3174)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将字符串中的制表符全部替换为逗号](https://github.com/haizlin/fe-interview/issues/3175)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对我（面试官）的评价](https://github.com/haizlin/fe-interview/issues/3176)  
+## :clock430: Today's Knowledge Points (2020.11.13) —— 577 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画一个三角形](https://github.com/haizlin/fe-interview/issues/3177)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你觉得在css中如果值是0时写单位好还是不写好呢？为什么？](https://github.com/haizlin/fe-interview/issues/3178)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [为什么eva要添加括号呢？](https://github.com/haizlin/fe-interview/issues/3179)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [举例说明学习数据结构和算法有什么用？](https://github.com/haizlin/fe-interview/issues/3180)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 575 days (2020.11.11)  
-    	 :one: [html] [为什么要优先选择html5开发移动应用？](https://github.com/haizlin/fe-interview/issues/3169)  
-	 :two: [css] [css unicode字符集使用时要注意哪些问题？](https://github.com/haizlin/fe-interview/issues/3170)  
-	 :three: [js] [url链接中如果有两个问号会出现什么问题？如果通过js获取url的参数时能正常获取到吗？](https://github.com/haizlin/fe-interview/issues/3171)  
-	 :four: [skill] [你今年比去年最大的成长是什么（或想在哪方面有成长）？](https://github.com/haizlin/fe-interview/issues/3172)  
+- 576 days (2020.11.12)  
+    	 :one: [html] [使用svg画一条折线图](https://github.com/haizlin/fe-interview/issues/3173)  
+	 :two: [css] [解释下为什么css中值为0时可以不写单位吗？](https://github.com/haizlin/fe-interview/issues/3174)  
+	 :three: [js] [写一个方法将字符串中的制表符全部替换为逗号](https://github.com/haizlin/fe-interview/issues/3175)  
+	 :four: [skill] [说说你对我（面试官）的评价](https://github.com/haizlin/fe-interview/issues/3176)  
  
 	
 - **[All](category/history.md)**
