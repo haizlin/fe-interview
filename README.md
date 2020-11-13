@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.13) —— 第577天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画一个三角形](https://github.com/haizlin/fe-interview/issues/3177)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你觉得在css中如果值是0时写单位好还是不写好呢？为什么？](https://github.com/haizlin/fe-interview/issues/3178)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [为什么eva要添加括号呢？](https://github.com/haizlin/fe-interview/issues/3179)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [举例说明学习数据结构和算法有什么用？](https://github.com/haizlin/fe-interview/issues/3180)  
+## :clock430: 今天的知识点   (2020.11.14) —— 第578天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画一个腾讯的logo](https://github.com/haizlin/fe-interview/issues/3181)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你知道css压缩的方法和原理是什么吗？请描述一下](https://github.com/haizlin/fe-interview/issues/3182)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法检测指定的数组是否有重复的元素](https://github.com/haizlin/fe-interview/issues/3183)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [在css中汉字和英文字母的行高不同如何解决？](https://github.com/haizlin/fe-interview/issues/3184)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第576天 (2020.11.12)  
-    	 :one: [html] [使用svg画一条折线图](https://github.com/haizlin/fe-interview/issues/3173)  
-	 :two: [css] [解释下为什么css中值为0时可以不写单位吗？](https://github.com/haizlin/fe-interview/issues/3174)  
-	 :three: [js] [写一个方法将字符串中的制表符全部替换为逗号](https://github.com/haizlin/fe-interview/issues/3175)  
-	 :four: [软技能] [说说你对我（面试官）的评价](https://github.com/haizlin/fe-interview/issues/3176)  
+- 第577天 (2020.11.13)  
+    	 :one: [html] [使用svg画一个三角形](https://github.com/haizlin/fe-interview/issues/3177)  
+	 :two: [css] [你觉得在css中如果值是0时写单位好还是不写好呢？为什么？](https://github.com/haizlin/fe-interview/issues/3178)  
+	 :three: [js] [为什么eval要添加括号呢？](https://github.com/haizlin/fe-interview/issues/3179)  
+	 :four: [软技能] [举例说明学习数据结构和算法有什么用？](https://github.com/haizlin/fe-interview/issues/3180)  
  
 	
 - **[查看全部](category/history.md)**

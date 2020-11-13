@@ -2,10 +2,15 @@
 
 
 
+- 第578天 (2020.11.14)  
+    - [html] [使用svg画一个腾讯的logo](https://github.com/haizlin/fe-interview/issues/3181)
+    - [css] [你知道css压缩的方法和原理是什么吗？请描述一下](https://github.com/haizlin/fe-interview/issues/3182)
+    - [js] [写一个方法检测指定的数组是否有重复的元素](https://github.com/haizlin/fe-interview/issues/3183)
+    - [软技能] [在css中汉字和英文字母的行高不同如何解决？](https://github.com/haizlin/fe-interview/issues/3184)
 - 第577天 (2020.11.13)  
     - [html] [使用svg画一个三角形](https://github.com/haizlin/fe-interview/issues/3177)
     - [css] [你觉得在css中如果值是0时写单位好还是不写好呢？为什么？](https://github.com/haizlin/fe-interview/issues/3178)
-    - [js] [为什么eva要添加括号呢？](https://github.com/haizlin/fe-interview/issues/3179)
+    - [js] [为什么eval要添加括号呢？](https://github.com/haizlin/fe-interview/issues/3179)
     - [软技能] [举例说明学习数据结构和算法有什么用？](https://github.com/haizlin/fe-interview/issues/3180)
 - 第576天 (2020.11.12)  
     - [html] [使用svg画一条折线图](https://github.com/haizlin/fe-interview/issues/3173)
