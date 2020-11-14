@@ -2,6 +2,11 @@
 
 
 
+- 第579天 (2020.11.15)  
+    - [html] [使用svg画一个平行四边形](https://github.com/haizlin/fe-interview/issues/3185)
+    - [css] [说说你对css包含块的理解](https://github.com/haizlin/fe-interview/issues/3186)
+    - [js] [写一个方法求给定1485个元素中取33个元素的组合有多少种（大数据处理，小心CPU爆炸）](https://github.com/haizlin/fe-interview/issues/3187)
+    - [软技能] [如果要在页面上放一组图片轮播图，你认为多长时间播放一次比较好，为什么？](https://github.com/haizlin/fe-interview/issues/3188)
 - 第578天 (2020.11.14)  
     - [html] [使用svg画一个腾讯的logo](https://github.com/haizlin/fe-interview/issues/3181)
     - [css] [你知道css压缩的方法和原理是什么吗？请描述一下](https://github.com/haizlin/fe-interview/issues/3182)
