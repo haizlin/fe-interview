@@ -2,6 +2,21 @@
 
 
 
+- 第582天 (2020.11.18)  
+    - [html] [使用svg画出“前端每日3+1”的几个字](https://github.com/haizlin/fe-interview/issues/3198)
+    - [css] [css中如何获取dpr值？](https://github.com/haizlin/fe-interview/issues/3199)
+    - [js] [请解释下为什么我们可以在声明函数前使用它？](https://github.com/haizlin/fe-interview/issues/3200)
+    - [软技能] [在https站点下如何加载http的资源文件？](https://github.com/haizlin/fe-interview/issues/3201)
+- 第581天 (2020.11.17)  
+    - [html] [使用svg画一个爱心](https://github.com/haizlin/fe-interview/issues/3194)
+    - [css] [元素包含块有什么作用？](https://github.com/haizlin/fe-interview/issues/3195)
+    - [js] [写一个方法代替eval](https://github.com/haizlin/fe-interview/issues/3196)
+    - [undefined] [undefined](https://github.com/haizlin/fe-interview/issues/undefined)
+- 第580天 (2020.11.16)  
+    - [html] [使用svg画出一个时钟](https://github.com/haizlin/fe-interview/issues/3189)
+    - [css] [如何确定元素的包含块？](https://github.com/haizlin/fe-interview/issues/3190)
+    - [js] [举例说明哪些场景会遇到超大计算量的问题？](https://github.com/haizlin/fe-interview/issues/3191)
+    - [软技能] [有多个紧急任务同时到来，但人少又不够时，你要如何决策先做哪个？为什么？](https://github.com/haizlin/fe-interview/issues/3192)
 - 第579天 (2020.11.15)  
     - [html] [使用svg画一个平行四边形](https://github.com/haizlin/fe-interview/issues/3185)
     - [css] [说说你对css包含块的理解](https://github.com/haizlin/fe-interview/issues/3186)

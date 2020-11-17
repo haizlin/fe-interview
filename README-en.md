@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.15) —— 579 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画一个平行四边形](https://github.com/haizlin/fe-interview/issues/3185)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对css包含块的理解](https://github.com/haizlin/fe-interview/issues/3186)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法求给定1485个元素中取33个元素的组合有多少种（大数据处理，小心CPU爆炸）](https://github.com/haizlin/fe-interview/issues/3187)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果要在页面上放一组图片轮播图，你认为多长时间播放一次比较好，为什么？](https://github.com/haizlin/fe-interview/issues/3188)  
+## :clock430: Today's Knowledge Points (2020.11.18) —— 582 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画出“前端每日3+1”的几个字](https://github.com/haizlin/fe-interview/issues/3198)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css中如何获取dpr值？](https://github.com/haizlin/fe-interview/issues/3199)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下为什么我们可以在声明函数前使用它？](https://github.com/haizlin/fe-interview/issues/3200)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [在https站点下如何加载http的资源文件？](https://github.com/haizlin/fe-interview/issues/3201)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 578 days (2020.11.14)  
-    	 :one: [html] [使用svg画一个腾讯的logo](https://github.com/haizlin/fe-interview/issues/3181)  
-	 :two: [css] [你知道css压缩的方法和原理是什么吗？请描述一下](https://github.com/haizlin/fe-interview/issues/3182)  
-	 :three: [js] [写一个方法检测指定的数组是否有重复的元素](https://github.com/haizlin/fe-interview/issues/3183)  
-	 :four: [skill] [在css中汉字和英文字母的行高不同如何解决？](https://github.com/haizlin/fe-interview/issues/3184)  
+- 581 days (2020.11.17)  
+    	 :one: [html] [使用svg画一个爱心](https://github.com/haizlin/fe-interview/issues/3194)  
+	 :two: [css] [元素包含块有什么作用？](https://github.com/haizlin/fe-interview/issues/3195)  
+	 :three: [js] [写一个方法代替eval](https://github.com/haizlin/fe-interview/issues/3196)  
+	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
  
 	
 - **[All](category/history.md)**
