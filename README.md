@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.18) —— 第582天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画出“前端每日3+1”的几个字](https://github.com/haizlin/fe-interview/issues/3198)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css中如何获取dpr值？](https://github.com/haizlin/fe-interview/issues/3199)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下为什么我们可以在声明函数前使用它？](https://github.com/haizlin/fe-interview/issues/3200)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [在https站点下如何加载http的资源文件？](https://github.com/haizlin/fe-interview/issues/3201)  
+## :clock430: 今天的知识点   (2020.11.19) —— 第583天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3202)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何判断dpr的倍数？](https://github.com/haizlin/fe-interview/issues/3203)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下执行栈有哪些特点？](https://github.com/haizlin/fe-interview/issues/3204)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你了解什么是无界画布吗？](https://github.com/haizlin/fe-interview/issues/3205)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第581天 (2020.11.17)  
-    	 :one: [html] [使用svg画一个爱心](https://github.com/haizlin/fe-interview/issues/3194)  
-	 :two: [css] [元素包含块有什么作用？](https://github.com/haizlin/fe-interview/issues/3195)  
-	 :three: [js] [写一个方法代替eval](https://github.com/haizlin/fe-interview/issues/3196)  
-	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
+- 第582天 (2020.11.18)  
+    	 :one: [html] [使用svg画出“前端每日3+1”的几个字](https://github.com/haizlin/fe-interview/issues/3198)  
+	 :two: [css] [css中如何获取dpr值？](https://github.com/haizlin/fe-interview/issues/3199)  
+	 :three: [js] [请解释下为什么我们可以在声明函数前使用它？](https://github.com/haizlin/fe-interview/issues/3200)  
+	 :four: [软技能] [在https站点下如何加载http的资源文件？](https://github.com/haizlin/fe-interview/issues/3201)  
  
 	
 - **[查看全部](category/history.md)**

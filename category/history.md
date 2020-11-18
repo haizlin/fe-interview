@@ -2,6 +2,11 @@
 
 
 
+- 第583天 (2020.11.19)  
+    - [html] [使用canvas能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3202)
+    - [css] [如何判断dpr的倍数？](https://github.com/haizlin/fe-interview/issues/3203)
+    - [js] [请解释下执行栈有哪些特点？](https://github.com/haizlin/fe-interview/issues/3204)
+    - [软技能] [你了解什么是无界画布吗？](https://github.com/haizlin/fe-interview/issues/3205)
 - 第582天 (2020.11.18)  
     - [html] [使用svg画出“前端每日3+1”的几个字](https://github.com/haizlin/fe-interview/issues/3198)
     - [css] [css中如何获取dpr值？](https://github.com/haizlin/fe-interview/issues/3199)
