@@ -2,6 +2,11 @@
 
 
 
+- 第584天 (2020.11.20)  
+    - [html] [使用svg能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3206)
+    - [css] [说说你对css3属性column的理解](https://github.com/haizlin/fe-interview/issues/3207)
+    - [js] [js函数定义方式有哪些？](https://github.com/haizlin/fe-interview/issues/3208)
+    - [软技能] [如果有两个项目，要进行代码比较差异，你该如何操作？](https://github.com/haizlin/fe-interview/issues/3209)
 - 第583天 (2020.11.19)  
     - [html] [使用canvas能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3202)
     - [css] [如何判断dpr的倍数？](https://github.com/haizlin/fe-interview/issues/3203)

@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.19) —— 583 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3202)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何判断dpr的倍数？](https://github.com/haizlin/fe-interview/issues/3203)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下执行栈有哪些特点？](https://github.com/haizlin/fe-interview/issues/3204)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你了解什么是无界画布吗？](https://github.com/haizlin/fe-interview/issues/3205)  
+## :clock430: Today's Knowledge Points (2020.11.20) —— 584 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3206)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对css3属性column的理解](https://github.com/haizlin/fe-interview/issues/3207)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js函数定义方式有哪些？](https://github.com/haizlin/fe-interview/issues/3208)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果有两个项目，要进行代码比较差异，你该如何操作？](https://github.com/haizlin/fe-interview/issues/3209)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 582 days (2020.11.18)  
-    	 :one: [html] [使用svg画出“前端每日3+1”的几个字](https://github.com/haizlin/fe-interview/issues/3198)  
-	 :two: [css] [css中如何获取dpr值？](https://github.com/haizlin/fe-interview/issues/3199)  
-	 :three: [js] [请解释下为什么我们可以在声明函数前使用它？](https://github.com/haizlin/fe-interview/issues/3200)  
-	 :four: [skill] [在https站点下如何加载http的资源文件？](https://github.com/haizlin/fe-interview/issues/3201)  
+- 583 days (2020.11.19)  
+    	 :one: [html] [使用canvas能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3202)  
+	 :two: [css] [如何判断dpr的倍数？](https://github.com/haizlin/fe-interview/issues/3203)  
+	 :three: [js] [请解释下执行栈有哪些特点？](https://github.com/haizlin/fe-interview/issues/3204)  
+	 :four: [skill] [你了解什么是无界画布吗？](https://github.com/haizlin/fe-interview/issues/3205)  
  
 	
 - **[All](category/history.md)**
