@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.20) —— 584 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3206)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对css3属性column的理解](https://github.com/haizlin/fe-interview/issues/3207)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js函数定义方式有哪些？](https://github.com/haizlin/fe-interview/issues/3208)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果有两个项目，要进行代码比较差异，你该如何操作？](https://github.com/haizlin/fe-interview/issues/3209)  
+## :clock430: Today's Knowledge Points (2020.11.21) —— 585 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个五子棋的棋盘](https://github.com/haizlin/fe-interview/issues/3210)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请使用css column写一个多列布局](https://github.com/haizlin/fe-interview/issues/3211)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js函数调用方式有哪些？](https://github.com/haizlin/fe-interview/issues/3212)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你认为程序员要不要会修电脑？](https://github.com/haizlin/fe-interview/issues/3213)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 583 days (2020.11.19)  
-    	 :one: [html] [使用canvas能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3202)  
-	 :two: [css] [如何判断dpr的倍数？](https://github.com/haizlin/fe-interview/issues/3203)  
-	 :three: [js] [请解释下执行栈有哪些特点？](https://github.com/haizlin/fe-interview/issues/3204)  
-	 :four: [skill] [你了解什么是无界画布吗？](https://github.com/haizlin/fe-interview/issues/3205)  
+- 584 days (2020.11.20)  
+    	 :one: [html] [使用svg能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3206)  
+	 :two: [css] [说说你对css3属性column的理解](https://github.com/haizlin/fe-interview/issues/3207)  
+	 :three: [js] [js函数定义方式有哪些？](https://github.com/haizlin/fe-interview/issues/3208)  
+	 :four: [skill] [如果有两个项目，要进行代码比较差异，你该如何操作？](https://github.com/haizlin/fe-interview/issues/3209)  
  
 	
 - **[All](category/history.md)**

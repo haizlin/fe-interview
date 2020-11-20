@@ -2,6 +2,11 @@
 
 
 
+- 第585天 (2020.11.21)  
+    - [html] [使用canvas画一个五子棋的棋盘](https://github.com/haizlin/fe-interview/issues/3210)
+    - [css] [请使用css column写一个多列布局](https://github.com/haizlin/fe-interview/issues/3211)
+    - [js] [js函数调用方式有哪些？](https://github.com/haizlin/fe-interview/issues/3212)
+    - [软技能] [说说你认为程序员要不要会修电脑？](https://github.com/haizlin/fe-interview/issues/3213)
 - 第584天 (2020.11.20)  
     - [html] [使用svg能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3206)
     - [css] [说说你对css3属性column的理解](https://github.com/haizlin/fe-interview/issues/3207)
