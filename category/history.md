@@ -2,6 +2,16 @@
 
 
 
+- 第587天 (2020.11.23)  
+    - [html] [使用canvas画一个军棋的棋盘](https://github.com/haizlin/fe-interview/issues/3219)
+    - [css] [解释下使用2倍图片，有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3220)
+    - [js] [说说你对数据结构和数据类型的理解](https://github.com/haizlin/fe-interview/issues/3221)
+    - [软技能] [前端如何优化Content Download耗时太久的问题？](https://github.com/haizlin/fe-interview/issues/3222)
+- 第586天 (2020.11.22)  
+    - [html] [使用canvas画一个中国象棋的棋盘](https://github.com/haizlin/fe-interview/issues/3215)
+    - [css] [解释下为什么在移动端切图时会有使用到2倍图片呢？](https://github.com/haizlin/fe-interview/issues/3216)
+    - [js] [解释如下代码的输出结果，并改造代码使得按顺序输出i](https://github.com/haizlin/fe-interview/issues/3217)
+    - [undefined] [undefined](https://github.com/haizlin/fe-interview/issues/undefined)
 - 第585天 (2020.11.21)  
     - [html] [使用canvas画一个五子棋的棋盘](https://github.com/haizlin/fe-interview/issues/3210)
     - [css] [请使用css column写一个多列布局](https://github.com/haizlin/fe-interview/issues/3211)

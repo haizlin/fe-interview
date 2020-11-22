@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.21) —— 第585天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个五子棋的棋盘](https://github.com/haizlin/fe-interview/issues/3210)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请使用css column写一个多列布局](https://github.com/haizlin/fe-interview/issues/3211)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js函数调用方式有哪些？](https://github.com/haizlin/fe-interview/issues/3212)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你认为程序员要不要会修电脑？](https://github.com/haizlin/fe-interview/issues/3213)  
+## :clock430: 今天的知识点   (2020.11.23) —— 第587天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个军棋的棋盘](https://github.com/haizlin/fe-interview/issues/3219)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下使用2倍图片，有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3220)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对数据结构和数据类型的理解](https://github.com/haizlin/fe-interview/issues/3221)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [前端如何优化Content Download耗时太久的问题？](https://github.com/haizlin/fe-interview/issues/3222)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第584天 (2020.11.20)  
-    	 :one: [html] [使用svg能实现哪些复杂的功能？](https://github.com/haizlin/fe-interview/issues/3206)  
-	 :two: [css] [说说你对css3属性column的理解](https://github.com/haizlin/fe-interview/issues/3207)  
-	 :three: [js] [js函数定义方式有哪些？](https://github.com/haizlin/fe-interview/issues/3208)  
-	 :four: [软技能] [如果有两个项目，要进行代码比较差异，你该如何操作？](https://github.com/haizlin/fe-interview/issues/3209)  
+- 第586天 (2020.11.22)  
+    	 :one: [html] [使用canvas画一个中国象棋的棋盘](https://github.com/haizlin/fe-interview/issues/3215)  
+	 :two: [css] [解释下为什么在移动端切图时会有使用到2倍图片呢？](https://github.com/haizlin/fe-interview/issues/3216)  
+	 :three: [js] [解释如下代码的输出结果，并改造代码使得按顺序输出i](https://github.com/haizlin/fe-interview/issues/3217)  
+	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
  
 	
 - **[查看全部](category/history.md)**
