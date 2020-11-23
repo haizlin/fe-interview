@@ -2,6 +2,11 @@
 
 
 
+- 第588天 (2020.11.24)  
+    - [html] [svg可以转为png吗？怎么转？](https://github.com/haizlin/fe-interview/issues/3223)
+    - [css] [要开发一个pc端和移动端的自适应布局网站，说说你的方案是什么？](https://github.com/haizlin/fe-interview/issues/3224)
+    - [js] [请解释下数据结构与算法的关系](https://github.com/haizlin/fe-interview/issues/3225)
+    - [软技能] [浏览器缓存中的memory cache和disk cache有什么区别？](https://github.com/haizlin/fe-interview/issues/3226)
 - 第587天 (2020.11.23)  
     - [html] [使用canvas画一个军棋的棋盘](https://github.com/haizlin/fe-interview/issues/3219)
     - [css] [解释下使用2倍图片，有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3220)

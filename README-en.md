@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.23) —— 587 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个军棋的棋盘](https://github.com/haizlin/fe-interview/issues/3219)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [解释下使用2倍图片，有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3220)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对数据结构和数据类型的理解](https://github.com/haizlin/fe-interview/issues/3221)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [前端如何优化Content Download耗时太久的问题？](https://github.com/haizlin/fe-interview/issues/3222)  
+## :clock430: Today's Knowledge Points (2020.11.24) —— 588 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [svg可以转为png吗？怎么转？](https://github.com/haizlin/fe-interview/issues/3223)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [要开发一个pc端和移动端的自适应布局网站，说说你的方案是什么？](https://github.com/haizlin/fe-interview/issues/3224)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下数据结构与算法的关系](https://github.com/haizlin/fe-interview/issues/3225)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [浏览器缓存中的memory cache和disk cache有什么区别？](https://github.com/haizlin/fe-interview/issues/3226)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 586 days (2020.11.22)  
-    	 :one: [html] [使用canvas画一个中国象棋的棋盘](https://github.com/haizlin/fe-interview/issues/3215)  
-	 :two: [css] [解释下为什么在移动端切图时会有使用到2倍图片呢？](https://github.com/haizlin/fe-interview/issues/3216)  
-	 :three: [js] [解释如下代码的输出结果，并改造代码使得按顺序输出i](https://github.com/haizlin/fe-interview/issues/3217)  
-	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
+- 587 days (2020.11.23)  
+    	 :one: [html] [使用canvas画一个军棋的棋盘](https://github.com/haizlin/fe-interview/issues/3219)  
+	 :two: [css] [解释下使用2倍图片，有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3220)  
+	 :three: [js] [说说你对数据结构和数据类型的理解](https://github.com/haizlin/fe-interview/issues/3221)  
+	 :four: [skill] [前端如何优化Content Download耗时太久的问题？](https://github.com/haizlin/fe-interview/issues/3222)  
  
 	
 - **[All](category/history.md)**
