@@ -2,6 +2,11 @@
 
 
 
+- 第589天 (2020.11.25)  
+    - [html] [要减少DOM的数量有什么办法吗？](https://github.com/haizlin/fe-interview/issues/3227)
+    - [css] [pc端和移动端使用两套布局和使用一套自适应布局分别有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/3228)
+    - [js] [请解释下算法有什么特征（基本要素）？](https://github.com/haizlin/fe-interview/issues/3229)
+    - [软技能] [说说你是如何对做技术评审的，都要评审哪些方面呢？为什么？](https://github.com/haizlin/fe-interview/issues/3230)
 - 第588天 (2020.11.24)  
     - [html] [svg可以转为png吗？怎么转？](https://github.com/haizlin/fe-interview/issues/3223)
     - [css] [要开发一个pc端和移动端的自适应布局网站，说说你的方案是什么？](https://github.com/haizlin/fe-interview/issues/3224)

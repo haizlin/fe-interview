@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.24) —— 588 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [svg可以转为png吗？怎么转？](https://github.com/haizlin/fe-interview/issues/3223)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [要开发一个pc端和移动端的自适应布局网站，说说你的方案是什么？](https://github.com/haizlin/fe-interview/issues/3224)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下数据结构与算法的关系](https://github.com/haizlin/fe-interview/issues/3225)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [浏览器缓存中的memory cache和disk cache有什么区别？](https://github.com/haizlin/fe-interview/issues/3226)  
+## :clock430: Today's Knowledge Points (2020.11.25) —— 589 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [要减少DOM的数量有什么办法吗？](https://github.com/haizlin/fe-interview/issues/3227)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [pc端和移动端使用两套布局和使用一套自适应布局分别有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/3228)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下算法有什么特征（基本要素）？](https://github.com/haizlin/fe-interview/issues/3229)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你是如何对做技术评审的，都要评审哪些方面呢？为什么？](https://github.com/haizlin/fe-interview/issues/3230)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 587 days (2020.11.23)  
-    	 :one: [html] [使用canvas画一个军棋的棋盘](https://github.com/haizlin/fe-interview/issues/3219)  
-	 :two: [css] [解释下使用2倍图片，有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3220)  
-	 :three: [js] [说说你对数据结构和数据类型的理解](https://github.com/haizlin/fe-interview/issues/3221)  
-	 :four: [skill] [前端如何优化Content Download耗时太久的问题？](https://github.com/haizlin/fe-interview/issues/3222)  
+- 588 days (2020.11.24)  
+    	 :one: [html] [svg可以转为png吗？怎么转？](https://github.com/haizlin/fe-interview/issues/3223)  
+	 :two: [css] [要开发一个pc端和移动端的自适应布局网站，说说你的方案是什么？](https://github.com/haizlin/fe-interview/issues/3224)  
+	 :three: [js] [请解释下数据结构与算法的关系](https://github.com/haizlin/fe-interview/issues/3225)  
+	 :four: [skill] [浏览器缓存中的memory cache和disk cache有什么区别？](https://github.com/haizlin/fe-interview/issues/3226)  
  
 	
 - **[All](category/history.md)**
