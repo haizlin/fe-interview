@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.25) —— 第589天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [要减少DOM的数量有什么办法吗？](https://github.com/haizlin/fe-interview/issues/3227)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [pc端和移动端使用两套布局和使用一套自适应布局分别有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/3228)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下算法有什么特征（基本要素）？](https://github.com/haizlin/fe-interview/issues/3229)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你是如何对做技术评审的，都要评审哪些方面呢？为什么？](https://github.com/haizlin/fe-interview/issues/3230)  
+## :clock430: 今天的知识点   (2020.11.26) —— 第590天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [一个标签上同时出现三个或多个class属性，请问它的渲染顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/3231)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [移动端开发时你了解淘宝的lib-flexible方案吗？它的原理是什么？](https://github.com/haizlin/fe-interview/issues/3232)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [一个好的算法都应包含哪些要素？](https://github.com/haizlin/fe-interview/issues/3233)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说纯前端目前还有哪些做不到的需求？为什么？](https://github.com/haizlin/fe-interview/issues/3234)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第588天 (2020.11.24)  
-    	 :one: [html] [svg可以转为png吗？怎么转？](https://github.com/haizlin/fe-interview/issues/3223)  
-	 :two: [css] [要开发一个pc端和移动端的自适应布局网站，说说你的方案是什么？](https://github.com/haizlin/fe-interview/issues/3224)  
-	 :three: [js] [请解释下数据结构与算法的关系](https://github.com/haizlin/fe-interview/issues/3225)  
-	 :four: [软技能] [浏览器缓存中的memory cache和disk cache有什么区别？](https://github.com/haizlin/fe-interview/issues/3226)  
+- 第589天 (2020.11.25)  
+    	 :one: [html] [要减少DOM的数量有什么办法吗？](https://github.com/haizlin/fe-interview/issues/3227)  
+	 :two: [css] [pc端和移动端使用两套布局和使用一套自适应布局分别有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/3228)  
+	 :three: [js] [请解释下算法有什么特征（基本要素）？](https://github.com/haizlin/fe-interview/issues/3229)  
+	 :four: [软技能] [说说你是如何对做技术评审的，都要评审哪些方面呢？为什么？](https://github.com/haizlin/fe-interview/issues/3230)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第590天 (2020.11.26)  
+    - [html] [一个标签上同时出现三个或多个class属性，请问它的渲染顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/3231)
+    - [css] [移动端开发时你了解淘宝的lib-flexible方案吗？它的原理是什么？](https://github.com/haizlin/fe-interview/issues/3232)
+    - [js] [一个好的算法都应包含哪些要素？](https://github.com/haizlin/fe-interview/issues/3233)
+    - [软技能] [说说纯前端目前还有哪些做不到的需求？为什么？](https://github.com/haizlin/fe-interview/issues/3234)
 - 第589天 (2020.11.25)  
     - [html] [要减少DOM的数量有什么办法吗？](https://github.com/haizlin/fe-interview/issues/3227)
     - [css] [pc端和移动端使用两套布局和使用一套自适应布局分别有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/3228)
