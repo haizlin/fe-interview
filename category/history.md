@@ -2,6 +2,11 @@
 
 
 
+- 第591天 (2020.11.27)  
+    - [html] [如何给`<video>`视频添加字幕(WebVTT)？](https://github.com/haizlin/fe-interview/issues/3235)
+    - [css] [说说你对screen.width伪响应式的理解](https://github.com/haizlin/fe-interview/issues/3236)
+    - [js] [分析下`sum = n * (n - 1) / 2`的时间复杂度是什么？](https://github.com/haizlin/fe-interview/issues/3237)
+    - [软技能] [说说你对ASCII码的了解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3238)
 - 第590天 (2020.11.26)  
     - [html] [一个标签上同时出现三个或多个class属性，请问它的渲染顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/3231)
     - [css] [移动端开发时你了解淘宝的lib-flexible方案吗？它的原理是什么？](https://github.com/haizlin/fe-interview/issues/3232)
