@@ -2,6 +2,11 @@
 
 
 
+- 第592天 (2020.11.28)  
+    - [html] [为什么说cookie不可以滥用？](https://github.com/haizlin/fe-interview/issues/3239)
+    - [css] [如何去掉em的默认样式？](https://github.com/haizlin/fe-interview/issues/3240)
+    - [js] [for(;;)循环里如果省略第二个条件，则需要注意什么问题？](https://github.com/haizlin/fe-interview/issues/3241)
+    - [软技能] [你知道什么是脱敏吗？什么情况下要脱敏呢？](https://github.com/haizlin/fe-interview/issues/3242)
 - 第591天 (2020.11.27)  
     - [html] [如何给`<video>`视频添加字幕(WebVTT)？](https://github.com/haizlin/fe-interview/issues/3235)
     - [css] [说说你对screen.width伪响应式的理解](https://github.com/haizlin/fe-interview/issues/3236)

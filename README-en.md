@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.27) —— 591 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何给`<video>`视频添加字幕(WebVTT)？](https://github.com/haizlin/fe-interview/issues/3235)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对screen.width伪响应式的理解](https://github.com/haizlin/fe-interview/issues/3236)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [分析下`sum = n * (n - 1) / 2`的时间复杂度是什么？](https://github.com/haizlin/fe-interview/issues/3237)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对ASCII码的了解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3238)  
+## :clock430: Today's Knowledge Points (2020.11.28) —— 592 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [为什么说cookie不可以滥用？](https://github.com/haizlin/fe-interview/issues/3239)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何去掉em的默认样式？](https://github.com/haizlin/fe-interview/issues/3240)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [for(;;)循环里如果省略第二个条件，则需要注意什么问题？](https://github.com/haizlin/fe-interview/issues/3241)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你知道什么是脱敏吗？什么情况下要脱敏呢？](https://github.com/haizlin/fe-interview/issues/3242)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 590 days (2020.11.26)  
-    	 :one: [html] [一个标签上同时出现三个或多个class属性，请问它的渲染顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/3231)  
-	 :two: [css] [移动端开发时你了解淘宝的lib-flexible方案吗？它的原理是什么？](https://github.com/haizlin/fe-interview/issues/3232)  
-	 :three: [js] [一个好的算法都应包含哪些要素？](https://github.com/haizlin/fe-interview/issues/3233)  
-	 :four: [skill] [说说纯前端目前还有哪些做不到的需求？为什么？](https://github.com/haizlin/fe-interview/issues/3234)  
+- 591 days (2020.11.27)  
+    	 :one: [html] [如何给`<video>`视频添加字幕(WebVTT)？](https://github.com/haizlin/fe-interview/issues/3235)  
+	 :two: [css] [说说你对screen.width伪响应式的理解](https://github.com/haizlin/fe-interview/issues/3236)  
+	 :three: [js] [分析下`sum = n * (n - 1) / 2`的时间复杂度是什么？](https://github.com/haizlin/fe-interview/issues/3237)  
+	 :four: [skill] [说说你对ASCII码的了解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3238)  
  
 	
 - **[All](category/history.md)**
