@@ -2,6 +2,11 @@
 
 
 
+- 第593天 (2020.11.29)  
+    - [html] [如何对一个页面进行重构？](https://github.com/haizlin/fe-interview/issues/3243)
+    - [css] [css的属性list-style-position的值outside和inside有什么区别？](https://github.com/haizlin/fe-interview/issues/3244)
+    - [js] [遍历一个树结构，除了可以用递归外还能用哪些方法？](https://github.com/haizlin/fe-interview/issues/3245)
+    - [软技能] [你知道什么是破窗效应吗？它能指导我们什么？](https://github.com/haizlin/fe-interview/issues/3246)
 - 第592天 (2020.11.28)  
     - [html] [为什么说cookie不可以滥用？](https://github.com/haizlin/fe-interview/issues/3239)
     - [css] [如何去掉em的默认样式？](https://github.com/haizlin/fe-interview/issues/3240)

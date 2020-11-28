@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.28) —— 第592天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [为什么说cookie不可以滥用？](https://github.com/haizlin/fe-interview/issues/3239)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何去掉em的默认样式？](https://github.com/haizlin/fe-interview/issues/3240)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [for(;;)循环里如果省略第二个条件，则需要注意什么问题？](https://github.com/haizlin/fe-interview/issues/3241)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你知道什么是脱敏吗？什么情况下要脱敏呢？](https://github.com/haizlin/fe-interview/issues/3242)  
+## :clock430: 今天的知识点   (2020.11.29) —— 第593天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何对一个页面进行重构？](https://github.com/haizlin/fe-interview/issues/3243)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css的属性list-style-position的值outside和inside有什么区别？](https://github.com/haizlin/fe-interview/issues/3244)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [遍历一个树结构，除了可以用递归外还能用哪些方法？](https://github.com/haizlin/fe-interview/issues/3245)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你知道什么是破窗效应吗？它能指导我们什么？](https://github.com/haizlin/fe-interview/issues/3246)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第591天 (2020.11.27)  
-    	 :one: [html] [如何给`<video>`视频添加字幕(WebVTT)？](https://github.com/haizlin/fe-interview/issues/3235)  
-	 :two: [css] [说说你对screen.width伪响应式的理解](https://github.com/haizlin/fe-interview/issues/3236)  
-	 :three: [js] [分析下`sum = n * (n - 1) / 2`的时间复杂度是什么？](https://github.com/haizlin/fe-interview/issues/3237)  
-	 :four: [软技能] [说说你对ASCII码的了解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3238)  
+- 第592天 (2020.11.28)  
+    	 :one: [html] [为什么说cookie不可以滥用？](https://github.com/haizlin/fe-interview/issues/3239)  
+	 :two: [css] [如何去掉em的默认样式？](https://github.com/haizlin/fe-interview/issues/3240)  
+	 :three: [js] [for(;;)循环里如果省略第二个条件，则需要注意什么问题？](https://github.com/haizlin/fe-interview/issues/3241)  
+	 :four: [软技能] [你知道什么是脱敏吗？什么情况下要脱敏呢？](https://github.com/haizlin/fe-interview/issues/3242)  
  
 	
 - **[查看全部](category/history.md)**
