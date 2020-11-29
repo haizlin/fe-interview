@@ -2,6 +2,11 @@
 
 
 
+- 第594天 (2020.11.30)  
+    - [html] [如何动态修改`<title>`的标题名称？](https://github.com/haizlin/fe-interview/issues/3247)
+    - [css] [说说你对css变量（自定义属性）的理解？](https://github.com/haizlin/fe-interview/issues/3248)
+    - [js] [你是如何做前端性能分析的？从哪些方面入手？有哪些指标？](https://github.com/haizlin/fe-interview/issues/3249)
+    - [软技能] [你是如何评估工作量的？](https://github.com/haizlin/fe-interview/issues/3250)
 - 第593天 (2020.11.29)  
     - [html] [如何对一个页面进行重构？](https://github.com/haizlin/fe-interview/issues/3243)
     - [css] [css的属性list-style-position的值outside和inside有什么区别？](https://github.com/haizlin/fe-interview/issues/3244)

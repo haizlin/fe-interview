@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.11.29) —— 第593天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何对一个页面进行重构？](https://github.com/haizlin/fe-interview/issues/3243)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css的属性list-style-position的值outside和inside有什么区别？](https://github.com/haizlin/fe-interview/issues/3244)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [遍历一个树结构，除了可以用递归外还能用哪些方法？](https://github.com/haizlin/fe-interview/issues/3245)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你知道什么是破窗效应吗？它能指导我们什么？](https://github.com/haizlin/fe-interview/issues/3246)  
+## :clock430: 今天的知识点   (2020.11.30) —— 第594天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何动态修改`<title>`的标题名称？](https://github.com/haizlin/fe-interview/issues/3247)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对css变量（自定义属性）的理解？](https://github.com/haizlin/fe-interview/issues/3248)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你是如何做前端性能分析的？从哪些方面入手？有哪些指标？](https://github.com/haizlin/fe-interview/issues/3249)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何评估工作量的？](https://github.com/haizlin/fe-interview/issues/3250)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第592天 (2020.11.28)  
-    	 :one: [html] [为什么说cookie不可以滥用？](https://github.com/haizlin/fe-interview/issues/3239)  
-	 :two: [css] [如何去掉em的默认样式？](https://github.com/haizlin/fe-interview/issues/3240)  
-	 :three: [js] [for(;;)循环里如果省略第二个条件，则需要注意什么问题？](https://github.com/haizlin/fe-interview/issues/3241)  
-	 :four: [软技能] [你知道什么是脱敏吗？什么情况下要脱敏呢？](https://github.com/haizlin/fe-interview/issues/3242)  
+- 第593天 (2020.11.29)  
+    	 :one: [html] [如何对一个页面进行重构？](https://github.com/haizlin/fe-interview/issues/3243)  
+	 :two: [css] [css的属性list-style-position的值outside和inside有什么区别？](https://github.com/haizlin/fe-interview/issues/3244)  
+	 :three: [js] [遍历一个树结构，除了可以用递归外还能用哪些方法？](https://github.com/haizlin/fe-interview/issues/3245)  
+	 :four: [软技能] [你知道什么是破窗效应吗？它能指导我们什么？](https://github.com/haizlin/fe-interview/issues/3246)  
  
 	
 - **[查看全部](category/history.md)**
