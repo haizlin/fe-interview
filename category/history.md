@@ -2,6 +2,11 @@
 
 
 
+- 第595天 (2020.12.01)  
+    - [html] [你有使用过summary标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3251)
+    - [css] [css变量属性有什么用途？有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3252)
+    - [js] [写出js各类型转化为Boolean的值分别是什么？及转化的规则是什么？](https://github.com/haizlin/fe-interview/issues/3253)
+    - [软技能] [说说你对专利的了解](https://github.com/haizlin/fe-interview/issues/3254)
 - 第594天 (2020.11.30)  
     - [html] [如何动态修改`<title>`的标题名称？](https://github.com/haizlin/fe-interview/issues/3247)
     - [css] [说说你对css变量（自定义属性）的理解？](https://github.com/haizlin/fe-interview/issues/3248)

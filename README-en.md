@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.11.30) —— 594 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何动态修改`<title>`的标题名称？](https://github.com/haizlin/fe-interview/issues/3247)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对css变量（自定义属性）的理解？](https://github.com/haizlin/fe-interview/issues/3248)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你是如何做前端性能分析的？从哪些方面入手？有哪些指标？](https://github.com/haizlin/fe-interview/issues/3249)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你是如何评估工作量的？](https://github.com/haizlin/fe-interview/issues/3250)  
+## :clock430: Today's Knowledge Points (2020.12.01) —— 595 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过summary标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3251)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css变量属性有什么用途？有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3252)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写出js各类型转化为Boolean的值分别是什么？及转化的规则是什么？](https://github.com/haizlin/fe-interview/issues/3253)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对专利的了解](https://github.com/haizlin/fe-interview/issues/3254)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 593 days (2020.11.29)  
-    	 :one: [html] [如何对一个页面进行重构？](https://github.com/haizlin/fe-interview/issues/3243)  
-	 :two: [css] [css的属性list-style-position的值outside和inside有什么区别？](https://github.com/haizlin/fe-interview/issues/3244)  
-	 :three: [js] [遍历一个树结构，除了可以用递归外还能用哪些方法？](https://github.com/haizlin/fe-interview/issues/3245)  
-	 :four: [skill] [你知道什么是破窗效应吗？它能指导我们什么？](https://github.com/haizlin/fe-interview/issues/3246)  
+- 594 days (2020.11.30)  
+    	 :one: [html] [如何动态修改`<title>`的标题名称？](https://github.com/haizlin/fe-interview/issues/3247)  
+	 :two: [css] [说说你对css变量（自定义属性）的理解？](https://github.com/haizlin/fe-interview/issues/3248)  
+	 :three: [js] [你是如何做前端性能分析的？从哪些方面入手？有哪些指标？](https://github.com/haizlin/fe-interview/issues/3249)  
+	 :four: [skill] [你是如何评估工作量的？](https://github.com/haizlin/fe-interview/issues/3250)  
  
 	
 - **[All](category/history.md)**
