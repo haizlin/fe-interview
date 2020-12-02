@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.01) —— 595 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过summary标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3251)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css变量属性有什么用途？有什么优缺点？](https://github.com/haizlin/fe-interview/issues/3252)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写出js各类型转化为Boolean的值分别是什么？及转化的规则是什么？](https://github.com/haizlin/fe-interview/issues/3253)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对专利的了解](https://github.com/haizlin/fe-interview/issues/3254)  
+## :clock430: Today's Knowledge Points (2020.12.03) —— 597 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过kbd标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3259)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css变量受哪些影响？](https://github.com/haizlin/fe-interview/issues/3260)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将虚拟Dom转化为真实DOM](https://github.com/haizlin/fe-interview/issues/3261)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有自己或者为公司写过专利吗？](https://github.com/haizlin/fe-interview/issues/3262)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 594 days (2020.11.30)  
-    	 :one: [html] [如何动态修改`<title>`的标题名称？](https://github.com/haizlin/fe-interview/issues/3247)  
-	 :two: [css] [说说你对css变量（自定义属性）的理解？](https://github.com/haizlin/fe-interview/issues/3248)  
-	 :three: [js] [你是如何做前端性能分析的？从哪些方面入手？有哪些指标？](https://github.com/haizlin/fe-interview/issues/3249)  
-	 :four: [skill] [你是如何评估工作量的？](https://github.com/haizlin/fe-interview/issues/3250)  
+- 596 days (2020.12.02)  
+    	 :one: [html] [你有使用过ins标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3255)  
+	 :two: [css] [css变量和预处理器中的变量有什么不同？](https://github.com/haizlin/fe-interview/issues/3256)  
+	 :three: [js] [使用js实现一个并发限制的promise，并保证最多同时运行三个任务](https://github.com/haizlin/fe-interview/issues/3257)  
+	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
  
 	
 - **[All](category/history.md)**
