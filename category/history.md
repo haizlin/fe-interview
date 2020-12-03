@@ -2,6 +2,11 @@
 
 
 
+- 第598天 (2020.12.04)  
+    - [html] [你有使用过del标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3263)
+    - [css] [css变量区分大小写吗？](https://github.com/haizlin/fe-interview/issues/3264)
+    - [js] [promise有哪几种状态？是如何变化的？](https://github.com/haizlin/fe-interview/issues/3265)
+    - [软技能] [除了工作外，你为团队还做过哪些贡献？](https://github.com/haizlin/fe-interview/issues/3266)
 - 第597天 (2020.12.03)  
     - [html] [你有使用过kbd标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3259)
     - [css] [css变量受哪些影响？](https://github.com/haizlin/fe-interview/issues/3260)

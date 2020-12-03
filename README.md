@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.03) —— 第597天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过kbd标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3259)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css变量受哪些影响？](https://github.com/haizlin/fe-interview/issues/3260)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将虚拟Dom转化为真实DOM](https://github.com/haizlin/fe-interview/issues/3261)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有自己或者为公司写过专利吗？](https://github.com/haizlin/fe-interview/issues/3262)  
+## :clock430: 今天的知识点   (2020.12.04) —— 第598天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过del标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3263)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css变量区分大小写吗？](https://github.com/haizlin/fe-interview/issues/3264)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [promise有哪几种状态？是如何变化的？](https://github.com/haizlin/fe-interview/issues/3265)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [除了工作外，你为团队还做过哪些贡献？](https://github.com/haizlin/fe-interview/issues/3266)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第596天 (2020.12.02)  
-    	 :one: [html] [你有使用过ins标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3255)  
-	 :two: [css] [css变量和预处理器中的变量有什么不同？](https://github.com/haizlin/fe-interview/issues/3256)  
-	 :three: [js] [使用js实现一个并发限制的promise，并保证最多同时运行三个任务](https://github.com/haizlin/fe-interview/issues/3257)  
-	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
+- 第597天 (2020.12.03)  
+    	 :one: [html] [你有使用过kbd标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3259)  
+	 :two: [css] [css变量受哪些影响？](https://github.com/haizlin/fe-interview/issues/3260)  
+	 :three: [js] [写一个方法将虚拟Dom转化为真实DOM](https://github.com/haizlin/fe-interview/issues/3261)  
+	 :four: [软技能] [你有自己或者为公司写过专利吗？](https://github.com/haizlin/fe-interview/issues/3262)  
  
 	
 - **[查看全部](category/history.md)**
