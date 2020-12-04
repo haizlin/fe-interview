@@ -2,6 +2,11 @@
 
 
 
+- 第599天 (2020.12.05)  
+    - [html] [HTML5拖拽事件的顺序是什么？](https://github.com/haizlin/fe-interview/issues/3267)
+    - [css] [怎样在@keyframes中使用CSS变量](https://github.com/haizlin/fe-interview/issues/3268)
+    - [js] [请解释下为什么下面第一种方式会报错而第二种不会？](https://github.com/haizlin/fe-interview/issues/3269)
+    - [软技能] [你自己做过哪些完整项目，说说看](https://github.com/haizlin/fe-interview/issues/3270)
 - 第598天 (2020.12.04)  
     - [html] [你有使用过del标签吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3263)
     - [css] [css变量区分大小写吗？](https://github.com/haizlin/fe-interview/issues/3264)
