@@ -2,6 +2,11 @@
 
 
 
+- 第600天 (2020.12.06)  
+    - [html] [前端需要注意哪些SEO?](https://github.com/haizlin/fe-interview/issues/3271)
+    - [css] [怎样在SVG中使用css变量？](https://github.com/haizlin/fe-interview/issues/3272)
+    - [js] [与一个方法将origin转化为tree，要求支持无限级和性能](https://github.com/haizlin/fe-interview/issues/3273)
+    - [软技能] [说说你在做开发的过程中，擅长的技术是什么？](https://github.com/haizlin/fe-interview/issues/3274)
 - 第599天 (2020.12.05)  
     - [html] [HTML5拖拽事件的顺序是什么？](https://github.com/haizlin/fe-interview/issues/3267)
     - [css] [怎样在@keyframes中使用CSS变量](https://github.com/haizlin/fe-interview/issues/3268)
