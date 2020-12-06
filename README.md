@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.06) —— 第600天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [前端需要注意哪些SEO?](https://github.com/haizlin/fe-interview/issues/3271)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [怎样在SVG中使用css变量？](https://github.com/haizlin/fe-interview/issues/3272)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [与一个方法将origin转化为tree，要求支持无限级和性能](https://github.com/haizlin/fe-interview/issues/3273)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你在做开发的过程中，擅长的技术是什么？](https://github.com/haizlin/fe-interview/issues/3274)  
+## :clock430: 今天的知识点   (2020.12.07) —— 第601天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对H5媒体捕获的理解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3275)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css变量有哪些浏览器支持？](https://github.com/haizlin/fe-interview/issues/3276)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js最大支持多少长度的数组？为什么？](https://github.com/haizlin/fe-interview/issues/3277)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你平时喜欢看书吗？电子书还是实体书？为什么？](https://github.com/haizlin/fe-interview/issues/3278)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第599天 (2020.12.05)  
-    	 :one: [html] [HTML5拖拽事件的顺序是什么？](https://github.com/haizlin/fe-interview/issues/3267)  
-	 :two: [css] [怎样在@keyframes中使用CSS变量](https://github.com/haizlin/fe-interview/issues/3268)  
-	 :three: [js] [请解释下为什么下面第一种方式会报错而第二种不会？](https://github.com/haizlin/fe-interview/issues/3269)  
-	 :four: [软技能] [你自己做过哪些完整项目，说说看](https://github.com/haizlin/fe-interview/issues/3270)  
+- 第600天 (2020.12.06)  
+    	 :one: [html] [前端需要注意哪些SEO?](https://github.com/haizlin/fe-interview/issues/3271)  
+	 :two: [css] [怎样在SVG中使用css变量？](https://github.com/haizlin/fe-interview/issues/3272)  
+	 :three: [js] [与一个方法将origin转化为tree，要求支持无限级和性能](https://github.com/haizlin/fe-interview/issues/3273)  
+	 :four: [软技能] [说说你在做开发的过程中，擅长的技术是什么？](https://github.com/haizlin/fe-interview/issues/3274)  
  
 	
 - **[查看全部](category/history.md)**

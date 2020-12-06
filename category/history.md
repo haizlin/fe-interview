@@ -2,6 +2,11 @@
 
 
 
+- 第601天 (2020.12.07)  
+    - [html] [说说你对H5媒体捕获的理解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3275)
+    - [css] [css变量有哪些浏览器支持？](https://github.com/haizlin/fe-interview/issues/3276)
+    - [js] [js最大支持多少长度的数组？为什么？](https://github.com/haizlin/fe-interview/issues/3277)
+    - [软技能] [你平时喜欢看书吗？电子书还是实体书？为什么？](https://github.com/haizlin/fe-interview/issues/3278)
 - 第600天 (2020.12.06)  
     - [html] [前端需要注意哪些SEO?](https://github.com/haizlin/fe-interview/issues/3271)
     - [css] [怎样在SVG中使用css变量？](https://github.com/haizlin/fe-interview/issues/3272)
