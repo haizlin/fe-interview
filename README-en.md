@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.07) —— 601 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对H5媒体捕获的理解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3275)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css变量有哪些浏览器支持？](https://github.com/haizlin/fe-interview/issues/3276)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js最大支持多少长度的数组？为什么？](https://github.com/haizlin/fe-interview/issues/3277)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你平时喜欢看书吗？电子书还是实体书？为什么？](https://github.com/haizlin/fe-interview/issues/3278)  
+## :clock430: Today's Knowledge Points (2020.12.08) —— 602 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5播放的video视频，如何实现对视频截图？](https://github.com/haizlin/fe-interview/issues/3279)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你是如何检查css语法是否正确的？有哪些方法？](https://github.com/haizlin/fe-interview/issues/3280)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [为什么js里定义的数组可以不定长且数据类型可以不固定呢？](https://github.com/haizlin/fe-interview/issues/3281)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [谈下你对裸职的看法](https://github.com/haizlin/fe-interview/issues/3282)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 600 days (2020.12.06)  
-    	 :one: [html] [前端需要注意哪些SEO?](https://github.com/haizlin/fe-interview/issues/3271)  
-	 :two: [css] [怎样在SVG中使用css变量？](https://github.com/haizlin/fe-interview/issues/3272)  
-	 :three: [js] [与一个方法将origin转化为tree，要求支持无限级和性能](https://github.com/haizlin/fe-interview/issues/3273)  
-	 :four: [skill] [说说你在做开发的过程中，擅长的技术是什么？](https://github.com/haizlin/fe-interview/issues/3274)  
+- 601 days (2020.12.07)  
+    	 :one: [html] [说说你对H5媒体捕获的理解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3275)  
+	 :two: [css] [css变量有哪些浏览器支持？](https://github.com/haizlin/fe-interview/issues/3276)  
+	 :three: [js] [js最大支持多少长度的数组？为什么？](https://github.com/haizlin/fe-interview/issues/3277)  
+	 :four: [skill] [你平时喜欢看书吗？电子书还是实体书？为什么？](https://github.com/haizlin/fe-interview/issues/3278)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第602天 (2020.12.08)  
+    - [html] [H5播放的video视频，如何实现对视频截图？](https://github.com/haizlin/fe-interview/issues/3279)
+    - [css] [你是如何检查css语法是否正确的？有哪些方法？](https://github.com/haizlin/fe-interview/issues/3280)
+    - [js] [为什么js里定义的数组可以不定长且数据类型可以不固定呢？](https://github.com/haizlin/fe-interview/issues/3281)
+    - [软技能] [谈下你对裸职的看法](https://github.com/haizlin/fe-interview/issues/3282)
 - 第601天 (2020.12.07)  
     - [html] [说说你对H5媒体捕获的理解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3275)
     - [css] [css变量有哪些浏览器支持？](https://github.com/haizlin/fe-interview/issues/3276)
