@@ -2,6 +2,11 @@
 
 
 
+- 第603天 (2020.12.09)  
+    - [html] [如何解决微信浏览器视频点击自动全屏的问题？](https://github.com/haizlin/fe-interview/issues/3283)
+    - [css] [css3的属性transfrom的值preserve-3d和perspective有什么区别？](https://github.com/haizlin/fe-interview/issues/3284)
+    - [js] [请说说你对内置对象和宿主对象的理解](https://github.com/haizlin/fe-interview/issues/3285)
+    - [软技能] [说说你对前端缓存策略的理解](https://github.com/haizlin/fe-interview/issues/3286)
 - 第602天 (2020.12.08)  
     - [html] [H5播放的video视频，如何实现对视频截图？](https://github.com/haizlin/fe-interview/issues/3279)
     - [css] [你是如何检查css语法是否正确的？有哪些方法？](https://github.com/haizlin/fe-interview/issues/3280)

@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.08) —— 第602天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5播放的video视频，如何实现对视频截图？](https://github.com/haizlin/fe-interview/issues/3279)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你是如何检查css语法是否正确的？有哪些方法？](https://github.com/haizlin/fe-interview/issues/3280)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [为什么js里定义的数组可以不定长且数据类型可以不固定呢？](https://github.com/haizlin/fe-interview/issues/3281)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [谈下你对裸职的看法](https://github.com/haizlin/fe-interview/issues/3282)  
+## :clock430: 今天的知识点   (2020.12.09) —— 第603天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何解决微信浏览器视频点击自动全屏的问题？](https://github.com/haizlin/fe-interview/issues/3283)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css3的属性transfrom的值preserve-3d和perspective有什么区别？](https://github.com/haizlin/fe-interview/issues/3284)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说你对内置对象和宿主对象的理解](https://github.com/haizlin/fe-interview/issues/3285)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对前端缓存策略的理解](https://github.com/haizlin/fe-interview/issues/3286)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第601天 (2020.12.07)  
-    	 :one: [html] [说说你对H5媒体捕获的理解，它有什么用途？](https://github.com/haizlin/fe-interview/issues/3275)  
-	 :two: [css] [css变量有哪些浏览器支持？](https://github.com/haizlin/fe-interview/issues/3276)  
-	 :three: [js] [js最大支持多少长度的数组？为什么？](https://github.com/haizlin/fe-interview/issues/3277)  
-	 :four: [软技能] [你平时喜欢看书吗？电子书还是实体书？为什么？](https://github.com/haizlin/fe-interview/issues/3278)  
+- 第602天 (2020.12.08)  
+    	 :one: [html] [H5播放的video视频，如何实现对视频截图？](https://github.com/haizlin/fe-interview/issues/3279)  
+	 :two: [css] [你是如何检查css语法是否正确的？有哪些方法？](https://github.com/haizlin/fe-interview/issues/3280)  
+	 :three: [js] [为什么js里定义的数组可以不定长且数据类型可以不固定呢？](https://github.com/haizlin/fe-interview/issues/3281)  
+	 :four: [软技能] [谈下你对裸职的看法](https://github.com/haizlin/fe-interview/issues/3282)  
  
 	
 - **[查看全部](category/history.md)**
