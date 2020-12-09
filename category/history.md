@@ -2,6 +2,11 @@
 
 
 
+- 第604天 (2020.12.10)  
+    - [html] [如何解决微信浏览器中video标签z-index过高遮挡页面问题？](https://github.com/haizlin/fe-interview/issues/3287)
+    - [css] [你最喜欢Sass的原因是什么？](https://github.com/haizlin/fe-interview/issues/3288)
+    - [js] [如果使用JSON.stringify进行深拷贝有什么弊端？如何解决？](https://github.com/haizlin/fe-interview/issues/3289)
+    - [软技能] [请描述下XSS是如何攻击的？](https://github.com/haizlin/fe-interview/issues/3290)
 - 第603天 (2020.12.09)  
     - [html] [如何解决微信浏览器视频点击自动全屏的问题？](https://github.com/haizlin/fe-interview/issues/3283)
     - [css] [css3的属性transfrom的值preserve-3d和perspective有什么区别？](https://github.com/haizlin/fe-interview/issues/3284)
