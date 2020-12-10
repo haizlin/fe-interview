@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.10) —— 第604天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何解决微信浏览器中video标签z-index过高遮挡页面问题？](https://github.com/haizlin/fe-interview/issues/3287)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你最喜欢Sass的原因是什么？](https://github.com/haizlin/fe-interview/issues/3288)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如果使用JSON.stringify进行深拷贝有什么弊端？如何解决？](https://github.com/haizlin/fe-interview/issues/3289)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请描述下XSS是如何攻击的？](https://github.com/haizlin/fe-interview/issues/3290)  
+## :clock430: 今天的知识点   (2020.12.11) —— 第605天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html中表格的width和height的值为什么没有单位？它的的默认单位是像素吗？](https://github.com/haizlin/fe-interview/issues/3291)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你喜欢Sass还是Less？为什么？](https://github.com/haizlin/fe-interview/issues/3292)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明你对尾递归的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3293)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你能手画出CSRF的攻击原理图吗？](https://github.com/haizlin/fe-interview/issues/3294)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第603天 (2020.12.09)  
-    	 :one: [html] [如何解决微信浏览器视频点击自动全屏的问题？](https://github.com/haizlin/fe-interview/issues/3283)  
-	 :two: [css] [css3的属性transfrom的值preserve-3d和perspective有什么区别？](https://github.com/haizlin/fe-interview/issues/3284)  
-	 :three: [js] [请说说你对内置对象和宿主对象的理解](https://github.com/haizlin/fe-interview/issues/3285)  
-	 :four: [软技能] [说说你对前端缓存策略的理解](https://github.com/haizlin/fe-interview/issues/3286)  
+- 第604天 (2020.12.10)  
+    	 :one: [html] [如何解决微信浏览器中video标签z-index过高遮挡页面问题？](https://github.com/haizlin/fe-interview/issues/3287)  
+	 :two: [css] [你最喜欢Sass的原因是什么？](https://github.com/haizlin/fe-interview/issues/3288)  
+	 :three: [js] [如果使用JSON.stringify进行深拷贝有什么弊端？如何解决？](https://github.com/haizlin/fe-interview/issues/3289)  
+	 :four: [软技能] [请描述下XSS是如何攻击的？](https://github.com/haizlin/fe-interview/issues/3290)  
  
 	
 - **[查看全部](category/history.md)**

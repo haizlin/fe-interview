@@ -2,6 +2,11 @@
 
 
 
+- 第605天 (2020.12.11)  
+    - [html] [html中表格的width和height的值为什么没有单位？它的的默认单位是像素吗？](https://github.com/haizlin/fe-interview/issues/3291)
+    - [css] [你喜欢Sass还是Less？为什么？](https://github.com/haizlin/fe-interview/issues/3292)
+    - [js] [举例说明你对尾递归的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3293)
+    - [软技能] [你能手画出CSRF的攻击原理图吗？](https://github.com/haizlin/fe-interview/issues/3294)
 - 第604天 (2020.12.10)  
     - [html] [如何解决微信浏览器中video标签z-index过高遮挡页面问题？](https://github.com/haizlin/fe-interview/issues/3287)
     - [css] [你最喜欢Sass的原因是什么？](https://github.com/haizlin/fe-interview/issues/3288)
