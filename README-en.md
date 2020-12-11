@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.11) —— 605 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html中表格的width和height的值为什么没有单位？它的的默认单位是像素吗？](https://github.com/haizlin/fe-interview/issues/3291)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你喜欢Sass还是Less？为什么？](https://github.com/haizlin/fe-interview/issues/3292)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明你对尾递归的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3293)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你能手画出CSRF的攻击原理图吗？](https://github.com/haizlin/fe-interview/issues/3294)  
+## :clock430: Today's Knowledge Points (2020.12.12) —— 606 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何给table中的某一列设置固定宽度](https://github.com/haizlin/fe-interview/issues/3296)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Scss和Sass有什么区别？](https://github.com/haizlin/fe-interview/issues/3297)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对稀疏数组的理解](https://github.com/haizlin/fe-interview/issues/3298)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [在前端开发中，你有使用过二进制方面的知识吗？在哪些场景会用到？](https://github.com/haizlin/fe-interview/issues/3299)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 604 days (2020.12.10)  
-    	 :one: [html] [如何解决微信浏览器中video标签z-index过高遮挡页面问题？](https://github.com/haizlin/fe-interview/issues/3287)  
-	 :two: [css] [你最喜欢Sass的原因是什么？](https://github.com/haizlin/fe-interview/issues/3288)  
-	 :three: [js] [如果使用JSON.stringify进行深拷贝有什么弊端？如何解决？](https://github.com/haizlin/fe-interview/issues/3289)  
-	 :four: [skill] [请描述下XSS是如何攻击的？](https://github.com/haizlin/fe-interview/issues/3290)  
+- 605 days (2020.12.11)  
+    	 :one: [html] [html中表格的width和height的值为什么没有单位？它的的默认单位是像素吗？](https://github.com/haizlin/fe-interview/issues/3291)  
+	 :two: [css] [你喜欢Sass还是Less？为什么？](https://github.com/haizlin/fe-interview/issues/3292)  
+	 :three: [js] [举例说明你对尾递归的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3293)  
+	 :four: [skill] [你能手画出CSRF的攻击原理图吗？](https://github.com/haizlin/fe-interview/issues/3294)  
  
 	
 - **[All](category/history.md)**

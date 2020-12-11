@@ -2,6 +2,11 @@
 
 
 
+- 第606天 (2020.12.12)  
+    - [html] [如何给table中的某一列设置固定宽度](https://github.com/haizlin/fe-interview/issues/3296)
+    - [css] [Scss和Sass有什么区别？](https://github.com/haizlin/fe-interview/issues/3297)
+    - [js] [说说你对稀疏数组的理解](https://github.com/haizlin/fe-interview/issues/3298)
+    - [软技能] [在前端开发中，你有使用过二进制方面的知识吗？在哪些场景会用到？](https://github.com/haizlin/fe-interview/issues/3299)
 - 第605天 (2020.12.11)  
     - [html] [html中表格的width和height的值为什么没有单位？它的的默认单位是像素吗？](https://github.com/haizlin/fe-interview/issues/3291)
     - [css] [你喜欢Sass还是Less？为什么？](https://github.com/haizlin/fe-interview/issues/3292)
