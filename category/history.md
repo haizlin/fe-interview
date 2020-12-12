@@ -2,6 +2,11 @@
 
 
 
+- 第607天 (2020.12.13)  
+    - [html] [如果要开发一个在超级大屏上显示的可视化页面，你首先要考虑什么？](https://github.com/haizlin/fe-interview/issues/3300)
+    - [css] [Sass的注释和css注释之间有什么区别？](https://github.com/haizlin/fe-interview/issues/3301)
+    - [js] [解释下点击一个input输入框，依次会触发哪些事件？](https://github.com/haizlin/fe-interview/issues/3302)
+    - [软技能] [请说说你对DOM Parse的理解](https://github.com/haizlin/fe-interview/issues/3303)
 - 第606天 (2020.12.12)  
     - [html] [如何给table中的某一列设置固定宽度](https://github.com/haizlin/fe-interview/issues/3296)
     - [css] [Scss和Sass有什么区别？](https://github.com/haizlin/fe-interview/issues/3297)

@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.12) —— 606 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何给table中的某一列设置固定宽度](https://github.com/haizlin/fe-interview/issues/3296)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Scss和Sass有什么区别？](https://github.com/haizlin/fe-interview/issues/3297)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对稀疏数组的理解](https://github.com/haizlin/fe-interview/issues/3298)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [在前端开发中，你有使用过二进制方面的知识吗？在哪些场景会用到？](https://github.com/haizlin/fe-interview/issues/3299)  
+## :clock430: Today's Knowledge Points (2020.12.13) —— 607 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如果要开发一个在超级大屏上显示的可视化页面，你首先要考虑什么？](https://github.com/haizlin/fe-interview/issues/3300)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass的注释和css注释之间有什么区别？](https://github.com/haizlin/fe-interview/issues/3301)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下点击一个input输入框，依次会触发哪些事件？](https://github.com/haizlin/fe-interview/issues/3302)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [请说说你对DOM Parse的理解](https://github.com/haizlin/fe-interview/issues/3303)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 605 days (2020.12.11)  
-    	 :one: [html] [html中表格的width和height的值为什么没有单位？它的的默认单位是像素吗？](https://github.com/haizlin/fe-interview/issues/3291)  
-	 :two: [css] [你喜欢Sass还是Less？为什么？](https://github.com/haizlin/fe-interview/issues/3292)  
-	 :three: [js] [举例说明你对尾递归的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3293)  
-	 :four: [skill] [你能手画出CSRF的攻击原理图吗？](https://github.com/haizlin/fe-interview/issues/3294)  
+- 606 days (2020.12.12)  
+    	 :one: [html] [如何给table中的某一列设置固定宽度](https://github.com/haizlin/fe-interview/issues/3296)  
+	 :two: [css] [Scss和Sass有什么区别？](https://github.com/haizlin/fe-interview/issues/3297)  
+	 :three: [js] [说说你对稀疏数组的理解](https://github.com/haizlin/fe-interview/issues/3298)  
+	 :four: [skill] [在前端开发中，你有使用过二进制方面的知识吗？在哪些场景会用到？](https://github.com/haizlin/fe-interview/issues/3299)  
  
 	
 - **[All](category/history.md)**
