@@ -2,6 +2,11 @@
 
 
 
+- 第608天 (2020.12.14)  
+    - [html] [微信公众号的文章如何做到点击图片查看答案？](https://github.com/haizlin/fe-interview/issues/3304)
+    - [css] [请解释下Sass中的嵌套规则是什么？](https://github.com/haizlin/fe-interview/issues/3305)
+    - [js] [实现一个isNaN的方法](https://github.com/haizlin/fe-interview/issues/3306)
+    - [软技能] [请说说浏览器都有哪些容错机制？](https://github.com/haizlin/fe-interview/issues/3307)
 - 第607天 (2020.12.13)  
     - [html] [如果要开发一个在超级大屏上显示的可视化页面，你首先要考虑什么？](https://github.com/haizlin/fe-interview/issues/3300)
     - [css] [Sass的注释和css注释之间有什么区别？](https://github.com/haizlin/fe-interview/issues/3301)
