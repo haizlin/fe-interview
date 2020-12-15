@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.14) —— 608 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [微信公众号的文章如何做到点击图片查看答案？](https://github.com/haizlin/fe-interview/issues/3304)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请解释下Sass中的嵌套规则是什么？](https://github.com/haizlin/fe-interview/issues/3305)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [实现一个isNaN的方法](https://github.com/haizlin/fe-interview/issues/3306)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [请说说浏览器都有哪些容错机制？](https://github.com/haizlin/fe-interview/issues/3307)  
+## :clock430: Today's Knowledge Points (2020.12.16) —— 610 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，它的宽度是不固定的100%，如果让它的宽度始终是高度的一半呢？](https://github.com/haizlin/fe-interview/issues/3312)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中的@media指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3313)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下JavaScript并发模型](https://github.com/haizlin/fe-interview/issues/3314)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [请说说你对用以致学的理解？它和学以致用有什么不同？](https://github.com/haizlin/fe-interview/issues/3315)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 607 days (2020.12.13)  
-    	 :one: [html] [如果要开发一个在超级大屏上显示的可视化页面，你首先要考虑什么？](https://github.com/haizlin/fe-interview/issues/3300)  
-	 :two: [css] [Sass的注释和css注释之间有什么区别？](https://github.com/haizlin/fe-interview/issues/3301)  
-	 :three: [js] [解释下点击一个input输入框，依次会触发哪些事件？](https://github.com/haizlin/fe-interview/issues/3302)  
-	 :four: [skill] [请说说你对DOM Parse的理解](https://github.com/haizlin/fe-interview/issues/3303)  
+- 609 days (2020.12.15)  
+    	 :one: [html] [你有使用过H5的Web Audio API吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3308)  
+	 :two: [css] [Sass中的at-root指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3309)  
+	 :three: [js] [请问typeof typeof 168的结果是什么？](https://github.com/haizlin/fe-interview/issues/3310)  
+	 :four: [skill] [给你一个目标网站，你是如何对它进行技术分析的？都从哪方面分析？](https://github.com/haizlin/fe-interview/issues/3311)  
  
 	
 - **[All](category/history.md)**

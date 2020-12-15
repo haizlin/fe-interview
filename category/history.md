@@ -2,6 +2,16 @@
 
 
 
+- 第610天 (2020.12.16)  
+    - [html] [写一个布局，它的宽度是不固定的100%，如果让它的宽度始终是高度的一半呢？](https://github.com/haizlin/fe-interview/issues/3312)
+    - [css] [Sass中的@media指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3313)
+    - [js] [解释下JavaScript并发模型](https://github.com/haizlin/fe-interview/issues/3314)
+    - [软技能] [请说说你对用以致学的理解？它和学以致用有什么不同？](https://github.com/haizlin/fe-interview/issues/3315)
+- 第609天 (2020.12.15)  
+    - [html] [你有使用过H5的Web Audio API吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3308)
+    - [css] [Sass中的at-root指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3309)
+    - [js] [请问typeof typeof 168的结果是什么？](https://github.com/haizlin/fe-interview/issues/3310)
+    - [软技能] [给你一个目标网站，你是如何对它进行技术分析的？都从哪方面分析？](https://github.com/haizlin/fe-interview/issues/3311)
 - 第608天 (2020.12.14)  
     - [html] [微信公众号的文章如何做到点击图片查看答案？](https://github.com/haizlin/fe-interview/issues/3304)
     - [css] [请解释下Sass中的嵌套规则是什么？](https://github.com/haizlin/fe-interview/issues/3305)
