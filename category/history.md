@@ -2,6 +2,11 @@
 
 
 
+- 第611天 (2020.12.17)  
+    - [html] [你认为HTML标签有什么不好的地方吗？为什么？](https://github.com/haizlin/fe-interview/issues/3316)
+    - [css] [Sass中的@extend指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3317)
+    - [js] [null是对象吗？](https://github.com/haizlin/fe-interview/issues/3318)
+    - [软技能] [你了解什么是冷启动吗？](https://github.com/haizlin/fe-interview/issues/3319)
 - 第610天 (2020.12.16)  
     - [html] [写一个布局，它的宽度是不固定的100%，如果让它的宽度始终是高度的一半呢？](https://github.com/haizlin/fe-interview/issues/3312)
     - [css] [Sass中的@media指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3313)

@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.16) —— 610 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个布局，它的宽度是不固定的100%，如果让它的宽度始终是高度的一半呢？](https://github.com/haizlin/fe-interview/issues/3312)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中的@media指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3313)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下JavaScript并发模型](https://github.com/haizlin/fe-interview/issues/3314)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [请说说你对用以致学的理解？它和学以致用有什么不同？](https://github.com/haizlin/fe-interview/issues/3315)  
+## :clock430: Today's Knowledge Points (2020.12.17) —— 611 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你认为HTML标签有什么不好的地方吗？为什么？](https://github.com/haizlin/fe-interview/issues/3316)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中的@extend指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3317)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [null是对象吗？](https://github.com/haizlin/fe-interview/issues/3318)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你了解什么是冷启动吗？](https://github.com/haizlin/fe-interview/issues/3319)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 609 days (2020.12.15)  
-    	 :one: [html] [你有使用过H5的Web Audio API吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3308)  
-	 :two: [css] [Sass中的at-root指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3309)  
-	 :three: [js] [请问typeof typeof 168的结果是什么？](https://github.com/haizlin/fe-interview/issues/3310)  
-	 :four: [skill] [给你一个目标网站，你是如何对它进行技术分析的？都从哪方面分析？](https://github.com/haizlin/fe-interview/issues/3311)  
+- 610 days (2020.12.16)  
+    	 :one: [html] [写一个布局，它的宽度是不固定的100%，如果让它的宽度始终是高度的一半呢？](https://github.com/haizlin/fe-interview/issues/3312)  
+	 :two: [css] [Sass中的@media指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3313)  
+	 :three: [js] [解释下JavaScript并发模型](https://github.com/haizlin/fe-interview/issues/3314)  
+	 :four: [skill] [请说说你对用以致学的理解？它和学以致用有什么不同？](https://github.com/haizlin/fe-interview/issues/3315)  
  
 	
 - **[All](category/history.md)**
