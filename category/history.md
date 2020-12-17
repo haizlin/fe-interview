@@ -2,6 +2,11 @@
 
 
 
+- 第612天 (2020.12.18)  
+    - [html] [如何使用H5实现电子签名？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3320)
+    - [css] [用于检测Sass中的错误是哪个指令？](https://github.com/haizlin/fe-interview/issues/3321)
+    - [js] [举例说明createDocumentFragment和createElement有什么区别？](https://github.com/haizlin/fe-interview/issues/3322)
+    - [软技能] [埋点时，说说你上报数据的机制是什么？你是如何设计的？](https://github.com/haizlin/fe-interview/issues/3323)
 - 第611天 (2020.12.17)  
     - [html] [你认为HTML标签有什么不好的地方吗？为什么？](https://github.com/haizlin/fe-interview/issues/3316)
     - [css] [Sass中的@extend指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3317)

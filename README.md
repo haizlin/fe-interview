@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.17) —— 第611天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你认为HTML标签有什么不好的地方吗？为什么？](https://github.com/haizlin/fe-interview/issues/3316)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中的@extend指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3317)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [null是对象吗？](https://github.com/haizlin/fe-interview/issues/3318)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你了解什么是冷启动吗？](https://github.com/haizlin/fe-interview/issues/3319)  
+## :clock430: 今天的知识点   (2020.12.18) —— 第612天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用H5实现电子签名？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3320)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用于检测Sass中的错误是哪个指令？](https://github.com/haizlin/fe-interview/issues/3321)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明createDocumentFragment和createElement有什么区别？](https://github.com/haizlin/fe-interview/issues/3322)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [埋点时，说说你上报数据的机制是什么？你是如何设计的？](https://github.com/haizlin/fe-interview/issues/3323)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第610天 (2020.12.16)  
-    	 :one: [html] [写一个布局，它的宽度是不固定的100%，如果让它的宽度始终是高度的一半呢？](https://github.com/haizlin/fe-interview/issues/3312)  
-	 :two: [css] [Sass中的@media指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3313)  
-	 :three: [js] [解释下JavaScript并发模型](https://github.com/haizlin/fe-interview/issues/3314)  
-	 :four: [软技能] [请说说你对用以致学的理解？它和学以致用有什么不同？](https://github.com/haizlin/fe-interview/issues/3315)  
+- 第611天 (2020.12.17)  
+    	 :one: [html] [你认为HTML标签有什么不好的地方吗？为什么？](https://github.com/haizlin/fe-interview/issues/3316)  
+	 :two: [css] [Sass中的@extend指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3317)  
+	 :three: [js] [null是对象吗？](https://github.com/haizlin/fe-interview/issues/3318)  
+	 :four: [软技能] [你了解什么是冷启动吗？](https://github.com/haizlin/fe-interview/issues/3319)  
  
 	
 - **[查看全部](category/history.md)**
