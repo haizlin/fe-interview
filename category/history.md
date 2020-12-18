@@ -2,6 +2,11 @@
 
 
 
+- 第613天 (2020.12.19)  
+    - [html] [如何使用H5实现录屏的功能？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3324)
+    - [css] [如何定义一个Sass变量？](https://github.com/haizlin/fe-interview/issues/3325)
+    - [js] [对象的键可以重复吗？为什么？如果可以重复将会又什么样的表现？](https://github.com/haizlin/fe-interview/issues/3326)
+    - [软技能] [你认为团队间哪种协同方式比较好？为什么？](https://github.com/haizlin/fe-interview/issues/3327)
 - 第612天 (2020.12.18)  
     - [html] [如何使用H5实现电子签名？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3320)
     - [css] [用于检测Sass中的错误是哪个指令？](https://github.com/haizlin/fe-interview/issues/3321)

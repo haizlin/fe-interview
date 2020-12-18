@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.18) —— 第612天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用H5实现电子签名？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3320)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用于检测Sass中的错误是哪个指令？](https://github.com/haizlin/fe-interview/issues/3321)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [举例说明createDocumentFragment和createElement有什么区别？](https://github.com/haizlin/fe-interview/issues/3322)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [埋点时，说说你上报数据的机制是什么？你是如何设计的？](https://github.com/haizlin/fe-interview/issues/3323)  
+## :clock430: 今天的知识点   (2020.12.19) —— 第613天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用H5实现录屏的功能？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3324)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何定义一个Sass变量？](https://github.com/haizlin/fe-interview/issues/3325)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [对象的键可以重复吗？为什么？如果可以重复将会又什么样的表现？](https://github.com/haizlin/fe-interview/issues/3326)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你认为团队间哪种协同方式比较好？为什么？](https://github.com/haizlin/fe-interview/issues/3327)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第611天 (2020.12.17)  
-    	 :one: [html] [你认为HTML标签有什么不好的地方吗？为什么？](https://github.com/haizlin/fe-interview/issues/3316)  
-	 :two: [css] [Sass中的@extend指令有什么作用？](https://github.com/haizlin/fe-interview/issues/3317)  
-	 :three: [js] [null是对象吗？](https://github.com/haizlin/fe-interview/issues/3318)  
-	 :four: [软技能] [你了解什么是冷启动吗？](https://github.com/haizlin/fe-interview/issues/3319)  
+- 第612天 (2020.12.18)  
+    	 :one: [html] [如何使用H5实现电子签名？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3320)  
+	 :two: [css] [用于检测Sass中的错误是哪个指令？](https://github.com/haizlin/fe-interview/issues/3321)  
+	 :three: [js] [举例说明createDocumentFragment和createElement有什么区别？](https://github.com/haizlin/fe-interview/issues/3322)  
+	 :four: [软技能] [埋点时，说说你上报数据的机制是什么？你是如何设计的？](https://github.com/haizlin/fe-interview/issues/3323)  
  
 	
 - **[查看全部](category/history.md)**
