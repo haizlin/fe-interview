@@ -2,6 +2,11 @@
 
 
 
+- 第614天 (2020.12.20)  
+    - [html] [如何在网页可见区域的正中间画一条横线（要考虑有滚动条的情况）](https://github.com/haizlin/fe-interview/issues/3328)
+    - [css] [Sass中如何编写占位符选择器？](https://github.com/haizlin/fe-interview/issues/3329)
+    - [js] [什么是散列函数？它有什么特征？](https://github.com/haizlin/fe-interview/issues/3330)
+    - [软技能] [如果让你的工作效率提升两倍，你会用什么方法？](https://github.com/haizlin/fe-interview/issues/3331)
 - 第613天 (2020.12.19)  
     - [html] [如何使用H5实现录屏的功能？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3324)
     - [css] [如何定义一个Sass变量？](https://github.com/haizlin/fe-interview/issues/3325)

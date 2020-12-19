@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.19) —— 613 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用H5实现录屏的功能？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3324)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何定义一个Sass变量？](https://github.com/haizlin/fe-interview/issues/3325)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [对象的键可以重复吗？为什么？如果可以重复将会又什么样的表现？](https://github.com/haizlin/fe-interview/issues/3326)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为团队间哪种协同方式比较好？为什么？](https://github.com/haizlin/fe-interview/issues/3327)  
+## :clock430: Today's Knowledge Points (2020.12.20) —— 614 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在网页可见区域的正中间画一条横线（要考虑有滚动条的情况）](https://github.com/haizlin/fe-interview/issues/3328)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中如何编写占位符选择器？](https://github.com/haizlin/fe-interview/issues/3329)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么是散列函数？它有什么特征？](https://github.com/haizlin/fe-interview/issues/3330)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果让你的工作效率提升两倍，你会用什么方法？](https://github.com/haizlin/fe-interview/issues/3331)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 612 days (2020.12.18)  
-    	 :one: [html] [如何使用H5实现电子签名？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3320)  
-	 :two: [css] [用于检测Sass中的错误是哪个指令？](https://github.com/haizlin/fe-interview/issues/3321)  
-	 :three: [js] [举例说明createDocumentFragment和createElement有什么区别？](https://github.com/haizlin/fe-interview/issues/3322)  
-	 :four: [skill] [埋点时，说说你上报数据的机制是什么？你是如何设计的？](https://github.com/haizlin/fe-interview/issues/3323)  
+- 613 days (2020.12.19)  
+    	 :one: [html] [如何使用H5实现录屏的功能？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3324)  
+	 :two: [css] [如何定义一个Sass变量？](https://github.com/haizlin/fe-interview/issues/3325)  
+	 :three: [js] [对象的键可以重复吗？为什么？如果可以重复将会又什么样的表现？](https://github.com/haizlin/fe-interview/issues/3326)  
+	 :four: [skill] [你认为团队间哪种协同方式比较好？为什么？](https://github.com/haizlin/fe-interview/issues/3327)  
  
 	
 - **[All](category/history.md)**
