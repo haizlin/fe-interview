@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.20) —— 第614天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在网页可见区域的正中间画一条横线（要考虑有滚动条的情况）](https://github.com/haizlin/fe-interview/issues/3328)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中如何编写占位符选择器？](https://github.com/haizlin/fe-interview/issues/3329)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么是散列函数？它有什么特征？](https://github.com/haizlin/fe-interview/issues/3330)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果让你的工作效率提升两倍，你会用什么方法？](https://github.com/haizlin/fe-interview/issues/3331)  
+## :clock430: 今天的知识点   (2020.12.21) —— 第615天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在select控件中使用a链接？](https://github.com/haizlin/fe-interview/issues/3332)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中的@import函数有什么作用？](https://github.com/haizlin/fe-interview/issues/3333)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如果要让你去实现一个散列函数，你将从哪些方面考虑？](https://github.com/haizlin/fe-interview/issues/3334)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果把前端的知识做个体系分类，你是如何划分的？](https://github.com/haizlin/fe-interview/issues/3335)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第613天 (2020.12.19)  
-    	 :one: [html] [如何使用H5实现录屏的功能？请说说你的思路](https://github.com/haizlin/fe-interview/issues/3324)  
-	 :two: [css] [如何定义一个Sass变量？](https://github.com/haizlin/fe-interview/issues/3325)  
-	 :three: [js] [对象的键可以重复吗？为什么？如果可以重复将会又什么样的表现？](https://github.com/haizlin/fe-interview/issues/3326)  
-	 :four: [软技能] [你认为团队间哪种协同方式比较好？为什么？](https://github.com/haizlin/fe-interview/issues/3327)  
+- 第614天 (2020.12.20)  
+    	 :one: [html] [如何在网页可见区域的正中间画一条横线（要考虑有滚动条的情况）](https://github.com/haizlin/fe-interview/issues/3328)  
+	 :two: [css] [Sass中如何编写占位符选择器？](https://github.com/haizlin/fe-interview/issues/3329)  
+	 :three: [js] [什么是散列函数？它有什么特征？](https://github.com/haizlin/fe-interview/issues/3330)  
+	 :four: [软技能] [如果让你的工作效率提升两倍，你会用什么方法？](https://github.com/haizlin/fe-interview/issues/3331)  
  
 	
 - **[查看全部](category/history.md)**

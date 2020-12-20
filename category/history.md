@@ -2,6 +2,11 @@
 
 
 
+- 第615天 (2020.12.21)  
+    - [html] [如何在select控件中使用a链接？](https://github.com/haizlin/fe-interview/issues/3332)
+    - [css] [Sass中的@import函数有什么作用？](https://github.com/haizlin/fe-interview/issues/3333)
+    - [js] [如果要让你去实现一个散列函数，你将从哪些方面考虑？](https://github.com/haizlin/fe-interview/issues/3334)
+    - [软技能] [如果把前端的知识做个体系分类，你是如何划分的？](https://github.com/haizlin/fe-interview/issues/3335)
 - 第614天 (2020.12.20)  
     - [html] [如何在网页可见区域的正中间画一条横线（要考虑有滚动条的情况）](https://github.com/haizlin/fe-interview/issues/3328)
     - [css] [Sass中如何编写占位符选择器？](https://github.com/haizlin/fe-interview/issues/3329)
