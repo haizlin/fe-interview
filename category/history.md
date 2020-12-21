@@ -2,6 +2,11 @@
 
 
 
+- 第616天 (2020.12.22)  
+    - [html] [说说js代码写到html里还是单独写到js文件里哪个好？为什么？](https://github.com/haizlin/fe-interview/issues/3336)
+    - [css] [Sass的数字操作是什么？](https://github.com/haizlin/fe-interview/issues/3337)
+    - [js] [哈希表的原理是什么？](https://github.com/haizlin/fe-interview/issues/3338)
+    - [软技能] [你认为中级前端工程师和高级前端工程师的差异在哪里？](https://github.com/haizlin/fe-interview/issues/3339)
 - 第615天 (2020.12.21)  
     - [html] [如何在select控件中使用a链接？](https://github.com/haizlin/fe-interview/issues/3332)
     - [css] [Sass中的@import函数有什么作用？](https://github.com/haizlin/fe-interview/issues/3333)

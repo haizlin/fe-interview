@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.21) —— 615 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在select控件中使用a链接？](https://github.com/haizlin/fe-interview/issues/3332)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中的@import函数有什么作用？](https://github.com/haizlin/fe-interview/issues/3333)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如果要让你去实现一个散列函数，你将从哪些方面考虑？](https://github.com/haizlin/fe-interview/issues/3334)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果把前端的知识做个体系分类，你是如何划分的？](https://github.com/haizlin/fe-interview/issues/3335)  
+## :clock430: Today's Knowledge Points (2020.12.22) —— 616 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说js代码写到html里还是单独写到js文件里哪个好？为什么？](https://github.com/haizlin/fe-interview/issues/3336)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass的数字操作是什么？](https://github.com/haizlin/fe-interview/issues/3337)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [哈希表的原理是什么？](https://github.com/haizlin/fe-interview/issues/3338)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为中级前端工程师和高级前端工程师的差异在哪里？](https://github.com/haizlin/fe-interview/issues/3339)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 614 days (2020.12.20)  
-    	 :one: [html] [如何在网页可见区域的正中间画一条横线（要考虑有滚动条的情况）](https://github.com/haizlin/fe-interview/issues/3328)  
-	 :two: [css] [Sass中如何编写占位符选择器？](https://github.com/haizlin/fe-interview/issues/3329)  
-	 :three: [js] [什么是散列函数？它有什么特征？](https://github.com/haizlin/fe-interview/issues/3330)  
-	 :four: [skill] [如果让你的工作效率提升两倍，你会用什么方法？](https://github.com/haizlin/fe-interview/issues/3331)  
+- 615 days (2020.12.21)  
+    	 :one: [html] [如何在select控件中使用a链接？](https://github.com/haizlin/fe-interview/issues/3332)  
+	 :two: [css] [Sass中的@import函数有什么作用？](https://github.com/haizlin/fe-interview/issues/3333)  
+	 :three: [js] [如果要让你去实现一个散列函数，你将从哪些方面考虑？](https://github.com/haizlin/fe-interview/issues/3334)  
+	 :four: [skill] [如果把前端的知识做个体系分类，你是如何划分的？](https://github.com/haizlin/fe-interview/issues/3335)  
  
 	
 - **[All](category/history.md)**
