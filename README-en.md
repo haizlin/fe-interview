@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.22) —— 616 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说js代码写到html里还是单独写到js文件里哪个好？为什么？](https://github.com/haizlin/fe-interview/issues/3336)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass的数字操作是什么？](https://github.com/haizlin/fe-interview/issues/3337)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [哈希表的原理是什么？](https://github.com/haizlin/fe-interview/issues/3338)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为中级前端工程师和高级前端工程师的差异在哪里？](https://github.com/haizlin/fe-interview/issues/3339)  
+## :clock430: Today's Knowledge Points (2020.12.23) —— 617 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你是怎样检测网页是否遵循W3C标准的？](https://github.com/haizlin/fe-interview/issues/3341)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass的色彩操作是什么？](https://github.com/haizlin/fe-interview/issues/3342)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下setTimeout的运行机制](https://github.com/haizlin/fe-interview/issues/3343)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为高级前端工程师应该具备哪些技能？](https://github.com/haizlin/fe-interview/issues/3344)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 615 days (2020.12.21)  
-    	 :one: [html] [如何在select控件中使用a链接？](https://github.com/haizlin/fe-interview/issues/3332)  
-	 :two: [css] [Sass中的@import函数有什么作用？](https://github.com/haizlin/fe-interview/issues/3333)  
-	 :three: [js] [如果要让你去实现一个散列函数，你将从哪些方面考虑？](https://github.com/haizlin/fe-interview/issues/3334)  
-	 :four: [skill] [如果把前端的知识做个体系分类，你是如何划分的？](https://github.com/haizlin/fe-interview/issues/3335)  
+- 616 days (2020.12.22)  
+    	 :one: [html] [说说js代码写到html里还是单独写到js文件里哪个好？为什么？](https://github.com/haizlin/fe-interview/issues/3336)  
+	 :two: [css] [Sass的数字操作是什么？](https://github.com/haizlin/fe-interview/issues/3337)  
+	 :three: [js] [哈希表的原理是什么？](https://github.com/haizlin/fe-interview/issues/3338)  
+	 :four: [skill] [你认为中级前端工程师和高级前端工程师的差异在哪里？](https://github.com/haizlin/fe-interview/issues/3339)  
  
 	
 - **[All](category/history.md)**

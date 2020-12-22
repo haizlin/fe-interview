@@ -2,6 +2,11 @@
 
 
 
+- 第617天 (2020.12.23)  
+    - [html] [你是怎样检测网页是否遵循W3C标准的？](https://github.com/haizlin/fe-interview/issues/3341)
+    - [css] [Sass的色彩操作是什么？](https://github.com/haizlin/fe-interview/issues/3342)
+    - [js] [请解释下setTimeout的运行机制](https://github.com/haizlin/fe-interview/issues/3343)
+    - [软技能] [你认为高级前端工程师应该具备哪些技能？](https://github.com/haizlin/fe-interview/issues/3344)
 - 第616天 (2020.12.22)  
     - [html] [说说js代码写到html里还是单独写到js文件里哪个好？为什么？](https://github.com/haizlin/fe-interview/issues/3336)
     - [css] [Sass的数字操作是什么？](https://github.com/haizlin/fe-interview/issues/3337)
