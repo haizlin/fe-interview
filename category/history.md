@@ -2,6 +2,11 @@
 
 
 
+- 第618天 (2020.12.24)  
+    - [html] [简述下W3C标准都有哪些？如何才能做出符合标准的网页？](https://github.com/haizlin/fe-interview/issues/3345)
+    - [css] [在Sass中如何执行布尔运算？](https://github.com/haizlin/fe-interview/issues/3346)
+    - [js] [给定下面伪代码，请说出程序运行多少秒后会输出“Hello World!”（不考虑其它干扰因素）？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/3347)
+    - [软技能] [你学习的方法有哪些？有方法论吗？](https://github.com/haizlin/fe-interview/issues/3348)
 - 第617天 (2020.12.23)  
     - [html] [你是怎样检测网页是否遵循W3C标准的？](https://github.com/haizlin/fe-interview/issues/3341)
     - [css] [Sass的色彩操作是什么？](https://github.com/haizlin/fe-interview/issues/3342)
