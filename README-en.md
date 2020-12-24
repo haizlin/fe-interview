@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.24) —— 618 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [简述下W3C标准都有哪些？如何才能做出符合标准的网页？](https://github.com/haizlin/fe-interview/issues/3345)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Sass中如何执行布尔运算？](https://github.com/haizlin/fe-interview/issues/3346)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [给定下面伪代码，请说出程序运行多少秒后会输出“Hello World!”（不考虑其它干扰因素）？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/3347)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你学习的方法有哪些？有方法论吗？](https://github.com/haizlin/fe-interview/issues/3348)  
+## :clock430: Today's Knowledge Points (2020.12.25) —— 619 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你认为写出什么样的html代码才是好代码呢？](https://github.com/haizlin/fe-interview/issues/3349)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中什么是括号运算？](https://github.com/haizlin/fe-interview/issues/3350)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法记录函数运行的时间](https://github.com/haizlin/fe-interview/issues/3351)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [什么是GraphicLayer？](https://github.com/haizlin/fe-interview/issues/3352)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 617 days (2020.12.23)  
-    	 :one: [html] [你是怎样检测网页是否遵循W3C标准的？](https://github.com/haizlin/fe-interview/issues/3341)  
-	 :two: [css] [Sass的色彩操作是什么？](https://github.com/haizlin/fe-interview/issues/3342)  
-	 :three: [js] [请解释下setTimeout的运行机制](https://github.com/haizlin/fe-interview/issues/3343)  
-	 :four: [skill] [你认为高级前端工程师应该具备哪些技能？](https://github.com/haizlin/fe-interview/issues/3344)  
+- 618 days (2020.12.24)  
+    	 :one: [html] [简述下W3C标准都有哪些？如何才能做出符合标准的网页？](https://github.com/haizlin/fe-interview/issues/3345)  
+	 :two: [css] [在Sass中如何执行布尔运算？](https://github.com/haizlin/fe-interview/issues/3346)  
+	 :three: [js] [给定下面伪代码，请说出程序运行多少秒后会输出“Hello World!”（不考虑其它干扰因素）？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/3347)  
+	 :four: [skill] [你学习的方法有哪些？有方法论吗？](https://github.com/haizlin/fe-interview/issues/3348)  
  
 	
 - **[All](category/history.md)**

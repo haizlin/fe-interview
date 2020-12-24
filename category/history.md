@@ -2,6 +2,11 @@
 
 
 
+- 第619天 (2020.12.25)  
+    - [html] [你认为写出什么样的html代码才是好代码呢？](https://github.com/haizlin/fe-interview/issues/3349)
+    - [css] [Sass中什么是括号运算？](https://github.com/haizlin/fe-interview/issues/3350)
+    - [js] [写一个方法记录函数运行的时间](https://github.com/haizlin/fe-interview/issues/3351)
+    - [软技能] [什么是GraphicLayer？](https://github.com/haizlin/fe-interview/issues/3352)
 - 第618天 (2020.12.24)  
     - [html] [简述下W3C标准都有哪些？如何才能做出符合标准的网页？](https://github.com/haizlin/fe-interview/issues/3345)
     - [css] [在Sass中如何执行布尔运算？](https://github.com/haizlin/fe-interview/issues/3346)
