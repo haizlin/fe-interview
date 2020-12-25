@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.25) —— 第619天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你认为写出什么样的html代码才是好代码呢？](https://github.com/haizlin/fe-interview/issues/3349)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass中什么是括号运算？](https://github.com/haizlin/fe-interview/issues/3350)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法记录函数运行的时间](https://github.com/haizlin/fe-interview/issues/3351)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [什么是GraphicLayer？](https://github.com/haizlin/fe-interview/issues/3352)  
+## :clock430: 今天的知识点   (2020.12.26) —— 第620天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写页面布局时需要考虑哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/3353)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [怎样使用Sass的Mixin功能？](https://github.com/haizlin/fe-interview/issues/3354)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写个方法获取浏览器的唯一标识](https://github.com/haizlin/fe-interview/issues/3355)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你理解的HTTP request 报文结构是怎样的？](https://github.com/haizlin/fe-interview/issues/3356)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第618天 (2020.12.24)  
-    	 :one: [html] [简述下W3C标准都有哪些？如何才能做出符合标准的网页？](https://github.com/haizlin/fe-interview/issues/3345)  
-	 :two: [css] [在Sass中如何执行布尔运算？](https://github.com/haizlin/fe-interview/issues/3346)  
-	 :three: [js] [给定下面伪代码，请说出程序运行多少秒后会输出“Hello World!”（不考虑其它干扰因素）？并解释下为什么？](https://github.com/haizlin/fe-interview/issues/3347)  
-	 :four: [软技能] [你学习的方法有哪些？有方法论吗？](https://github.com/haizlin/fe-interview/issues/3348)  
+- 第619天 (2020.12.25)  
+    	 :one: [html] [你认为写出什么样的html代码才是好代码呢？](https://github.com/haizlin/fe-interview/issues/3349)  
+	 :two: [css] [Sass中什么是括号运算？](https://github.com/haizlin/fe-interview/issues/3350)  
+	 :three: [js] [写一个方法记录函数运行的时间](https://github.com/haizlin/fe-interview/issues/3351)  
+	 :four: [软技能] [什么是GraphicLayer？](https://github.com/haizlin/fe-interview/issues/3352)  
  
 	
 - **[查看全部](category/history.md)**

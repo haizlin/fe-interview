@@ -2,6 +2,11 @@
 
 
 
+- 第620天 (2020.12.26)  
+    - [html] [写页面布局时需要考虑哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/3353)
+    - [css] [怎样使用Sass的Mixin功能？](https://github.com/haizlin/fe-interview/issues/3354)
+    - [js] [写个方法获取浏览器的唯一标识](https://github.com/haizlin/fe-interview/issues/3355)
+    - [软技能] [说说你理解的HTTP request 报文结构是怎样的？](https://github.com/haizlin/fe-interview/issues/3356)
 - 第619天 (2020.12.25)  
     - [html] [你认为写出什么样的html代码才是好代码呢？](https://github.com/haizlin/fe-interview/issues/3349)
     - [css] [Sass中什么是括号运算？](https://github.com/haizlin/fe-interview/issues/3350)
