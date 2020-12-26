@@ -2,6 +2,11 @@
 
 
 
+- 第621天 (2020.12.27)  
+    - [html] [百度、淘宝、京东移动端首页秒开是如何做到的？](https://github.com/haizlin/fe-interview/issues/3357)
+    - [css] [在Sass中Mixin有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3358)
+    - [js] [js能够保证object属性的输出顺序吗？如果可以怎么做？](https://github.com/haizlin/fe-interview/issues/3359)
+    - [软技能] [说说你理解的HTTP response 报文结构是怎样的？](https://github.com/haizlin/fe-interview/issues/3360)
 - 第620天 (2020.12.26)  
     - [html] [写页面布局时需要考虑哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/3353)
     - [css] [怎样使用Sass的Mixin功能？](https://github.com/haizlin/fe-interview/issues/3354)
