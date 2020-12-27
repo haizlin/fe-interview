@@ -2,6 +2,11 @@
 
 
 
+- 第622天 (2020.12.28)  
+    - [html] [说说你对H标签在布局中的重要性的理解](https://github.com/haizlin/fe-interview/issues/3361)
+    - [css] [Sass脚本支持哪些数据类型？](https://github.com/haizlin/fe-interview/issues/3362)
+    - [js] [写一个方法js将数组对象中某个属性值相同的对象合并成一个新对象](https://github.com/haizlin/fe-interview/issues/3363)
+    - [软技能] [浏览器缓存什么时候会出现如下情况：from disk、from memory？](https://github.com/haizlin/fe-interview/issues/3364)
 - 第621天 (2020.12.27)  
     - [html] [百度、淘宝、京东移动端首页秒开是如何做到的？](https://github.com/haizlin/fe-interview/issues/3357)
     - [css] [在Sass中Mixin有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3358)

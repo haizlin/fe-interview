@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.27) —— 621 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [百度、淘宝、京东移动端首页秒开是如何做到的？](https://github.com/haizlin/fe-interview/issues/3357)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Sass中Mixin有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3358)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js能够保证object属性的输出顺序吗？如果可以怎么做？](https://github.com/haizlin/fe-interview/issues/3359)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你理解的HTTP response 报文结构是怎样的？](https://github.com/haizlin/fe-interview/issues/3360)  
+## :clock430: Today's Knowledge Points (2020.12.28) —— 622 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对H标签在布局中的重要性的理解](https://github.com/haizlin/fe-interview/issues/3361)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass脚本支持哪些数据类型？](https://github.com/haizlin/fe-interview/issues/3362)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法js将数组对象中某个属性值相同的对象合并成一个新对象](https://github.com/haizlin/fe-interview/issues/3363)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [浏览器缓存什么时候会出现如下情况：from disk、from memory？](https://github.com/haizlin/fe-interview/issues/3364)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 620 days (2020.12.26)  
-    	 :one: [html] [写页面布局时需要考虑哪些方面的因素？](https://github.com/haizlin/fe-interview/issues/3353)  
-	 :two: [css] [怎样使用Sass的Mixin功能？](https://github.com/haizlin/fe-interview/issues/3354)  
-	 :three: [js] [写个方法获取浏览器的唯一标识](https://github.com/haizlin/fe-interview/issues/3355)  
-	 :four: [skill] [说说你理解的HTTP request 报文结构是怎样的？](https://github.com/haizlin/fe-interview/issues/3356)  
+- 621 days (2020.12.27)  
+    	 :one: [html] [百度、淘宝、京东移动端首页秒开是如何做到的？](https://github.com/haizlin/fe-interview/issues/3357)  
+	 :two: [css] [在Sass中Mixin有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3358)  
+	 :three: [js] [js能够保证object属性的输出顺序吗？如果可以怎么做？](https://github.com/haizlin/fe-interview/issues/3359)  
+	 :four: [skill] [说说你理解的HTTP response 报文结构是怎样的？](https://github.com/haizlin/fe-interview/issues/3360)  
  
 	
 - **[All](category/history.md)**
