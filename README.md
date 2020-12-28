@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.28) —— 第622天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对H标签在布局中的重要性的理解](https://github.com/haizlin/fe-interview/issues/3361)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass脚本支持哪些数据类型？](https://github.com/haizlin/fe-interview/issues/3362)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法js将数组对象中某个属性值相同的对象合并成一个新对象](https://github.com/haizlin/fe-interview/issues/3363)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [浏览器缓存什么时候会出现如下情况：from disk、from memory？](https://github.com/haizlin/fe-interview/issues/3364)  
+## :clock430: 今天的知识点   (2020.12.29) —— 第623天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个windows phone风格的布局](https://github.com/haizlin/fe-interview/issues/3365)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Sass和Less有什么相同点？](https://github.com/haizlin/fe-interview/issues/3366)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下3 + "2" - 5的值为多少？](https://github.com/haizlin/fe-interview/issues/3367)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你会装系统吗？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/3368)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第621天 (2020.12.27)  
-    	 :one: [html] [百度、淘宝、京东移动端首页秒开是如何做到的？](https://github.com/haizlin/fe-interview/issues/3357)  
-	 :two: [css] [在Sass中Mixin有什么应用场景？](https://github.com/haizlin/fe-interview/issues/3358)  
-	 :three: [js] [js能够保证object属性的输出顺序吗？如果可以怎么做？](https://github.com/haizlin/fe-interview/issues/3359)  
-	 :four: [软技能] [说说你理解的HTTP response 报文结构是怎样的？](https://github.com/haizlin/fe-interview/issues/3360)  
+- 第622天 (2020.12.28)  
+    	 :one: [html] [说说你对H标签在布局中的重要性的理解](https://github.com/haizlin/fe-interview/issues/3361)  
+	 :two: [css] [Sass脚本支持哪些数据类型？](https://github.com/haizlin/fe-interview/issues/3362)  
+	 :three: [js] [写一个方法js将数组对象中某个属性值相同的对象合并成一个新对象](https://github.com/haizlin/fe-interview/issues/3363)  
+	 :four: [软技能] [浏览器缓存什么时候会出现如下情况：from disk、from memory？](https://github.com/haizlin/fe-interview/issues/3364)  
  
 	
 - **[查看全部](category/history.md)**

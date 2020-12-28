@@ -2,6 +2,11 @@
 
 
 
+- 第623天 (2020.12.29)  
+    - [html] [写一个windows phone风格的布局](https://github.com/haizlin/fe-interview/issues/3365)
+    - [css] [Sass和Less有什么相同点？](https://github.com/haizlin/fe-interview/issues/3366)
+    - [js] [解释下3 + "2" - 5的值为多少？](https://github.com/haizlin/fe-interview/issues/3367)
+    - [软技能] [你会装系统吗？都有哪些方法？](https://github.com/haizlin/fe-interview/issues/3368)
 - 第622天 (2020.12.28)  
     - [html] [说说你对H标签在布局中的重要性的理解](https://github.com/haizlin/fe-interview/issues/3361)
     - [css] [Sass脚本支持哪些数据类型？](https://github.com/haizlin/fe-interview/issues/3362)
