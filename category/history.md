@@ -2,6 +2,11 @@
 
 
 
+- 第624天 (2020.12.30)  
+    - [html] [使用button当按钮和使用div当按钮有什么区别？](https://github.com/haizlin/fe-interview/issues/3369)
+    - [css] [你知道Less刚出来时是用哪种语言编写的吗？](https://github.com/haizlin/fe-interview/issues/3370)
+    - [js] [如何创建视频文件的blob？](https://github.com/haizlin/fe-interview/issues/3371)
+    - [软技能] [说说你对图片压缩比的理解](https://github.com/haizlin/fe-interview/issues/3372)
 - 第623天 (2020.12.29)  
     - [html] [写一个windows phone风格的布局](https://github.com/haizlin/fe-interview/issues/3365)
     - [css] [Sass和Less有什么相同点？](https://github.com/haizlin/fe-interview/issues/3366)
