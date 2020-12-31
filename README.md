@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2020.12.31) —— 第625天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5如何与APP交互？有哪些方式？](https://github.com/haizlin/fe-interview/issues/3373)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Less现在最新的版本是使用的是什么语言编写的？](https://github.com/haizlin/fe-interview/issues/3374)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个方法操作css变量](https://github.com/haizlin/fe-interview/issues/3375)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [什么是UTC时间？](https://github.com/haizlin/fe-interview/issues/3376)  
+## :clock430: 今天的知识点   (2021.01.01) —— 第626天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个水平竖直居中的弹窗，带遮罩层的布局](https://github.com/haizlin/fe-interview/issues/3377)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Less文件的扩展名是什么？](https://github.com/haizlin/fe-interview/issues/3378)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法动态同步加载script文件](https://github.com/haizlin/fe-interview/issues/3379)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [UTC时间和GMT有什么区别？](https://github.com/haizlin/fe-interview/issues/3380)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第624天 (2020.12.30)  
-    	 :one: [html] [使用button当按钮和使用div当按钮有什么区别？](https://github.com/haizlin/fe-interview/issues/3369)  
-	 :two: [css] [你知道Less刚出来时是用哪种语言编写的吗？](https://github.com/haizlin/fe-interview/issues/3370)  
-	 :three: [js] [如何创建视频文件的blob？](https://github.com/haizlin/fe-interview/issues/3371)  
-	 :four: [软技能] [说说你对图片压缩比的理解](https://github.com/haizlin/fe-interview/issues/3372)  
+- 第625天 (2020.12.31)  
+    	 :one: [html] [H5如何与APP交互？有哪些方式？](https://github.com/haizlin/fe-interview/issues/3373)  
+	 :two: [css] [Less现在最新的版本是使用的是什么语言编写的？](https://github.com/haizlin/fe-interview/issues/3374)  
+	 :three: [js] [使用js写一个方法操作css变量](https://github.com/haizlin/fe-interview/issues/3375)  
+	 :four: [软技能] [什么是UTC时间？](https://github.com/haizlin/fe-interview/issues/3376)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第626天 (2021.01.01)  
+    - [html] [写一个水平竖直居中的弹窗，带遮罩层的布局](https://github.com/haizlin/fe-interview/issues/3377)
+    - [css] [Less文件的扩展名是什么？](https://github.com/haizlin/fe-interview/issues/3378)
+    - [js] [写一个方法动态同步加载script文件](https://github.com/haizlin/fe-interview/issues/3379)
+    - [软技能] [UTC时间和GMT有什么区别？](https://github.com/haizlin/fe-interview/issues/3380)
 - 第625天 (2020.12.31)  
     - [html] [H5如何与APP交互？有哪些方式？](https://github.com/haizlin/fe-interview/issues/3373)
     - [css] [Less现在最新的版本是使用的是什么语言编写的？](https://github.com/haizlin/fe-interview/issues/3374)

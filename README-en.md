@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2020.12.31) —— 625 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5如何与APP交互？有哪些方式？](https://github.com/haizlin/fe-interview/issues/3373)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Less现在最新的版本是使用的是什么语言编写的？](https://github.com/haizlin/fe-interview/issues/3374)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个方法操作css变量](https://github.com/haizlin/fe-interview/issues/3375)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [什么是UTC时间？](https://github.com/haizlin/fe-interview/issues/3376)  
+## :clock430: Today's Knowledge Points (2021.01.01) —— 626 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个水平竖直居中的弹窗，带遮罩层的布局](https://github.com/haizlin/fe-interview/issues/3377)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Less文件的扩展名是什么？](https://github.com/haizlin/fe-interview/issues/3378)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法动态同步加载script文件](https://github.com/haizlin/fe-interview/issues/3379)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [UTC时间和GMT有什么区别？](https://github.com/haizlin/fe-interview/issues/3380)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 624 days (2020.12.30)  
-    	 :one: [html] [使用button当按钮和使用div当按钮有什么区别？](https://github.com/haizlin/fe-interview/issues/3369)  
-	 :two: [css] [你知道Less刚出来时是用哪种语言编写的吗？](https://github.com/haizlin/fe-interview/issues/3370)  
-	 :three: [js] [如何创建视频文件的blob？](https://github.com/haizlin/fe-interview/issues/3371)  
-	 :four: [skill] [说说你对图片压缩比的理解](https://github.com/haizlin/fe-interview/issues/3372)  
+- 625 days (2020.12.31)  
+    	 :one: [html] [H5如何与APP交互？有哪些方式？](https://github.com/haizlin/fe-interview/issues/3373)  
+	 :two: [css] [Less现在最新的版本是使用的是什么语言编写的？](https://github.com/haizlin/fe-interview/issues/3374)  
+	 :three: [js] [使用js写一个方法操作css变量](https://github.com/haizlin/fe-interview/issues/3375)  
+	 :four: [skill] [什么是UTC时间？](https://github.com/haizlin/fe-interview/issues/3376)  
  
 	
 - **[All](category/history.md)**
