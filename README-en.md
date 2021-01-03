@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.01.03) —— 628 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个垂直的三栏布局，第一栏固定顶部，中间铺满，第三栏固定底部](https://github.com/haizlin/fe-interview/issues/3385)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用Less有哪些方式？](https://github.com/haizlin/fe-interview/issues/3386)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，实现修改当前的URL链接但页面不跳转的功能](https://github.com/haizlin/fe-interview/issues/3387)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何把团队的工作经验沉淀下来？有哪些方法？](https://github.com/haizlin/fe-interview/issues/3388)  
+## :clock430: Today's Knowledge Points (2021.01.04) —— 629 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个滚动吸顶的布局](https://github.com/haizlin/fe-interview/issues/3389)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中怎样使用变量？如何定义？](https://github.com/haizlin/fe-interview/issues/3390)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法监听指定cookie的变化](https://github.com/haizlin/fe-interview/issues/3391)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [上传文件能使用GET请求吗？为什么？](https://github.com/haizlin/fe-interview/issues/3392)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 627 days (2021.01.02)  
-    	 :one: [html] [移动端布局的自适应如何做？](https://github.com/haizlin/fe-interview/issues/3381)  
-	 :two: [css] [Less的原理是什么？](https://github.com/haizlin/fe-interview/issues/3382)  
-	 :three: [js] [在非函数内写return语句，会有什么问题？](https://github.com/haizlin/fe-interview/issues/3383)  
-	 :four: [skill] [说说你对DNS劫持的理解](https://github.com/haizlin/fe-interview/issues/3384)  
+- 628 days (2021.01.03)  
+    	 :one: [html] [写一个垂直的三栏布局，第一栏固定顶部，中间铺满，第三栏固定底部](https://github.com/haizlin/fe-interview/issues/3385)  
+	 :two: [css] [使用Less有哪些方式？](https://github.com/haizlin/fe-interview/issues/3386)  
+	 :three: [js] [写一个方法，实现修改当前的URL链接但页面不跳转的功能](https://github.com/haizlin/fe-interview/issues/3387)  
+	 :four: [skill] [如何把团队的工作经验沉淀下来？有哪些方法？](https://github.com/haizlin/fe-interview/issues/3388)  
  
 	
 - **[All](category/history.md)**
