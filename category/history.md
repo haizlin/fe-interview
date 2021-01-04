@@ -2,6 +2,11 @@
 
 
 
+- 第630天 (2021.01.05)  
+    - [html] [实现两列等宽布局的方式有哪些？](https://github.com/haizlin/fe-interview/issues/3393)
+    - [css] [Less变量的种类有哪些？](https://github.com/haizlin/fe-interview/issues/3394)
+    - [js] [写一个方法实现指定开始的数字增加到指定的结束数字，步长默认为1](https://github.com/haizlin/fe-interview/issues/3395)
+    - [软技能] [你有什么爱好？](https://github.com/haizlin/fe-interview/issues/3396)
 - 第629天 (2021.01.04)  
     - [html] [写一个滚动吸顶的布局](https://github.com/haizlin/fe-interview/issues/3389)
     - [css] [在Less中怎样使用变量？如何定义？](https://github.com/haizlin/fe-interview/issues/3390)
