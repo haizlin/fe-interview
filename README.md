@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.01.05) —— 第630天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [实现两列等宽布局的方式有哪些？](https://github.com/haizlin/fe-interview/issues/3393)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Less变量的种类有哪些？](https://github.com/haizlin/fe-interview/issues/3394)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法实现指定开始的数字增加到指定的结束数字，步长默认为1](https://github.com/haizlin/fe-interview/issues/3395)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有什么爱好？](https://github.com/haizlin/fe-interview/issues/3396)  
+## :clock430: 今天的知识点   (2021.01.06) —— 第631天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5如何播放ts视频流？](https://github.com/haizlin/fe-interview/issues/3400)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中的嵌套作用是什么？](https://github.com/haizlin/fe-interview/issues/3401)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将一个数组中的元素，从前到后依次两两组合，最后一个与第一个组合](https://github.com/haizlin/fe-interview/issues/3402)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你希望通过这份工作获得什么？](https://github.com/haizlin/fe-interview/issues/3403)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第629天 (2021.01.04)  
-    	 :one: [html] [写一个滚动吸顶的布局](https://github.com/haizlin/fe-interview/issues/3389)  
-	 :two: [css] [在Less中怎样使用变量？如何定义？](https://github.com/haizlin/fe-interview/issues/3390)  
-	 :three: [js] [写一个方法监听指定cookie的变化](https://github.com/haizlin/fe-interview/issues/3391)  
-	 :four: [软技能] [上传文件能使用GET请求吗？为什么？](https://github.com/haizlin/fe-interview/issues/3392)  
+- 第630天 (2021.01.05)  
+    	 :one: [html] [实现两列等宽布局的方式有哪些？](https://github.com/haizlin/fe-interview/issues/3393)  
+	 :two: [css] [Less变量的种类有哪些？](https://github.com/haizlin/fe-interview/issues/3394)  
+	 :three: [js] [写一个方法实现指定开始的数字增加到指定的结束数字，步长默认为1](https://github.com/haizlin/fe-interview/issues/3395)  
+	 :four: [软技能] [你有什么爱好？](https://github.com/haizlin/fe-interview/issues/3396)  
  
 	
 - **[查看全部](category/history.md)**
