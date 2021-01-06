@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.01.06) —— 631 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5如何播放ts视频流？](https://github.com/haizlin/fe-interview/issues/3400)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中的嵌套作用是什么？](https://github.com/haizlin/fe-interview/issues/3401)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将一个数组中的元素，从前到后依次两两组合，最后一个与第一个组合](https://github.com/haizlin/fe-interview/issues/3402)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你希望通过这份工作获得什么？](https://github.com/haizlin/fe-interview/issues/3403)  
+## :clock430: Today's Knowledge Points (2021.01.07) —— 632 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [h5页面如何传递参数给小程序？](https://github.com/haizlin/fe-interview/issues/3404)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中的Mixins有什么作用？](https://github.com/haizlin/fe-interview/issues/3405)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个算法找到数组中两个元素相加等于指定数的所有组合](https://github.com/haizlin/fe-interview/issues/3406)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [什么是流量劫持？如何防止流量劫持？](https://github.com/haizlin/fe-interview/issues/3407)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 630 days (2021.01.05)  
-    	 :one: [html] [实现两列等宽布局的方式有哪些？](https://github.com/haizlin/fe-interview/issues/3393)  
-	 :two: [css] [Less变量的种类有哪些？](https://github.com/haizlin/fe-interview/issues/3394)  
-	 :three: [js] [写一个方法实现指定开始的数字增加到指定的结束数字，步长默认为1](https://github.com/haizlin/fe-interview/issues/3395)  
-	 :four: [skill] [你有什么爱好？](https://github.com/haizlin/fe-interview/issues/3396)  
+- 631 days (2021.01.06)  
+    	 :one: [html] [HTML5如何播放ts视频流？](https://github.com/haizlin/fe-interview/issues/3400)  
+	 :two: [css] [在Less中的嵌套作用是什么？](https://github.com/haizlin/fe-interview/issues/3401)  
+	 :three: [js] [写一个方法将一个数组中的元素，从前到后依次两两组合，最后一个与第一个组合](https://github.com/haizlin/fe-interview/issues/3402)  
+	 :four: [skill] [你希望通过这份工作获得什么？](https://github.com/haizlin/fe-interview/issues/3403)  
  
 	
 - **[All](category/history.md)**
