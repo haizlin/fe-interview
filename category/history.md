@@ -2,6 +2,11 @@
 
 
 
+- 第634天 (2021.01.09)  
+    - [html] [写一个类似刮刮卡效果的交互，即鼠标划过时显示号码](https://github.com/haizlin/fe-interview/issues/3414)
+    - [css] [在Less中有哪些常用的函数？](https://github.com/haizlin/fe-interview/issues/3415)
+    - [js] [写个方法将base64的数据流装换为二进制流](https://github.com/haizlin/fe-interview/issues/3416)
+    - [软技能] [说说你对自顶向下的编程方法的理解？](https://github.com/haizlin/fe-interview/issues/3417)
 - 第633天 (2021.01.08)  
     - [html] [如何实现多行文字梯形排版？](https://github.com/haizlin/fe-interview/issues/3409)
     - [css] [在Less中转义有什么作用？](https://github.com/haizlin/fe-interview/issues/3410)
