@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.01.09) —— 634 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个类似刮刮卡效果的交互，即鼠标划过时显示号码](https://github.com/haizlin/fe-interview/issues/3414)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中有哪些常用的函数？](https://github.com/haizlin/fe-interview/issues/3415)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写个方法将base64的数据流装换为二进制流](https://github.com/haizlin/fe-interview/issues/3416)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对自顶向下的编程方法的理解？](https://github.com/haizlin/fe-interview/issues/3417)  
+## :clock430: Today's Knowledge Points (2021.01.10) —— 635 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [制作一个金字塔布局](https://github.com/haizlin/fe-interview/issues/3419)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [Less可以不通过编译直接在浏览器中使用吗？如何使用？](https://github.com/haizlin/fe-interview/issues/3420)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [实现一个批量请求函数 multiRequest(urls, maxNum)](https://github.com/haizlin/fe-interview/issues/3421)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [请说说你对鲁棒性的理解](https://github.com/haizlin/fe-interview/issues/3422)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 633 days (2021.01.08)  
-    	 :one: [html] [如何实现多行文字梯形排版？](https://github.com/haizlin/fe-interview/issues/3409)  
-	 :two: [css] [在Less中转义有什么作用？](https://github.com/haizlin/fe-interview/issues/3410)  
-	 :three: [js] [以下方法调用call输出的结果是什么？请解释下？](https://github.com/haizlin/fe-interview/issues/3411)  
-	 :four: [skill] [你是从哪些维度来评估代码的质量？](https://github.com/haizlin/fe-interview/issues/3412)  
+- 634 days (2021.01.09)  
+    	 :one: [html] [写一个类似刮刮卡效果的交互，即鼠标划过时显示号码](https://github.com/haizlin/fe-interview/issues/3414)  
+	 :two: [css] [在Less中有哪些常用的函数？](https://github.com/haizlin/fe-interview/issues/3415)  
+	 :three: [js] [写个方法将base64的数据流装换为二进制流](https://github.com/haizlin/fe-interview/issues/3416)  
+	 :four: [skill] [说说你对自顶向下的编程方法的理解？](https://github.com/haizlin/fe-interview/issues/3417)  
  
 	
 - **[All](category/history.md)**
