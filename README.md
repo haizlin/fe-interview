@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.01.11) —— 第636天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何更改浏览器左上角标题旁的图标？](https://github.com/haizlin/fe-interview/issues/3423)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中的颜色通道功能是什么？](https://github.com/haizlin/fe-interview/issues/3424)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说html、body、document、window四者的区别是什么？](https://github.com/haizlin/fe-interview/issues/3425)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [什么是泛域名？如何做泛域名解析？](https://github.com/haizlin/fe-interview/issues/3426)  
+## :clock430: 今天的知识点   (2021.01.12) —— 第637天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5的geolocation定位误差大如何解决？](https://github.com/haizlin/fe-interview/issues/3427)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [把Less编译为CSS的最佳方法是什么？](https://github.com/haizlin/fe-interview/issues/3428)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将ArrayBuffer转为字符串](https://github.com/haizlin/fe-interview/issues/3429)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请说下V8、chrome、chromium三者之间的关系](https://github.com/haizlin/fe-interview/issues/3430)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第635天 (2021.01.10)  
-    	 :one: [html] [制作一个金字塔布局](https://github.com/haizlin/fe-interview/issues/3419)  
-	 :two: [css] [Less可以不通过编译直接在浏览器中使用吗？如何使用？](https://github.com/haizlin/fe-interview/issues/3420)  
-	 :three: [js] [实现一个批量请求函数 multiRequest(urls, maxNum)](https://github.com/haizlin/fe-interview/issues/3421)  
-	 :four: [软技能] [请说说你对鲁棒性的理解](https://github.com/haizlin/fe-interview/issues/3422)  
+- 第636天 (2021.01.11)  
+    	 :one: [html] [如何更改浏览器左上角标题旁的图标？](https://github.com/haizlin/fe-interview/issues/3423)  
+	 :two: [css] [在Less中的颜色通道功能是什么？](https://github.com/haizlin/fe-interview/issues/3424)  
+	 :three: [js] [请说说html、body、document、window四者的区别是什么？](https://github.com/haizlin/fe-interview/issues/3425)  
+	 :four: [软技能] [什么是泛域名？如何做泛域名解析？](https://github.com/haizlin/fe-interview/issues/3426)  
  
 	
 - **[查看全部](category/history.md)**
