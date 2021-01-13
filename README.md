@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.01.12) —— 第637天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5的geolocation定位误差大如何解决？](https://github.com/haizlin/fe-interview/issues/3427)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [把Less编译为CSS的最佳方法是什么？](https://github.com/haizlin/fe-interview/issues/3428)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将ArrayBuffer转为字符串](https://github.com/haizlin/fe-interview/issues/3429)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [请说下V8、chrome、chromium三者之间的关系](https://github.com/haizlin/fe-interview/issues/3430)  
+## :clock430: 今天的知识点   (2021.01.13) —— 第638天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML5的Geolocation不允许定位后如何于次让它弹起授权定位？](https://github.com/haizlin/fe-interview/issues/3431)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中使用命名空间和访问器有什么作用？](https://github.com/haizlin/fe-interview/issues/3432)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请问，javascript可以读取本地的文件吗？为什么？](https://github.com/haizlin/fe-interview/issues/3433)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [修改了文件，但并未提交到暂存区（即并没有add），如何撤消？](https://github.com/haizlin/fe-interview/issues/3434)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第636天 (2021.01.11)  
-    	 :one: [html] [如何更改浏览器左上角标题旁的图标？](https://github.com/haizlin/fe-interview/issues/3423)  
-	 :two: [css] [在Less中的颜色通道功能是什么？](https://github.com/haizlin/fe-interview/issues/3424)  
-	 :three: [js] [请说说html、body、document、window四者的区别是什么？](https://github.com/haizlin/fe-interview/issues/3425)  
-	 :four: [软技能] [什么是泛域名？如何做泛域名解析？](https://github.com/haizlin/fe-interview/issues/3426)  
+- 第637天 (2021.01.12)  
+    	 :one: [html] [html5的geolocation定位误差大如何解决？](https://github.com/haizlin/fe-interview/issues/3427)  
+	 :two: [css] [把Less编译为CSS的最佳方法是什么？](https://github.com/haizlin/fe-interview/issues/3428)  
+	 :three: [js] [写一个方法将ArrayBuffer转为字符串](https://github.com/haizlin/fe-interview/issues/3429)  
+	 :four: [软技能] [请说下V8、chrome、chromium三者之间的关系](https://github.com/haizlin/fe-interview/issues/3430)  
  
 	
 - **[查看全部](category/history.md)**
