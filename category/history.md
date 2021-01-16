@@ -2,6 +2,11 @@
 
 
 
+- 第642天 (2021.01.17)  
+    - [html] [对于写一个页面布局，html/css/js这三者你是先写哪个后写哪个？](https://github.com/haizlin/fe-interview/issues/3447)
+    - [css] [在Less中什么是＆combinator？](https://github.com/haizlin/fe-interview/issues/3448)
+    - [js] [写一个方法判断js的方法是内置的还是自定义的](https://github.com/haizlin/fe-interview/issues/3449)
+    - [软技能] [说说你对编程思维的理解](https://github.com/haizlin/fe-interview/issues/3450)
 - 第641天 (2021.01.16)  
     - [html] [你觉得写Html难吗？难在哪？为什么？](https://github.com/haizlin/fe-interview/issues/3443)
     - [css] [在Less中使用extend有什么用？](https://github.com/haizlin/fe-interview/issues/3444)
