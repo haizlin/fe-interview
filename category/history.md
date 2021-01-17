@@ -2,6 +2,11 @@
 
 
 
+- 第643天 (2021.01.18)  
+    - [html] [使用svg画出一个矩形](https://github.com/haizlin/fe-interview/issues/3451)
+    - [css] [在Less中支持运算符吗？](https://github.com/haizlin/fe-interview/issues/3452)
+    - [js] [如何区分返回内容是文件流还是json数据？](https://github.com/haizlin/fe-interview/issues/3453)
+    - [软技能] [培训编程思维的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3454)
 - 第642天 (2021.01.17)  
     - [html] [对于写一个页面布局，html/css/js这三者你是先写哪个后写哪个？](https://github.com/haizlin/fe-interview/issues/3447)
     - [css] [在Less中什么是＆combinator？](https://github.com/haizlin/fe-interview/issues/3448)
