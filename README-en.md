@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.01.18) —— 643 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画出一个矩形](https://github.com/haizlin/fe-interview/issues/3451)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中支持运算符吗？](https://github.com/haizlin/fe-interview/issues/3452)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何区分返回内容是文件流还是json数据？](https://github.com/haizlin/fe-interview/issues/3453)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [培训编程思维的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3454)  
+## :clock430: Today's Knowledge Points (2021.01.19) —— 644 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [什么是本地存储的有效期？](https://github.com/haizlin/fe-interview/issues/3455)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中有哪些注释方式？](https://github.com/haizlin/fe-interview/issues/3456)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个函数时，如果有多个参数，如何传才比较好？](https://github.com/haizlin/fe-interview/issues/3457)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [总结一下你写了这么久的代码的心得体会](https://github.com/haizlin/fe-interview/issues/3458)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 642 days (2021.01.17)  
-    	 :one: [html] [对于写一个页面布局，html/css/js这三者你是先写哪个后写哪个？](https://github.com/haizlin/fe-interview/issues/3447)  
-	 :two: [css] [在Less中什么是＆combinator？](https://github.com/haizlin/fe-interview/issues/3448)  
-	 :three: [js] [写一个方法判断js的方法是内置的还是自定义的](https://github.com/haizlin/fe-interview/issues/3449)  
-	 :four: [skill] [说说你对编程思维的理解](https://github.com/haizlin/fe-interview/issues/3450)  
+- 643 days (2021.01.18)  
+    	 :one: [html] [使用svg画出一个矩形](https://github.com/haizlin/fe-interview/issues/3451)  
+	 :two: [css] [在Less中支持运算符吗？](https://github.com/haizlin/fe-interview/issues/3452)  
+	 :three: [js] [如何区分返回内容是文件流还是json数据？](https://github.com/haizlin/fe-interview/issues/3453)  
+	 :four: [skill] [培训编程思维的方法有哪些？](https://github.com/haizlin/fe-interview/issues/3454)  
  
 	
 - **[All](category/history.md)**
