@@ -2,6 +2,11 @@
 
 
 
+- 第645天 (2021.01.20)  
+    - [html] [本地存储和cookie之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/3459)
+    - [css] [在Less中有哪些不同类型的函数？](https://github.com/haizlin/fe-interview/issues/3460)
+    - [js] [写一个JS方法，判断元素是否在可视区域](https://github.com/haizlin/fe-interview/issues/3461)
+    - [软技能] [说说你对3分钟热情和持续热情的理解](https://github.com/haizlin/fe-interview/issues/3462)
 - 第644天 (2021.01.19)  
     - [html] [什么是本地存储的有效期？](https://github.com/haizlin/fe-interview/issues/3455)
     - [css] [在Less中有哪些注释方式？](https://github.com/haizlin/fe-interview/issues/3456)
