@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.01.20) —— 645 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [本地存储和cookie之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/3459)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中有哪些不同类型的函数？](https://github.com/haizlin/fe-interview/issues/3460)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个JS方法，判断元素是否在可视区域](https://github.com/haizlin/fe-interview/issues/3461)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对3分钟热情和持续热情的理解](https://github.com/haizlin/fe-interview/issues/3462)  
+## :clock430: Today's Knowledge Points (2021.01.21) —— 646 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [为什么我们要使用web workers？](https://github.com/haizlin/fe-interview/issues/3463)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何在Less中创建循环结构？](https://github.com/haizlin/fe-interview/issues/3464)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法生成不重复的用户ID](https://github.com/haizlin/fe-interview/issues/3465)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你是如何设计前端缓存策略的？](https://github.com/haizlin/fe-interview/issues/3466)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 644 days (2021.01.19)  
-    	 :one: [html] [什么是本地存储的有效期？](https://github.com/haizlin/fe-interview/issues/3455)  
-	 :two: [css] [在Less中有哪些注释方式？](https://github.com/haizlin/fe-interview/issues/3456)  
-	 :three: [js] [写一个函数时，如果有多个参数，如何传才比较好？](https://github.com/haizlin/fe-interview/issues/3457)  
-	 :four: [skill] [总结一下你写了这么久的代码的心得体会](https://github.com/haizlin/fe-interview/issues/3458)  
+- 645 days (2021.01.20)  
+    	 :one: [html] [本地存储和cookie之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/3459)  
+	 :two: [css] [在Less中有哪些不同类型的函数？](https://github.com/haizlin/fe-interview/issues/3460)  
+	 :three: [js] [写一个JS方法，判断元素是否在可视区域](https://github.com/haizlin/fe-interview/issues/3461)  
+	 :four: [skill] [说说你对3分钟热情和持续热情的理解](https://github.com/haizlin/fe-interview/issues/3462)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第646天 (2021.01.21)  
+    - [html] [为什么我们要使用web workers？](https://github.com/haizlin/fe-interview/issues/3463)
+    - [css] [如何在Less中创建循环结构？](https://github.com/haizlin/fe-interview/issues/3464)
+    - [js] [写一个方法生成不重复的用户ID](https://github.com/haizlin/fe-interview/issues/3465)
+    - [软技能] [你是如何设计前端缓存策略的？](https://github.com/haizlin/fe-interview/issues/3466)
 - 第645天 (2021.01.20)  
     - [html] [本地存储和cookie之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/3459)
     - [css] [在Less中有哪些不同类型的函数？](https://github.com/haizlin/fe-interview/issues/3460)
