@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.01.21) —— 第646天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [为什么我们要使用web workers？](https://github.com/haizlin/fe-interview/issues/3463)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何在Less中创建循环结构？](https://github.com/haizlin/fe-interview/issues/3464)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法生成不重复的用户ID](https://github.com/haizlin/fe-interview/issues/3465)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何设计前端缓存策略的？](https://github.com/haizlin/fe-interview/issues/3466)  
+## :clock430: 今天的知识点   (2021.01.22) —— 第647天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对HTML5中“一次编写，全体使用”的理解](https://github.com/haizlin/fe-interview/issues/3467)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中数据URI的作用是什么？](https://github.com/haizlin/fe-interview/issues/3468)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法判断在一个一维数组里，有且只有一个数等于给定的值](https://github.com/haizlin/fe-interview/issues/3469)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何保证你的网站可访问性？](https://github.com/haizlin/fe-interview/issues/3470)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第645天 (2021.01.20)  
-    	 :one: [html] [本地存储和cookie之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/3459)  
-	 :two: [css] [在Less中有哪些不同类型的函数？](https://github.com/haizlin/fe-interview/issues/3460)  
-	 :three: [js] [写一个JS方法，判断元素是否在可视区域](https://github.com/haizlin/fe-interview/issues/3461)  
-	 :four: [软技能] [说说你对3分钟热情和持续热情的理解](https://github.com/haizlin/fe-interview/issues/3462)  
+- 第646天 (2021.01.21)  
+    	 :one: [html] [为什么我们要使用web workers？](https://github.com/haizlin/fe-interview/issues/3463)  
+	 :two: [css] [如何在Less中创建循环结构？](https://github.com/haizlin/fe-interview/issues/3464)  
+	 :three: [js] [写一个方法生成不重复的用户ID](https://github.com/haizlin/fe-interview/issues/3465)  
+	 :four: [软技能] [你是如何设计前端缓存策略的？](https://github.com/haizlin/fe-interview/issues/3466)  
  
 	
 - **[查看全部](category/history.md)**

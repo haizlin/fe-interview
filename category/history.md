@@ -2,6 +2,11 @@
 
 
 
+- 第647天 (2021.01.22)  
+    - [html] [说说你对HTML5中“一次编写，全体使用”的理解](https://github.com/haizlin/fe-interview/issues/3467)
+    - [css] [在Less中数据URI的作用是什么？](https://github.com/haizlin/fe-interview/issues/3468)
+    - [js] [写一个方法判断在一个一维数组里，有且只有一个数等于给定的值](https://github.com/haizlin/fe-interview/issues/3469)
+    - [软技能] [你是如何保证你的网站可访问性？](https://github.com/haizlin/fe-interview/issues/3470)
 - 第646天 (2021.01.21)  
     - [html] [为什么我们要使用web workers？](https://github.com/haizlin/fe-interview/issues/3463)
     - [css] [如何在Less中创建循环结构？](https://github.com/haizlin/fe-interview/issues/3464)
