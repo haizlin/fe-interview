@@ -2,6 +2,11 @@
 
 
 
+- 第648天 (2021.01.23)  
+    - [html] [你认为HTML5出现后，它的商业模式会有哪些变化呢？](https://github.com/haizlin/fe-interview/issues/3472)
+    - [css] [在Less中“Source Map Less Inline”选项代表什么？](https://github.com/haizlin/fe-interview/issues/3473)
+    - [js] [使用原生js给一个按钮绑定两个onclick事件](https://github.com/haizlin/fe-interview/issues/3474)
+    - [软技能] [与后端联调接口时，你总结下会出现哪些问题及如何解决？](https://github.com/haizlin/fe-interview/issues/3475)
 - 第647天 (2021.01.22)  
     - [html] [说说你对HTML5中“一次编写，全体使用”的理解](https://github.com/haizlin/fe-interview/issues/3467)
     - [css] [在Less中数据URI的作用是什么？](https://github.com/haizlin/fe-interview/issues/3468)
