@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.01.23) —— 648 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你认为HTML5出现后，它的商业模式会有哪些变化呢？](https://github.com/haizlin/fe-interview/issues/3472)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中“Source Map Less Inline”选项代表什么？](https://github.com/haizlin/fe-interview/issues/3473)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用原生js给一个按钮绑定两个onclick事件](https://github.com/haizlin/fe-interview/issues/3474)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [与后端联调接口时，你总结下会出现哪些问题及如何解决？](https://github.com/haizlin/fe-interview/issues/3475)  
+## :clock430: Today's Knowledge Points (2021.01.24) —— 649 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何阻止屏幕旋转时自动调整字体的大小？](https://github.com/haizlin/fe-interview/issues/3476)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [在Less中命令行里编译的命令是什么？](https://github.com/haizlin/fe-interview/issues/3477)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何判断链表是否有环？](https://github.com/haizlin/fe-interview/issues/3478)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得前端有必要做单元测试吗？](https://github.com/haizlin/fe-interview/issues/3479)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 647 days (2021.01.22)  
-    	 :one: [html] [说说你对HTML5中“一次编写，全体使用”的理解](https://github.com/haizlin/fe-interview/issues/3467)  
-	 :two: [css] [在Less中数据URI的作用是什么？](https://github.com/haizlin/fe-interview/issues/3468)  
-	 :three: [js] [写一个方法判断在一个一维数组里，有且只有一个数等于给定的值](https://github.com/haizlin/fe-interview/issues/3469)  
-	 :four: [skill] [你是如何保证你的网站可访问性？](https://github.com/haizlin/fe-interview/issues/3470)  
+- 648 days (2021.01.23)  
+    	 :one: [html] [你认为HTML5出现后，它的商业模式会有哪些变化呢？](https://github.com/haizlin/fe-interview/issues/3472)  
+	 :two: [css] [在Less中“Source Map Less Inline”选项代表什么？](https://github.com/haizlin/fe-interview/issues/3473)  
+	 :three: [js] [使用原生js给一个按钮绑定两个onclick事件](https://github.com/haizlin/fe-interview/issues/3474)  
+	 :four: [skill] [与后端联调接口时，你总结下会出现哪些问题及如何解决？](https://github.com/haizlin/fe-interview/issues/3475)  
  
 	
 - **[All](category/history.md)**

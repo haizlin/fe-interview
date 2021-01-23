@@ -2,6 +2,11 @@
 
 
 
+- 第649天 (2021.01.24)  
+    - [html] [如何阻止屏幕旋转时自动调整字体的大小？](https://github.com/haizlin/fe-interview/issues/3476)
+    - [css] [在Less中命令行里编译的命令是什么？](https://github.com/haizlin/fe-interview/issues/3477)
+    - [js] [如何判断链表是否有环？](https://github.com/haizlin/fe-interview/issues/3478)
+    - [软技能] [你觉得前端有必要做单元测试吗？](https://github.com/haizlin/fe-interview/issues/3479)
 - 第648天 (2021.01.23)  
     - [html] [你认为HTML5出现后，它的商业模式会有哪些变化呢？](https://github.com/haizlin/fe-interview/issues/3472)
     - [css] [在Less中“Source Map Less Inline”选项代表什么？](https://github.com/haizlin/fe-interview/issues/3473)
