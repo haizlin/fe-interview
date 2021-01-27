@@ -15,22 +15,22 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（3000+）、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（4000+）、最全**，参与人数最多的免费开源项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 500+](category/html.md) | [CSS 500+](category/css.md) | [JS 500+](category/js.md) | [软技能 500+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 650+](category/html.md) | [CSS 650+](category/css.md) | [JS 650+](category/js.md) | [软技能 650+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
-| :newspaper: 专题 | [Vue 271+](lib/Vue.md) | [React 337+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 41+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
+| :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.01.26) —— 第651天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg画一个微信的logo](https://github.com/haizlin/fe-interview/issues/3484)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有写过Less的插件吗？](https://github.com/haizlin/fe-interview/issues/3485)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Promise和setTimeout执行先后有什么区别？](https://github.com/haizlin/fe-interview/issues/3486)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [上拉加载和下拉刷新会遇到什么性能问题？](https://github.com/haizlin/fe-interview/issues/3487)  
+## :clock430: 今天的知识点   (2021.01.28) —— 第653天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在不同的端口间共享cookie？](https://github.com/haizlin/fe-interview/issues/3492)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写的css样式是否能被js所读到？如果可以如何读取？](https://github.com/haizlin/fe-interview/issues/3493)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [setTimeout(fn,0)，延迟执行吗？](https://github.com/haizlin/fe-interview/issues/3494)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [大数据的到来对前端有什么影响？](https://github.com/haizlin/fe-interview/issues/3495)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第650天 (2021.01.25)  
-    	 :one: [html] [使用svg画一个百度的logo](https://github.com/haizlin/fe-interview/issues/3480)  
-	 :two: [css] [在LESS中如何定义变量上下文中的范围？](https://github.com/haizlin/fe-interview/issues/3481)  
-	 :three: [js] [解释下什么是暂时性死区？](https://github.com/haizlin/fe-interview/issues/3482)  
-	 :four: [软技能] [前端如何做单元测试？](https://github.com/haizlin/fe-interview/issues/3483)  
+- 第652天 (2021.01.27)  
+    	 :one: [html] [如何在页面打开PDF文件？](https://github.com/haizlin/fe-interview/issues/3488)  
+	 :two: [css] [你有使用过css的clamp函数吗？说说它有什么用途？](https://github.com/haizlin/fe-interview/issues/3489)  
+	 :three: [js] [添加原生事件如果不移除为什么会内存泄露？](https://github.com/haizlin/fe-interview/issues/3490)  
+	 :four: [软技能] [说说你对大数据的理解](https://github.com/haizlin/fe-interview/issues/3491)  
  
 	
 - **[查看全部](category/history.md)**
