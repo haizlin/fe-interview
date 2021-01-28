@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.01.28) —— 第653天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在不同的端口间共享cookie？](https://github.com/haizlin/fe-interview/issues/3492)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写的css样式是否能被js所读到？如果可以如何读取？](https://github.com/haizlin/fe-interview/issues/3493)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [setTimeout(fn,0)，延迟执行吗？](https://github.com/haizlin/fe-interview/issues/3494)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [大数据的到来对前端有什么影响？](https://github.com/haizlin/fe-interview/issues/3495)  
+## :clock430: 今天的知识点   (2021.01.29) —— 第654天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [怎样计算首屏和白屏的时间？](https://github.com/haizlin/fe-interview/issues/3496)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用纯CSS实现判断鼠标进入的方向](https://github.com/haizlin/fe-interview/issues/3497)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对函数是一等公民的理解](https://github.com/haizlin/fe-interview/issues/3498)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有做过大数据报表开发吗？都有哪些展现的形式？](https://github.com/haizlin/fe-interview/issues/3499)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第652天 (2021.01.27)  
-    	 :one: [html] [如何在页面打开PDF文件？](https://github.com/haizlin/fe-interview/issues/3488)  
-	 :two: [css] [你有使用过css的clamp函数吗？说说它有什么用途？](https://github.com/haizlin/fe-interview/issues/3489)  
-	 :three: [js] [添加原生事件如果不移除为什么会内存泄露？](https://github.com/haizlin/fe-interview/issues/3490)  
-	 :four: [软技能] [说说你对大数据的理解](https://github.com/haizlin/fe-interview/issues/3491)  
+- 第653天 (2021.01.28)  
+    	 :one: [html] [如何在不同的端口间共享cookie？](https://github.com/haizlin/fe-interview/issues/3492)  
+	 :two: [css] [写的css样式是否能被js所读到？如果可以如何读取？](https://github.com/haizlin/fe-interview/issues/3493)  
+	 :three: [js] [setTimeout(fn,0)，延迟执行吗？](https://github.com/haizlin/fe-interview/issues/3494)  
+	 :four: [软技能] [大数据的到来对前端有什么影响？](https://github.com/haizlin/fe-interview/issues/3495)  
  
 	
 - **[查看全部](category/history.md)**

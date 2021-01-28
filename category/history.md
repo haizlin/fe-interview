@@ -2,6 +2,11 @@
 
 
 
+- 第654天 (2021.01.29)  
+    - [html] [怎样计算首屏和白屏的时间？](https://github.com/haizlin/fe-interview/issues/3496)
+    - [css] [用纯CSS实现判断鼠标进入的方向](https://github.com/haizlin/fe-interview/issues/3497)
+    - [js] [说说你对函数是一等公民的理解](https://github.com/haizlin/fe-interview/issues/3498)
+    - [软技能] [你有做过大数据报表开发吗？都有哪些展现的形式？](https://github.com/haizlin/fe-interview/issues/3499)
 - 第653天 (2021.01.28)  
     - [html] [如何在不同的端口间共享cookie？](https://github.com/haizlin/fe-interview/issues/3492)
     - [css] [写的css样式是否能被js所读到？如果可以如何读取？](https://github.com/haizlin/fe-interview/issues/3493)
