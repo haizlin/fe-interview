@@ -2,6 +2,11 @@
 
 
 
+- 第655天 (2021.01.30)  
+    - [html] [页面上如何显示特殊字符？](https://github.com/haizlin/fe-interview/issues/3500)
+    - [css] [用css隐藏input的光标](https://github.com/haizlin/fe-interview/issues/3501)
+    - [js] [js的作用域有哪些？](https://github.com/haizlin/fe-interview/issues/3502)
+    - [软技能] [说说你对前端图表应用的理解](https://github.com/haizlin/fe-interview/issues/3503)
 - 第654天 (2021.01.29)  
     - [html] [怎样计算首屏和白屏的时间？](https://github.com/haizlin/fe-interview/issues/3496)
     - [css] [用纯CSS实现判断鼠标进入的方向](https://github.com/haizlin/fe-interview/issues/3497)
