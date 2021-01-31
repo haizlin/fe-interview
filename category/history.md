@@ -2,6 +2,11 @@
 
 
 
+- 第657天 (2021.02.01)  
+    - [html] [如何让img自动适应div容器大小？](https://github.com/haizlin/fe-interview/issues/3508)
+    - [css] [用css画一个足球场地图](https://github.com/haizlin/fe-interview/issues/3509)
+    - [js] [请解释下什么是softbind，并实现一个softbind](https://github.com/haizlin/fe-interview/issues/3510)
+    - [软技能] [图表有哪些应用场景？什么样的数据用什么样的图表展示？](https://github.com/haizlin/fe-interview/issues/3511)
 - 第656天 (2021.01.31)  
     - [html] [写一个带遮罩层的弹窗，并把内容锁定没有滚动条](https://github.com/haizlin/fe-interview/issues/3504)
     - [css] [如何隐藏鼠标在某个区域内的光标？](https://github.com/haizlin/fe-interview/issues/3505)

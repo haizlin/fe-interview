@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.01.31) —— 第656天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个带遮罩层的弹窗，并把内容锁定没有滚动条](https://github.com/haizlin/fe-interview/issues/3504)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何隐藏鼠标在某个区域内的光标？](https://github.com/haizlin/fe-interview/issues/3505)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说下你对map方法的理解，并解释下面代码返回的结果](https://github.com/haizlin/fe-interview/issues/3506)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [图表有哪些分类？](https://github.com/haizlin/fe-interview/issues/3507)  
+## :clock430: 今天的知识点   (2021.02.01) —— 第657天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何让img自动适应div容器大小？](https://github.com/haizlin/fe-interview/issues/3508)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用css画一个足球场地图](https://github.com/haizlin/fe-interview/issues/3509)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下什么是softbind，并实现一个softbind](https://github.com/haizlin/fe-interview/issues/3510)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [图表有哪些应用场景？什么样的数据用什么样的图表展示？](https://github.com/haizlin/fe-interview/issues/3511)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第655天 (2021.01.30)  
-    	 :one: [html] [页面上如何显示特殊字符？](https://github.com/haizlin/fe-interview/issues/3500)  
-	 :two: [css] [用css隐藏input的光标](https://github.com/haizlin/fe-interview/issues/3501)  
-	 :three: [js] [js的作用域有哪些？](https://github.com/haizlin/fe-interview/issues/3502)  
-	 :four: [软技能] [说说你对前端图表应用的理解](https://github.com/haizlin/fe-interview/issues/3503)  
+- 第656天 (2021.01.31)  
+    	 :one: [html] [写一个带遮罩层的弹窗，并把内容锁定没有滚动条](https://github.com/haizlin/fe-interview/issues/3504)  
+	 :two: [css] [如何隐藏鼠标在某个区域内的光标？](https://github.com/haizlin/fe-interview/issues/3505)  
+	 :three: [js] [说下你对map方法的理解，并解释下面代码返回的结果](https://github.com/haizlin/fe-interview/issues/3506)  
+	 :four: [软技能] [图表有哪些分类？](https://github.com/haizlin/fe-interview/issues/3507)  
  
 	
 - **[查看全部](category/history.md)**
