@@ -2,6 +2,11 @@
 
 
 
+- 第662天 (2021.02.06)  
+    - [html] [你觉得新开发一个网站最困难的是哪些部分？](https://github.com/haizlin/fe-interview/issues/3528)
+    - [css] [请使用纯css画出一条虚线，并设置虚线的间隙（不能使用图片）](https://github.com/haizlin/fe-interview/issues/3529)
+    - [js] [浏览器中的剪切板是如何监听复制事件的？](https://github.com/haizlin/fe-interview/issues/3530)
+    - [软技能] [说说你对程序员都会修电脑的理解](https://github.com/haizlin/fe-interview/issues/3531)
 - 第661天 (2021.02.05)  
     - [html] [写html代码时，怎样才加速写代码的速度呢？你有什么方法？](https://github.com/haizlin/fe-interview/issues/3524)
     - [css] [使用css制作一个圣诞树](https://github.com/haizlin/fe-interview/issues/3525)
