@@ -2,6 +2,16 @@
 
 
 
+- 第664天 (2021.02.08)  
+    - [html] [页面的重绘和回流是什么？](https://github.com/haizlin/fe-interview/issues/3536)
+    - [css] [如何将文字设为等宽？](https://github.com/haizlin/fe-interview/issues/3537)
+    - [js] [请说说严格模式下的this指向](https://github.com/haizlin/fe-interview/issues/3538)
+    - [软技能] [举例说明前端多线程开发在哪些场景下会适应到？](https://github.com/haizlin/fe-interview/issues/3539)
+- 第663天 (2021.02.07)  
+    - [html] [你最喜欢H5的哪些功能？为什么？](https://github.com/haizlin/fe-interview/issues/3532)
+    - [css] [使用css实现导航栏左右滑动](https://github.com/haizlin/fe-interview/issues/3533)
+    - [js] [分别解释下js中默认绑定、隐式绑定、显式绑定、new绑定的区别](https://github.com/haizlin/fe-interview/issues/3534)
+    - [软技能] [你觉得前端有必要学习数据结构和算法吗？为什么？](https://github.com/haizlin/fe-interview/issues/3535)
 - 第662天 (2021.02.06)  
     - [html] [你觉得新开发一个网站最困难的是哪些部分？](https://github.com/haizlin/fe-interview/issues/3528)
     - [css] [请使用纯css画出一条虚线，并设置虚线的间隙（不能使用图片）](https://github.com/haizlin/fe-interview/issues/3529)
