@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.02.08) —— 第664天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [页面的重绘和回流是什么？](https://github.com/haizlin/fe-interview/issues/3536)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何将文字设为等宽？](https://github.com/haizlin/fe-interview/issues/3537)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说严格模式下的this指向](https://github.com/haizlin/fe-interview/issues/3538)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [举例说明前端多线程开发在哪些场景下会适应到？](https://github.com/haizlin/fe-interview/issues/3539)  
+## :clock430: 今天的知识点   (2021.02.09) —— 第665天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用flex和grid两种方式实现9宫格布局](https://github.com/haizlin/fe-interview/issues/3540)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何将数字设为等宽？](https://github.com/haizlin/fe-interview/issues/3541)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在严格模式下，全局作用域中函数中this的值是什么？](https://github.com/haizlin/fe-interview/issues/3542)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [引导用户关注公众号的方式有哪些？](https://github.com/haizlin/fe-interview/issues/3543)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第663天 (2021.02.07)  
-    	 :one: [html] [你最喜欢H5的哪些功能？为什么？](https://github.com/haizlin/fe-interview/issues/3532)  
-	 :two: [css] [使用css实现导航栏左右滑动](https://github.com/haizlin/fe-interview/issues/3533)  
-	 :three: [js] [分别解释下js中默认绑定、隐式绑定、显式绑定、new绑定的区别](https://github.com/haizlin/fe-interview/issues/3534)  
-	 :four: [软技能] [你觉得前端有必要学习数据结构和算法吗？为什么？](https://github.com/haizlin/fe-interview/issues/3535)  
+- 第664天 (2021.02.08)  
+    	 :one: [html] [页面的重绘和回流是什么？](https://github.com/haizlin/fe-interview/issues/3536)  
+	 :two: [css] [如何将文字设为等宽？](https://github.com/haizlin/fe-interview/issues/3537)  
+	 :three: [js] [请说说严格模式下的this指向](https://github.com/haizlin/fe-interview/issues/3538)  
+	 :four: [软技能] [举例说明前端多线程开发在哪些场景下会适应到？](https://github.com/haizlin/fe-interview/issues/3539)  
  
 	
 - **[查看全部](category/history.md)**
