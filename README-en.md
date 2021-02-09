@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.02.09) —— 665 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用flex和grid两种方式实现9宫格布局](https://github.com/haizlin/fe-interview/issues/3540)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何将数字设为等宽？](https://github.com/haizlin/fe-interview/issues/3541)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在严格模式下，全局作用域中函数中this的值是什么？](https://github.com/haizlin/fe-interview/issues/3542)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [引导用户关注公众号的方式有哪些？](https://github.com/haizlin/fe-interview/issues/3543)  
+## :clock430: Today's Knowledge Points (2021.02.10) —— 666 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请实现一个微信炸弹的效果](https://github.com/haizlin/fe-interview/issues/3544)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何给字体设置阴影效果？](https://github.com/haizlin/fe-interview/issues/3545)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请通过代码来解释下new和instanceof的内部机制](https://github.com/haizlin/fe-interview/issues/3546)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得应该如何写好一个简历？都有哪些原则？](https://github.com/haizlin/fe-interview/issues/3547)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 664 days (2021.02.08)  
-    	 :one: [html] [页面的重绘和回流是什么？](https://github.com/haizlin/fe-interview/issues/3536)  
-	 :two: [css] [如何将文字设为等宽？](https://github.com/haizlin/fe-interview/issues/3537)  
-	 :three: [js] [请说说严格模式下的this指向](https://github.com/haizlin/fe-interview/issues/3538)  
-	 :four: [skill] [举例说明前端多线程开发在哪些场景下会适应到？](https://github.com/haizlin/fe-interview/issues/3539)  
+- 665 days (2021.02.09)  
+    	 :one: [html] [请使用flex和grid两种方式实现9宫格布局](https://github.com/haizlin/fe-interview/issues/3540)  
+	 :two: [css] [如何将数字设为等宽？](https://github.com/haizlin/fe-interview/issues/3541)  
+	 :three: [js] [在严格模式下，全局作用域中函数中this的值是什么？](https://github.com/haizlin/fe-interview/issues/3542)  
+	 :four: [skill] [引导用户关注公众号的方式有哪些？](https://github.com/haizlin/fe-interview/issues/3543)  
  
 	
 - **[All](category/history.md)**

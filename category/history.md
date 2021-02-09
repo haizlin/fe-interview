@@ -2,6 +2,11 @@
 
 
 
+- 第666天 (2021.02.10)  
+    - [html] [请实现一个微信炸弹的效果](https://github.com/haizlin/fe-interview/issues/3544)
+    - [css] [如何给字体设置阴影效果？](https://github.com/haizlin/fe-interview/issues/3545)
+    - [js] [请通过代码来解释下new和instanceof的内部机制](https://github.com/haizlin/fe-interview/issues/3546)
+    - [软技能] [你觉得应该如何写好一个简历？都有哪些原则？](https://github.com/haizlin/fe-interview/issues/3547)
 - 第665天 (2021.02.09)  
     - [html] [请使用flex和grid两种方式实现9宫格布局](https://github.com/haizlin/fe-interview/issues/3540)
     - [css] [如何将数字设为等宽？](https://github.com/haizlin/fe-interview/issues/3541)
