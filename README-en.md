@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.02.10) —— 666 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请实现一个微信炸弹的效果](https://github.com/haizlin/fe-interview/issues/3544)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何给字体设置阴影效果？](https://github.com/haizlin/fe-interview/issues/3545)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请通过代码来解释下new和instanceof的内部机制](https://github.com/haizlin/fe-interview/issues/3546)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得应该如何写好一个简历？都有哪些原则？](https://github.com/haizlin/fe-interview/issues/3547)  
+## :clock430: Today's Knowledge Points (2021.02.12) —— 668 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在HTML5中，用于获得用户的当前位置是哪个方法？](https://github.com/haizlin/fe-interview/issues/3552)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用绝对定位position:absolute;后，就不能使用margin: 0 auto;实现居中，为什么呢？如何解决？](https://github.com/haizlin/fe-interview/issues/3553)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请使用js写个方法解析emoji表情](https://github.com/haizlin/fe-interview/issues/3554)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果要你设计一套公共组件，你应该怎么做？需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/3555)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 665 days (2021.02.09)  
-    	 :one: [html] [请使用flex和grid两种方式实现9宫格布局](https://github.com/haizlin/fe-interview/issues/3540)  
-	 :two: [css] [如何将数字设为等宽？](https://github.com/haizlin/fe-interview/issues/3541)  
-	 :three: [js] [在严格模式下，全局作用域中函数中this的值是什么？](https://github.com/haizlin/fe-interview/issues/3542)  
-	 :four: [skill] [引导用户关注公众号的方式有哪些？](https://github.com/haizlin/fe-interview/issues/3543)  
+- 667 days (2021.02.11)  
+    	 :one: [html] [html5中的meta标签itemprop属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3548)  
+	 :two: [css] [::before和::after它们的使用场是什么？](https://github.com/haizlin/fe-interview/issues/3549)  
+	 :three: [js] [请通过reduce函数实现一维数组的求和](https://github.com/haizlin/fe-interview/issues/3550)  
+	 :four: [skill] [说说你对自律的理解](https://github.com/haizlin/fe-interview/issues/3551)  
  
 	
 - **[All](category/history.md)**

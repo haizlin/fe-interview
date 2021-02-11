@@ -2,6 +2,16 @@
 
 
 
+- 第668天 (2021.02.12)  
+    - [html] [在HTML5中，用于获得用户的当前位置是哪个方法？](https://github.com/haizlin/fe-interview/issues/3552)
+    - [css] [使用绝对定位position:absolute;后，就不能使用margin: 0 auto;实现居中，为什么呢？如何解决？](https://github.com/haizlin/fe-interview/issues/3553)
+    - [js] [请使用js写个方法解析emoji表情](https://github.com/haizlin/fe-interview/issues/3554)
+    - [软技能] [如果要你设计一套公共组件，你应该怎么做？需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/3555)
+- 第667天 (2021.02.11)  
+    - [html] [html5中的meta标签itemprop属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3548)
+    - [css] [::before和::after它们的使用场是什么？](https://github.com/haizlin/fe-interview/issues/3549)
+    - [js] [请通过reduce函数实现一维数组的求和](https://github.com/haizlin/fe-interview/issues/3550)
+    - [软技能] [说说你对自律的理解](https://github.com/haizlin/fe-interview/issues/3551)
 - 第666天 (2021.02.10)  
     - [html] [请实现一个微信炸弹的效果](https://github.com/haizlin/fe-interview/issues/3544)
     - [css] [如何给字体设置阴影效果？](https://github.com/haizlin/fe-interview/issues/3545)
