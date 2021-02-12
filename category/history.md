@@ -2,6 +2,11 @@
 
 
 
+- 第669天 (2021.02.13)  
+    - [html] [html5中的meta标签renderer有什么作用？](https://github.com/haizlin/fe-interview/issues/3556)
+    - [css] [如何让span在div中垂直居中？](https://github.com/haizlin/fe-interview/issues/3557)
+    - [js] [写一个方法找到一维数组里，有且只有两个连续相等的所有元素](https://github.com/haizlin/fe-interview/issues/3558)
+    - [软技能] [你平时有关注系DAU（日活跃用户数量）吗？觉得前端有必要关注吗？](https://github.com/haizlin/fe-interview/issues/3559)
 - 第668天 (2021.02.12)  
     - [html] [在HTML5中，用于获得用户的当前位置是哪个方法？](https://github.com/haizlin/fe-interview/issues/3552)
     - [css] [使用绝对定位position:absolute;后，就不能使用margin: 0 auto;实现居中，为什么呢？如何解决？](https://github.com/haizlin/fe-interview/issues/3553)
