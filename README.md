@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.02.13) —— 第669天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签renderer有什么作用？](https://github.com/haizlin/fe-interview/issues/3556)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何让span在div中垂直居中？](https://github.com/haizlin/fe-interview/issues/3557)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法找到一维数组里，有且只有两个连续相等的所有元素](https://github.com/haizlin/fe-interview/issues/3558)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你平时有关注系DAU（日活跃用户数量）吗？觉得前端有必要关注吗？](https://github.com/haizlin/fe-interview/issues/3559)  
+## :clock430: 今天的知识点   (2021.02.14) —— 第670天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签generator有什么作用？](https://github.com/haizlin/fe-interview/issues/3560)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css和wxss有什么区别？](https://github.com/haizlin/fe-interview/issues/3561)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，让数组里的元素上移一格/下移一格](https://github.com/haizlin/fe-interview/issues/3562)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [5G的卡出来后，卖的很便宜，流量又多，对我们公司的业务有影响嘛？](https://github.com/haizlin/fe-interview/issues/3563)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第668天 (2021.02.12)  
-    	 :one: [html] [在HTML5中，用于获得用户的当前位置是哪个方法？](https://github.com/haizlin/fe-interview/issues/3552)  
-	 :two: [css] [使用绝对定位position:absolute;后，就不能使用margin: 0 auto;实现居中，为什么呢？如何解决？](https://github.com/haizlin/fe-interview/issues/3553)  
-	 :three: [js] [请使用js写个方法解析emoji表情](https://github.com/haizlin/fe-interview/issues/3554)  
-	 :four: [软技能] [如果要你设计一套公共组件，你应该怎么做？需要考虑哪些问题？](https://github.com/haizlin/fe-interview/issues/3555)  
+- 第669天 (2021.02.13)  
+    	 :one: [html] [html5中的meta标签renderer有什么作用？](https://github.com/haizlin/fe-interview/issues/3556)  
+	 :two: [css] [如何让span在div中垂直居中？](https://github.com/haizlin/fe-interview/issues/3557)  
+	 :three: [js] [写一个方法找到一维数组里，有且只有两个连续相等的所有元素](https://github.com/haizlin/fe-interview/issues/3558)  
+	 :four: [软技能] [你平时有关注系DAU（日活跃用户数量）吗？觉得前端有必要关注吗？](https://github.com/haizlin/fe-interview/issues/3559)  
  
 	
 - **[查看全部](category/history.md)**
