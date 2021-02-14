@@ -2,6 +2,11 @@
 
 
 
+- 第671天 (2021.02.15)  
+    - [html] [html5中的meta标签robots有什么作用？](https://github.com/haizlin/fe-interview/issues/3564)
+    - [css] [使用css画一个羽毛球场地图](https://github.com/haizlin/fe-interview/issues/3565)
+    - [js] [写个方法找出页面中除了数字和英文字母外的所有特殊特号](https://github.com/haizlin/fe-interview/issues/3566)
+    - [软技能] [有新同事入职时，作为部门领导，你是如何向同事们介绍他的？](https://github.com/haizlin/fe-interview/issues/3567)
 - 第670天 (2021.02.14)  
     - [html] [html5中的meta标签generator有什么作用？](https://github.com/haizlin/fe-interview/issues/3560)
     - [css] [css和wxss有什么区别？](https://github.com/haizlin/fe-interview/issues/3561)
