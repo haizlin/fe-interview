@@ -2,6 +2,11 @@
 
 
 
+- 第672天 (2021.02.16)  
+    - [html] [html5中的meta标签http-equiv属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3568)
+    - [css] [input标签改变高度的同时如何使光标定位在左上角（不使用textarea）](https://github.com/haizlin/fe-interview/issues/3569)
+    - [js] [请说说IEEE 754标准指的是什么？](https://github.com/haizlin/fe-interview/issues/3570)
+    - [软技能] [你知道什么是短域名吗？说说它的原理](https://github.com/haizlin/fe-interview/issues/3571)
 - 第671天 (2021.02.15)  
     - [html] [html5中的meta标签robots有什么作用？](https://github.com/haizlin/fe-interview/issues/3564)
     - [css] [使用css画一个羽毛球场地图](https://github.com/haizlin/fe-interview/issues/3565)

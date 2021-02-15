@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.02.15) —— 671 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签robots有什么作用？](https://github.com/haizlin/fe-interview/issues/3564)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画一个羽毛球场地图](https://github.com/haizlin/fe-interview/issues/3565)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写个方法找出页面中除了数字和英文字母外的所有特殊特号](https://github.com/haizlin/fe-interview/issues/3566)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [有新同事入职时，作为部门领导，你是如何向同事们介绍他的？](https://github.com/haizlin/fe-interview/issues/3567)  
+## :clock430: Today's Knowledge Points (2021.02.16) —— 672 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签http-equiv属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3568)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [input标签改变高度的同时如何使光标定位在左上角（不使用textarea）](https://github.com/haizlin/fe-interview/issues/3569)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说IEEE 754标准指的是什么？](https://github.com/haizlin/fe-interview/issues/3570)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你知道什么是短域名吗？说说它的原理](https://github.com/haizlin/fe-interview/issues/3571)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 670 days (2021.02.14)  
-    	 :one: [html] [html5中的meta标签generator有什么作用？](https://github.com/haizlin/fe-interview/issues/3560)  
-	 :two: [css] [css和wxss有什么区别？](https://github.com/haizlin/fe-interview/issues/3561)  
-	 :three: [js] [写一个方法，让数组里的元素上移一格/下移一格](https://github.com/haizlin/fe-interview/issues/3562)  
-	 :four: [skill] [5G的卡出来后，卖的很便宜，流量又多，对我们公司的业务有影响嘛？](https://github.com/haizlin/fe-interview/issues/3563)  
+- 671 days (2021.02.15)  
+    	 :one: [html] [html5中的meta标签robots有什么作用？](https://github.com/haizlin/fe-interview/issues/3564)  
+	 :two: [css] [使用css画一个羽毛球场地图](https://github.com/haizlin/fe-interview/issues/3565)  
+	 :three: [js] [写个方法找出页面中除了数字和英文字母外的所有特殊特号](https://github.com/haizlin/fe-interview/issues/3566)  
+	 :four: [skill] [有新同事入职时，作为部门领导，你是如何向同事们介绍他的？](https://github.com/haizlin/fe-interview/issues/3567)  
  
 	
 - **[All](category/history.md)**
