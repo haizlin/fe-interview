@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.02.16) —— 672 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签http-equiv属性有什么作用？](https://github.com/haizlin/fe-interview/issues/3568)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [input标签改变高度的同时如何使光标定位在左上角（不使用textarea）](https://github.com/haizlin/fe-interview/issues/3569)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说IEEE 754标准指的是什么？](https://github.com/haizlin/fe-interview/issues/3570)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你知道什么是短域名吗？说说它的原理](https://github.com/haizlin/fe-interview/issues/3571)  
+## :clock430: Today's Knowledge Points (2021.02.20) —— 676 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个搜索框，聚焦时搜索框向左拉长并有动画效果](https://github.com/haizlin/fe-interview/issues/3588)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画个动态的泳池特效](https://github.com/haizlin/fe-interview/issues/3589)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法获取手机电池的信息，如：电量、充电状态等](https://github.com/haizlin/fe-interview/issues/3590)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [在前后端分离的项目里，请说说前端跳转微信授权的流程是什么？](https://github.com/haizlin/fe-interview/issues/3591)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 671 days (2021.02.15)  
-    	 :one: [html] [html5中的meta标签robots有什么作用？](https://github.com/haizlin/fe-interview/issues/3564)  
-	 :two: [css] [使用css画一个羽毛球场地图](https://github.com/haizlin/fe-interview/issues/3565)  
-	 :three: [js] [写个方法找出页面中除了数字和英文字母外的所有特殊特号](https://github.com/haizlin/fe-interview/issues/3566)  
-	 :four: [skill] [有新同事入职时，作为部门领导，你是如何向同事们介绍他的？](https://github.com/haizlin/fe-interview/issues/3567)  
+- 675 days (2021.02.19)  
+    	 :one: [html] [画一个五层楼的布局](https://github.com/haizlin/fe-interview/issues/3580)  
+	 :two: [css] [设置元素为display:flex后，哪些属性会失效呢？为什么？](https://github.com/haizlin/fe-interview/issues/3581)  
+	 :three: [js] [请解释以下题目会输出的结果（类型转换）](https://github.com/haizlin/fe-interview/issues/3582)  
+	 :four: [skill] [网站加载Waiting (TTFB)时间过长的原因是什么？如何解决？](https://github.com/haizlin/fe-interview/issues/3583)  
  
 	
 - **[All](category/history.md)**
