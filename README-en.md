@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.02.20) —— 676 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个搜索框，聚焦时搜索框向左拉长并有动画效果](https://github.com/haizlin/fe-interview/issues/3588)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画个动态的泳池特效](https://github.com/haizlin/fe-interview/issues/3589)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法获取手机电池的信息，如：电量、充电状态等](https://github.com/haizlin/fe-interview/issues/3590)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [在前后端分离的项目里，请说说前端跳转微信授权的流程是什么？](https://github.com/haizlin/fe-interview/issues/3591)  
+## :clock430: Today's Knowledge Points (2021.02.23) —— 679 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何实现标题栏闪烁、滚动的效果](https://github.com/haizlin/fe-interview/issues/3601)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何让IE6支持PNG透明？](https://github.com/haizlin/fe-interview/issues/3602)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何把10.36四舍五入为最接近的整数？](https://github.com/haizlin/fe-interview/issues/3603)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [现如今面对如层出不穷的类库，说说你的感受](https://github.com/haizlin/fe-interview/issues/3604)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 675 days (2021.02.19)  
-    	 :one: [html] [画一个五层楼的布局](https://github.com/haizlin/fe-interview/issues/3580)  
-	 :two: [css] [设置元素为display:flex后，哪些属性会失效呢？为什么？](https://github.com/haizlin/fe-interview/issues/3581)  
-	 :three: [js] [请解释以下题目会输出的结果（类型转换）](https://github.com/haizlin/fe-interview/issues/3582)  
-	 :four: [skill] [网站加载Waiting (TTFB)时间过长的原因是什么？如何解决？](https://github.com/haizlin/fe-interview/issues/3583)  
+- 678 days (2021.02.22)  
+    	 :one: [html] [在页面中如何实现触发某一场景时有声音提醒](https://github.com/haizlin/fe-interview/issues/3597)  
+	 :two: [css] [使用纯css画一个径向渐变的背景](https://github.com/haizlin/fe-interview/issues/3598)  
+	 :three: [js] [写一个方法探测CPU占比情况](https://github.com/haizlin/fe-interview/issues/3599)  
+	 :four: [skill] [如何在浏览器中播放pcm裸流音频？](https://github.com/haizlin/fe-interview/issues/3600)  
  
 	
 - **[All](category/history.md)**
