@@ -2,6 +2,11 @@
 
 
 
+- 第680天 (2021.02.24)  
+    - [html] [制作一个多选的下拉框](https://github.com/haizlin/fe-interview/issues/3605)
+    - [css] [使用纯css画一个角向渐变的背景](https://github.com/haizlin/fe-interview/issues/3606)
+    - [js] [如何排查页面中CPU占用高的情况？](https://github.com/haizlin/fe-interview/issues/3607)
+    - [软技能] [如何实现记录用户的操作轨迹并还原？](https://github.com/haizlin/fe-interview/issues/3608)
 - 第679天 (2021.02.23)  
     - [html] [如何实现标题栏闪烁、滚动的效果](https://github.com/haizlin/fe-interview/issues/3601)
     - [css] [如何让IE6支持PNG透明？](https://github.com/haizlin/fe-interview/issues/3602)

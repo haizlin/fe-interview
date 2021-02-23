@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.02.23) —— 第679天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何实现标题栏闪烁、滚动的效果](https://github.com/haizlin/fe-interview/issues/3601)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何让IE6支持PNG透明？](https://github.com/haizlin/fe-interview/issues/3602)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何把10.36四舍五入为最接近的整数？](https://github.com/haizlin/fe-interview/issues/3603)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [现如今面对如层出不穷的类库，说说你的感受](https://github.com/haizlin/fe-interview/issues/3604)  
+## :clock430: 今天的知识点   (2021.02.24) —— 第680天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [制作一个多选的下拉框](https://github.com/haizlin/fe-interview/issues/3605)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用纯css画一个角向渐变的背景](https://github.com/haizlin/fe-interview/issues/3606)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何排查页面中CPU占用高的情况？](https://github.com/haizlin/fe-interview/issues/3607)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如何实现记录用户的操作轨迹并还原？](https://github.com/haizlin/fe-interview/issues/3608)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第678天 (2021.02.22)  
-    	 :one: [html] [在页面中如何实现触发某一场景时有声音提醒](https://github.com/haizlin/fe-interview/issues/3597)  
-	 :two: [css] [使用纯css画一个径向渐变的背景](https://github.com/haizlin/fe-interview/issues/3598)  
-	 :three: [js] [写一个方法探测CPU占比情况](https://github.com/haizlin/fe-interview/issues/3599)  
-	 :four: [软技能] [如何在浏览器中播放pcm裸流音频？](https://github.com/haizlin/fe-interview/issues/3600)  
+- 第679天 (2021.02.23)  
+    	 :one: [html] [如何实现标题栏闪烁、滚动的效果](https://github.com/haizlin/fe-interview/issues/3601)  
+	 :two: [css] [如何让IE6支持PNG透明？](https://github.com/haizlin/fe-interview/issues/3602)  
+	 :three: [js] [如何把10.36四舍五入为最接近的整数？](https://github.com/haizlin/fe-interview/issues/3603)  
+	 :four: [软技能] [现如今面对如层出不穷的类库，说说你的感受](https://github.com/haizlin/fe-interview/issues/3604)  
  
 	
 - **[查看全部](category/history.md)**
