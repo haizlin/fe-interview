@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.02.24) —— 680 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [制作一个多选的下拉框](https://github.com/haizlin/fe-interview/issues/3605)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用纯css画一个角向渐变的背景](https://github.com/haizlin/fe-interview/issues/3606)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何排查页面中CPU占用高的情况？](https://github.com/haizlin/fe-interview/issues/3607)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何实现记录用户的操作轨迹并还原？](https://github.com/haizlin/fe-interview/issues/3608)  
+## :clock430: Today's Knowledge Points (2021.02.25) —— 681 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [移动端如何让页面强制横屏显示？](https://github.com/haizlin/fe-interview/issues/3609)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用纯css使得两个背景叠加](https://github.com/haizlin/fe-interview/issues/3610)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何计算动画的帧率（FPS）？](https://github.com/haizlin/fe-interview/issues/3611)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为计算专业和非计算机专业的差别在哪？为什么？](https://github.com/haizlin/fe-interview/issues/3612)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 679 days (2021.02.23)  
-    	 :one: [html] [如何实现标题栏闪烁、滚动的效果](https://github.com/haizlin/fe-interview/issues/3601)  
-	 :two: [css] [如何让IE6支持PNG透明？](https://github.com/haizlin/fe-interview/issues/3602)  
-	 :three: [js] [如何把10.36四舍五入为最接近的整数？](https://github.com/haizlin/fe-interview/issues/3603)  
-	 :four: [skill] [现如今面对如层出不穷的类库，说说你的感受](https://github.com/haizlin/fe-interview/issues/3604)  
+- 680 days (2021.02.24)  
+    	 :one: [html] [制作一个多选的下拉框](https://github.com/haizlin/fe-interview/issues/3605)  
+	 :two: [css] [使用纯css画一个角向渐变的背景](https://github.com/haizlin/fe-interview/issues/3606)  
+	 :three: [js] [如何排查页面中CPU占用高的情况？](https://github.com/haizlin/fe-interview/issues/3607)  
+	 :four: [skill] [如何实现记录用户的操作轨迹并还原？](https://github.com/haizlin/fe-interview/issues/3608)  
  
 	
 - **[All](category/history.md)**

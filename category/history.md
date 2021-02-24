@@ -2,6 +2,11 @@
 
 
 
+- 第681天 (2021.02.25)  
+    - [html] [移动端如何让页面强制横屏显示？](https://github.com/haizlin/fe-interview/issues/3609)
+    - [css] [使用纯css使得两个背景叠加](https://github.com/haizlin/fe-interview/issues/3610)
+    - [js] [如何计算动画的帧率（FPS）？](https://github.com/haizlin/fe-interview/issues/3611)
+    - [软技能] [你认为计算专业和非计算机专业的差别在哪？为什么？](https://github.com/haizlin/fe-interview/issues/3612)
 - 第680天 (2021.02.24)  
     - [html] [制作一个多选的下拉框](https://github.com/haizlin/fe-interview/issues/3605)
     - [css] [使用纯css画一个角向渐变的背景](https://github.com/haizlin/fe-interview/issues/3606)
