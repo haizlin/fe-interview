@@ -2,6 +2,11 @@
 
 
 
+- 第682天 (2021.02.26)  
+    - [html] [你喜欢哪种布局风格？说说你的理由](https://github.com/haizlin/fe-interview/issues/3613)
+    - [css] [你有使用过css-doodle吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/3614)
+    - [js] [请解释下面题目输出的结果](https://github.com/haizlin/fe-interview/issues/3615)
+    - [软技能] [png-8和png-24有什么区别？](https://github.com/haizlin/fe-interview/issues/3616)
 - 第681天 (2021.02.25)  
     - [html] [移动端如何让页面强制横屏显示？](https://github.com/haizlin/fe-interview/issues/3609)
     - [css] [使用纯css使得两个背景叠加](https://github.com/haizlin/fe-interview/issues/3610)

@@ -19,18 +19,18 @@
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 700+](category/html.md) | [CSS 700+](category/css.md) | [JS 700+](category/js.md) | [软技能 700+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 650+](category/html.md) | [CSS 650+](category/css.md) | [JS 650+](category/js.md) | [软技能 650+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.02.25) —— 第681天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [移动端如何让页面强制横屏显示？](https://github.com/haizlin/fe-interview/issues/3609)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用纯css使得两个背景叠加](https://github.com/haizlin/fe-interview/issues/3610)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何计算动画的帧率（FPS）？](https://github.com/haizlin/fe-interview/issues/3611)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你认为计算专业和非计算机专业的差别在哪？为什么？](https://github.com/haizlin/fe-interview/issues/3612)  
+## :clock430: 今天的知识点   (2021.02.26) —— 第682天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你喜欢哪种布局风格？说说你的理由](https://github.com/haizlin/fe-interview/issues/3613)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过css-doodle吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/3614)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下面题目输出的结果](https://github.com/haizlin/fe-interview/issues/3615)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [png-8和png-24有什么区别？](https://github.com/haizlin/fe-interview/issues/3616)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第680天 (2021.02.24)  
-    	 :one: [html] [制作一个多选的下拉框](https://github.com/haizlin/fe-interview/issues/3605)  
-	 :two: [css] [使用纯css画一个角向渐变的背景](https://github.com/haizlin/fe-interview/issues/3606)  
-	 :three: [js] [如何排查页面中CPU占用高的情况？](https://github.com/haizlin/fe-interview/issues/3607)  
-	 :four: [软技能] [如何实现记录用户的操作轨迹并还原？](https://github.com/haizlin/fe-interview/issues/3608)  
+- 第681天 (2021.02.25)  
+    	 :one: [html] [移动端如何让页面强制横屏显示？](https://github.com/haizlin/fe-interview/issues/3609)  
+	 :two: [css] [使用纯css使得两个背景叠加](https://github.com/haizlin/fe-interview/issues/3610)  
+	 :three: [js] [如何计算动画的帧率（FPS）？](https://github.com/haizlin/fe-interview/issues/3611)  
+	 :four: [软技能] [你认为计算专业和非计算机专业的差别在哪？为什么？](https://github.com/haizlin/fe-interview/issues/3612)  
  
 	
 - **[查看全部](category/history.md)**
