@@ -2,6 +2,11 @@
 
 
 
+- 第683天 (2021.02.27)  
+    - [html] [写H5和小程序有什么相同及不同的地方吗？](https://github.com/haizlin/fe-interview/issues/3617)
+    - [css] [你有使用过mask属性吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/3618)
+    - [js] [infinity代表什么数据？](https://github.com/haizlin/fe-interview/issues/3619)
+    - [软技能] [请说说使用iconfont图标的优点和缺点](https://github.com/haizlin/fe-interview/issues/3620)
 - 第682天 (2021.02.26)  
     - [html] [你喜欢哪种布局风格？说说你的理由](https://github.com/haizlin/fe-interview/issues/3613)
     - [css] [你有使用过css-doodle吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/3614)
