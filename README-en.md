@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.02.27) —— 683 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写H5和小程序有什么相同及不同的地方吗？](https://github.com/haizlin/fe-interview/issues/3617)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过mask属性吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/3618)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [infinity代表什么数据？](https://github.com/haizlin/fe-interview/issues/3619)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [请说说使用iconfont图标的优点和缺点](https://github.com/haizlin/fe-interview/issues/3620)  
+## :clock430: Today's Knowledge Points (2021.02.28) —— 684 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请写一个压窗屏的交互布局](https://github.com/haizlin/fe-interview/issues/3621)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使用border-image给边框添加图片](https://github.com/haizlin/fe-interview/issues/3622)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何检测一个数是否为无穷大？](https://github.com/haizlin/fe-interview/issues/3623)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对前端领域模型的理解](https://github.com/haizlin/fe-interview/issues/3624)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 682 days (2021.02.26)  
-    	 :one: [html] [你喜欢哪种布局风格？说说你的理由](https://github.com/haizlin/fe-interview/issues/3613)  
-	 :two: [css] [你有使用过css-doodle吗？说说它的作用是什么？](https://github.com/haizlin/fe-interview/issues/3614)  
-	 :three: [js] [请解释下面题目输出的结果](https://github.com/haizlin/fe-interview/issues/3615)  
-	 :four: [skill] [png-8和png-24有什么区别？](https://github.com/haizlin/fe-interview/issues/3616)  
+- 683 days (2021.02.27)  
+    	 :one: [html] [写H5和小程序有什么相同及不同的地方吗？](https://github.com/haizlin/fe-interview/issues/3617)  
+	 :two: [css] [你有使用过mask属性吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/3618)  
+	 :three: [js] [infinity代表什么数据？](https://github.com/haizlin/fe-interview/issues/3619)  
+	 :four: [skill] [请说说使用iconfont图标的优点和缺点](https://github.com/haizlin/fe-interview/issues/3620)  
  
 	
 - **[All](category/history.md)**

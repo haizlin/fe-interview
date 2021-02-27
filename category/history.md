@@ -2,6 +2,11 @@
 
 
 
+- 第684天 (2021.02.28)  
+    - [html] [请写一个压窗屏的交互布局](https://github.com/haizlin/fe-interview/issues/3621)
+    - [css] [如何使用border-image给边框添加图片](https://github.com/haizlin/fe-interview/issues/3622)
+    - [js] [如何检测一个数是否为无穷大？](https://github.com/haizlin/fe-interview/issues/3623)
+    - [软技能] [说说你对前端领域模型的理解](https://github.com/haizlin/fe-interview/issues/3624)
 - 第683天 (2021.02.27)  
     - [html] [写H5和小程序有什么相同及不同的地方吗？](https://github.com/haizlin/fe-interview/issues/3617)
     - [css] [你有使用过mask属性吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/3618)
