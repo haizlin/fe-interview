@@ -2,6 +2,11 @@
 
 
 
+- 第689天 (2021.03.05)  
+    - [html] [写一个始终固定在右侧浮动的工具条](https://github.com/haizlin/fe-interview/issues/3643)
+    - [css] [你有使用过display:box属性吗？说说它的作用](https://github.com/haizlin/fe-interview/issues/3644)
+    - [js] [写一个方法删除数组中重复的项](https://github.com/haizlin/fe-interview/issues/3645)
+    - [软技能] [WebSocket为什么可以实现持久连接？](https://github.com/haizlin/fe-interview/issues/3646)
 - 第688天 (2021.03.04)  
     - [html] [如何在页面上引用百度、腾讯地图？](https://github.com/haizlin/fe-interview/issues/3639)
     - [css] [使用css制作一个手机充电黏黏球效果](https://github.com/haizlin/fe-interview/issues/3640)
