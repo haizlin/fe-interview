@@ -19,7 +19,7 @@
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 650+](category/html.md) | [CSS 650+](category/css.md) | [JS 650+](category/js.md) | [软技能 650+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 700+](category/html.md) | [CSS 700+](category/css.md) | [JS 700+](category/js.md) | [软技能 700+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
@@ -31,6 +31,12 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何让IE6支持PNG透明？](https://github.com/haizlin/fe-interview/issues/3602)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何把10.36四舍五入为最接近的整数？](https://github.com/haizlin/fe-interview/issues/3603)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [现如今面对如层出不穷的类库，说说你的感受](https://github.com/haizlin/fe-interview/issues/3604)  
+=======
+## :clock430: 今天的知识点   (2021.03.05) —— 第689天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个始终固定在右侧浮动的工具条](https://github.com/haizlin/fe-interview/issues/3643)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过display:box属性吗？说说它的作用](https://github.com/haizlin/fe-interview/issues/3644)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法删除数组中重复的项](https://github.com/haizlin/fe-interview/issues/3645)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [WebSocket为什么可以实现持久连接？](https://github.com/haizlin/fe-interview/issues/3646)  
  
   
 ### :camel: 历史题目
@@ -43,10 +49,15 @@
 
 
 - 第678天 (2021.02.22)  
-    	 :one: [html] [在页面中如何实现触发某一场景时有声音提醒](https://github.com/haizlin/fe-interview/issues/3597)  
+   :one: [html] [在页面中如何实现触发某一场景时有声音提醒](https://github.com/haizlin/fe-interview/issues/3597)  
 	 :two: [css] [使用纯css画一个径向渐变的背景](https://github.com/haizlin/fe-interview/issues/3598)  
 	 :three: [js] [写一个方法探测CPU占比情况](https://github.com/haizlin/fe-interview/issues/3599)  
 	 :four: [软技能] [如何在浏览器中播放pcm裸流音频？](https://github.com/haizlin/fe-interview/issues/3600)  
+- 第688天 (2021.03.04)  
+   :one: [html] [如何在页面上引用百度、腾讯地图？](https://github.com/haizlin/fe-interview/issues/3639)  
+	 :two: [css] [使用css制作一个手机充电黏黏球效果](https://github.com/haizlin/fe-interview/issues/3640)  
+	 :three: [js] [以下时间处理在IOS上会遇到什么问题？如何解决？](https://github.com/haizlin/fe-interview/issues/3641)  
+	 :four: [软技能] [说下SwiftUI和Flutter的比较](https://github.com/haizlin/fe-interview/issues/3642)  
  
 	
 - **[查看全部](category/history.md)**
