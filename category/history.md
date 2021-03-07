@@ -2,6 +2,11 @@
 
 
 
+- 第692天 (2021.03.08)  
+    - [html] [画一个ipad的页面布局](https://github.com/haizlin/fe-interview/issues/3656)
+    - [css] [使用css使得一个元素一闪一闪的](https://github.com/haizlin/fe-interview/issues/3657)
+    - [js] [写一个方法判断给定的数据是否为空对象](https://github.com/haizlin/fe-interview/issues/3658)
+    - [软技能] [如何带领团队做代码走读？如果有5万行的代码，要如何走读？用哪些方法论？](https://github.com/haizlin/fe-interview/issues/3659)
 - 第691天 (2021.03.07)  
     - [html] [你有分析过哪些知名网站的布局？有哪些收获？](https://github.com/haizlin/fe-interview/issues/3652)
     - [css] [使用css实现类似苹果手机的暗黑模式](https://github.com/haizlin/fe-interview/issues/3653)
