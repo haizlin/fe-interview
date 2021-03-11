@@ -2,6 +2,11 @@
 
 
 
+- 第696天 (2021.03.12)  
+    - [html] [说说你认为的html黑科技有哪些？](https://github.com/haizlin/fe-interview/issues/3675)
+    - [css] [说说你认为的css黑科技有哪些？](https://github.com/haizlin/fe-interview/issues/3676)
+    - [js] [分析`3 < 2 < 1`返回的结果](https://github.com/haizlin/fe-interview/issues/3677)
+    - [软技能] [通过刚才的聊天，说说你对我的了解](https://github.com/haizlin/fe-interview/issues/3678)
 - 第695天 (2021.03.11)  
     - [html] [html中是如何调出QQ会话的？说说你的理解](https://github.com/haizlin/fe-interview/issues/3669)
     - [css] [你有使用过padding-bottom属性吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3670)
