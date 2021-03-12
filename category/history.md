@@ -2,6 +2,11 @@
 
 
 
+- 第697天 (2021.03.13)  
+    - [html] [如何禁止HTML页面滚动？](https://github.com/haizlin/fe-interview/issues/3679)
+    - [css] [你有使用过css的all属性吗？它有什么好处及使用场景？](https://github.com/haizlin/fe-interview/issues/3680)
+    - [js] [判断以下两个正则表达式是否相等:`/abc/ === /abc/`](https://github.com/haizlin/fe-interview/issues/3681)
+    - [软技能] [你有洁癖吗？举例说说看](https://github.com/haizlin/fe-interview/issues/3682)
 - 第696天 (2021.03.12)  
     - [html] [说说你认为的html黑科技有哪些？](https://github.com/haizlin/fe-interview/issues/3675)
     - [css] [说说你认为的css黑科技有哪些？](https://github.com/haizlin/fe-interview/issues/3676)
