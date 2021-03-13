@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.03.13) —— 697 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何禁止HTML页面滚动？](https://github.com/haizlin/fe-interview/issues/3679)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过css的all属性吗？它有什么好处及使用场景？](https://github.com/haizlin/fe-interview/issues/3680)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [判断以下两个正则表达式是否相等:`/abc/ === /abc/`](https://github.com/haizlin/fe-interview/issues/3681)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有洁癖吗？举例说说看](https://github.com/haizlin/fe-interview/issues/3682)  
+## :clock430: Today's Knowledge Points (2021.03.14) —— 698 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个中间固定，两边自适应的布局（使用多种方法）](https://github.com/haizlin/fe-interview/issues/3683)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过supports吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3684)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js中什么情况下应该使用with?](https://github.com/haizlin/fe-interview/issues/3685)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对CSP的理解](https://github.com/haizlin/fe-interview/issues/3686)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 696 days (2021.03.12)  
-    	 :one: [html] [说说你认为的html黑科技有哪些？](https://github.com/haizlin/fe-interview/issues/3675)  
-	 :two: [css] [说说你认为的css黑科技有哪些？](https://github.com/haizlin/fe-interview/issues/3676)  
-	 :three: [js] [分析`3 < 2 < 1`返回的结果](https://github.com/haizlin/fe-interview/issues/3677)  
-	 :four: [skill] [通过刚才的聊天，说说你对我的了解](https://github.com/haizlin/fe-interview/issues/3678)  
+- 697 days (2021.03.13)  
+    	 :one: [html] [如何禁止HTML页面滚动？](https://github.com/haizlin/fe-interview/issues/3679)  
+	 :two: [css] [你有使用过css的all属性吗？它有什么好处及使用场景？](https://github.com/haizlin/fe-interview/issues/3680)  
+	 :three: [js] [判断以下两个正则表达式是否相等:`/abc/ === /abc/`](https://github.com/haizlin/fe-interview/issues/3681)  
+	 :four: [skill] [你有洁癖吗？举例说说看](https://github.com/haizlin/fe-interview/issues/3682)  
  
 	
 - **[All](category/history.md)**
