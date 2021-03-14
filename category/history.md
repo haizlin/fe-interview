@@ -2,6 +2,11 @@
 
 
 
+- 第699天 (2021.03.15)  
+    - [html] [如何隐藏元素的滚动条？](https://github.com/haizlin/fe-interview/issues/3687)
+    - [css] [border-radius是多可以赋多少个值？](https://github.com/haizlin/fe-interview/issues/3688)
+    - [js] [说说你认为js的黑科技有哪些？](https://github.com/haizlin/fe-interview/issues/3689)
+    - [软技能] [什么是文件的BOM头？](https://github.com/haizlin/fe-interview/issues/3690)
 - 第698天 (2021.03.14)  
     - [html] [写一个中间固定，两边自适应的布局（使用多种方法）](https://github.com/haizlin/fe-interview/issues/3683)
     - [css] [你有使用过supports吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3684)
