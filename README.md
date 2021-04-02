@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.03.28) —— 第712天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一跳动的音符](https://github.com/haizlin/fe-interview/issues/3743)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css如何实现滚动条隐藏但鼠标仍然可以滚动？](https://github.com/haizlin/fe-interview/issues/3744)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说new操作符的执行过程](https://github.com/haizlin/fe-interview/issues/3745)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [2021年，你最想学到的是一个技能是什么？](https://github.com/haizlin/fe-interview/issues/3746)  
+## :clock430: 今天的知识点   (2021.04.02) —— 第717天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用SVG画一个小米的logo](https://github.com/haizlin/fe-interview/issues/3763)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [给一段文字自动定时变色](https://github.com/haizlin/fe-interview/issues/3764)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Number.isNaN和isNaN有什么区别？](https://github.com/haizlin/fe-interview/issues/3765)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对中台的理解](https://github.com/haizlin/fe-interview/issues/3766)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第711天 (2021.03.27)  
-    	 :one: [html] [写一个可以编辑列的表格布局](https://github.com/haizlin/fe-interview/issues/3738)  
-	 :two: [css] [为什么在Calc()方法中必须用或者包含空格？](https://github.com/haizlin/fe-interview/issues/3739)  
-	 :three: [js] [实现一个函数柯里化](https://github.com/haizlin/fe-interview/issues/3740)  
-	 :four: [软技能] [说说你对H5、小程序、APP三者之间区别的理解？](https://github.com/haizlin/fe-interview/issues/3741)  
+- 第716天 (2021.04.01)  
+    	 :one: [html] [如何禁止字母大写？](https://github.com/haizlin/fe-interview/issues/3759)  
+	 :two: [css] [px、em、rem、rpx区别和为什么使用62.5%；](https://github.com/haizlin/fe-interview/issues/3760)  
+	 :three: [js] [举例说明DOM常用的操作方法有哪些？](https://github.com/haizlin/fe-interview/issues/3761)  
+	 :four: [软技能] [说说你对微信抢红包技术的理解](https://github.com/haizlin/fe-interview/issues/3762)  
  
 	
 - **[查看全部](category/history.md)**
