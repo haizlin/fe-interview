@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.04.02) —— 第717天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用SVG画一个小米的logo](https://github.com/haizlin/fe-interview/issues/3763)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [给一段文字自动定时变色](https://github.com/haizlin/fe-interview/issues/3764)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Number.isNaN和isNaN有什么区别？](https://github.com/haizlin/fe-interview/issues/3765)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对中台的理解](https://github.com/haizlin/fe-interview/issues/3766)  
+## :clock430: 今天的知识点   (2021.04.04) —— 第719天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [文件选择框如何多选文件？](https://github.com/haizlin/fe-interview/issues/3772)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [画一个不停发出不同光的球](https://github.com/haizlin/fe-interview/issues/3773)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在js中整数超出安全范围怎么办？](https://github.com/haizlin/fe-interview/issues/3774)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对原码、反码和补码的理解](https://github.com/haizlin/fe-interview/issues/3775)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第716天 (2021.04.01)  
-    	 :one: [html] [如何禁止字母大写？](https://github.com/haizlin/fe-interview/issues/3759)  
-	 :two: [css] [px、em、rem、rpx区别和为什么使用62.5%；](https://github.com/haizlin/fe-interview/issues/3760)  
-	 :three: [js] [举例说明DOM常用的操作方法有哪些？](https://github.com/haizlin/fe-interview/issues/3761)  
-	 :four: [软技能] [说说你对微信抢红包技术的理解](https://github.com/haizlin/fe-interview/issues/3762)  
+- 第718天 (2021.04.03)  
+    	 :one: [html] [在移动端中H5的输入框弹起键盘遮挡，有哪些解决方案呢？](https://github.com/haizlin/fe-interview/issues/3768)  
+	 :two: [css] [请说说哪种交互特效是用纯CSS做不到的？](https://github.com/haizlin/fe-interview/issues/3769)  
+	 :three: [js] [在js中整数的安全范围是多少？](https://github.com/haizlin/fe-interview/issues/3770)  
+	 :four: [软技能] [中台和后台有什么不同？](https://github.com/haizlin/fe-interview/issues/3771)  
  
 	
 - **[查看全部](category/history.md)**

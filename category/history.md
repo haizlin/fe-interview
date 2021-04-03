@@ -2,6 +2,16 @@
 
 
 
+- 第719天 (2021.04.04)  
+    - [html] [文件选择框如何多选文件？](https://github.com/haizlin/fe-interview/issues/3772)
+    - [css] [画一个不停发出不同光的球](https://github.com/haizlin/fe-interview/issues/3773)
+    - [js] [在js中整数超出安全范围怎么办？](https://github.com/haizlin/fe-interview/issues/3774)
+    - [软技能] [说说你对原码、反码和补码的理解](https://github.com/haizlin/fe-interview/issues/3775)
+- 第718天 (2021.04.03)  
+    - [html] [在移动端中H5的输入框弹起键盘遮挡，有哪些解决方案呢？](https://github.com/haizlin/fe-interview/issues/3768)
+    - [css] [请说说哪种交互特效是用纯CSS做不到的？](https://github.com/haizlin/fe-interview/issues/3769)
+    - [js] [在js中整数的安全范围是多少？](https://github.com/haizlin/fe-interview/issues/3770)
+    - [软技能] [中台和后台有什么不同？](https://github.com/haizlin/fe-interview/issues/3771)
 - 第717天 (2021.04.02)  
     - [html] [使用SVG画一个小米的logo](https://github.com/haizlin/fe-interview/issues/3763)
     - [css] [给一段文字自动定时变色](https://github.com/haizlin/fe-interview/issues/3764)
