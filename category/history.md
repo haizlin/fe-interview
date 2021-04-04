@@ -2,6 +2,11 @@
 
 
 
+- 第720天 (2021.04.05)  
+    - [html] [文件选择框如何选择指定后缀的文件？](https://github.com/haizlin/fe-interview/issues/3776)
+    - [css] [rem和px的换算规则是怎样的？](https://github.com/haizlin/fe-interview/issues/3777)
+    - [js] [Array构造函数传入的参数有哪些情况？](https://github.com/haizlin/fe-interview/issues/3778)
+    - [软技能] [你读完一本书会写读后感吗？如何写呢？](https://github.com/haizlin/fe-interview/issues/3779)
 - 第719天 (2021.04.04)  
     - [html] [文件选择框如何多选文件？](https://github.com/haizlin/fe-interview/issues/3772)
     - [css] [画一个不停发出不同光的球](https://github.com/haizlin/fe-interview/issues/3773)
