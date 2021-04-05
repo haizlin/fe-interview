@@ -2,6 +2,11 @@
 
 
 
+- 第721天 (2021.04.06)  
+    - [html] [说说你对URL Scheme的理解](https://github.com/haizlin/fe-interview/issues/3780)
+    - [css] [css如何监听屏幕的旋转？](https://github.com/haizlin/fe-interview/issues/3781)
+    - [js] [实现一个数组的fill方法](https://github.com/haizlin/fe-interview/issues/3782)
+    - [软技能] [如果有几本技术书籍，你只想买一本，你是如何选择的？](https://github.com/haizlin/fe-interview/issues/3783)
 - 第720天 (2021.04.05)  
     - [html] [文件选择框如何选择指定后缀的文件？](https://github.com/haizlin/fe-interview/issues/3776)
     - [css] [rem和px的换算规则是怎样的？](https://github.com/haizlin/fe-interview/issues/3777)
