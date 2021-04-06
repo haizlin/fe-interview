@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.04.06) —— 721 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对URL Scheme的理解](https://github.com/haizlin/fe-interview/issues/3780)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css如何监听屏幕的旋转？](https://github.com/haizlin/fe-interview/issues/3781)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [实现一个数组的fill方法](https://github.com/haizlin/fe-interview/issues/3782)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果有几本技术书籍，你只想买一本，你是如何选择的？](https://github.com/haizlin/fe-interview/issues/3783)  
+## :clock430: Today's Knowledge Points (2021.04.07) —— 722 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在移动端页面如何忽略自动识别电话和邮箱？](https://github.com/haizlin/fe-interview/issues/3784)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有用过appearance属性吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3785)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下toPrimitive()函数是如何执行的？](https://github.com/haizlin/fe-interview/issues/3786)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何优化关键渲染路径？](https://github.com/haizlin/fe-interview/issues/3787)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 720 days (2021.04.05)  
-    	 :one: [html] [文件选择框如何选择指定后缀的文件？](https://github.com/haizlin/fe-interview/issues/3776)  
-	 :two: [css] [rem和px的换算规则是怎样的？](https://github.com/haizlin/fe-interview/issues/3777)  
-	 :three: [js] [Array构造函数传入的参数有哪些情况？](https://github.com/haizlin/fe-interview/issues/3778)  
-	 :four: [skill] [你读完一本书会写读后感吗？如何写呢？](https://github.com/haizlin/fe-interview/issues/3779)  
+- 721 days (2021.04.06)  
+    	 :one: [html] [说说你对URL Scheme的理解](https://github.com/haizlin/fe-interview/issues/3780)  
+	 :two: [css] [css如何监听屏幕的旋转？](https://github.com/haizlin/fe-interview/issues/3781)  
+	 :three: [js] [实现一个数组的fill方法](https://github.com/haizlin/fe-interview/issues/3782)  
+	 :four: [skill] [如果有几本技术书籍，你只想买一本，你是如何选择的？](https://github.com/haizlin/fe-interview/issues/3783)  
  
 	
 - **[All](category/history.md)**

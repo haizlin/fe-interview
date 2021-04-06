@@ -2,6 +2,11 @@
 
 
 
+- 第722天 (2021.04.07)  
+    - [html] [在移动端页面如何忽略自动识别电话和邮箱？](https://github.com/haizlin/fe-interview/issues/3784)
+    - [css] [你有用过appearance属性吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3785)
+    - [js] [解释下toPrimitive()函数是如何执行的？](https://github.com/haizlin/fe-interview/issues/3786)
+    - [软技能] [如何优化关键渲染路径？](https://github.com/haizlin/fe-interview/issues/3787)
 - 第721天 (2021.04.06)  
     - [html] [说说你对URL Scheme的理解](https://github.com/haizlin/fe-interview/issues/3780)
     - [css] [css如何监听屏幕的旋转？](https://github.com/haizlin/fe-interview/issues/3781)
