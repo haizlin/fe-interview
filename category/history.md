@@ -2,6 +2,11 @@
 
 
 
+- 第723天 (2021.04.08)  
+    - [html] [h5页面如何打开支付宝APP？](https://github.com/haizlin/fe-interview/issues/3788)
+    - [css] [写一个风扇转动的动画](https://github.com/haizlin/fe-interview/issues/3789)
+    - [js] [JS中把其它类型转成数字的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3790)
+    - [软技能] [说下你了解的前端发展史](https://github.com/haizlin/fe-interview/issues/3791)
 - 第722天 (2021.04.07)  
     - [html] [在移动端页面如何忽略自动识别电话和邮箱？](https://github.com/haizlin/fe-interview/issues/3784)
     - [css] [你有用过appearance属性吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3785)

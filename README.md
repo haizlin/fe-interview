@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.04.07) —— 第722天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在移动端页面如何忽略自动识别电话和邮箱？](https://github.com/haizlin/fe-interview/issues/3784)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有用过appearance属性吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3785)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下toPrimitive()函数是如何执行的？](https://github.com/haizlin/fe-interview/issues/3786)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如何优化关键渲染路径？](https://github.com/haizlin/fe-interview/issues/3787)  
+## :clock430: 今天的知识点   (2021.04.08) —— 第723天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [h5页面如何打开支付宝APP？](https://github.com/haizlin/fe-interview/issues/3788)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写一个风扇转动的动画](https://github.com/haizlin/fe-interview/issues/3789)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [JS中把其它类型转成数字的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3790)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说下你了解的前端发展史](https://github.com/haizlin/fe-interview/issues/3791)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第721天 (2021.04.06)  
-    	 :one: [html] [说说你对URL Scheme的理解](https://github.com/haizlin/fe-interview/issues/3780)  
-	 :two: [css] [css如何监听屏幕的旋转？](https://github.com/haizlin/fe-interview/issues/3781)  
-	 :three: [js] [实现一个数组的fill方法](https://github.com/haizlin/fe-interview/issues/3782)  
-	 :four: [软技能] [如果有几本技术书籍，你只想买一本，你是如何选择的？](https://github.com/haizlin/fe-interview/issues/3783)  
+- 第722天 (2021.04.07)  
+    	 :one: [html] [在移动端页面如何忽略自动识别电话和邮箱？](https://github.com/haizlin/fe-interview/issues/3784)  
+	 :two: [css] [你有用过appearance属性吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3785)  
+	 :three: [js] [解释下toPrimitive()函数是如何执行的？](https://github.com/haizlin/fe-interview/issues/3786)  
+	 :four: [软技能] [如何优化关键渲染路径？](https://github.com/haizlin/fe-interview/issues/3787)  
  
 	
 - **[查看全部](category/history.md)**
