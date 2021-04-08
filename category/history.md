@@ -2,6 +2,11 @@
 
 
 
+- 第724天 (2021.04.09)  
+    - [html] [h5页面如何打开微信APP？](https://github.com/haizlin/fe-interview/issues/3792)
+    - [css] [使用css画一个半透明的吸管](https://github.com/haizlin/fe-interview/issues/3793)
+    - [js] [JS中把其它类型转成布尔的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3794)
+    - [软技能] [说说你学到的这些计算机技能除了做网站外还用这些技能做过什么有意义的事吗？](https://github.com/haizlin/fe-interview/issues/3795)
 - 第723天 (2021.04.08)  
     - [html] [h5页面如何打开支付宝APP？](https://github.com/haizlin/fe-interview/issues/3788)
     - [css] [写一个风扇转动的动画](https://github.com/haizlin/fe-interview/issues/3789)

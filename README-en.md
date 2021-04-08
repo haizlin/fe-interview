@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.04.08) —— 723 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [h5页面如何打开支付宝APP？](https://github.com/haizlin/fe-interview/issues/3788)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写一个风扇转动的动画](https://github.com/haizlin/fe-interview/issues/3789)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [JS中把其它类型转成数字的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3790)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说下你了解的前端发展史](https://github.com/haizlin/fe-interview/issues/3791)  
+## :clock430: Today's Knowledge Points (2021.04.09) —— 724 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [h5页面如何打开微信APP？](https://github.com/haizlin/fe-interview/issues/3792)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画一个半透明的吸管](https://github.com/haizlin/fe-interview/issues/3793)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [JS中把其它类型转成布尔的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3794)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你学到的这些计算机技能除了做网站外还用这些技能做过什么有意义的事吗？](https://github.com/haizlin/fe-interview/issues/3795)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 722 days (2021.04.07)  
-    	 :one: [html] [在移动端页面如何忽略自动识别电话和邮箱？](https://github.com/haizlin/fe-interview/issues/3784)  
-	 :two: [css] [你有用过appearance属性吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/3785)  
-	 :three: [js] [解释下toPrimitive()函数是如何执行的？](https://github.com/haizlin/fe-interview/issues/3786)  
-	 :four: [skill] [如何优化关键渲染路径？](https://github.com/haizlin/fe-interview/issues/3787)  
+- 723 days (2021.04.08)  
+    	 :one: [html] [h5页面如何打开支付宝APP？](https://github.com/haizlin/fe-interview/issues/3788)  
+	 :two: [css] [写一个风扇转动的动画](https://github.com/haizlin/fe-interview/issues/3789)  
+	 :three: [js] [JS中把其它类型转成数字的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3790)  
+	 :four: [skill] [说下你了解的前端发展史](https://github.com/haizlin/fe-interview/issues/3791)  
  
 	
 - **[All](category/history.md)**
