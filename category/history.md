@@ -2,6 +2,16 @@
 
 
 
+- 第726天 (2021.04.11)  
+    - [html] [如何强制浏览器全屏？](https://github.com/haizlin/fe-interview/issues/3801)
+    - [css] [使用css的哪些方法可以提高页面的渲染速度？](https://github.com/haizlin/fe-interview/issues/3802)
+    - [js] [JS中把其它类型转成字符串的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3803)
+    - [软技能] [图片地址状态码返回200， 一定能请求的到图片么？](https://github.com/haizlin/fe-interview/issues/3804)
+- 第725天 (2021.04.10)  
+    - [html] [在H5中，你了解到的ios系统有哪些专用特性？](https://github.com/haizlin/fe-interview/issues/3797)
+    - [css] [说说你对CSS Painting API的理解](https://github.com/haizlin/fe-interview/issues/3798)
+    - [js] [JS中把其它类型转成字符串的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3799)
+    - [软技能] [你上班一般是准时到还是提前到呢？](https://github.com/haizlin/fe-interview/issues/3800)
 - 第724天 (2021.04.09)  
     - [html] [h5页面如何打开微信APP？](https://github.com/haizlin/fe-interview/issues/3792)
     - [css] [使用css画一个半透明的吸管](https://github.com/haizlin/fe-interview/issues/3793)

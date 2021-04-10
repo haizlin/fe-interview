@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.04.09) —— 724 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [h5页面如何打开微信APP？](https://github.com/haizlin/fe-interview/issues/3792)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画一个半透明的吸管](https://github.com/haizlin/fe-interview/issues/3793)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [JS中把其它类型转成布尔的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3794)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你学到的这些计算机技能除了做网站外还用这些技能做过什么有意义的事吗？](https://github.com/haizlin/fe-interview/issues/3795)  
+## :clock430: Today's Knowledge Points (2021.04.11) —— 726 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何强制浏览器全屏？](https://github.com/haizlin/fe-interview/issues/3801)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css的哪些方法可以提高页面的渲染速度？](https://github.com/haizlin/fe-interview/issues/3802)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [JS中把其它类型转成字符串的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3803)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [图片地址状态码返回200， 一定能请求的到图片么？](https://github.com/haizlin/fe-interview/issues/3804)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 723 days (2021.04.08)  
-    	 :one: [html] [h5页面如何打开支付宝APP？](https://github.com/haizlin/fe-interview/issues/3788)  
-	 :two: [css] [写一个风扇转动的动画](https://github.com/haizlin/fe-interview/issues/3789)  
-	 :three: [js] [JS中把其它类型转成数字的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3790)  
-	 :four: [skill] [说下你了解的前端发展史](https://github.com/haizlin/fe-interview/issues/3791)  
+- 725 days (2021.04.10)  
+    	 :one: [html] [在H5中，你了解到的ios系统有哪些专用特性？](https://github.com/haizlin/fe-interview/issues/3797)  
+	 :two: [css] [说说你对CSS Painting API的理解](https://github.com/haizlin/fe-interview/issues/3798)  
+	 :three: [js] [JS中把其它类型转成字符串的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3799)  
+	 :four: [skill] [你上班一般是准时到还是提前到呢？](https://github.com/haizlin/fe-interview/issues/3800)  
  
 	
 - **[All](category/history.md)**
