@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.04.12) —— 727 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [怎么设置才能让:active有效，让:hover无效？](https://github.com/haizlin/fe-interview/issues/3805)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [CSS如何将彩色图片变为黑白图片？](https://github.com/haizlin/fe-interview/issues/3806)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Symbol强制类型转换的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3807)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你喜欢早睡还是晚睡？为什么？](https://github.com/haizlin/fe-interview/issues/3808)  
+## :clock430: Today's Knowledge Points (2021.04.13) —— 728 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何启用360浏览器的极速模式？](https://github.com/haizlin/fe-interview/issues/3809)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画一个旗帜](https://github.com/haizlin/fe-interview/issues/3810)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法获取文件的扩展名](https://github.com/haizlin/fe-interview/issues/3811)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如接到紧急的任务，你该如何协调人员？](https://github.com/haizlin/fe-interview/issues/3812)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 726 days (2021.04.11)  
-    	 :one: [html] [如何强制浏览器全屏？](https://github.com/haizlin/fe-interview/issues/3801)  
-	 :two: [css] [使用css的哪些方法可以提高页面的渲染速度？](https://github.com/haizlin/fe-interview/issues/3802)  
-	 :three: [js] [JS中把其它类型转成字符串的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3803)  
-	 :four: [skill] [图片地址状态码返回200， 一定能请求的到图片么？](https://github.com/haizlin/fe-interview/issues/3804)  
+- 727 days (2021.04.12)  
+    	 :one: [html] [怎么设置才能让:active有效，让:hover无效？](https://github.com/haizlin/fe-interview/issues/3805)  
+	 :two: [css] [CSS如何将彩色图片变为黑白图片？](https://github.com/haizlin/fe-interview/issues/3806)  
+	 :three: [js] [Symbol强制类型转换的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3807)  
+	 :four: [skill] [你喜欢早睡还是晚睡？为什么？](https://github.com/haizlin/fe-interview/issues/3808)  
  
 	
 - **[All](category/history.md)**

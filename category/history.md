@@ -2,6 +2,11 @@
 
 
 
+- 第728天 (2021.04.13)  
+    - [html] [如何启用360浏览器的极速模式？](https://github.com/haizlin/fe-interview/issues/3809)
+    - [css] [使用css画一个旗帜](https://github.com/haizlin/fe-interview/issues/3810)
+    - [js] [写一个方法获取文件的扩展名](https://github.com/haizlin/fe-interview/issues/3811)
+    - [软技能] [如接到紧急的任务，你该如何协调人员？](https://github.com/haizlin/fe-interview/issues/3812)
 - 第727天 (2021.04.12)  
     - [html] [怎么设置才能让:active有效，让:hover无效？](https://github.com/haizlin/fe-interview/issues/3805)
     - [css] [CSS如何将彩色图片变为黑白图片？](https://github.com/haizlin/fe-interview/issues/3806)
