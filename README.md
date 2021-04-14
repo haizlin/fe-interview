@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.04.13) —— 第728天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何启用360浏览器的极速模式？](https://github.com/haizlin/fe-interview/issues/3809)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画一个旗帜](https://github.com/haizlin/fe-interview/issues/3810)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法获取文件的扩展名](https://github.com/haizlin/fe-interview/issues/3811)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如接到紧急的任务，你该如何协调人员？](https://github.com/haizlin/fe-interview/issues/3812)  
+## :clock430: 今天的知识点   (2021.04.15) —— 第730天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5如何禁止长按？](https://github.com/haizlin/fe-interview/issues/3817)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3写一个下划线跟随动画菜单的动画效果](https://github.com/haizlin/fe-interview/issues/3818)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [[]和{}的toString和valueOf的结果分别是什么？](https://github.com/haizlin/fe-interview/issues/3819)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [在工作中，你有过哪些方面的压力？](https://github.com/haizlin/fe-interview/issues/3820)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第727天 (2021.04.12)  
-    	 :one: [html] [怎么设置才能让:active有效，让:hover无效？](https://github.com/haizlin/fe-interview/issues/3805)  
-	 :two: [css] [CSS如何将彩色图片变为黑白图片？](https://github.com/haizlin/fe-interview/issues/3806)  
-	 :three: [js] [Symbol强制类型转换的方法及规则是什么？](https://github.com/haizlin/fe-interview/issues/3807)  
-	 :four: [软技能] [你喜欢早睡还是晚睡？为什么？](https://github.com/haizlin/fe-interview/issues/3808)  
+- 第729天 (2021.04.14)  
+    	 :one: [html] [H5如何禁止屏幕抖动？](https://github.com/haizlin/fe-interview/issues/3813)  
+	 :two: [css] [使用css实现圆形的头像的效果（注：要考虑正方形、长方形情况）](https://github.com/haizlin/fe-interview/issues/3814)  
+	 :three: [js] [js哪些方法可以获取原型？](https://github.com/haizlin/fe-interview/issues/3815)  
+	 :four: [软技能] [物联网将会对日常生活起到什么作用？](https://github.com/haizlin/fe-interview/issues/3816)  
  
 	
 - **[查看全部](category/history.md)**

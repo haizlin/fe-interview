@@ -2,6 +2,16 @@
 
 
 
+- 第730天 (2021.04.15)  
+    - [html] [H5如何禁止长按？](https://github.com/haizlin/fe-interview/issues/3817)
+    - [css] [使用CSS3写一个下划线跟随动画菜单的动画效果](https://github.com/haizlin/fe-interview/issues/3818)
+    - [js] [[]和{}的toString和valueOf的结果分别是什么？](https://github.com/haizlin/fe-interview/issues/3819)
+    - [软技能] [在工作中，你有过哪些方面的压力？](https://github.com/haizlin/fe-interview/issues/3820)
+- 第729天 (2021.04.14)  
+    - [html] [H5如何禁止屏幕抖动？](https://github.com/haizlin/fe-interview/issues/3813)
+    - [css] [使用css实现圆形的头像的效果（注：要考虑正方形、长方形情况）](https://github.com/haizlin/fe-interview/issues/3814)
+    - [js] [js哪些方法可以获取原型？](https://github.com/haizlin/fe-interview/issues/3815)
+    - [软技能] [物联网将会对日常生活起到什么作用？](https://github.com/haizlin/fe-interview/issues/3816)
 - 第728天 (2021.04.13)  
     - [html] [如何启用360浏览器的极速模式？](https://github.com/haizlin/fe-interview/issues/3809)
     - [css] [使用css画一个旗帜](https://github.com/haizlin/fe-interview/issues/3810)
