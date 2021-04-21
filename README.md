@@ -26,11 +26,10 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.04.21) —— 第736天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5的input输入框如何对齐输入占位？](https://github.com/haizlin/fe-interview/issues/3844)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画一个旋转的风车](https://github.com/haizlin/fe-interview/issues/3845)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法根据日期获取当月有多少天](https://github.com/haizlin/fe-interview/issues/3846)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你平时写代码时重复的工作量多吗？主要在哪些方面？](https://github.com/haizlin/fe-interview/issues/3847)  
+## :clock430: 今天的知识点   (2021.04.22) —— 第737天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [接口返回字段包含`\n或<br>`，如何识别文本换行？](https://github.com/haizlin/fe-interview/issues/3848)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css写一个套娃的动画](https://github.com/haizlin/fe-interview/issues/3849)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [函数的length属性表示什么？](https://github.com/haizlin/fe-interview/issues/3850)  
  
   
 ### :camel: 历史题目
@@ -42,11 +41,10 @@
     …………  
 
 
-- 第735天 (2021.04.20)  
-    	 :one: [html] [H5如何禁止动画闪屏？](https://github.com/haizlin/fe-interview/issues/3837)  
-	 :two: [css] [你喜欢用flex吗？为什么？](https://github.com/haizlin/fe-interview/issues/3838)  
-	 :three: [js] [说说你对void的理解](https://github.com/haizlin/fe-interview/issues/3839)  
-	 :four: [软技能] [你有想过做架构师吗？](https://github.com/haizlin/fe-interview/issues/3840)  
+- 第736天 (2021.04.21)  
+    	 :one: [html] [H5的input输入框如何对齐输入占位？](https://github.com/haizlin/fe-interview/issues/3844)  
+	 :two: [css] [使用css画一个旋转的风车](https://github.com/haizlin/fe-interview/issues/3845)  
+	 :three: [js] [写一个方法根据日期获取当月有多少天](https://github.com/haizlin/fe-interview/issues/3846)  
  
 	
 - **[查看全部](category/history.md)**
