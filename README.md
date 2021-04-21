@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.04.18) —— 第733天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5如何禁止旋转屏幕时的字体调整？](https://github.com/haizlin/fe-interview/issues/3829)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [用css画一把带刻度的尺寸](https://github.com/haizlin/fe-interview/issues/3830)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对hasOwnProperty的理解](https://github.com/haizlin/fe-interview/issues/3831)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你认为开发人员和产品人员怎样才能做到更好的平衡？](https://github.com/haizlin/fe-interview/issues/3832)  
+## :clock430: 今天的知识点   (2021.04.21) —— 第736天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5的input输入框如何对齐输入占位？](https://github.com/haizlin/fe-interview/issues/3844)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画一个旋转的风车](https://github.com/haizlin/fe-interview/issues/3845)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法根据日期获取当月有多少天](https://github.com/haizlin/fe-interview/issues/3846)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你平时写代码时重复的工作量多吗？主要在哪些方面？](https://github.com/haizlin/fe-interview/issues/3847)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第732天 (2021.04.17)  
-    	 :one: [html] [H5如何支持弹性滚动？](https://github.com/haizlin/fe-interview/issues/3825)  
-	 :two: [css] [用css简画一个行走的人动画效果](https://github.com/haizlin/fe-interview/issues/3826)  
-	 :three: [js] [不同进制数字如何表示？](https://github.com/haizlin/fe-interview/issues/3827)  
-	 :four: [软技能] [说说你对冰山理论的理解](https://github.com/haizlin/fe-interview/issues/3828)  
+- 第735天 (2021.04.20)  
+    	 :one: [html] [H5如何禁止动画闪屏？](https://github.com/haizlin/fe-interview/issues/3837)  
+	 :two: [css] [你喜欢用flex吗？为什么？](https://github.com/haizlin/fe-interview/issues/3838)  
+	 :three: [js] [说说你对void的理解](https://github.com/haizlin/fe-interview/issues/3839)  
+	 :four: [软技能] [你有想过做架构师吗？](https://github.com/haizlin/fe-interview/issues/3840)  
  
 	
 - **[查看全部](category/history.md)**

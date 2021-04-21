@@ -2,6 +2,21 @@
 
 
 
+- 第736天 (2021.04.21)  
+    - [html] [H5的input输入框如何对齐输入占位？](https://github.com/haizlin/fe-interview/issues/3844)
+    - [css] [使用css画一个旋转的风车](https://github.com/haizlin/fe-interview/issues/3845)
+    - [js] [写一个方法根据日期获取当月有多少天](https://github.com/haizlin/fe-interview/issues/3846)
+    - [软技能] [你平时写代码时重复的工作量多吗？主要在哪些方面？](https://github.com/haizlin/fe-interview/issues/3847)
+- 第735天 (2021.04.20)  
+    - [html] [H5如何禁止动画闪屏？](https://github.com/haizlin/fe-interview/issues/3837)
+    - [css] [你喜欢用flex吗？为什么？](https://github.com/haizlin/fe-interview/issues/3838)
+    - [js] [说说你对void的理解](https://github.com/haizlin/fe-interview/issues/3839)
+    - [软技能] [你有想过做架构师吗？](https://github.com/haizlin/fe-interview/issues/3840)
+- 第734天 (2021.04.19)  
+    - [html] [H5如何禁止高亮显示？](https://github.com/haizlin/fe-interview/issues/3833)
+    - [css] [使用css写一个水滴下落的动画](https://github.com/haizlin/fe-interview/issues/3834)
+    - [js] [请问假值对象是什么？](https://github.com/haizlin/fe-interview/issues/3835)
+    - [软技能] [你认为开发人员和测试人员怎样才能做到更好的平衡？](https://github.com/haizlin/fe-interview/issues/3836)
 - 第733天 (2021.04.18)  
     - [html] [H5如何禁止旋转屏幕时的字体调整？](https://github.com/haizlin/fe-interview/issues/3829)
     - [css] [用css画一把带刻度的尺寸](https://github.com/haizlin/fe-interview/issues/3830)
