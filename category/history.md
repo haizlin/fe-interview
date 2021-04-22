@@ -2,6 +2,11 @@
 
 
 
+- 第738天 (2021.04.23)  
+    - [html] [在移动端如何解决点击前进或者后退按钮不刷新的问题？](https://github.com/haizlin/fe-interview/issues/3852)
+    - [css] [使用flex实现一行显示固定几块，强制换行且均匀分布](https://github.com/haizlin/fe-interview/issues/3853)
+    - [js] [什么是哨位值？](https://github.com/haizlin/fe-interview/issues/3854)
+    - [软技能] [现在的技术文章很多，你是如何做阅读过滤的？](https://github.com/haizlin/fe-interview/issues/3855)
 - 第737天 (2021.04.22)  
     - [html] [接口返回字段包含`\n或<br>`，如何识别文本换行？](https://github.com/haizlin/fe-interview/issues/3848)
     - [css] [使用css写一个套娃的动画](https://github.com/haizlin/fe-interview/issues/3849)
