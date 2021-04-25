@@ -26,10 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.04.23) —— 738 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在移动端如何解决点击前进或者后退按钮不刷新的问题？](https://github.com/haizlin/fe-interview/issues/3852)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用flex实现一行显示固定几块，强制换行且均匀分布](https://github.com/haizlin/fe-interview/issues/3853)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么是哨位值？](https://github.com/haizlin/fe-interview/issues/3854)  
+## :clock430: Today's Knowledge Points (2021.04.25) —— 740 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用html简单画一个里面放有笔的笔筒](https://github.com/haizlin/fe-interview/issues/3860)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说字体图标的三种方式有什么区别？（unicode/font-class/symbol）](https://github.com/haizlin/fe-interview/issues/3861)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [不安全的JSON值有哪些？](https://github.com/haizlin/fe-interview/issues/3862)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你会经常参加户外运动吗？](https://github.com/haizlin/fe-interview/issues/3863)  
  
   
 ### :camel: History
@@ -40,10 +41,11 @@
     …………  
 
 
-- 737 days (2021.04.22)  
-    	 :one: [html] [接口返回字段包含`\n或<br>`，如何识别文本换行？](https://github.com/haizlin/fe-interview/issues/3848)  
-	 :two: [css] [使用css写一个套娃的动画](https://github.com/haizlin/fe-interview/issues/3849)  
-	 :three: [js] [函数的length属性表示什么？](https://github.com/haizlin/fe-interview/issues/3850)  
+- 739 days (2021.04.24)  
+    	 :one: [html] [在H5中，如何解决长按二维码图片识别不出或者错误的问题？](https://github.com/haizlin/fe-interview/issues/3856)  
+	 :two: [css] [flex:1表示什么？](https://github.com/haizlin/fe-interview/issues/3857)  
+	 :three: [js] [什么是抽象渗漏？](https://github.com/haizlin/fe-interview/issues/3858)  
+	 :four: [skill] [你开发出的产品，你有去过第一现场看别人是怎么使用的吗？](https://github.com/haizlin/fe-interview/issues/3859)  
  
 	
 - **[All](category/history.md)**

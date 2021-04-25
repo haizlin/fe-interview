@@ -2,6 +2,16 @@
 
 
 
+- 第740天 (2021.04.25)  
+    - [html] [使用html简单画一个里面放有笔的笔筒](https://github.com/haizlin/fe-interview/issues/3860)
+    - [css] [说说字体图标的三种方式有什么区别？（unicode/font-class/symbol）](https://github.com/haizlin/fe-interview/issues/3861)
+    - [js] [不安全的JSON值有哪些？](https://github.com/haizlin/fe-interview/issues/3862)
+    - [软技能] [你会经常参加户外运动吗？](https://github.com/haizlin/fe-interview/issues/3863)
+- 第739天 (2021.04.24)  
+    - [html] [在H5中，如何解决长按二维码图片识别不出或者错误的问题？](https://github.com/haizlin/fe-interview/issues/3856)
+    - [css] [flex:1表示什么？](https://github.com/haizlin/fe-interview/issues/3857)
+    - [js] [什么是抽象渗漏？](https://github.com/haizlin/fe-interview/issues/3858)
+    - [软技能] [你开发出的产品，你有去过第一现场看别人是怎么使用的吗？](https://github.com/haizlin/fe-interview/issues/3859)
 - 第738天 (2021.04.23)  
     - [html] [在移动端如何解决点击前进或者后退按钮不刷新的问题？](https://github.com/haizlin/fe-interview/issues/3852)
     - [css] [使用flex实现一行显示固定几块，强制换行且均匀分布](https://github.com/haizlin/fe-interview/issues/3853)
