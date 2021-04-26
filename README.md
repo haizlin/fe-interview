@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.04.25) —— 第740天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用html简单画一个里面放有笔的笔筒](https://github.com/haizlin/fe-interview/issues/3860)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说字体图标的三种方式有什么区别？（unicode/font-class/symbol）](https://github.com/haizlin/fe-interview/issues/3861)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [不安全的JSON值有哪些？](https://github.com/haizlin/fe-interview/issues/3862)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你会经常参加户外运动吗？](https://github.com/haizlin/fe-interview/issues/3863)  
+## :clock430: 今天的知识点   (2021.04.27) —— 第742天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对HTML Entry的理解](https://github.com/haizlin/fe-interview/issues/3868)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何去除ios下的input框的内阴影？](https://github.com/haizlin/fe-interview/issues/3869)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法把字符串转txt文件（blob）并下载](https://github.com/haizlin/fe-interview/issues/3870)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果有一个项目要让你使用敏捷开发，你该如何做？](https://github.com/haizlin/fe-interview/issues/3871)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第739天 (2021.04.24)  
-    	 :one: [html] [在H5中，如何解决长按二维码图片识别不出或者错误的问题？](https://github.com/haizlin/fe-interview/issues/3856)  
-	 :two: [css] [flex:1表示什么？](https://github.com/haizlin/fe-interview/issues/3857)  
-	 :three: [js] [什么是抽象渗漏？](https://github.com/haizlin/fe-interview/issues/3858)  
-	 :four: [软技能] [你开发出的产品，你有去过第一现场看别人是怎么使用的吗？](https://github.com/haizlin/fe-interview/issues/3859)  
+- 第741天 (2021.04.26)  
+    	 :one: [html] [你觉得html5可以做什么有意思的事情？](https://github.com/haizlin/fe-interview/issues/3864)  
+	 :two: [css] [padding-top、padding-bottom值设置为百分比时，依据的是父级的height吗？](https://github.com/haizlin/fe-interview/issues/3865)  
+	 :three: [js] [一元运算符有哪些？](https://github.com/haizlin/fe-interview/issues/3866)  
+	 :four: [软技能] [来这面试之前，你有没有看过哪些面试题？](https://github.com/haizlin/fe-interview/issues/3867)  
  
 	
 - **[查看全部](category/history.md)**

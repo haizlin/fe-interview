@@ -2,6 +2,16 @@
 
 
 
+- 第742天 (2021.04.27)  
+    - [html] [说说你对HTML Entry的理解](https://github.com/haizlin/fe-interview/issues/3868)
+    - [css] [如何去除ios下的input框的内阴影？](https://github.com/haizlin/fe-interview/issues/3869)
+    - [js] [写一个方法把字符串转txt文件（blob）并下载](https://github.com/haizlin/fe-interview/issues/3870)
+    - [软技能] [如果有一个项目要让你使用敏捷开发，你该如何做？](https://github.com/haizlin/fe-interview/issues/3871)
+- 第741天 (2021.04.26)  
+    - [html] [你觉得html5可以做什么有意思的事情？](https://github.com/haizlin/fe-interview/issues/3864)
+    - [css] [padding-top、padding-bottom值设置为百分比时，依据的是父级的height吗？](https://github.com/haizlin/fe-interview/issues/3865)
+    - [js] [一元运算符有哪些？](https://github.com/haizlin/fe-interview/issues/3866)
+    - [软技能] [来这面试之前，你有没有看过哪些面试题？](https://github.com/haizlin/fe-interview/issues/3867)
 - 第740天 (2021.04.25)  
     - [html] [使用html简单画一个里面放有笔的笔筒](https://github.com/haizlin/fe-interview/issues/3860)
     - [css] [说说字体图标的三种方式有什么区别？（unicode/font-class/symbol）](https://github.com/haizlin/fe-interview/issues/3861)
