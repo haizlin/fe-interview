@@ -2,6 +2,11 @@
 
 
 
+- 第743天 (2021.04.28)  
+    - [html] [如何阻止页面的字体自动调整大小？](https://github.com/haizlin/fe-interview/issues/3872)
+    - [css] [使用css画一个椭圆](https://github.com/haizlin/fe-interview/issues/3873)
+    - [js] [如何深度冻结对象？度冻结对象有什么作用？](https://github.com/haizlin/fe-interview/issues/3874)
+    - [软技能] [你开发的web站点有处理网络断开的机制吗？](https://github.com/haizlin/fe-interview/issues/3875)
 - 第742天 (2021.04.27)  
     - [html] [说说你对HTML Entry的理解](https://github.com/haizlin/fe-interview/issues/3868)
     - [css] [如何去除ios下的input框的内阴影？](https://github.com/haizlin/fe-interview/issues/3869)
