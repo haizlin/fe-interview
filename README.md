@@ -26,11 +26,10 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.04.28) —— 第743天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何阻止页面的字体自动调整大小？](https://github.com/haizlin/fe-interview/issues/3872)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画一个椭圆](https://github.com/haizlin/fe-interview/issues/3873)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何深度冻结对象？度冻结对象有什么作用？](https://github.com/haizlin/fe-interview/issues/3874)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你开发的web站点有处理网络断开的机制吗？](https://github.com/haizlin/fe-interview/issues/3875)  
+## :clock430: 今天的知识点   (2021.04.30) —— 第745天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何显示上传文件的进度？](https://github.com/haizlin/fe-interview/issues/3880)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写一个小球上下跳动的动画](https://github.com/haizlin/fe-interview/issues/3881)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下什么是js的装箱和拆箱？](https://github.com/haizlin/fe-interview/issues/3882)  
  
   
 ### :camel: 历史题目
@@ -42,11 +41,10 @@
     …………  
 
 
-- 第742天 (2021.04.27)  
-    	 :one: [html] [说说你对HTML Entry的理解](https://github.com/haizlin/fe-interview/issues/3868)  
-	 :two: [css] [如何去除ios下的input框的内阴影？](https://github.com/haizlin/fe-interview/issues/3869)  
-	 :three: [js] [写一个方法把字符串转txt文件（blob）并下载](https://github.com/haizlin/fe-interview/issues/3870)  
-	 :four: [软技能] [如果有一个项目要让你使用敏捷开发，你该如何做？](https://github.com/haizlin/fe-interview/issues/3871)  
+- 第744天 (2021.04.29)  
+    	 :one: [html] [如何实现目录的上传？](https://github.com/haizlin/fe-interview/issues/3876)  
+	 :two: [css] [对非可点击元素如(span)的click事件在有些手机上不触发如何解决？](https://github.com/haizlin/fe-interview/issues/3877)  
+	 :three: [js] [~~和Math.floor有什么区别？](https://github.com/haizlin/fe-interview/issues/3878)  
  
 	
 - **[查看全部](category/history.md)**
