@@ -26,10 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.04.30) —— 第745天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何显示上传文件的进度？](https://github.com/haizlin/fe-interview/issues/3880)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写一个小球上下跳动的动画](https://github.com/haizlin/fe-interview/issues/3881)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下什么是js的装箱和拆箱？](https://github.com/haizlin/fe-interview/issues/3882)  
+## :clock430: 今天的知识点   (2021.05.04) —— 第749天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个点击从左侧滑出的布局](https://github.com/haizlin/fe-interview/issues/3897)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使用position:relative内的absolute元素水平和垂直居中？](https://github.com/haizlin/fe-interview/issues/3898)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，点击任意除弹窗外的位置关闭当前弹窗](https://github.com/haizlin/fe-interview/issues/3899)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [作为管理，你招聘前端的标准是什么？](https://github.com/haizlin/fe-interview/issues/3900)  
  
   
 ### :camel: 历史题目
@@ -41,10 +42,11 @@
     …………  
 
 
-- 第744天 (2021.04.29)  
-    	 :one: [html] [如何实现目录的上传？](https://github.com/haizlin/fe-interview/issues/3876)  
-	 :two: [css] [对非可点击元素如(span)的click事件在有些手机上不触发如何解决？](https://github.com/haizlin/fe-interview/issues/3877)  
-	 :three: [js] [~~和Math.floor有什么区别？](https://github.com/haizlin/fe-interview/issues/3878)  
+- 第748天 (2021.05.03)  
+    	 :one: [html] [一个页面你觉得有多少种颜色搭配比较合理？为什么？](https://github.com/haizlin/fe-interview/issues/3893)  
+	 :two: [css] [画一只飞行中的小鸟](https://github.com/haizlin/fe-interview/issues/3894)  
+	 :three: [js] [请解释下`1<2<3 和3>2>1`的运算结果和思路](https://github.com/haizlin/fe-interview/issues/3895)  
+	 :four: [软技能] [你有经常和同事们组织户外活动吗？比如爬山，游泳等](https://github.com/haizlin/fe-interview/issues/3896)  
  
 	
 - **[查看全部](category/history.md)**
