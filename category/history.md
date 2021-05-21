@@ -2,6 +2,21 @@
 
 
 
+- 第767天 (2021.05.22)  
+    - [html] [畅想下HTML6](https://github.com/haizlin/fe-interview/issues/3978)
+    - [css] [实现一个动态的星空特效](https://github.com/haizlin/fe-interview/issues/3979)
+    - [js] [你有使用过scrollIntoView这个方法吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3980)
+    - [软技能] [做为前端开发，你有尝试过哪些深度思考？](https://github.com/haizlin/fe-interview/issues/3981)
+- 第766天 (2021.05.21)  
+    - [html] [使用html画一个热气球](https://github.com/haizlin/fe-interview/issues/3974)
+    - [css] [使用纯CSS实现多行文本展开收起效果](https://github.com/haizlin/fe-interview/issues/3975)
+    - [js] [你有了解过javaScript Debugger的原理吗？](https://github.com/haizlin/fe-interview/issues/3976)
+    - [软技能] [你如何看待一句话需求？如何应对一句话需求？](https://github.com/haizlin/fe-interview/issues/3977)
+- 第765天 (2021.05.20)  
+    - [html] [写出一个可滚动的区域，但要隐藏滚动条](https://github.com/haizlin/fe-interview/issues/3970)
+    - [css] [说说在Grid布局中grid-template-columns与grid-template-row中auto的解释](https://github.com/haizlin/fe-interview/issues/3971)
+    - [js] [require如何同步加载模块？](https://github.com/haizlin/fe-interview/issues/3972)
+    - [软技能] [你有使用过HBuilder吗？你喜欢它还是vs code？为什么？](https://github.com/haizlin/fe-interview/issues/3973)
 - 第764天 (2021.05.19)  
     - [html] [使用html画一颗爱情树的布局](https://github.com/haizlin/fe-interview/issues/3966)
     - [css] [你有使用过grid-template-columns属性吗？说说它的用途](https://github.com/haizlin/fe-interview/issues/3967)
