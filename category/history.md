@@ -2,6 +2,11 @@
 
 
 
+- 第784天 (2021.06.08)  
+    - [html] [制作一个吊扇的布局](https://github.com/haizlin/fe-interview/issues/4050)
+    - [css] [使用CSS3写一个图片左右切换的弹性动画](https://github.com/haizlin/fe-interview/issues/4051)
+    - [js] [元编程的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/4052)
+    - [软技能] [作为一个前端工程师如何才能做到不焦虑？](https://github.com/haizlin/fe-interview/issues/4053)
 - 第783天 (2021.06.07)  
     - [html] [使用Canvas画出头发飘逸的动画](https://github.com/haizlin/fe-interview/issues/4046)
     - [css] [写一个风扇的动画](https://github.com/haizlin/fe-interview/issues/4047)
