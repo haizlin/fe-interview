@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.06.03) —— 第779天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在html页面如何引入另外一个html页面？有哪些方法？](https://github.com/haizlin/fe-interview/issues/4030)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用纯CSS3实现圆圈加载的动画](https://github.com/haizlin/fe-interview/issues/4031)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，间隙调换数组的元素的位置，如[1,2,3,4]换成[2,1,4,3]](https://github.com/haizlin/fe-interview/issues/4032)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [在工作中你有过焦虑吗？如何解决的？](https://github.com/haizlin/fe-interview/issues/4033)  
+## :clock430: 今天的知识点   (2021.06.07) —— 第783天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用Canvas画出头发飘逸的动画](https://github.com/haizlin/fe-interview/issues/4046)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写一个风扇的动画](https://github.com/haizlin/fe-interview/issues/4047)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个在移动端长按删除的方法](https://github.com/haizlin/fe-interview/issues/4048)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你了解后端的知识体系吗？说说看](https://github.com/haizlin/fe-interview/issues/4049)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第778天 (2021.06.02)  
-    	 :one: [html] [如果要在页面上放一个广告位，你是如何考虑的？](https://github.com/haizlin/fe-interview/issues/4026)  
-	 :two: [css] [你用css写过最酷的特效是什么？](https://github.com/haizlin/fe-interview/issues/4027)  
-	 :three: [js] [写一个方法将数组分割成等长数组](https://github.com/haizlin/fe-interview/issues/4028)  
-	 :four: [软技能] [你有写过从mysql中读取数据吗？](https://github.com/haizlin/fe-interview/issues/4029)  
+- 第782天 (2021.06.06)  
+    	 :one: [html] [画一个显示器的布局](https://github.com/haizlin/fe-interview/issues/4042)  
+	 :two: [css] [CSS的auto是什么意思？](https://github.com/haizlin/fe-interview/issues/4043)  
+	 :three: [js] [当页面刷新时，JS请求哪些地方有缓存处理？](https://github.com/haizlin/fe-interview/issues/4044)  
+	 :four: [软技能] [公司接了个项目，当甲方需求不明确你该怎么办？](https://github.com/haizlin/fe-interview/issues/4045)  
  
 	
 - **[查看全部](category/history.md)**
