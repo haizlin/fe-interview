@@ -2,6 +2,11 @@
 
 
 
+- 第785天 (2021.06.09)  
+    - [html] [使用HTML5制作一个螺旋的动画特效](https://github.com/haizlin/fe-interview/issues/4054)
+    - [css] [使用纯CSS3实现大象走路的动画](https://github.com/haizlin/fe-interview/issues/4055)
+    - [js] [写一个方法将多个对象进行合并](https://github.com/haizlin/fe-interview/issues/4056)
+    - [软技能] [你你说对成长的理解](https://github.com/haizlin/fe-interview/issues/4057)
 - 第784天 (2021.06.08)  
     - [html] [制作一个吊扇的布局](https://github.com/haizlin/fe-interview/issues/4050)
     - [css] [使用CSS3写一个图片左右切换的弹性动画](https://github.com/haizlin/fe-interview/issues/4051)
