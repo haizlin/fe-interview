@@ -2,6 +2,11 @@
 
 
 
+- 第786天 (2021.06.10)  
+    - [html] [如何使用HTML5打造本地桌面应用？](https://github.com/haizlin/fe-interview/issues/4058)
+    - [css] [使用Canvas制作一个火焰跟随鼠标的动画](https://github.com/haizlin/fe-interview/issues/4059)
+    - [js] [实现一个数组的push方法](https://github.com/haizlin/fe-interview/issues/4060)
+    - [软技能] [什么是彩色字体？](https://github.com/haizlin/fe-interview/issues/4061)
 - 第785天 (2021.06.09)  
     - [html] [使用HTML5制作一个螺旋的动画特效](https://github.com/haizlin/fe-interview/issues/4054)
     - [css] [使用纯CSS3实现大象走路的动画](https://github.com/haizlin/fe-interview/issues/4055)

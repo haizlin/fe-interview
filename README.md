@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.06.09) —— 第785天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个螺旋的动画特效](https://github.com/haizlin/fe-interview/issues/4054)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用纯CSS3实现大象走路的动画](https://github.com/haizlin/fe-interview/issues/4055)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将多个对象进行合并](https://github.com/haizlin/fe-interview/issues/4056)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你你说对成长的理解](https://github.com/haizlin/fe-interview/issues/4057)  
+## :clock430: 今天的知识点   (2021.06.10) —— 第786天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用HTML5打造本地桌面应用？](https://github.com/haizlin/fe-interview/issues/4058)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用Canvas制作一个火焰跟随鼠标的动画](https://github.com/haizlin/fe-interview/issues/4059)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [实现一个数组的push方法](https://github.com/haizlin/fe-interview/issues/4060)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [什么是彩色字体？](https://github.com/haizlin/fe-interview/issues/4061)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第784天 (2021.06.08)  
-    	 :one: [html] [制作一个吊扇的布局](https://github.com/haizlin/fe-interview/issues/4050)  
-	 :two: [css] [使用CSS3写一个图片左右切换的弹性动画](https://github.com/haizlin/fe-interview/issues/4051)  
-	 :three: [js] [元编程的应用场景有哪些？](https://github.com/haizlin/fe-interview/issues/4052)  
-	 :four: [软技能] [作为一个前端工程师如何才能做到不焦虑？](https://github.com/haizlin/fe-interview/issues/4053)  
+- 第785天 (2021.06.09)  
+    	 :one: [html] [使用HTML5制作一个螺旋的动画特效](https://github.com/haizlin/fe-interview/issues/4054)  
+	 :two: [css] [使用纯CSS3实现大象走路的动画](https://github.com/haizlin/fe-interview/issues/4055)  
+	 :three: [js] [写一个方法将多个对象进行合并](https://github.com/haizlin/fe-interview/issues/4056)  
+	 :four: [软技能] [你你说对成长的理解](https://github.com/haizlin/fe-interview/issues/4057)  
  
 	
 - **[查看全部](category/history.md)**
