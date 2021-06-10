@@ -2,6 +2,11 @@
 
 
 
+- 第787天 (2021.06.11)  
+    - [html] [画一只小猫的布局](https://github.com/haizlin/fe-interview/issues/4062)
+    - [css] [使用纯CSS制作一个右上角倾斜四十五度封页角效果](https://github.com/haizlin/fe-interview/issues/4063)
+    - [js] [实现一个数组的pop方法](https://github.com/haizlin/fe-interview/issues/4064)
+    - [软技能] [支持彩色字体有哪些格式？](https://github.com/haizlin/fe-interview/issues/4065)
 - 第786天 (2021.06.10)  
     - [html] [如何使用HTML5打造本地桌面应用？](https://github.com/haizlin/fe-interview/issues/4058)
     - [css] [使用Canvas制作一个火焰跟随鼠标的动画](https://github.com/haizlin/fe-interview/issues/4059)
