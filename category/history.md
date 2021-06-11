@@ -2,6 +2,11 @@
 
 
 
+- 第788天 (2021.06.12)  
+    - [html] [使用canvas制作一个圆形进度条 ](https://github.com/haizlin/fe-interview/issues/4066)
+    - [css] [纯CSS实现一个梅花图案](https://github.com/haizlin/fe-interview/issues/4067)
+    - [js] [写一个上传裁剪图片的功能](https://github.com/haizlin/fe-interview/issues/4068)
+    - [软技能] [长这么大，说说对你有影响的经历有哪些？](https://github.com/haizlin/fe-interview/issues/4069)
 - 第787天 (2021.06.11)  
     - [html] [画一只小猫的布局](https://github.com/haizlin/fe-interview/issues/4062)
     - [css] [使用纯CSS制作一个右上角倾斜四十五度封页角效果](https://github.com/haizlin/fe-interview/issues/4063)

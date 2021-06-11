@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.06.11) —— 第787天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [画一只小猫的布局](https://github.com/haizlin/fe-interview/issues/4062)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用纯CSS制作一个右上角倾斜四十五度封页角效果](https://github.com/haizlin/fe-interview/issues/4063)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [实现一个数组的pop方法](https://github.com/haizlin/fe-interview/issues/4064)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [支持彩色字体有哪些格式？](https://github.com/haizlin/fe-interview/issues/4065)  
+## :clock430: 今天的知识点   (2021.06.12) —— 第788天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个圆形进度条 ](https://github.com/haizlin/fe-interview/issues/4066)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [纯CSS实现一个梅花图案](https://github.com/haizlin/fe-interview/issues/4067)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个上传裁剪图片的功能](https://github.com/haizlin/fe-interview/issues/4068)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [长这么大，说说对你有影响的经历有哪些？](https://github.com/haizlin/fe-interview/issues/4069)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第786天 (2021.06.10)  
-    	 :one: [html] [如何使用HTML5打造本地桌面应用？](https://github.com/haizlin/fe-interview/issues/4058)  
-	 :two: [css] [使用Canvas制作一个火焰跟随鼠标的动画](https://github.com/haizlin/fe-interview/issues/4059)  
-	 :three: [js] [实现一个数组的push方法](https://github.com/haizlin/fe-interview/issues/4060)  
-	 :four: [软技能] [什么是彩色字体？](https://github.com/haizlin/fe-interview/issues/4061)  
+- 第787天 (2021.06.11)  
+    	 :one: [html] [画一只小猫的布局](https://github.com/haizlin/fe-interview/issues/4062)  
+	 :two: [css] [使用纯CSS制作一个右上角倾斜四十五度封页角效果](https://github.com/haizlin/fe-interview/issues/4063)  
+	 :three: [js] [实现一个数组的pop方法](https://github.com/haizlin/fe-interview/issues/4064)  
+	 :four: [软技能] [支持彩色字体有哪些格式？](https://github.com/haizlin/fe-interview/issues/4065)  
  
 	
 - **[查看全部](category/history.md)**
