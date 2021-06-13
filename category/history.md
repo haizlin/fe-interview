@@ -2,6 +2,16 @@
 
 
 
+- 第790天 (2021.06.14)  
+    - [html] [写一个大转盘抽奖的交互](https://github.com/haizlin/fe-interview/issues/4074)
+    - [css] [使用CSS3制作立体式3D旋转的动画效果](https://github.com/haizlin/fe-interview/issues/4075)
+    - [js] [写一个计算页面可视化范围的方法](https://github.com/haizlin/fe-interview/issues/4076)
+    - [软技能] [页面写好了，接口还没好你该怎么办？](https://github.com/haizlin/fe-interview/issues/4077)
+- 第789天 (2021.06.13)  
+    - [html] [html5制作仪器圆表盘转动动画效果](https://github.com/haizlin/fe-interview/issues/4070)
+    - [css] [使用CSS3模拟太阳、地球、月球旋转的特效](https://github.com/haizlin/fe-interview/issues/4071)
+    - [js] [使用js写一个数字动态累加的方法](https://github.com/haizlin/fe-interview/issues/4072)
+    - [软技能] [当你的工作被上级质疑时，你该怎么办？](https://github.com/haizlin/fe-interview/issues/4073)
 - 第788天 (2021.06.12)  
     - [html] [使用canvas制作一个圆形进度条 ](https://github.com/haizlin/fe-interview/issues/4066)
     - [css] [纯CSS实现一个梅花图案](https://github.com/haizlin/fe-interview/issues/4067)

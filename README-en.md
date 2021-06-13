@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.06.12) —— 788 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个圆形进度条 ](https://github.com/haizlin/fe-interview/issues/4066)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [纯CSS实现一个梅花图案](https://github.com/haizlin/fe-interview/issues/4067)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个上传裁剪图片的功能](https://github.com/haizlin/fe-interview/issues/4068)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [长这么大，说说对你有影响的经历有哪些？](https://github.com/haizlin/fe-interview/issues/4069)  
+## :clock430: Today's Knowledge Points (2021.06.14) —— 790 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个大转盘抽奖的交互](https://github.com/haizlin/fe-interview/issues/4074)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3制作立体式3D旋转的动画效果](https://github.com/haizlin/fe-interview/issues/4075)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个计算页面可视化范围的方法](https://github.com/haizlin/fe-interview/issues/4076)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [页面写好了，接口还没好你该怎么办？](https://github.com/haizlin/fe-interview/issues/4077)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 787 days (2021.06.11)  
-    	 :one: [html] [画一只小猫的布局](https://github.com/haizlin/fe-interview/issues/4062)  
-	 :two: [css] [使用纯CSS制作一个右上角倾斜四十五度封页角效果](https://github.com/haizlin/fe-interview/issues/4063)  
-	 :three: [js] [实现一个数组的pop方法](https://github.com/haizlin/fe-interview/issues/4064)  
-	 :four: [skill] [支持彩色字体有哪些格式？](https://github.com/haizlin/fe-interview/issues/4065)  
+- 789 days (2021.06.13)  
+    	 :one: [html] [html5制作仪器圆表盘转动动画效果](https://github.com/haizlin/fe-interview/issues/4070)  
+	 :two: [css] [使用CSS3模拟太阳、地球、月球旋转的特效](https://github.com/haizlin/fe-interview/issues/4071)  
+	 :three: [js] [使用js写一个数字动态累加的方法](https://github.com/haizlin/fe-interview/issues/4072)  
+	 :four: [skill] [当你的工作被上级质疑时，你该怎么办？](https://github.com/haizlin/fe-interview/issues/4073)  
  
 	
 - **[All](category/history.md)**
