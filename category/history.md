@@ -2,6 +2,11 @@
 
 
 
+- 第791天 (2021.06.15)  
+    - [html] [写一个移动端悬浮框效果](https://github.com/haizlin/fe-interview/issues/4078)
+    - [css] [使用SVG+CSS3制作一个圆形倒计时滚动条效果](https://github.com/haizlin/fe-interview/issues/4079)
+    - [js] [判断`Number.MIN_VALUE > 0`的结果](https://github.com/haizlin/fe-interview/issues/4080)
+    - [软技能] [你是如何看待自由职业的？](https://github.com/haizlin/fe-interview/issues/4081)
 - 第790天 (2021.06.14)  
     - [html] [写一个大转盘抽奖的交互](https://github.com/haizlin/fe-interview/issues/4074)
     - [css] [使用CSS3制作立体式3D旋转的动画效果](https://github.com/haizlin/fe-interview/issues/4075)
