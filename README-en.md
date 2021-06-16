@@ -26,9 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.06.15) —— 791 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个移动端悬浮框效果](https://github.com/haizlin/fe-interview/issues/4078)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用SVG+CSS3制作一个圆形倒计时滚动条效果](https://github.com/haizlin/fe-interview/issues/4079)  
+## :clock430: Today's Knowledge Points (2021.06.16) —— 792 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个可以旋转的太极图案交互特效](https://github.com/haizlin/fe-interview/issues/4082)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现图片放大镜动画效果](https://github.com/haizlin/fe-interview/issues/4083)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请描述下js中click和onclick的区别？](https://github.com/haizlin/fe-interview/issues/4084)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有远程办公的经历吗？说说看](https://github.com/haizlin/fe-interview/issues/4085)  
  
   
 ### :camel: History
@@ -39,9 +41,11 @@
     …………  
 
 
-- 790 days (2021.06.14)  
-    	 :one: [html] [写一个大转盘抽奖的交互](https://github.com/haizlin/fe-interview/issues/4074)  
-	 :two: [css] [使用CSS3制作立体式3D旋转的动画效果](https://github.com/haizlin/fe-interview/issues/4075)  
+- 791 days (2021.06.15)  
+    	 :one: [html] [写一个移动端悬浮框效果](https://github.com/haizlin/fe-interview/issues/4078)  
+	 :two: [css] [使用SVG+CSS3制作一个圆形倒计时滚动条效果](https://github.com/haizlin/fe-interview/issues/4079)  
+	 :three: [js] [判断`Number.MIN_VALUE > 0`的结果](https://github.com/haizlin/fe-interview/issues/4080)  
+	 :four: [skill] [你是如何看待自由职业的？](https://github.com/haizlin/fe-interview/issues/4081)  
  
 	
 - **[All](category/history.md)**
