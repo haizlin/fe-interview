@@ -15,22 +15,20 @@
     Think hard - do more - summarize - insist
 </p>
 
-> :star: This is a free and open source project involving the front-end knowledge database * * the most (5000 +), the most complete * *, and the largest number of participants!
+> :star: This is a free and open source project involving the front-end knowledge database * * the most (3000 +), the most complete * *, and the largest number of participants!
 
 :hash: [I'm going to set a question](http://www.h-camel.com/contribution.html) 
 
-| :bulb: Base | [HTML 800+](category/html.md) | [CSS 800+](category/css.md) | [JS 800+](category/js.md) | [Skill 800+](category/skill.md) |  | | | 
+| :bulb: Base | [HTML 700+](category/html.md) | [CSS 700+](category/css.md) | [JS 700+](category/js.md) | [Skill 700+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: Special | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [wxapp](lib/wxapp.md) | 
 | :hammer: Tool | [webpack 13+](tools/webpack.md) | 
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.06.16) —— 792 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个可以旋转的太极图案交互特效](https://github.com/haizlin/fe-interview/issues/4082)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现图片放大镜动画效果](https://github.com/haizlin/fe-interview/issues/4083)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请描述下js中click和onclick的区别？](https://github.com/haizlin/fe-interview/issues/4084)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有远程办公的经历吗？说说看](https://github.com/haizlin/fe-interview/issues/4085)  
+## :clock430: Today's Knowledge Points (2021.06.17) —— 793 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个模拟微信拆红包摇晃的动画效果](https://github.com/haizlin/fe-interview/issues/4086)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现全屏颗粒的动画效果](https://github.com/haizlin/fe-interview/issues/4087)  
  
   
 ### :camel: History
@@ -41,11 +39,9 @@
     …………  
 
 
-- 791 days (2021.06.15)  
-    	 :one: [html] [写一个移动端悬浮框效果](https://github.com/haizlin/fe-interview/issues/4078)  
-	 :two: [css] [使用SVG+CSS3制作一个圆形倒计时滚动条效果](https://github.com/haizlin/fe-interview/issues/4079)  
-	 :three: [js] [判断`Number.MIN_VALUE > 0`的结果](https://github.com/haizlin/fe-interview/issues/4080)  
-	 :four: [skill] [你是如何看待自由职业的？](https://github.com/haizlin/fe-interview/issues/4081)  
+- 792 days (2021.06.16)  
+    	 :one: [html] [使用HTML5制作一个可以旋转的太极图案交互特效](https://github.com/haizlin/fe-interview/issues/4082)  
+	 :two: [css] [使用CSS3实现图片放大镜动画效果](https://github.com/haizlin/fe-interview/issues/4083)  
  
 	
 - **[All](category/history.md)**
@@ -77,7 +73,7 @@ Welcome to discuss, if you feel that it is helpful to your study, please click [
 - After you don't understand Baidu's title, don't copy a large paragraph directly, you should summarize it in your own words concisely.
 
 ### :palm_tree: Source
-- [CSDN](https://blog.csdn.net/u013778905) | [juejin](https://juejin.im/user/5b5ff865f265da0f6b771800/posts) | [zhihu](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [jianshu](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault](https://segmentfault.com/blog/frontend-interview) | [weibo](https://weibo.com/haizlin) | [- [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
+- [CSDN](https://blog.csdn.net/u013778905) | [juejin](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [zhihu](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [jianshu](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault](https://segmentfault.com/blog/frontend-interview) | [weibo](https://weibo.com/haizlin) | [- [toutiao](https://toutiao.io/subjects/359261)（Daily Synchronized Updates）
 ](https://toutiao.io/subjects/359261) | [kancloud](https://www.kancloud.cn/aya001001/fe-interview) | - [qianduanjianjie] wechat（Scan QR code，Daily Synchronized Updates）
 
 ### :fire: Events

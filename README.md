@@ -15,22 +15,20 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（5000+）、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（4000+）、最全**，参与人数最多的免费开源项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 800+](category/html.md) | [CSS 800+](category/css.md) | [JS 800+](category/js.md) | [软技能 800+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 700+](category/html.md) | [CSS 700+](category/css.md) | [JS 700+](category/js.md) | [软技能 700+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.06.16) —— 第792天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个可以旋转的太极图案交互特效](https://github.com/haizlin/fe-interview/issues/4082)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现图片放大镜动画效果](https://github.com/haizlin/fe-interview/issues/4083)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请描述下js中click和onclick的区别？](https://github.com/haizlin/fe-interview/issues/4084)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有远程办公的经历吗？说说看](https://github.com/haizlin/fe-interview/issues/4085)  
+## :clock430: 今天的知识点   (2021.06.17) —— 第793天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个模拟微信拆红包摇晃的动画效果](https://github.com/haizlin/fe-interview/issues/4086)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现全屏颗粒的动画效果](https://github.com/haizlin/fe-interview/issues/4087)  
  
   
 ### :camel: 历史题目
@@ -42,11 +40,9 @@
     …………  
 
 
-- 第791天 (2021.06.15)  
-    	 :one: [html] [写一个移动端悬浮框效果](https://github.com/haizlin/fe-interview/issues/4078)  
-	 :two: [css] [使用SVG+CSS3制作一个圆形倒计时滚动条效果](https://github.com/haizlin/fe-interview/issues/4079)  
-	 :three: [js] [判断`Number.MIN_VALUE > 0`的结果](https://github.com/haizlin/fe-interview/issues/4080)  
-	 :four: [软技能] [你是如何看待自由职业的？](https://github.com/haizlin/fe-interview/issues/4081)  
+- 第792天 (2021.06.16)  
+    	 :one: [html] [使用HTML5制作一个可以旋转的太极图案交互特效](https://github.com/haizlin/fe-interview/issues/4082)  
+	 :two: [css] [使用CSS3实现图片放大镜动画效果](https://github.com/haizlin/fe-interview/issues/4083)  
  
 	
 - **[查看全部](category/history.md)**
@@ -77,7 +73,7 @@
 - 不懂的题百度学习后，不要直接复制一大段过来，要用自己的话精简地总结概括出来
 
 ### :palm_tree: 同步更新
-- [前端向朔-CSDN](https://blog.csdn.net/u013778905) | [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771800/posts) | [知乎专栏](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [简书专栏](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault专栏](https://segmentfault.com/blog/frontend-interview) | [新浪微博](https://weibo.com/haizlin) | [开发者头条专栏](https://toutiao.io/subjects/359261) | [看云](https://www.kancloud.cn/aya001001/fe-interview) | 前端剑解(扫码关注)
+- [前端向朔-CSDN](https://blog.csdn.net/u013778905) | [掘金专栏](https://juejin.im/user/5b5ff865f265da0f6b771700/posts) | [知乎专栏](https://zhuanlan.zhihu.com/fe-interview) | [Github](https://github.com/haizlin/fe-interview) | [Gitee](https://gitee.com/haizhilin/fe-interview) | [简书专栏](https://www.jianshu.com/c/1ba24fbe0006) | [segmentfault专栏](https://segmentfault.com/blog/frontend-interview) | [新浪微博](https://weibo.com/haizlin) | [开发者头条专栏](https://toutiao.io/subjects/359261) | [看云](https://www.kancloud.cn/aya001001/fe-interview) | 前端剑解(扫码关注)
 
 ### :fire: 重大事件
 * [查看更多](./resource/md/event.md)

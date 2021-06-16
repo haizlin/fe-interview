@@ -2,6 +2,11 @@
 
 
 
+- 第793天 (2021.06.17)  
+    - [html] [写一个模拟微信拆红包摇晃的动画效果](https://github.com/haizlin/fe-interview/issues/4086)
+    - [css] [使用CSS3实现全屏颗粒的动画效果](https://github.com/haizlin/fe-interview/issues/4087)
+    - [js] [写一个方法反转给定的字符串](https://github.com/haizlin/fe-interview/issues/4088)
+    - [软技能] [远程办公如何提高工作效率？](https://github.com/haizlin/fe-interview/issues/4089)
 - 第792天 (2021.06.16)  
     - [html] [使用HTML5制作一个可以旋转的太极图案交互特效](https://github.com/haizlin/fe-interview/issues/4082)
     - [css] [使用CSS3实现图片放大镜动画效果](https://github.com/haizlin/fe-interview/issues/4083)
