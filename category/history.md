@@ -2,6 +2,11 @@
 
 
 
+- 第792天 (2021.06.16)  
+    - [html] [使用HTML5制作一个可以旋转的太极图案交互特效](https://github.com/haizlin/fe-interview/issues/4082)
+    - [css] [使用CSS3实现图片放大镜动画效果](https://github.com/haizlin/fe-interview/issues/4083)
+    - [js] [请描述下js中click和onclick的区别？](https://github.com/haizlin/fe-interview/issues/4084)
+    - [软技能] [你有远程办公的经历吗？说说看](https://github.com/haizlin/fe-interview/issues/4085)
 - 第791天 (2021.06.15)  
     - [html] [写一个移动端悬浮框效果](https://github.com/haizlin/fe-interview/issues/4078)
     - [css] [使用SVG+CSS3制作一个圆形倒计时滚动条效果](https://github.com/haizlin/fe-interview/issues/4079)
