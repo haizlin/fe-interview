@@ -26,9 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.06.17) —— 793 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个模拟微信拆红包摇晃的动画效果](https://github.com/haizlin/fe-interview/issues/4086)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现全屏颗粒的动画效果](https://github.com/haizlin/fe-interview/issues/4087)  
+## :clock430: Today's Knowledge Points (2021.06.18) —— 794 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用html5模拟鲨鱼动画效果](https://github.com/haizlin/fe-interview/issues/4090)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现模拟扑克牌切换的效果](https://github.com/haizlin/fe-interview/issues/4091)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [手写一个base64编码的方法](https://github.com/haizlin/fe-interview/issues/4092)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对md5的理解](https://github.com/haizlin/fe-interview/issues/4093)  
  
   
 ### :camel: History
@@ -39,9 +41,11 @@
     …………  
 
 
-- 792 days (2021.06.16)  
-    	 :one: [html] [使用HTML5制作一个可以旋转的太极图案交互特效](https://github.com/haizlin/fe-interview/issues/4082)  
-	 :two: [css] [使用CSS3实现图片放大镜动画效果](https://github.com/haizlin/fe-interview/issues/4083)  
+- 793 days (2021.06.17)  
+    	 :one: [html] [写一个模拟微信拆红包摇晃的动画效果](https://github.com/haizlin/fe-interview/issues/4086)  
+	 :two: [css] [使用CSS3实现全屏颗粒的动画效果](https://github.com/haizlin/fe-interview/issues/4087)  
+	 :three: [js] [写一个方法反转给定的字符串](https://github.com/haizlin/fe-interview/issues/4088)  
+	 :four: [skill] [远程办公如何提高工作效率？](https://github.com/haizlin/fe-interview/issues/4089)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第794天 (2021.06.18)  
+    - [html] [使用html5模拟鲨鱼动画效果](https://github.com/haizlin/fe-interview/issues/4090)
+    - [css] [使用CSS3实现模拟扑克牌切换的效果](https://github.com/haizlin/fe-interview/issues/4091)
+    - [js] [手写一个base64编码的方法](https://github.com/haizlin/fe-interview/issues/4092)
+    - [软技能] [说说你对md5的理解](https://github.com/haizlin/fe-interview/issues/4093)
 - 第793天 (2021.06.17)  
     - [html] [写一个模拟微信拆红包摇晃的动画效果](https://github.com/haizlin/fe-interview/issues/4086)
     - [css] [使用CSS3实现全屏颗粒的动画效果](https://github.com/haizlin/fe-interview/issues/4087)
