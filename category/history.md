@@ -2,6 +2,11 @@
 
 
 
+- 第795天 (2021.06.19)  
+    - [html] [使用canvas画一个灰太狼的图案](https://github.com/haizlin/fe-interview/issues/4094)
+    - [css] [使用CSS3实现立体图片旋转的特效](https://github.com/haizlin/fe-interview/issues/4095)
+    - [js] [手写一个base64解码的方法](https://github.com/haizlin/fe-interview/issues/4096)
+    - [软技能] [说说你对Hash加密的理解](https://github.com/haizlin/fe-interview/issues/4097)
 - 第794天 (2021.06.18)  
     - [html] [使用html5模拟鲨鱼动画效果](https://github.com/haizlin/fe-interview/issues/4090)
     - [css] [使用CSS3实现模拟扑克牌切换的效果](https://github.com/haizlin/fe-interview/issues/4091)
