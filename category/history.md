@@ -2,6 +2,11 @@
 
 
 
+- 第796天 (2021.06.20)  
+    - [html] [使用canvas画一个喜洋洋的图案](https://github.com/haizlin/fe-interview/issues/4098)
+    - [css] [使用CSS3实现模拟雷达波向外发散的动画效果](https://github.com/haizlin/fe-interview/issues/4099)
+    - [js] [什么是负无穷大？](https://github.com/haizlin/fe-interview/issues/4100)
+    - [软技能] [说说你对家庭和谐的理解](https://github.com/haizlin/fe-interview/issues/4101)
 - 第795天 (2021.06.19)  
     - [html] [使用canvas画一个灰太狼的图案](https://github.com/haizlin/fe-interview/issues/4094)
     - [css] [使用CSS3实现立体图片旋转的特效](https://github.com/haizlin/fe-interview/issues/4095)

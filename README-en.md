@@ -26,9 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.06.19) —— 795 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个灰太狼的图案](https://github.com/haizlin/fe-interview/issues/4094)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现立体图片旋转的特效](https://github.com/haizlin/fe-interview/issues/4095)  
+## :clock430: Today's Knowledge Points (2021.06.20) —— 796 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个喜洋洋的图案](https://github.com/haizlin/fe-interview/issues/4098)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现模拟雷达波向外发散的动画效果](https://github.com/haizlin/fe-interview/issues/4099)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么是负无穷大？](https://github.com/haizlin/fe-interview/issues/4100)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对家庭和谐的理解](https://github.com/haizlin/fe-interview/issues/4101)  
  
   
 ### :camel: History
@@ -39,9 +41,11 @@
     …………  
 
 
-- 794 days (2021.06.18)  
-    	 :one: [html] [使用html5模拟鲨鱼动画效果](https://github.com/haizlin/fe-interview/issues/4090)  
-	 :two: [css] [使用CSS3实现模拟扑克牌切换的效果](https://github.com/haizlin/fe-interview/issues/4091)  
+- 795 days (2021.06.19)  
+    	 :one: [html] [使用canvas画一个灰太狼的图案](https://github.com/haizlin/fe-interview/issues/4094)  
+	 :two: [css] [使用CSS3实现立体图片旋转的特效](https://github.com/haizlin/fe-interview/issues/4095)  
+	 :three: [js] [手写一个base64解码的方法](https://github.com/haizlin/fe-interview/issues/4096)  
+	 :four: [skill] [说说你对Hash加密的理解](https://github.com/haizlin/fe-interview/issues/4097)  
  
 	
 - **[All](category/history.md)**
