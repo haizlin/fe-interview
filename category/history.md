@@ -2,6 +2,16 @@
 
 
 
+- 第799天 (2021.06.23)  
+    - [html] [使用canvas实现一个贪吃蛇小游戏](https://github.com/haizlin/fe-interview/issues/4110)
+    - [css] [使用CSS3实现照片左右飞入滑出切换](https://github.com/haizlin/fe-interview/issues/4111)
+    - [js] [写一个方法统计给定数组中重复元素的次数](https://github.com/haizlin/fe-interview/issues/4112)
+    - [软技能] [你觉得网上视频教程怎么讲你才会比较容易接受？](https://github.com/haizlin/fe-interview/issues/4113)
+- 第798天 (2021.06.22)  
+    - [html] [使用canvas画一个军棋的棋盘](https://github.com/haizlin/fe-interview/issues/4106)
+    - [css] [使用CSS3实现3D小球动画效果](https://github.com/haizlin/fe-interview/issues/4107)
+    - [js] [使用原生js绑定两个onclick事件](https://github.com/haizlin/fe-interview/issues/4108)
+    - [软技能] [你喜欢看哪类的网上视频教程？](https://github.com/haizlin/fe-interview/issues/4109)
 - 第797天 (2021.06.21)  
     - [html] [使用canvas画一个github的LOGO图案](https://github.com/haizlin/fe-interview/issues/4102)
     - [css] [使用CSS3实现一个仿相机快门闪动的效果](https://github.com/haizlin/fe-interview/issues/4103)

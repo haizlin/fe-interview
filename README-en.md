@@ -26,11 +26,9 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.06.21) —— 797 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个github的LOGO图案](https://github.com/haizlin/fe-interview/issues/4102)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现一个仿相机快门闪动的效果](https://github.com/haizlin/fe-interview/issues/4103)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [if有作用域吗？](https://github.com/haizlin/fe-interview/issues/4104)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果你连续几天熬夜，你会怎么样？](https://github.com/haizlin/fe-interview/issues/4105)  
+## :clock430: Today's Knowledge Points (2021.06.23) —— 799 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas实现一个贪吃蛇小游戏](https://github.com/haizlin/fe-interview/issues/4110)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现照片左右飞入滑出切换](https://github.com/haizlin/fe-interview/issues/4111)  
  
   
 ### :camel: History
@@ -41,11 +39,9 @@
     …………  
 
 
-- 796 days (2021.06.20)  
-    	 :one: [html] [使用canvas画一个喜洋洋的图案](https://github.com/haizlin/fe-interview/issues/4098)  
-	 :two: [css] [使用CSS3实现模拟雷达波向外发散的动画效果](https://github.com/haizlin/fe-interview/issues/4099)  
-	 :three: [js] [什么是负无穷大？](https://github.com/haizlin/fe-interview/issues/4100)  
-	 :four: [skill] [说说你对家庭和谐的理解](https://github.com/haizlin/fe-interview/issues/4101)  
+- 798 days (2021.06.22)  
+    	 :one: [html] [使用canvas画一个军棋的棋盘](https://github.com/haizlin/fe-interview/issues/4106)  
+	 :two: [css] [使用CSS3实现3D小球动画效果](https://github.com/haizlin/fe-interview/issues/4107)  
  
 	
 - **[All](category/history.md)**
