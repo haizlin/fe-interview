@@ -2,6 +2,11 @@
 
 
 
+- 第800天 (2021.06.24)  
+    - [html] [使用HTML5实现窗户玻璃雨滴的逼真效果](https://github.com/haizlin/fe-interview/issues/4114)
+    - [css] [使用CSS3实现响应式win8 metro风格的页面](https://github.com/haizlin/fe-interview/issues/4115)
+    - [js] [js如何做单元测试？步骤是什么？](https://github.com/haizlin/fe-interview/issues/4116)
+    - [软技能] [你有做过基于地图的应用吗？](https://github.com/haizlin/fe-interview/issues/4117)
 - 第799天 (2021.06.23)  
     - [html] [使用canvas实现一个贪吃蛇小游戏](https://github.com/haizlin/fe-interview/issues/4110)
     - [css] [使用CSS3实现照片左右飞入滑出切换](https://github.com/haizlin/fe-interview/issues/4111)
