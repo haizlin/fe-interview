@@ -2,6 +2,11 @@
 
 
 
+- 第803天 (2021.06.27)  
+    - [html] [使用HTML5模拟苹果系统桌面布局](https://github.com/haizlin/fe-interview/issues/4131)
+    - [css] [使用CSS3实现百叶窗效果](https://github.com/haizlin/fe-interview/issues/4132)
+    - [js] [使用promise实现一个带延时功能的链式调用](https://github.com/haizlin/fe-interview/issues/4133)
+    - [软技能] [如何才写出好的前端代码呢？](https://github.com/haizlin/fe-interview/issues/4134)
 - 第802天 (2021.06.26)  
     - [html] [使用HTML5实现3D立体星星动画效果](https://github.com/haizlin/fe-interview/issues/4127)
     - [css] [使用CSS3实现不规则排列lightbox效果](https://github.com/haizlin/fe-interview/issues/4128)
