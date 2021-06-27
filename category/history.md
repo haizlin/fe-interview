@@ -2,6 +2,11 @@
 
 
 
+- 第804天 (2021.06.28)  
+    - [html] [使用HTML5仿PC端微信聊天界面](https://github.com/haizlin/fe-interview/issues/4135)
+    - [css] [使用CSS3实现波浪式图片墙](https://github.com/haizlin/fe-interview/issues/4136)
+    - [js] [js中splice()和slice()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/4137)
+    - [软技能] [写一个方法生成指定位数的数字，前面位数不够则补0](https://github.com/haizlin/fe-interview/issues/4138)
 - 第803天 (2021.06.27)  
     - [html] [使用HTML5模拟苹果系统桌面布局](https://github.com/haizlin/fe-interview/issues/4131)
     - [css] [使用CSS3实现百叶窗效果](https://github.com/haizlin/fe-interview/issues/4132)

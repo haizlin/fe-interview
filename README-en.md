@@ -26,11 +26,9 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.06.27) —— 803 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5模拟苹果系统桌面布局](https://github.com/haizlin/fe-interview/issues/4131)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现百叶窗效果](https://github.com/haizlin/fe-interview/issues/4132)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用promise实现一个带延时功能的链式调用](https://github.com/haizlin/fe-interview/issues/4133)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何才写出好的前端代码呢？](https://github.com/haizlin/fe-interview/issues/4134)  
+## :clock430: Today's Knowledge Points (2021.06.28) —— 804 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5仿PC端微信聊天界面](https://github.com/haizlin/fe-interview/issues/4135)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现波浪式图片墙](https://github.com/haizlin/fe-interview/issues/4136)  
  
   
 ### :camel: History
@@ -41,11 +39,9 @@
     …………  
 
 
-- 802 days (2021.06.26)  
-    	 :one: [html] [使用HTML5实现3D立体星星动画效果](https://github.com/haizlin/fe-interview/issues/4127)  
-	 :two: [css] [使用CSS3实现不规则排列lightbox效果](https://github.com/haizlin/fe-interview/issues/4128)  
-	 :three: [js] [请写一个单链表查找倒数第k个节点](https://github.com/haizlin/fe-interview/issues/4129)  
-	 :four: [skill] [你认为什么样的前端代码才是最好的？](https://github.com/haizlin/fe-interview/issues/4130)  
+- 803 days (2021.06.27)  
+    	 :one: [html] [使用HTML5模拟苹果系统桌面布局](https://github.com/haizlin/fe-interview/issues/4131)  
+	 :two: [css] [使用CSS3实现百叶窗效果](https://github.com/haizlin/fe-interview/issues/4132)  
  
 	
 - **[All](category/history.md)**
