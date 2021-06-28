@@ -26,9 +26,9 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.06.28) —— 第804天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5仿PC端微信聊天界面](https://github.com/haizlin/fe-interview/issues/4135)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现波浪式图片墙](https://github.com/haizlin/fe-interview/issues/4136)  
+## :clock430: 今天的知识点   (2021.06.29) —— 第805天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个逼真的钻石效果](https://github.com/haizlin/fe-interview/issues/4139)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现下红包雨的特效](https://github.com/haizlin/fe-interview/issues/4140)  
  
   
 ### :camel: 历史题目
@@ -40,9 +40,9 @@
     …………  
 
 
-- 第803天 (2021.06.27)  
-    	 :one: [html] [使用HTML5模拟苹果系统桌面布局](https://github.com/haizlin/fe-interview/issues/4131)  
-	 :two: [css] [使用CSS3实现百叶窗效果](https://github.com/haizlin/fe-interview/issues/4132)  
+- 第804天 (2021.06.28)  
+    	 :one: [html] [使用HTML5仿PC端微信聊天界面](https://github.com/haizlin/fe-interview/issues/4135)  
+	 :two: [css] [使用CSS3实现波浪式图片墙](https://github.com/haizlin/fe-interview/issues/4136)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第805天 (2021.06.29)  
+    - [html] [使用HTML5制作一个逼真的钻石效果](https://github.com/haizlin/fe-interview/issues/4139)
+    - [css] [使用CSS3实现下红包雨的特效](https://github.com/haizlin/fe-interview/issues/4140)
+    - [js] [使用let声明的变量可以先使用再声明吗？](https://github.com/haizlin/fe-interview/issues/4141)
+    - [软技能] [你认为到公司上班迟到会有什么影响？](https://github.com/haizlin/fe-interview/issues/4142)
 - 第804天 (2021.06.28)  
     - [html] [使用HTML5仿PC端微信聊天界面](https://github.com/haizlin/fe-interview/issues/4135)
     - [css] [使用CSS3实现波浪式图片墙](https://github.com/haizlin/fe-interview/issues/4136)
