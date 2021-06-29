@@ -2,6 +2,11 @@
 
 
 
+- 第806天 (2021.06.30)  
+    - [html] [使用HTML5制作一个啤酒瓶的效果](https://github.com/haizlin/fe-interview/issues/4143)
+    - [css] [使用CSS3实现一个齿轮动画效果](https://github.com/haizlin/fe-interview/issues/4144)
+    - [js] [写一个多级地点选择组件，说说你的思路](https://github.com/haizlin/fe-interview/issues/4145)
+    - [软技能] [你自己有整理过前端的知识图谱吗？](https://github.com/haizlin/fe-interview/issues/4146)
 - 第805天 (2021.06.29)  
     - [html] [使用HTML5制作一个逼真的钻石效果](https://github.com/haizlin/fe-interview/issues/4139)
     - [css] [使用CSS3实现下红包雨的特效](https://github.com/haizlin/fe-interview/issues/4140)

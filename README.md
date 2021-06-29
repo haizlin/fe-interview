@@ -26,9 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.06.29) —— 第805天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个逼真的钻石效果](https://github.com/haizlin/fe-interview/issues/4139)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现下红包雨的特效](https://github.com/haizlin/fe-interview/issues/4140)  
+## :clock430: 今天的知识点   (2021.06.30) —— 第806天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个啤酒瓶的效果](https://github.com/haizlin/fe-interview/issues/4143)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现一个齿轮动画效果](https://github.com/haizlin/fe-interview/issues/4144)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个多级地点选择组件，说说你的思路](https://github.com/haizlin/fe-interview/issues/4145)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你自己有整理过前端的知识图谱吗？](https://github.com/haizlin/fe-interview/issues/4146)  
  
   
 ### :camel: 历史题目
@@ -40,9 +42,11 @@
     …………  
 
 
-- 第804天 (2021.06.28)  
-    	 :one: [html] [使用HTML5仿PC端微信聊天界面](https://github.com/haizlin/fe-interview/issues/4135)  
-	 :two: [css] [使用CSS3实现波浪式图片墙](https://github.com/haizlin/fe-interview/issues/4136)  
+- 第805天 (2021.06.29)  
+    	 :one: [html] [使用HTML5制作一个逼真的钻石效果](https://github.com/haizlin/fe-interview/issues/4139)  
+	 :two: [css] [使用CSS3实现下红包雨的特效](https://github.com/haizlin/fe-interview/issues/4140)  
+	 :three: [js] [使用let声明的变量可以先使用再声明吗？](https://github.com/haizlin/fe-interview/issues/4141)  
+	 :four: [软技能] [你认为到公司上班迟到会有什么影响？](https://github.com/haizlin/fe-interview/issues/4142)  
  
 	
 - **[查看全部](category/history.md)**
