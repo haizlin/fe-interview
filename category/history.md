@@ -2,6 +2,16 @@
 
 
 
+- 第808天 (2021.07.02)  
+    - [html] [使用HTML5制作一个弹簧的效果](https://github.com/haizlin/fe-interview/issues/4151)
+    - [css] [使用CSS实现月亮围着地球转动的特效](https://github.com/haizlin/fe-interview/issues/4152)
+    - [js] [什么是惰性载入函数？](https://github.com/haizlin/fe-interview/issues/4153)
+    - [软技能] [你被分配了一个几乎不可能完成的任务时，你会怎么做？](https://github.com/haizlin/fe-interview/issues/4154)
+- 第807天 (2021.07.01)  
+    - [html] [使用HTML5制作一个遥控器的效果](https://github.com/haizlin/fe-interview/issues/4147)
+    - [css] [使用CSS3实现一个随机粒子动画效果](https://github.com/haizlin/fe-interview/issues/4148)
+    - [js] [写一个方法获取中文的首字母](https://github.com/haizlin/fe-interview/issues/4149)
+    - [软技能] [你有自己的自检清单吗？](https://github.com/haizlin/fe-interview/issues/4150)
 - 第806天 (2021.06.30)  
     - [html] [使用HTML5制作一个啤酒瓶的效果](https://github.com/haizlin/fe-interview/issues/4143)
     - [css] [使用CSS3实现一个齿轮动画效果](https://github.com/haizlin/fe-interview/issues/4144)

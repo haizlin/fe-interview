@@ -26,11 +26,10 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.06.30) —— 806 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个啤酒瓶的效果](https://github.com/haizlin/fe-interview/issues/4143)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现一个齿轮动画效果](https://github.com/haizlin/fe-interview/issues/4144)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个多级地点选择组件，说说你的思路](https://github.com/haizlin/fe-interview/issues/4145)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你自己有整理过前端的知识图谱吗？](https://github.com/haizlin/fe-interview/issues/4146)  
+## :clock430: Today's Knowledge Points (2021.07.02) —— 808 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个弹簧的效果](https://github.com/haizlin/fe-interview/issues/4151)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS实现月亮围着地球转动的特效](https://github.com/haizlin/fe-interview/issues/4152)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么是惰性载入函数？](https://github.com/haizlin/fe-interview/issues/4153)  
  
   
 ### :camel: History
@@ -41,11 +40,10 @@
     …………  
 
 
-- 805 days (2021.06.29)  
-    	 :one: [html] [使用HTML5制作一个逼真的钻石效果](https://github.com/haizlin/fe-interview/issues/4139)  
-	 :two: [css] [使用CSS3实现下红包雨的特效](https://github.com/haizlin/fe-interview/issues/4140)  
-	 :three: [js] [使用let声明的变量可以先使用再声明吗？](https://github.com/haizlin/fe-interview/issues/4141)  
-	 :four: [skill] [你认为到公司上班迟到会有什么影响？](https://github.com/haizlin/fe-interview/issues/4142)  
+- 807 days (2021.07.01)  
+    	 :one: [html] [使用HTML5制作一个遥控器的效果](https://github.com/haizlin/fe-interview/issues/4147)  
+	 :two: [css] [使用CSS3实现一个随机粒子动画效果](https://github.com/haizlin/fe-interview/issues/4148)  
+	 :three: [js] [写一个方法获取中文的首字母](https://github.com/haizlin/fe-interview/issues/4149)  
  
 	
 - **[All](category/history.md)**
