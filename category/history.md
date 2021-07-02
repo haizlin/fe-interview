@@ -2,6 +2,11 @@
 
 
 
+- 第809天 (2021.07.03)  
+    - [html] [使用HTML5制作一些微信常用的表情包](https://github.com/haizlin/fe-interview/issues/4155)
+    - [css] [使用CSS3实现萤火虫发光动画效果](https://github.com/haizlin/fe-interview/issues/4156)
+    - [js] [如何定义一个防篡改对象？](https://github.com/haizlin/fe-interview/issues/4157)
+    - [软技能] [你能接受同一个岗位新来的同事工资给你高吗？](https://github.com/haizlin/fe-interview/issues/4158)
 - 第808天 (2021.07.02)  
     - [html] [使用HTML5制作一个弹簧的效果](https://github.com/haizlin/fe-interview/issues/4151)
     - [css] [使用CSS实现月亮围着地球转动的特效](https://github.com/haizlin/fe-interview/issues/4152)

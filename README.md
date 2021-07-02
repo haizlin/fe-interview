@@ -26,10 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.07.02) —— 第808天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个弹簧的效果](https://github.com/haizlin/fe-interview/issues/4151)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS实现月亮围着地球转动的特效](https://github.com/haizlin/fe-interview/issues/4152)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [什么是惰性载入函数？](https://github.com/haizlin/fe-interview/issues/4153)  
+## :clock430: 今天的知识点   (2021.07.03) —— 第809天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一些微信常用的表情包](https://github.com/haizlin/fe-interview/issues/4155)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现萤火虫发光动画效果](https://github.com/haizlin/fe-interview/issues/4156)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何定义一个防篡改对象？](https://github.com/haizlin/fe-interview/issues/4157)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你能接受同一个岗位新来的同事工资给你高吗？](https://github.com/haizlin/fe-interview/issues/4158)  
  
   
 ### :camel: 历史题目
@@ -41,10 +42,11 @@
     …………  
 
 
-- 第807天 (2021.07.01)  
-    	 :one: [html] [使用HTML5制作一个遥控器的效果](https://github.com/haizlin/fe-interview/issues/4147)  
-	 :two: [css] [使用CSS3实现一个随机粒子动画效果](https://github.com/haizlin/fe-interview/issues/4148)  
-	 :three: [js] [写一个方法获取中文的首字母](https://github.com/haizlin/fe-interview/issues/4149)  
+- 第808天 (2021.07.02)  
+    	 :one: [html] [使用HTML5制作一个弹簧的效果](https://github.com/haizlin/fe-interview/issues/4151)  
+	 :two: [css] [使用CSS实现月亮围着地球转动的特效](https://github.com/haizlin/fe-interview/issues/4152)  
+	 :three: [js] [什么是惰性载入函数？](https://github.com/haizlin/fe-interview/issues/4153)  
+	 :four: [软技能] [你被分配了一个几乎不可能完成的任务时，你会怎么做？](https://github.com/haizlin/fe-interview/issues/4154)  
  
 	
 - **[查看全部](category/history.md)**
