@@ -2,6 +2,11 @@
 
 
 
+- 第811天 (2021.07.05)  
+    - [html] [使用HTML5制作一个大哥大布局](https://github.com/haizlin/fe-interview/issues/4163)
+    - [css] [使用CSS3外星飞船UFO动画](https://github.com/haizlin/fe-interview/issues/4164)
+    - [js] [数组的原型是什么？](https://github.com/haizlin/fe-interview/issues/4165)
+    - [软技能] [说说你对自测的理解及自测的方法有哪些?](https://github.com/haizlin/fe-interview/issues/4166)
 - 第810天 (2021.07.04)  
     - [html] [使用HTML5制作一个圣诞老人](https://github.com/haizlin/fe-interview/issues/4159)
     - [css] [使用CSS3实现摩天轮动画特效](https://github.com/haizlin/fe-interview/issues/4160)
