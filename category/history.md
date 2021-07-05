@@ -2,6 +2,11 @@
 
 
 
+- 第812天 (2021.07.06)  
+    - [html] [使用HTML5写一个打地鼠的小游戏](https://github.com/haizlin/fe-interview/issues/4167)
+    - [css] [使用CSS3实现的湖面上日出动画特效](https://github.com/haizlin/fe-interview/issues/4168)
+    - [js] [编号为1到100的一百个人围成一圈，以123123的方式进行报数，数到3的人自动退出圈子，剩下的人继续报数，问最后剩下的人编号为几？](https://github.com/haizlin/fe-interview/issues/4169)
+    - [软技能] [你觉得做编程这行需要高智商吗？为什么？](https://github.com/haizlin/fe-interview/issues/4170)
 - 第811天 (2021.07.05)  
     - [html] [使用HTML5制作一个大哥大布局](https://github.com/haizlin/fe-interview/issues/4163)
     - [css] [使用CSS3外星飞船UFO动画](https://github.com/haizlin/fe-interview/issues/4164)
