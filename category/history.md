@@ -2,6 +2,11 @@
 
 
 
+- 第813天 (2021.07.07)  
+    - [html] [制作一个晶莹剔透的水晶球布局](https://github.com/haizlin/fe-interview/issues/4171)
+    - [css] [使用css3绘制企业人员管理树形组织架构图特效](https://github.com/haizlin/fe-interview/issues/4172)
+    - [js] [使用`typeof test === "object"`来判定test是否是对象有什么缺陷？如何避免？](https://github.com/haizlin/fe-interview/issues/4173)
+    - [软技能] [说说你对图片位深的理解](https://github.com/haizlin/fe-interview/issues/4174)
 - 第812天 (2021.07.06)  
     - [html] [使用HTML5写一个打地鼠的小游戏](https://github.com/haizlin/fe-interview/issues/4167)
     - [css] [使用CSS3实现的湖面上日出动画特效](https://github.com/haizlin/fe-interview/issues/4168)
