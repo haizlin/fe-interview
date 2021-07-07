@@ -2,6 +2,11 @@
 
 
 
+- 第814天 (2021.07.08)  
+    - [html] [使用HTML5制作一个刻度温度计](https://github.com/haizlin/fe-interview/issues/4175)
+    - [css] [使用css3绘制一只招财猫动画特效](https://github.com/haizlin/fe-interview/issues/4176)
+    - [js] [如何可靠地测试一个值是否为NaN？](https://github.com/haizlin/fe-interview/issues/4177)
+    - [软技能] [说说你对多道批处理系统的理解](https://github.com/haizlin/fe-interview/issues/4178)
 - 第813天 (2021.07.07)  
     - [html] [制作一个晶莹剔透的水晶球布局](https://github.com/haizlin/fe-interview/issues/4171)
     - [css] [使用css3绘制企业人员管理树形组织架构图特效](https://github.com/haizlin/fe-interview/issues/4172)

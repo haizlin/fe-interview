@@ -26,11 +26,10 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.07.07) —— 813 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [制作一个晶莹剔透的水晶球布局](https://github.com/haizlin/fe-interview/issues/4171)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制企业人员管理树形组织架构图特效](https://github.com/haizlin/fe-interview/issues/4172)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用`typeof test === "object"`来判定test是否是对象有什么缺陷？如何避免？](https://github.com/haizlin/fe-interview/issues/4173)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对图片位深的理解](https://github.com/haizlin/fe-interview/issues/4174)  
+## :clock430: Today's Knowledge Points (2021.07.08) —— 814 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个刻度温度计](https://github.com/haizlin/fe-interview/issues/4175)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制一只招财猫动画特效](https://github.com/haizlin/fe-interview/issues/4176)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何可靠地测试一个值是否为NaN？](https://github.com/haizlin/fe-interview/issues/4177)  
  
   
 ### :camel: History
@@ -41,11 +40,10 @@
     …………  
 
 
-- 812 days (2021.07.06)  
-    	 :one: [html] [使用HTML5写一个打地鼠的小游戏](https://github.com/haizlin/fe-interview/issues/4167)  
-	 :two: [css] [使用CSS3实现的湖面上日出动画特效](https://github.com/haizlin/fe-interview/issues/4168)  
-	 :three: [js] [编号为1到100的一百个人围成一圈，以123123的方式进行报数，数到3的人自动退出圈子，剩下的人继续报数，问最后剩下的人编号为几？](https://github.com/haizlin/fe-interview/issues/4169)  
-	 :four: [skill] [你觉得做编程这行需要高智商吗？为什么？](https://github.com/haizlin/fe-interview/issues/4170)  
+- 813 days (2021.07.07)  
+    	 :one: [html] [制作一个晶莹剔透的水晶球布局](https://github.com/haizlin/fe-interview/issues/4171)  
+	 :two: [css] [使用css3绘制企业人员管理树形组织架构图特效](https://github.com/haizlin/fe-interview/issues/4172)  
+	 :three: [js] [使用`typeof test === "object"`来判定test是否是对象有什么缺陷？如何避免？](https://github.com/haizlin/fe-interview/issues/4173)  
  
 	
 - **[All](category/history.md)**
