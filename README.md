@@ -26,10 +26,9 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.07.08) —— 第814天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个刻度温度计](https://github.com/haizlin/fe-interview/issues/4175)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制一只招财猫动画特效](https://github.com/haizlin/fe-interview/issues/4176)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何可靠地测试一个值是否为NaN？](https://github.com/haizlin/fe-interview/issues/4177)  
+## :clock430: 今天的知识点   (2021.07.09) —— 第815天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个多层的生日蛋糕](https://github.com/haizlin/fe-interview/issues/4179)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制在道路上行驶的汽车动画特效](https://github.com/haizlin/fe-interview/issues/4180)  
  
   
 ### :camel: 历史题目
@@ -41,10 +40,9 @@
     …………  
 
 
-- 第813天 (2021.07.07)  
-    	 :one: [html] [制作一个晶莹剔透的水晶球布局](https://github.com/haizlin/fe-interview/issues/4171)  
-	 :two: [css] [使用css3绘制企业人员管理树形组织架构图特效](https://github.com/haizlin/fe-interview/issues/4172)  
-	 :three: [js] [使用`typeof test === "object"`来判定test是否是对象有什么缺陷？如何避免？](https://github.com/haizlin/fe-interview/issues/4173)  
+- 第814天 (2021.07.08)  
+    	 :one: [html] [使用HTML5制作一个刻度温度计](https://github.com/haizlin/fe-interview/issues/4175)  
+	 :two: [css] [使用css3绘制一只招财猫动画特效](https://github.com/haizlin/fe-interview/issues/4176)  
  
 	
 - **[查看全部](category/history.md)**
