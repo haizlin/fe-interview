@@ -2,6 +2,11 @@
 
 
 
+- 第818天 (2021.07.12)  
+    - [html] [使用HTML5绘制一个汉堡](https://github.com/haizlin/fe-interview/issues/4191)
+    - [css] [使用css3绘制冒热气的杯子动画特效](https://github.com/haizlin/fe-interview/issues/4192)
+    - [js] [js预解析顺序（优先级）是什么？](https://github.com/haizlin/fe-interview/issues/4193)
+    - [软技能] [说说你是如何看待市面上的IT培训机构的？](https://github.com/haizlin/fe-interview/issues/4194)
 - 第817天 (2021.07.11)  
     - [html] [使用HTML5绘制一只卡通版米老鼠](https://github.com/haizlin/fe-interview/issues/4185)
     - [css] [使用css3实绘制3D骰子多角度翻转特效](https://github.com/haizlin/fe-interview/issues/4186)
@@ -10,8 +15,8 @@
 - 第816天 (2021.07.10)  
     - [html] [使用HTML5绘制一把雨伞](https://github.com/haizlin/fe-interview/issues/4183)
     - [css] [使用css3绘制卡通雪人特效代码](https://github.com/haizlin/fe-interview/issues/4184)
-    - [undefined] [undefined](https://github.com/haizlin/fe-interview/issues/undefined)
-    - [undefined] [undefined](https://github.com/haizlin/fe-interview/issues/undefined)
+    - [js] [写一个方法找到给定数组中任意两个数的最大总和](https://github.com/haizlin/fe-interview/issues/4189)
+    - [软技能] [你有参加过什么类型的比赛吗？说说你的感受](https://github.com/haizlin/fe-interview/issues/4190)
 - 第815天 (2021.07.09)  
     - [html] [使用HTML5制作一个多层的生日蛋糕](https://github.com/haizlin/fe-interview/issues/4179)
     - [css] [使用css3绘制在道路上行驶的汽车动画特效](https://github.com/haizlin/fe-interview/issues/4180)
