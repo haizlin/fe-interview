@@ -2,6 +2,11 @@
 
 
 
+- 第819天 (2021.07.13)  
+    - [html] [使用HTML5绘制一只乌龟](https://github.com/haizlin/fe-interview/issues/4195)
+    - [css] [使用css3绘制转动磁带的复古录音机特效](https://github.com/haizlin/fe-interview/issues/4196)
+    - [js] [写一个方法验证给定的数是否为素数](https://github.com/haizlin/fe-interview/issues/4197)
+    - [软技能] [你有报名参加过哪些IT培训吗？](https://github.com/haizlin/fe-interview/issues/4198)
 - 第818天 (2021.07.12)  
     - [html] [使用HTML5绘制一个汉堡](https://github.com/haizlin/fe-interview/issues/4191)
     - [css] [使用css3绘制冒热气的杯子动画特效](https://github.com/haizlin/fe-interview/issues/4192)

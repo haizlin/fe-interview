@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.07.12) —— 第818天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个汉堡](https://github.com/haizlin/fe-interview/issues/4191)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制冒热气的杯子动画特效](https://github.com/haizlin/fe-interview/issues/4192)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js预解析顺序（优先级）是什么？](https://github.com/haizlin/fe-interview/issues/4193)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你是如何看待市面上的IT培训机构的？](https://github.com/haizlin/fe-interview/issues/4194)  
+## :clock430: 今天的知识点   (2021.07.13) —— 第819天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一只乌龟](https://github.com/haizlin/fe-interview/issues/4195)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制转动磁带的复古录音机特效](https://github.com/haizlin/fe-interview/issues/4196)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法验证给定的数是否为素数](https://github.com/haizlin/fe-interview/issues/4197)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你有报名参加过哪些IT培训吗？](https://github.com/haizlin/fe-interview/issues/4198)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第817天 (2021.07.11)  
-    	 :one: [html] [使用HTML5绘制一只卡通版米老鼠](https://github.com/haizlin/fe-interview/issues/4185)  
-	 :two: [css] [使用css3实绘制3D骰子多角度翻转特效](https://github.com/haizlin/fe-interview/issues/4186)  
-	 :three: [js] [写一个方法计算只有加法和乘法的表达式，如:2+3*9+6](https://github.com/haizlin/fe-interview/issues/4187)  
-	 :four: [软技能] [你会经常出去旅游吗？](https://github.com/haizlin/fe-interview/issues/4188)  
+- 第818天 (2021.07.12)  
+    	 :one: [html] [使用HTML5绘制一个汉堡](https://github.com/haizlin/fe-interview/issues/4191)  
+	 :two: [css] [使用css3绘制冒热气的杯子动画特效](https://github.com/haizlin/fe-interview/issues/4192)  
+	 :three: [js] [js预解析顺序（优先级）是什么？](https://github.com/haizlin/fe-interview/issues/4193)  
+	 :four: [软技能] [说说你是如何看待市面上的IT培训机构的？](https://github.com/haizlin/fe-interview/issues/4194)  
  
 	
 - **[查看全部](category/history.md)**
