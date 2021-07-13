@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.07.13) —— 819 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一只乌龟](https://github.com/haizlin/fe-interview/issues/4195)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制转动磁带的复古录音机特效](https://github.com/haizlin/fe-interview/issues/4196)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法验证给定的数是否为素数](https://github.com/haizlin/fe-interview/issues/4197)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有报名参加过哪些IT培训吗？](https://github.com/haizlin/fe-interview/issues/4198)  
+## :clock430: Today's Knowledge Points (2021.07.14) —— 820 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一只梅花鹿](https://github.com/haizlin/fe-interview/issues/4199)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现一个奶油雪糕的图形特效](https://github.com/haizlin/fe-interview/issues/4200)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法求出一个数的所有素数因子](https://github.com/haizlin/fe-interview/issues/4201)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为3+1项目有题目好还是没答案好？为什么？](https://github.com/haizlin/fe-interview/issues/4202)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 818 days (2021.07.12)  
-    	 :one: [html] [使用HTML5绘制一个汉堡](https://github.com/haizlin/fe-interview/issues/4191)  
-	 :two: [css] [使用css3绘制冒热气的杯子动画特效](https://github.com/haizlin/fe-interview/issues/4192)  
-	 :three: [js] [js预解析顺序（优先级）是什么？](https://github.com/haizlin/fe-interview/issues/4193)  
-	 :four: [skill] [说说你是如何看待市面上的IT培训机构的？](https://github.com/haizlin/fe-interview/issues/4194)  
+- 819 days (2021.07.13)  
+    	 :one: [html] [使用HTML5绘制一只乌龟](https://github.com/haizlin/fe-interview/issues/4195)  
+	 :two: [css] [使用css3绘制转动磁带的复古录音机特效](https://github.com/haizlin/fe-interview/issues/4196)  
+	 :three: [js] [写一个方法验证给定的数是否为素数](https://github.com/haizlin/fe-interview/issues/4197)  
+	 :four: [skill] [你有报名参加过哪些IT培训吗？](https://github.com/haizlin/fe-interview/issues/4198)  
  
 	
 - **[All](category/history.md)**
