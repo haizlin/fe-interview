@@ -26,11 +26,10 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.07.16) —— 822 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个灯塔](https://github.com/haizlin/fe-interview/issues/4203)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现一个大白的特效](https://github.com/haizlin/fe-interview/issues/4204)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法找出两个数的最大公约数](https://github.com/haizlin/fe-interview/issues/4205)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说下你对内卷的个人理解](https://github.com/haizlin/fe-interview/issues/4206)  
+## :clock430: Today's Knowledge Points (2021.07.17) —— 823 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一只甲壳虫](https://github.com/haizlin/fe-interview/issues/4211)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现一个开关灯按钮的动画特效](https://github.com/haizlin/fe-interview/issues/4212)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法找出两个数的最小公倍数](https://github.com/haizlin/fe-interview/issues/4213)  
  
   
 ### :camel: History
@@ -41,11 +40,10 @@
     …………  
 
 
-- 821 days (2021.07.15)  
-    	 :one: [] [](https://github.com/haizlin/fe-interview/issues/)  
-	 :two: [] [](https://github.com/haizlin/fe-interview/issues/)  
-	 :three: [] [](https://github.com/haizlin/fe-interview/issues/)  
-	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
+- 822 days (2021.07.16)  
+    	 :one: [html] [使用HTML5绘制一个灯塔](https://github.com/haizlin/fe-interview/issues/4203)  
+	 :two: [css] [使用css3实现一个大白的特效](https://github.com/haizlin/fe-interview/issues/4204)  
+	 :three: [js] [写一个方法找出两个数的最大公约数](https://github.com/haizlin/fe-interview/issues/4205)  
  
 	
 - **[All](category/history.md)**
