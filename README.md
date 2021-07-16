@@ -15,22 +15,22 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（4000+）、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（5000+）、最全**，参与人数最多的免费开源项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 700+](category/html.md) | [CSS 700+](category/css.md) | [JS 700+](category/js.md) | [软技能 700+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 850+](category/html.md) | [CSS 850+](category/css.md) | [JS 850+](category/js.md) | [软技能 850+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.07.14) —— 第820天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一只梅花鹿](https://github.com/haizlin/fe-interview/issues/4199)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现一个奶油雪糕的图形特效](https://github.com/haizlin/fe-interview/issues/4200)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法求出一个数的所有素数因子](https://github.com/haizlin/fe-interview/issues/4201)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你认为3+1项目有题目好还是没答案好？为什么？](https://github.com/haizlin/fe-interview/issues/4202)  
+## :clock430: 今天的知识点   (2021.07.16) —— 第822天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个灯塔](https://github.com/haizlin/fe-interview/issues/4203)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现一个大白的特效](https://github.com/haizlin/fe-interview/issues/4204)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法找出两个数的最大公约数](https://github.com/haizlin/fe-interview/issues/4205)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说下你对内卷的个人理解](https://github.com/haizlin/fe-interview/issues/4206)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第819天 (2021.07.13)  
-    	 :one: [html] [使用HTML5绘制一只乌龟](https://github.com/haizlin/fe-interview/issues/4195)  
-	 :two: [css] [使用css3绘制转动磁带的复古录音机特效](https://github.com/haizlin/fe-interview/issues/4196)  
-	 :three: [js] [写一个方法验证给定的数是否为素数](https://github.com/haizlin/fe-interview/issues/4197)  
-	 :four: [软技能] [你有报名参加过哪些IT培训吗？](https://github.com/haizlin/fe-interview/issues/4198)  
+- 第821天 (2021.07.15)  
+    	 :one: [] [](https://github.com/haizlin/fe-interview/issues/)  
+	 :two: [] [](https://github.com/haizlin/fe-interview/issues/)  
+	 :three: [] [](https://github.com/haizlin/fe-interview/issues/)  
+	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
  
 	
 - **[查看全部](category/history.md)**

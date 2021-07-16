@@ -15,22 +15,22 @@
     Think hard - do more - summarize - insist
 </p>
 
-> :star: This is a free and open source project involving the front-end knowledge database * * the most (3000 +), the most complete * *, and the largest number of participants!
+> :star: This is a free and open source project involving the front-end knowledge database * * the most (5000 +), the most complete * *, and the largest number of participants!
 
 :hash: [I'm going to set a question](http://www.h-camel.com/contribution.html) 
 
-| :bulb: Base | [HTML 700+](category/html.md) | [CSS 700+](category/css.md) | [JS 700+](category/js.md) | [Skill 700+](category/skill.md) |  | | | 
+| :bulb: Base | [HTML 850+](category/html.md) | [CSS 850+](category/css.md) | [JS 850+](category/js.md) | [Skill 850+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: Special | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [wxapp](lib/wxapp.md) | 
 | :hammer: Tool | [webpack 13+](tools/webpack.md) | 
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.07.14) —— 820 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一只梅花鹿](https://github.com/haizlin/fe-interview/issues/4199)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现一个奶油雪糕的图形特效](https://github.com/haizlin/fe-interview/issues/4200)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法求出一个数的所有素数因子](https://github.com/haizlin/fe-interview/issues/4201)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为3+1项目有题目好还是没答案好？为什么？](https://github.com/haizlin/fe-interview/issues/4202)  
+## :clock430: Today's Knowledge Points (2021.07.16) —— 822 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个灯塔](https://github.com/haizlin/fe-interview/issues/4203)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现一个大白的特效](https://github.com/haizlin/fe-interview/issues/4204)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法找出两个数的最大公约数](https://github.com/haizlin/fe-interview/issues/4205)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说下你对内卷的个人理解](https://github.com/haizlin/fe-interview/issues/4206)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 819 days (2021.07.13)  
-    	 :one: [html] [使用HTML5绘制一只乌龟](https://github.com/haizlin/fe-interview/issues/4195)  
-	 :two: [css] [使用css3绘制转动磁带的复古录音机特效](https://github.com/haizlin/fe-interview/issues/4196)  
-	 :three: [js] [写一个方法验证给定的数是否为素数](https://github.com/haizlin/fe-interview/issues/4197)  
-	 :four: [skill] [你有报名参加过哪些IT培训吗？](https://github.com/haizlin/fe-interview/issues/4198)  
+- 821 days (2021.07.15)  
+    	 :one: [] [](https://github.com/haizlin/fe-interview/issues/)  
+	 :two: [] [](https://github.com/haizlin/fe-interview/issues/)  
+	 :three: [] [](https://github.com/haizlin/fe-interview/issues/)  
+	 :four: [] [](https://github.com/haizlin/fe-interview/issues/)  
  
 	
 - **[All](category/history.md)**
