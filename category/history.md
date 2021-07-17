@@ -2,6 +2,11 @@
 
 
 
+- 第824天 (2021.07.18)  
+    - [html] [使用HTML5自定义一个单选框](https://github.com/haizlin/fe-interview/issues/4215)
+    - [css] [使用CSS3实现一个复古播放电影倒计时的特效](https://github.com/haizlin/fe-interview/issues/4216)
+    - [js] [写一个方法将句子中颠倒单词](https://github.com/haizlin/fe-interview/issues/4217)
+    - [软技能] [你有算过团队的人力成本吗？](https://github.com/haizlin/fe-interview/issues/4218)
 - 第823天 (2021.07.17)  
     - [html] [使用HTML5绘制一只甲壳虫](https://github.com/haizlin/fe-interview/issues/4211)
     - [css] [使用css3实现一个开关灯按钮的动画特效](https://github.com/haizlin/fe-interview/issues/4212)
