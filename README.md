@@ -26,10 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.07.18) —— 第824天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5自定义一个单选框](https://github.com/haizlin/fe-interview/issues/4215)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现一个复古播放电影倒计时的特效](https://github.com/haizlin/fe-interview/issues/4216)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将句子中颠倒单词](https://github.com/haizlin/fe-interview/issues/4217)  
+## :clock430: 今天的知识点   (2021.07.19) —— 第825天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5自定义一个复选框](https://github.com/haizlin/fe-interview/issues/4219)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制一颗仙人掌](https://github.com/haizlin/fe-interview/issues/4220)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法将一个1到1000的未排序数组中找到缺失的数](https://github.com/haizlin/fe-interview/issues/4221)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你觉得工作中是否要学会“偷懒”？](https://github.com/haizlin/fe-interview/issues/4222)  
  
   
 ### :camel: 历史题目
@@ -41,10 +42,11 @@
     …………  
 
 
-- 第823天 (2021.07.17)  
-    	 :one: [html] [使用HTML5绘制一只甲壳虫](https://github.com/haizlin/fe-interview/issues/4211)  
-	 :two: [css] [使用css3实现一个开关灯按钮的动画特效](https://github.com/haizlin/fe-interview/issues/4212)  
-	 :three: [js] [写一个方法找出两个数的最小公倍数](https://github.com/haizlin/fe-interview/issues/4213)  
+- 第824天 (2021.07.18)  
+    	 :one: [html] [使用HTML5自定义一个单选框](https://github.com/haizlin/fe-interview/issues/4215)  
+	 :two: [css] [使用CSS3实现一个复古播放电影倒计时的特效](https://github.com/haizlin/fe-interview/issues/4216)  
+	 :three: [js] [写一个方法将句子中颠倒单词](https://github.com/haizlin/fe-interview/issues/4217)  
+	 :four: [软技能] [你有算过团队的人力成本吗？](https://github.com/haizlin/fe-interview/issues/4218)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,11 @@
 
 
 
+- 第825天 (2021.07.19)  
+    - [html] [使用HTML5自定义一个复选框](https://github.com/haizlin/fe-interview/issues/4219)
+    - [css] [使用css3绘制一颗仙人掌](https://github.com/haizlin/fe-interview/issues/4220)
+    - [js] [写一个方法将一个1到1000的未排序数组中找到缺失的数](https://github.com/haizlin/fe-interview/issues/4221)
+    - [软技能] [你觉得工作中是否要学会“偷懒”？](https://github.com/haizlin/fe-interview/issues/4222)
 - 第824天 (2021.07.18)  
     - [html] [使用HTML5自定义一个单选框](https://github.com/haizlin/fe-interview/issues/4215)
     - [css] [使用CSS3实现一个复古播放电影倒计时的特效](https://github.com/haizlin/fe-interview/issues/4216)
