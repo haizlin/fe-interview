@@ -2,6 +2,11 @@
 
 
 
+- 第826天 (2021.07.20)  
+    - [html] [使用HTML5自定义一个下拉框](https://github.com/haizlin/fe-interview/issues/4223)
+    - [css] [使用CSS3+SVG实现点火发射的动画](https://github.com/haizlin/fe-interview/issues/4224)
+    - [js] [写一个方法将一个未排序的数组中找出任意两数之和等于给定的数](https://github.com/haizlin/fe-interview/issues/4225)
+    - [软技能] [你有了解过VR吗？](https://github.com/haizlin/fe-interview/issues/4226)
 - 第825天 (2021.07.19)  
     - [html] [使用HTML5自定义一个复选框](https://github.com/haizlin/fe-interview/issues/4219)
     - [css] [使用css3绘制一颗仙人掌](https://github.com/haizlin/fe-interview/issues/4220)
