@@ -2,6 +2,11 @@
 
 
 
+- 第827天 (2021.07.21)  
+    - [html] [使用HTML5绘制一个Android的Logo](https://github.com/haizlin/fe-interview/issues/4227)
+    - [css] [使用CSS3实现星系轨道旋转特效](https://github.com/haizlin/fe-interview/issues/4228)
+    - [js] [为什么会有同源策略？](https://github.com/haizlin/fe-interview/issues/4229)
+    - [软技能] [如何实现VR看房？](https://github.com/haizlin/fe-interview/issues/4230)
 - 第826天 (2021.07.20)  
     - [html] [使用HTML5自定义一个下拉框](https://github.com/haizlin/fe-interview/issues/4223)
     - [css] [使用CSS3+SVG实现点火发射的动画](https://github.com/haizlin/fe-interview/issues/4224)
