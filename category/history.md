@@ -2,6 +2,11 @@
 
 
 
+- 第828天 (2021.07.22)  
+    - [html] [使用HTML5绘制一个正反面的硬币](https://github.com/haizlin/fe-interview/issues/4232)
+    - [css] [使用CSS3实现一只在飞的蝴蝶](https://github.com/haizlin/fe-interview/issues/4233)
+    - [js] [js语句放入异步队列的时机是哪个？](https://github.com/haizlin/fe-interview/issues/4234)
+    - [软技能] [你们有自己的部署平台吗？流程是怎样的？](https://github.com/haizlin/fe-interview/issues/4235)
 - 第827天 (2021.07.21)  
     - [html] [使用HTML5绘制一个Android的Logo](https://github.com/haizlin/fe-interview/issues/4227)
     - [css] [使用CSS3实现星系轨道旋转特效](https://github.com/haizlin/fe-interview/issues/4228)
