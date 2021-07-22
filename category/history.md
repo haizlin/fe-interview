@@ -2,6 +2,11 @@
 
 
 
+- 第829天 (2021.07.23)  
+    - [html] [使用HTML5绘制一副乒乓球拍](https://github.com/haizlin/fe-interview/issues/4236)
+    - [css] [使用CSS3实现空中飘动的云朵动画](https://github.com/haizlin/fe-interview/issues/4237)
+    - [js] [为什么会有宏任务和微任务之分？](https://github.com/haizlin/fe-interview/issues/4238)
+    - [软技能] [使用新技术在团队内推广是如何落地？](https://github.com/haizlin/fe-interview/issues/4239)
 - 第828天 (2021.07.22)  
     - [html] [使用HTML5绘制一个正反面的硬币](https://github.com/haizlin/fe-interview/issues/4232)
     - [css] [使用CSS3实现一只在飞的蝴蝶](https://github.com/haizlin/fe-interview/issues/4233)

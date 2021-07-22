@@ -26,11 +26,10 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.07.22) —— 828 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个正反面的硬币](https://github.com/haizlin/fe-interview/issues/4232)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现一只在飞的蝴蝶](https://github.com/haizlin/fe-interview/issues/4233)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js语句放入异步队列的时机是哪个？](https://github.com/haizlin/fe-interview/issues/4234)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你们有自己的部署平台吗？流程是怎样的？](https://github.com/haizlin/fe-interview/issues/4235)  
+## :clock430: Today's Knowledge Points (2021.07.23) —— 829 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一副乒乓球拍](https://github.com/haizlin/fe-interview/issues/4236)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现空中飘动的云朵动画](https://github.com/haizlin/fe-interview/issues/4237)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [为什么会有宏任务和微任务之分？](https://github.com/haizlin/fe-interview/issues/4238)  
  
   
 ### :camel: History
@@ -41,11 +40,10 @@
     …………  
 
 
-- 827 days (2021.07.21)  
-    	 :one: [html] [使用HTML5绘制一个Android的Logo](https://github.com/haizlin/fe-interview/issues/4227)  
-	 :two: [css] [使用CSS3实现星系轨道旋转特效](https://github.com/haizlin/fe-interview/issues/4228)  
-	 :three: [js] [为什么会有同源策略？](https://github.com/haizlin/fe-interview/issues/4229)  
-	 :four: [skill] [如何实现VR看房？](https://github.com/haizlin/fe-interview/issues/4230)  
+- 828 days (2021.07.22)  
+    	 :one: [html] [使用HTML5绘制一个正反面的硬币](https://github.com/haizlin/fe-interview/issues/4232)  
+	 :two: [css] [使用CSS3实现一只在飞的蝴蝶](https://github.com/haizlin/fe-interview/issues/4233)  
+	 :three: [js] [js语句放入异步队列的时机是哪个？](https://github.com/haizlin/fe-interview/issues/4234)  
  
 	
 - **[All](category/history.md)**
