@@ -2,6 +2,11 @@
 
 
 
+- 第832天 (2021.07.26)  
+    - [html] [使用HTML5绘制一个大西瓜](https://github.com/haizlin/fe-interview/issues/4248)
+    - [css] [使用CSS3实现文字带轮廓边框特效](https://github.com/haizlin/fe-interview/issues/4249)
+    - [js] [BOM常用属性有哪些？](https://github.com/haizlin/fe-interview/issues/4250)
+    - [软技能] [你觉得你上学时哪门课程学得最好？为什么？](https://github.com/haizlin/fe-interview/issues/4251)
 - 第831天 (2021.07.25)  
     - [html] [使用HTML5绘制一只小蜜蜂](https://github.com/haizlin/fe-interview/issues/4244)
     - [css] [使用CSS3实现立体文字重叠特效](https://github.com/haizlin/fe-interview/issues/4245)
