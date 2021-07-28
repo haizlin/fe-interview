@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.07.26) —— 832 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个大西瓜](https://github.com/haizlin/fe-interview/issues/4248)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现文字带轮廓边框特效](https://github.com/haizlin/fe-interview/issues/4249)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [BOM常用属性有哪些？](https://github.com/haizlin/fe-interview/issues/4250)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得你上学时哪门课程学得最好？为什么？](https://github.com/haizlin/fe-interview/issues/4251)  
+## :clock430: Today's Knowledge Points (2021.07.29) —— 835 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个经典“旺仔”的头像](https://github.com/haizlin/fe-interview/issues/4260)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现折线图效果](https://github.com/haizlin/fe-interview/issues/4261)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请分析`5 == [[[5]]]`的结果](https://github.com/haizlin/fe-interview/issues/4262)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何进行用户分析？](https://github.com/haizlin/fe-interview/issues/4263)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 831 days (2021.07.25)  
-    	 :one: [html] [使用HTML5绘制一只小蜜蜂](https://github.com/haizlin/fe-interview/issues/4244)  
-	 :two: [css] [使用CSS3实现立体文字重叠特效](https://github.com/haizlin/fe-interview/issues/4245)  
-	 :three: [js] [DOM是哪种基本的数据结构？](https://github.com/haizlin/fe-interview/issues/4246)  
-	 :four: [skill] [请说说你对用户体验的理解](https://github.com/haizlin/fe-interview/issues/4247)  
+- 834 days (2021.07.28)  
+    	 :one: [html] [使用HTML5绘制一个IE的Logo](https://github.com/haizlin/fe-interview/issues/4256)  
+	 :two: [css] [使用CSS3实现饼形图效果](https://github.com/haizlin/fe-interview/issues/4257)  
+	 :three: [js] [使用js封装一个ajax方法](https://github.com/haizlin/fe-interview/issues/4258)  
+	 :four: [skill] [什么样的体验才是好的用户体验？](https://github.com/haizlin/fe-interview/issues/4259)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,21 @@
 
 
 
+- 第835天 (2021.07.29)  
+    - [html] [使用HTML5绘制一个经典“旺仔”的头像](https://github.com/haizlin/fe-interview/issues/4260)
+    - [css] [使用CSS3实现折线图效果](https://github.com/haizlin/fe-interview/issues/4261)
+    - [js] [请分析`5 == [[[5]]]`的结果](https://github.com/haizlin/fe-interview/issues/4262)
+    - [软技能] [如何进行用户分析？](https://github.com/haizlin/fe-interview/issues/4263)
+- 第834天 (2021.07.28)  
+    - [html] [使用HTML5绘制一个IE的Logo](https://github.com/haizlin/fe-interview/issues/4256)
+    - [css] [使用CSS3实现饼形图效果](https://github.com/haizlin/fe-interview/issues/4257)
+    - [js] [使用js封装一个ajax方法](https://github.com/haizlin/fe-interview/issues/4258)
+    - [软技能] [什么样的体验才是好的用户体验？](https://github.com/haizlin/fe-interview/issues/4259)
+- 第833天 (2021.07.27)  
+    - [html] [使用HTML5绘制一个指南针](https://github.com/haizlin/fe-interview/issues/4252)
+    - [css] [使用CSS3实现星系轨道旋转特效](https://github.com/haizlin/fe-interview/issues/4253)
+    - [js] [写一个方法验证国内车牌号是否正确](https://github.com/haizlin/fe-interview/issues/4254)
+    - [软技能] [举例说明你体验最好的用户体验（可以是生活场景）？](https://github.com/haizlin/fe-interview/issues/4255)
 - 第832天 (2021.07.26)  
     - [html] [使用HTML5绘制一个大西瓜](https://github.com/haizlin/fe-interview/issues/4248)
     - [css] [使用CSS3实现文字带轮廓边框特效](https://github.com/haizlin/fe-interview/issues/4249)

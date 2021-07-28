@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.07.26) —— 第832天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个大西瓜](https://github.com/haizlin/fe-interview/issues/4248)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现文字带轮廓边框特效](https://github.com/haizlin/fe-interview/issues/4249)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [BOM常用属性有哪些？](https://github.com/haizlin/fe-interview/issues/4250)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你觉得你上学时哪门课程学得最好？为什么？](https://github.com/haizlin/fe-interview/issues/4251)  
+## :clock430: 今天的知识点   (2021.07.29) —— 第835天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个经典“旺仔”的头像](https://github.com/haizlin/fe-interview/issues/4260)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现折线图效果](https://github.com/haizlin/fe-interview/issues/4261)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请分析`5 == [[[5]]]`的结果](https://github.com/haizlin/fe-interview/issues/4262)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如何进行用户分析？](https://github.com/haizlin/fe-interview/issues/4263)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第831天 (2021.07.25)  
-    	 :one: [html] [使用HTML5绘制一只小蜜蜂](https://github.com/haizlin/fe-interview/issues/4244)  
-	 :two: [css] [使用CSS3实现立体文字重叠特效](https://github.com/haizlin/fe-interview/issues/4245)  
-	 :three: [js] [DOM是哪种基本的数据结构？](https://github.com/haizlin/fe-interview/issues/4246)  
-	 :four: [软技能] [请说说你对用户体验的理解](https://github.com/haizlin/fe-interview/issues/4247)  
+- 第834天 (2021.07.28)  
+    	 :one: [html] [使用HTML5绘制一个IE的Logo](https://github.com/haizlin/fe-interview/issues/4256)  
+	 :two: [css] [使用CSS3实现饼形图效果](https://github.com/haizlin/fe-interview/issues/4257)  
+	 :three: [js] [使用js封装一个ajax方法](https://github.com/haizlin/fe-interview/issues/4258)  
+	 :four: [软技能] [什么样的体验才是好的用户体验？](https://github.com/haizlin/fe-interview/issues/4259)  
  
 	
 - **[查看全部](category/history.md)**
