@@ -2,6 +2,16 @@
 
 
 
+- 第837天 (2021.07.31)  
+    - [html] [使用HTML5绘制一个发光的灯泡](https://github.com/haizlin/fe-interview/issues/4269)
+    - [css] [使用CSS3绘制一辆可以运动的自行车动画](https://github.com/haizlin/fe-interview/issues/4270)
+    - [js] [请问哪些语句会放入异步任务队列中？](https://github.com/haizlin/fe-interview/issues/4271)
+    - [软技能] [用户画像都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/4272)
+- 第836天 (2021.07.30)  
+    - [html] [使用HTML5绘制一道闪电](https://github.com/haizlin/fe-interview/issues/4265)
+    - [css] [使用CSS3实现柱状图效果](https://github.com/haizlin/fe-interview/issues/4266)
+    - [js] [使用js写个方法截取视频的第一帧](https://github.com/haizlin/fe-interview/issues/4267)
+    - [软技能] [说说你对用户画像的理解](https://github.com/haizlin/fe-interview/issues/4268)
 - 第835天 (2021.07.29)  
     - [html] [使用HTML5绘制一个经典“旺仔”的头像](https://github.com/haizlin/fe-interview/issues/4260)
     - [css] [使用CSS3实现折线图效果](https://github.com/haizlin/fe-interview/issues/4261)

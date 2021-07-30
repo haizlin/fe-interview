@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.07.29) —— 835 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个经典“旺仔”的头像](https://github.com/haizlin/fe-interview/issues/4260)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现折线图效果](https://github.com/haizlin/fe-interview/issues/4261)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请分析`5 == [[[5]]]`的结果](https://github.com/haizlin/fe-interview/issues/4262)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何进行用户分析？](https://github.com/haizlin/fe-interview/issues/4263)  
+## :clock430: Today's Knowledge Points (2021.07.31) —— 837 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个发光的灯泡](https://github.com/haizlin/fe-interview/issues/4269)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3绘制一辆可以运动的自行车动画](https://github.com/haizlin/fe-interview/issues/4270)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请问哪些语句会放入异步任务队列中？](https://github.com/haizlin/fe-interview/issues/4271)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [用户画像都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/4272)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 834 days (2021.07.28)  
-    	 :one: [html] [使用HTML5绘制一个IE的Logo](https://github.com/haizlin/fe-interview/issues/4256)  
-	 :two: [css] [使用CSS3实现饼形图效果](https://github.com/haizlin/fe-interview/issues/4257)  
-	 :three: [js] [使用js封装一个ajax方法](https://github.com/haizlin/fe-interview/issues/4258)  
-	 :four: [skill] [什么样的体验才是好的用户体验？](https://github.com/haizlin/fe-interview/issues/4259)  
+- 836 days (2021.07.30)  
+    	 :one: [html] [使用HTML5绘制一道闪电](https://github.com/haizlin/fe-interview/issues/4265)  
+	 :two: [css] [使用CSS3实现柱状图效果](https://github.com/haizlin/fe-interview/issues/4266)  
+	 :three: [js] [使用js写个方法截取视频的第一帧](https://github.com/haizlin/fe-interview/issues/4267)  
+	 :four: [skill] [说说你对用户画像的理解](https://github.com/haizlin/fe-interview/issues/4268)  
  
 	
 - **[All](category/history.md)**
