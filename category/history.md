@@ -2,6 +2,11 @@
 
 
 
+- 第838天 (2021.08.01)  
+    - [html] [使用HTML5绘制一个高脚杯](https://github.com/haizlin/fe-interview/issues/4273)
+    - [css] [使用CSS3绘制一只卡通小蜜蜂的动画特效](https://github.com/haizlin/fe-interview/issues/4274)
+    - [js] [typeof Symbol()的结果是什么？](https://github.com/haizlin/fe-interview/issues/4275)
+    - [软技能] [如何做用户画像分析？](https://github.com/haizlin/fe-interview/issues/4276)
 - 第837天 (2021.07.31)  
     - [html] [使用HTML5绘制一个发光的灯泡](https://github.com/haizlin/fe-interview/issues/4269)
     - [css] [使用CSS3绘制一辆可以运动的自行车动画](https://github.com/haizlin/fe-interview/issues/4270)
