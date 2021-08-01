@@ -2,6 +2,11 @@
 
 
 
+- 第839天 (2021.08.02)  
+    - [html] [使用HTML5+CSS3实现一个轮胎滚动的特效](https://github.com/haizlin/fe-interview/issues/4277)
+    - [css] [使用CSS3绘制一只愤怒的小鸟卡通形象](https://github.com/haizlin/fe-interview/issues/4278)
+    - [js] [typeof undefined的结果是什么？](https://github.com/haizlin/fe-interview/issues/4279)
+    - [软技能] [如何调查用户的需求、痛点？](https://github.com/haizlin/fe-interview/issues/4280)
 - 第838天 (2021.08.01)  
     - [html] [使用HTML5绘制一个高脚杯](https://github.com/haizlin/fe-interview/issues/4273)
     - [css] [使用CSS3绘制一只卡通小蜜蜂的动画特效](https://github.com/haizlin/fe-interview/issues/4274)

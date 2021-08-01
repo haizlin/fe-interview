@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.08.01) —— 838 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5绘制一个高脚杯](https://github.com/haizlin/fe-interview/issues/4273)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3绘制一只卡通小蜜蜂的动画特效](https://github.com/haizlin/fe-interview/issues/4274)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [typeof Symbol()的结果是什么？](https://github.com/haizlin/fe-interview/issues/4275)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何做用户画像分析？](https://github.com/haizlin/fe-interview/issues/4276)  
+## :clock430: Today's Knowledge Points (2021.08.02) —— 839 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5+CSS3实现一个轮胎滚动的特效](https://github.com/haizlin/fe-interview/issues/4277)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3绘制一只愤怒的小鸟卡通形象](https://github.com/haizlin/fe-interview/issues/4278)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [typeof undefined的结果是什么？](https://github.com/haizlin/fe-interview/issues/4279)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如何调查用户的需求、痛点？](https://github.com/haizlin/fe-interview/issues/4280)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 837 days (2021.07.31)  
-    	 :one: [html] [使用HTML5绘制一个发光的灯泡](https://github.com/haizlin/fe-interview/issues/4269)  
-	 :two: [css] [使用CSS3绘制一辆可以运动的自行车动画](https://github.com/haizlin/fe-interview/issues/4270)  
-	 :three: [js] [请问哪些语句会放入异步任务队列中？](https://github.com/haizlin/fe-interview/issues/4271)  
-	 :four: [skill] [用户画像都有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/4272)  
+- 838 days (2021.08.01)  
+    	 :one: [html] [使用HTML5绘制一个高脚杯](https://github.com/haizlin/fe-interview/issues/4273)  
+	 :two: [css] [使用CSS3绘制一只卡通小蜜蜂的动画特效](https://github.com/haizlin/fe-interview/issues/4274)  
+	 :three: [js] [typeof Symbol()的结果是什么？](https://github.com/haizlin/fe-interview/issues/4275)  
+	 :four: [skill] [如何做用户画像分析？](https://github.com/haizlin/fe-interview/issues/4276)  
  
 	
 - **[All](category/history.md)**
