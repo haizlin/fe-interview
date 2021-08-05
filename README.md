@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.08.02) —— 第839天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5+CSS3实现一个轮胎滚动的特效](https://github.com/haizlin/fe-interview/issues/4277)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3绘制一只愤怒的小鸟卡通形象](https://github.com/haizlin/fe-interview/issues/4278)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [typeof undefined的结果是什么？](https://github.com/haizlin/fe-interview/issues/4279)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如何调查用户的需求、痛点？](https://github.com/haizlin/fe-interview/issues/4280)  
+## :clock430: 今天的知识点   (2021.08.06) —— 第843天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [前端可以绘制图形有哪几种方法？](https://github.com/haizlin/fe-interview/issues/4294)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3+SVG绘制时间沙漏动画特效](https://github.com/haizlin/fe-interview/issues/4295)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你是如何自学js这门语言的？](https://github.com/haizlin/fe-interview/issues/4296)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [作为部门领导，你是如何计算投入产出比的？](https://github.com/haizlin/fe-interview/issues/4297)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第838天 (2021.08.01)  
-    	 :one: [html] [使用HTML5绘制一个高脚杯](https://github.com/haizlin/fe-interview/issues/4273)  
-	 :two: [css] [使用CSS3绘制一只卡通小蜜蜂的动画特效](https://github.com/haizlin/fe-interview/issues/4274)  
-	 :three: [js] [typeof Symbol()的结果是什么？](https://github.com/haizlin/fe-interview/issues/4275)  
-	 :four: [软技能] [如何做用户画像分析？](https://github.com/haizlin/fe-interview/issues/4276)  
+- 第842天 (2021.08.05)  
+    	 :one: [html] [html代码中混合php或者其它后台语言代码，你觉得好维护吗？为什么？](https://github.com/haizlin/fe-interview/issues/4290)  
+	 :two: [css] [使用CSS3绘制天狗食月日食动画特效](https://github.com/haizlin/fe-interview/issues/4291)  
+	 :three: [js] [写一个方法判断字符串是否符合USD的格式](https://github.com/haizlin/fe-interview/issues/4292)  
+	 :four: [软技能] [薅羊毛的原理你知道吗？](https://github.com/haizlin/fe-interview/issues/4293)  
  
 	
 - **[查看全部](category/history.md)**
