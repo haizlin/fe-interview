@@ -2,6 +2,11 @@
 
 
 
+- 第844天 (2021.08.07)  
+    - [html] [说说webGL和canvas的区别](https://github.com/haizlin/fe-interview/issues/4298)
+    - [css] [使用CSS3+SVG绘制一只唐老鸭](https://github.com/haizlin/fe-interview/issues/4299)
+    - [js] [写一个方法计算给定时间的倒计时](https://github.com/haizlin/fe-interview/issues/4300)
+    - [软技能] [前端如何预防羊毛党呢？有什么手段措施？](https://github.com/haizlin/fe-interview/issues/4301)
 - 第843天 (2021.08.06)  
     - [html] [前端可以绘制图形有哪几种方法？](https://github.com/haizlin/fe-interview/issues/4294)
     - [css] [使用CSS3+SVG绘制时间沙漏动画特效](https://github.com/haizlin/fe-interview/issues/4295)

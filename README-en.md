@@ -26,11 +26,9 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.08.06) —— 843 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [前端可以绘制图形有哪几种方法？](https://github.com/haizlin/fe-interview/issues/4294)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3+SVG绘制时间沙漏动画特效](https://github.com/haizlin/fe-interview/issues/4295)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你是如何自学js这门语言的？](https://github.com/haizlin/fe-interview/issues/4296)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [作为部门领导，你是如何计算投入产出比的？](https://github.com/haizlin/fe-interview/issues/4297)  
+## :clock430: Today's Knowledge Points (2021.08.07) —— 844 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说webGL和canvas的区别](https://github.com/haizlin/fe-interview/issues/4298)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3+SVG绘制一只唐老鸭](https://github.com/haizlin/fe-interview/issues/4299)  
  
   
 ### :camel: History
@@ -41,11 +39,9 @@
     …………  
 
 
-- 842 days (2021.08.05)  
-    	 :one: [html] [html代码中混合php或者其它后台语言代码，你觉得好维护吗？为什么？](https://github.com/haizlin/fe-interview/issues/4290)  
-	 :two: [css] [使用CSS3绘制天狗食月日食动画特效](https://github.com/haizlin/fe-interview/issues/4291)  
-	 :three: [js] [写一个方法判断字符串是否符合USD的格式](https://github.com/haizlin/fe-interview/issues/4292)  
-	 :four: [skill] [薅羊毛的原理你知道吗？](https://github.com/haizlin/fe-interview/issues/4293)  
+- 843 days (2021.08.06)  
+    	 :one: [html] [前端可以绘制图形有哪几种方法？](https://github.com/haizlin/fe-interview/issues/4294)  
+	 :two: [css] [使用CSS3+SVG绘制时间沙漏动画特效](https://github.com/haizlin/fe-interview/issues/4295)  
  
 	
 - **[All](category/history.md)**
