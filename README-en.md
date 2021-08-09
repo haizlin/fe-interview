@@ -26,9 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.08.07) —— 844 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说webGL和canvas的区别](https://github.com/haizlin/fe-interview/issues/4298)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3+SVG绘制一只唐老鸭](https://github.com/haizlin/fe-interview/issues/4299)  
+## :clock430: Today's Knowledge Points (2021.08.10) —— 847 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [h5页面如何与微信通信？](https://github.com/haizlin/fe-interview/issues/4310)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写一个加入购物车时的飞行动画特效](https://github.com/haizlin/fe-interview/issues/4311)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [把一个数组置空有哪些方法？](https://github.com/haizlin/fe-interview/issues/4312)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [公司加班到几点能你接受？为什么？](https://github.com/haizlin/fe-interview/issues/4313)  
  
   
 ### :camel: History
@@ -39,9 +41,11 @@
     …………  
 
 
-- 843 days (2021.08.06)  
-    	 :one: [html] [前端可以绘制图形有哪几种方法？](https://github.com/haizlin/fe-interview/issues/4294)  
-	 :two: [css] [使用CSS3+SVG绘制时间沙漏动画特效](https://github.com/haizlin/fe-interview/issues/4295)  
+- 846 days (2021.08.09)  
+    	 :one: [html] [webGL和svg有什么区别？](https://github.com/haizlin/fe-interview/issues/4306)  
+	 :two: [css] [使用CSS制作一个音阶动画特效](https://github.com/haizlin/fe-interview/issues/4307)  
+	 :three: [js] [请解释下reduce方法有哪些用法](https://github.com/haizlin/fe-interview/issues/4308)  
+	 :four: [skill] [电脑连不上网，你知道怎么解决吗？](https://github.com/haizlin/fe-interview/issues/4309)  
  
 	
 - **[All](category/history.md)**

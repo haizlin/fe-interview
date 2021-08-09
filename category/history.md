@@ -2,6 +2,21 @@
 
 
 
+- 第847天 (2021.08.10)  
+    - [html] [h5页面如何与微信通信？](https://github.com/haizlin/fe-interview/issues/4310)
+    - [css] [写一个加入购物车时的飞行动画特效](https://github.com/haizlin/fe-interview/issues/4311)
+    - [js] [把一个数组置空有哪些方法？](https://github.com/haizlin/fe-interview/issues/4312)
+    - [软技能] [公司加班到几点能你接受？为什么？](https://github.com/haizlin/fe-interview/issues/4313)
+- 第846天 (2021.08.09)  
+    - [html] [webGL和svg有什么区别？](https://github.com/haizlin/fe-interview/issues/4306)
+    - [css] [使用CSS制作一个音阶动画特效](https://github.com/haizlin/fe-interview/issues/4307)
+    - [js] [请解释下reduce方法有哪些用法](https://github.com/haizlin/fe-interview/issues/4308)
+    - [软技能] [电脑连不上网，你知道怎么解决吗？](https://github.com/haizlin/fe-interview/issues/4309)
+- 第845天 (2021.08.08)  
+    - [html] [使用webgl画一张贺卡](https://github.com/haizlin/fe-interview/issues/4302)
+    - [css] [使用CSS3+SVG绘制一只哆啦a梦机器猫头像](https://github.com/haizlin/fe-interview/issues/4303)
+    - [js] [写一个方法，找出最接近当前的数的2的指数的数](https://github.com/haizlin/fe-interview/issues/4304)
+    - [软技能] [你对网络通信有了解吗？](https://github.com/haizlin/fe-interview/issues/4305)
 - 第844天 (2021.08.07)  
     - [html] [说说webGL和canvas的区别](https://github.com/haizlin/fe-interview/issues/4298)
     - [css] [使用CSS3+SVG绘制一只唐老鸭](https://github.com/haizlin/fe-interview/issues/4299)
