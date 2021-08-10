@@ -2,6 +2,11 @@
 
 
 
+- 第848天 (2021.08.11)  
+    - [html] [前端如何在h5页面调用微信支付？](https://github.com/haizlin/fe-interview/issues/4314)
+    - [css] [使用CSS3实现电影投影仪动画](https://github.com/haizlin/fe-interview/issues/4315)
+    - [js] [写一个防止重复请求接口的方法](https://github.com/haizlin/fe-interview/issues/4316)
+    - [软技能] [在公司加班，你觉得公司应该给予什么样的福利？](https://github.com/haizlin/fe-interview/issues/4317)
 - 第847天 (2021.08.10)  
     - [html] [h5页面如何与微信通信？](https://github.com/haizlin/fe-interview/issues/4310)
     - [css] [写一个加入购物车时的飞行动画特效](https://github.com/haizlin/fe-interview/issues/4311)

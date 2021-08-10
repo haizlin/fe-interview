@@ -26,11 +26,9 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.08.10) —— 第847天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [h5页面如何与微信通信？](https://github.com/haizlin/fe-interview/issues/4310)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写一个加入购物车时的飞行动画特效](https://github.com/haizlin/fe-interview/issues/4311)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [把一个数组置空有哪些方法？](https://github.com/haizlin/fe-interview/issues/4312)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [公司加班到几点能你接受？为什么？](https://github.com/haizlin/fe-interview/issues/4313)  
+## :clock430: 今天的知识点   (2021.08.11) —— 第848天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [前端如何在h5页面调用微信支付？](https://github.com/haizlin/fe-interview/issues/4314)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS3实现电影投影仪动画](https://github.com/haizlin/fe-interview/issues/4315)  
  
   
 ### :camel: 历史题目
@@ -42,11 +40,9 @@
     …………  
 
 
-- 第846天 (2021.08.09)  
-    	 :one: [html] [webGL和svg有什么区别？](https://github.com/haizlin/fe-interview/issues/4306)  
-	 :two: [css] [使用CSS制作一个音阶动画特效](https://github.com/haizlin/fe-interview/issues/4307)  
-	 :three: [js] [请解释下reduce方法有哪些用法](https://github.com/haizlin/fe-interview/issues/4308)  
-	 :four: [软技能] [电脑连不上网，你知道怎么解决吗？](https://github.com/haizlin/fe-interview/issues/4309)  
+- 第847天 (2021.08.10)  
+    	 :one: [html] [h5页面如何与微信通信？](https://github.com/haizlin/fe-interview/issues/4310)  
+	 :two: [css] [写一个加入购物车时的飞行动画特效](https://github.com/haizlin/fe-interview/issues/4311)  
  
 	
 - **[查看全部](category/history.md)**
