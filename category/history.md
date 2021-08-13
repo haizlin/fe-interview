@@ -2,6 +2,21 @@
 
 
 
+- 第851天 (2021.08.14)  
+    - [html] [微信打开的h5页面如何调用微信的方法？](https://github.com/haizlin/fe-interview/issues/4326)
+    - [css] [使用css画一个梯形](https://github.com/haizlin/fe-interview/issues/4327)
+    - [js] [写一个方法找出在一个数组中和为目标值的两个整数](https://github.com/haizlin/fe-interview/issues/4328)
+    - [软技能] [你觉得哪些会议是无效的？](https://github.com/haizlin/fe-interview/issues/4329)
+- 第850天 (2021.08.13)  
+    - [html] [小程序web-view嵌入H5页面能不能调用微信的API？](https://github.com/haizlin/fe-interview/issues/4322)
+    - [css] [使用css3画一个小火车动画](https://github.com/haizlin/fe-interview/issues/4323)
+    - [js] [函数的fn.length和arguments.length有什么区别？](https://github.com/haizlin/fe-interview/issues/4324)
+    - [软技能] [你喜欢哪个省市？为什么？](https://github.com/haizlin/fe-interview/issues/4325)
+- 第849天 (2021.08.12)  
+    - [html] [微信小程序如何主动与H5通信？](https://github.com/haizlin/fe-interview/issues/4318)
+    - [css] [使用flex布局实现一左一右对齐](https://github.com/haizlin/fe-interview/issues/4319)
+    - [js] [说说你对Memoization的了解及它有什么用途？](https://github.com/haizlin/fe-interview/issues/4320)
+    - [软技能] [你会拒绝开什么样的会议？](https://github.com/haizlin/fe-interview/issues/4321)
 - 第848天 (2021.08.11)  
     - [html] [前端如何在h5页面调用微信支付？](https://github.com/haizlin/fe-interview/issues/4314)
     - [css] [使用CSS3实现电影投影仪动画](https://github.com/haizlin/fe-interview/issues/4315)
