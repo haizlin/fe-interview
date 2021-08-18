@@ -26,10 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.08.14) —— 851 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [微信打开的h5页面如何调用微信的方法？](https://github.com/haizlin/fe-interview/issues/4326)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css画一个梯形](https://github.com/haizlin/fe-interview/issues/4327)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法找出在一个数组中和为目标值的两个整数](https://github.com/haizlin/fe-interview/issues/4328)  
+## :clock430: Today's Knowledge Points (2021.08.19) —— 856 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [cookie的存储如果超过了最大限制将会发生什么事情？如何解决？](https://github.com/haizlin/fe-interview/issues/4346)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS将列表的项使用逗号分隔显示](https://github.com/haizlin/fe-interview/issues/4347)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你使用过哪些数学函数？说下它们的作用](https://github.com/haizlin/fe-interview/issues/4348)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得人与人沟通的基本准则是什么？你自己认可哪一种？](https://github.com/haizlin/fe-interview/issues/4349)  
  
   
 ### :camel: History
@@ -40,10 +41,11 @@
     …………  
 
 
-- 850 days (2021.08.13)  
-    	 :one: [html] [小程序web-view嵌入H5页面能不能调用微信的API？](https://github.com/haizlin/fe-interview/issues/4322)  
-	 :two: [css] [使用css3画一个小火车动画](https://github.com/haizlin/fe-interview/issues/4323)  
-	 :three: [js] [函数的fn.length和arguments.length有什么区别？](https://github.com/haizlin/fe-interview/issues/4324)  
+- 855 days (2021.08.18)  
+    	 :one: [html] [在高分辨率下写页面，应该注意什么？](https://github.com/haizlin/fe-interview/issues/4342)  
+	 :two: [css] [隐藏元素的background-image会加载吗？](https://github.com/haizlin/fe-interview/issues/4343)  
+	 :three: [js] [写一个方法去掉最后一个字符串","](https://github.com/haizlin/fe-interview/issues/4344)  
+	 :four: [skill] [你觉得前端程序员如何自我修练？](https://github.com/haizlin/fe-interview/issues/4345)  
  
 	
 - **[All](category/history.md)**
