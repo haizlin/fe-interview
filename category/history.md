@@ -2,6 +2,16 @@
 
 
 
+- 第858天 (2021.08.21)  
+    - [html] [meta标签的哪个属性是必须的？](https://github.com/haizlin/fe-interview/issues/4354)
+    - [css] [你有使用过伪元素::marker吗？它有什么用途](https://github.com/haizlin/fe-interview/issues/4355)
+    - [js] [写一个方法获取数组的最大值和最小值](https://github.com/haizlin/fe-interview/issues/4356)
+    - [软技能] [你知道显示器的刷新率是什么吗？](https://github.com/haizlin/fe-interview/issues/4357)
+- 第857天 (2021.08.20)  
+    - [html] [你知道html标签meta中的Content-Security-Policy有什么作用吗？](https://github.com/haizlin/fe-interview/issues/4350)
+    - [css] [引用第三方的css安不安全？为什么？](https://github.com/haizlin/fe-interview/issues/4351)
+    - [js] [js如何进行特性检测？](https://github.com/haizlin/fe-interview/issues/4352)
+    - [软技能] [你使用过显示器的分辨率最高是多少？](https://github.com/haizlin/fe-interview/issues/4353)
 - 第856天 (2021.08.19)  
     - [html] [cookie的存储如果超过了最大限制将会发生什么事情？如何解决？](https://github.com/haizlin/fe-interview/issues/4346)
     - [css] [使用CSS将列表的项使用逗号分隔显示](https://github.com/haizlin/fe-interview/issues/4347)

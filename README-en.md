@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.08.19) —— 856 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [cookie的存储如果超过了最大限制将会发生什么事情？如何解决？](https://github.com/haizlin/fe-interview/issues/4346)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用CSS将列表的项使用逗号分隔显示](https://github.com/haizlin/fe-interview/issues/4347)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [你使用过哪些数学函数？说下它们的作用](https://github.com/haizlin/fe-interview/issues/4348)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得人与人沟通的基本准则是什么？你自己认可哪一种？](https://github.com/haizlin/fe-interview/issues/4349)  
+## :clock430: Today's Knowledge Points (2021.08.21) —— 858 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [meta标签的哪个属性是必须的？](https://github.com/haizlin/fe-interview/issues/4354)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过伪元素::marker吗？它有什么用途](https://github.com/haizlin/fe-interview/issues/4355)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法获取数组的最大值和最小值](https://github.com/haizlin/fe-interview/issues/4356)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你知道显示器的刷新率是什么吗？](https://github.com/haizlin/fe-interview/issues/4357)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 855 days (2021.08.18)  
-    	 :one: [html] [在高分辨率下写页面，应该注意什么？](https://github.com/haizlin/fe-interview/issues/4342)  
-	 :two: [css] [隐藏元素的background-image会加载吗？](https://github.com/haizlin/fe-interview/issues/4343)  
-	 :three: [js] [写一个方法去掉最后一个字符串","](https://github.com/haizlin/fe-interview/issues/4344)  
-	 :four: [skill] [你觉得前端程序员如何自我修练？](https://github.com/haizlin/fe-interview/issues/4345)  
+- 857 days (2021.08.20)  
+    	 :one: [html] [你知道html标签meta中的Content-Security-Policy有什么作用吗？](https://github.com/haizlin/fe-interview/issues/4350)  
+	 :two: [css] [引用第三方的css安不安全？为什么？](https://github.com/haizlin/fe-interview/issues/4351)  
+	 :three: [js] [js如何进行特性检测？](https://github.com/haizlin/fe-interview/issues/4352)  
+	 :four: [skill] [你使用过显示器的分辨率最高是多少？](https://github.com/haizlin/fe-interview/issues/4353)  
  
 	
 - **[All](category/history.md)**
