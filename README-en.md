@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.08.21) —— 858 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [meta标签的哪个属性是必须的？](https://github.com/haizlin/fe-interview/issues/4354)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过伪元素::marker吗？它有什么用途](https://github.com/haizlin/fe-interview/issues/4355)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法获取数组的最大值和最小值](https://github.com/haizlin/fe-interview/issues/4356)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你知道显示器的刷新率是什么吗？](https://github.com/haizlin/fe-interview/issues/4357)  
+## :clock430: Today's Knowledge Points (2021.08.22) —— 859 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签author有什么作用？](https://github.com/haizlin/fe-interview/issues/4358)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css的属性@Property有什么用途？](https://github.com/haizlin/fe-interview/issues/4359)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，将2N个元素的数组随机两两组合](https://github.com/haizlin/fe-interview/issues/4360)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得哪些是伪程序员？](https://github.com/haizlin/fe-interview/issues/4361)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 857 days (2021.08.20)  
-    	 :one: [html] [你知道html标签meta中的Content-Security-Policy有什么作用吗？](https://github.com/haizlin/fe-interview/issues/4350)  
-	 :two: [css] [引用第三方的css安不安全？为什么？](https://github.com/haizlin/fe-interview/issues/4351)  
-	 :three: [js] [js如何进行特性检测？](https://github.com/haizlin/fe-interview/issues/4352)  
-	 :four: [skill] [你使用过显示器的分辨率最高是多少？](https://github.com/haizlin/fe-interview/issues/4353)  
+- 858 days (2021.08.21)  
+    	 :one: [html] [meta标签的哪个属性是必须的？](https://github.com/haizlin/fe-interview/issues/4354)  
+	 :two: [css] [你有使用过伪元素::marker吗？它有什么用途](https://github.com/haizlin/fe-interview/issues/4355)  
+	 :three: [js] [写一个方法获取数组的最大值和最小值](https://github.com/haizlin/fe-interview/issues/4356)  
+	 :four: [skill] [你知道显示器的刷新率是什么吗？](https://github.com/haizlin/fe-interview/issues/4357)  
  
 	
 - **[All](category/history.md)**

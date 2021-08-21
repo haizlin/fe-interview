@@ -2,6 +2,11 @@
 
 
 
+- 第859天 (2021.08.22)  
+    - [html] [html5中的meta标签author有什么作用？](https://github.com/haizlin/fe-interview/issues/4358)
+    - [css] [css的属性@Property有什么用途？](https://github.com/haizlin/fe-interview/issues/4359)
+    - [js] [写一个方法，将2N个元素的数组随机两两组合](https://github.com/haizlin/fe-interview/issues/4360)
+    - [软技能] [你觉得哪些是伪程序员？](https://github.com/haizlin/fe-interview/issues/4361)
 - 第858天 (2021.08.21)  
     - [html] [meta标签的哪个属性是必须的？](https://github.com/haizlin/fe-interview/issues/4354)
     - [css] [你有使用过伪元素::marker吗？它有什么用途](https://github.com/haizlin/fe-interview/issues/4355)
