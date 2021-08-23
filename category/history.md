@@ -2,6 +2,16 @@
 
 
 
+- 第861天 (2021.08.24)  
+    - [html] [html5中的meta标签keywords有什么作用？](https://github.com/haizlin/fe-interview/issues/4366)
+    - [css] [实现一个左边竖条](https://github.com/haizlin/fe-interview/issues/4367)
+    - [js] [解释下`{} + [] == [] + {}`的结果](https://github.com/haizlin/fe-interview/issues/4368)
+    - [软技能] [你是如何自我提升的？](https://github.com/haizlin/fe-interview/issues/4369)
+- 第860天 (2021.08.23)  
+    - [html] [html5中的meta标签description有什么作用？](https://github.com/haizlin/fe-interview/issues/4362)
+    - [css] [什么是 CSS Motion Path 运动路径？](https://github.com/haizlin/fe-interview/issues/4363)
+    - [js] [写个方法获取数组任意个不重复的随机数组元素](https://github.com/haizlin/fe-interview/issues/4364)
+    - [软技能] [你是如何做到自我管理的？](https://github.com/haizlin/fe-interview/issues/4365)
 - 第859天 (2021.08.22)  
     - [html] [html5中的meta标签author有什么作用？](https://github.com/haizlin/fe-interview/issues/4358)
     - [css] [css的属性@Property有什么用途？](https://github.com/haizlin/fe-interview/issues/4359)

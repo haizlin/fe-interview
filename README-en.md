@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.08.22) —— 859 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签author有什么作用？](https://github.com/haizlin/fe-interview/issues/4358)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css的属性@Property有什么用途？](https://github.com/haizlin/fe-interview/issues/4359)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法，将2N个元素的数组随机两两组合](https://github.com/haizlin/fe-interview/issues/4360)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你觉得哪些是伪程序员？](https://github.com/haizlin/fe-interview/issues/4361)  
+## :clock430: Today's Knowledge Points (2021.08.24) —— 861 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签keywords有什么作用？](https://github.com/haizlin/fe-interview/issues/4366)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [实现一个左边竖条](https://github.com/haizlin/fe-interview/issues/4367)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下`{} + [] == [] + {}`的结果](https://github.com/haizlin/fe-interview/issues/4368)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你是如何自我提升的？](https://github.com/haizlin/fe-interview/issues/4369)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 858 days (2021.08.21)  
-    	 :one: [html] [meta标签的哪个属性是必须的？](https://github.com/haizlin/fe-interview/issues/4354)  
-	 :two: [css] [你有使用过伪元素::marker吗？它有什么用途](https://github.com/haizlin/fe-interview/issues/4355)  
-	 :three: [js] [写一个方法获取数组的最大值和最小值](https://github.com/haizlin/fe-interview/issues/4356)  
-	 :four: [skill] [你知道显示器的刷新率是什么吗？](https://github.com/haizlin/fe-interview/issues/4357)  
+- 860 days (2021.08.23)  
+    	 :one: [html] [html5中的meta标签description有什么作用？](https://github.com/haizlin/fe-interview/issues/4362)  
+	 :two: [css] [什么是 CSS Motion Path 运动路径？](https://github.com/haizlin/fe-interview/issues/4363)  
+	 :three: [js] [写个方法获取数组任意个不重复的随机数组元素](https://github.com/haizlin/fe-interview/issues/4364)  
+	 :four: [skill] [你是如何做到自我管理的？](https://github.com/haizlin/fe-interview/issues/4365)  
  
 	
 - **[All](category/history.md)**
