@@ -26,11 +26,9 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.08.24) —— 第861天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签keywords有什么作用？](https://github.com/haizlin/fe-interview/issues/4366)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [实现一个左边竖条](https://github.com/haizlin/fe-interview/issues/4367)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [解释下`{} + [] == [] + {}`的结果](https://github.com/haizlin/fe-interview/issues/4368)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何自我提升的？](https://github.com/haizlin/fe-interview/issues/4369)  
+## :clock430: 今天的知识点   (2021.08.25) —— 第862天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签revised有什么作用？](https://github.com/haizlin/fe-interview/issues/4370)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个条纹边框](https://github.com/haizlin/fe-interview/issues/4371)  
  
   
 ### :camel: 历史题目
@@ -42,11 +40,9 @@
     …………  
 
 
-- 第860天 (2021.08.23)  
-    	 :one: [html] [html5中的meta标签description有什么作用？](https://github.com/haizlin/fe-interview/issues/4362)  
-	 :two: [css] [什么是 CSS Motion Path 运动路径？](https://github.com/haizlin/fe-interview/issues/4363)  
-	 :three: [js] [写个方法获取数组任意个不重复的随机数组元素](https://github.com/haizlin/fe-interview/issues/4364)  
-	 :four: [软技能] [你是如何做到自我管理的？](https://github.com/haizlin/fe-interview/issues/4365)  
+- 第861天 (2021.08.24)  
+    	 :one: [html] [html5中的meta标签keywords有什么作用？](https://github.com/haizlin/fe-interview/issues/4366)  
+	 :two: [css] [实现一个左边竖条](https://github.com/haizlin/fe-interview/issues/4367)  
  
 	
 - **[查看全部](category/history.md)**

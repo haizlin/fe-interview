@@ -2,6 +2,11 @@
 
 
 
+- 第862天 (2021.08.25)  
+    - [html] [html5中的meta标签revised有什么作用？](https://github.com/haizlin/fe-interview/issues/4370)
+    - [css] [使用css实现一个条纹边框](https://github.com/haizlin/fe-interview/issues/4371)
+    - [js] [解释下`({} + [] == [] + {})`的结果](https://github.com/haizlin/fe-interview/issues/4372)
+    - [软技能] [你了解超分辨率吗？](https://github.com/haizlin/fe-interview/issues/4373)
 - 第861天 (2021.08.24)  
     - [html] [html5中的meta标签keywords有什么作用？](https://github.com/haizlin/fe-interview/issues/4366)
     - [css] [实现一个左边竖条](https://github.com/haizlin/fe-interview/issues/4367)
