@@ -26,9 +26,9 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.08.25) —— 862 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签revised有什么作用？](https://github.com/haizlin/fe-interview/issues/4370)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个条纹边框](https://github.com/haizlin/fe-interview/issues/4371)  
+## :clock430: Today's Knowledge Points (2021.08.26) —— 863 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签scheme有什么作用？](https://github.com/haizlin/fe-interview/issues/4374)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个曲线路径动画](https://github.com/haizlin/fe-interview/issues/4375)  
  
   
 ### :camel: History
@@ -39,9 +39,9 @@
     …………  
 
 
-- 861 days (2021.08.24)  
-    	 :one: [html] [html5中的meta标签keywords有什么作用？](https://github.com/haizlin/fe-interview/issues/4366)  
-	 :two: [css] [实现一个左边竖条](https://github.com/haizlin/fe-interview/issues/4367)  
+- 862 days (2021.08.25)  
+    	 :one: [html] [html5中的meta标签revised有什么作用？](https://github.com/haizlin/fe-interview/issues/4370)  
+	 :two: [css] [使用css实现一个条纹边框](https://github.com/haizlin/fe-interview/issues/4371)  
  
 	
 - **[All](category/history.md)**

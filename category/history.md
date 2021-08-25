@@ -2,6 +2,11 @@
 
 
 
+- 第863天 (2021.08.26)  
+    - [html] [html5中的meta标签scheme有什么作用？](https://github.com/haizlin/fe-interview/issues/4374)
+    - [css] [使用css实现一个曲线路径动画](https://github.com/haizlin/fe-interview/issues/4375)
+    - [js] [如何用js实现VR的功能](https://github.com/haizlin/fe-interview/issues/4376)
+    - [软技能] [你所在的部门会经常聚餐吗？](https://github.com/haizlin/fe-interview/issues/4377)
 - 第862天 (2021.08.25)  
     - [html] [html5中的meta标签revised有什么作用？](https://github.com/haizlin/fe-interview/issues/4370)
     - [css] [使用css实现一个条纹边框](https://github.com/haizlin/fe-interview/issues/4371)
