@@ -2,6 +2,11 @@
 
 
 
+- 第864天 (2021.08.27)  
+    - [html] [你有使用过bgsound标签吗？说说它的作用](https://github.com/haizlin/fe-interview/issues/4378)
+    - [css] [你有使用过resize属性吗？它有什么用途？](https://github.com/haizlin/fe-interview/issues/4379)
+    - [js] [js如何阻止默认事件？](https://github.com/haizlin/fe-interview/issues/4380)
+    - [软技能] [你有经常参加同学或朋友聚会吗？](https://github.com/haizlin/fe-interview/issues/4381)
 - 第863天 (2021.08.26)  
     - [html] [html5中的meta标签scheme有什么作用？](https://github.com/haizlin/fe-interview/issues/4374)
     - [css] [使用css实现一个曲线路径动画](https://github.com/haizlin/fe-interview/issues/4375)

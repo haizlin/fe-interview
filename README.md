@@ -26,9 +26,9 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.08.26) —— 第863天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签scheme有什么作用？](https://github.com/haizlin/fe-interview/issues/4374)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个曲线路径动画](https://github.com/haizlin/fe-interview/issues/4375)  
+## :clock430: 今天的知识点   (2021.08.27) —— 第864天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过bgsound标签吗？说说它的作用](https://github.com/haizlin/fe-interview/issues/4378)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过resize属性吗？它有什么用途？](https://github.com/haizlin/fe-interview/issues/4379)  
  
   
 ### :camel: 历史题目
@@ -40,9 +40,9 @@
     …………  
 
 
-- 第862天 (2021.08.25)  
-    	 :one: [html] [html5中的meta标签revised有什么作用？](https://github.com/haizlin/fe-interview/issues/4370)  
-	 :two: [css] [使用css实现一个条纹边框](https://github.com/haizlin/fe-interview/issues/4371)  
+- 第863天 (2021.08.26)  
+    	 :one: [html] [html5中的meta标签scheme有什么作用？](https://github.com/haizlin/fe-interview/issues/4374)  
+	 :two: [css] [使用css实现一个曲线路径动画](https://github.com/haizlin/fe-interview/issues/4375)  
  
 	
 - **[查看全部](category/history.md)**
