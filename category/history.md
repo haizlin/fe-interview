@@ -2,6 +2,11 @@
 
 
 
+- 第865天 (2021.08.28)  
+    - [html] [html5中的meta标签pragma有什么作用？](https://github.com/haizlin/fe-interview/issues/4382)
+    - [css] [使用纯css制作一个签名板](https://github.com/haizlin/fe-interview/issues/4383)
+    - [js] [使用js实现沿贝塞尔曲线运动](https://github.com/haizlin/fe-interview/issues/4384)
+    - [软技能] [你有参加过前端相关的线上或者线下大型会议吗？](https://github.com/haizlin/fe-interview/issues/4385)
 - 第864天 (2021.08.27)  
     - [html] [你有使用过bgsound标签吗？说说它的作用](https://github.com/haizlin/fe-interview/issues/4378)
     - [css] [你有使用过resize属性吗？它有什么用途？](https://github.com/haizlin/fe-interview/issues/4379)
