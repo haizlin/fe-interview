@@ -26,8 +26,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.08.28) —— 第865天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签pragma有什么作用？](https://github.com/haizlin/fe-interview/issues/4382)  
+## :clock430: 今天的知识点   (2021.08.31) —— 第868天  
  
   
 ### :camel: 历史题目
@@ -39,9 +38,8 @@
     …………  
 
 
-- 第864天 (2021.08.27)  
-    	 :one: [html] [你有使用过bgsound标签吗？说说它的作用](https://github.com/haizlin/fe-interview/issues/4378)  
- 
+- 第867天 (2021.08.30)  
+     
 	
 - **[查看全部](category/history.md)**
 

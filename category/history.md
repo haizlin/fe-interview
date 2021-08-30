@@ -2,6 +2,21 @@
 
 
 
+- 第868天 (2021.08.31)  
+    - [html] [使用H5画出几个月饼](https://github.com/haizlin/fe-interview/issues/4394)
+    - [css] [使用纯CSS3将图片反转](https://github.com/haizlin/fe-interview/issues/4395)
+    - [js] [写一个方法在指定数组对象中查找匹配的对象的值](https://github.com/haizlin/fe-interview/issues/4396)
+    - [软技能] [你有阅读过哪些类库的源码吗？你是如何阅读的？](https://github.com/haizlin/fe-interview/issues/4397)
+- 第867天 (2021.08.30)  
+    - [html] [使用css画一个动态的彩带](https://github.com/haizlin/fe-interview/issues/4390)
+    - [css] [CSS中怎样把“【】”左右倒立，变为上下呢？](https://github.com/haizlin/fe-interview/issues/4391)
+    - [js] [解释下Delete操作符的作用](https://github.com/haizlin/fe-interview/issues/4392)
+    - [软技能] [你喜欢爬山吗？](https://github.com/haizlin/fe-interview/issues/4393)
+- 第866天 (2021.08.29)  
+    - [html] [html5中的meta标签window-target有什么作用？](https://github.com/haizlin/fe-interview/issues/4386)
+    - [css] [使用css画一个抖音的logo](https://github.com/haizlin/fe-interview/issues/4387)
+    - [js] [使用canvas生成验证码](https://github.com/haizlin/fe-interview/issues/4388)
+    - [软技能] [你喜欢跑步吗？](https://github.com/haizlin/fe-interview/issues/4389)
 - 第865天 (2021.08.28)  
     - [html] [html5中的meta标签pragma有什么作用？](https://github.com/haizlin/fe-interview/issues/4382)
     - [css] [使用纯css制作一个签名板](https://github.com/haizlin/fe-interview/issues/4383)

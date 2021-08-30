@@ -26,8 +26,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.08.28) —— 865 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html5中的meta标签pragma有什么作用？](https://github.com/haizlin/fe-interview/issues/4382)  
+## :clock430: Today's Knowledge Points (2021.08.31) —— 868 days  
  
   
 ### :camel: History
@@ -38,9 +37,8 @@
     …………  
 
 
-- 864 days (2021.08.27)  
-    	 :one: [html] [你有使用过bgsound标签吗？说说它的作用](https://github.com/haizlin/fe-interview/issues/4378)  
- 
+- 867 days (2021.08.30)  
+     
 	
 - **[All](category/history.md)**
 
