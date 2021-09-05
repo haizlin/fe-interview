@@ -26,7 +26,10 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.08.31) —— 第868天  
+## :clock430: 今天的知识点   (2021.09.06) —— 第874天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [table合并单元格顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/4418)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对css的filter滤镜的理解](https://github.com/haizlin/fe-interview/issues/4419)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法使用滚轮对图片进行放大缩小](https://github.com/haizlin/fe-interview/issues/4420)  
  
   
 ### :camel: 历史题目
@@ -38,8 +41,11 @@
     …………  
 
 
-- 第867天 (2021.08.30)  
-     
+- 第873天 (2021.09.05)  
+    	 :one: [html] [table的单元格如何保持宽度不变？](https://github.com/haizlin/fe-interview/issues/4414)  
+	 :two: [css] [使用css3写一个拆盲盒的动画](https://github.com/haizlin/fe-interview/issues/4415)  
+	 :three: [js] [写一个方法保留小数点后面的几位](https://github.com/haizlin/fe-interview/issues/4416)  
+ 
 	
 - **[查看全部](category/history.md)**
 
