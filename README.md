@@ -26,10 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.09.06) —— 第874天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [table合并单元格顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/4418)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [说说你对css的filter滤镜的理解](https://github.com/haizlin/fe-interview/issues/4419)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法使用滚轮对图片进行放大缩小](https://github.com/haizlin/fe-interview/issues/4420)  
+## :clock430: 今天的知识点   (2021.09.07) —— 第875天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [input标签中search属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4422)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css滤镜有什么作用？](https://github.com/haizlin/fe-interview/issues/4423)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下DOM 元素事件执行的顺序](https://github.com/haizlin/fe-interview/issues/4424)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说前端实现微信授权的流程是怎么样的？](https://github.com/haizlin/fe-interview/issues/4425)  
  
   
 ### :camel: 历史题目
@@ -41,10 +42,11 @@
     …………  
 
 
-- 第873天 (2021.09.05)  
-    	 :one: [html] [table的单元格如何保持宽度不变？](https://github.com/haizlin/fe-interview/issues/4414)  
-	 :two: [css] [使用css3写一个拆盲盒的动画](https://github.com/haizlin/fe-interview/issues/4415)  
-	 :three: [js] [写一个方法保留小数点后面的几位](https://github.com/haizlin/fe-interview/issues/4416)  
+- 第874天 (2021.09.06)  
+    	 :one: [html] [table合并单元格顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/4418)  
+	 :two: [css] [说说你对css的filter滤镜的理解](https://github.com/haizlin/fe-interview/issues/4419)  
+	 :three: [js] [写一个方法使用滚轮对图片进行放大缩小](https://github.com/haizlin/fe-interview/issues/4420)  
+	 :four: [软技能] [如何在工作中突出亮点？](https://github.com/haizlin/fe-interview/issues/4421)  
  
 	
 - **[查看全部](category/history.md)**

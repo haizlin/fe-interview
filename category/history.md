@@ -2,6 +2,11 @@
 
 
 
+- 第875天 (2021.09.07)  
+    - [html] [input标签中search属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4422)
+    - [css] [css滤镜有什么作用？](https://github.com/haizlin/fe-interview/issues/4423)
+    - [js] [请解释下DOM 元素事件执行的顺序](https://github.com/haizlin/fe-interview/issues/4424)
+    - [软技能] [说说前端实现微信授权的流程是怎么样的？](https://github.com/haizlin/fe-interview/issues/4425)
 - 第874天 (2021.09.06)  
     - [html] [table合并单元格顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/4418)
     - [css] [说说你对css的filter滤镜的理解](https://github.com/haizlin/fe-interview/issues/4419)
