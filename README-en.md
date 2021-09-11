@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.09.07) —— 875 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [input标签中search属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4422)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css滤镜有什么作用？](https://github.com/haizlin/fe-interview/issues/4423)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请解释下DOM 元素事件执行的顺序](https://github.com/haizlin/fe-interview/issues/4424)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说前端实现微信授权的流程是怎么样的？](https://github.com/haizlin/fe-interview/issues/4425)  
+## :clock430: Today's Knowledge Points (2021.09.12) —— 880 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [form表单里如何触发submit事件？](https://github.com/haizlin/fe-interview/issues/4442)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [大型项目在css开发过程中是通过什么策略拆分成多个模块的？](https://github.com/haizlin/fe-interview/issues/4443)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何解决鼠标滚动时多次触发事件？](https://github.com/haizlin/fe-interview/issues/4444)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [静态资源优化的方式有哪些？](https://github.com/haizlin/fe-interview/issues/4445)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 874 days (2021.09.06)  
-    	 :one: [html] [table合并单元格顺序是怎样的？](https://github.com/haizlin/fe-interview/issues/4418)  
-	 :two: [css] [说说你对css的filter滤镜的理解](https://github.com/haizlin/fe-interview/issues/4419)  
-	 :three: [js] [写一个方法使用滚轮对图片进行放大缩小](https://github.com/haizlin/fe-interview/issues/4420)  
-	 :four: [skill] [如何在工作中突出亮点？](https://github.com/haizlin/fe-interview/issues/4421)  
+- 879 days (2021.09.11)  
+    	 :one: [html] [说说你对command标签的理解](https://github.com/haizlin/fe-interview/issues/4438)  
+	 :two: [css] [请解释下`{box-sizing：border-box;}`会产生什么影响？](https://github.com/haizlin/fe-interview/issues/4439)  
+	 :three: [js] [请使用es5模拟实现一个es6的symbol](https://github.com/haizlin/fe-interview/issues/4440)  
+	 :four: [skill] [怎样让页面渲染的阶段更流畅？](https://github.com/haizlin/fe-interview/issues/4441)  
  
 	
 - **[All](category/history.md)**
