@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.09.12) —— 第880天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [form表单里如何触发submit事件？](https://github.com/haizlin/fe-interview/issues/4442)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [大型项目在css开发过程中是通过什么策略拆分成多个模块的？](https://github.com/haizlin/fe-interview/issues/4443)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何解决鼠标滚动时多次触发事件？](https://github.com/haizlin/fe-interview/issues/4444)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [静态资源优化的方式有哪些？](https://github.com/haizlin/fe-interview/issues/4445)  
+## :clock430: 今天的知识点   (2021.09.21) —— 第889天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何给video设置预览图？](https://github.com/haizlin/fe-interview/issues/4478)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css权重优先级用来做什么的？](https://github.com/haizlin/fe-interview/issues/4479)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Object.defineProperty 和ES6中的Proxy有什么区别？](https://github.com/haizlin/fe-interview/issues/4480)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [编写好的代码在CPU中是如何运行的？](https://github.com/haizlin/fe-interview/issues/4481)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第879天 (2021.09.11)  
-    	 :one: [html] [说说你对command标签的理解](https://github.com/haizlin/fe-interview/issues/4438)  
-	 :two: [css] [请解释下`{box-sizing：border-box;}`会产生什么影响？](https://github.com/haizlin/fe-interview/issues/4439)  
-	 :three: [js] [请使用es5模拟实现一个es6的symbol](https://github.com/haizlin/fe-interview/issues/4440)  
-	 :four: [软技能] [怎样让页面渲染的阶段更流畅？](https://github.com/haizlin/fe-interview/issues/4441)  
+- 第888天 (2021.09.20)  
+    	 :one: [html] [video标签的webkit-playsinline属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4474)  
+	 :two: [css] [你有使用过transition写过哪些特效？](https://github.com/haizlin/fe-interview/issues/4475)  
+	 :three: [js] [JavaScript的对象属性描述符有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/4476)  
+	 :four: [软技能] [写的代码在计算机的哪个设备存储？](https://github.com/haizlin/fe-interview/issues/4477)  
  
 	
 - **[查看全部](category/history.md)**
