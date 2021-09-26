@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.09.21) —— 889 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何给video设置预览图？](https://github.com/haizlin/fe-interview/issues/4478)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [css权重优先级用来做什么的？](https://github.com/haizlin/fe-interview/issues/4479)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [Object.defineProperty 和ES6中的Proxy有什么区别？](https://github.com/haizlin/fe-interview/issues/4480)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [编写好的代码在CPU中是如何运行的？](https://github.com/haizlin/fe-interview/issues/4481)  
+## :clock430: Today's Knowledge Points (2021.09.27) —— 895 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请说说你对HTML5的离线缓存机制的理解](https://github.com/haizlin/fe-interview/issues/4503)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用filter写一个鼠标移开图片时的模糊效果](https://github.com/haizlin/fe-interview/issues/4504)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [JSON格式的数据需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/4505)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对80后、90后人的理解](https://github.com/haizlin/fe-interview/issues/4506)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 888 days (2021.09.20)  
-    	 :one: [html] [video标签的webkit-playsinline属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4474)  
-	 :two: [css] [你有使用过transition写过哪些特效？](https://github.com/haizlin/fe-interview/issues/4475)  
-	 :three: [js] [JavaScript的对象属性描述符有哪些？分别有什么作用？](https://github.com/haizlin/fe-interview/issues/4476)  
-	 :four: [skill] [写的代码在计算机的哪个设备存储？](https://github.com/haizlin/fe-interview/issues/4477)  
+- 894 days (2021.09.26)  
+    	 :one: [html] [html5写好的页面给app或者小程序调用发现空白如何排查？](https://github.com/haizlin/fe-interview/issues/4498)  
+	 :two: [css] [解释下css中:nth-child(3n+1)的作用](https://github.com/haizlin/fe-interview/issues/4499)  
+	 :three: [js] [写一个方法，生成一个随机颜色字符串，合法的颜色为 #000000-#FFFFFF](https://github.com/haizlin/fe-interview/issues/4500)  
+	 :four: [skill] [说说你对虚拟滚动的理解](https://github.com/haizlin/fe-interview/issues/4501)  
  
 	
 - **[All](category/history.md)**
