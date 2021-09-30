@@ -26,11 +26,10 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.09.27) —— 第895天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请说说你对HTML5的离线缓存机制的理解](https://github.com/haizlin/fe-interview/issues/4503)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用filter写一个鼠标移开图片时的模糊效果](https://github.com/haizlin/fe-interview/issues/4504)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [JSON格式的数据需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/4505)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你对80后、90后人的理解](https://github.com/haizlin/fe-interview/issues/4506)  
+## :clock430: 今天的知识点   (2021.10.01) —— 第899天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用html5写一个刮刮乐奖券的布局](https://github.com/haizlin/fe-interview/issues/4519)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3画一个皮卡丘](https://github.com/haizlin/fe-interview/issues/4520)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个鼠标框选的效果](https://github.com/haizlin/fe-interview/issues/4521)  
  
   
 ### :camel: 历史题目
@@ -42,11 +41,10 @@
     …………  
 
 
-- 第894天 (2021.09.26)  
-    	 :one: [html] [html5写好的页面给app或者小程序调用发现空白如何排查？](https://github.com/haizlin/fe-interview/issues/4498)  
-	 :two: [css] [解释下css中:nth-child(3n+1)的作用](https://github.com/haizlin/fe-interview/issues/4499)  
-	 :three: [js] [写一个方法，生成一个随机颜色字符串，合法的颜色为 #000000-#FFFFFF](https://github.com/haizlin/fe-interview/issues/4500)  
-	 :four: [软技能] [说说你对虚拟滚动的理解](https://github.com/haizlin/fe-interview/issues/4501)  
+- 第898天 (2021.09.30)  
+    	 :one: [html] [在写页面布局中，遇到链接时使用相对路径还是绝对路径好？为什么？](https://github.com/haizlin/fe-interview/issues/4515)  
+	 :two: [css] [如何保持图片的宽高比适配各种布局？](https://github.com/haizlin/fe-interview/issues/4516)  
+	 :three: [js] [使用js写一个方法实现文件上传的断点续传功能](https://github.com/haizlin/fe-interview/issues/4517)  
  
 	
 - **[查看全部](category/history.md)**
