@@ -26,10 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.10.01) —— 第899天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用html5写一个刮刮乐奖券的布局](https://github.com/haizlin/fe-interview/issues/4519)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3画一个皮卡丘](https://github.com/haizlin/fe-interview/issues/4520)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个鼠标框选的效果](https://github.com/haizlin/fe-interview/issues/4521)  
+## :clock430: 今天的知识点   (2021.10.02) —— 第900天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个移动端的priker选择组件](https://github.com/haizlin/fe-interview/issues/4523)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [grid布局有什么缺点？](https://github.com/haizlin/fe-interview/issues/4524)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何解决iOS的日期转换为NAN的问题？](https://github.com/haizlin/fe-interview/issues/4525)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [在工作中，你喜欢经常抱怨的同事吗？](https://github.com/haizlin/fe-interview/issues/4526)  
  
   
 ### :camel: 历史题目
@@ -41,10 +42,11 @@
     …………  
 
 
-- 第898天 (2021.09.30)  
-    	 :one: [html] [在写页面布局中，遇到链接时使用相对路径还是绝对路径好？为什么？](https://github.com/haizlin/fe-interview/issues/4515)  
-	 :two: [css] [如何保持图片的宽高比适配各种布局？](https://github.com/haizlin/fe-interview/issues/4516)  
-	 :three: [js] [使用js写一个方法实现文件上传的断点续传功能](https://github.com/haizlin/fe-interview/issues/4517)  
+- 第899天 (2021.10.01)  
+    	 :one: [html] [使用html5写一个刮刮乐奖券的布局](https://github.com/haizlin/fe-interview/issues/4519)  
+	 :two: [css] [使用css3画一个皮卡丘](https://github.com/haizlin/fe-interview/issues/4520)  
+	 :three: [js] [使用js写一个鼠标框选的效果](https://github.com/haizlin/fe-interview/issues/4521)  
+	 :four: [软技能] [直播与点播有什么不同？](https://github.com/haizlin/fe-interview/issues/4522)  
  
 	
 - **[查看全部](category/history.md)**

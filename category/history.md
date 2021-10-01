@@ -2,6 +2,11 @@
 
 
 
+- 第900天 (2021.10.02)  
+    - [html] [写一个移动端的priker选择组件](https://github.com/haizlin/fe-interview/issues/4523)
+    - [css] [grid布局有什么缺点？](https://github.com/haizlin/fe-interview/issues/4524)
+    - [js] [如何解决iOS的日期转换为NAN的问题？](https://github.com/haizlin/fe-interview/issues/4525)
+    - [软技能] [在工作中，你喜欢经常抱怨的同事吗？](https://github.com/haizlin/fe-interview/issues/4526)
 - 第899天 (2021.10.01)  
     - [html] [使用html5写一个刮刮乐奖券的布局](https://github.com/haizlin/fe-interview/issues/4519)
     - [css] [使用css3画一个皮卡丘](https://github.com/haizlin/fe-interview/issues/4520)
