@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.10.02) —— 第900天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个移动端的priker选择组件](https://github.com/haizlin/fe-interview/issues/4523)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [grid布局有什么缺点？](https://github.com/haizlin/fe-interview/issues/4524)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何解决iOS的日期转换为NAN的问题？](https://github.com/haizlin/fe-interview/issues/4525)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [在工作中，你喜欢经常抱怨的同事吗？](https://github.com/haizlin/fe-interview/issues/4526)  
+## :clock430: 今天的知识点   (2021.10.03) —— 第901天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5如何禁止用户文字或者图片？](https://github.com/haizlin/fe-interview/issues/4527)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [grid布局有哪些属性？](https://github.com/haizlin/fe-interview/issues/4528)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个数字转中文的方法](https://github.com/haizlin/fe-interview/issues/4529)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [项目进行中，在质量和进度冲突时，你是如何选择的？](https://github.com/haizlin/fe-interview/issues/4530)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第899天 (2021.10.01)  
-    	 :one: [html] [使用html5写一个刮刮乐奖券的布局](https://github.com/haizlin/fe-interview/issues/4519)  
-	 :two: [css] [使用css3画一个皮卡丘](https://github.com/haizlin/fe-interview/issues/4520)  
-	 :three: [js] [使用js写一个鼠标框选的效果](https://github.com/haizlin/fe-interview/issues/4521)  
-	 :four: [软技能] [直播与点播有什么不同？](https://github.com/haizlin/fe-interview/issues/4522)  
+- 第900天 (2021.10.02)  
+    	 :one: [html] [写一个移动端的priker选择组件](https://github.com/haizlin/fe-interview/issues/4523)  
+	 :two: [css] [grid布局有什么缺点？](https://github.com/haizlin/fe-interview/issues/4524)  
+	 :three: [js] [如何解决iOS的日期转换为NAN的问题？](https://github.com/haizlin/fe-interview/issues/4525)  
+	 :four: [软技能] [在工作中，你喜欢经常抱怨的同事吗？](https://github.com/haizlin/fe-interview/issues/4526)  
  
 	
 - **[查看全部](category/history.md)**
