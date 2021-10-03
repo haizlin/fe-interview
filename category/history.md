@@ -2,6 +2,11 @@
 
 
 
+- 第902天 (2021.10.04)  
+    - [html] [H5如何禁止保存或复制图片？](https://github.com/haizlin/fe-interview/issues/4531)
+    - [css] [请描述下grid布局中minmax函数有什么作用？](https://github.com/haizlin/fe-interview/issues/4532)
+    - [js] [请解释下`[1,2,3,4,5].indexOf('3')`的结果](https://github.com/haizlin/fe-interview/issues/4533)
+    - [软技能] [你有自己的微信公众号吗？](https://github.com/haizlin/fe-interview/issues/4534)
 - 第901天 (2021.10.03)  
     - [html] [H5如何禁止用户文字或者图片？](https://github.com/haizlin/fe-interview/issues/4527)
     - [css] [grid布局有哪些属性？](https://github.com/haizlin/fe-interview/issues/4528)
