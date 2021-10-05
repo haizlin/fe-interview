@@ -2,6 +2,11 @@
 
 
 
+- 第904天 (2021.10.06)  
+    - [html] [现在有哪些页面还使用table布局？](https://github.com/haizlin/fe-interview/issues/4539)
+    - [css] [使用css3实现抓娃娃的动画特效](https://github.com/haizlin/fe-interview/issues/4540)
+    - [js] [请说说你对this的默认绑定、显示绑定、隐式绑定、new绑定、箭头函数绑定的理解](https://github.com/haizlin/fe-interview/issues/4541)
+    - [软技能] [说说你是如何看待眼高手低的？](https://github.com/haizlin/fe-interview/issues/4542)
 - 第903天 (2021.10.05)  
     - [html] [如何解决iOS上拉、下拉出现空白的问题？](https://github.com/haizlin/fe-interview/issues/4535)
     - [css] [在grid布局中如何定义网格轨道的大小？](https://github.com/haizlin/fe-interview/issues/4536)
