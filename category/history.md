@@ -2,6 +2,16 @@
 
 
 
+- 第906天 (2021.10.08)  
+    - [html] [HTML和DOM有什么关系？](https://github.com/haizlin/fe-interview/issues/4547)
+    - [css] [你了解critical CSS吗？](https://github.com/haizlin/fe-interview/issues/4548)
+    - [js] [js的事件流模型都有什么？](https://github.com/haizlin/fe-interview/issues/4549)
+    - [软技能] [你是如何理财的？](https://github.com/haizlin/fe-interview/issues/4550)
+- 第905天 (2021.10.07)  
+    - [html] [浏览器页面乱码如何解决？](https://github.com/haizlin/fe-interview/issues/4543)
+    - [css] [你是如何管理项目的CSS代码的？](https://github.com/haizlin/fe-interview/issues/4544)
+    - [js] [请说说宿主对象(host objects)和原生对象(native objects)有什么区别？](https://github.com/haizlin/fe-interview/issues/4545)
+    - [软技能] [如何避免研发部门的内耗？](https://github.com/haizlin/fe-interview/issues/4546)
 - 第904天 (2021.10.06)  
     - [html] [现在有哪些页面还使用table布局？](https://github.com/haizlin/fe-interview/issues/4539)
     - [css] [使用css3实现抓娃娃的动画特效](https://github.com/haizlin/fe-interview/issues/4540)

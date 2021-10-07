@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.10.06) —— 第904天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [现在有哪些页面还使用table布局？](https://github.com/haizlin/fe-interview/issues/4539)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现抓娃娃的动画特效](https://github.com/haizlin/fe-interview/issues/4540)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说你对this的默认绑定、显示绑定、隐式绑定、new绑定、箭头函数绑定的理解](https://github.com/haizlin/fe-interview/issues/4541)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [说说你是如何看待眼高手低的？](https://github.com/haizlin/fe-interview/issues/4542)  
+## :clock430: 今天的知识点   (2021.10.08) —— 第906天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML和DOM有什么关系？](https://github.com/haizlin/fe-interview/issues/4547)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你了解critical CSS吗？](https://github.com/haizlin/fe-interview/issues/4548)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js的事件流模型都有什么？](https://github.com/haizlin/fe-interview/issues/4549)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何理财的？](https://github.com/haizlin/fe-interview/issues/4550)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第903天 (2021.10.05)  
-    	 :one: [html] [如何解决iOS上拉、下拉出现空白的问题？](https://github.com/haizlin/fe-interview/issues/4535)  
-	 :two: [css] [在grid布局中如何定义网格轨道的大小？](https://github.com/haizlin/fe-interview/issues/4536)  
-	 :three: [js] [请解释下join和split两个方法有什么作用？](https://github.com/haizlin/fe-interview/issues/4537)  
-	 :four: [软技能] [你了解微信公众号的运营吗？](https://github.com/haizlin/fe-interview/issues/4538)  
+- 第905天 (2021.10.07)  
+    	 :one: [html] [浏览器页面乱码如何解决？](https://github.com/haizlin/fe-interview/issues/4543)  
+	 :two: [css] [你是如何管理项目的CSS代码的？](https://github.com/haizlin/fe-interview/issues/4544)  
+	 :three: [js] [请说说宿主对象(host objects)和原生对象(native objects)有什么区别？](https://github.com/haizlin/fe-interview/issues/4545)  
+	 :four: [软技能] [如何避免研发部门的内耗？](https://github.com/haizlin/fe-interview/issues/4546)  
  
 	
 - **[查看全部](category/history.md)**
