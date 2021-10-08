@@ -26,11 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.10.08) —— 第906天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [HTML和DOM有什么关系？](https://github.com/haizlin/fe-interview/issues/4547)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你了解critical CSS吗？](https://github.com/haizlin/fe-interview/issues/4548)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js的事件流模型都有什么？](https://github.com/haizlin/fe-interview/issues/4549)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你是如何理财的？](https://github.com/haizlin/fe-interview/issues/4550)  
+## :clock430: 今天的知识点   (2021.10.09) —— 第907天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过html的basefont标签吗？](https://github.com/haizlin/fe-interview/issues/4551)  
  
   
 ### :camel: 历史题目
@@ -42,11 +39,8 @@
     …………  
 
 
-- 第905天 (2021.10.07)  
-    	 :one: [html] [浏览器页面乱码如何解决？](https://github.com/haizlin/fe-interview/issues/4543)  
-	 :two: [css] [你是如何管理项目的CSS代码的？](https://github.com/haizlin/fe-interview/issues/4544)  
-	 :three: [js] [请说说宿主对象(host objects)和原生对象(native objects)有什么区别？](https://github.com/haizlin/fe-interview/issues/4545)  
-	 :four: [软技能] [如何避免研发部门的内耗？](https://github.com/haizlin/fe-interview/issues/4546)  
+- 第906天 (2021.10.08)  
+    	 :one: [html] [HTML和DOM有什么关系？](https://github.com/haizlin/fe-interview/issues/4547)  
  
 	
 - **[查看全部](category/history.md)**
