@@ -26,8 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.10.09) —— 907 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有使用过html的basefont标签吗？](https://github.com/haizlin/fe-interview/issues/4551)  
+## :clock430: Today's Knowledge Points (2021.10.11) —— 909 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html的标签层级太深如何优化？](https://github.com/haizlin/fe-interview/issues/4559)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css制作男和女的图标](https://github.com/haizlin/fe-interview/issues/4560)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js如何解决url中文乱码问题？](https://github.com/haizlin/fe-interview/issues/4561)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为程序员有必须精通英语吗？](https://github.com/haizlin/fe-interview/issues/4562)  
  
   
 ### :camel: History
@@ -38,8 +41,11 @@
     …………  
 
 
-- 906 days (2021.10.08)  
-    	 :one: [html] [HTML和DOM有什么关系？](https://github.com/haizlin/fe-interview/issues/4547)  
+- 908 days (2021.10.10)  
+    	 :one: [html] [你有使用过html的strike标签吗？](https://github.com/haizlin/fe-interview/issues/4555)  
+	 :two: [css] [说下@supports有什么用途？](https://github.com/haizlin/fe-interview/issues/4556)  
+	 :three: [js] [如何解决js加载中文内容的乱码问题？](https://github.com/haizlin/fe-interview/issues/4557)  
+	 :four: [skill] [你平时有关注互联网行业的动态吗？](https://github.com/haizlin/fe-interview/issues/4558)  
  
 	
 - **[All](category/history.md)**

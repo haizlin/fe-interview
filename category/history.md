@@ -2,6 +2,16 @@
 
 
 
+- 第909天 (2021.10.11)  
+    - [html] [html的标签层级太深如何优化？](https://github.com/haizlin/fe-interview/issues/4559)
+    - [css] [使用css制作男和女的图标](https://github.com/haizlin/fe-interview/issues/4560)
+    - [js] [js如何解决url中文乱码问题？](https://github.com/haizlin/fe-interview/issues/4561)
+    - [软技能] [你认为程序员有必须精通英语吗？](https://github.com/haizlin/fe-interview/issues/4562)
+- 第908天 (2021.10.10)  
+    - [html] [你有使用过html的strike标签吗？](https://github.com/haizlin/fe-interview/issues/4555)
+    - [css] [说下@supports有什么用途？](https://github.com/haizlin/fe-interview/issues/4556)
+    - [js] [如何解决js加载中文内容的乱码问题？](https://github.com/haizlin/fe-interview/issues/4557)
+    - [软技能] [你平时有关注互联网行业的动态吗？](https://github.com/haizlin/fe-interview/issues/4558)
 - 第907天 (2021.10.09)  
     - [html] [你有使用过html的basefont标签吗？](https://github.com/haizlin/fe-interview/issues/4551)
     - [css] [说说你对css中letter-spacing属性的理解](https://github.com/haizlin/fe-interview/issues/4552)
