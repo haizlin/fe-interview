@@ -2,6 +2,21 @@
 
 
 
+- 第912天 (2021.10.14)  
+    - [html] [如果让你出一些html的视频教程，你应该怎么出？](https://github.com/haizlin/fe-interview/issues/4571)
+    - [css] [写css，class层级过多会影响页面的渲染性能吗？](https://github.com/haizlin/fe-interview/issues/4572)
+    - [js] [说说你对JavaScript与有限状态机的理解](https://github.com/haizlin/fe-interview/issues/4573)
+    - [软技能] [老师未来会被AI取代吗？说说你的看法](https://github.com/haizlin/fe-interview/issues/4574)
+- 第911天 (2021.10.13)  
+    - [html] [HTML5是SGML的子集吗？](https://github.com/haizlin/fe-interview/issues/4567)
+    - [css] [使用css制作用户图标](https://github.com/haizlin/fe-interview/issues/4568)
+    - [js] [js选择器有哪些？](https://github.com/haizlin/fe-interview/issues/4569)
+    - [软技能] [常见的网络攻击有哪些？](https://github.com/haizlin/fe-interview/issues/4570)
+- 第910天 (2021.10.12)  
+    - [html] [写的html代码如何校验？](https://github.com/haizlin/fe-interview/issues/4563)
+    - [css] [使用css制作快进按钮效果](https://github.com/haizlin/fe-interview/issues/4564)
+    - [js] [你有自己封装过哪些基础类库？](https://github.com/haizlin/fe-interview/issues/4565)
+    - [软技能] [什么是点击劫持？如何预防？](https://github.com/haizlin/fe-interview/issues/4566)
 - 第909天 (2021.10.11)  
     - [html] [html的标签层级太深如何优化？](https://github.com/haizlin/fe-interview/issues/4559)
     - [css] [使用css制作男和女的图标](https://github.com/haizlin/fe-interview/issues/4560)

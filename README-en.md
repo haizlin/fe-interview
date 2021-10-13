@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.10.11) —— 909 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [html的标签层级太深如何优化？](https://github.com/haizlin/fe-interview/issues/4559)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css制作男和女的图标](https://github.com/haizlin/fe-interview/issues/4560)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [js如何解决url中文乱码问题？](https://github.com/haizlin/fe-interview/issues/4561)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你认为程序员有必须精通英语吗？](https://github.com/haizlin/fe-interview/issues/4562)  
+## :clock430: Today's Knowledge Points (2021.10.14) —— 912 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如果让你出一些html的视频教程，你应该怎么出？](https://github.com/haizlin/fe-interview/issues/4571)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [写css，class层级过多会影响页面的渲染性能吗？](https://github.com/haizlin/fe-interview/issues/4572)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对JavaScript与有限状态机的理解](https://github.com/haizlin/fe-interview/issues/4573)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [老师未来会被AI取代吗？说说你的看法](https://github.com/haizlin/fe-interview/issues/4574)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 908 days (2021.10.10)  
-    	 :one: [html] [你有使用过html的strike标签吗？](https://github.com/haizlin/fe-interview/issues/4555)  
-	 :two: [css] [说下@supports有什么用途？](https://github.com/haizlin/fe-interview/issues/4556)  
-	 :three: [js] [如何解决js加载中文内容的乱码问题？](https://github.com/haizlin/fe-interview/issues/4557)  
-	 :four: [skill] [你平时有关注互联网行业的动态吗？](https://github.com/haizlin/fe-interview/issues/4558)  
+- 911 days (2021.10.13)  
+    	 :one: [html] [HTML5是SGML的子集吗？](https://github.com/haizlin/fe-interview/issues/4567)  
+	 :two: [css] [使用css制作用户图标](https://github.com/haizlin/fe-interview/issues/4568)  
+	 :three: [js] [js选择器有哪些？](https://github.com/haizlin/fe-interview/issues/4569)  
+	 :four: [skill] [常见的网络攻击有哪些？](https://github.com/haizlin/fe-interview/issues/4570)  
  
 	
 - **[All](category/history.md)**
