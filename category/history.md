@@ -2,6 +2,16 @@
 
 
 
+- 第914天 (2021.10.16)  
+    - [html] [使用H5做一个可以多选的select组件](https://github.com/haizlin/fe-interview/issues/4579)
+    - [css] [使用纯css3画一个火箭的模型](https://github.com/haizlin/fe-interview/issues/4580)
+    - [js] [ES6中class继承为什么一定要写super()？super代表什么？](https://github.com/haizlin/fe-interview/issues/4581)
+    - [软技能] [你知道网上的文库实现的原理吗？](https://github.com/haizlin/fe-interview/issues/4582)
+- 第913天 (2021.10.15)  
+    - [html] [使用H5写一个登录页](https://github.com/haizlin/fe-interview/issues/4575)
+    - [css] [使用CSS实现底部弧度效果](https://github.com/haizlin/fe-interview/issues/4576)
+    - [js] [javascript如何实现有限状态机？](https://github.com/haizlin/fe-interview/issues/4577)
+    - [软技能] [作为项目经理你是如何评估及管理项目风险的？](https://github.com/haizlin/fe-interview/issues/4578)
 - 第912天 (2021.10.14)  
     - [html] [如果让你出一些html的视频教程，你应该怎么出？](https://github.com/haizlin/fe-interview/issues/4571)
     - [css] [写css，class层级过多会影响页面的渲染性能吗？](https://github.com/haizlin/fe-interview/issues/4572)
