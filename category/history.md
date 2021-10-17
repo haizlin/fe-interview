@@ -2,6 +2,11 @@
 
 
 
+- 第916天 (2021.10.18)  
+    - [html] [你有完整看过html或html5的手册吗？](https://github.com/haizlin/fe-interview/issues/4587)
+    - [css] [使用css3绘制一款动态的耳机音乐阶梯动画](https://github.com/haizlin/fe-interview/issues/4588)
+    - [js] [JS如何判断css3动画结束？](https://github.com/haizlin/fe-interview/issues/4589)
+    - [软技能] [你有自己翻译过哪些外文文档吗？](https://github.com/haizlin/fe-interview/issues/4590)
 - 第915天 (2021.10.17)  
     - [html] [写一个多层弹窗嵌套的布局](https://github.com/haizlin/fe-interview/issues/4583)
     - [css] [使用纯css3实现鼠标经过时显示子菜单，离开时隐藏](https://github.com/haizlin/fe-interview/issues/4584)
