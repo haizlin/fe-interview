@@ -2,6 +2,16 @@
 
 
 
+- 第918天 (2021.10.20)  
+    - [html] [使用canvas制作一个环形进度条，中间带有数字](https://github.com/haizlin/fe-interview/issues/4596)
+    - [css] [你对css3的matrix了解吗？说说你的认识](https://github.com/haizlin/fe-interview/issues/4597)
+    - [js] [Object.assign()是浅拷贝还是深拷贝？](https://github.com/haizlin/fe-interview/issues/4598)
+    - [软技能] [你知道什么是HTTPDNS吗？它和DNS有什么区别？](https://github.com/haizlin/fe-interview/issues/4599)
+- 第917天 (2021.10.19)  
+    - [html] [使用HTML5画一个拱桥的布局](https://github.com/haizlin/fe-interview/issues/4592)
+    - [css] [使用css制作一个网球弹跳的动画](https://github.com/haizlin/fe-interview/issues/4593)
+    - [js] [js字符串截取的方法有哪些？](https://github.com/haizlin/fe-interview/issues/4594)
+    - [软技能] [如何面对领导强加给你的职责外的工作？](https://github.com/haizlin/fe-interview/issues/4595)
 - 第916天 (2021.10.18)  
     - [html] [你有完整看过html或html5的手册吗？](https://github.com/haizlin/fe-interview/issues/4587)
     - [css] [使用css3绘制一款动态的耳机音乐阶梯动画](https://github.com/haizlin/fe-interview/issues/4588)

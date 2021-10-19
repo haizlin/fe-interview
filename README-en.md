@@ -26,9 +26,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.10.18) —— 916 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [你有完整看过html或html5的手册吗？](https://github.com/haizlin/fe-interview/issues/4587)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3绘制一款动态的耳机音乐阶梯动画](https://github.com/haizlin/fe-interview/issues/4588)  
+## :clock430: Today's Knowledge Points (2021.10.20) —— 918 days  
  
   
 ### :camel: History
@@ -39,10 +37,8 @@
     …………  
 
 
-- 915 days (2021.10.17)  
-    	 :one: [html] [写一个多层弹窗嵌套的布局](https://github.com/haizlin/fe-interview/issues/4583)  
-	 :two: [css] [使用纯css3实现鼠标经过时显示子菜单，离开时隐藏](https://github.com/haizlin/fe-interview/issues/4584)  
- 
+- 917 days (2021.10.19)  
+     
 	
 - **[All](category/history.md)**
 
