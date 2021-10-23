@@ -26,7 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.10.20) —— 第918天  
+## :clock430: 今天的知识点   (2021.10.24) —— 第922天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [canvas离屏技术是什么？](https://github.com/haizlin/fe-interview/issues/4613)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [当min-width的值比max-width的值大时，以哪个为主呢？](https://github.com/haizlin/fe-interview/issues/4614)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请用js实现kruskal算法](https://github.com/haizlin/fe-interview/issues/4615)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [时区和夏令时的区别是什么？](https://github.com/haizlin/fe-interview/issues/4616)  
  
   
 ### :camel: 历史题目
@@ -38,8 +42,12 @@
     …………  
 
 
-- 第917天 (2021.10.19)  
-     
+- 第921天 (2021.10.23)  
+    	 :one: [html] [HTML的文本域标签是哪个？](https://github.com/haizlin/fe-interview/issues/4608)  
+	 :two: [css] [css中表示颜色相关的属性有哪些？](https://github.com/haizlin/fe-interview/issues/4609)  
+	 :three: [js] [使用JS获取世界不同时区的当前时间](https://github.com/haizlin/fe-interview/issues/4610)  
+	 :four: [软技能] [你自我感觉你的前端水平如何？](https://github.com/haizlin/fe-interview/issues/4611)  
+ 
 	
 - **[查看全部](category/history.md)**
 
