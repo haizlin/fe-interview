@@ -26,11 +26,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.10.29) —— 927 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [写一个快速生成css效果的小应用](https://github.com/haizlin/fe-interview/issues/4634)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你看过哪些优秀的css相关的开源项目？](https://github.com/haizlin/fe-interview/issues/4635)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [polyfill、shim原理及如何实现的？](https://github.com/haizlin/fe-interview/issues/4636)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [说说你对代码可读性的理解](https://github.com/haizlin/fe-interview/issues/4637)  
+## :clock430: Today's Knowledge Points (2021.11.09) —— 938 days  
  
   
 ### :camel: History
@@ -41,12 +37,8 @@
     …………  
 
 
-- 926 days (2021.10.28)  
-    	 :one: [html] [如果让你使用html画一个深圳市的地图，你该如何下手？](https://github.com/haizlin/fe-interview/issues/4626)  
-	 :two: [css] [使用css写一个悬浮飞行的动画](https://github.com/haizlin/fe-interview/issues/4627)  
-	 :three: [js] [大量条件语句if else如何更优雅？](https://github.com/haizlin/fe-interview/issues/4628)  
-	 :four: [skill] [你早上一般提前多久到公司？](https://github.com/haizlin/fe-interview/issues/4629)  
- 
+- 937 days (2021.11.08)  
+     
 	
 - **[All](category/history.md)**
 
