@@ -26,7 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.11.09) —— 938 days  
+## :clock430: Today's Knowledge Points (2021.11.16) —— 945 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5实现一个MP3音乐播放器](https://github.com/haizlin/fe-interview/issues/4708)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3制作一个摆锤](https://github.com/haizlin/fe-interview/issues/4709)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法计算字符串长度，中文记2个，英文数字记1个](https://github.com/haizlin/fe-interview/issues/4710)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你对音视频领域感兴趣吗？](https://github.com/haizlin/fe-interview/issues/4711)  
  
   
 ### :camel: History
@@ -37,8 +41,12 @@
     …………  
 
 
-- 937 days (2021.11.08)  
-     
+- 944 days (2021.11.15)  
+    	 :one: [html] [使用canvas画一个仪表盘](https://github.com/haizlin/fe-interview/issues/4703)  
+	 :two: [css] [使用CSS3画出一只叮当猫](https://github.com/haizlin/fe-interview/issues/4704)  
+	 :three: [js] [如何禁止修改函数名？](https://github.com/haizlin/fe-interview/issues/4705)  
+	 :four: [skill] [如何做好向上汇报及向下沟通？](https://github.com/haizlin/fe-interview/issues/4706)  
+ 
 	
 - **[All](category/history.md)**
 

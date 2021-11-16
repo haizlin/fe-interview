@@ -26,7 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.11.09) —— 第938天  
+## :clock430: 今天的知识点   (2021.11.16) —— 第945天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5实现一个MP3音乐播放器](https://github.com/haizlin/fe-interview/issues/4708)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3制作一个摆锤](https://github.com/haizlin/fe-interview/issues/4709)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [写一个方法计算字符串长度，中文记2个，英文数字记1个](https://github.com/haizlin/fe-interview/issues/4710)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你对音视频领域感兴趣吗？](https://github.com/haizlin/fe-interview/issues/4711)  
  
   
 ### :camel: 历史题目
@@ -38,8 +42,12 @@
     …………  
 
 
-- 第937天 (2021.11.08)  
-     
+- 第944天 (2021.11.15)  
+    	 :one: [html] [使用canvas画一个仪表盘](https://github.com/haizlin/fe-interview/issues/4703)  
+	 :two: [css] [使用CSS3画出一只叮当猫](https://github.com/haizlin/fe-interview/issues/4704)  
+	 :three: [js] [如何禁止修改函数名？](https://github.com/haizlin/fe-interview/issues/4705)  
+	 :four: [软技能] [如何做好向上汇报及向下沟通？](https://github.com/haizlin/fe-interview/issues/4706)  
+ 
 	
 - **[查看全部](category/history.md)**
 
