@@ -26,10 +26,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.11.22) —— 第951天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用html5实现图片随手机重力感应而移动](https://github.com/haizlin/fe-interview/issues/4733)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使用css3把一个正方形变圆？](https://github.com/haizlin/fe-interview/issues/4734)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何给localStorage扩容？](https://github.com/haizlin/fe-interview/issues/4735)  
+## :clock430: 今天的知识点   (2021.11.27) —— 第956天  
  
   
 ### :camel: 历史题目
@@ -41,11 +38,8 @@
     …………  
 
 
-- 第950天 (2021.11.21)  
-    	 :one: [html] [HTML5如何控制手机陀螺仪？](https://github.com/haizlin/fe-interview/issues/4729)  
-	 :two: [css] [你有使用过css的counter-increment属性吗？说说它有什么作用？](https://github.com/haizlin/fe-interview/issues/4730)  
-	 :three: [js] [localStorage支持同源策略吗？](https://github.com/haizlin/fe-interview/issues/4731)  
- 
+- 第955天 (2021.11.26)  
+     
 	
 - **[查看全部](category/history.md)**
 
