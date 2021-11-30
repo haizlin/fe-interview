@@ -26,7 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.11.27) —— 956 days  
+## :clock430: Today's Knowledge Points (2021.12.01) —— 960 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个简单的开机动画](https://github.com/haizlin/fe-interview/issues/4769)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过css的:checked伪类吗？](https://github.com/haizlin/fe-interview/issues/4770)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个回车提交的方法](https://github.com/haizlin/fe-interview/issues/4771)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你如何掌握自己的技术生涯？](https://github.com/haizlin/fe-interview/issues/4772)  
  
   
 ### :camel: History
@@ -37,8 +41,12 @@
     …………  
 
 
-- 955 days (2021.11.26)  
-     
+- 959 days (2021.11.30)  
+    	 :one: [html] [使用canvas画一个羽毛球](https://github.com/haizlin/fe-interview/issues/4765)  
+	 :two: [css] [你有使用过css的:disabled伪类吗？](https://github.com/haizlin/fe-interview/issues/4766)  
+	 :three: [js] [使用js写一个全选和反选的操作](https://github.com/haizlin/fe-interview/issues/4767)  
+	 :four: [skill] [你觉得前端深入学习后发展方向有哪些？](https://github.com/haizlin/fe-interview/issues/4768)  
+ 
 	
 - **[All](category/history.md)**
 
