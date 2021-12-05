@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.12.01) —— 960 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个简单的开机动画](https://github.com/haizlin/fe-interview/issues/4769)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过css的:checked伪类吗？](https://github.com/haizlin/fe-interview/issues/4770)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写一个回车提交的方法](https://github.com/haizlin/fe-interview/issues/4771)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你如何掌握自己的技术生涯？](https://github.com/haizlin/fe-interview/issues/4772)  
+## :clock430: Today's Knowledge Points (2021.12.06) —— 965 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个七巧板](https://github.com/haizlin/fe-interview/issues/4791)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [直接使用transform: rotate(270deg);不起作用，如何解决？](https://github.com/haizlin/fe-interview/issues/4792)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js写个方法计算5000年内有多少个对称日，如：20211202，反过来也是一样](https://github.com/haizlin/fe-interview/issues/4793)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你有重复造过哪些轮子？](https://github.com/haizlin/fe-interview/issues/4794)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 959 days (2021.11.30)  
-    	 :one: [html] [使用canvas画一个羽毛球](https://github.com/haizlin/fe-interview/issues/4765)  
-	 :two: [css] [你有使用过css的:disabled伪类吗？](https://github.com/haizlin/fe-interview/issues/4766)  
-	 :three: [js] [使用js写一个全选和反选的操作](https://github.com/haizlin/fe-interview/issues/4767)  
-	 :four: [skill] [你觉得前端深入学习后发展方向有哪些？](https://github.com/haizlin/fe-interview/issues/4768)  
+- 964 days (2021.12.05)  
+    	 :one: [html] [使用canvas制作一朵玫瑰花](https://github.com/haizlin/fe-interview/issues/4787)  
+	 :two: [css] [transform的rotate在内联元素上面不起作用，如何解决？](https://github.com/haizlin/fe-interview/issues/4788)  
+	 :three: [js] [js Map结构，forEach可以进行遍历，普通for循环为什么不进入执行？](https://github.com/haizlin/fe-interview/issues/4789)  
+	 :four: [skill] [如果有事情让你很烦恼，你是如何自我调节的？](https://github.com/haizlin/fe-interview/issues/4790)  
  
 	
 - **[All](category/history.md)**
