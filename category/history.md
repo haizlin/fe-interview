@@ -2,6 +2,11 @@
 
 
 
+- 第966天 (2021.12.07)  
+    - [html] [如果在canvas中显示图片](https://github.com/haizlin/fe-interview/issues/4795)
+    - [css] [使用css3动画时（translate,scale）容易发生字体变模糊再恢复的情况如何解决？](https://github.com/haizlin/fe-interview/issues/4796)
+    - [js] [请手动实现Array.prototype.reduce的方法](https://github.com/haizlin/fe-interview/issues/4797)
+    - [软技能] [你是如何进行任务拆解的？](https://github.com/haizlin/fe-interview/issues/4798)
 - 第965天 (2021.12.06)  
     - [html] [使用canvas制作一个七巧板](https://github.com/haizlin/fe-interview/issues/4791)
     - [css] [直接使用transform: rotate(270deg);不起作用，如何解决？](https://github.com/haizlin/fe-interview/issues/4792)
