@@ -26,11 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.12.07) —— 966 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如果在canvas中显示图片](https://github.com/haizlin/fe-interview/issues/4795)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3动画时（translate,scale）容易发生字体变模糊再恢复的情况如何解决？](https://github.com/haizlin/fe-interview/issues/4796)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请手动实现Array.prototype.reduce的方法](https://github.com/haizlin/fe-interview/issues/4797)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你是如何进行任务拆解的？](https://github.com/haizlin/fe-interview/issues/4798)  
+## :clock430: Today's Knowledge Points (2021.12.08) —— 967 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas实现同心圆环](https://github.com/haizlin/fe-interview/issues/4799)  
  
   
 ### :camel: History
@@ -41,11 +38,8 @@
     …………  
 
 
-- 965 days (2021.12.06)  
-    	 :one: [html] [使用canvas制作一个七巧板](https://github.com/haizlin/fe-interview/issues/4791)  
-	 :two: [css] [直接使用transform: rotate(270deg);不起作用，如何解决？](https://github.com/haizlin/fe-interview/issues/4792)  
-	 :three: [js] [使用js写个方法计算5000年内有多少个对称日，如：20211202，反过来也是一样](https://github.com/haizlin/fe-interview/issues/4793)  
-	 :four: [skill] [你有重复造过哪些轮子？](https://github.com/haizlin/fe-interview/issues/4794)  
+- 966 days (2021.12.07)  
+    	 :one: [html] [如果在canvas中显示图片](https://github.com/haizlin/fe-interview/issues/4795)  
  
 	
 - **[All](category/history.md)**
