@@ -26,8 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.12.08) —— 第967天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas实现同心圆环](https://github.com/haizlin/fe-interview/issues/4799)  
+## :clock430: 今天的知识点   (2021.12.09) —— 第968天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas如何设置阴影？](https://github.com/haizlin/fe-interview/issues/4803)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3实现一个滑动开关](https://github.com/haizlin/fe-interview/issues/4804)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [如何理解在js中访问变量有按值和按引用两种方式？](https://github.com/haizlin/fe-interview/issues/4805)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [git提交时如何强制检测规范？](https://github.com/haizlin/fe-interview/issues/4806)  
  
   
 ### :camel: 历史题目
@@ -39,8 +42,11 @@
     …………  
 
 
-- 第966天 (2021.12.07)  
-    	 :one: [html] [如果在canvas中显示图片](https://github.com/haizlin/fe-interview/issues/4795)  
+- 第967天 (2021.12.08)  
+    	 :one: [html] [使用canvas实现同心圆环](https://github.com/haizlin/fe-interview/issues/4799)  
+	 :two: [css] [你有使用过box-reflect属性吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/4800)  
+	 :three: [js] [手动实现一个compose函数](https://github.com/haizlin/fe-interview/issues/4801)  
+	 :four: [软技能] [你觉得上一家公司的工作流程有哪些需要改进的？](https://github.com/haizlin/fe-interview/issues/4802)  
  
 	
 - **[查看全部](category/history.md)**

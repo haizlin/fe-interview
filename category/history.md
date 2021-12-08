@@ -2,6 +2,11 @@
 
 
 
+- 第968天 (2021.12.09)  
+    - [html] [使用canvas如何设置阴影？](https://github.com/haizlin/fe-interview/issues/4803)
+    - [css] [使用css3实现一个滑动开关](https://github.com/haizlin/fe-interview/issues/4804)
+    - [js] [如何理解在js中访问变量有按值和按引用两种方式？](https://github.com/haizlin/fe-interview/issues/4805)
+    - [软技能] [git提交时如何强制检测规范？](https://github.com/haizlin/fe-interview/issues/4806)
 - 第967天 (2021.12.08)  
     - [html] [使用canvas实现同心圆环](https://github.com/haizlin/fe-interview/issues/4799)
     - [css] [你有使用过box-reflect属性吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/4800)
