@@ -2,6 +2,11 @@
 
 
 
+- 第969天 (2021.12.10)  
+    - [html] [使用canvas生成一张名片](https://github.com/haizlin/fe-interview/issues/4807)
+    - [css] [使用css画一个聊天气泡对话框](https://github.com/haizlin/fe-interview/issues/4808)
+    - [js] [在js函数的参数都是按值传递的吗？](https://github.com/haizlin/fe-interview/issues/4809)
+    - [软技能] [你来面试之前有了解过我们公司吗？](https://github.com/haizlin/fe-interview/issues/4810)
 - 第968天 (2021.12.09)  
     - [html] [使用canvas如何设置阴影？](https://github.com/haizlin/fe-interview/issues/4803)
     - [css] [使用css3实现一个滑动开关](https://github.com/haizlin/fe-interview/issues/4804)
