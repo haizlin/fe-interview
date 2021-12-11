@@ -26,8 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.12.10) —— 第969天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas生成一张名片](https://github.com/haizlin/fe-interview/issues/4807)  
+## :clock430: 今天的知识点   (2021.12.12) —— 第971天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个米字格布局，并可以在上面写字](https://github.com/haizlin/fe-interview/issues/4816)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个动态背景](https://github.com/haizlin/fe-interview/issues/4817)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在s中一个执行上下文的生命周期可以分为哪几个阶段？](https://github.com/haizlin/fe-interview/issues/4818)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [在工作过程中如果双方有意见不统一时产生争执怎么办？](https://github.com/haizlin/fe-interview/issues/4819)  
  
   
 ### :camel: 历史题目
@@ -39,8 +42,11 @@
     …………  
 
 
-- 第968天 (2021.12.09)  
-    	 :one: [html] [使用canvas如何设置阴影？](https://github.com/haizlin/fe-interview/issues/4803)  
+- 第970天 (2021.12.11)  
+    	 :one: [html] [如何屏蔽掉页面的翻译功能？](https://github.com/haizlin/fe-interview/issues/4811)  
+	 :two: [css] [使用css实现一个拱形桥](https://github.com/haizlin/fe-interview/issues/4812)  
+	 :three: [js] [请说说你对JS引用赋值，按值赋值的理解](https://github.com/haizlin/fe-interview/issues/4813)  
+	 :four: [软技能] [如何打造一个高效、高绩效的研发团队？](https://github.com/haizlin/fe-interview/issues/4814)  
  
 	
 - **[查看全部](category/history.md)**
