@@ -26,11 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.12.12) —— 第971天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个米字格布局，并可以在上面写字](https://github.com/haizlin/fe-interview/issues/4816)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css实现一个动态背景](https://github.com/haizlin/fe-interview/issues/4817)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在s中一个执行上下文的生命周期可以分为哪几个阶段？](https://github.com/haizlin/fe-interview/issues/4818)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [在工作过程中如果双方有意见不统一时产生争执怎么办？](https://github.com/haizlin/fe-interview/issues/4819)  
+## :clock430: 今天的知识点   (2021.12.14) —— 第973天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个蜘蛛网](https://github.com/haizlin/fe-interview/issues/4824)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请使用纯css3绘制一个卡丁车动画特效](https://github.com/haizlin/fe-interview/issues/4825)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在使用递归时，能中途退出递归吗？](https://github.com/haizlin/fe-interview/issues/4826)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [努力与机遇哪个更重要？说说你的理解](https://github.com/haizlin/fe-interview/issues/4827)  
  
   
 ### :camel: 历史题目
@@ -42,11 +42,11 @@
     …………  
 
 
-- 第970天 (2021.12.11)  
-    	 :one: [html] [如何屏蔽掉页面的翻译功能？](https://github.com/haizlin/fe-interview/issues/4811)  
-	 :two: [css] [使用css实现一个拱形桥](https://github.com/haizlin/fe-interview/issues/4812)  
-	 :three: [js] [请说说你对JS引用赋值，按值赋值的理解](https://github.com/haizlin/fe-interview/issues/4813)  
-	 :four: [软技能] [如何打造一个高效、高绩效的研发团队？](https://github.com/haizlin/fe-interview/issues/4814)  
+- 第972天 (2021.12.13)  
+    	 :one: [html] [使用canvas制作一个10秒倒计时特效](https://github.com/haizlin/fe-interview/issues/4820)  
+	 :two: [css] [使用css3实现多米诺骨牌动画特效](https://github.com/haizlin/fe-interview/issues/4821)  
+	 :three: [js] [websocket是基于tcp还是udp的呢？](https://github.com/haizlin/fe-interview/issues/4822)  
+	 :four: [软技能] [你对前端关注的数据指标有哪些？](https://github.com/haizlin/fe-interview/issues/4823)  
  
 	
 - **[查看全部](category/history.md)**

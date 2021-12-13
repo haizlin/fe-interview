@@ -2,6 +2,16 @@
 
 
 
+- 第973天 (2021.12.14)  
+    - [html] [使用canvas制作一个蜘蛛网](https://github.com/haizlin/fe-interview/issues/4824)
+    - [css] [请使用纯css3绘制一个卡丁车动画特效](https://github.com/haizlin/fe-interview/issues/4825)
+    - [js] [在使用递归时，能中途退出递归吗？](https://github.com/haizlin/fe-interview/issues/4826)
+    - [软技能] [努力与机遇哪个更重要？说说你的理解](https://github.com/haizlin/fe-interview/issues/4827)
+- 第972天 (2021.12.13)  
+    - [html] [使用canvas制作一个10秒倒计时特效](https://github.com/haizlin/fe-interview/issues/4820)
+    - [css] [使用css3实现多米诺骨牌动画特效](https://github.com/haizlin/fe-interview/issues/4821)
+    - [js] [websocket是基于tcp还是udp的呢？](https://github.com/haizlin/fe-interview/issues/4822)
+    - [软技能] [你对前端关注的数据指标有哪些？](https://github.com/haizlin/fe-interview/issues/4823)
 - 第971天 (2021.12.12)  
     - [html] [使用canvas画一个米字格布局，并可以在上面写字](https://github.com/haizlin/fe-interview/issues/4816)
     - [css] [使用css实现一个动态背景](https://github.com/haizlin/fe-interview/issues/4817)
