@@ -2,6 +2,11 @@
 
 
 
+- 第974天 (2021.12.15)  
+    - [html] [使用canvas制作几座相连的山峰](https://github.com/haizlin/fe-interview/issues/4828)
+    - [css] [说说你对css中font-display的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/4829)
+    - [js] [请问递归可不可以使用多线程？为什么？](https://github.com/haizlin/fe-interview/issues/4830)
+    - [软技能] [如何理解自身的努力与机遇之间的关系？](https://github.com/haizlin/fe-interview/issues/4831)
 - 第973天 (2021.12.14)  
     - [html] [使用canvas制作一个蜘蛛网](https://github.com/haizlin/fe-interview/issues/4824)
     - [css] [请使用纯css3绘制一个卡丁车动画特效](https://github.com/haizlin/fe-interview/issues/4825)

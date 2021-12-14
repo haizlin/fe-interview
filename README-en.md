@@ -26,11 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.12.14) —— 973 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个蜘蛛网](https://github.com/haizlin/fe-interview/issues/4824)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [请使用纯css3绘制一个卡丁车动画特效](https://github.com/haizlin/fe-interview/issues/4825)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在使用递归时，能中途退出递归吗？](https://github.com/haizlin/fe-interview/issues/4826)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [努力与机遇哪个更重要？说说你的理解](https://github.com/haizlin/fe-interview/issues/4827)  
+## :clock430: Today's Knowledge Points (2021.12.15) —— 974 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作几座相连的山峰](https://github.com/haizlin/fe-interview/issues/4828)  
  
   
 ### :camel: History
@@ -41,11 +38,8 @@
     …………  
 
 
-- 972 days (2021.12.13)  
-    	 :one: [html] [使用canvas制作一个10秒倒计时特效](https://github.com/haizlin/fe-interview/issues/4820)  
-	 :two: [css] [使用css3实现多米诺骨牌动画特效](https://github.com/haizlin/fe-interview/issues/4821)  
-	 :three: [js] [websocket是基于tcp还是udp的呢？](https://github.com/haizlin/fe-interview/issues/4822)  
-	 :four: [skill] [你对前端关注的数据指标有哪些？](https://github.com/haizlin/fe-interview/issues/4823)  
+- 973 days (2021.12.14)  
+    	 :one: [html] [使用canvas制作一个蜘蛛网](https://github.com/haizlin/fe-interview/issues/4824)  
  
 	
 - **[All](category/history.md)**
