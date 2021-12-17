@@ -26,8 +26,11 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.12.15) —— 第974天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作几座相连的山峰](https://github.com/haizlin/fe-interview/issues/4828)  
+## :clock430: 今天的知识点   (2021.12.18) —— 第977天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个树形菜单节点图](https://github.com/haizlin/fe-interview/issues/4840)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3如何对动画进行延时操作？](https://github.com/haizlin/fe-interview/issues/4841)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [JavaScript引擎在优化标识符查询方面做了什么？](https://github.com/haizlin/fe-interview/issues/4842)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [如果带领团队进化？](https://github.com/haizlin/fe-interview/issues/4843)  
  
   
 ### :camel: 历史题目
@@ -39,8 +42,11 @@
     …………  
 
 
-- 第973天 (2021.12.14)  
-    	 :one: [html] [使用canvas制作一个蜘蛛网](https://github.com/haizlin/fe-interview/issues/4824)  
+- 第976天 (2021.12.17)  
+    	 :one: [html] [使用canvas制作一个万圣节的简单动画](https://github.com/haizlin/fe-interview/issues/4836)  
+	 :two: [css] [使用css画一个圆圈，里面带一个x的图标](https://github.com/haizlin/fe-interview/issues/4837)  
+	 :three: [js] [在js中如何实现顺序执行异步函数？](https://github.com/haizlin/fe-interview/issues/4838)  
+	 :four: [软技能] [你觉得领导的职责是什么？](https://github.com/haizlin/fe-interview/issues/4839)  
  
 	
 - **[查看全部](category/history.md)**

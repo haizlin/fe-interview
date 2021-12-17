@@ -2,6 +2,21 @@
 
 
 
+- 第977天 (2021.12.18)  
+    - [html] [使用canvas画一个树形菜单节点图](https://github.com/haizlin/fe-interview/issues/4840)
+    - [css] [使用css3如何对动画进行延时操作？](https://github.com/haizlin/fe-interview/issues/4841)
+    - [js] [JavaScript引擎在优化标识符查询方面做了什么？](https://github.com/haizlin/fe-interview/issues/4842)
+    - [软技能] [如果带领团队进化？](https://github.com/haizlin/fe-interview/issues/4843)
+- 第976天 (2021.12.17)  
+    - [html] [使用canvas制作一个万圣节的简单动画](https://github.com/haizlin/fe-interview/issues/4836)
+    - [css] [使用css画一个圆圈，里面带一个x的图标](https://github.com/haizlin/fe-interview/issues/4837)
+    - [js] [在js中如何实现顺序执行异步函数？](https://github.com/haizlin/fe-interview/issues/4838)
+    - [软技能] [你觉得领导的职责是什么？](https://github.com/haizlin/fe-interview/issues/4839)
+- 第975天 (2021.12.16)  
+    - [html] [使用Canvas制作一个渐变背景的动画特效](https://github.com/haizlin/fe-interview/issues/4832)
+    - [css] [调试css有哪些技巧？](https://github.com/haizlin/fe-interview/issues/4833)
+    - [js] [js打断点有哪些方式？](https://github.com/haizlin/fe-interview/issues/4834)
+    - [软技能] [你觉得什么样的项目对你才有挑战性？](https://github.com/haizlin/fe-interview/issues/4835)
 - 第974天 (2021.12.15)  
     - [html] [使用canvas制作几座相连的山峰](https://github.com/haizlin/fe-interview/issues/4828)
     - [css] [说说你对css中font-display的理解，它有什么作用？](https://github.com/haizlin/fe-interview/issues/4829)
