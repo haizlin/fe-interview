@@ -2,6 +2,11 @@
 
 
 
+- 第978天 (2021.12.19)  
+    - [html] [使用canvas制作一个心跳的画特效](https://github.com/haizlin/fe-interview/issues/4844)
+    - [css] [如何使用CSS设置动画的填充模式？](https://github.com/haizlin/fe-interview/issues/4845)
+    - [js] [请说说DOMContentLoaded的触发时机](https://github.com/haizlin/fe-interview/issues/4846)
+    - [软技能] [你自己有画个思维导图吗？](https://github.com/haizlin/fe-interview/issues/4847)
 - 第977天 (2021.12.18)  
     - [html] [使用canvas画一个树形菜单节点图](https://github.com/haizlin/fe-interview/issues/4840)
     - [css] [使用css3如何对动画进行延时操作？](https://github.com/haizlin/fe-interview/issues/4841)

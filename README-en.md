@@ -26,11 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.12.18) —— 977 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个树形菜单节点图](https://github.com/haizlin/fe-interview/issues/4840)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [使用css3如何对动画进行延时操作？](https://github.com/haizlin/fe-interview/issues/4841)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [JavaScript引擎在优化标识符查询方面做了什么？](https://github.com/haizlin/fe-interview/issues/4842)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果带领团队进化？](https://github.com/haizlin/fe-interview/issues/4843)  
+## :clock430: Today's Knowledge Points (2021.12.19) —— 978 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个心跳的画特效](https://github.com/haizlin/fe-interview/issues/4844)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使用CSS设置动画的填充模式？](https://github.com/haizlin/fe-interview/issues/4845)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说DOMContentLoaded的触发时机](https://github.com/haizlin/fe-interview/issues/4846)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [你自己有画个思维导图吗？](https://github.com/haizlin/fe-interview/issues/4847)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 976 days (2021.12.17)  
-    	 :one: [html] [使用canvas制作一个万圣节的简单动画](https://github.com/haizlin/fe-interview/issues/4836)  
-	 :two: [css] [使用css画一个圆圈，里面带一个x的图标](https://github.com/haizlin/fe-interview/issues/4837)  
-	 :three: [js] [在js中如何实现顺序执行异步函数？](https://github.com/haizlin/fe-interview/issues/4838)  
-	 :four: [skill] [你觉得领导的职责是什么？](https://github.com/haizlin/fe-interview/issues/4839)  
+- 977 days (2021.12.18)  
+    	 :one: [html] [使用canvas画一个树形菜单节点图](https://github.com/haizlin/fe-interview/issues/4840)  
+	 :two: [css] [使用css3如何对动画进行延时操作？](https://github.com/haizlin/fe-interview/issues/4841)  
+	 :three: [js] [JavaScript引擎在优化标识符查询方面做了什么？](https://github.com/haizlin/fe-interview/issues/4842)  
+	 :four: [skill] [如果带领团队进化？](https://github.com/haizlin/fe-interview/issues/4843)  
  
 	
 - **[All](category/history.md)**
