@@ -2,6 +2,11 @@
 
 
 
+- 第979天 (2021.12.20)  
+    - [html] [使用canvas制作一个星星](https://github.com/haizlin/fe-interview/issues/4848)
+    - [css] [如何使用css控制动画的播放状态？](https://github.com/haizlin/fe-interview/issues/4849)
+    - [js] [你有使用过intersectionObserver吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/4850)
+    - [软技能] [做为领导你是如何评估你的团队？](https://github.com/haizlin/fe-interview/issues/4851)
 - 第978天 (2021.12.19)  
     - [html] [使用canvas制作一个心跳的画特效](https://github.com/haizlin/fe-interview/issues/4844)
     - [css] [如何使用CSS设置动画的填充模式？](https://github.com/haizlin/fe-interview/issues/4845)

@@ -26,11 +26,9 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.12.19) —— 第978天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个心跳的画特效](https://github.com/haizlin/fe-interview/issues/4844)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使用CSS设置动画的填充模式？](https://github.com/haizlin/fe-interview/issues/4845)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [请说说DOMContentLoaded的触发时机](https://github.com/haizlin/fe-interview/issues/4846)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [你自己有画个思维导图吗？](https://github.com/haizlin/fe-interview/issues/4847)  
+## :clock430: 今天的知识点   (2021.12.20) —— 第979天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个星星](https://github.com/haizlin/fe-interview/issues/4848)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使用css控制动画的播放状态？](https://github.com/haizlin/fe-interview/issues/4849)  
  
   
 ### :camel: 历史题目
@@ -42,11 +40,9 @@
     …………  
 
 
-- 第977天 (2021.12.18)  
-    	 :one: [html] [使用canvas画一个树形菜单节点图](https://github.com/haizlin/fe-interview/issues/4840)  
-	 :two: [css] [使用css3如何对动画进行延时操作？](https://github.com/haizlin/fe-interview/issues/4841)  
-	 :three: [js] [JavaScript引擎在优化标识符查询方面做了什么？](https://github.com/haizlin/fe-interview/issues/4842)  
-	 :four: [软技能] [如果带领团队进化？](https://github.com/haizlin/fe-interview/issues/4843)  
+- 第978天 (2021.12.19)  
+    	 :one: [html] [使用canvas制作一个心跳的画特效](https://github.com/haizlin/fe-interview/issues/4844)  
+	 :two: [css] [如何使用CSS设置动画的填充模式？](https://github.com/haizlin/fe-interview/issues/4845)  
  
 	
 - **[查看全部](category/history.md)**
