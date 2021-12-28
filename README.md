@@ -26,9 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2021.12.20) —— 第979天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个星星](https://github.com/haizlin/fe-interview/issues/4848)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使用css控制动画的播放状态？](https://github.com/haizlin/fe-interview/issues/4849)  
+## :clock430: 今天的知识点   (2021.12.29) —— 第988天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用canvas绘制Bitmap？](https://github.com/haizlin/fe-interview/issues/4886)  
  
   
 ### :camel: 历史题目
@@ -40,9 +39,8 @@
     …………  
 
 
-- 第978天 (2021.12.19)  
-    	 :one: [html] [使用canvas制作一个心跳的画特效](https://github.com/haizlin/fe-interview/issues/4844)  
-	 :two: [css] [如何使用CSS设置动画的填充模式？](https://github.com/haizlin/fe-interview/issues/4845)  
+- 第987天 (2021.12.28)  
+    	 :one: [html] [使用canvas制作一个画板](https://github.com/haizlin/fe-interview/issues/4882)  
  
 	
 - **[查看全部](category/history.md)**
