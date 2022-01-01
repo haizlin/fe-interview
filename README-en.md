@@ -26,8 +26,10 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2021.12.29) —— 988 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何使用canvas绘制Bitmap？](https://github.com/haizlin/fe-interview/issues/4886)  
+## :clock430: Today's Knowledge Points (2022.01.02) —— 992 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个燃烧中的火柴](https://github.com/haizlin/fe-interview/issues/4902)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [如何使用css实现多边框效果？](https://github.com/haizlin/fe-interview/issues/4903)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [在js中，请问[,,,,,]的长度是多少？](https://github.com/haizlin/fe-interview/issues/4904)  
  
   
 ### :camel: History
@@ -38,8 +40,10 @@
     …………  
 
 
-- 987 days (2021.12.28)  
-    	 :one: [html] [使用canvas制作一个画板](https://github.com/haizlin/fe-interview/issues/4882)  
+- 991 days (2022.01.01)  
+    	 :one: [html] [如何将Canvas绘制过程转为视频？](https://github.com/haizlin/fe-interview/issues/4898)  
+	 :two: [css] [你有使用过css中的contrast函数吗？](https://github.com/haizlin/fe-interview/issues/4899)  
+	 :three: [js] [请举例下在js中数组和对象有哪些原生方法](https://github.com/haizlin/fe-interview/issues/4900)  
  
 	
 - **[All](category/history.md)**
