@@ -2,6 +2,11 @@
 
 
 
+- 第997天 (2022.01.07)  
+    - [html] [使用canvas画一个流程图](https://github.com/haizlin/fe-interview/issues/4922)
+    - [css] [说说你对css的line-height-step属性的理解](https://github.com/haizlin/fe-interview/issues/4923)
+    - [js] [为什么在js中不允许使用保留字作为标识符？](https://github.com/haizlin/fe-interview/issues/4924)
+    - [软技能] [作为管理者看到同事在上班时间睡觉，该如何处理？](https://github.com/haizlin/fe-interview/issues/4925)
 - 第996天 (2022.01.06)  
     - [html] [使用canvas制作一张优惠券](https://github.com/haizlin/fe-interview/issues/4918)
     - [css] [你有使用过css的background-clip属性吗？](https://github.com/haizlin/fe-interview/issues/4919)
