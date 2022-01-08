@@ -2,6 +2,11 @@
 
 
 
+- 第999天 (2022.01.09)  
+    - [html] [如何在canvas画布上特定位置监听鼠标事件？](https://github.com/haizlin/fe-interview/issues/4930)
+    - [css] [你有使用过css中的:dir伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4931)
+    - [js] [使用js的库时，要升级版本需要考虑哪些情况？](https://github.com/haizlin/fe-interview/issues/4932)
+    - [软技能] [如果你有机会创业，你想做什么？为什么？](https://github.com/haizlin/fe-interview/issues/4933)
 - 第998天 (2022.01.08)  
     - [html] [使用ccanvas制作一个笔筒](https://github.com/haizlin/fe-interview/issues/4926)
     - [css] [你有使用过css中的:lang伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4927)
