@@ -2,6 +2,11 @@
 
 
 
+- 第998天 (2022.01.08)  
+    - [html] [使用ccanvas制作一个笔筒](https://github.com/haizlin/fe-interview/issues/4926)
+    - [css] [你有使用过css中的:lang伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4927)
+    - [js] [当使用过vue写代码，你还想着用jquery吗？为什么？它俩有什么区别？](https://github.com/haizlin/fe-interview/issues/4928)
+    - [软技能] [如果要你连续休息，你想休息几天？为什么？](https://github.com/haizlin/fe-interview/issues/4929)
 - 第997天 (2022.01.07)  
     - [html] [使用canvas画一个流程图](https://github.com/haizlin/fe-interview/issues/4922)
     - [css] [说说你对css的line-height-step属性的理解](https://github.com/haizlin/fe-interview/issues/4923)

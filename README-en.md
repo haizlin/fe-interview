@@ -26,7 +26,11 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.07) —— 997 days  
+## :clock430: Today's Knowledge Points (2022.01.08) —— 998 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用ccanvas制作一个笔筒](https://github.com/haizlin/fe-interview/issues/4926)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过css中的:lang伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4927)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [当使用过vue写代码，你还想着用jquery吗？为什么？它俩有什么区别？](https://github.com/haizlin/fe-interview/issues/4928)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果要你连续休息，你想休息几天？为什么？](https://github.com/haizlin/fe-interview/issues/4929)  
  
   
 ### :camel: History
@@ -37,8 +41,12 @@
     …………  
 
 
-- 996 days (2022.01.06)  
-     
+- 997 days (2022.01.07)  
+    	 :one: [html] [使用canvas画一个流程图](https://github.com/haizlin/fe-interview/issues/4922)  
+	 :two: [css] [说说你对css的line-height-step属性的理解](https://github.com/haizlin/fe-interview/issues/4923)  
+	 :three: [js] [为什么在js中不允许使用保留字作为标识符？](https://github.com/haizlin/fe-interview/issues/4924)  
+	 :four: [skill] [作为管理者看到同事在上班时间睡觉，该如何处理？](https://github.com/haizlin/fe-interview/issues/4925)  
+ 
 	
 - **[All](category/history.md)**
 
