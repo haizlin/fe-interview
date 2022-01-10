@@ -19,18 +19,18 @@
 
 :hash: [I'm going to set a question](http://www.h-camel.com/contribution.html) 
 
-| :bulb: Base | [HTML 850+](category/html.md) | [CSS 850+](category/css.md) | [JS 850+](category/js.md) | [Skill 850+](category/skill.md) |  | | | 
+| :bulb: Base | [HTML 1000+](category/html.md) | [CSS 1000+](category/css.md) | [JS 1000+](category/js.md) | [Skill 1000+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: Special | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 84+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [wxapp](lib/wxapp.md) | 
 | :hammer: Tool | [webpack 13+](tools/webpack.md) | 
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.09) —— 999 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何在canvas画布上特定位置监听鼠标事件？](https://github.com/haizlin/fe-interview/issues/4930)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过css中的:dir伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4931)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [使用js的库时，要升级版本需要考虑哪些情况？](https://github.com/haizlin/fe-interview/issues/4932)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [如果你有机会创业，你想做什么？为什么？](https://github.com/haizlin/fe-interview/issues/4933)  
+## :clock430: Today's Knowledge Points (2022.01.10) —— 1000 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个烟花的动画效果](https://github.com/haizlin/fe-interview/issues/4934)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过css中的:has伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4935)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对js中的数据类型BigInt的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/4936)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [什么是skill？说说你对skill的理解](https://github.com/haizlin/fe-interview/issues/4937)  
  
   
 ### :camel: History
@@ -41,11 +41,11 @@
     …………  
 
 
-- 998 days (2022.01.08)  
-    	 :one: [html] [使用ccanvas制作一个笔筒](https://github.com/haizlin/fe-interview/issues/4926)  
-	 :two: [css] [你有使用过css中的:lang伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4927)  
-	 :three: [js] [当使用过vue写代码，你还想着用jquery吗？为什么？它俩有什么区别？](https://github.com/haizlin/fe-interview/issues/4928)  
-	 :four: [skill] [如果要你连续休息，你想休息几天？为什么？](https://github.com/haizlin/fe-interview/issues/4929)  
+- 999 days (2022.01.09)  
+    	 :one: [html] [如何在canvas画布上特定位置监听鼠标事件？](https://github.com/haizlin/fe-interview/issues/4930)  
+	 :two: [css] [你有使用过css中的:dir伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4931)  
+	 :three: [js] [使用js的库时，要升级版本需要考虑哪些情况？](https://github.com/haizlin/fe-interview/issues/4932)  
+	 :four: [skill] [如果你有机会创业，你想做什么？为什么？](https://github.com/haizlin/fe-interview/issues/4933)  
  
 	
 - **[All](category/history.md)**
