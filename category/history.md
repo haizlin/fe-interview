@@ -2,6 +2,11 @@
 
 
 
+- 第1000天 (2022.01.10)  
+    - [html] [使用canvas制作一个烟花的动画效果](https://github.com/haizlin/fe-interview/issues/4934)
+    - [css] [你有使用过css中的:has伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4935)
+    - [js] [说说你对js中的数据类型BigInt的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/4936)
+    - [软技能] [什么是软技能？说说你对软技能的理解](https://github.com/haizlin/fe-interview/issues/4937)
 - 第999天 (2022.01.09)  
     - [html] [如何在canvas画布上特定位置监听鼠标事件？](https://github.com/haizlin/fe-interview/issues/4930)
     - [css] [你有使用过css中的:dir伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4931)
@@ -1244,8 +1249,8 @@
     - [软技能] [你认为优秀的前端工程师需要具备哪些软技能？](https://github.com/haizlin/fe-interview/issues/3911)
 - 第750天 (2021.05.05)  
     - [html] [写一个微信运动排行榜页面的布局](https://github.com/haizlin/fe-interview/issues/3901)
-    - [css] [写一个方法将多个数组合并成一个数组](https://github.com/haizlin/fe-interview/issues/3902)
-    - [js] [写一个方法，给定AB两个数，判断A是否包含于B](https://github.com/haizlin/fe-interview/issues/3903)
+    - [undefined] [undefined](https://github.com/haizlin/fe-interview/issues/undefined)
+    - [js] [写一个方法将多个数组合并成一个数组](https://github.com/haizlin/fe-interview/issues/3902)
     - [软技能] [你自己有封装过哪些组件吗？说说看](https://github.com/haizlin/fe-interview/issues/3904)
 - 第749天 (2021.05.04)  
     - [html] [写一个点击从左侧滑出的布局](https://github.com/haizlin/fe-interview/issues/3897)
