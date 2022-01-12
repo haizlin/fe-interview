@@ -26,11 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.10) —— 1000 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个烟花的动画效果](https://github.com/haizlin/fe-interview/issues/4934)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过css中的:has伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4935)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对js中的数据类型BigInt的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/4936)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [skill] [什么是skill？说说你对skill的理解](https://github.com/haizlin/fe-interview/issues/4937)  
+## :clock430: Today's Knowledge Points (2022.01.12) —— 1002 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在CSS的transtion中不支持元素的高度为auto的变化，如何实现动态高度动画？](https://github.com/haizlin/fe-interview/issues/4939)  
  
   
 ### :camel: History
@@ -41,11 +38,8 @@
     …………  
 
 
-- 999 days (2022.01.09)  
-    	 :one: [html] [如何在canvas画布上特定位置监听鼠标事件？](https://github.com/haizlin/fe-interview/issues/4930)  
-	 :two: [css] [你有使用过css中的:dir伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4931)  
-	 :three: [js] [使用js的库时，要升级版本需要考虑哪些情况？](https://github.com/haizlin/fe-interview/issues/4932)  
-	 :four: [skill] [如果你有机会创业，你想做什么？为什么？](https://github.com/haizlin/fe-interview/issues/4933)  
+- 1001 days (2022.01.11)  
+    	 :one: [css] [你有使用过css中的:is伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4938)  
  
 	
 - **[All](category/history.md)**
