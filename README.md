@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.01.12) —— 第1002天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在CSS的transtion中不支持元素的高度为auto的变化，如何实现动态高度动画？](https://github.com/haizlin/fe-interview/issues/4939)  
+## :clock430: 今天的知识点   (2022.01.13) —— 第1003天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [你有使用过css中的background:conic-gradient吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/4940)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1001天 (2022.01.11)  
-    	 :one: [css] [你有使用过css中的:is伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4938)  
+- 第1002天 (2022.01.12)  
+    	 :one: [css] [在CSS的transtion中不支持元素的高度为auto的变化，如何实现动态高度动画？](https://github.com/haizlin/fe-interview/issues/4939)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1003天 (Invalid date)  
+    - [css] [你有使用过css中的background:conic-gradient吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/4940)
 - 第1002天 (Invalid date)  
     - [css] [在CSS的transtion中不支持元素的高度为auto的变化，如何实现动态高度动画？](https://github.com/haizlin/fe-interview/issues/4939)
 - 第1001天 (Invalid date)  
