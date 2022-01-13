@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.13) —— 1003 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [你有使用过css中的background:conic-gradient吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/4940)  
+## :clock430: Today's Knowledge Points (2022.01.14) —— 1004 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [如何使用css3实现多重径向渐变？](https://github.com/haizlin/fe-interview/issues/4941)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1002 days (2022.01.12)  
-    	 :one: [css] [在CSS的transtion中不支持元素的高度为auto的变化，如何实现动态高度动画？](https://github.com/haizlin/fe-interview/issues/4939)  
+- 1003 days (2022.01.13)  
+    	 :one: [css] [你有使用过css中的background:conic-gradient吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/4940)  
  
 	
 - **[All](category/history.md)**

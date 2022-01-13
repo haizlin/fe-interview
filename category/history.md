@@ -2,6 +2,8 @@
 
 
 
+- 第1004天 (Invalid date)  
+    - [css] [如何使用css3实现多重径向渐变？](https://github.com/haizlin/fe-interview/issues/4941)
 - 第1003天 (Invalid date)  
     - [css] [你有使用过css中的background:conic-gradient吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/4940)
 - 第1002天 (Invalid date)  
