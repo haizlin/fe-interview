@@ -2,6 +2,8 @@
 
 
 
+- 第1005天 (Invalid date)  
+    - [css] [如何使用css3实现多重角向渐变？](https://github.com/haizlin/fe-interview/issues/4942)
 - 第1004天 (Invalid date)  
     - [css] [如何使用css3实现多重径向渐变？](https://github.com/haizlin/fe-interview/issues/4941)
 - 第1003天 (Invalid date)  
