@@ -2,6 +2,8 @@
 
 
 
+- 第1006天 (Invalid date)  
+    - [css] [你有使用过css中的background-image: repeating-radial-gradient吗？](https://github.com/haizlin/fe-interview/issues/4943)
 - 第1005天 (Invalid date)  
     - [css] [如何使用css3实现多重角向渐变？](https://github.com/haizlin/fe-interview/issues/4942)
 - 第1004天 (Invalid date)  

@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.01.15) —— 第1005天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [如何使用css3实现多重角向渐变？](https://github.com/haizlin/fe-interview/issues/4942)  
+## :clock430: 今天的知识点   (2022.01.16) —— 第1006天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [你有使用过css中的background-image: repeating-radial-gradient吗？](https://github.com/haizlin/fe-interview/issues/4943)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1004天 (2022.01.14)  
-    	 :one: [css] [如何使用css3实现多重径向渐变？](https://github.com/haizlin/fe-interview/issues/4941)  
+- 第1005天 (2022.01.15)  
+    	 :one: [css] [如何使用css3实现多重角向渐变？](https://github.com/haizlin/fe-interview/issues/4942)  
  
 	
 - **[查看全部](category/history.md)**

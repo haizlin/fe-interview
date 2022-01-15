@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.15) —— 1005 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [如何使用css3实现多重角向渐变？](https://github.com/haizlin/fe-interview/issues/4942)  
+## :clock430: Today's Knowledge Points (2022.01.16) —— 1006 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [你有使用过css中的background-image: repeating-radial-gradient吗？](https://github.com/haizlin/fe-interview/issues/4943)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1004 days (2022.01.14)  
-    	 :one: [css] [如何使用css3实现多重径向渐变？](https://github.com/haizlin/fe-interview/issues/4941)  
+- 1005 days (2022.01.15)  
+    	 :one: [css] [如何使用css3实现多重角向渐变？](https://github.com/haizlin/fe-interview/issues/4942)  
  
 	
 - **[All](category/history.md)**
