@@ -2,6 +2,8 @@
 
 
 
+- 第1007天 (Invalid date)  
+    - [js] [在JS中URL()和URLSearchParams()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/4944)
 - 第1006天 (Invalid date)  
     - [css] [你有使用过css中的background-image: repeating-radial-gradient吗？](https://github.com/haizlin/fe-interview/issues/4943)
 - 第1005天 (Invalid date)  
