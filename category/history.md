@@ -2,6 +2,8 @@
 
 
 
+- 第1008天 (Invalid date)  
+    - [css] [如何使用css设置字体禁止缩放？](https://github.com/haizlin/fe-interview/issues/4945)
 - 第1007天 (Invalid date)  
     - [js] [在JS中URL()和URLSearchParams()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/4944)
 - 第1006天 (Invalid date)  

@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.01.17) —— 第1007天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在JS中URL()和URLSearchParams()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/4944)  
+## :clock430: 今天的知识点   (2022.01.18) —— 第1008天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [如何使用css设置字体禁止缩放？](https://github.com/haizlin/fe-interview/issues/4945)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1006天 (2022.01.16)  
-    	 :one: [css] [你有使用过css中的background-image: repeating-radial-gradient吗？](https://github.com/haizlin/fe-interview/issues/4943)  
+- 第1007天 (2022.01.17)  
+    	 :one: [js] [在JS中URL()和URLSearchParams()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/4944)  
  
 	
 - **[查看全部](category/history.md)**
