@@ -2,6 +2,8 @@
 
 
 
+- 第1009天 (Invalid date)  
+    - [js] [为什么说在js中数组不是真正意义上的数组？](https://github.com/haizlin/fe-interview/issues/4946)
 - 第1008天 (Invalid date)  
     - [css] [如何使用css设置字体禁止缩放？](https://github.com/haizlin/fe-interview/issues/4945)
 - 第1007天 (Invalid date)  
