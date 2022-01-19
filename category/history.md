@@ -2,6 +2,8 @@
 
 
 
+- 第1010天 (Invalid date)  
+    - [js] [在js中删除子节点使用innerHTML=''与removeChild()有什么区别？](https://github.com/haizlin/fe-interview/issues/4947)
 - 第1009天 (Invalid date)  
     - [js] [为什么说在js中数组不是真正意义上的数组？](https://github.com/haizlin/fe-interview/issues/4946)
 - 第1008天 (Invalid date)  

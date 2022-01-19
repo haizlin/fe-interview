@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.19) —— 1009 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [为什么说在js中数组不是真正意义上的数组？](https://github.com/haizlin/fe-interview/issues/4946)  
+## :clock430: Today's Knowledge Points (2022.01.20) —— 1010 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中删除子节点使用innerHTML=''与removeChild()有什么区别？](https://github.com/haizlin/fe-interview/issues/4947)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1008 days (2022.01.18)  
-    	 :one: [css] [如何使用css设置字体禁止缩放？](https://github.com/haizlin/fe-interview/issues/4945)  
+- 1009 days (2022.01.19)  
+    	 :one: [js] [为什么说在js中数组不是真正意义上的数组？](https://github.com/haizlin/fe-interview/issues/4946)  
  
 	
 - **[All](category/history.md)**
