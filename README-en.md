@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.20) —— 1010 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中删除子节点使用innerHTML=''与removeChild()有什么区别？](https://github.com/haizlin/fe-interview/issues/4947)  
+## :clock430: Today's Knowledge Points (2022.01.21) —— 1011 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas把图片变成圆角](https://github.com/haizlin/fe-interview/issues/4948)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1009 days (2022.01.19)  
-    	 :one: [js] [为什么说在js中数组不是真正意义上的数组？](https://github.com/haizlin/fe-interview/issues/4946)  
+- 1010 days (2022.01.20)  
+    	 :one: [js] [在js中删除子节点使用innerHTML=''与removeChild()有什么区别？](https://github.com/haizlin/fe-interview/issues/4947)  
  
 	
 - **[All](category/history.md)**

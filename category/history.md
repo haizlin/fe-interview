@@ -2,6 +2,8 @@
 
 
 
+- 第1011天 (Invalid date)  
+    - [html] [使用canvas把图片变成圆角](https://github.com/haizlin/fe-interview/issues/4948)
 - 第1010天 (Invalid date)  
     - [js] [在js中删除子节点使用innerHTML=''与removeChild()有什么区别？](https://github.com/haizlin/fe-interview/issues/4947)
 - 第1009天 (Invalid date)  
