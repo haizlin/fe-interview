@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.21) —— 1011 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas把图片变成圆角](https://github.com/haizlin/fe-interview/issues/4948)  
+## :clock430: Today's Knowledge Points (2022.01.22) —— 1012 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你是如何做到保持技术的敏感性的？](https://github.com/haizlin/fe-interview/issues/4949)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1010 days (2022.01.20)  
-    	 :one: [js] [在js中删除子节点使用innerHTML=''与removeChild()有什么区别？](https://github.com/haizlin/fe-interview/issues/4947)  
+- 1011 days (2022.01.21)  
+    	 :one: [html] [使用canvas把图片变成圆角](https://github.com/haizlin/fe-interview/issues/4948)  
  
 	
 - **[All](category/history.md)**

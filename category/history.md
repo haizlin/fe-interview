@@ -2,6 +2,8 @@
 
 
 
+- 第1012天 (Invalid date)  
+    - [软技能] [你是如何做到保持技术的敏感性的？](https://github.com/haizlin/fe-interview/issues/4949)
 - 第1011天 (Invalid date)  
     - [html] [使用canvas把图片变成圆角](https://github.com/haizlin/fe-interview/issues/4948)
 - 第1010天 (Invalid date)  

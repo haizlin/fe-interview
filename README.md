@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.01.21) —— 第1011天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas把图片变成圆角](https://github.com/haizlin/fe-interview/issues/4948)  
+## :clock430: 今天的知识点   (2022.01.22) —— 第1012天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你是如何做到保持技术的敏感性的？](https://github.com/haizlin/fe-interview/issues/4949)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1010天 (2022.01.20)  
-    	 :one: [js] [在js中删除子节点使用innerHTML=''与removeChild()有什么区别？](https://github.com/haizlin/fe-interview/issues/4947)  
+- 第1011天 (2022.01.21)  
+    	 :one: [html] [使用canvas把图片变成圆角](https://github.com/haizlin/fe-interview/issues/4948)  
  
 	
 - **[查看全部](category/history.md)**
