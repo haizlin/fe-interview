@@ -2,6 +2,8 @@
 
 
 
+- 第1014天 (Invalid date)  
+    - [软技能] [你希望年终奖是怎么发的？](https://github.com/haizlin/fe-interview/issues/4951)
 - 第1013天 (Invalid date)  
     - [软技能] [说说你对web3.0的理解](https://github.com/haizlin/fe-interview/issues/4950)
 - 第1012天 (Invalid date)  
