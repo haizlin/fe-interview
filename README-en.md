@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.25) —— 1015 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:out-of-range选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4952)  
+## :clock430: Today's Knowledge Points (2022.01.26) —— 1016 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:in-range选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4953)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1014 days (2022.01.24)  
-    	 :one: [skill] [你希望年终奖是怎么发的？](https://github.com/haizlin/fe-interview/issues/4951)  
+- 1015 days (2022.01.25)  
+    	 :one: [css] [请说说css中的:out-of-range选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4952)  
  
 	
 - **[All](category/history.md)**
