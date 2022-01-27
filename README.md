@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.01.27) —— 第1017天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:required选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4954)  
+## :clock430: 今天的知识点   (2022.01.28) —— 第1018天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:optional选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4955)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1016天 (2022.01.26)  
-    	 :one: [css] [请说说css中的:in-range选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4953)  
+- 第1017天 (2022.01.27)  
+    	 :one: [css] [请说说css中的:required选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4954)  
  
 	
 - **[查看全部](category/history.md)**
