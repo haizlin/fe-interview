@@ -2,6 +2,8 @@
 
 
 
+- 第1019天 (Invalid date)  
+    - [css] [请说说css中的:read-only选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4956)
 - 第1018天 (Invalid date)  
     - [css] [请说说css中的:optional选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4955)
 - 第1017天 (Invalid date)  
