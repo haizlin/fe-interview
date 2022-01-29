@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.29) —— 1019 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:read-only选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4956)  
+## :clock430: Today's Knowledge Points (2022.01.30) —— 1020 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:read-write选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4957)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1018 days (2022.01.28)  
-    	 :one: [css] [请说说css中的:optional选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4955)  
+- 1019 days (2022.01.29)  
+    	 :one: [css] [请说说css中的:read-only选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4956)  
  
 	
 - **[All](category/history.md)**

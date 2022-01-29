@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.01.29) —— 第1019天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:read-only选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4956)  
+## :clock430: 今天的知识点   (2022.01.30) —— 第1020天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:read-write选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4957)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1018天 (2022.01.28)  
-    	 :one: [css] [请说说css中的:optional选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4955)  
+- 第1019天 (2022.01.29)  
+    	 :one: [css] [请说说css中的:read-only选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4956)  
  
 	
 - **[查看全部](category/history.md)**
