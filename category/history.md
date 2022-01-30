@@ -2,6 +2,8 @@
 
 
 
+- 第1021天 (Invalid date)  
+    - [css] [请说说css中的:blank选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4958)
 - 第1020天 (Invalid date)  
     - [css] [请说说css中的:read-write选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4957)
 - 第1019天 (Invalid date)  
