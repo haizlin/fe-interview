@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.01.31) —— 1021 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:blank选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4958)  
+## :clock430: Today's Knowledge Points (2022.02.01) —— 1022 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:current选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4959)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1020 days (2022.01.30)  
-    	 :one: [css] [请说说css中的:read-write选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4957)  
+- 1021 days (2022.01.31)  
+    	 :one: [css] [请说说css中的:blank选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4958)  
  
 	
 - **[All](category/history.md)**
