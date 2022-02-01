@@ -2,6 +2,8 @@
 
 
 
+- 第1023天 (Invalid date)  
+    - [css] [请说说css中的:past选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4960)
 - 第1022天 (Invalid date)  
     - [css] [请说说css中的:current选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4959)
 - 第1021天 (Invalid date)  
