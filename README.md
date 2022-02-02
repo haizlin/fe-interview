@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.02.02) —— 第1023天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:past选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4960)  
+## :clock430: 今天的知识点   (2022.02.03) —— 第1024天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:future选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4961)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1022天 (2022.02.01)  
-    	 :one: [css] [请说说css中的:current选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4959)  
+- 第1023天 (2022.02.02)  
+    	 :one: [css] [请说说css中的:past选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4960)  
  
 	
 - **[查看全部](category/history.md)**
