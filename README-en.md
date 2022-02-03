@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.03) —— 1024 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:future选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4961)  
+## :clock430: Today's Knowledge Points (2022.02.04) —— 1025 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:first-line选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4962)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1023 days (2022.02.02)  
-    	 :one: [css] [请说说css中的:past选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4960)  
+- 1024 days (2022.02.03)  
+    	 :one: [css] [请说说css中的:future选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4961)  
  
 	
 - **[All](category/history.md)**

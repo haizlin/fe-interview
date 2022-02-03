@@ -2,6 +2,8 @@
 
 
 
+- 第1025天 (Invalid date)  
+    - [css] [请说说css中的:first-line选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4962)
 - 第1024天 (Invalid date)  
     - [css] [请说说css中的:future选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4961)
 - 第1023天 (Invalid date)  
