@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.02.05) —— 第1026天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:only-child选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4963)  
+## :clock430: 今天的知识点   (2022.02.06) —— 第1027天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:only-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4964)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1025天 (2022.02.04)  
-    	 :one: [css] [请说说css中的:first-line选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4962)  
+- 第1026天 (2022.02.05)  
+    	 :one: [css] [请说说css中的:only-child选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4963)  
  
 	
 - **[查看全部](category/history.md)**

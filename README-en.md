@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.05) —— 1026 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:only-child选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4963)  
+## :clock430: Today's Knowledge Points (2022.02.06) —— 1027 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:only-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4964)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1025 days (2022.02.04)  
-    	 :one: [css] [请说说css中的:first-line选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4962)  
+- 1026 days (2022.02.05)  
+    	 :one: [css] [请说说css中的:only-child选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4963)  
  
 	
 - **[All](category/history.md)**
