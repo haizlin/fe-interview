@@ -2,6 +2,8 @@
 
 
 
+- 第1028天 (Invalid date)  
+    - [css] [请说说css中的:last-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4965)
 - 第1027天 (Invalid date)  
     - [css] [请说说css中的:only-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4964)
 - 第1026天 (Invalid date)  
