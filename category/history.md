@@ -2,6 +2,8 @@
 
 
 
+- 第1030天 (Invalid date)  
+    - [css] [在css中transparent的属性值有什么使用场景？](https://github.com/haizlin/fe-interview/issues/4967)
 - 第1029天 (Invalid date)  
     - [css] [请说说css中的:nth-last-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4966)
 - 第1028天 (Invalid date)  

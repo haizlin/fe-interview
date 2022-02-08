@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.08) —— 1029 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:nth-last-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4966)  
+## :clock430: Today's Knowledge Points (2022.02.09) —— 1030 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在css中transparent的属性值有什么使用场景？](https://github.com/haizlin/fe-interview/issues/4967)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1028 days (2022.02.07)  
-    	 :one: [css] [请说说css中的:last-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4965)  
+- 1029 days (2022.02.08)  
+    	 :one: [css] [请说说css中的:nth-last-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4966)  
  
 	
 - **[All](category/history.md)**

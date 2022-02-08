@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.02.08) —— 第1029天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说css中的:nth-last-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4966)  
+## :clock430: 今天的知识点   (2022.02.09) —— 第1030天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在css中transparent的属性值有什么使用场景？](https://github.com/haizlin/fe-interview/issues/4967)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1028天 (2022.02.07)  
-    	 :one: [css] [请说说css中的:last-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4965)  
+- 第1029天 (2022.02.08)  
+    	 :one: [css] [请说说css中的:nth-last-of-type选择器的作用是什么？](https://github.com/haizlin/fe-interview/issues/4966)  
  
 	
 - **[查看全部](category/history.md)**
