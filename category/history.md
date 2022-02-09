@@ -2,6 +2,8 @@
 
 
 
+- 第1031天 (Invalid date)  
+    - [css] [在css中如何利用transparent属性设置透明度？](https://github.com/haizlin/fe-interview/issues/4970)
 - 第1030天 (Invalid date)  
     - [css] [在css中transparent的属性值有什么使用场景？](https://github.com/haizlin/fe-interview/issues/4967)
 - 第1029天 (Invalid date)  
