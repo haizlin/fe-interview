@@ -2,6 +2,8 @@
 
 
 
+- 第1032天 (Invalid date)  
+    - [css] [使用CSS实现镂空效果](https://github.com/haizlin/fe-interview/issues/4971)
 - 第1031天 (Invalid date)  
     - [css] [在css中如何利用transparent属性设置透明度？](https://github.com/haizlin/fe-interview/issues/4970)
 - 第1030天 (Invalid date)  
