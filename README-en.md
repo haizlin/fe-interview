@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.11) —— 1032 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用CSS实现镂空效果](https://github.com/haizlin/fe-interview/issues/4971)  
+## :clock430: Today's Knowledge Points (2022.02.12) —— 1033 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在css中clip属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4972)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1031 days (2022.02.10)  
-    	 :one: [css] [在css中如何利用transparent属性设置透明度？](https://github.com/haizlin/fe-interview/issues/4970)  
+- 1032 days (2022.02.11)  
+    	 :one: [css] [使用CSS实现镂空效果](https://github.com/haizlin/fe-interview/issues/4971)  
  
 	
 - **[All](category/history.md)**
