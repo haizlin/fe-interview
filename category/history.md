@@ -2,6 +2,8 @@
 
 
 
+- 第1034天 (Invalid date)  
+    - [css] [使用CSS实现简单的骨骼动画效果](https://github.com/haizlin/fe-interview/issues/4973)
 - 第1033天 (Invalid date)  
     - [css] [在css中clip属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4972)
 - 第1032天 (Invalid date)  

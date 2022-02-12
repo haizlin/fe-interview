@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.12) —— 1033 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在css中clip属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4972)  
+## :clock430: Today's Knowledge Points (2022.02.13) —— 1034 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用CSS实现简单的骨骼动画效果](https://github.com/haizlin/fe-interview/issues/4973)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1032 days (2022.02.11)  
-    	 :one: [css] [使用CSS实现镂空效果](https://github.com/haizlin/fe-interview/issues/4971)  
+- 1033 days (2022.02.12)  
+    	 :one: [css] [在css中clip属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4972)  
  
 	
 - **[All](category/history.md)**
