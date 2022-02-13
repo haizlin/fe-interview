@@ -2,6 +2,8 @@
 
 
 
+- 第1035天 (Invalid date)  
+    - [css] [在css中请解释下max-height和height优先级](https://github.com/haizlin/fe-interview/issues/4974)
 - 第1034天 (Invalid date)  
     - [css] [使用CSS实现简单的骨骼动画效果](https://github.com/haizlin/fe-interview/issues/4973)
 - 第1033天 (Invalid date)  

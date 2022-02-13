@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.02.13) —— 第1034天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用CSS实现简单的骨骼动画效果](https://github.com/haizlin/fe-interview/issues/4973)  
+## :clock430: 今天的知识点   (2022.02.14) —— 第1035天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在css中请解释下max-height和height优先级](https://github.com/haizlin/fe-interview/issues/4974)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1033天 (2022.02.12)  
-    	 :one: [css] [在css中clip属性有什么作用？](https://github.com/haizlin/fe-interview/issues/4972)  
+- 第1034天 (2022.02.13)  
+    	 :one: [css] [使用CSS实现简单的骨骼动画效果](https://github.com/haizlin/fe-interview/issues/4973)  
  
 	
 - **[查看全部](category/history.md)**
