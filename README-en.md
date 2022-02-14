@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.14) —— 1035 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在css中请解释下max-height和height优先级](https://github.com/haizlin/fe-interview/issues/4974)  
+## :clock430: Today's Knowledge Points (2022.02.15) —— 1036 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用css实现右下角有三角的切角效果](https://github.com/haizlin/fe-interview/issues/4975)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1034 days (2022.02.13)  
-    	 :one: [css] [使用CSS实现简单的骨骼动画效果](https://github.com/haizlin/fe-interview/issues/4973)  
+- 1035 days (2022.02.14)  
+    	 :one: [css] [在css中请解释下max-height和height优先级](https://github.com/haizlin/fe-interview/issues/4974)  
  
 	
 - **[All](category/history.md)**

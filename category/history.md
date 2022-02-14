@@ -2,6 +2,8 @@
 
 
 
+- 第1036天 (Invalid date)  
+    - [css] [使用css实现右下角有三角的切角效果](https://github.com/haizlin/fe-interview/issues/4975)
 - 第1035天 (Invalid date)  
     - [css] [在css中请解释下max-height和height优先级](https://github.com/haizlin/fe-interview/issues/4974)
 - 第1034天 (Invalid date)  
