@@ -2,6 +2,8 @@
 
 
 
+- 第1039天 (Invalid date)  
+    - [css] [说说你对CSS中@scope的了解](https://github.com/haizlin/fe-interview/issues/4978)
 - 第1038天 (Invalid date)  
     - [css] [说说你对CSS中@layer的了解](https://github.com/haizlin/fe-interview/issues/4977)
 - 第1037天 (Invalid date)  
