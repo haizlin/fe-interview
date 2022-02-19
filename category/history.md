@@ -2,6 +2,8 @@
 
 
 
+- 第1041天 (Invalid date)  
+    - [css] [说说你对CSS中color-contrast()函数的了解](https://github.com/haizlin/fe-interview/issues/4980)
 - 第1040天 (Invalid date)  
     - [css] [说说你对CSS中color-mix()函数的了解](https://github.com/haizlin/fe-interview/issues/4979)
 - 第1039天 (Invalid date)  

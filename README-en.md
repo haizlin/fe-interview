@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.19) —— 1040 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对CSS中color-mix()函数的了解](https://github.com/haizlin/fe-interview/issues/4979)  
+## :clock430: Today's Knowledge Points (2022.02.20) —— 1041 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对CSS中color-contrast()函数的了解](https://github.com/haizlin/fe-interview/issues/4980)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1039 days (2022.02.18)  
-    	 :one: [css] [说说你对CSS中@scope的了解](https://github.com/haizlin/fe-interview/issues/4978)  
+- 1040 days (2022.02.19)  
+    	 :one: [css] [说说你对CSS中color-mix()函数的了解](https://github.com/haizlin/fe-interview/issues/4979)  
  
 	
 - **[All](category/history.md)**
