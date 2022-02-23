@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.02.23) —— 第1044天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对CSS中overscroll-behavior属性的理解](https://github.com/haizlin/fe-interview/issues/4983)  
+## :clock430: 今天的知识点   (2022.02.24) —— 第1045天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对CSS中scrollbar-gutter属性的理解](https://github.com/haizlin/fe-interview/issues/4984)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1043天 (2022.02.22)  
-    	 :one: [css] [说说你对CSS中的单位lh、rlh的理解](https://github.com/haizlin/fe-interview/issues/4982)  
+- 第1044天 (2022.02.23)  
+    	 :one: [css] [说说你对CSS中overscroll-behavior属性的理解](https://github.com/haizlin/fe-interview/issues/4983)  
  
 	
 - **[查看全部](category/history.md)**
