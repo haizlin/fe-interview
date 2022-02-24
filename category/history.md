@@ -2,6 +2,8 @@
 
 
 
+- 第1046天 (Invalid date)  
+    - [css] [说说你对CSS中accent-color属性的理解](https://github.com/haizlin/fe-interview/issues/4985)
 - 第1045天 (Invalid date)  
     - [css] [说说你对CSS中scrollbar-gutter属性的理解](https://github.com/haizlin/fe-interview/issues/4984)
 - 第1044天 (Invalid date)  

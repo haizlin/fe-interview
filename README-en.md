@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.24) —— 1045 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对CSS中scrollbar-gutter属性的理解](https://github.com/haizlin/fe-interview/issues/4984)  
+## :clock430: Today's Knowledge Points (2022.02.25) —— 1046 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对CSS中accent-color属性的理解](https://github.com/haizlin/fe-interview/issues/4985)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1044 days (2022.02.23)  
-    	 :one: [css] [说说你对CSS中overscroll-behavior属性的理解](https://github.com/haizlin/fe-interview/issues/4983)  
+- 1045 days (2022.02.24)  
+    	 :one: [css] [说说你对CSS中scrollbar-gutter属性的理解](https://github.com/haizlin/fe-interview/issues/4984)  
  
 	
 - **[All](category/history.md)**
