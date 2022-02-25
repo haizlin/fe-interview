@@ -2,6 +2,8 @@
 
 
 
+- 第1047天 (Invalid date)  
+    - [css] [说说你对CSS中`display: subgrid;`的理解](https://github.com/haizlin/fe-interview/issues/4986)
 - 第1046天 (Invalid date)  
     - [css] [说说你对CSS中accent-color属性的理解](https://github.com/haizlin/fe-interview/issues/4985)
 - 第1045天 (Invalid date)  
