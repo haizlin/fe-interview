@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.26) —— 1047 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对CSS中`display: subgrid;`的理解](https://github.com/haizlin/fe-interview/issues/4986)  
+## :clock430: Today's Knowledge Points (2022.02.27) —— 1048 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [在meta标签中的name值theme-color有什么作用？](https://github.com/haizlin/fe-interview/issues/4987)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1046 days (2022.02.25)  
-    	 :one: [css] [说说你对CSS中accent-color属性的理解](https://github.com/haizlin/fe-interview/issues/4985)  
+- 1047 days (2022.02.26)  
+    	 :one: [css] [说说你对CSS中`display: subgrid;`的理解](https://github.com/haizlin/fe-interview/issues/4986)  
  
 	
 - **[All](category/history.md)**

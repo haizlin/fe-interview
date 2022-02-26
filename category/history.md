@@ -2,6 +2,8 @@
 
 
 
+- 第1048天 (Invalid date)  
+    - [html] [在meta标签中的name值theme-color有什么作用？](https://github.com/haizlin/fe-interview/issues/4987)
 - 第1047天 (Invalid date)  
     - [css] [说说你对CSS中`display: subgrid;`的理解](https://github.com/haizlin/fe-interview/issues/4986)
 - 第1046天 (Invalid date)  
