@@ -2,6 +2,8 @@
 
 
 
+- 第1049天 (Invalid date)  
+    - [js] [使用js写个方法区分原生与非原生的对象](https://github.com/haizlin/fe-interview/issues/4988)
 - 第1048天 (Invalid date)  
     - [html] [在meta标签中的name值theme-color有什么作用？](https://github.com/haizlin/fe-interview/issues/4987)
 - 第1047天 (Invalid date)  
