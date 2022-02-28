@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.02.28) —— 第1049天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写个方法区分原生与非原生的对象](https://github.com/haizlin/fe-interview/issues/4988)  
+## :clock430: 今天的知识点   (2022.03.01) —— 第1050天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法生成从a-z的数组](https://github.com/haizlin/fe-interview/issues/4989)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1048天 (2022.02.27)  
-    	 :one: [html] [在meta标签中的name值theme-color有什么作用？](https://github.com/haizlin/fe-interview/issues/4987)  
+- 第1049天 (2022.02.28)  
+    	 :one: [js] [使用js写个方法区分原生与非原生的对象](https://github.com/haizlin/fe-interview/issues/4988)  
  
 	
 - **[查看全部](category/history.md)**

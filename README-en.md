@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.02.28) —— 1049 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写个方法区分原生与非原生的对象](https://github.com/haizlin/fe-interview/issues/4988)  
+## :clock430: Today's Knowledge Points (2022.03.01) —— 1050 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法生成从a-z的数组](https://github.com/haizlin/fe-interview/issues/4989)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1048 days (2022.02.27)  
-    	 :one: [html] [在meta标签中的name值theme-color有什么作用？](https://github.com/haizlin/fe-interview/issues/4987)  
+- 1049 days (2022.02.28)  
+    	 :one: [js] [使用js写个方法区分原生与非原生的对象](https://github.com/haizlin/fe-interview/issues/4988)  
  
 	
 - **[All](category/history.md)**

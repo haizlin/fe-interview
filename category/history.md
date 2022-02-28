@@ -2,6 +2,8 @@
 
 
 
+- 第1050天 (Invalid date)  
+    - [js] [使用js写一个方法生成从a-z的数组](https://github.com/haizlin/fe-interview/issues/4989)
 - 第1049天 (Invalid date)  
     - [js] [使用js写个方法区分原生与非原生的对象](https://github.com/haizlin/fe-interview/issues/4988)
 - 第1048天 (Invalid date)  
