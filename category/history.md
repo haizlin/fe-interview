@@ -2,6 +2,8 @@
 
 
 
+- 第1051天 (Invalid date)  
+    - [js] [请说说在js中Object.seal的作用](https://github.com/haizlin/fe-interview/issues/4990)
 - 第1050天 (Invalid date)  
     - [js] [使用js写一个方法生成从a-z的数组](https://github.com/haizlin/fe-interview/issues/4989)
 - 第1049天 (Invalid date)  
