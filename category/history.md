@@ -2,6 +2,8 @@
 
 
 
+- 第1052天 (Invalid date)  
+    - [css] [说说你对CSS中`filter: invert`的了解](https://github.com/haizlin/fe-interview/issues/4991)
 - 第1051天 (Invalid date)  
     - [js] [请说说在js中Object.seal的作用](https://github.com/haizlin/fe-interview/issues/4990)
 - 第1050天 (Invalid date)  

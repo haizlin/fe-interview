@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.02) —— 1051 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说在js中Object.seal的作用](https://github.com/haizlin/fe-interview/issues/4990)  
+## :clock430: Today's Knowledge Points (2022.03.03) —— 1052 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对CSS中`filter: invert`的了解](https://github.com/haizlin/fe-interview/issues/4991)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1050 days (2022.03.01)  
-    	 :one: [js] [使用js写一个方法生成从a-z的数组](https://github.com/haizlin/fe-interview/issues/4989)  
+- 1051 days (2022.03.02)  
+    	 :one: [js] [请说说在js中Object.seal的作用](https://github.com/haizlin/fe-interview/issues/4990)  
  
 	
 - **[All](category/history.md)**

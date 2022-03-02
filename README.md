@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.02) —— 第1051天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说在js中Object.seal的作用](https://github.com/haizlin/fe-interview/issues/4990)  
+## :clock430: 今天的知识点   (2022.03.03) —— 第1052天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对CSS中`filter: invert`的了解](https://github.com/haizlin/fe-interview/issues/4991)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1050天 (2022.03.01)  
-    	 :one: [js] [使用js写一个方法生成从a-z的数组](https://github.com/haizlin/fe-interview/issues/4989)  
+- 第1051天 (2022.03.02)  
+    	 :one: [js] [请说说在js中Object.seal的作用](https://github.com/haizlin/fe-interview/issues/4990)  
  
 	
 - **[查看全部](category/history.md)**
