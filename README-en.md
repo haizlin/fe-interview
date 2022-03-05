@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.05) —— 1054 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说在css中hyphens属性的用途](https://github.com/haizlin/fe-interview/issues/4993)  
+## :clock430: Today's Knowledge Points (2022.03.06) —— 1055 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js数组中不会改变原有数组的方法有哪些？](https://github.com/haizlin/fe-interview/issues/4995)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1053 days (2022.03.04)  
-    	 :one: [html] [使用html5制作一个冰墩墩特效](https://github.com/haizlin/fe-interview/issues/4992)  
+- 1054 days (2022.03.05)  
+    	 :one: [css] [说说在css中hyphens属性的用途](https://github.com/haizlin/fe-interview/issues/4993)  
  
 	
 - **[All](category/history.md)**
