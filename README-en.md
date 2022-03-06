@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.06) —— 1055 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js数组中不会改变原有数组的方法有哪些？](https://github.com/haizlin/fe-interview/issues/4995)  
+## :clock430: Today's Knowledge Points (2022.03.07) —— 1056 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js中变量回收原则是什么？](https://github.com/haizlin/fe-interview/issues/4996)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1054 days (2022.03.05)  
-    	 :one: [css] [说说在css中hyphens属性的用途](https://github.com/haizlin/fe-interview/issues/4993)  
+- 1055 days (2022.03.06)  
+    	 :one: [js] [js数组中不会改变原有数组的方法有哪些？](https://github.com/haizlin/fe-interview/issues/4995)  
  
 	
 - **[All](category/history.md)**

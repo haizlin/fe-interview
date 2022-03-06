@@ -2,6 +2,8 @@
 
 
 
+- 第1056天 (Invalid date)  
+    - [js] [js中变量回收原则是什么？](https://github.com/haizlin/fe-interview/issues/4996)
 - 第1055天 (Invalid date)  
     - [js] [js数组中不会改变原有数组的方法有哪些？](https://github.com/haizlin/fe-interview/issues/4995)
 - 第1054天 (Invalid date)  
