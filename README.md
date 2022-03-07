@@ -26,8 +26,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.07) —— 第1056天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js中变量回收原则是什么？](https://github.com/haizlin/fe-interview/issues/4996)  
+## :clock430: 今天的知识点   (2022.03.08) —— 第1057天  
  
   
 ### :camel: 历史题目
@@ -39,9 +38,8 @@
     …………  
 
 
-- 第1055天 (2022.03.06)  
-    	 :one: [js] [js数组中不会改变原有数组的方法有哪些？](https://github.com/haizlin/fe-interview/issues/4995)  
- 
+- 第1056天 (2022.03.07)  
+     
 	
 - **[查看全部](category/history.md)**
 
