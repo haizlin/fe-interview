@@ -26,11 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.01.10) —— 第1000天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个烟花的动画效果](https://github.com/haizlin/fe-interview/issues/4934)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:two: [css] [你有使用过css中的:has伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4935)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:three: [js] [说说你对js中的数据类型BigInt的理解，它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/4936)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:four: [软技能] [什么是软技能？说说你对软技能的理解](https://github.com/haizlin/fe-interview/issues/4937)  
+## :clock430: 今天的知识点   (2022.03.07) —— 第1056天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js中变量回收原则是什么？](https://github.com/haizlin/fe-interview/issues/4996)  
  
   
 ### :camel: 历史题目
@@ -42,11 +39,8 @@
     …………  
 
 
-- 第999天 (2022.01.09)  
-    	 :one: [html] [如何在canvas画布上特定位置监听鼠标事件？](https://github.com/haizlin/fe-interview/issues/4930)  
-	 :two: [css] [你有使用过css中的:dir伪类吗？说说它的用途？](https://github.com/haizlin/fe-interview/issues/4931)  
-	 :three: [js] [使用js的库时，要升级版本需要考虑哪些情况？](https://github.com/haizlin/fe-interview/issues/4932)  
-	 :four: [软技能] [如果你有机会创业，你想做什么？为什么？](https://github.com/haizlin/fe-interview/issues/4933)  
+- 第1055天 (2022.03.06)  
+    	 :one: [js] [js数组中不会改变原有数组的方法有哪些？](https://github.com/haizlin/fe-interview/issues/4995)  
  
 	
 - **[查看全部](category/history.md)**
