@@ -26,7 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.09) —— 1058 days  
+## :clock430: Today's Knowledge Points (2022.03.10) —— 1059 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中对箭头函数使用new会怎么样？](https://github.com/haizlin/fe-interview/issues/5000)  
  
   
 ### :camel: History
@@ -37,8 +38,9 @@
     …………  
 
 
-- 1057 days (2022.03.08)  
-     
+- 1058 days (2022.03.09)  
+    	 :one: [] [](https://github.com/haizlin/fe-interview/issues/)  
+ 
 	
 - **[All](category/history.md)**
 
