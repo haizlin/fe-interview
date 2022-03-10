@@ -2,6 +2,8 @@
 
 
 
+- 第1060天 (Invalid date)  
+    - [js] [在js中箭头函数如何获取参数？](https://github.com/haizlin/fe-interview/issues/5001)
 - 第1059天 (Invalid date)  
     - [js] [在js中对箭头函数使用new会怎么样？](https://github.com/haizlin/fe-interview/issues/5000)
 - 第1058天 (Invalid date)  
