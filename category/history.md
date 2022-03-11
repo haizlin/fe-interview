@@ -2,6 +2,8 @@
 
 
 
+- 第1061天 (Invalid date)  
+    - [js] [在js中箭头函数可以当做Generator函数吗？](https://github.com/haizlin/fe-interview/issues/5003)
 - 第1060天 (Invalid date)  
     - [js] [在js中箭头函数如何获取参数？](https://github.com/haizlin/fe-interview/issues/5001)
 - 第1059天 (Invalid date)  
