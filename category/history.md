@@ -2,6 +2,8 @@
 
 
 
+- 第1062天 (Invalid date)  
+    - [TypeScript] [你有在项目中使用过TypeScript吗？](https://github.com/haizlin/fe-interview/issues/5004)
 - 第1061天 (Invalid date)  
     - [js] [在js中箭头函数可以当做Generator函数吗？](https://github.com/haizlin/fe-interview/issues/5003)
 - 第1060天 (Invalid date)  

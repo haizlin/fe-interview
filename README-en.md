@@ -26,8 +26,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.12) —— 1061 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中箭头函数可以当做Generator函数吗？](https://github.com/haizlin/fe-interview/issues/5003)  
+## :clock430: Today's Knowledge Points (2022.03.13) —— 1062 days  
  
   
 ### :camel: History
@@ -38,9 +37,8 @@
     …………  
 
 
-- 1060 days (2022.03.11)  
-    	 :one: [js] [在js中箭头函数如何获取参数？](https://github.com/haizlin/fe-interview/issues/5001)  
- 
+- 1061 days (2022.03.12)  
+     
 	
 - **[All](category/history.md)**
 
