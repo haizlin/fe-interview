@@ -2,6 +2,8 @@
 
 
 
+- 第1063天 (Invalid date)  
+    - [TypeScript] [说说你对TypeScript的了解，它和JS有什么关系？](https://github.com/haizlin/fe-interview/issues/5006)
 - 第1062天 (Invalid date)  
     - [TypeScript] [你有在项目中使用过TypeScript吗？](https://github.com/haizlin/fe-interview/issues/5004)
 - 第1061天 (Invalid date)  

@@ -26,7 +26,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.13) —— 1062 days  
+## :clock430: Today's Knowledge Points (2022.03.14) —— 1063 days  
  
   
 ### :camel: History
@@ -37,7 +37,7 @@
     …………  
 
 
-- 1061 days (2022.03.12)  
+- 1062 days (2022.03.13)  
      
 	
 - **[All](category/history.md)**
