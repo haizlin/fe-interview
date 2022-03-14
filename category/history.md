@@ -2,6 +2,8 @@
 
 
 
+- 第1064天 (Invalid date)  
+    - [TypeScript] [你觉得TypeScript难吗？](https://github.com/haizlin/fe-interview/issues/5007)
 - 第1063天 (Invalid date)  
     - [TypeScript] [说说你对TypeScript的了解，它和JS有什么关系？](https://github.com/haizlin/fe-interview/issues/5006)
 - 第1062天 (Invalid date)  
