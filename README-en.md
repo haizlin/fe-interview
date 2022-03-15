@@ -26,7 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.15) —— 1064 days  
+## :clock430: Today's Knowledge Points (2022.03.16) —— 1065 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在JavaScript中使用揭示模式创建对象](https://github.com/haizlin/fe-interview/issues/5008)  
  
   
 ### :camel: History
@@ -37,8 +38,9 @@
     …………  
 
 
-- 1063 days (2022.03.14)  
-     
+- 1064 days (2022.03.15)  
+    	 :one: [] [](https://github.com/haizlin/fe-interview/issues/)  
+ 
 	
 - **[All](category/history.md)**
 

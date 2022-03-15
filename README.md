@@ -26,7 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.15) —— 第1064天  
+## :clock430: 今天的知识点   (2022.03.16) —— 第1065天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在JavaScript中使用揭示模式创建对象](https://github.com/haizlin/fe-interview/issues/5008)  
  
   
 ### :camel: 历史题目
@@ -38,8 +39,9 @@
     …………  
 
 
-- 第1063天 (2022.03.14)  
-     
+- 第1064天 (2022.03.15)  
+    	 :one: [] [](https://github.com/haizlin/fe-interview/issues/)  
+ 
 	
 - **[查看全部](category/history.md)**
 

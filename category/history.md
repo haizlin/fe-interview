@@ -2,6 +2,8 @@
 
 
 
+- 第1065天 (Invalid date)  
+    - [js] [在JavaScript中使用揭示模式创建对象](https://github.com/haizlin/fe-interview/issues/5008)
 - 第1064天 (Invalid date)  
     - [TypeScript] [你觉得TypeScript难吗？](https://github.com/haizlin/fe-interview/issues/5007)
 - 第1063天 (Invalid date)  
