@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.16) —— 1065 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在JavaScript中使用揭示模式创建对象](https://github.com/haizlin/fe-interview/issues/5008)  
+## :clock430: Today's Knowledge Points (2022.03.17) —— 1066 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用HTML5制作一个口罩](https://github.com/haizlin/fe-interview/issues/5009)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1064 days (2022.03.15)  
-    	 :one: [] [](https://github.com/haizlin/fe-interview/issues/)  
+- 1065 days (2022.03.16)  
+    	 :one: [js] [在JavaScript中使用揭示模式创建对象](https://github.com/haizlin/fe-interview/issues/5008)  
  
 	
 - **[All](category/history.md)**

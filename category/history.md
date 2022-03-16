@@ -2,6 +2,8 @@
 
 
 
+- 第1066天 (Invalid date)  
+    - [html] [使用HTML5制作一个口罩](https://github.com/haizlin/fe-interview/issues/5009)
 - 第1065天 (Invalid date)  
     - [js] [在JavaScript中使用揭示模式创建对象](https://github.com/haizlin/fe-interview/issues/5008)
 - 第1064天 (Invalid date)  
