@@ -2,6 +2,8 @@
 
 
 
+- 第1068天 (Invalid date)  
+    - [vue] [说说Vue2.0与Vue3.0整体有什么区别？](https://github.com/haizlin/fe-interview/issues/5012)
 - 第1067天 (Invalid date)  
     - [css] [在css中，请说说你对文档流的理解](https://github.com/haizlin/fe-interview/issues/5011)
 - 第1066天 (Invalid date)  
