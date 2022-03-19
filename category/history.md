@@ -2,6 +2,8 @@
 
 
 
+- 第1069天 (Invalid date)  
+    - [vue] [说说Vue2.0与Vue3.0双向数据绑定有什么区别？](https://github.com/haizlin/fe-interview/issues/5013)
 - 第1068天 (Invalid date)  
     - [vue] [说说Vue2.0与Vue3.0整体有什么区别？](https://github.com/haizlin/fe-interview/issues/5012)
 - 第1067天 (Invalid date)  
