@@ -27,6 +27,7 @@
 
 
 ## :clock430: 今天的知识点   (2022.03.21) —— 第1070天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [Vue2.0和Vue3.0的初始化有什么区别？](https://github.com/haizlin/fe-interview/issues/5014)  
  
   
 ### :camel: 历史题目
@@ -39,7 +40,8 @@
 
 
 - 第1069天 (2022.03.20)  
-     
+    	 :one: [vue] [说说Vue2.0与Vue3.0双向数据绑定有什么区别？](https://github.com/haizlin/fe-interview/issues/5013)  
+ 
 	
 - **[查看全部](category/history.md)**
 

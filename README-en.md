@@ -27,6 +27,7 @@
 
 
 ## :clock430: Today's Knowledge Points (2022.03.21) —— 1070 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [Vue2.0和Vue3.0的初始化有什么区别？](https://github.com/haizlin/fe-interview/issues/5014)  
  
   
 ### :camel: History
@@ -38,7 +39,8 @@
 
 
 - 1069 days (2022.03.20)  
-     
+    	 :one: [vue] [说说Vue2.0与Vue3.0双向数据绑定有什么区别？](https://github.com/haizlin/fe-interview/issues/5013)  
+ 
 	
 - **[All](category/history.md)**
 
