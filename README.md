@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.21) —— 第1070天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [Vue2.0和Vue3.0的初始化有什么区别？](https://github.com/haizlin/fe-interview/issues/5014)  
+## :clock430: 今天的知识点   (2022.03.22) —— 第1071天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue3.0新增了哪些内置组件和方法？](https://github.com/haizlin/fe-interview/issues/5015)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1069天 (2022.03.20)  
-    	 :one: [vue] [说说Vue2.0与Vue3.0双向数据绑定有什么区别？](https://github.com/haizlin/fe-interview/issues/5013)  
+- 第1070天 (2022.03.21)  
+    	 :one: [vue] [Vue2.0和Vue3.0的初始化有什么区别？](https://github.com/haizlin/fe-interview/issues/5014)  
  
 	
 - **[查看全部](category/history.md)**
