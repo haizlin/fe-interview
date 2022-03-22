@@ -2,6 +2,8 @@
 
 
 
+- 第1072天 (2022-03-23)  
+    - [vue] [为什么说基于Proxy的响应式实现，性能整体优于Object.defineProperty？](https://github.com/haizlin/fe-interview/issues/5016)
 - 第1071天 (2022-03-22)  
     - [vue] [vue3.0新增了哪些内置组件和方法？](https://github.com/haizlin/fe-interview/issues/5015)
 - 第1070天 (2022-03-21)  
