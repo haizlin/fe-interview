@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.23) —— 1072 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [为什么说基于Proxy的响应式实现，性能整体优于Object.defineProperty？](https://github.com/haizlin/fe-interview/issues/5016)  
+## :clock430: Today's Knowledge Points (2022.03.24) —— 1073 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [Vue2.0和Vue3.0的生命周期有什么区别？](https://github.com/haizlin/fe-interview/issues/5017)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1071 days (2022.03.22)  
-    	 :one: [vue] [vue3.0新增了哪些内置组件和方法？](https://github.com/haizlin/fe-interview/issues/5015)  
+- 1072 days (2022.03.23)  
+    	 :one: [vue] [为什么说基于Proxy的响应式实现，性能整体优于Object.defineProperty？](https://github.com/haizlin/fe-interview/issues/5016)  
  
 	
 - **[All](category/history.md)**

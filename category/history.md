@@ -2,6 +2,8 @@
 
 
 
+- 第1073天 (2022-03-24)  
+    - [vue] [Vue2.0和Vue3.0的生命周期有什么区别？](https://github.com/haizlin/fe-interview/issues/5017)
 - 第1072天 (2022-03-23)  
     - [vue] [为什么说基于Proxy的响应式实现，性能整体优于Object.defineProperty？](https://github.com/haizlin/fe-interview/issues/5016)
 - 第1071天 (2022-03-22)  
