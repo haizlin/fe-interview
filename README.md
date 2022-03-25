@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.25) —— 第1074天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用Vue2写的项目如何升级为Vue3？需要考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/5018)  
+## :clock430: 今天的知识点   (2022.03.26) —— 第1075天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用meter标签制作一个密码强度效果](https://github.com/haizlin/fe-interview/issues/5019)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1073天 (2022.03.24)  
-    	 :one: [vue] [Vue2.0和Vue3.0的生命周期有什么区别？](https://github.com/haizlin/fe-interview/issues/5017)  
+- 第1074天 (2022.03.25)  
+    	 :one: [vue] [使用Vue2写的项目如何升级为Vue3？需要考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/5018)  
  
 	
 - **[查看全部](category/history.md)**

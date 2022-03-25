@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.25) —— 1074 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用Vue2写的项目如何升级为Vue3？需要考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/5018)  
+## :clock430: Today's Knowledge Points (2022.03.26) —— 1075 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用meter标签制作一个密码强度效果](https://github.com/haizlin/fe-interview/issues/5019)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1073 days (2022.03.24)  
-    	 :one: [vue] [Vue2.0和Vue3.0的生命周期有什么区别？](https://github.com/haizlin/fe-interview/issues/5017)  
+- 1074 days (2022.03.25)  
+    	 :one: [vue] [使用Vue2写的项目如何升级为Vue3？需要考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/5018)  
  
 	
 - **[All](category/history.md)**

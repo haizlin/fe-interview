@@ -2,6 +2,8 @@
 
 
 
+- 第1075天 (2022-03-26)  
+    - [html] [使用meter标签制作一个密码强度效果](https://github.com/haizlin/fe-interview/issues/5019)
 - 第1074天 (2022-03-25)  
     - [vue] [使用Vue2写的项目如何升级为Vue3？需要考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/5018)
 - 第1073天 (2022-03-24)  
