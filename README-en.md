@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.26) —— 1075 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用meter标签制作一个密码强度效果](https://github.com/haizlin/fe-interview/issues/5019)  
+## :clock430: Today's Knowledge Points (2022.03.27) —— 1076 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对@counter-style的理解](https://github.com/haizlin/fe-interview/issues/5020)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1074 days (2022.03.25)  
-    	 :one: [vue] [使用Vue2写的项目如何升级为Vue3？需要考虑哪些因素？](https://github.com/haizlin/fe-interview/issues/5018)  
+- 1075 days (2022.03.26)  
+    	 :one: [html] [使用meter标签制作一个密码强度效果](https://github.com/haizlin/fe-interview/issues/5019)  
  
 	
 - **[All](category/history.md)**
