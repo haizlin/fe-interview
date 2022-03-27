@@ -2,6 +2,8 @@
 
 
 
+- 第1077天 (2022-03-28)  
+    - [css] [在css中如何去掉type="number"尾部的箭头？](https://github.com/haizlin/fe-interview/issues/5021)
 - 第1076天 (2022-03-27)  
     - [css] [说说你对@counter-style的理解](https://github.com/haizlin/fe-interview/issues/5020)
 - 第1075天 (2022-03-26)  

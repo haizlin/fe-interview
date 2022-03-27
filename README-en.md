@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.27) —— 1076 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对@counter-style的理解](https://github.com/haizlin/fe-interview/issues/5020)  
+## :clock430: Today's Knowledge Points (2022.03.28) —— 1077 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在css中如何去掉type="number"尾部的箭头？](https://github.com/haizlin/fe-interview/issues/5021)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1075 days (2022.03.26)  
-    	 :one: [html] [使用meter标签制作一个密码强度效果](https://github.com/haizlin/fe-interview/issues/5019)  
+- 1076 days (2022.03.27)  
+    	 :one: [css] [说说你对@counter-style的理解](https://github.com/haizlin/fe-interview/issues/5020)  
  
 	
 - **[All](category/history.md)**
