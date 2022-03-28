@@ -10,6 +10,8 @@
     </p>
 </div>
 
+---
+
 
 [官网](http://www.h-camel.com/index.html) | [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
