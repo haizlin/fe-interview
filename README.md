@@ -1,18 +1,3 @@
-## :smiley:【推荐】一个专业的羽毛球比赛系统【点点赛】
-> 喜欢打**羽毛球**的，或者身边有喜欢打**羽毛球**的朋友，可以推荐给他们使用
-
-<div align="center">
-    <p align="center">
-        <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
-    </p>
-    <p align="center">
-        (使用微信扫一扫体验，即将开源)
-    </p>
-</div>
-
----
-
-
 [官网](http://www.h-camel.com/index.html) | [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
@@ -41,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.28) —— 第1077天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在css中如何去掉type="number"尾部的箭头？](https://github.com/haizlin/fe-interview/issues/5021)  
+## :clock430: 今天的知识点   (2022.03.29) —— 第1078天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [接口请求的Type显示preflight表示什么呢？](https://github.com/haizlin/fe-interview/issues/5022)  
  
   
 ### :camel: 历史题目
@@ -54,8 +39,8 @@
     …………  
 
 
-- 第1076天 (2022.03.27)  
-    	 :one: [css] [说说你对@counter-style的理解](https://github.com/haizlin/fe-interview/issues/5020)  
+- 第1077天 (2022.03.28)  
+    	 :one: [css] [在css中如何去掉type="number"尾部的箭头？](https://github.com/haizlin/fe-interview/issues/5021)  
  
 	
 - **[查看全部](category/history.md)**
