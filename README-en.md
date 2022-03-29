@@ -26,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.29) —— 1078 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [接口请求的Type显示preflight表示什么呢？](https://github.com/haizlin/fe-interview/issues/5022)  
+## :clock430: Today's Knowledge Points (2022.03.30) —— 1079 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法对字符串进行16进制编码](https://github.com/haizlin/fe-interview/issues/5023)  
  
   
 ### :camel: History
@@ -38,8 +38,8 @@
     …………  
 
 
-- 1077 days (2022.03.28)  
-    	 :one: [css] [在css中如何去掉type="number"尾部的箭头？](https://github.com/haizlin/fe-interview/issues/5021)  
+- 1078 days (2022.03.29)  
+    	 :one: [skill] [接口请求的Type显示preflight表示什么呢？](https://github.com/haizlin/fe-interview/issues/5022)  
  
 	
 - **[All](category/history.md)**

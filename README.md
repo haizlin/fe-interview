@@ -26,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.29) —— 第1078天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [接口请求的Type显示preflight表示什么呢？](https://github.com/haizlin/fe-interview/issues/5022)  
+## :clock430: 今天的知识点   (2022.03.30) —— 第1079天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法对字符串进行16进制编码](https://github.com/haizlin/fe-interview/issues/5023)  
  
   
 ### :camel: 历史题目
@@ -39,8 +39,8 @@
     …………  
 
 
-- 第1077天 (2022.03.28)  
-    	 :one: [css] [在css中如何去掉type="number"尾部的箭头？](https://github.com/haizlin/fe-interview/issues/5021)  
+- 第1078天 (2022.03.29)  
+    	 :one: [软技能] [接口请求的Type显示preflight表示什么呢？](https://github.com/haizlin/fe-interview/issues/5022)  
  
 	
 - **[查看全部](category/history.md)**

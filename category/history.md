@@ -2,6 +2,8 @@
 
 
 
+- 第1079天 (2022-03-30)  
+    - [js] [使用js写一个方法对字符串进行16进制编码](https://github.com/haizlin/fe-interview/issues/5023)
 - 第1078天 (2022-03-29)  
     - [软技能] [接口请求的Type显示preflight表示什么呢？](https://github.com/haizlin/fe-interview/issues/5022)
 - 第1077天 (2022-03-28)  
