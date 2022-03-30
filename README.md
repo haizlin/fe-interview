@@ -1,17 +1,3 @@
-## :smiley:【推荐】一个专业的羽毛球比赛系统【点点赛】
-> 喜欢打**羽毛球**的，或者身边有喜欢打**羽毛球**的朋友，可以推荐给他们使用
-
-<div align="center">
-    <p align="center">
-        <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
-    </p>
-    <p align="center">
-        (使用微信扫一扫体验，即将开源)
-    </p>
-</div>
-
----
-
 [官网](http://www.h-camel.com/index.html) | [中文](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
@@ -40,8 +26,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.30) —— 第1079天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法对字符串进行16进制编码](https://github.com/haizlin/fe-interview/issues/5023)  
+## :clock430: 今天的知识点   (2022.03.31) —— 第1080天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法对16进制解码](https://github.com/haizlin/fe-interview/issues/5024)  
  
   
 ### :camel: 历史题目
@@ -53,8 +39,8 @@
     …………  
 
 
-- 第1078天 (2022.03.29)  
-    	 :one: [软技能] [接口请求的Type显示preflight表示什么呢？](https://github.com/haizlin/fe-interview/issues/5022)  
+- 第1079天 (2022.03.30)  
+    	 :one: [js] [使用js写一个方法对字符串进行16进制编码](https://github.com/haizlin/fe-interview/issues/5023)  
  
 	
 - **[查看全部](category/history.md)**

@@ -1,17 +1,3 @@
-## :smiley:【 recommendation 】 a professional badminton competition system 【 diandiansai 】
-> Those who like playing **badminton**, or have friends who like playing **badminton**, can be recommended to them
-
-<div align="center">
-    <p align="center">
-        <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
-    </p>
-    <p align="center">
-        (Use wechat to sweep the experience, which will be open source soon)
-    </p>
-</div>
-
----
-
 [Website](http://www.h-camel.com/index.html) | [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
@@ -40,8 +26,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.03.30) —— 1079 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法对字符串进行16进制编码](https://github.com/haizlin/fe-interview/issues/5023)  
+## :clock430: Today's Knowledge Points (2022.03.31) —— 1080 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法对16进制解码](https://github.com/haizlin/fe-interview/issues/5024)  
  
   
 ### :camel: History
@@ -52,8 +38,8 @@
     …………  
 
 
-- 1078 days (2022.03.29)  
-    	 :one: [skill] [接口请求的Type显示preflight表示什么呢？](https://github.com/haizlin/fe-interview/issues/5022)  
+- 1079 days (2022.03.30)  
+    	 :one: [js] [使用js写一个方法对字符串进行16进制编码](https://github.com/haizlin/fe-interview/issues/5023)  
  
 	
 - **[All](category/history.md)**

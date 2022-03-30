@@ -2,6 +2,8 @@
 
 
 
+- 第1080天 (2022-03-31)  
+    - [js] [使用js写一个方法对16进制解码](https://github.com/haizlin/fe-interview/issues/5024)
 - 第1079天 (2022-03-30)  
     - [js] [使用js写一个方法对字符串进行16进制编码](https://github.com/haizlin/fe-interview/issues/5023)
 - 第1078天 (2022-03-29)  
