@@ -1,3 +1,17 @@
+## :smiley:【 recommendation 】 a professional badminton competition system 【 diandiansai 】
+> Those who like playing **badminton**, or have friends who like playing **badminton**, can be recommended to them
+
+<div align="center">
+    <p align="center">
+        <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
+    </p>
+    <p align="center">
+        (Use wechat to sweep the experience, which will be open source soon)
+    </p>
+</div>
+
+---
+
 [Website](http://www.h-camel.com/index.html) | [Chinese](https://github.com/haizlin/fe-interview/blob/master/README.md) | [English](https://github.com/haizlin/fe-interview/blob/master/README-en.md)
 
 <div align="center">
