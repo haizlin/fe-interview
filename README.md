@@ -29,19 +29,19 @@
     勤思考 - 多动手 - 善总结 - 能坚持  
 </p>
 
-> :star: 这是一个涉及前端知识题库 **最多（5000+）、最全**，参与人数最多的免费开源项目！
+> :star: 这是一个涉及前端知识题库 **最多（6000+）、最全**，参与人数最多的免费开源公益项目！
 
 :hash: [我也要出题](http://www.h-camel.com/contribution.html) 
 
-| :bulb: 基础 | [HTML 1000+](category/html.md) | [CSS 1000+](category/css.md) | [JS 1000+](category/js.md) | [软技能 1000+](category/skill.md) |  | | | 
+| :bulb: 基础 | [HTML 1200+](category/html.md) | [CSS 1200+](category/css.md) | [JS 1200+](category/js.md) | [软技能 1200+](category/skill.md) |  | | | 
 | :---: | :---- | :--- | :---- | :---- | :---- | :---- | :---- | 
 | :newspaper: 专题 | [Vue 296+](lib/Vue.md) | [React 338+](lib/React.md) | [AngularJs](lib/AngularJs.md)  | [ECMAScript 45+](category/ECMAScript.md) | [NodeJs 90+](category/nodejs.md) | [jQuery](lib/jQuery.md) | [小程序](lib/wxapp.md) | 
 | :hammer: 工具 | [webpack 13+](tools/webpack.md) | 
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.03.31) —— 第1080天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法对16进制解码](https://github.com/haizlin/fe-interview/issues/5024)  
+## :clock430: 今天的知识点   (2022.04.01) —— 第1081天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中importScripts方法有什么作用？](https://github.com/haizlin/fe-interview/issues/5025)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1079天 (2022.03.30)  
-    	 :one: [js] [使用js写一个方法对字符串进行16进制编码](https://github.com/haizlin/fe-interview/issues/5023)  
+- 第1080天 (2022.03.31)  
+    	 :one: [js] [使用js写一个方法对16进制解码](https://github.com/haizlin/fe-interview/issues/5024)  
  
 	
 - **[查看全部](category/history.md)**

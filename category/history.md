@@ -2,6 +2,8 @@
 
 
 
+- 第1081天 (2022-04-01)  
+    - [js] [在js中importScripts方法有什么作用？](https://github.com/haizlin/fe-interview/issues/5025)
 - 第1080天 (2022-03-31)  
     - [js] [使用js写一个方法对16进制解码](https://github.com/haizlin/fe-interview/issues/5024)
 - 第1079天 (2022-03-30)  
