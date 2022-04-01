@@ -2,6 +2,8 @@
 
 
 
+- 第1082天 (2022-04-02)  
+    - [js] [在js中开启worker线程后，如何销毁？](https://github.com/haizlin/fe-interview/issues/5027)
 - 第1081天 (2022-04-01)  
     - [js] [在js中importScripts方法有什么作用？](https://github.com/haizlin/fe-interview/issues/5025)
 - 第1080天 (2022-03-31)  

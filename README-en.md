@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.01) —— 1081 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中importScripts方法有什么作用？](https://github.com/haizlin/fe-interview/issues/5025)  
+## :clock430: Today's Knowledge Points (2022.04.02) —— 1082 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中开启worker线程后，如何销毁？](https://github.com/haizlin/fe-interview/issues/5027)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1080 days (2022.03.31)  
-    	 :one: [js] [使用js写一个方法对16进制解码](https://github.com/haizlin/fe-interview/issues/5024)  
+- 1081 days (2022.04.01)  
+    	 :one: [js] [在js中importScripts方法有什么作用？](https://github.com/haizlin/fe-interview/issues/5025)  
  
 	
 - **[All](category/history.md)**
