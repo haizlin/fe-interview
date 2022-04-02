@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.02) —— 1082 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中开启worker线程后，如何销毁？](https://github.com/haizlin/fe-interview/issues/5027)  
+## :clock430: Today's Knowledge Points (2022.04.03) —— 1083 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中，worker如何与主线程通信？](https://github.com/haizlin/fe-interview/issues/5029)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1081 days (2022.04.01)  
-    	 :one: [js] [在js中importScripts方法有什么作用？](https://github.com/haizlin/fe-interview/issues/5025)  
+- 1082 days (2022.04.02)  
+    	 :one: [js] [在js中开启worker线程后，如何销毁？](https://github.com/haizlin/fe-interview/issues/5027)  
  
 	
 - **[All](category/history.md)**

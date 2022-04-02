@@ -2,6 +2,8 @@
 
 
 
+- 第1083天 (2022-04-03)  
+    - [js] [在js中，worker如何与主线程通信？](https://github.com/haizlin/fe-interview/issues/5029)
 - 第1082天 (2022-04-02)  
     - [js] [在js中开启worker线程后，如何销毁？](https://github.com/haizlin/fe-interview/issues/5027)
 - 第1081天 (2022-04-01)  
