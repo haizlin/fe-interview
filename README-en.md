@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.03) —— 1083 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中，worker如何与主线程通信？](https://github.com/haizlin/fe-interview/issues/5029)  
+## :clock430: Today's Knowledge Points (2022.04.04) —— 1084 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中，请说说你对10.toString(16)的理解](https://github.com/haizlin/fe-interview/issues/5030)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1082 days (2022.04.02)  
-    	 :one: [js] [在js中开启worker线程后，如何销毁？](https://github.com/haizlin/fe-interview/issues/5027)  
+- 1083 days (2022.04.03)  
+    	 :one: [js] [在js中，worker如何与主线程通信？](https://github.com/haizlin/fe-interview/issues/5029)  
  
 	
 - **[All](category/history.md)**

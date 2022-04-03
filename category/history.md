@@ -2,6 +2,8 @@
 
 
 
+- 第1084天 (2022-04-04)  
+    - [js] [在js中，请说说你对10.toString(16)的理解](https://github.com/haizlin/fe-interview/issues/5030)
 - 第1083天 (2022-04-03)  
     - [js] [在js中，worker如何与主线程通信？](https://github.com/haizlin/fe-interview/issues/5029)
 - 第1082天 (2022-04-02)  
