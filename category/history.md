@@ -2,6 +2,8 @@
 
 
 
+- 第1085天 (2022-04-05)  
+    - [css] [请说说在css中font-variant属性有什么作用？](https://github.com/haizlin/fe-interview/issues/5031)
 - 第1084天 (2022-04-04)  
     - [js] [在js中，请说说你对10.toString(16)的理解](https://github.com/haizlin/fe-interview/issues/5030)
 - 第1083天 (2022-04-03)  
