@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.04.05) —— 第1085天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说在css中font-variant属性有什么作用？](https://github.com/haizlin/fe-interview/issues/5031)  
+## :clock430: 今天的知识点   (2022.04.06) —— 第1086天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说在css中font-feature-settings属性有作用？](https://github.com/haizlin/fe-interview/issues/5032)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1084天 (2022.04.04)  
-    	 :one: [js] [在js中，请说说你对10.toString(16)的理解](https://github.com/haizlin/fe-interview/issues/5030)  
+- 第1085天 (2022.04.05)  
+    	 :one: [css] [请说说在css中font-variant属性有什么作用？](https://github.com/haizlin/fe-interview/issues/5031)  
  
 	
 - **[查看全部](category/history.md)**

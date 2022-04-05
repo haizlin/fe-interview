@@ -2,6 +2,8 @@
 
 
 
+- 第1086天 (2022-04-06)  
+    - [css] [请说说在css中font-feature-settings属性有作用？](https://github.com/haizlin/fe-interview/issues/5032)
 - 第1085天 (2022-04-05)  
     - [css] [请说说在css中font-variant属性有什么作用？](https://github.com/haizlin/fe-interview/issues/5031)
 - 第1084天 (2022-04-04)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.05) —— 1085 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说在css中font-variant属性有什么作用？](https://github.com/haizlin/fe-interview/issues/5031)  
+## :clock430: Today's Knowledge Points (2022.04.06) —— 1086 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说在css中font-feature-settings属性有作用？](https://github.com/haizlin/fe-interview/issues/5032)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1084 days (2022.04.04)  
-    	 :one: [js] [在js中，请说说你对10.toString(16)的理解](https://github.com/haizlin/fe-interview/issues/5030)  
+- 1085 days (2022.04.05)  
+    	 :one: [css] [请说说在css中font-variant属性有什么作用？](https://github.com/haizlin/fe-interview/issues/5031)  
  
 	
 - **[All](category/history.md)**
