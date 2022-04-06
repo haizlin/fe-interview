@@ -2,6 +2,8 @@
 
 
 
+- 第1087天 (2022-04-07)  
+    - [js] [使用sort对以下数组进行排序](https://github.com/haizlin/fe-interview/issues/5033)
 - 第1086天 (2022-04-06)  
     - [css] [请说说在css中font-feature-settings属性有作用？](https://github.com/haizlin/fe-interview/issues/5032)
 - 第1085天 (2022-04-05)  

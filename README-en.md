@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.06) —— 1086 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说在css中font-feature-settings属性有作用？](https://github.com/haizlin/fe-interview/issues/5032)  
+## :clock430: Today's Knowledge Points (2022.04.07) —— 1087 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用sort对以下数组进行排序](https://github.com/haizlin/fe-interview/issues/5033)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1085 days (2022.04.05)  
-    	 :one: [css] [请说说在css中font-variant属性有什么作用？](https://github.com/haizlin/fe-interview/issues/5031)  
+- 1086 days (2022.04.06)  
+    	 :one: [css] [请说说在css中font-feature-settings属性有作用？](https://github.com/haizlin/fe-interview/issues/5032)  
  
 	
 - **[All](category/history.md)**
