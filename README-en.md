@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.08) —— 1088 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [前端如何高性能渲染十万条数据？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5034)  
+## :clock430: Today's Knowledge Points (2022.04.09) —— 1089 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对前端数据回显的理解](https://github.com/haizlin/fe-interview/issues/5035)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1087 days (2022.04.07)  
-    	 :one: [js] [使用sort对以下数组进行排序](https://github.com/haizlin/fe-interview/issues/5033)  
+- 1088 days (2022.04.08)  
+    	 :one: [html] [前端如何高性能渲染十万条数据？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5034)  
  
 	
 - **[All](category/history.md)**

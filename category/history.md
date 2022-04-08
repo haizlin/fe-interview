@@ -2,6 +2,8 @@
 
 
 
+- 第1089天 (2022-04-09)  
+    - [软技能] [说说你对前端数据回显的理解](https://github.com/haizlin/fe-interview/issues/5035)
 - 第1088天 (2022-04-08)  
     - [html] [前端如何高性能渲染十万条数据？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5034)
 - 第1087天 (2022-04-07)  
