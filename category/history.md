@@ -2,6 +2,8 @@
 
 
 
+- 第1090天 (2022-04-10)  
+    - [软技能] [Http的缓存策略有哪些？](https://github.com/haizlin/fe-interview/issues/5036)
 - 第1089天 (2022-04-09)  
     - [软技能] [说说你对前端数据回显的理解](https://github.com/haizlin/fe-interview/issues/5035)
 - 第1088天 (2022-04-08)  
