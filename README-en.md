@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.10) —— 1090 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [Http的缓存策略有哪些？](https://github.com/haizlin/fe-interview/issues/5036)  
+## :clock430: Today's Knowledge Points (2022.04.11) —— 1091 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说在css中inset属性的用法](https://github.com/haizlin/fe-interview/issues/5037)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1089 days (2022.04.09)  
-    	 :one: [skill] [说说你对前端数据回显的理解](https://github.com/haizlin/fe-interview/issues/5035)  
+- 1090 days (2022.04.10)  
+    	 :one: [skill] [Http的缓存策略有哪些？](https://github.com/haizlin/fe-interview/issues/5036)  
  
 	
 - **[All](category/history.md)**

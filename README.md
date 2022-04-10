@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.04.10) —— 第1090天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [Http的缓存策略有哪些？](https://github.com/haizlin/fe-interview/issues/5036)  
+## :clock430: 今天的知识点   (2022.04.11) —— 第1091天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说在css中inset属性的用法](https://github.com/haizlin/fe-interview/issues/5037)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1089天 (2022.04.09)  
-    	 :one: [软技能] [说说你对前端数据回显的理解](https://github.com/haizlin/fe-interview/issues/5035)  
+- 第1090天 (2022.04.10)  
+    	 :one: [软技能] [Http的缓存策略有哪些？](https://github.com/haizlin/fe-interview/issues/5036)  
  
 	
 - **[查看全部](category/history.md)**
