@@ -2,6 +2,8 @@
 
 
 
+- 第1092天 (2022-04-12)  
+    - [软技能] [要开发一个前端性能监控的工具，你是如何定义前端性能指标的？](https://github.com/haizlin/fe-interview/issues/5038)
 - 第1091天 (2022-04-11)  
     - [css] [请说说在css中inset属性的用法](https://github.com/haizlin/fe-interview/issues/5037)
 - 第1090天 (2022-04-10)  
