@@ -2,6 +2,8 @@
 
 
 
+- 第1094天 (2022-04-14)  
+    - [js] [请说说js中运算符的优先级](https://github.com/haizlin/fe-interview/issues/5040)
 - 第1093天 (2022-04-13)  
     - [软技能] [要开发一个前端性能监控的工具，需要上报哪些内容？](https://github.com/haizlin/fe-interview/issues/5039)
 - 第1092天 (2022-04-12)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.04.13) —— 第1093天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [要开发一个前端性能监控的工具，需要上报哪些内容？](https://github.com/haizlin/fe-interview/issues/5039)  
+## :clock430: 今天的知识点   (2022.04.14) —— 第1094天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说js中运算符的优先级](https://github.com/haizlin/fe-interview/issues/5040)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1092天 (2022.04.12)  
-    	 :one: [软技能] [要开发一个前端性能监控的工具，你是如何定义前端性能指标的？](https://github.com/haizlin/fe-interview/issues/5038)  
+- 第1093天 (2022.04.13)  
+    	 :one: [软技能] [要开发一个前端性能监控的工具，需要上报哪些内容？](https://github.com/haizlin/fe-interview/issues/5039)  
  
 	
 - **[查看全部](category/history.md)**

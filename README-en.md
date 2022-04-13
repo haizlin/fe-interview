@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.13) —— 1093 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [要开发一个前端性能监控的工具，需要上报哪些内容？](https://github.com/haizlin/fe-interview/issues/5039)  
+## :clock430: Today's Knowledge Points (2022.04.14) —— 1094 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说js中运算符的优先级](https://github.com/haizlin/fe-interview/issues/5040)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1092 days (2022.04.12)  
-    	 :one: [skill] [要开发一个前端性能监控的工具，你是如何定义前端性能指标的？](https://github.com/haizlin/fe-interview/issues/5038)  
+- 1093 days (2022.04.13)  
+    	 :one: [skill] [要开发一个前端性能监控的工具，需要上报哪些内容？](https://github.com/haizlin/fe-interview/issues/5039)  
  
 	
 - **[All](category/history.md)**
