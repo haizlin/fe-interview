@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.14) —— 1094 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说js中运算符的优先级](https://github.com/haizlin/fe-interview/issues/5040)  
+## :clock430: Today's Knowledge Points (2022.04.15) —— 1095 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写个方法检测用户在5分钟内无任何操作则退出登录](https://github.com/haizlin/fe-interview/issues/5042)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1093 days (2022.04.13)  
-    	 :one: [skill] [要开发一个前端性能监控的工具，需要上报哪些内容？](https://github.com/haizlin/fe-interview/issues/5039)  
+- 1094 days (2022.04.14)  
+    	 :one: [js] [请说说js中运算符的优先级](https://github.com/haizlin/fe-interview/issues/5040)  
  
 	
 - **[All](category/history.md)**
