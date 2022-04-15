@@ -2,6 +2,8 @@
 
 
 
+- 第1096天 (2022-04-16)  
+    - [软技能] [前端如何实现对讲功能？说说你的思路](https://github.com/haizlin/fe-interview/issues/5043)
 - 第1095天 (2022-04-15)  
     - [js] [使用js写个方法检测用户在5分钟内无任何操作则退出登录](https://github.com/haizlin/fe-interview/issues/5042)
 - 第1094天 (2022-04-14)  
