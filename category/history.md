@@ -2,6 +2,8 @@
 
 
 
+- 第1098天 (2022-04-18)  
+    - [软技能] [前端针对图片性能优化都有哪些方法？](https://github.com/haizlin/fe-interview/issues/5045)
 - 第1097天 (2022-04-17)  
     - [软技能] [使用websocket制作一个简易的聊天系统](https://github.com/haizlin/fe-interview/issues/5044)
 - 第1096天 (2022-04-16)  
