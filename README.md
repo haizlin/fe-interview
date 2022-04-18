@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.04.18) —— 第1098天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端针对图片性能优化都有哪些方法？](https://github.com/haizlin/fe-interview/issues/5045)  
+## :clock430: 今天的知识点   (2022.04.19) —— 第1099天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js的变量命名需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/5046)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1097天 (2022.04.17)  
-    	 :one: [软技能] [使用websocket制作一个简易的聊天系统](https://github.com/haizlin/fe-interview/issues/5044)  
+- 第1098天 (2022.04.18)  
+    	 :one: [软技能] [前端针对图片性能优化都有哪些方法？](https://github.com/haizlin/fe-interview/issues/5045)  
  
 	
 - **[查看全部](category/history.md)**

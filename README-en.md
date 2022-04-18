@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.18) —— 1098 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端针对图片性能优化都有哪些方法？](https://github.com/haizlin/fe-interview/issues/5045)  
+## :clock430: Today's Knowledge Points (2022.04.19) —— 1099 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js的变量命名需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/5046)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1097 days (2022.04.17)  
-    	 :one: [skill] [使用websocket制作一个简易的聊天系统](https://github.com/haizlin/fe-interview/issues/5044)  
+- 1098 days (2022.04.18)  
+    	 :one: [skill] [前端针对图片性能优化都有哪些方法？](https://github.com/haizlin/fe-interview/issues/5045)  
  
 	
 - **[All](category/history.md)**

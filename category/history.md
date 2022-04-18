@@ -2,6 +2,8 @@
 
 
 
+- 第1099天 (2022-04-19)  
+    - [js] [js的变量命名需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/5046)
 - 第1098天 (2022-04-18)  
     - [软技能] [前端针对图片性能优化都有哪些方法？](https://github.com/haizlin/fe-interview/issues/5045)
 - 第1097天 (2022-04-17)  
