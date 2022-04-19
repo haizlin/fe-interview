@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.04.19) —— 第1099天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js的变量命名需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/5046)  
+## :clock430: 今天的知识点   (2022.04.20) —— 第1100天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [怎么区分宏任务和微任务？](https://github.com/haizlin/fe-interview/issues/5047)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1098天 (2022.04.18)  
-    	 :one: [软技能] [前端针对图片性能优化都有哪些方法？](https://github.com/haizlin/fe-interview/issues/5045)  
+- 第1099天 (2022.04.19)  
+    	 :one: [js] [js的变量命名需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/5046)  
  
 	
 - **[查看全部](category/history.md)**

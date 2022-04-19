@@ -2,6 +2,8 @@
 
 
 
+- 第1100天 (2022-04-20)  
+    - [js] [怎么区分宏任务和微任务？](https://github.com/haizlin/fe-interview/issues/5047)
 - 第1099天 (2022-04-19)  
     - [js] [js的变量命名需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/5046)
 - 第1098天 (2022-04-18)  

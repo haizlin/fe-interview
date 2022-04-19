@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.19) —— 1099 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js的变量命名需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/5046)  
+## :clock430: Today's Knowledge Points (2022.04.20) —— 1100 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [怎么区分宏任务和微任务？](https://github.com/haizlin/fe-interview/issues/5047)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1098 days (2022.04.18)  
-    	 :one: [skill] [前端针对图片性能优化都有哪些方法？](https://github.com/haizlin/fe-interview/issues/5045)  
+- 1099 days (2022.04.19)  
+    	 :one: [js] [js的变量命名需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/5046)  
  
 	
 - **[All](category/history.md)**
