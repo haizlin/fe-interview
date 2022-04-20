@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.20) —— 1100 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [怎么区分宏任务和微任务？](https://github.com/haizlin/fe-interview/issues/5047)  
+## :clock430: Today's Knowledge Points (2022.04.21) —— 1101 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说购物车如何实现？](https://github.com/haizlin/fe-interview/issues/5048)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1099 days (2022.04.19)  
-    	 :one: [js] [js的变量命名需要遵循什么规则？](https://github.com/haizlin/fe-interview/issues/5046)  
+- 1100 days (2022.04.20)  
+    	 :one: [js] [怎么区分宏任务和微任务？](https://github.com/haizlin/fe-interview/issues/5047)  
  
 	
 - **[All](category/history.md)**
