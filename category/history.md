@@ -2,6 +2,8 @@
 
 
 
+- 第1103天 (2022-04-23)  
+    - [软技能] [前端埋点时，为什么使用GIF上报？](https://github.com/haizlin/fe-interview/issues/5050)
 - 第1102天 (2022-04-22)  
     - [vue] [你有看过vue的nextTick源码吗？](https://github.com/haizlin/fe-interview/issues/5049)
 - 第1101天 (2022-04-21)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.22) —— 1102 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [你有看过vue的nextTick源码吗？](https://github.com/haizlin/fe-interview/issues/5049)  
+## :clock430: Today's Knowledge Points (2022.04.23) —— 1103 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端埋点时，为什么使用GIF上报？](https://github.com/haizlin/fe-interview/issues/5050)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1101 days (2022.04.21)  
-    	 :one: [skill] [请说说购物车如何实现？](https://github.com/haizlin/fe-interview/issues/5048)  
+- 1102 days (2022.04.22)  
+    	 :one: [vue] [你有看过vue的nextTick源码吗？](https://github.com/haizlin/fe-interview/issues/5049)  
  
 	
 - **[All](category/history.md)**
