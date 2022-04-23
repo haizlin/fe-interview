@@ -2,6 +2,8 @@
 
 
 
+- 第1104天 (2022-04-24)  
+    - [css] [css中的子元素是如何继承父元素的line-height？](https://github.com/haizlin/fe-interview/issues/5051)
 - 第1103天 (2022-04-23)  
     - [软技能] [前端埋点时，为什么使用GIF上报？](https://github.com/haizlin/fe-interview/issues/5050)
 - 第1102天 (2022-04-22)  
