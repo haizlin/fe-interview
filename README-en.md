@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.24) —— 1104 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [css中的子元素是如何继承父元素的line-height？](https://github.com/haizlin/fe-interview/issues/5051)  
+## :clock430: Today's Knowledge Points (2022.04.25) —— 1105 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法实现链式调用](https://github.com/haizlin/fe-interview/issues/5052)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1103 days (2022.04.23)  
-    	 :one: [skill] [前端埋点时，为什么使用GIF上报？](https://github.com/haizlin/fe-interview/issues/5050)  
+- 1104 days (2022.04.24)  
+    	 :one: [css] [css中的子元素是如何继承父元素的line-height？](https://github.com/haizlin/fe-interview/issues/5051)  
  
 	
 - **[All](category/history.md)**

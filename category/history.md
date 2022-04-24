@@ -2,6 +2,8 @@
 
 
 
+- 第1105天 (2022-04-25)  
+    - [js] [使用js写一个方法实现链式调用](https://github.com/haizlin/fe-interview/issues/5052)
 - 第1104天 (2022-04-24)  
     - [css] [css中的子元素是如何继承父元素的line-height？](https://github.com/haizlin/fe-interview/issues/5051)
 - 第1103天 (2022-04-23)  
