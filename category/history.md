@@ -2,6 +2,8 @@
 
 
 
+- 第1106天 (2022-04-26)  
+    - [软技能] [说说你对Cookie的SameSite属性的理解](https://github.com/haizlin/fe-interview/issues/5053)
 - 第1105天 (2022-04-25)  
     - [js] [使用js写一个方法实现链式调用](https://github.com/haizlin/fe-interview/issues/5052)
 - 第1104天 (2022-04-24)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.25) —— 1105 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法实现链式调用](https://github.com/haizlin/fe-interview/issues/5052)  
+## :clock430: Today's Knowledge Points (2022.04.26) —— 1106 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对Cookie的SameSite属性的理解](https://github.com/haizlin/fe-interview/issues/5053)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1104 days (2022.04.24)  
-    	 :one: [css] [css中的子元素是如何继承父元素的line-height？](https://github.com/haizlin/fe-interview/issues/5051)  
+- 1105 days (2022.04.25)  
+    	 :one: [js] [使用js写一个方法实现链式调用](https://github.com/haizlin/fe-interview/issues/5052)  
  
 	
 - **[All](category/history.md)**
