@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.04.26) —— 第1106天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对Cookie的SameSite属性的理解](https://github.com/haizlin/fe-interview/issues/5053)  
+## :clock430: 今天的知识点   (2022.04.27) —— 第1107天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个方法将DOM里的类数组对象转换为数组](https://github.com/haizlin/fe-interview/issues/5054)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1105天 (2022.04.25)  
-    	 :one: [js] [使用js写一个方法实现链式调用](https://github.com/haizlin/fe-interview/issues/5052)  
+- 第1106天 (2022.04.26)  
+    	 :one: [软技能] [说说你对Cookie的SameSite属性的理解](https://github.com/haizlin/fe-interview/issues/5053)  
  
 	
 - **[查看全部](category/history.md)**
