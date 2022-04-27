@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.27) —— 1107 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个方法将DOM里的类数组对象转换为数组](https://github.com/haizlin/fe-interview/issues/5054)  
+## :clock430: Today's Knowledge Points (2022.04.28) —— 1108 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请解释下typeof null输出的结果](https://github.com/haizlin/fe-interview/issues/5055)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1106 days (2022.04.26)  
-    	 :one: [skill] [说说你对Cookie的SameSite属性的理解](https://github.com/haizlin/fe-interview/issues/5053)  
+- 1107 days (2022.04.27)  
+    	 :one: [js] [写一个方法将DOM里的类数组对象转换为数组](https://github.com/haizlin/fe-interview/issues/5054)  
  
 	
 - **[All](category/history.md)**

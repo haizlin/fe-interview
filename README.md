@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.04.27) —— 第1107天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个方法将DOM里的类数组对象转换为数组](https://github.com/haizlin/fe-interview/issues/5054)  
+## :clock430: 今天的知识点   (2022.04.28) —— 第1108天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请解释下typeof null输出的结果](https://github.com/haizlin/fe-interview/issues/5055)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1106天 (2022.04.26)  
-    	 :one: [软技能] [说说你对Cookie的SameSite属性的理解](https://github.com/haizlin/fe-interview/issues/5053)  
+- 第1107天 (2022.04.27)  
+    	 :one: [js] [写一个方法将DOM里的类数组对象转换为数组](https://github.com/haizlin/fe-interview/issues/5054)  
  
 	
 - **[查看全部](category/history.md)**

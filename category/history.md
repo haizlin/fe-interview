@@ -2,6 +2,8 @@
 
 
 
+- 第1108天 (2022-04-28)  
+    - [js] [请解释下typeof null输出的结果](https://github.com/haizlin/fe-interview/issues/5055)
 - 第1107天 (2022-04-27)  
     - [js] [写一个方法将DOM里的类数组对象转换为数组](https://github.com/haizlin/fe-interview/issues/5054)
 - 第1106天 (2022-04-26)  
