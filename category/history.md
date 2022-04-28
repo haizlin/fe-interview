@@ -2,6 +2,8 @@
 
 
 
+- 第1109天 (2022-04-29)  
+    - [js] [箭头函数的this指向哪里？](https://github.com/haizlin/fe-interview/issues/5056)
 - 第1108天 (2022-04-28)  
     - [js] [请解释下typeof null输出的结果](https://github.com/haizlin/fe-interview/issues/5055)
 - 第1107天 (2022-04-27)  
