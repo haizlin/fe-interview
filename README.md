@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.04.29) —— 第1109天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [箭头函数的this指向哪里？](https://github.com/haizlin/fe-interview/issues/5056)  
+## :clock430: 今天的知识点   (2022.04.30) —— 第1110天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请说说扩展运算符的作用和使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/5057)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1108天 (2022.04.28)  
-    	 :one: [js] [请解释下typeof null输出的结果](https://github.com/haizlin/fe-interview/issues/5055)  
+- 第1109天 (2022.04.29)  
+    	 :one: [js] [箭头函数的this指向哪里？](https://github.com/haizlin/fe-interview/issues/5056)  
  
 	
 - **[查看全部](category/history.md)**

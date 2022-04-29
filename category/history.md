@@ -2,6 +2,8 @@
 
 
 
+- 第1110天 (2022-04-30)  
+    - [ECMAScript] [请说说扩展运算符的作用和使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/5057)
 - 第1109天 (2022-04-29)  
     - [js] [箭头函数的this指向哪里？](https://github.com/haizlin/fe-interview/issues/5056)
 - 第1108天 (2022-04-28)  
