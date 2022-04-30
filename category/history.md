@@ -2,6 +2,8 @@
 
 
 
+- 第1111天 (2022-05-01)  
+    - [ECMAScript] [请解释下ES6的解构](https://github.com/haizlin/fe-interview/issues/5058)
 - 第1110天 (2022-04-30)  
     - [ECMAScript] [请说说扩展运算符的作用和使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/5057)
 - 第1109天 (2022-04-29)  

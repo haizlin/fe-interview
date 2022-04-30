@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.04.30) —— 1110 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请说说扩展运算符的作用和使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/5057)  
+## :clock430: Today's Knowledge Points (2022.05.01) —— 1111 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释下ES6的解构](https://github.com/haizlin/fe-interview/issues/5058)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1109 days (2022.04.29)  
-    	 :one: [js] [箭头函数的this指向哪里？](https://github.com/haizlin/fe-interview/issues/5056)  
+- 1110 days (2022.04.30)  
+    	 :one: [ECMAScript] [请说说扩展运算符的作用和使用场景有哪些？](https://github.com/haizlin/fe-interview/issues/5057)  
  
 	
 - **[All](category/history.md)**
