@@ -2,6 +2,8 @@
 
 
 
+- 第1112天 (2022-05-02)  
+    - [ECMAScript] [请说说你对ES6中模板语法的理解](https://github.com/haizlin/fe-interview/issues/5059)
 - 第1111天 (2022-05-01)  
     - [ECMAScript] [请解释下ES6的解构](https://github.com/haizlin/fe-interview/issues/5058)
 - 第1110天 (2022-04-30)  
