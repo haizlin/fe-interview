@@ -2,6 +2,8 @@
 
 
 
+- 第1113天 (2022-05-03)  
+    - [js] [使用forEach会改变原来的数组吗？](https://github.com/haizlin/fe-interview/issues/5060)
 - 第1112天 (2022-05-02)  
     - [ECMAScript] [请说说你对ES6中模板语法的理解](https://github.com/haizlin/fe-interview/issues/5059)
 - 第1111天 (2022-05-01)  
