@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.03) —— 1113 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用forEach会改变原来的数组吗？](https://github.com/haizlin/fe-interview/issues/5060)  
+## :clock430: Today's Knowledge Points (2022.05.04) —— 1114 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [DNS错误原因是有哪些？如何解决DNS错误？](https://github.com/haizlin/fe-interview/issues/5061)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1112 days (2022.05.02)  
-    	 :one: [ECMAScript] [请说说你对ES6中模板语法的理解](https://github.com/haizlin/fe-interview/issues/5059)  
+- 1113 days (2022.05.03)  
+    	 :one: [js] [使用forEach会改变原来的数组吗？](https://github.com/haizlin/fe-interview/issues/5060)  
  
 	
 - **[All](category/history.md)**

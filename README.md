@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.03) —— 第1113天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用forEach会改变原来的数组吗？](https://github.com/haizlin/fe-interview/issues/5060)  
+## :clock430: 今天的知识点   (2022.05.04) —— 第1114天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [DNS错误原因是有哪些？如何解决DNS错误？](https://github.com/haizlin/fe-interview/issues/5061)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1112天 (2022.05.02)  
-    	 :one: [ECMAScript] [请说说你对ES6中模板语法的理解](https://github.com/haizlin/fe-interview/issues/5059)  
+- 第1113天 (2022.05.03)  
+    	 :one: [js] [使用forEach会改变原来的数组吗？](https://github.com/haizlin/fe-interview/issues/5060)  
  
 	
 - **[查看全部](category/history.md)**
