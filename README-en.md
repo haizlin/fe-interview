@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.04) —— 1114 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [DNS错误原因是有哪些？如何解决DNS错误？](https://github.com/haizlin/fe-interview/issues/5061)  
+## :clock430: Today's Knowledge Points (2022.05.05) —— 1115 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [Service Worker是如何保证离线缓存资源更新的？](https://github.com/haizlin/fe-interview/issues/5062)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1113 days (2022.05.03)  
-    	 :one: [js] [使用forEach会改变原来的数组吗？](https://github.com/haizlin/fe-interview/issues/5060)  
+- 1114 days (2022.05.04)  
+    	 :one: [skill] [DNS错误原因是有哪些？如何解决DNS错误？](https://github.com/haizlin/fe-interview/issues/5061)  
  
 	
 - **[All](category/history.md)**

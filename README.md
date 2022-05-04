@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.04) —— 第1114天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [DNS错误原因是有哪些？如何解决DNS错误？](https://github.com/haizlin/fe-interview/issues/5061)  
+## :clock430: 今天的知识点   (2022.05.05) —— 第1115天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [Service Worker是如何保证离线缓存资源更新的？](https://github.com/haizlin/fe-interview/issues/5062)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1113天 (2022.05.03)  
-    	 :one: [js] [使用forEach会改变原来的数组吗？](https://github.com/haizlin/fe-interview/issues/5060)  
+- 第1114天 (2022.05.04)  
+    	 :one: [软技能] [DNS错误原因是有哪些？如何解决DNS错误？](https://github.com/haizlin/fe-interview/issues/5061)  
  
 	
 - **[查看全部](category/history.md)**

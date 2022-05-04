@@ -2,6 +2,8 @@
 
 
 
+- 第1115天 (2022-05-05)  
+    - [软技能] [Service Worker是如何保证离线缓存资源更新的？](https://github.com/haizlin/fe-interview/issues/5062)
 - 第1114天 (2022-05-04)  
     - [软技能] [DNS错误原因是有哪些？如何解决DNS错误？](https://github.com/haizlin/fe-interview/issues/5061)
 - 第1113天 (2022-05-03)  
