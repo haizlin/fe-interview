@@ -2,6 +2,8 @@
 
 
 
+- 第1116天 (2022-05-06)  
+    - [js] [写一个方法将数组转结构换为tree，要求性能好](https://github.com/haizlin/fe-interview/issues/5063)
 - 第1115天 (2022-05-05)  
     - [软技能] [Service Worker是如何保证离线缓存资源更新的？](https://github.com/haizlin/fe-interview/issues/5062)
 - 第1114天 (2022-05-04)  
