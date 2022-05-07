@@ -2,6 +2,8 @@
 
 
 
+- 第1118天 (2022-05-08)  
+    - [软技能] [请说说你对USC-2的理解](https://github.com/haizlin/fe-interview/issues/5065)
 - 第1117天 (2022-05-07)  
     - [软技能] [请说说Unicode、UTF-8、UTF-16、UTF-32有什么区别？](https://github.com/haizlin/fe-interview/issues/5064)
 - 第1116天 (2022-05-06)  

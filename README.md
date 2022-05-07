@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.07) —— 第1117天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说Unicode、UTF-8、UTF-16、UTF-32有什么区别？](https://github.com/haizlin/fe-interview/issues/5064)  
+## :clock430: 今天的知识点   (2022.05.08) —— 第1118天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对USC-2的理解](https://github.com/haizlin/fe-interview/issues/5065)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1116天 (2022.05.06)  
-    	 :one: [js] [写一个方法将数组转结构换为tree，要求性能好](https://github.com/haizlin/fe-interview/issues/5063)  
+- 第1117天 (2022.05.07)  
+    	 :one: [软技能] [请说说Unicode、UTF-8、UTF-16、UTF-32有什么区别？](https://github.com/haizlin/fe-interview/issues/5064)  
  
 	
 - **[查看全部](category/history.md)**
