@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.08) —— 第1118天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对USC-2的理解](https://github.com/haizlin/fe-interview/issues/5065)  
+## :clock430: 今天的知识点   (2022.05.09) —— 第1119天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [你有使用过ResizeObserver吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/5066)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1117天 (2022.05.07)  
-    	 :one: [软技能] [请说说Unicode、UTF-8、UTF-16、UTF-32有什么区别？](https://github.com/haizlin/fe-interview/issues/5064)  
+- 第1118天 (2022.05.08)  
+    	 :one: [软技能] [请说说你对USC-2的理解](https://github.com/haizlin/fe-interview/issues/5065)  
  
 	
 - **[查看全部](category/history.md)**

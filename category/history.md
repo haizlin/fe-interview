@@ -2,6 +2,8 @@
 
 
 
+- 第1119天 (2022-05-09)  
+    - [js] [你有使用过ResizeObserver吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/5066)
 - 第1118天 (2022-05-08)  
     - [软技能] [请说说你对USC-2的理解](https://github.com/haizlin/fe-interview/issues/5065)
 - 第1117天 (2022-05-07)  
