@@ -2,6 +2,8 @@
 
 
 
+- 第1120天 (2022-05-10)  
+    - [vue] [请讲下vue-router的执行顺序](https://github.com/haizlin/fe-interview/issues/5067)
 - 第1119天 (2022-05-09)  
     - [js] [你有使用过ResizeObserver吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/5066)
 - 第1118天 (2022-05-08)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.09) —— 第1119天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [你有使用过ResizeObserver吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/5066)  
+## :clock430: 今天的知识点   (2022.05.10) —— 第1120天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [请讲下vue-router的执行顺序](https://github.com/haizlin/fe-interview/issues/5067)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1118天 (2022.05.08)  
-    	 :one: [软技能] [请说说你对USC-2的理解](https://github.com/haizlin/fe-interview/issues/5065)  
+- 第1119天 (2022.05.09)  
+    	 :one: [js] [你有使用过ResizeObserver吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/5066)  
  
 	
 - **[查看全部](category/history.md)**

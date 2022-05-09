@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.09) —— 1119 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [你有使用过ResizeObserver吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/5066)  
+## :clock430: Today's Knowledge Points (2022.05.10) —— 1120 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [请讲下vue-router的执行顺序](https://github.com/haizlin/fe-interview/issues/5067)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1118 days (2022.05.08)  
-    	 :one: [skill] [请说说你对USC-2的理解](https://github.com/haizlin/fe-interview/issues/5065)  
+- 1119 days (2022.05.09)  
+    	 :one: [js] [你有使用过ResizeObserver吗？请说说它的用途](https://github.com/haizlin/fe-interview/issues/5066)  
  
 	
 - **[All](category/history.md)**
