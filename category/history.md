@@ -2,6 +2,8 @@
 
 
 
+- 第1121天 (2022-05-11)  
+    - [软技能] [你了解什么是A/B测试吗？](https://github.com/haizlin/fe-interview/issues/5069)
 - 第1120天 (2022-05-10)  
     - [vue] [请讲下vue-router的执行顺序](https://github.com/haizlin/fe-interview/issues/5067)
 - 第1119天 (2022-05-09)  
