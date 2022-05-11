@@ -2,6 +2,8 @@
 
 
 
+- 第1122天 (2022-05-12)  
+    - [软技能] [PUT与POST的请求有区别？](https://github.com/haizlin/fe-interview/issues/5070)
 - 第1121天 (2022-05-11)  
     - [软技能] [你了解什么是A/B测试吗？](https://github.com/haizlin/fe-interview/issues/5069)
 - 第1120天 (2022-05-10)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.11) —— 1121 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你了解什么是A/B测试吗？](https://github.com/haizlin/fe-interview/issues/5069)  
+## :clock430: Today's Knowledge Points (2022.05.12) —— 1122 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [PUT与POST的请求有区别？](https://github.com/haizlin/fe-interview/issues/5070)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1120 days (2022.05.10)  
-    	 :one: [vue] [请讲下vue-router的执行顺序](https://github.com/haizlin/fe-interview/issues/5067)  
+- 1121 days (2022.05.11)  
+    	 :one: [skill] [你了解什么是A/B测试吗？](https://github.com/haizlin/fe-interview/issues/5069)  
  
 	
 - **[All](category/history.md)**
