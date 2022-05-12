@@ -2,6 +2,8 @@
 
 
 
+- 第1123天 (2022-05-13)  
+    - [软技能] [产生较多304状态码有哪些原因？](https://github.com/haizlin/fe-interview/issues/5071)
 - 第1122天 (2022-05-12)  
     - [软技能] [PUT与POST的请求有区别？](https://github.com/haizlin/fe-interview/issues/5070)
 - 第1121天 (2022-05-11)  

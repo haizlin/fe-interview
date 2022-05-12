@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.12) —— 第1122天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [PUT与POST的请求有区别？](https://github.com/haizlin/fe-interview/issues/5070)  
+## :clock430: 今天的知识点   (2022.05.13) —— 第1123天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [产生较多304状态码有哪些原因？](https://github.com/haizlin/fe-interview/issues/5071)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1121天 (2022.05.11)  
-    	 :one: [软技能] [你了解什么是A/B测试吗？](https://github.com/haizlin/fe-interview/issues/5069)  
+- 第1122天 (2022.05.12)  
+    	 :one: [软技能] [PUT与POST的请求有区别？](https://github.com/haizlin/fe-interview/issues/5070)  
  
 	
 - **[查看全部](category/history.md)**

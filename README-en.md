@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.12) —— 1122 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [PUT与POST的请求有区别？](https://github.com/haizlin/fe-interview/issues/5070)  
+## :clock430: Today's Knowledge Points (2022.05.13) —— 1123 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [产生较多304状态码有哪些原因？](https://github.com/haizlin/fe-interview/issues/5071)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1121 days (2022.05.11)  
-    	 :one: [skill] [你了解什么是A/B测试吗？](https://github.com/haizlin/fe-interview/issues/5069)  
+- 1122 days (2022.05.12)  
+    	 :one: [skill] [PUT与POST的请求有区别？](https://github.com/haizlin/fe-interview/issues/5070)  
  
 	
 - **[All](category/history.md)**
