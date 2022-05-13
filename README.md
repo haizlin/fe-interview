@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.13) —— 第1123天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [产生较多304状态码有哪些原因？](https://github.com/haizlin/fe-interview/issues/5071)  
+## :clock430: 今天的知识点   (2022.05.14) —— 第1124天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [304状态码出现太多会造成哪些影响？](https://github.com/haizlin/fe-interview/issues/5072)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1122天 (2022.05.12)  
-    	 :one: [软技能] [PUT与POST的请求有区别？](https://github.com/haizlin/fe-interview/issues/5070)  
+- 第1123天 (2022.05.13)  
+    	 :one: [软技能] [产生较多304状态码有哪些原因？](https://github.com/haizlin/fe-interview/issues/5071)  
  
 	
 - **[查看全部](category/history.md)**

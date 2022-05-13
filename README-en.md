@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.13) —— 1123 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [产生较多304状态码有哪些原因？](https://github.com/haizlin/fe-interview/issues/5071)  
+## :clock430: Today's Knowledge Points (2022.05.14) —— 1124 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [304状态码出现太多会造成哪些影响？](https://github.com/haizlin/fe-interview/issues/5072)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1122 days (2022.05.12)  
-    	 :one: [skill] [PUT与POST的请求有区别？](https://github.com/haizlin/fe-interview/issues/5070)  
+- 1123 days (2022.05.13)  
+    	 :one: [skill] [产生较多304状态码有哪些原因？](https://github.com/haizlin/fe-interview/issues/5071)  
  
 	
 - **[All](category/history.md)**
