@@ -2,6 +2,8 @@
 
 
 
+- 第1125天 (2022-05-15)  
+    - [软技能] [OPTIONS请求有使什么用？](https://github.com/haizlin/fe-interview/issues/5073)
 - 第1124天 (2022-05-14)  
     - [软技能] [304状态码出现太多会造成哪些影响？](https://github.com/haizlin/fe-interview/issues/5072)
 - 第1123天 (2022-05-13)  
