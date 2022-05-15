@@ -2,6 +2,8 @@
 
 
 
+- 第1126天 (2022-05-16)  
+    - [软技能] [请说说你对HTTP中keep-alive的理解](https://github.com/haizlin/fe-interview/issues/5074)
 - 第1125天 (2022-05-15)  
     - [软技能] [OPTIONS请求有使什么用？](https://github.com/haizlin/fe-interview/issues/5073)
 - 第1124天 (2022-05-14)  

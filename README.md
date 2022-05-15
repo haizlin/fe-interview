@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.15) —— 第1125天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [OPTIONS请求有使什么用？](https://github.com/haizlin/fe-interview/issues/5073)  
+## :clock430: 今天的知识点   (2022.05.16) —— 第1126天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对HTTP中keep-alive的理解](https://github.com/haizlin/fe-interview/issues/5074)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1124天 (2022.05.14)  
-    	 :one: [软技能] [304状态码出现太多会造成哪些影响？](https://github.com/haizlin/fe-interview/issues/5072)  
+- 第1125天 (2022.05.15)  
+    	 :one: [软技能] [OPTIONS请求有使什么用？](https://github.com/haizlin/fe-interview/issues/5073)  
  
 	
 - **[查看全部](category/history.md)**
