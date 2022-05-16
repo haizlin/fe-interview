@@ -2,6 +2,8 @@
 
 
 
+- 第1127天 (2022-05-17)  
+    - [软技能] [请说说HTTP协议的优点和缺点各是什么？](https://github.com/haizlin/fe-interview/issues/5075)
 - 第1126天 (2022-05-16)  
     - [软技能] [请说说你对HTTP中keep-alive的理解](https://github.com/haizlin/fe-interview/issues/5074)
 - 第1125天 (2022-05-15)  

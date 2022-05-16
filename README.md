@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.16) —— 第1126天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对HTTP中keep-alive的理解](https://github.com/haizlin/fe-interview/issues/5074)  
+## :clock430: 今天的知识点   (2022.05.17) —— 第1127天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说HTTP协议的优点和缺点各是什么？](https://github.com/haizlin/fe-interview/issues/5075)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1125天 (2022.05.15)  
-    	 :one: [软技能] [OPTIONS请求有使什么用？](https://github.com/haizlin/fe-interview/issues/5073)  
+- 第1126天 (2022.05.16)  
+    	 :one: [软技能] [请说说你对HTTP中keep-alive的理解](https://github.com/haizlin/fe-interview/issues/5074)  
  
 	
 - **[查看全部](category/history.md)**
