@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.17) —— 1127 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说HTTP协议的优点和缺点各是什么？](https://github.com/haizlin/fe-interview/issues/5075)  
+## :clock430: Today's Knowledge Points (2022.05.18) —— 1128 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说URL有哪些部分组成？](https://github.com/haizlin/fe-interview/issues/5076)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1126 days (2022.05.16)  
-    	 :one: [skill] [请说说你对HTTP中keep-alive的理解](https://github.com/haizlin/fe-interview/issues/5074)  
+- 1127 days (2022.05.17)  
+    	 :one: [skill] [请说说HTTP协议的优点和缺点各是什么？](https://github.com/haizlin/fe-interview/issues/5075)  
  
 	
 - **[All](category/history.md)**

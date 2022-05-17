@@ -2,6 +2,8 @@
 
 
 
+- 第1128天 (2022-05-18)  
+    - [软技能] [请说说URL有哪些部分组成？](https://github.com/haizlin/fe-interview/issues/5076)
 - 第1127天 (2022-05-17)  
     - [软技能] [请说说HTTP协议的优点和缺点各是什么？](https://github.com/haizlin/fe-interview/issues/5075)
 - 第1126天 (2022-05-16)  
