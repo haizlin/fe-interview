@@ -2,6 +2,8 @@
 
 
 
+- 第1129天 (2022-05-19)  
+    - [html] [使用H5实现一个吸取颜色的功能](https://github.com/haizlin/fe-interview/issues/5077)
 - 第1128天 (2022-05-18)  
     - [软技能] [请说说URL有哪些部分组成？](https://github.com/haizlin/fe-interview/issues/5076)
 - 第1127天 (2022-05-17)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.18) —— 第1128天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说URL有哪些部分组成？](https://github.com/haizlin/fe-interview/issues/5076)  
+## :clock430: 今天的知识点   (2022.05.19) —— 第1129天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用H5实现一个吸取颜色的功能](https://github.com/haizlin/fe-interview/issues/5077)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1127天 (2022.05.17)  
-    	 :one: [软技能] [请说说HTTP协议的优点和缺点各是什么？](https://github.com/haizlin/fe-interview/issues/5075)  
+- 第1128天 (2022.05.18)  
+    	 :one: [软技能] [请说说URL有哪些部分组成？](https://github.com/haizlin/fe-interview/issues/5076)  
  
 	
 - **[查看全部](category/history.md)**
