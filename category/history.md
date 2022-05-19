@@ -2,6 +2,8 @@
 
 
 
+- 第1130天 (2022-05-20)  
+    - [软技能] [请描述下什么是穷举法？](https://github.com/haizlin/fe-interview/issues/5078)
 - 第1129天 (2022-05-19)  
     - [html] [使用H5实现一个吸取颜色的功能](https://github.com/haizlin/fe-interview/issues/5077)
 - 第1128天 (2022-05-18)  
