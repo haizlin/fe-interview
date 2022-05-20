@@ -2,6 +2,8 @@
 
 
 
+- 第1131天 (2022-05-21)  
+    - [js] [使用js写一个方法求出给定100个不重复的数中找出60个的排列、组合各有多少种](https://github.com/haizlin/fe-interview/issues/5079)
 - 第1130天 (2022-05-20)  
     - [软技能] [请描述下什么是穷举法？](https://github.com/haizlin/fe-interview/issues/5078)
 - 第1129天 (2022-05-19)  
