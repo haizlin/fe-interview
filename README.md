@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.21) —— 第1131天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法求出给定100个不重复的数中找出60个的排列、组合各有多少种](https://github.com/haizlin/fe-interview/issues/5079)  
+## :clock430: 今天的知识点   (2022.05.22) —— 第1132天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请解释下渲染出现recalculate style的过程](https://github.com/haizlin/fe-interview/issues/5080)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1130天 (2022.05.20)  
-    	 :one: [软技能] [请描述下什么是穷举法？](https://github.com/haizlin/fe-interview/issues/5078)  
+- 第1131天 (2022.05.21)  
+    	 :one: [js] [使用js写一个方法求出给定100个不重复的数中找出60个的排列、组合各有多少种](https://github.com/haizlin/fe-interview/issues/5079)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1132天 (2022-05-22)  
+    - [软技能] [请解释下渲染出现recalculate style的过程](https://github.com/haizlin/fe-interview/issues/5080)
 - 第1131天 (2022-05-21)  
     - [js] [使用js写一个方法求出给定100个不重复的数中找出60个的排列、组合各有多少种](https://github.com/haizlin/fe-interview/issues/5079)
 - 第1130天 (2022-05-20)  
