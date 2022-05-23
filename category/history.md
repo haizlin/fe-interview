@@ -2,6 +2,8 @@
 
 
 
+- 第1134天 (2022-05-24)  
+    - [软技能] [为何不建议频繁的触发浏览器的GC？](https://github.com/haizlin/fe-interview/issues/5082)
 - 第1133天 (2022-05-23)  
     - [js] [写个方法计算html中所有节点和子节点](https://github.com/haizlin/fe-interview/issues/5081)
 - 第1132天 (2022-05-22)  

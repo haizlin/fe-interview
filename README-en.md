@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.23) —— 1133 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写个方法计算html中所有节点和子节点](https://github.com/haizlin/fe-interview/issues/5081)  
+## :clock430: Today's Knowledge Points (2022.05.24) —— 1134 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [为何不建议频繁的触发浏览器的GC？](https://github.com/haizlin/fe-interview/issues/5082)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1132 days (2022.05.22)  
-    	 :one: [skill] [请解释下渲染出现recalculate style的过程](https://github.com/haizlin/fe-interview/issues/5080)  
+- 1133 days (2022.05.23)  
+    	 :one: [js] [写个方法计算html中所有节点和子节点](https://github.com/haizlin/fe-interview/issues/5081)  
  
 	
 - **[All](category/history.md)**
