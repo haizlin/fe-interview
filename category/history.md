@@ -2,6 +2,8 @@
 
 
 
+- 第1135天 (2022-05-25)  
+    - [软技能] [什么时候会触发垃圾回收？](https://github.com/haizlin/fe-interview/issues/5083)
 - 第1134天 (2022-05-24)  
     - [软技能] [为何不建议频繁的触发浏览器的GC？](https://github.com/haizlin/fe-interview/issues/5082)
 - 第1133天 (2022-05-23)  

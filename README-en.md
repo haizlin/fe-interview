@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.24) —— 1134 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [为何不建议频繁的触发浏览器的GC？](https://github.com/haizlin/fe-interview/issues/5082)  
+## :clock430: Today's Knowledge Points (2022.05.25) —— 1135 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么时候会触发垃圾回收？](https://github.com/haizlin/fe-interview/issues/5083)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1133 days (2022.05.23)  
-    	 :one: [js] [写个方法计算html中所有节点和子节点](https://github.com/haizlin/fe-interview/issues/5081)  
+- 1134 days (2022.05.24)  
+    	 :one: [skill] [为何不建议频繁的触发浏览器的GC？](https://github.com/haizlin/fe-interview/issues/5082)  
  
 	
 - **[All](category/history.md)**

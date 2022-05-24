@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.24) —— 第1134天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [为何不建议频繁的触发浏览器的GC？](https://github.com/haizlin/fe-interview/issues/5082)  
+## :clock430: 今天的知识点   (2022.05.25) —— 第1135天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [什么时候会触发垃圾回收？](https://github.com/haizlin/fe-interview/issues/5083)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1133天 (2022.05.23)  
-    	 :one: [js] [写个方法计算html中所有节点和子节点](https://github.com/haizlin/fe-interview/issues/5081)  
+- 第1134天 (2022.05.24)  
+    	 :one: [软技能] [为何不建议频繁的触发浏览器的GC？](https://github.com/haizlin/fe-interview/issues/5082)  
  
 	
 - **[查看全部](category/history.md)**
