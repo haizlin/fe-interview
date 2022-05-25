@@ -2,6 +2,8 @@
 
 
 
+- 第1136天 (2022-05-26)  
+    - [软技能] [为什么垃圾回收不是实时的？](https://github.com/haizlin/fe-interview/issues/5084)
 - 第1135天 (2022-05-25)  
     - [软技能] [什么时候会触发垃圾回收？](https://github.com/haizlin/fe-interview/issues/5083)
 - 第1134天 (2022-05-24)  

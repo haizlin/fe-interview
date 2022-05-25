@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.25) —— 1135 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么时候会触发垃圾回收？](https://github.com/haizlin/fe-interview/issues/5083)  
+## :clock430: Today's Knowledge Points (2022.05.26) —— 1136 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [为什么垃圾回收不是实时的？](https://github.com/haizlin/fe-interview/issues/5084)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1134 days (2022.05.24)  
-    	 :one: [skill] [为何不建议频繁的触发浏览器的GC？](https://github.com/haizlin/fe-interview/issues/5082)  
+- 1135 days (2022.05.25)  
+    	 :one: [skill] [什么时候会触发垃圾回收？](https://github.com/haizlin/fe-interview/issues/5083)  
  
 	
 - **[All](category/history.md)**
