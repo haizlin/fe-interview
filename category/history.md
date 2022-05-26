@@ -2,6 +2,8 @@
 
 
 
+- 第1137天 (2022-05-27)  
+    - [软技能] [请详细介绍下垃圾回收的标记清除](https://github.com/haizlin/fe-interview/issues/5085)
 - 第1136天 (2022-05-26)  
     - [软技能] [为什么垃圾回收不是实时的？](https://github.com/haizlin/fe-interview/issues/5084)
 - 第1135天 (2022-05-25)  
