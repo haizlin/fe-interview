@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.27) —— 第1137天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请详细介绍下垃圾回收的标记清除](https://github.com/haizlin/fe-interview/issues/5085)  
+## :clock430: 今天的知识点   (2022.05.28) —— 第1138天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说web全景图的原理](https://github.com/haizlin/fe-interview/issues/5086)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1136天 (2022.05.26)  
-    	 :one: [软技能] [为什么垃圾回收不是实时的？](https://github.com/haizlin/fe-interview/issues/5084)  
+- 第1137天 (2022.05.27)  
+    	 :one: [软技能] [请详细介绍下垃圾回收的标记清除](https://github.com/haizlin/fe-interview/issues/5085)  
  
 	
 - **[查看全部](category/history.md)**

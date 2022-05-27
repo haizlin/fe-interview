@@ -2,6 +2,8 @@
 
 
 
+- 第1138天 (2022-05-28)  
+    - [软技能] [请说说web全景图的原理](https://github.com/haizlin/fe-interview/issues/5086)
 - 第1137天 (2022-05-27)  
     - [软技能] [请详细介绍下垃圾回收的标记清除](https://github.com/haizlin/fe-interview/issues/5085)
 - 第1136天 (2022-05-26)  
