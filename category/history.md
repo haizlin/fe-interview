@@ -2,6 +2,8 @@
 
 
 
+- 第1140天 (2022-05-30)  
+    - [html] [DOM节点至少包含哪些属性？](https://github.com/haizlin/fe-interview/issues/5088)
 - 第1139天 (2022-05-29)  
     - [html] [如何获取元素中最后一个子节点？](https://github.com/haizlin/fe-interview/issues/5087)
 - 第1138天 (2022-05-28)  
