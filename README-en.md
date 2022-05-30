@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.05.30) —— 1140 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [DOM节点至少包含哪些属性？](https://github.com/haizlin/fe-interview/issues/5088)  
+## :clock430: Today's Knowledge Points (2022.05.31) —— 1141 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个方法获取页面中所有类型的节点数](https://github.com/haizlin/fe-interview/issues/5089)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1139 days (2022.05.29)  
-    	 :one: [html] [如何获取元素中最后一个子节点？](https://github.com/haizlin/fe-interview/issues/5087)  
+- 1140 days (2022.05.30)  
+    	 :one: [html] [DOM节点至少包含哪些属性？](https://github.com/haizlin/fe-interview/issues/5088)  
  
 	
 - **[All](category/history.md)**

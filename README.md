@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.05.30) —— 第1140天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [DOM节点至少包含哪些属性？](https://github.com/haizlin/fe-interview/issues/5088)  
+## :clock430: 今天的知识点   (2022.05.31) —— 第1141天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个方法获取页面中所有类型的节点数](https://github.com/haizlin/fe-interview/issues/5089)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1139天 (2022.05.29)  
-    	 :one: [html] [如何获取元素中最后一个子节点？](https://github.com/haizlin/fe-interview/issues/5087)  
+- 第1140天 (2022.05.30)  
+    	 :one: [html] [DOM节点至少包含哪些属性？](https://github.com/haizlin/fe-interview/issues/5088)  
  
 	
 - **[查看全部](category/history.md)**
