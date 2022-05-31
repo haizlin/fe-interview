@@ -2,6 +2,8 @@
 
 
 
+- 第1142天 (2022-06-01)  
+    - [js] [如何获取元素的兄弟节点？](https://github.com/haizlin/fe-interview/issues/5090)
 - 第1141天 (2022-05-31)  
     - [js] [写一个方法获取页面中所有类型的节点数](https://github.com/haizlin/fe-interview/issues/5089)
 - 第1140天 (2022-05-30)  
