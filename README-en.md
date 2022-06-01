@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.01) —— 1142 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何获取元素的兄弟节点？](https://github.com/haizlin/fe-interview/issues/5090)  
+## :clock430: Today's Knowledge Points (2022.06.02) —— 1143 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法获取某个元素中所有class和id](https://github.com/haizlin/fe-interview/issues/5091)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1141 days (2022.05.31)  
-    	 :one: [js] [写一个方法获取页面中所有类型的节点数](https://github.com/haizlin/fe-interview/issues/5089)  
+- 1142 days (2022.06.01)  
+    	 :one: [js] [如何获取元素的兄弟节点？](https://github.com/haizlin/fe-interview/issues/5090)  
  
 	
 - **[All](category/history.md)**

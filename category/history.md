@@ -2,6 +2,8 @@
 
 
 
+- 第1143天 (2022-06-02)  
+    - [js] [使用js写一个方法获取某个元素中所有class和id](https://github.com/haizlin/fe-interview/issues/5091)
 - 第1142天 (2022-06-01)  
     - [js] [如何获取元素的兄弟节点？](https://github.com/haizlin/fe-interview/issues/5090)
 - 第1141天 (2022-05-31)  
