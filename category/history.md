@@ -2,6 +2,8 @@
 
 
 
+- 第1144天 (2022-06-03)  
+    - [html] [说说你对WebCodecs API的理解](https://github.com/haizlin/fe-interview/issues/5092)
 - 第1143天 (2022-06-02)  
     - [js] [使用js写一个方法获取某个元素中所有class和id](https://github.com/haizlin/fe-interview/issues/5091)
 - 第1142天 (2022-06-01)  

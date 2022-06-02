@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.02) —— 第1143天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法获取某个元素中所有class和id](https://github.com/haizlin/fe-interview/issues/5091)  
+## :clock430: 今天的知识点   (2022.06.03) —— 第1144天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对WebCodecs API的理解](https://github.com/haizlin/fe-interview/issues/5092)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1142天 (2022.06.01)  
-    	 :one: [js] [如何获取元素的兄弟节点？](https://github.com/haizlin/fe-interview/issues/5090)  
+- 第1143天 (2022.06.02)  
+    	 :one: [js] [使用js写一个方法获取某个元素中所有class和id](https://github.com/haizlin/fe-interview/issues/5091)  
  
 	
 - **[查看全部](category/history.md)**
