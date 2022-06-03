@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.03) —— 1144 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对WebCodecs API的理解](https://github.com/haizlin/fe-interview/issues/5092)  
+## :clock430: Today's Knowledge Points (2022.06.04) —— 1145 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [做性能优化时你是如何定位问题的？](https://github.com/haizlin/fe-interview/issues/5093)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1143 days (2022.06.02)  
-    	 :one: [js] [使用js写一个方法获取某个元素中所有class和id](https://github.com/haizlin/fe-interview/issues/5091)  
+- 1144 days (2022.06.03)  
+    	 :one: [html] [说说你对WebCodecs API的理解](https://github.com/haizlin/fe-interview/issues/5092)  
  
 	
 - **[All](category/history.md)**

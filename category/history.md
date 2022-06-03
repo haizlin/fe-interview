@@ -2,6 +2,8 @@
 
 
 
+- 第1145天 (2022-06-04)  
+    - [软技能] [做性能优化时你是如何定位问题的？](https://github.com/haizlin/fe-interview/issues/5093)
 - 第1144天 (2022-06-03)  
     - [html] [说说你对WebCodecs API的理解](https://github.com/haizlin/fe-interview/issues/5092)
 - 第1143天 (2022-06-02)  
