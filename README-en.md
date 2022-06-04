@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.04) —— 1145 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [做性能优化时你是如何定位问题的？](https://github.com/haizlin/fe-interview/issues/5093)  
+## :clock430: Today's Knowledge Points (2022.06.05) —— 1146 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [promise的then属于微任务还是宏任务？](https://github.com/haizlin/fe-interview/issues/5094)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1144 days (2022.06.03)  
-    	 :one: [html] [说说你对WebCodecs API的理解](https://github.com/haizlin/fe-interview/issues/5092)  
+- 1145 days (2022.06.04)  
+    	 :one: [skill] [做性能优化时你是如何定位问题的？](https://github.com/haizlin/fe-interview/issues/5093)  
  
 	
 - **[All](category/history.md)**

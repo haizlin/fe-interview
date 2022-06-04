@@ -2,6 +2,8 @@
 
 
 
+- 第1146天 (2022-06-05)  
+    - [js] [promise的then属于微任务还是宏任务？](https://github.com/haizlin/fe-interview/issues/5094)
 - 第1145天 (2022-06-04)  
     - [软技能] [做性能优化时你是如何定位问题的？](https://github.com/haizlin/fe-interview/issues/5093)
 - 第1144天 (2022-06-03)  

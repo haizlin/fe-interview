@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.04) —— 第1145天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [做性能优化时你是如何定位问题的？](https://github.com/haizlin/fe-interview/issues/5093)  
+## :clock430: 今天的知识点   (2022.06.05) —— 第1146天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [promise的then属于微任务还是宏任务？](https://github.com/haizlin/fe-interview/issues/5094)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1144天 (2022.06.03)  
-    	 :one: [html] [说说你对WebCodecs API的理解](https://github.com/haizlin/fe-interview/issues/5092)  
+- 第1145天 (2022.06.04)  
+    	 :one: [软技能] [做性能优化时你是如何定位问题的？](https://github.com/haizlin/fe-interview/issues/5093)  
  
 	
 - **[查看全部](category/history.md)**
