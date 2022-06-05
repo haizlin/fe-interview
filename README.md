@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.05) —— 第1146天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [promise的then属于微任务还是宏任务？](https://github.com/haizlin/fe-interview/issues/5094)  
+## :clock430: 今天的知识点   (2022.06.06) —— 第1147天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你了解广告的ECPM吗？](https://github.com/haizlin/fe-interview/issues/5095)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1145天 (2022.06.04)  
-    	 :one: [软技能] [做性能优化时你是如何定位问题的？](https://github.com/haizlin/fe-interview/issues/5093)  
+- 第1146天 (2022.06.05)  
+    	 :one: [js] [promise的then属于微任务还是宏任务？](https://github.com/haizlin/fe-interview/issues/5094)  
  
 	
 - **[查看全部](category/history.md)**
