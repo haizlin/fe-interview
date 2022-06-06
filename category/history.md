@@ -2,6 +2,8 @@
 
 
 
+- 第1148天 (2022-06-07)  
+    - [vue] [vue3快体现在哪些方面？](https://github.com/haizlin/fe-interview/issues/5096)
 - 第1147天 (2022-06-06)  
     - [软技能] [你了解广告的ECPM吗？](https://github.com/haizlin/fe-interview/issues/5095)
 - 第1146天 (2022-06-05)  
