@@ -2,6 +2,8 @@
 
 
 
+- 第1149天 (2022-06-08)  
+    - [vue] [在vue项目中如何获取页面的hash变化？](https://github.com/haizlin/fe-interview/issues/5097)
 - 第1148天 (2022-06-07)  
     - [vue] [vue3快体现在哪些方面？](https://github.com/haizlin/fe-interview/issues/5096)
 - 第1147天 (2022-06-06)  

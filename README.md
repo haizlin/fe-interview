@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.07) —— 第1148天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue3快体现在哪些方面？](https://github.com/haizlin/fe-interview/issues/5096)  
+## :clock430: 今天的知识点   (2022.06.08) —— 第1149天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue项目中如何获取页面的hash变化？](https://github.com/haizlin/fe-interview/issues/5097)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1147天 (2022.06.06)  
-    	 :one: [软技能] [你了解广告的ECPM吗？](https://github.com/haizlin/fe-interview/issues/5095)  
+- 第1148天 (2022.06.07)  
+    	 :one: [vue] [vue3快体现在哪些方面？](https://github.com/haizlin/fe-interview/issues/5096)  
  
 	
 - **[查看全部](category/history.md)**

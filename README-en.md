@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.07) —— 1148 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue3快体现在哪些方面？](https://github.com/haizlin/fe-interview/issues/5096)  
+## :clock430: Today's Knowledge Points (2022.06.08) —— 1149 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue项目中如何获取页面的hash变化？](https://github.com/haizlin/fe-interview/issues/5097)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1147 days (2022.06.06)  
-    	 :one: [skill] [你了解广告的ECPM吗？](https://github.com/haizlin/fe-interview/issues/5095)  
+- 1148 days (2022.06.07)  
+    	 :one: [vue] [vue3快体现在哪些方面？](https://github.com/haizlin/fe-interview/issues/5096)  
  
 	
 - **[All](category/history.md)**
