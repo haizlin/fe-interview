@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.08) —— 1149 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue项目中如何获取页面的hash变化？](https://github.com/haizlin/fe-interview/issues/5097)  
+## :clock430: Today's Knowledge Points (2022.06.09) —— 1150 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue-router的跳转与location.href有什么不同？](https://github.com/haizlin/fe-interview/issues/5098)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1148 days (2022.06.07)  
-    	 :one: [vue] [vue3快体现在哪些方面？](https://github.com/haizlin/fe-interview/issues/5096)  
+- 1149 days (2022.06.08)  
+    	 :one: [vue] [在vue项目中如何获取页面的hash变化？](https://github.com/haizlin/fe-interview/issues/5097)  
  
 	
 - **[All](category/history.md)**

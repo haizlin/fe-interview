@@ -2,6 +2,8 @@
 
 
 
+- 第1150天 (2022-06-09)  
+    - [vue] [vue-router的跳转与location.href有什么不同？](https://github.com/haizlin/fe-interview/issues/5098)
 - 第1149天 (2022-06-08)  
     - [vue] [在vue项目中如何获取页面的hash变化？](https://github.com/haizlin/fe-interview/issues/5097)
 - 第1148天 (2022-06-07)  
