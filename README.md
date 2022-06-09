@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.09) —— 第1150天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue-router的跳转与location.href有什么不同？](https://github.com/haizlin/fe-interview/issues/5098)  
+## :clock430: 今天的知识点   (2022.06.10) —— 第1151天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue3为什么会使用proxy？](https://github.com/haizlin/fe-interview/issues/5099)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1149天 (2022.06.08)  
-    	 :one: [vue] [在vue项目中如何获取页面的hash变化？](https://github.com/haizlin/fe-interview/issues/5097)  
+- 第1150天 (2022.06.09)  
+    	 :one: [vue] [vue-router的跳转与location.href有什么不同？](https://github.com/haizlin/fe-interview/issues/5098)  
  
 	
 - **[查看全部](category/history.md)**

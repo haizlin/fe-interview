@@ -2,6 +2,8 @@
 
 
 
+- 第1151天 (2022-06-10)  
+    - [vue] [vue3为什么会使用proxy？](https://github.com/haizlin/fe-interview/issues/5099)
 - 第1150天 (2022-06-09)  
     - [vue] [vue-router的跳转与location.href有什么不同？](https://github.com/haizlin/fe-interview/issues/5098)
 - 第1149天 (2022-06-08)  
