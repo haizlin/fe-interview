@@ -2,6 +2,8 @@
 
 
 
+- 第1152天 (2022-06-11)  
+    - [vue] [请描述下虚拟DOM的解析过程](https://github.com/haizlin/fe-interview/issues/5100)
 - 第1151天 (2022-06-10)  
     - [vue] [vue3为什么会使用proxy？](https://github.com/haizlin/fe-interview/issues/5099)
 - 第1150天 (2022-06-09)  
