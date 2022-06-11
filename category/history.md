@@ -2,6 +2,8 @@
 
 
 
+- 第1153天 (2022-06-12)  
+    - [vue] [你觉得虚拟DOM比真实DOM性能好吗？为什么？](https://github.com/haizlin/fe-interview/issues/5101)
 - 第1152天 (2022-06-11)  
     - [vue] [请描述下虚拟DOM的解析过程](https://github.com/haizlin/fe-interview/issues/5100)
 - 第1151天 (2022-06-10)  
