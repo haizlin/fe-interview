@@ -2,6 +2,8 @@
 
 
 
+- 第1154天 (2022-06-13)  
+    - [软技能] [请说说CDN的原理，它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5102)
 - 第1153天 (2022-06-12)  
     - [vue] [你觉得虚拟DOM比真实DOM性能好吗？为什么？](https://github.com/haizlin/fe-interview/issues/5101)
 - 第1152天 (2022-06-11)  

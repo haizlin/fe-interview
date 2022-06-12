@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.12) —— 第1153天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [你觉得虚拟DOM比真实DOM性能好吗？为什么？](https://github.com/haizlin/fe-interview/issues/5101)  
+## :clock430: 今天的知识点   (2022.06.13) —— 第1154天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说CDN的原理，它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5102)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1152天 (2022.06.11)  
-    	 :one: [vue] [请描述下虚拟DOM的解析过程](https://github.com/haizlin/fe-interview/issues/5100)  
+- 第1153天 (2022.06.12)  
+    	 :one: [vue] [你觉得虚拟DOM比真实DOM性能好吗？为什么？](https://github.com/haizlin/fe-interview/issues/5101)  
  
 	
 - **[查看全部](category/history.md)**
