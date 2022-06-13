@@ -2,6 +2,8 @@
 
 
 
+- 第1155天 (2022-06-14)  
+    - [js] [documentFragment是什么？它有什么好处？](https://github.com/haizlin/fe-interview/issues/5103)
 - 第1154天 (2022-06-13)  
     - [软技能] [请说说CDN的原理，它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5102)
 - 第1153天 (2022-06-12)  
