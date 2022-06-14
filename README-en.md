@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.14) —— 1155 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [documentFragment是什么？它有什么好处？](https://github.com/haizlin/fe-interview/issues/5103)  
+## :clock430: Today's Knowledge Points (2022.06.15) —— 1156 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [如何减少Webpack的打包体积？](https://github.com/haizlin/fe-interview/issues/5104)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1154 days (2022.06.13)  
-    	 :one: [skill] [请说说CDN的原理，它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5102)  
+- 1155 days (2022.06.14)  
+    	 :one: [js] [documentFragment是什么？它有什么好处？](https://github.com/haizlin/fe-interview/issues/5103)  
  
 	
 - **[All](category/history.md)**

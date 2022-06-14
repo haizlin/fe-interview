@@ -2,6 +2,8 @@
 
 
 
+- 第1156天 (2022-06-15)  
+    - [webpack] [如何减少Webpack的打包体积？](https://github.com/haizlin/fe-interview/issues/5104)
 - 第1155天 (2022-06-14)  
     - [js] [documentFragment是什么？它有什么好处？](https://github.com/haizlin/fe-interview/issues/5103)
 - 第1154天 (2022-06-13)  

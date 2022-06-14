@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.14) —— 第1155天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [documentFragment是什么？它有什么好处？](https://github.com/haizlin/fe-interview/issues/5103)  
+## :clock430: 今天的知识点   (2022.06.15) —— 第1156天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [如何减少Webpack的打包体积？](https://github.com/haizlin/fe-interview/issues/5104)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1154天 (2022.06.13)  
-    	 :one: [软技能] [请说说CDN的原理，它有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5102)  
+- 第1155天 (2022.06.14)  
+    	 :one: [js] [documentFragment是什么？它有什么好处？](https://github.com/haizlin/fe-interview/issues/5103)  
  
 	
 - **[查看全部](category/history.md)**
