@@ -2,6 +2,8 @@
 
 
 
+- 第1157天 (2022-06-16)  
+    - [css] [说说你对css中属性pause的理解](https://github.com/haizlin/fe-interview/issues/5105)
 - 第1156天 (2022-06-15)  
     - [webpack] [如何减少Webpack的打包体积？](https://github.com/haizlin/fe-interview/issues/5104)
 - 第1155天 (2022-06-14)  
