@@ -2,6 +2,8 @@
 
 
 
+- 第1159天 (2022-06-18)  
+    - [css] [说说你对css中属性pause-after的理解](https://github.com/haizlin/fe-interview/issues/5107)
 - 第1158天 (2022-06-17)  
     - [css] [说说你对css中属性pause-before的理解](https://github.com/haizlin/fe-interview/issues/5106)
 - 第1157天 (2022-06-16)  
