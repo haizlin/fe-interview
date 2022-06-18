@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.18) —— 1159 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中属性pause-after的理解](https://github.com/haizlin/fe-interview/issues/5107)  
+## :clock430: Today's Knowledge Points (2022.06.19) —— 1160 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中属性cue的理解](https://github.com/haizlin/fe-interview/issues/5108)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1158 days (2022.06.17)  
-    	 :one: [css] [说说你对css中属性pause-before的理解](https://github.com/haizlin/fe-interview/issues/5106)  
+- 1159 days (2022.06.18)  
+    	 :one: [css] [说说你对css中属性pause-after的理解](https://github.com/haizlin/fe-interview/issues/5107)  
  
 	
 - **[All](category/history.md)**
