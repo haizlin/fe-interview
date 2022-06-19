@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.19) —— 第1160天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中属性cue的理解](https://github.com/haizlin/fe-interview/issues/5108)  
+## :clock430: 今天的知识点   (2022.06.20) —— 第1161天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中属性cue-before的理解](https://github.com/haizlin/fe-interview/issues/5109)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1159天 (2022.06.18)  
-    	 :one: [css] [说说你对css中属性pause-after的理解](https://github.com/haizlin/fe-interview/issues/5107)  
+- 第1160天 (2022.06.19)  
+    	 :one: [css] [说说你对css中属性cue的理解](https://github.com/haizlin/fe-interview/issues/5108)  
  
 	
 - **[查看全部](category/history.md)**
