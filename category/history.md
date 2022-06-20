@@ -2,6 +2,8 @@
 
 
 
+- 第1162天 (2022-06-21)  
+    - [css] [说说你对css中属性cue-after的理解](https://github.com/haizlin/fe-interview/issues/5110)
 - 第1161天 (2022-06-20)  
     - [css] [说说你对css中属性cue-before的理解](https://github.com/haizlin/fe-interview/issues/5109)
 - 第1160天 (2022-06-19)  
