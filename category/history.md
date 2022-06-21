@@ -2,6 +2,8 @@
 
 
 
+- 第1163天 (2022-06-22)  
+    - [css] [说说你对css中属性play-during的理解](https://github.com/haizlin/fe-interview/issues/5111)
 - 第1162天 (2022-06-21)  
     - [css] [说说你对css中属性cue-after的理解](https://github.com/haizlin/fe-interview/issues/5110)
 - 第1161天 (2022-06-20)  
