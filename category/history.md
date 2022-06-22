@@ -2,6 +2,8 @@
 
 
 
+- 第1164天 (2022-06-23)  
+    - [css] [说说你对css中属性list-style-image的理解](https://github.com/haizlin/fe-interview/issues/5112)
 - 第1163天 (2022-06-22)  
     - [css] [说说你对css中属性play-during的理解](https://github.com/haizlin/fe-interview/issues/5111)
 - 第1162天 (2022-06-21)  
