@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.24) —— 1165 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中属性list-style-type的理解](https://github.com/haizlin/fe-interview/issues/5113)  
+## :clock430: Today's Knowledge Points (2022.06.25) —— 1166 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue-router如何实现懒加载？](https://github.com/haizlin/fe-interview/issues/5114)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1164 days (2022.06.23)  
-    	 :one: [css] [说说你对css中属性list-style-image的理解](https://github.com/haizlin/fe-interview/issues/5112)  
+- 1165 days (2022.06.24)  
+    	 :one: [css] [说说你对css中属性list-style-type的理解](https://github.com/haizlin/fe-interview/issues/5113)  
  
 	
 - **[All](category/history.md)**

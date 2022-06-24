@@ -2,6 +2,8 @@
 
 
 
+- 第1166天 (2022-06-25)  
+    - [vue] [vue-router如何实现懒加载？](https://github.com/haizlin/fe-interview/issues/5114)
 - 第1165天 (2022-06-24)  
     - [css] [说说你对css中属性list-style-type的理解](https://github.com/haizlin/fe-interview/issues/5113)
 - 第1164天 (2022-06-23)  
