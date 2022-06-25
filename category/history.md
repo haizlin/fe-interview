@@ -2,6 +2,8 @@
 
 
 
+- 第1167天 (2022-06-26)  
+    - [软技能] [有哪些操作可能会引起前端安全的问题？](https://github.com/haizlin/fe-interview/issues/5115)
 - 第1166天 (2022-06-25)  
     - [vue] [vue-router如何实现懒加载？](https://github.com/haizlin/fe-interview/issues/5114)
 - 第1165天 (2022-06-24)  
