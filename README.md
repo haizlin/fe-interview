@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.26) —— 第1167天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [有哪些操作可能会引起前端安全的问题？](https://github.com/haizlin/fe-interview/issues/5115)  
+## :clock430: 今天的知识点   (2022.06.27) —— 第1168天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [浏览器渲染进程的线程有哪些？](https://github.com/haizlin/fe-interview/issues/5116)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1166天 (2022.06.25)  
-    	 :one: [vue] [vue-router如何实现懒加载？](https://github.com/haizlin/fe-interview/issues/5114)  
+- 第1167天 (2022.06.26)  
+    	 :one: [软技能] [有哪些操作可能会引起前端安全的问题？](https://github.com/haizlin/fe-interview/issues/5115)  
  
 	
 - **[查看全部](category/history.md)**

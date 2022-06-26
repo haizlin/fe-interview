@@ -2,6 +2,8 @@
 
 
 
+- 第1168天 (2022-06-27)  
+    - [软技能] [浏览器渲染进程的线程有哪些？](https://github.com/haizlin/fe-interview/issues/5116)
 - 第1167天 (2022-06-26)  
     - [软技能] [有哪些操作可能会引起前端安全的问题？](https://github.com/haizlin/fe-interview/issues/5115)
 - 第1166天 (2022-06-25)  
