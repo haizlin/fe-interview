@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.27) —— 1168 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [浏览器渲染进程的线程有哪些？](https://github.com/haizlin/fe-interview/issues/5116)  
+## :clock430: Today's Knowledge Points (2022.06.28) —— 1169 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [切换标签或页面后，setInterval还会执行吗？为什么？](https://github.com/haizlin/fe-interview/issues/5117)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1167 days (2022.06.26)  
-    	 :one: [skill] [有哪些操作可能会引起前端安全的问题？](https://github.com/haizlin/fe-interview/issues/5115)  
+- 1168 days (2022.06.27)  
+    	 :one: [skill] [浏览器渲染进程的线程有哪些？](https://github.com/haizlin/fe-interview/issues/5116)  
  
 	
 - **[All](category/history.md)**
