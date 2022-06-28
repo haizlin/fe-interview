@@ -2,6 +2,8 @@
 
 
 
+- 第1170天 (2022-06-29)  
+    - [js] [如果在切换页面后，让setInterval也准？](https://github.com/haizlin/fe-interview/issues/5119)
 - 第1169天 (2022-06-28)  
     - [js] [切换标签或页面后，setInterval还会执行吗？为什么？](https://github.com/haizlin/fe-interview/issues/5117)
 - 第1168天 (2022-06-27)  

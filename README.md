@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.06.28) —— 第1169天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [切换标签或页面后，setInterval还会执行吗？为什么？](https://github.com/haizlin/fe-interview/issues/5117)  
+## :clock430: 今天的知识点   (2022.06.29) —— 第1170天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如果在切换页面后，让setInterval也准？](https://github.com/haizlin/fe-interview/issues/5119)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1168天 (2022.06.27)  
-    	 :one: [软技能] [浏览器渲染进程的线程有哪些？](https://github.com/haizlin/fe-interview/issues/5116)  
+- 第1169天 (2022.06.28)  
+    	 :one: [js] [切换标签或页面后，setInterval还会执行吗？为什么？](https://github.com/haizlin/fe-interview/issues/5117)  
  
 	
 - **[查看全部](category/history.md)**
