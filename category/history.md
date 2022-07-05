@@ -2,8 +2,22 @@
 
 
 
+- 第1177天 (2022-07-06)  
+    - [软技能] [你使用过Wireshark抓包工具吗？](https://github.com/haizlin/fe-interview/issues/5129)
+- 第1176天 (2022-07-05)  
+    - [css] [使用CSS实现一个抛物线小球动画](https://github.com/haizlin/fe-interview/issues/5128)
+- 第1175天 (2022-07-04)  
+    - [js] [在touchmove中使用e.preventDefault()不生效如何解决？](https://github.com/haizlin/fe-interview/issues/5127)
+- 第1174天 (2022-07-03)  
+    - [js] [你知道vite的原理是什么吗？](https://github.com/haizlin/fe-interview/issues/5126)
+- 第1173天 (2022-07-02)  
+    - [js] [vite快在哪？它有什么优缺点？](https://github.com/haizlin/fe-interview/issues/5125)
+- 第1172天 (2022-07-01)  
+    - [软技能] [有哪些情况会阻塞渲染？](https://github.com/haizlin/fe-interview/issues/5124)
+- 第1171天 (2022-06-30)  
+    - [软技能] [为什么需要浏览器缓存？](https://github.com/haizlin/fe-interview/issues/5123)
 - 第1170天 (2022-06-29)  
-    - [js] [如果在切换页面后，让setInterval也准？](https://github.com/haizlin/fe-interview/issues/5119)
+    - [js] [如何在切换页面后，让setInterval也准？](https://github.com/haizlin/fe-interview/issues/5119)
 - 第1169天 (2022-06-28)  
     - [js] [切换标签或页面后，setInterval还会执行吗？为什么？](https://github.com/haizlin/fe-interview/issues/5117)
 - 第1168天 (2022-06-27)  

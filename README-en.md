@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.29) —— 1170 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如果在切换页面后，让setInterval也准？](https://github.com/haizlin/fe-interview/issues/5119)  
+## :clock430: Today's Knowledge Points (2022.07.06) —— 1177 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你使用过Wireshark抓包工具吗？](https://github.com/haizlin/fe-interview/issues/5129)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1169 days (2022.06.28)  
-    	 :one: [js] [切换标签或页面后，setInterval还会执行吗？为什么？](https://github.com/haizlin/fe-interview/issues/5117)  
+- 1176 days (2022.07.05)  
+    	 :one: [css] [使用CSS实现一个抛物线小球动画](https://github.com/haizlin/fe-interview/issues/5128)  
  
 	
 - **[All](category/history.md)**
