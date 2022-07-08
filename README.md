@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.07.08) —— 第1179天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对SSH的理解](https://github.com/haizlin/fe-interview/issues/5132)  
+## :clock430: 今天的知识点   (2022.07.09) —— 第1180天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法将12小时制与24小时制相互转换](https://github.com/haizlin/fe-interview/issues/5134)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1178天 (2022.07.07)  
-    	 :one: [软技能] [说说你对RTMP协议的了解](https://github.com/haizlin/fe-interview/issues/5131)  
+- 第1179天 (2022.07.08)  
+    	 :one: [软技能] [说说你对SSH的理解](https://github.com/haizlin/fe-interview/issues/5132)  
  
 	
 - **[查看全部](category/history.md)**

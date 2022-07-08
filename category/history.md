@@ -2,6 +2,8 @@
 
 
 
+- 第1180天 (2022-07-09)  
+    - [js] [使用js写一个方法将12小时制与24小时制相互转换](https://github.com/haizlin/fe-interview/issues/5134)
 - 第1179天 (2022-07-08)  
     - [软技能] [说说你对SSH的理解](https://github.com/haizlin/fe-interview/issues/5132)
 - 第1178天 (2022-07-07)  
