@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.07.09) —— 1180 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法将12小时制与24小时制相互转换](https://github.com/haizlin/fe-interview/issues/5134)  
+## :clock430: Today's Knowledge Points (2022.07.10) —— 1181 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法对数组的元素进行复制多次](https://github.com/haizlin/fe-interview/issues/5135)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1179 days (2022.07.08)  
-    	 :one: [skill] [说说你对SSH的理解](https://github.com/haizlin/fe-interview/issues/5132)  
+- 1180 days (2022.07.09)  
+    	 :one: [js] [使用js写一个方法将12小时制与24小时制相互转换](https://github.com/haizlin/fe-interview/issues/5134)  
  
 	
 - **[All](category/history.md)**

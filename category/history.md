@@ -2,6 +2,8 @@
 
 
 
+- 第1181天 (2022-07-10)  
+    - [js] [使用js写一个方法对数组的元素进行复制多次](https://github.com/haizlin/fe-interview/issues/5135)
 - 第1180天 (2022-07-09)  
     - [js] [使用js写一个方法将12小时制与24小时制相互转换](https://github.com/haizlin/fe-interview/issues/5134)
 - 第1179天 (2022-07-08)  
