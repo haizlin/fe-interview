@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.07.11) —— 1182 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js实现希尔排序](https://github.com/haizlin/fe-interview/issues/5136)  
+## :clock430: Today's Knowledge Points (2022.07.12) —— 1183 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [ES6的解构赋值时如何设置默认值？](https://github.com/haizlin/fe-interview/issues/5137)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1181 days (2022.07.10)  
-    	 :one: [js] [使用js写一个方法对数组的元素进行复制多次](https://github.com/haizlin/fe-interview/issues/5135)  
+- 1182 days (2022.07.11)  
+    	 :one: [js] [使用js实现希尔排序](https://github.com/haizlin/fe-interview/issues/5136)  
  
 	
 - **[All](category/history.md)**

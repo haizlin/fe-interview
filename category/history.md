@@ -2,6 +2,8 @@
 
 
 
+- 第1183天 (2022-07-12)  
+    - [ECMAScript] [ES6的解构赋值时如何设置默认值？](https://github.com/haizlin/fe-interview/issues/5137)
 - 第1182天 (2022-07-11)  
     - [js] [使用js实现希尔排序](https://github.com/haizlin/fe-interview/issues/5136)
 - 第1181天 (2022-07-10)  
