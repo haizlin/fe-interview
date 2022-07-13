@@ -41,6 +41,7 @@
 
 
 ## :clock430: 今天的知识点   (2022.07.13) —— 第1184天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对云开发的理解](https://github.com/haizlin/fe-interview/issues/5138)  
  
   
 ### :camel: 历史题目
