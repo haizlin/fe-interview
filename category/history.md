@@ -2,6 +2,8 @@
 
 
 
+- 第1186天 (2022-07-15)  
+    - [软技能] [在什么场合下使用装饰器模式比较合适？](https://github.com/haizlin/fe-interview/issues/5140)
 - 第1185天 (2022-07-14)  
     - [软技能] [你使用过Graphql吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/5139)
 - 第1184天 (2022-07-13)  
