@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.07.15) —— 1186 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [在什么场合下使用装饰器模式比较合适？](https://github.com/haizlin/fe-interview/issues/5140)  
+## :clock430: Today's Knowledge Points (2022.07.16) —— 1187 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说微信小程序的授权登录流程](https://github.com/haizlin/fe-interview/issues/5141)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1185 days (2022.07.14)  
-    	 :one: [skill] [你使用过Graphql吗？说说你对它的理解](https://github.com/haizlin/fe-interview/issues/5139)  
+- 1186 days (2022.07.15)  
+    	 :one: [skill] [在什么场合下使用装饰器模式比较合适？](https://github.com/haizlin/fe-interview/issues/5140)  
  
 	
 - **[All](category/history.md)**

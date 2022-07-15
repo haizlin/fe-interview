@@ -2,6 +2,8 @@
 
 
 
+- 第1187天 (2022-07-16)  
+    - [小程序] [请说说微信小程序的授权登录流程](https://github.com/haizlin/fe-interview/issues/5141)
 - 第1186天 (2022-07-15)  
     - [软技能] [在什么场合下使用装饰器模式比较合适？](https://github.com/haizlin/fe-interview/issues/5140)
 - 第1185天 (2022-07-14)  
