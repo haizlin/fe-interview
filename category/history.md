@@ -2,6 +2,8 @@
 
 
 
+- 第1188天 (2022-07-17)  
+    - [小程序] [请说说小程序的发布流程及注意事项有哪些](https://github.com/haizlin/fe-interview/issues/5142)
 - 第1187天 (2022-07-16)  
     - [小程序] [请说说微信小程序的授权登录流程](https://github.com/haizlin/fe-interview/issues/5141)
 - 第1186天 (2022-07-15)  
