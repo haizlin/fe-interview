@@ -2,6 +2,8 @@
 
 
 
+- 第1190天 (2022-07-19)  
+    - [js] [在js内部的sort方法用的是什么排序？](https://github.com/haizlin/fe-interview/issues/5144)
 - 第1189天 (2022-07-18)  
     - [小程序] [请说说微信小程序的支付流程有哪些](https://github.com/haizlin/fe-interview/issues/5143)
 - 第1188天 (2022-07-17)  
