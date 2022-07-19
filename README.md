@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.07.19) —— 第1190天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js内部的sort方法用的是什么排序？](https://github.com/haizlin/fe-interview/issues/5144)  
+## :clock430: 今天的知识点   (2022.07.20) —— 第1191天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说webpack的模块加载原理](https://github.com/haizlin/fe-interview/issues/5145)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1189天 (2022.07.18)  
-    	 :one: [小程序] [请说说微信小程序的支付流程有哪些](https://github.com/haizlin/fe-interview/issues/5143)  
+- 第1190天 (2022.07.19)  
+    	 :one: [js] [在js内部的sort方法用的是什么排序？](https://github.com/haizlin/fe-interview/issues/5144)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1191天 (2022-07-20)  
+    - [软技能] [请说说webpack的模块加载原理](https://github.com/haizlin/fe-interview/issues/5145)
 - 第1190天 (2022-07-19)  
     - [js] [在js内部的sort方法用的是什么排序？](https://github.com/haizlin/fe-interview/issues/5144)
 - 第1189天 (2022-07-18)  

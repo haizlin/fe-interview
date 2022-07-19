@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.07.19) —— 1190 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js内部的sort方法用的是什么排序？](https://github.com/haizlin/fe-interview/issues/5144)  
+## :clock430: Today's Knowledge Points (2022.07.20) —— 1191 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说webpack的模块加载原理](https://github.com/haizlin/fe-interview/issues/5145)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1189 days (2022.07.18)  
-    	 :one: [小程序] [请说说微信小程序的支付流程有哪些](https://github.com/haizlin/fe-interview/issues/5143)  
+- 1190 days (2022.07.19)  
+    	 :one: [js] [在js内部的sort方法用的是什么排序？](https://github.com/haizlin/fe-interview/issues/5144)  
  
 	
 - **[All](category/history.md)**
