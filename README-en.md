@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.07.21) —— 1192 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说webpack的热更新原理](https://github.com/haizlin/fe-interview/issues/5146)  
+## :clock430: Today's Knowledge Points (2022.07.22) —— 1193 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你有没有遇到过线上的事故？讲讲当时的情况](https://github.com/haizlin/fe-interview/issues/5147)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1191 days (2022.07.20)  
-    	 :one: [skill] [请说说webpack的模块加载原理](https://github.com/haizlin/fe-interview/issues/5145)  
+- 1192 days (2022.07.21)  
+    	 :one: [skill] [请说说webpack的热更新原理](https://github.com/haizlin/fe-interview/issues/5146)  
  
 	
 - **[All](category/history.md)**

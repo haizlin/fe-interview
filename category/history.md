@@ -2,6 +2,8 @@
 
 
 
+- 第1193天 (2022-07-22)  
+    - [软技能] [说说你有没有遇到过线上的事故？讲讲当时的情况](https://github.com/haizlin/fe-interview/issues/5147)
 - 第1192天 (2022-07-21)  
     - [软技能] [请说说webpack的热更新原理](https://github.com/haizlin/fe-interview/issues/5146)
 - 第1191天 (2022-07-20)  
