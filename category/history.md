@@ -2,6 +2,8 @@
 
 
 
+- 第1194天 (2022-07-23)  
+    - [webpack] [谈谈你对组件库的打包的理解](https://github.com/haizlin/fe-interview/issues/5148)
 - 第1193天 (2022-07-22)  
     - [软技能] [说说你有没有遇到过线上的事故？讲讲当时的情况](https://github.com/haizlin/fe-interview/issues/5147)
 - 第1192天 (2022-07-21)  

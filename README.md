@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.07.22) —— 第1193天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你有没有遇到过线上的事故？讲讲当时的情况](https://github.com/haizlin/fe-interview/issues/5147)  
+## :clock430: 今天的知识点   (2022.07.23) —— 第1194天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [谈谈你对组件库的打包的理解](https://github.com/haizlin/fe-interview/issues/5148)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1192天 (2022.07.21)  
-    	 :one: [软技能] [请说说webpack的热更新原理](https://github.com/haizlin/fe-interview/issues/5146)  
+- 第1193天 (2022.07.22)  
+    	 :one: [软技能] [说说你有没有遇到过线上的事故？讲讲当时的情况](https://github.com/haizlin/fe-interview/issues/5147)  
  
 	
 - **[查看全部](category/history.md)**
