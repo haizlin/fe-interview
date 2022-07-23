@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.07.23) —— 1194 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [谈谈你对组件库的打包的理解](https://github.com/haizlin/fe-interview/issues/5148)  
+## :clock430: Today's Knowledge Points (2022.07.24) —— 1195 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写个方法对数组进行一分部翻转](https://github.com/haizlin/fe-interview/issues/5149)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1193 days (2022.07.22)  
-    	 :one: [skill] [说说你有没有遇到过线上的事故？讲讲当时的情况](https://github.com/haizlin/fe-interview/issues/5147)  
+- 1194 days (2022.07.23)  
+    	 :one: [webpack] [谈谈你对组件库的打包的理解](https://github.com/haizlin/fe-interview/issues/5148)  
  
 	
 - **[All](category/history.md)**

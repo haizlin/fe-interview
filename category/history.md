@@ -2,6 +2,8 @@
 
 
 
+- 第1195天 (2022-07-24)  
+    - [js] [使用js写个方法对数组进行一分部翻转](https://github.com/haizlin/fe-interview/issues/5149)
 - 第1194天 (2022-07-23)  
     - [webpack] [谈谈你对组件库的打包的理解](https://github.com/haizlin/fe-interview/issues/5148)
 - 第1193天 (2022-07-22)  
