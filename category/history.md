@@ -2,6 +2,8 @@
 
 
 
+- 第1198天 (2022-07-27)  
+    - [NodeJs] [说说你对NodeJs中Buffer的理解？](https://github.com/haizlin/fe-interview/issues/5152)
 - 第1197天 (2022-07-26)  
     - [NodeJs] [说说你对NodeJs中事件循环的理解？](https://github.com/haizlin/fe-interview/issues/5151)
 - 第1196天 (2022-07-25)  

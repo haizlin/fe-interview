@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.07.26) —— 1197 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [说说你对NodeJs中事件循环的理解？](https://github.com/haizlin/fe-interview/issues/5151)  
+## :clock430: Today's Knowledge Points (2022.07.27) —— 1198 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [说说你对NodeJs中Buffer的理解？](https://github.com/haizlin/fe-interview/issues/5152)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1196 days (2022.07.25)  
-    	 :one: [NodeJs] [说说你对NodeJs中Stream的理解？](https://github.com/haizlin/fe-interview/issues/5150)  
+- 1197 days (2022.07.26)  
+    	 :one: [NodeJs] [说说你对NodeJs中事件循环的理解？](https://github.com/haizlin/fe-interview/issues/5151)  
  
 	
 - **[All](category/history.md)**
