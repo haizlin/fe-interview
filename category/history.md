@@ -2,6 +2,8 @@
 
 
 
+- 第1203天 (2022-08-01)  
+    - [NodeJs] [开发Nodejs时你是如何调试程序的？](https://github.com/haizlin/fe-interview/issues/5157)
 - 第1202天 (2022-07-31)  
     - [NodeJs] [Nodejs的网络模块都有几个？](https://github.com/haizlin/fe-interview/issues/5156)
 - 第1201天 (2022-07-30)  
