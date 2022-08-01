@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.08.01) —— 第1203天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [开发Nodejs时你是如何调试程序的？](https://github.com/haizlin/fe-interview/issues/5157)  
+## :clock430: 今天的知识点   (2022.08.02) —— 第1204天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中可以使用多核处理器吗？](https://github.com/haizlin/fe-interview/issues/5158)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1202天 (2022.07.31)  
-    	 :one: [NodeJs] [Nodejs的网络模块都有几个？](https://github.com/haizlin/fe-interview/issues/5156)  
+- 第1203天 (2022.08.01)  
+    	 :one: [NodeJs] [开发Nodejs时你是如何调试程序的？](https://github.com/haizlin/fe-interview/issues/5157)  
  
 	
 - **[查看全部](category/history.md)**

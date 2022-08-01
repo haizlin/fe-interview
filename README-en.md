@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.01) —— 1203 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [开发Nodejs时你是如何调试程序的？](https://github.com/haizlin/fe-interview/issues/5157)  
+## :clock430: Today's Knowledge Points (2022.08.02) —— 1204 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中可以使用多核处理器吗？](https://github.com/haizlin/fe-interview/issues/5158)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1202 days (2022.07.31)  
-    	 :one: [NodeJs] [Nodejs的网络模块都有几个？](https://github.com/haizlin/fe-interview/issues/5156)  
+- 1203 days (2022.08.01)  
+    	 :one: [NodeJs] [开发Nodejs时你是如何调试程序的？](https://github.com/haizlin/fe-interview/issues/5157)  
  
 	
 - **[All](category/history.md)**

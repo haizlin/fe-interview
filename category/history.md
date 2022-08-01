@@ -2,6 +2,8 @@
 
 
 
+- 第1204天 (2022-08-02)  
+    - [NodeJs] [在Nodejs中可以使用多核处理器吗？](https://github.com/haizlin/fe-interview/issues/5158)
 - 第1203天 (2022-08-01)  
     - [NodeJs] [开发Nodejs时你是如何调试程序的？](https://github.com/haizlin/fe-interview/issues/5157)
 - 第1202天 (2022-07-31)  
