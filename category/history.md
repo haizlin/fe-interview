@@ -2,6 +2,8 @@
 
 
 
+- 第1205天 (2022-08-03)  
+    - [NodeJs] [Nodejs中process有哪些常用方法？](https://github.com/haizlin/fe-interview/issues/5159)
 - 第1204天 (2022-08-02)  
     - [NodeJs] [在Nodejs中可以使用多核处理器吗？](https://github.com/haizlin/fe-interview/issues/5158)
 - 第1203天 (2022-08-01)  
