@@ -2,6 +2,8 @@
 
 
 
+- 第1208天 (2022-08-06)  
+    - [NodeJs] [请说说你对在Nodejs中EventEmitter的理解](https://github.com/haizlin/fe-interview/issues/5162)
 - 第1207天 (2022-08-05)  
     - [NodeJs] [Nodejs是如何导入模块和文件的？](https://github.com/haizlin/fe-interview/issues/5161)
 - 第1206天 (2022-08-04)  
