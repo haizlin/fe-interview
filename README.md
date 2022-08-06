@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.08.06) —— 第1208天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说你对在Nodejs中EventEmitter的理解](https://github.com/haizlin/fe-interview/issues/5162)  
+## :clock430: 今天的知识点   (2022.08.07) —— 第1209天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中如何实现一个EventEmitter？](https://github.com/haizlin/fe-interview/issues/5163)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1207天 (2022.08.05)  
-    	 :one: [NodeJs] [Nodejs是如何导入模块和文件的？](https://github.com/haizlin/fe-interview/issues/5161)  
+- 第1208天 (2022.08.06)  
+    	 :one: [NodeJs] [请说说你对在Nodejs中EventEmitter的理解](https://github.com/haizlin/fe-interview/issues/5162)  
  
 	
 - **[查看全部](category/history.md)**

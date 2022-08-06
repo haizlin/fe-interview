@@ -2,6 +2,8 @@
 
 
 
+- 第1209天 (2022-08-07)  
+    - [NodeJs] [在Nodejs中如何实现一个EventEmitter？](https://github.com/haizlin/fe-interview/issues/5163)
 - 第1208天 (2022-08-06)  
     - [NodeJs] [请说说你对在Nodejs中EventEmitter的理解](https://github.com/haizlin/fe-interview/issues/5162)
 - 第1207天 (2022-08-05)  
