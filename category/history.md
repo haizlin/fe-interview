@@ -2,6 +2,8 @@
 
 
 
+- 第1210天 (2022-08-08)  
+    - [NodeJs] [请说说在Nodejs中写入文件的流程及注意事项](https://github.com/haizlin/fe-interview/issues/5164)
 - 第1209天 (2022-08-07)  
     - [NodeJs] [在Nodejs中如何实现一个EventEmitter？](https://github.com/haizlin/fe-interview/issues/5163)
 - 第1208天 (2022-08-06)  

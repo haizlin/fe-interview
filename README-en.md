@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.07) —— 1209 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中如何实现一个EventEmitter？](https://github.com/haizlin/fe-interview/issues/5163)  
+## :clock430: Today's Knowledge Points (2022.08.08) —— 1210 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说在Nodejs中写入文件的流程及注意事项](https://github.com/haizlin/fe-interview/issues/5164)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1208 days (2022.08.06)  
-    	 :one: [NodeJs] [请说说你对在Nodejs中EventEmitter的理解](https://github.com/haizlin/fe-interview/issues/5162)  
+- 1209 days (2022.08.07)  
+    	 :one: [NodeJs] [在Nodejs中如何实现一个EventEmitter？](https://github.com/haizlin/fe-interview/issues/5163)  
  
 	
 - **[All](category/history.md)**
