@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.08.08) —— 第1210天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说在Nodejs中写入文件的流程及注意事项](https://github.com/haizlin/fe-interview/issues/5164)  
+## :clock430: 今天的知识点   (2022.08.09) —— 第1211天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中读写文件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5165)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1209天 (2022.08.07)  
-    	 :one: [NodeJs] [在Nodejs中如何实现一个EventEmitter？](https://github.com/haizlin/fe-interview/issues/5163)  
+- 第1210天 (2022.08.08)  
+    	 :one: [NodeJs] [请说说在Nodejs中写入文件的流程及注意事项](https://github.com/haizlin/fe-interview/issues/5164)  
  
 	
 - **[查看全部](category/history.md)**

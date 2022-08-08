@@ -2,6 +2,8 @@
 
 
 
+- 第1211天 (2022-08-09)  
+    - [NodeJs] [在Nodejs中读写文件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5165)
 - 第1210天 (2022-08-08)  
     - [NodeJs] [请说说在Nodejs中写入文件的流程及注意事项](https://github.com/haizlin/fe-interview/issues/5164)
 - 第1209天 (2022-08-07)  
