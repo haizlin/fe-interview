@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.09) —— 1211 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中读写文件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5165)  
+## :clock430: Today's Knowledge Points (2022.08.10) —— 1212 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中如何捕获流的错误事件？](https://github.com/haizlin/fe-interview/issues/5166)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1210 days (2022.08.08)  
-    	 :one: [NodeJs] [请说说在Nodejs中写入文件的流程及注意事项](https://github.com/haizlin/fe-interview/issues/5164)  
+- 1211 days (2022.08.09)  
+    	 :one: [NodeJs] [在Nodejs中读写文件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5165)  
  
 	
 - **[All](category/history.md)**

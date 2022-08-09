@@ -2,6 +2,8 @@
 
 
 
+- 第1212天 (2022-08-10)  
+    - [NodeJs] [在Nodejs中如何捕获流的错误事件？](https://github.com/haizlin/fe-interview/issues/5166)
 - 第1211天 (2022-08-09)  
     - [NodeJs] [在Nodejs中读写文件的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5165)
 - 第1210天 (2022-08-08)  
