@@ -2,6 +2,8 @@
 
 
 
+- 第1214天 (2022-08-12)  
+    - [NodeJs] [在Nodejs中是怎样克服I/O操作阻塞？](https://github.com/haizlin/fe-interview/issues/5168)
 - 第1213天 (2022-08-11)  
     - [NodeJs] [在Nodejs中为什么需要子进程？](https://github.com/haizlin/fe-interview/issues/5167)
 - 第1212天 (2022-08-10)  

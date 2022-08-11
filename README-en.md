@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.11) —— 1213 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中为什么需要子进程？](https://github.com/haizlin/fe-interview/issues/5167)  
+## :clock430: Today's Knowledge Points (2022.08.12) —— 1214 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中是怎样克服I/O操作阻塞？](https://github.com/haizlin/fe-interview/issues/5168)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1212 days (2022.08.10)  
-    	 :one: [NodeJs] [在Nodejs中如何捕获流的错误事件？](https://github.com/haizlin/fe-interview/issues/5166)  
+- 1213 days (2022.08.11)  
+    	 :one: [NodeJs] [在Nodejs中为什么需要子进程？](https://github.com/haizlin/fe-interview/issues/5167)  
  
 	
 - **[All](category/history.md)**
