@@ -2,6 +2,8 @@
 
 
 
+- 第1216天 (2022-08-14)  
+    - [NodeJs] [Nodejs和Go你比较喜欢哪一个？为什么？](https://github.com/haizlin/fe-interview/issues/5170)
 - 第1215天 (2022-08-13)  
     - [NodeJs] [在Nodejs中如何处理并发？](https://github.com/haizlin/fe-interview/issues/5169)
 - 第1214天 (2022-08-12)  

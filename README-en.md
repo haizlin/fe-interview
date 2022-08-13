@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.13) —— 1215 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中如何处理并发？](https://github.com/haizlin/fe-interview/issues/5169)  
+## :clock430: Today's Knowledge Points (2022.08.14) —— 1216 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs和Go你比较喜欢哪一个？为什么？](https://github.com/haizlin/fe-interview/issues/5170)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1214 days (2022.08.12)  
-    	 :one: [NodeJs] [在Nodejs中是怎样克服I/O操作阻塞？](https://github.com/haizlin/fe-interview/issues/5168)  
+- 1215 days (2022.08.13)  
+    	 :one: [NodeJs] [在Nodejs中如何处理并发？](https://github.com/haizlin/fe-interview/issues/5169)  
  
 	
 - **[All](category/history.md)**
