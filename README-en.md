@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.17) —— 1219 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [setImmediate和setTimeout的区别在哪里？](https://github.com/haizlin/fe-interview/issues/5173)  
+## :clock430: Today's Knowledge Points (2022.08.18) —— 1220 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [TypedArray与DataView有什么区别？](https://github.com/haizlin/fe-interview/issues/5174)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1218 days (2022.08.16)  
-    	 :one: [vue] [如何在vue中实现iframe内容缓存？](https://github.com/haizlin/fe-interview/issues/5172)  
+- 1219 days (2022.08.17)  
+    	 :one: [NodeJs] [setImmediate和setTimeout的区别在哪里？](https://github.com/haizlin/fe-interview/issues/5173)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1220天 (2022-08-18)  
+    - [js] [TypedArray与DataView有什么区别？](https://github.com/haizlin/fe-interview/issues/5174)
 - 第1219天 (2022-08-17)  
     - [NodeJs] [setImmediate和setTimeout的区别在哪里？](https://github.com/haizlin/fe-interview/issues/5173)
 - 第1218天 (2022-08-16)  
