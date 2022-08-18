@@ -2,6 +2,8 @@
 
 
 
+- 第1221天 (2022-08-19)  
+    - [js] [js中的JIT是如何工作的？](https://github.com/haizlin/fe-interview/issues/5175)
 - 第1220天 (2022-08-18)  
     - [js] [TypedArray与DataView有什么区别？](https://github.com/haizlin/fe-interview/issues/5174)
 - 第1219天 (2022-08-17)  
