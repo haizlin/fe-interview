@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.08.19) —— 第1221天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js中的JIT是如何工作的？](https://github.com/haizlin/fe-interview/issues/5175)  
+## :clock430: 今天的知识点   (2022.08.20) —— 第1222天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [说说你对javaScript中查询机制LHS和RHS的理解](https://github.com/haizlin/fe-interview/issues/5176)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1220天 (2022.08.18)  
-    	 :one: [js] [TypedArray与DataView有什么区别？](https://github.com/haizlin/fe-interview/issues/5174)  
+- 第1221天 (2022.08.19)  
+    	 :one: [js] [js中的JIT是如何工作的？](https://github.com/haizlin/fe-interview/issues/5175)  
  
 	
 - **[查看全部](category/history.md)**

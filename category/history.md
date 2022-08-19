@@ -2,6 +2,8 @@
 
 
 
+- 第1222天 (2022-08-20)  
+    - [js] [说说你对javaScript中查询机制LHS和RHS的理解](https://github.com/haizlin/fe-interview/issues/5176)
 - 第1221天 (2022-08-19)  
     - [js] [js中的JIT是如何工作的？](https://github.com/haizlin/fe-interview/issues/5175)
 - 第1220天 (2022-08-18)  

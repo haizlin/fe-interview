@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.19) —— 1221 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js中的JIT是如何工作的？](https://github.com/haizlin/fe-interview/issues/5175)  
+## :clock430: Today's Knowledge Points (2022.08.20) —— 1222 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [说说你对javaScript中查询机制LHS和RHS的理解](https://github.com/haizlin/fe-interview/issues/5176)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1220 days (2022.08.18)  
-    	 :one: [js] [TypedArray与DataView有什么区别？](https://github.com/haizlin/fe-interview/issues/5174)  
+- 1221 days (2022.08.19)  
+    	 :one: [js] [js中的JIT是如何工作的？](https://github.com/haizlin/fe-interview/issues/5175)  
  
 	
 - **[All](category/history.md)**
