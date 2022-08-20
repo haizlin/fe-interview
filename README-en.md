@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.20) —— 1222 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [说说你对javaScript中查询机制LHS和RHS的理解](https://github.com/haizlin/fe-interview/issues/5176)  
+## :clock430: Today's Knowledge Points (2022.08.21) —— 1223 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [微信小程序如何复制字符串？](https://github.com/haizlin/fe-interview/issues/5177)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1221 days (2022.08.19)  
-    	 :one: [js] [js中的JIT是如何工作的？](https://github.com/haizlin/fe-interview/issues/5175)  
+- 1222 days (2022.08.20)  
+    	 :one: [js] [说说你对javaScript中查询机制LHS和RHS的理解](https://github.com/haizlin/fe-interview/issues/5176)  
  
 	
 - **[All](category/history.md)**

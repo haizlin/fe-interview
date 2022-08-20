@@ -2,6 +2,8 @@
 
 
 
+- 第1223天 (2022-08-21)  
+    - [小程序] [微信小程序如何复制字符串？](https://github.com/haizlin/fe-interview/issues/5177)
 - 第1222天 (2022-08-20)  
     - [js] [说说你对javaScript中查询机制LHS和RHS的理解](https://github.com/haizlin/fe-interview/issues/5176)
 - 第1221天 (2022-08-19)  
