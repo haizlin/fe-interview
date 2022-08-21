@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.08.21) —— 第1223天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [微信小程序如何复制字符串？](https://github.com/haizlin/fe-interview/issues/5177)  
+## :clock430: 今天的知识点   (2022.08.22) —— 第1224天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1222天 (2022.08.20)  
-    	 :one: [js] [说说你对javaScript中查询机制LHS和RHS的理解](https://github.com/haizlin/fe-interview/issues/5176)  
+- 第1223天 (2022.08.21)  
+    	 :one: [小程序] [微信小程序如何复制字符串？](https://github.com/haizlin/fe-interview/issues/5177)  
  
 	
 - **[查看全部](category/history.md)**
