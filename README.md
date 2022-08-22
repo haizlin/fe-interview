@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.08.22) —— 第1224天  
+## :clock430: 今天的知识点   (2022.08.23) —— 第1225天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [如何解决Electron打包时文件包比较大的问题？](https://github.com/haizlin/fe-interview/issues/5179)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1223天 (2022.08.21)  
-    	 :one: [小程序] [微信小程序如何复制字符串？](https://github.com/haizlin/fe-interview/issues/5177)  
+- 第1224天 (2022.08.22)  
+    	 :one: [NodeJs] [如何使用Nodejs写一个爬虫？](https://github.com/haizlin/fe-interview/issues/5178)  
  
 	
 - **[查看全部](category/history.md)**

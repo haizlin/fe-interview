@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.22) —— 1224 days  
+## :clock430: Today's Knowledge Points (2022.08.23) —— 1225 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [如何解决Electron打包时文件包比较大的问题？](https://github.com/haizlin/fe-interview/issues/5179)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1223 days (2022.08.21)  
-    	 :one: [小程序] [微信小程序如何复制字符串？](https://github.com/haizlin/fe-interview/issues/5177)  
+- 1224 days (2022.08.22)  
+    	 :one: [NodeJs] [如何使用Nodejs写一个爬虫？](https://github.com/haizlin/fe-interview/issues/5178)  
  
 	
 - **[All](category/history.md)**
