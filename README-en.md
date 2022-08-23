@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.23) —— 1225 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [如何解决Electron打包时文件包比较大的问题？](https://github.com/haizlin/fe-interview/issues/5179)  
+## :clock430: Today's Knowledge Points (2022.08.24) —— 1226 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [使用Electron写的url协议如何唤醒本地exe程序？](https://github.com/haizlin/fe-interview/issues/5180)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1224 days (2022.08.22)  
-    	 :one: [NodeJs] [如何使用Nodejs写一个爬虫？](https://github.com/haizlin/fe-interview/issues/5178)  
+- 1225 days (2022.08.23)  
+    	 :one: [Electron] [如何解决Electron打包时文件包比较大的问题？](https://github.com/haizlin/fe-interview/issues/5179)  
  
 	
 - **[All](category/history.md)**
