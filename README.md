@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.08.24) —— 第1226天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [使用Electron写的url协议如何唤醒本地exe程序？](https://github.com/haizlin/fe-interview/issues/5180)  
+## :clock430: 今天的知识点   (2022.08.25) —— 第1227天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron项目和web项目有什么区别？](https://github.com/haizlin/fe-interview/issues/5181)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1225天 (2022.08.23)  
-    	 :one: [Electron] [如何解决Electron打包时文件包比较大的问题？](https://github.com/haizlin/fe-interview/issues/5179)  
+- 第1226天 (2022.08.24)  
+    	 :one: [Electron] [使用Electron写的url协议如何唤醒本地exe程序？](https://github.com/haizlin/fe-interview/issues/5180)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1227天 (2022-08-25)  
+    - [Electron] [Electron项目和web项目有什么区别？](https://github.com/haizlin/fe-interview/issues/5181)
 - 第1226天 (2022-08-24)  
     - [Electron] [使用Electron写的url协议如何唤醒本地exe程序？](https://github.com/haizlin/fe-interview/issues/5180)
 - 第1225天 (2022-08-23)  

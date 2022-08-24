@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.24) —— 1226 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [使用Electron写的url协议如何唤醒本地exe程序？](https://github.com/haizlin/fe-interview/issues/5180)  
+## :clock430: Today's Knowledge Points (2022.08.25) —— 1227 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron项目和web项目有什么区别？](https://github.com/haizlin/fe-interview/issues/5181)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1225 days (2022.08.23)  
-    	 :one: [Electron] [如何解决Electron打包时文件包比较大的问题？](https://github.com/haizlin/fe-interview/issues/5179)  
+- 1226 days (2022.08.24)  
+    	 :one: [Electron] [使用Electron写的url协议如何唤醒本地exe程序？](https://github.com/haizlin/fe-interview/issues/5180)  
  
 	
 - **[All](category/history.md)**
