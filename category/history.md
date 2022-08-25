@@ -2,6 +2,8 @@
 
 
 
+- 第1228天 (2022-08-26)  
+    - [Electron] [Electron开发的项目如何打包？](https://github.com/haizlin/fe-interview/issues/5182)
 - 第1227天 (2022-08-25)  
     - [Electron] [Electron项目和web项目有什么区别？](https://github.com/haizlin/fe-interview/issues/5181)
 - 第1226天 (2022-08-24)  
