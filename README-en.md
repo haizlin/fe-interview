@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.26) —— 1228 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron开发的项目如何打包？](https://github.com/haizlin/fe-interview/issues/5182)  
+## :clock430: Today's Knowledge Points (2022.08.27) —— 1229 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron开发的项目页面之间如何共享数据？](https://github.com/haizlin/fe-interview/issues/5183)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1227 days (2022.08.25)  
-    	 :one: [Electron] [Electron项目和web项目有什么区别？](https://github.com/haizlin/fe-interview/issues/5181)  
+- 1228 days (2022.08.26)  
+    	 :one: [Electron] [Electron开发的项目如何打包？](https://github.com/haizlin/fe-interview/issues/5182)  
  
 	
 - **[All](category/history.md)**

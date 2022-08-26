@@ -2,6 +2,8 @@
 
 
 
+- 第1229天 (2022-08-27)  
+    - [Electron] [Electron开发的项目页面之间如何共享数据？](https://github.com/haizlin/fe-interview/issues/5183)
 - 第1228天 (2022-08-26)  
     - [Electron] [Electron开发的项目如何打包？](https://github.com/haizlin/fe-interview/issues/5182)
 - 第1227天 (2022-08-25)  
