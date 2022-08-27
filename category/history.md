@@ -2,6 +2,8 @@
 
 
 
+- 第1230天 (2022-08-28)  
+    - [NodeJs] [说说你对事件驱动编程的理解](https://github.com/haizlin/fe-interview/issues/5184)
 - 第1229天 (2022-08-27)  
     - [Electron] [Electron开发的项目页面之间如何共享数据？](https://github.com/haizlin/fe-interview/issues/5183)
 - 第1228天 (2022-08-26)  
