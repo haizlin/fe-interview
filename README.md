@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.08.28) —— 第1230天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [说说你对事件驱动编程的理解](https://github.com/haizlin/fe-interview/issues/5184)  
+## :clock430: 今天的知识点   (2022.08.29) —— 第1231天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用fetch方法如何去跟踪下载进度？](https://github.com/haizlin/fe-interview/issues/5185)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1229天 (2022.08.27)  
-    	 :one: [Electron] [Electron开发的项目页面之间如何共享数据？](https://github.com/haizlin/fe-interview/issues/5183)  
+- 第1230天 (2022.08.28)  
+    	 :one: [NodeJs] [说说你对事件驱动编程的理解](https://github.com/haizlin/fe-interview/issues/5184)  
  
 	
 - **[查看全部](category/history.md)**

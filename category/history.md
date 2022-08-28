@@ -2,6 +2,8 @@
 
 
 
+- 第1231天 (2022-08-29)  
+    - [js] [使用fetch方法如何去跟踪下载进度？](https://github.com/haizlin/fe-interview/issues/5185)
 - 第1230天 (2022-08-28)  
     - [NodeJs] [说说你对事件驱动编程的理解](https://github.com/haizlin/fe-interview/issues/5184)
 - 第1229天 (2022-08-27)  

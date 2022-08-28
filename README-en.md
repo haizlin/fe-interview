@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.08.28) —— 1230 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [说说你对事件驱动编程的理解](https://github.com/haizlin/fe-interview/issues/5184)  
+## :clock430: Today's Knowledge Points (2022.08.29) —— 1231 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用fetch方法如何去跟踪下载进度？](https://github.com/haizlin/fe-interview/issues/5185)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1229 days (2022.08.27)  
-    	 :one: [Electron] [Electron开发的项目页面之间如何共享数据？](https://github.com/haizlin/fe-interview/issues/5183)  
+- 1230 days (2022.08.28)  
+    	 :one: [NodeJs] [说说你对事件驱动编程的理解](https://github.com/haizlin/fe-interview/issues/5184)  
  
 	
 - **[All](category/history.md)**
