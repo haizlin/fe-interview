@@ -2,6 +2,8 @@
 
 
 
+- 第1233天 (2022-08-31)  
+    - [js] [写一个正则提取字符串中的IP地址](https://github.com/haizlin/fe-interview/issues/5187)
 - 第1232天 (2022-08-30)  
     - [js] [写一个正则表达式匹配空行(有时空行会包含不可见字符，如空格)](https://github.com/haizlin/fe-interview/issues/5186)
 - 第1231天 (2022-08-29)  
