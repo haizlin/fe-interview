@@ -2,6 +2,8 @@
 
 
 
+- 第1234天 (2022-09-01)  
+    - [js] [写一个正则验证身份证是否正确](https://github.com/haizlin/fe-interview/issues/5188)
 - 第1233天 (2022-08-31)  
     - [js] [写一个正则提取字符串中的IP地址](https://github.com/haizlin/fe-interview/issues/5187)
 - 第1232天 (2022-08-30)  
