@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.01) —— 第1234天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个正则验证身份证是否正确](https://github.com/haizlin/fe-interview/issues/5188)  
+## :clock430: 今天的知识点   (2022.09.02) —— 第1235天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法验证弱密码](https://github.com/haizlin/fe-interview/issues/5189)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1233天 (2022.08.31)  
-    	 :one: [js] [写一个正则提取字符串中的IP地址](https://github.com/haizlin/fe-interview/issues/5187)  
+- 第1234天 (2022.09.01)  
+    	 :one: [js] [写一个正则验证身份证是否正确](https://github.com/haizlin/fe-interview/issues/5188)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1235天 (2022-09-02)  
+    - [js] [使用js写一个方法验证弱密码](https://github.com/haizlin/fe-interview/issues/5189)
 - 第1234天 (2022-09-01)  
     - [js] [写一个正则验证身份证是否正确](https://github.com/haizlin/fe-interview/issues/5188)
 - 第1233天 (2022-08-31)  
