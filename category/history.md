@@ -2,6 +2,8 @@
 
 
 
+- 第1236天 (2022-09-03)  
+    - [js] [使用js写一个正则获取页面中所有的url地址](https://github.com/haizlin/fe-interview/issues/5190)
 - 第1235天 (2022-09-02)  
     - [js] [使用js写一个方法验证弱密码](https://github.com/haizlin/fe-interview/issues/5189)
 - 第1234天 (2022-09-01)  

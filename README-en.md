@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.02) —— 1235 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法验证弱密码](https://github.com/haizlin/fe-interview/issues/5189)  
+## :clock430: Today's Knowledge Points (2022.09.03) —— 1236 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个正则获取页面中所有的url地址](https://github.com/haizlin/fe-interview/issues/5190)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1234 days (2022.09.01)  
-    	 :one: [js] [写一个正则验证身份证是否正确](https://github.com/haizlin/fe-interview/issues/5188)  
+- 1235 days (2022.09.02)  
+    	 :one: [js] [使用js写一个方法验证弱密码](https://github.com/haizlin/fe-interview/issues/5189)  
  
 	
 - **[All](category/history.md)**
