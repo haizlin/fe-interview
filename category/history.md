@@ -2,6 +2,8 @@
 
 
 
+- 第1238天 (2022-09-05)  
+    - [NodeJs] [NodeJS的API函数分为哪几种类型？](https://github.com/haizlin/fe-interview/issues/5192)
 - 第1237天 (2022-09-04)  
     - [NodeJs] [异步和非阻塞有什么区别？](https://github.com/haizlin/fe-interview/issues/5191)
 - 第1236天 (2022-09-03)  

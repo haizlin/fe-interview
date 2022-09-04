@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.04) —— 第1237天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [异步和非阻塞有什么区别？](https://github.com/haizlin/fe-interview/issues/5191)  
+## :clock430: 今天的知识点   (2022.09.05) —— 第1238天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS的API函数分为哪几种类型？](https://github.com/haizlin/fe-interview/issues/5192)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1236天 (2022.09.03)  
-    	 :one: [js] [使用js写一个正则获取页面中所有的url地址](https://github.com/haizlin/fe-interview/issues/5190)  
+- 第1237天 (2022.09.04)  
+    	 :one: [NodeJs] [异步和非阻塞有什么区别？](https://github.com/haizlin/fe-interview/issues/5191)  
  
 	
 - **[查看全部](category/history.md)**
