@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.05) —— 1238 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS的API函数分为哪几种类型？](https://github.com/haizlin/fe-interview/issues/5192)  
+## :clock430: Today's Knowledge Points (2022.09.06) —— 1239 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS的LTS版本代表什么?](https://github.com/haizlin/fe-interview/issues/5193)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1237 days (2022.09.04)  
-    	 :one: [NodeJs] [异步和非阻塞有什么区别？](https://github.com/haizlin/fe-interview/issues/5191)  
+- 1238 days (2022.09.05)  
+    	 :one: [NodeJs] [NodeJS的API函数分为哪几种类型？](https://github.com/haizlin/fe-interview/issues/5192)  
  
 	
 - **[All](category/history.md)**

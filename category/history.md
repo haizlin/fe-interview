@@ -2,6 +2,8 @@
 
 
 
+- 第1239天 (2022-09-06)  
+    - [NodeJs] [NodeJS的LTS版本代表什么?](https://github.com/haizlin/fe-interview/issues/5193)
 - 第1238天 (2022-09-05)  
     - [NodeJs] [NodeJS的API函数分为哪几种类型？](https://github.com/haizlin/fe-interview/issues/5192)
 - 第1237天 (2022-09-04)  
