@@ -2,6 +2,8 @@
 
 
 
+- 第1240天 (2022-09-07)  
+    - [NodeJs] [说说你对NodeJS的中间件的理解](https://github.com/haizlin/fe-interview/issues/5194)
 - 第1239天 (2022-09-06)  
     - [NodeJs] [NodeJS的LTS版本代表什么?](https://github.com/haizlin/fe-interview/issues/5193)
 - 第1238天 (2022-09-05)  
