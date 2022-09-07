@@ -2,6 +2,8 @@
 
 
 
+- 第1241天 (2022-09-08)  
+    - [NodeJs] [在NodeJS中exec、 execFile、 spawn和fork方法有什么区别，分别有什么用？](https://github.com/haizlin/fe-interview/issues/5195)
 - 第1240天 (2022-09-07)  
     - [NodeJs] [说说你对NodeJS的中间件的理解](https://github.com/haizlin/fe-interview/issues/5194)
 - 第1239天 (2022-09-06)  
