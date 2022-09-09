@@ -2,6 +2,8 @@
 
 
 
+- 第1243天 (2022-09-10)  
+    - [NodeJs] [process.nextTick()与setImmediate()有什么区别？](https://github.com/haizlin/fe-interview/issues/5197)
 - 第1242天 (2022-09-09)  
     - [NodeJs] [NodeJS中的断言是如何工作的？](https://github.com/haizlin/fe-interview/issues/5196)
 - 第1241天 (2022-09-08)  

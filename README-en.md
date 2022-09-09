@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.09) —— 1242 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS中的断言是如何工作的？](https://github.com/haizlin/fe-interview/issues/5196)  
+## :clock430: Today's Knowledge Points (2022.09.10) —— 1243 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [process.nextTick()与setImmediate()有什么区别？](https://github.com/haizlin/fe-interview/issues/5197)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1241 days (2022.09.08)  
-    	 :one: [NodeJs] [在NodeJS中exec、 execFile、 spawn和fork方法有什么区别，分别有什么用？](https://github.com/haizlin/fe-interview/issues/5195)  
+- 1242 days (2022.09.09)  
+    	 :one: [NodeJs] [NodeJS中的断言是如何工作的？](https://github.com/haizlin/fe-interview/issues/5196)  
  
 	
 - **[All](category/history.md)**

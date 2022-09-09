@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.09) —— 第1242天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS中的断言是如何工作的？](https://github.com/haizlin/fe-interview/issues/5196)  
+## :clock430: 今天的知识点   (2022.09.10) —— 第1243天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [process.nextTick()与setImmediate()有什么区别？](https://github.com/haizlin/fe-interview/issues/5197)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1241天 (2022.09.08)  
-    	 :one: [NodeJs] [在NodeJS中exec、 execFile、 spawn和fork方法有什么区别，分别有什么用？](https://github.com/haizlin/fe-interview/issues/5195)  
+- 第1242天 (2022.09.09)  
+    	 :one: [NodeJs] [NodeJS中的断言是如何工作的？](https://github.com/haizlin/fe-interview/issues/5196)  
  
 	
 - **[查看全部](category/history.md)**
