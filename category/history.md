@@ -2,6 +2,8 @@
 
 
 
+- 第1244天 (2022-09-11)  
+    - [NodeJs] [NodeJS是如何处理子线程的？](https://github.com/haizlin/fe-interview/issues/5198)
 - 第1243天 (2022-09-10)  
     - [NodeJs] [process.nextTick()与setImmediate()有什么区别？](https://github.com/haizlin/fe-interview/issues/5197)
 - 第1242天 (2022-09-09)  
