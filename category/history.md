@@ -2,6 +2,8 @@
 
 
 
+- 第1245天 (2022-09-12)  
+    - [NodeJs] [NodeJS提供的调试器如何使用？](https://github.com/haizlin/fe-interview/issues/5199)
 - 第1244天 (2022-09-11)  
     - [NodeJs] [NodeJS是如何处理子线程的？](https://github.com/haizlin/fe-interview/issues/5198)
 - 第1243天 (2022-09-10)  

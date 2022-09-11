@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.11) —— 1244 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS是如何处理子线程的？](https://github.com/haizlin/fe-interview/issues/5198)  
+## :clock430: Today's Knowledge Points (2022.09.12) —— 1245 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS提供的调试器如何使用？](https://github.com/haizlin/fe-interview/issues/5199)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1243 days (2022.09.10)  
-    	 :one: [NodeJs] [process.nextTick()与setImmediate()有什么区别？](https://github.com/haizlin/fe-interview/issues/5197)  
+- 1244 days (2022.09.11)  
+    	 :one: [NodeJs] [NodeJS是如何处理子线程的？](https://github.com/haizlin/fe-interview/issues/5198)  
  
 	
 - **[All](category/history.md)**

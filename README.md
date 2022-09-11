@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.11) —— 第1244天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS是如何处理子线程的？](https://github.com/haizlin/fe-interview/issues/5198)  
+## :clock430: 今天的知识点   (2022.09.12) —— 第1245天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS提供的调试器如何使用？](https://github.com/haizlin/fe-interview/issues/5199)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1243天 (2022.09.10)  
-    	 :one: [NodeJs] [process.nextTick()与setImmediate()有什么区别？](https://github.com/haizlin/fe-interview/issues/5197)  
+- 第1244天 (2022.09.11)  
+    	 :one: [NodeJs] [NodeJS是如何处理子线程的？](https://github.com/haizlin/fe-interview/issues/5198)  
  
 	
 - **[查看全部](category/history.md)**
