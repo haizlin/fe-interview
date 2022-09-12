@@ -2,6 +2,8 @@
 
 
 
+- 第1246天 (2022-09-13)  
+    - [NodeJs] [如何使用NodeJS对一个字符串加密](https://github.com/haizlin/fe-interview/issues/5200)
 - 第1245天 (2022-09-12)  
     - [NodeJs] [NodeJS提供的调试器如何使用？](https://github.com/haizlin/fe-interview/issues/5199)
 - 第1244天 (2022-09-11)  

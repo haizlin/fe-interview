@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.12) —— 1245 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS提供的调试器如何使用？](https://github.com/haizlin/fe-interview/issues/5199)  
+## :clock430: Today's Knowledge Points (2022.09.13) —— 1246 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何使用NodeJS对一个字符串加密](https://github.com/haizlin/fe-interview/issues/5200)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1244 days (2022.09.11)  
-    	 :one: [NodeJs] [NodeJS是如何处理子线程的？](https://github.com/haizlin/fe-interview/issues/5198)  
+- 1245 days (2022.09.12)  
+    	 :one: [NodeJs] [NodeJS提供的调试器如何使用？](https://github.com/haizlin/fe-interview/issues/5199)  
  
 	
 - **[All](category/history.md)**
