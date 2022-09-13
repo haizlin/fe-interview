@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.13) —— 第1246天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何使用NodeJS对一个字符串加密](https://github.com/haizlin/fe-interview/issues/5200)  
+## :clock430: 今天的知识点   (2022.09.14) —— 第1247天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5201)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1245天 (2022.09.12)  
-    	 :one: [NodeJs] [NodeJS提供的调试器如何使用？](https://github.com/haizlin/fe-interview/issues/5199)  
+- 第1246天 (2022.09.13)  
+    	 :one: [NodeJs] [如何使用NodeJS对一个字符串加密](https://github.com/haizlin/fe-interview/issues/5200)  
  
 	
 - **[查看全部](category/history.md)**

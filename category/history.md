@@ -2,6 +2,8 @@
 
 
 
+- 第1247天 (2022-09-14)  
+    - [NodeJs] [NodeJS的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5201)
 - 第1246天 (2022-09-13)  
     - [NodeJs] [如何使用NodeJS对一个字符串加密](https://github.com/haizlin/fe-interview/issues/5200)
 - 第1245天 (2022-09-12)  
