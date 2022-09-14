@@ -2,6 +2,8 @@
 
 
 
+- 第1248天 (2022-09-15)  
+    - [NodeJs] [请说说NodeJS有哪些特点？](https://github.com/haizlin/fe-interview/issues/5202)
 - 第1247天 (2022-09-14)  
     - [NodeJs] [NodeJS的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5201)
 - 第1246天 (2022-09-13)  

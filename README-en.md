@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.14) —— 1247 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5201)  
+## :clock430: Today's Knowledge Points (2022.09.15) —— 1248 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说NodeJS有哪些特点？](https://github.com/haizlin/fe-interview/issues/5202)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1246 days (2022.09.13)  
-    	 :one: [NodeJs] [如何使用NodeJS对一个字符串加密](https://github.com/haizlin/fe-interview/issues/5200)  
+- 1247 days (2022.09.14)  
+    	 :one: [NodeJs] [NodeJS的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5201)  
  
 	
 - **[All](category/history.md)**
