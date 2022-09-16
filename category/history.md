@@ -2,6 +2,8 @@
 
 
 
+- 第1250天 (2022-09-17)  
+    - [NodeJs] [在NodeJS中的Buffer有哪些使用场景？](https://github.com/haizlin/fe-interview/issues/5204)
 - 第1249天 (2022-09-16)  
     - [NodeJs] [在NodeJS中什么是错误优先的回调函数？](https://github.com/haizlin/fe-interview/issues/5203)
 - 第1248天 (2022-09-15)  

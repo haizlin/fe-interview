@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.16) —— 1249 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中什么是错误优先的回调函数？](https://github.com/haizlin/fe-interview/issues/5203)  
+## :clock430: Today's Knowledge Points (2022.09.17) —— 1250 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中的Buffer有哪些使用场景？](https://github.com/haizlin/fe-interview/issues/5204)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1248 days (2022.09.15)  
-    	 :one: [NodeJs] [请说说NodeJS有哪些特点？](https://github.com/haizlin/fe-interview/issues/5202)  
+- 1249 days (2022.09.16)  
+    	 :one: [NodeJs] [在NodeJS中什么是错误优先的回调函数？](https://github.com/haizlin/fe-interview/issues/5203)  
  
 	
 - **[All](category/history.md)**
