@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.17) —— 第1250天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中的Buffer有哪些使用场景？](https://github.com/haizlin/fe-interview/issues/5204)  
+## :clock430: 今天的知识点   (2022.09.18) —— 第1251天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中如何做单元测试？](https://github.com/haizlin/fe-interview/issues/5205)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1249天 (2022.09.16)  
-    	 :one: [NodeJs] [在NodeJS中什么是错误优先的回调函数？](https://github.com/haizlin/fe-interview/issues/5203)  
+- 第1250天 (2022.09.17)  
+    	 :one: [NodeJs] [在NodeJS中的Buffer有哪些使用场景？](https://github.com/haizlin/fe-interview/issues/5204)  
  
 	
 - **[查看全部](category/history.md)**
