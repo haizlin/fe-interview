@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.18) —— 1251 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中如何做单元测试？](https://github.com/haizlin/fe-interview/issues/5205)  
+## :clock430: Today's Knowledge Points (2022.09.19) —— 1252 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何防止NodeJS的程序崩溃？](https://github.com/haizlin/fe-interview/issues/5206)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1250 days (2022.09.17)  
-    	 :one: [NodeJs] [在NodeJS中的Buffer有哪些使用场景？](https://github.com/haizlin/fe-interview/issues/5204)  
+- 1251 days (2022.09.18)  
+    	 :one: [NodeJs] [在NodeJS中如何做单元测试？](https://github.com/haizlin/fe-interview/issues/5205)  
  
 	
 - **[All](category/history.md)**

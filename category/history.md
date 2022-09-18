@@ -2,6 +2,8 @@
 
 
 
+- 第1252天 (2022-09-19)  
+    - [NodeJs] [如何防止NodeJS的程序崩溃？](https://github.com/haizlin/fe-interview/issues/5206)
 - 第1251天 (2022-09-18)  
     - [NodeJs] [在NodeJS中如何做单元测试？](https://github.com/haizlin/fe-interview/issues/5205)
 - 第1250天 (2022-09-17)  
