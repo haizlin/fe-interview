@@ -2,6 +2,8 @@
 
 
 
+- 第1253天 (2022-09-20)  
+    - [NodeJs] [在NodeJs中如何启用HTTP/2.0？](https://github.com/haizlin/fe-interview/issues/5207)
 - 第1252天 (2022-09-19)  
     - [NodeJs] [如何防止NodeJS的程序崩溃？](https://github.com/haizlin/fe-interview/issues/5206)
 - 第1251天 (2022-09-18)  

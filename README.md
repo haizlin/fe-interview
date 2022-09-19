@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.19) —— 第1252天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何防止NodeJS的程序崩溃？](https://github.com/haizlin/fe-interview/issues/5206)  
+## :clock430: 今天的知识点   (2022.09.20) —— 第1253天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJs中如何启用HTTP/2.0？](https://github.com/haizlin/fe-interview/issues/5207)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1251天 (2022.09.18)  
-    	 :one: [NodeJs] [在NodeJS中如何做单元测试？](https://github.com/haizlin/fe-interview/issues/5205)  
+- 第1252天 (2022.09.19)  
+    	 :one: [NodeJs] [如何防止NodeJS的程序崩溃？](https://github.com/haizlin/fe-interview/issues/5206)  
  
 	
 - **[查看全部](category/history.md)**
