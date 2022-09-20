@@ -2,6 +2,8 @@
 
 
 
+- 第1254天 (2022-09-21)  
+    - [NodeJs] [在NodeJS中如何实现http2推送信息？](https://github.com/haizlin/fe-interview/issues/5208)
 - 第1253天 (2022-09-20)  
     - [NodeJs] [在NodeJs中如何启用HTTP/2.0？](https://github.com/haizlin/fe-interview/issues/5207)
 - 第1252天 (2022-09-19)  

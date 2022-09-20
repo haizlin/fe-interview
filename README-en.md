@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.20) —— 1253 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJs中如何启用HTTP/2.0？](https://github.com/haizlin/fe-interview/issues/5207)  
+## :clock430: Today's Knowledge Points (2022.09.21) —— 1254 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中如何实现http2推送信息？](https://github.com/haizlin/fe-interview/issues/5208)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1252 days (2022.09.19)  
-    	 :one: [NodeJs] [如何防止NodeJS的程序崩溃？](https://github.com/haizlin/fe-interview/issues/5206)  
+- 1253 days (2022.09.20)  
+    	 :one: [NodeJs] [在NodeJs中如何启用HTTP/2.0？](https://github.com/haizlin/fe-interview/issues/5207)  
  
 	
 - **[All](category/history.md)**
