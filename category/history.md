@@ -2,6 +2,8 @@
 
 
 
+- 第1256天 (2022-09-23)  
+    - [NodeJs] [在NodeJS中内置的fs模块有哪几部分组成？](https://github.com/haizlin/fe-interview/issues/5210)
 - 第1255天 (2022-09-22)  
     - [NodeJs] [如何使用NodeJS创建Web服务器？](https://github.com/haizlin/fe-interview/issues/5209)
 - 第1254天 (2022-09-21)  
