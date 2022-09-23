@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.23) —— 第1256天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中内置的fs模块有哪几部分组成？](https://github.com/haizlin/fe-interview/issues/5210)  
+## :clock430: 今天的知识点   (2022.09.24) —— 第1257天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中fs.watch和fs.watchFile有什么区别？](https://github.com/haizlin/fe-interview/issues/5211)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1255天 (2022.09.22)  
-    	 :one: [NodeJs] [如何使用NodeJS创建Web服务器？](https://github.com/haizlin/fe-interview/issues/5209)  
+- 第1256天 (2022.09.23)  
+    	 :one: [NodeJs] [在NodeJS中内置的fs模块有哪几部分组成？](https://github.com/haizlin/fe-interview/issues/5210)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.23) —— 1256 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中内置的fs模块有哪几部分组成？](https://github.com/haizlin/fe-interview/issues/5210)  
+## :clock430: Today's Knowledge Points (2022.09.24) —— 1257 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中fs.watch和fs.watchFile有什么区别？](https://github.com/haizlin/fe-interview/issues/5211)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1255 days (2022.09.22)  
-    	 :one: [NodeJs] [如何使用NodeJS创建Web服务器？](https://github.com/haizlin/fe-interview/issues/5209)  
+- 1256 days (2022.09.23)  
+    	 :one: [NodeJs] [在NodeJS中内置的fs模块有哪几部分组成？](https://github.com/haizlin/fe-interview/issues/5210)  
  
 	
 - **[All](category/history.md)**

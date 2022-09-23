@@ -2,6 +2,8 @@
 
 
 
+- 第1257天 (2022-09-24)  
+    - [NodeJs] [在NodeJS中fs.watch和fs.watchFile有什么区别？](https://github.com/haizlin/fe-interview/issues/5211)
 - 第1256天 (2022-09-23)  
     - [NodeJs] [在NodeJS中内置的fs模块有哪几部分组成？](https://github.com/haizlin/fe-interview/issues/5210)
 - 第1255天 (2022-09-22)  
