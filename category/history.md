@@ -2,6 +2,8 @@
 
 
 
+- 第1258天 (2022-09-25)  
+    - [NodeJs] [两个NodeJS程序之间如何交互？](https://github.com/haizlin/fe-interview/issues/5212)
 - 第1257天 (2022-09-24)  
     - [NodeJs] [在NodeJS中fs.watch和fs.watchFile有什么区别？](https://github.com/haizlin/fe-interview/issues/5211)
 - 第1256天 (2022-09-23)  
