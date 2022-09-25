@@ -2,6 +2,8 @@
 
 
 
+- 第1259天 (2022-09-26)  
+    - [软技能] [Hybrid开发有哪些适应的场景？](https://github.com/haizlin/fe-interview/issues/5213)
 - 第1258天 (2022-09-25)  
     - [NodeJs] [两个NodeJS程序之间如何交互？](https://github.com/haizlin/fe-interview/issues/5212)
 - 第1257天 (2022-09-24)  
