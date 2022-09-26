@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.26) —— 1259 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [Hybrid开发有哪些适应的场景？](https://github.com/haizlin/fe-interview/issues/5213)  
+## :clock430: Today's Knowledge Points (2022.09.27) —— 1260 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [Web App和混合App有什么区别？](https://github.com/haizlin/fe-interview/issues/5214)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1258 days (2022.09.25)  
-    	 :one: [NodeJs] [两个NodeJS程序之间如何交互？](https://github.com/haizlin/fe-interview/issues/5212)  
+- 1259 days (2022.09.26)  
+    	 :one: [skill] [Hybrid开发有哪些适应的场景？](https://github.com/haizlin/fe-interview/issues/5213)  
  
 	
 - **[All](category/history.md)**

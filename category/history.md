@@ -2,6 +2,8 @@
 
 
 
+- 第1260天 (2022-09-27)  
+    - [软技能] [Web App和混合App有什么区别？](https://github.com/haizlin/fe-interview/issues/5214)
 - 第1259天 (2022-09-26)  
     - [软技能] [Hybrid开发有哪些适应的场景？](https://github.com/haizlin/fe-interview/issues/5213)
 - 第1258天 (2022-09-25)  

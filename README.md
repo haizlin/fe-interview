@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.26) —— 第1259天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [Hybrid开发有哪些适应的场景？](https://github.com/haizlin/fe-interview/issues/5213)  
+## :clock430: 今天的知识点   (2022.09.27) —— 第1260天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [Web App和混合App有什么区别？](https://github.com/haizlin/fe-interview/issues/5214)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1258天 (2022.09.25)  
-    	 :one: [NodeJs] [两个NodeJS程序之间如何交互？](https://github.com/haizlin/fe-interview/issues/5212)  
+- 第1259天 (2022.09.26)  
+    	 :one: [软技能] [Hybrid开发有哪些适应的场景？](https://github.com/haizlin/fe-interview/issues/5213)  
  
 	
 - **[查看全部](category/history.md)**
