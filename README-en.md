@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.09.28) —— 1261 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [混合App开发的优、劣势是什么？](https://github.com/haizlin/fe-interview/issues/5215)  
+## :clock430: Today's Knowledge Points (2022.09.29) —— 1262 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [在移动端如何解决长时间按住页面出现闪退的问题？](https://github.com/haizlin/fe-interview/issues/5216)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1260 days (2022.09.27)  
-    	 :one: [skill] [Web App和混合App有什么区别？](https://github.com/haizlin/fe-interview/issues/5214)  
+- 1261 days (2022.09.28)  
+    	 :one: [skill] [混合App开发的优、劣势是什么？](https://github.com/haizlin/fe-interview/issues/5215)  
  
 	
 - **[All](category/history.md)**

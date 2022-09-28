@@ -2,6 +2,8 @@
 
 
 
+- 第1262天 (2022-09-29)  
+    - [软技能] [在移动端如何解决长时间按住页面出现闪退的问题？](https://github.com/haizlin/fe-interview/issues/5216)
 - 第1261天 (2022-09-28)  
     - [软技能] [混合App开发的优、劣势是什么？](https://github.com/haizlin/fe-interview/issues/5215)
 - 第1260天 (2022-09-27)  
