@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.09.29) —— 第1262天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [在移动端如何解决长时间按住页面出现闪退的问题？](https://github.com/haizlin/fe-interview/issues/5216)  
+## :clock430: 今天的知识点   (2022.10.02) —— 第1265天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [Expires和Cache-Control有什么作用？](https://github.com/haizlin/fe-interview/issues/5219)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1261天 (2022.09.28)  
-    	 :one: [软技能] [混合App开发的优、劣势是什么？](https://github.com/haizlin/fe-interview/issues/5215)  
+- 第1264天 (2022.10.01)  
+    	 :one: [软技能] [你有使用过Weinre调试工具吗？](https://github.com/haizlin/fe-interview/issues/5218)  
  
 	
 - **[查看全部](category/history.md)**

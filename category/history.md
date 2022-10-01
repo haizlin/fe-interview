@@ -2,6 +2,12 @@
 
 
 
+- 第1265天 (2022-10-02)  
+    - [软技能] [Expires和Cache-Control有什么作用？](https://github.com/haizlin/fe-interview/issues/5219)
+- 第1264天 (2022-10-01)  
+    - [软技能] [你有使用过Weinre调试工具吗？](https://github.com/haizlin/fe-interview/issues/5218)
+- 第1263天 (2022-09-30)  
+    - [软技能] [移动端，在旋转屏幕时，如何解决字体大小自动调整？](https://github.com/haizlin/fe-interview/issues/5217)
 - 第1262天 (2022-09-29)  
     - [软技能] [在移动端如何解决长时间按住页面出现闪退的问题？](https://github.com/haizlin/fe-interview/issues/5216)
 - 第1261天 (2022-09-28)  
