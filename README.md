@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.02) —— 第1265天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [Expires和Cache-Control有什么作用？](https://github.com/haizlin/fe-interview/issues/5219)  
+## :clock430: 今天的知识点   (2022.10.03) —— 第1266天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请你说你对反向代理的理解？](https://github.com/haizlin/fe-interview/issues/5220)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1264天 (2022.10.01)  
-    	 :one: [软技能] [你有使用过Weinre调试工具吗？](https://github.com/haizlin/fe-interview/issues/5218)  
+- 第1265天 (2022.10.02)  
+    	 :one: [软技能] [Expires和Cache-Control有什么作用？](https://github.com/haizlin/fe-interview/issues/5219)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.02) —— 1265 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [Expires和Cache-Control有什么作用？](https://github.com/haizlin/fe-interview/issues/5219)  
+## :clock430: Today's Knowledge Points (2022.10.03) —— 1266 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请你说你对反向代理的理解？](https://github.com/haizlin/fe-interview/issues/5220)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1264 days (2022.10.01)  
-    	 :one: [skill] [你有使用过Weinre调试工具吗？](https://github.com/haizlin/fe-interview/issues/5218)  
+- 1265 days (2022.10.02)  
+    	 :one: [skill] [Expires和Cache-Control有什么作用？](https://github.com/haizlin/fe-interview/issues/5219)  
  
 	
 - **[All](category/history.md)**

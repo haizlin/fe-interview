@@ -2,6 +2,8 @@
 
 
 
+- 第1266天 (2022-10-03)  
+    - [软技能] [请你说你对反向代理的理解？](https://github.com/haizlin/fe-interview/issues/5220)
 - 第1265天 (2022-10-02)  
     - [软技能] [Expires和Cache-Control有什么作用？](https://github.com/haizlin/fe-interview/issues/5219)
 - 第1264天 (2022-10-01)  
