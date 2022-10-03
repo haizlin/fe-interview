@@ -2,6 +2,8 @@
 
 
 
+- 第1267天 (2022-10-04)  
+    - [软技能] [模块化开发有什么好处？](https://github.com/haizlin/fe-interview/issues/5221)
 - 第1266天 (2022-10-03)  
     - [软技能] [请你说你对反向代理的理解？](https://github.com/haizlin/fe-interview/issues/5220)
 - 第1265天 (2022-10-02)  

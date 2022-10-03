@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.03) —— 第1266天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请你说你对反向代理的理解？](https://github.com/haizlin/fe-interview/issues/5220)  
+## :clock430: 今天的知识点   (2022.10.04) —— 第1267天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [模块化开发有什么好处？](https://github.com/haizlin/fe-interview/issues/5221)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1265天 (2022.10.02)  
-    	 :one: [软技能] [Expires和Cache-Control有什么作用？](https://github.com/haizlin/fe-interview/issues/5219)  
+- 第1266天 (2022.10.03)  
+    	 :one: [软技能] [请你说你对反向代理的理解？](https://github.com/haizlin/fe-interview/issues/5220)  
  
 	
 - **[查看全部](category/history.md)**

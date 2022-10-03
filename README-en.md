@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.03) —— 1266 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请你说你对反向代理的理解？](https://github.com/haizlin/fe-interview/issues/5220)  
+## :clock430: Today's Knowledge Points (2022.10.04) —— 1267 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [模块化开发有什么好处？](https://github.com/haizlin/fe-interview/issues/5221)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1265 days (2022.10.02)  
-    	 :one: [skill] [Expires和Cache-Control有什么作用？](https://github.com/haizlin/fe-interview/issues/5219)  
+- 1266 days (2022.10.03)  
+    	 :one: [skill] [请你说你对反向代理的理解？](https://github.com/haizlin/fe-interview/issues/5220)  
  
 	
 - **[All](category/history.md)**
