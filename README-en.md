@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.04) —— 1267 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [模块化开发有什么好处？](https://github.com/haizlin/fe-interview/issues/5221)  
+## :clock430: Today's Knowledge Points (2022.10.05) —— 1268 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中path.resolve和path.join有什么区别？](https://github.com/haizlin/fe-interview/issues/5222)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1266 days (2022.10.03)  
-    	 :one: [skill] [请你说你对反向代理的理解？](https://github.com/haizlin/fe-interview/issues/5220)  
+- 1267 days (2022.10.04)  
+    	 :one: [skill] [模块化开发有什么好处？](https://github.com/haizlin/fe-interview/issues/5221)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1268天 (2022-10-05)  
+    - [NodeJs] [在NodeJS中path.resolve和path.join有什么区别？](https://github.com/haizlin/fe-interview/issues/5222)
 - 第1267天 (2022-10-04)  
     - [软技能] [模块化开发有什么好处？](https://github.com/haizlin/fe-interview/issues/5221)
 - 第1266天 (2022-10-03)  
