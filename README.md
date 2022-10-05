@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.05) —— 第1268天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJS中path.resolve和path.join有什么区别？](https://github.com/haizlin/fe-interview/issues/5222)  
+## :clock430: 今天的知识点   (2022.10.06) —— 第1269天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请描述下koa2的洋葱模型](https://github.com/haizlin/fe-interview/issues/5223)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1267天 (2022.10.04)  
-    	 :one: [软技能] [模块化开发有什么好处？](https://github.com/haizlin/fe-interview/issues/5221)  
+- 第1268天 (2022.10.05)  
+    	 :one: [NodeJs] [在NodeJS中path.resolve和path.join有什么区别？](https://github.com/haizlin/fe-interview/issues/5222)  
  
 	
 - **[查看全部](category/history.md)**

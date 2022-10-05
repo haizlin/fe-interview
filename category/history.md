@@ -2,6 +2,8 @@
 
 
 
+- 第1269天 (2022-10-06)  
+    - [NodeJs] [请描述下koa2的洋葱模型](https://github.com/haizlin/fe-interview/issues/5223)
 - 第1268天 (2022-10-05)  
     - [NodeJs] [在NodeJS中path.resolve和path.join有什么区别？](https://github.com/haizlin/fe-interview/issues/5222)
 - 第1267天 (2022-10-04)  
