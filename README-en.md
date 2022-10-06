@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.06) —— 1269 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请描述下koa2的洋葱模型](https://github.com/haizlin/fe-interview/issues/5223)  
+## :clock430: Today's Knowledge Points (2022.10.07) —— 1270 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何使用NodeJS逐行读取一个2G的文件？](https://github.com/haizlin/fe-interview/issues/5224)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1268 days (2022.10.05)  
-    	 :one: [NodeJs] [在NodeJS中path.resolve和path.join有什么区别？](https://github.com/haizlin/fe-interview/issues/5222)  
+- 1269 days (2022.10.06)  
+    	 :one: [NodeJs] [请描述下koa2的洋葱模型](https://github.com/haizlin/fe-interview/issues/5223)  
  
 	
 - **[All](category/history.md)**

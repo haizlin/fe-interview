@@ -2,6 +2,8 @@
 
 
 
+- 第1270天 (2022-10-07)  
+    - [NodeJs] [如何使用NodeJS逐行读取一个2G的文件？](https://github.com/haizlin/fe-interview/issues/5224)
 - 第1269天 (2022-10-06)  
     - [NodeJs] [请描述下koa2的洋葱模型](https://github.com/haizlin/fe-interview/issues/5223)
 - 第1268天 (2022-10-05)  
