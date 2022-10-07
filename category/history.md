@@ -2,6 +2,8 @@
 
 
 
+- 第1271天 (2022-10-08)  
+    - [NodeJs] [NodeJS如何开启多进程？](https://github.com/haizlin/fe-interview/issues/5225)
 - 第1270天 (2022-10-07)  
     - [NodeJs] [如何使用NodeJS逐行读取一个2G的文件？](https://github.com/haizlin/fe-interview/issues/5224)
 - 第1269天 (2022-10-06)  
