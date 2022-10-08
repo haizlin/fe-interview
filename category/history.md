@@ -2,6 +2,8 @@
 
 
 
+- 第1272天 (2022-10-09)  
+    - [软技能] [如何保证团队内部一致的代码风格？](https://github.com/haizlin/fe-interview/issues/5226)
 - 第1271天 (2022-10-08)  
     - [NodeJs] [NodeJS如何开启多进程？](https://github.com/haizlin/fe-interview/issues/5225)
 - 第1270天 (2022-10-07)  

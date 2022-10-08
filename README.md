@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.08) —— 第1271天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJS如何开启多进程？](https://github.com/haizlin/fe-interview/issues/5225)  
+## :clock430: 今天的知识点   (2022.10.09) —— 第1272天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [如何保证团队内部一致的代码风格？](https://github.com/haizlin/fe-interview/issues/5226)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1270天 (2022.10.07)  
-    	 :one: [NodeJs] [如何使用NodeJS逐行读取一个2G的文件？](https://github.com/haizlin/fe-interview/issues/5224)  
+- 第1271天 (2022.10.08)  
+    	 :one: [NodeJs] [NodeJS如何开启多进程？](https://github.com/haizlin/fe-interview/issues/5225)  
  
 	
 - **[查看全部](category/history.md)**
