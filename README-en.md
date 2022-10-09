@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.09) —— 1272 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [如何保证团队内部一致的代码风格？](https://github.com/haizlin/fe-interview/issues/5226)  
+## :clock430: Today's Knowledge Points (2022.10.10) —— 1273 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么是测试金字塔？](https://github.com/haizlin/fe-interview/issues/5227)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1271 days (2022.10.08)  
-    	 :one: [NodeJs] [NodeJS如何开启多进程？](https://github.com/haizlin/fe-interview/issues/5225)  
+- 1272 days (2022.10.09)  
+    	 :one: [skill] [如何保证团队内部一致的代码风格？](https://github.com/haizlin/fe-interview/issues/5226)  
  
 	
 - **[All](category/history.md)**
