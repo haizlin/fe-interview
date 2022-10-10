@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.10) —— 第1273天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [什么是测试金字塔？](https://github.com/haizlin/fe-interview/issues/5227)  
+## :clock430: 今天的知识点   (2022.10.11) —— 第1274天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法判断给定的数组是一维还是多维](https://github.com/haizlin/fe-interview/issues/5228)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1272天 (2022.10.09)  
-    	 :one: [软技能] [如何保证团队内部一致的代码风格？](https://github.com/haizlin/fe-interview/issues/5226)  
+- 第1273天 (2022.10.10)  
+    	 :one: [软技能] [什么是测试金字塔？](https://github.com/haizlin/fe-interview/issues/5227)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.10) —— 1273 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么是测试金字塔？](https://github.com/haizlin/fe-interview/issues/5227)  
+## :clock430: Today's Knowledge Points (2022.10.11) —— 1274 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法判断给定的数组是一维还是多维](https://github.com/haizlin/fe-interview/issues/5228)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1272 days (2022.10.09)  
-    	 :one: [skill] [如何保证团队内部一致的代码风格？](https://github.com/haizlin/fe-interview/issues/5226)  
+- 1273 days (2022.10.10)  
+    	 :one: [skill] [什么是测试金字塔？](https://github.com/haizlin/fe-interview/issues/5227)  
  
 	
 - **[All](category/history.md)**

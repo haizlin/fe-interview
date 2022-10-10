@@ -2,6 +2,8 @@
 
 
 
+- 第1274天 (2022-10-11)  
+    - [js] [使用js写一个方法判断给定的数组是一维还是多维](https://github.com/haizlin/fe-interview/issues/5228)
 - 第1273天 (2022-10-10)  
     - [软技能] [什么是测试金字塔？](https://github.com/haizlin/fe-interview/issues/5227)
 - 第1272天 (2022-10-09)  
