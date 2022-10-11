@@ -2,6 +2,8 @@
 
 
 
+- 第1275天 (2022-10-12)  
+    - [js] [使用js判断给定的一组数字是否连续](https://github.com/haizlin/fe-interview/issues/5229)
 - 第1274天 (2022-10-11)  
     - [js] [使用js写一个方法判断给定的数组是一维还是多维](https://github.com/haizlin/fe-interview/issues/5228)
 - 第1273天 (2022-10-10)  
