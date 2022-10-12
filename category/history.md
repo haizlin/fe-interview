@@ -2,6 +2,8 @@
 
 
 
+- 第1276天 (2022-10-13)  
+    - [js] [在JS中栈内存和堆内存分别存储什么数据？](https://github.com/haizlin/fe-interview/issues/5230)
 - 第1275天 (2022-10-12)  
     - [js] [使用js判断给定的一组数字是否连续](https://github.com/haizlin/fe-interview/issues/5229)
 - 第1274天 (2022-10-11)  

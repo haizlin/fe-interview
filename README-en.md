@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.12) —— 1275 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js判断给定的一组数字是否连续](https://github.com/haizlin/fe-interview/issues/5229)  
+## :clock430: Today's Knowledge Points (2022.10.13) —— 1276 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在JS中栈内存和堆内存分别存储什么数据？](https://github.com/haizlin/fe-interview/issues/5230)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1274 days (2022.10.11)  
-    	 :one: [js] [使用js写一个方法判断给定的数组是一维还是多维](https://github.com/haizlin/fe-interview/issues/5228)  
+- 1275 days (2022.10.12)  
+    	 :one: [js] [使用js判断给定的一组数字是否连续](https://github.com/haizlin/fe-interview/issues/5229)  
  
 	
 - **[All](category/history.md)**

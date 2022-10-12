@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.12) —— 第1275天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js判断给定的一组数字是否连续](https://github.com/haizlin/fe-interview/issues/5229)  
+## :clock430: 今天的知识点   (2022.10.13) —— 第1276天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在JS中栈内存和堆内存分别存储什么数据？](https://github.com/haizlin/fe-interview/issues/5230)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1274天 (2022.10.11)  
-    	 :one: [js] [使用js写一个方法判断给定的数组是一维还是多维](https://github.com/haizlin/fe-interview/issues/5228)  
+- 第1275天 (2022.10.12)  
+    	 :one: [js] [使用js判断给定的一组数字是否连续](https://github.com/haizlin/fe-interview/issues/5229)  
  
 	
 - **[查看全部](category/history.md)**
