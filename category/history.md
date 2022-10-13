@@ -2,6 +2,8 @@
 
 
 
+- 第1277天 (2022-10-14)  
+    - [js] [为什么说let和const定义的变量不能被二次定义？](https://github.com/haizlin/fe-interview/issues/5231)
 - 第1276天 (2022-10-13)  
     - [js] [在JS中栈内存和堆内存分别存储什么数据？](https://github.com/haizlin/fe-interview/issues/5230)
 - 第1275天 (2022-10-12)  
