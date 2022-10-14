@@ -2,6 +2,8 @@
 
 
 
+- 第1278天 (2022-10-15)  
+    - [ECMAScript] [说说你对tree-shaking的理解](https://github.com/haizlin/fe-interview/issues/5232)
 - 第1277天 (2022-10-14)  
     - [js] [为什么说let和const定义的变量不能被二次定义？](https://github.com/haizlin/fe-interview/issues/5231)
 - 第1276天 (2022-10-13)  

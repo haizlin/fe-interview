@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.14) —— 第1277天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [为什么说let和const定义的变量不能被二次定义？](https://github.com/haizlin/fe-interview/issues/5231)  
+## :clock430: 今天的知识点   (2022.10.15) —— 第1278天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [说说你对tree-shaking的理解](https://github.com/haizlin/fe-interview/issues/5232)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1276天 (2022.10.13)  
-    	 :one: [js] [在JS中栈内存和堆内存分别存储什么数据？](https://github.com/haizlin/fe-interview/issues/5230)  
+- 第1277天 (2022.10.14)  
+    	 :one: [js] [为什么说let和const定义的变量不能被二次定义？](https://github.com/haizlin/fe-interview/issues/5231)  
  
 	
 - **[查看全部](category/history.md)**
