@@ -2,6 +2,8 @@
 
 
 
+- 第1279天 (2022-10-16)  
+    - [ECMAScript] [请问哪些情况下可以使用tree-shaking？](https://github.com/haizlin/fe-interview/issues/5233)
 - 第1278天 (2022-10-15)  
     - [ECMAScript] [说说你对tree-shaking的理解](https://github.com/haizlin/fe-interview/issues/5232)
 - 第1277天 (2022-10-14)  
