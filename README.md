@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.16) —— 第1279天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请问哪些情况下可以使用tree-shaking？](https://github.com/haizlin/fe-interview/issues/5233)  
+## :clock430: 今天的知识点   (2022.10.17) —— 第1280天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron的主进程，渲染进程之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/5234)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1278天 (2022.10.15)  
-    	 :one: [ECMAScript] [说说你对tree-shaking的理解](https://github.com/haizlin/fe-interview/issues/5232)  
+- 第1279天 (2022.10.16)  
+    	 :one: [ECMAScript] [请问哪些情况下可以使用tree-shaking？](https://github.com/haizlin/fe-interview/issues/5233)  
  
 	
 - **[查看全部](category/history.md)**
