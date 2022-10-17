@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.17) —— 1280 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron的主进程，渲染进程之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/5234)  
+## :clock430: Today's Knowledge Points (2022.10.18) —— 1281 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron的主进程，渲染进程是如何通信的？](https://github.com/haizlin/fe-interview/issues/5235)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1279 days (2022.10.16)  
-    	 :one: [ECMAScript] [请问哪些情况下可以使用tree-shaking？](https://github.com/haizlin/fe-interview/issues/5233)  
+- 1280 days (2022.10.17)  
+    	 :one: [Electron] [Electron的主进程，渲染进程之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/5234)  
  
 	
 - **[All](category/history.md)**

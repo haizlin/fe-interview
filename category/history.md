@@ -2,6 +2,8 @@
 
 
 
+- 第1281天 (2022-10-18)  
+    - [Electron] [Electron的主进程，渲染进程是如何通信的？](https://github.com/haizlin/fe-interview/issues/5235)
 - 第1280天 (2022-10-17)  
     - [Electron] [Electron的主进程，渲染进程之间的区别是什么？](https://github.com/haizlin/fe-interview/issues/5234)
 - 第1279天 (2022-10-16)  
