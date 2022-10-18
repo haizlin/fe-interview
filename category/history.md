@@ -2,6 +2,8 @@
 
 
 
+- 第1282天 (2022-10-19)  
+    - [软技能] [【视频】说说你对Pm帧、I帧、B帧的理解](https://github.com/haizlin/fe-interview/issues/5236)
 - 第1281天 (2022-10-18)  
     - [Electron] [Electron的主进程，渲染进程是如何通信的？](https://github.com/haizlin/fe-interview/issues/5235)
 - 第1280天 (2022-10-17)  
