@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.19) —— 第1282天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [【视频】说说你对Pm帧、I帧、B帧的理解](https://github.com/haizlin/fe-interview/issues/5236)  
+## :clock430: 今天的知识点   (2022.10.20) —— 第1283天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [RGB和YUV有什么区别？](https://github.com/haizlin/fe-interview/issues/5237)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1281天 (2022.10.18)  
-    	 :one: [Electron] [Electron的主进程，渲染进程是如何通信的？](https://github.com/haizlin/fe-interview/issues/5235)  
+- 第1282天 (2022.10.19)  
+    	 :one: [软技能] [【视频】说说你对Pm帧、I帧、B帧的理解](https://github.com/haizlin/fe-interview/issues/5236)  
  
 	
 - **[查看全部](category/history.md)**

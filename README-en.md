@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.19) —— 1282 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [【视频】说说你对Pm帧、I帧、B帧的理解](https://github.com/haizlin/fe-interview/issues/5236)  
+## :clock430: Today's Knowledge Points (2022.10.20) —— 1283 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [RGB和YUV有什么区别？](https://github.com/haizlin/fe-interview/issues/5237)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1281 days (2022.10.18)  
-    	 :one: [Electron] [Electron的主进程，渲染进程是如何通信的？](https://github.com/haizlin/fe-interview/issues/5235)  
+- 1282 days (2022.10.19)  
+    	 :one: [skill] [【视频】说说你对Pm帧、I帧、B帧的理解](https://github.com/haizlin/fe-interview/issues/5236)  
  
 	
 - **[All](category/history.md)**

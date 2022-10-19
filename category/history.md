@@ -2,6 +2,8 @@
 
 
 
+- 第1283天 (2022-10-20)  
+    - [软技能] [RGB和YUV有什么区别？](https://github.com/haizlin/fe-interview/issues/5237)
 - 第1282天 (2022-10-19)  
     - [软技能] [【视频】说说你对Pm帧、I帧、B帧的理解](https://github.com/haizlin/fe-interview/issues/5236)
 - 第1281天 (2022-10-18)  
