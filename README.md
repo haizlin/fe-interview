@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.20) —— 第1283天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [RGB和YUV有什么区别？](https://github.com/haizlin/fe-interview/issues/5237)  
+## :clock430: 今天的知识点   (2022.10.21) —— 第1284天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请讲讲使用Wireshark抓取ping命令的流程](https://github.com/haizlin/fe-interview/issues/5238)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1282天 (2022.10.19)  
-    	 :one: [软技能] [【视频】说说你对Pm帧、I帧、B帧的理解](https://github.com/haizlin/fe-interview/issues/5236)  
+- 第1283天 (2022.10.20)  
+    	 :one: [软技能] [RGB和YUV有什么区别？](https://github.com/haizlin/fe-interview/issues/5237)  
  
 	
 - **[查看全部](category/history.md)**

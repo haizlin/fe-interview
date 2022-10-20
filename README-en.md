@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.20) —— 1283 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [RGB和YUV有什么区别？](https://github.com/haizlin/fe-interview/issues/5237)  
+## :clock430: Today's Knowledge Points (2022.10.21) —— 1284 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请讲讲使用Wireshark抓取ping命令的流程](https://github.com/haizlin/fe-interview/issues/5238)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1282 days (2022.10.19)  
-    	 :one: [skill] [【视频】说说你对Pm帧、I帧、B帧的理解](https://github.com/haizlin/fe-interview/issues/5236)  
+- 1283 days (2022.10.20)  
+    	 :one: [skill] [RGB和YUV有什么区别？](https://github.com/haizlin/fe-interview/issues/5237)  
  
 	
 - **[All](category/history.md)**

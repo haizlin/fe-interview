@@ -2,6 +2,8 @@
 
 
 
+- 第1284天 (2022-10-21)  
+    - [软技能] [请讲讲使用Wireshark抓取ping命令的流程](https://github.com/haizlin/fe-interview/issues/5238)
 - 第1283天 (2022-10-20)  
     - [软技能] [RGB和YUV有什么区别？](https://github.com/haizlin/fe-interview/issues/5237)
 - 第1282天 (2022-10-19)  
