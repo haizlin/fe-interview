@@ -2,6 +2,8 @@
 
 
 
+- 第1285天 (2022-10-22)  
+    - [软技能] [解释型语言和编译型语言的差异是什么？](https://github.com/haizlin/fe-interview/issues/5239)
 - 第1284天 (2022-10-21)  
     - [软技能] [请讲讲使用Wireshark抓取ping命令的流程](https://github.com/haizlin/fe-interview/issues/5238)
 - 第1283天 (2022-10-20)  

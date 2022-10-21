@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.21) —— 1284 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请讲讲使用Wireshark抓取ping命令的流程](https://github.com/haizlin/fe-interview/issues/5238)  
+## :clock430: Today's Knowledge Points (2022.10.22) —— 1285 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [解释型语言和编译型语言的差异是什么？](https://github.com/haizlin/fe-interview/issues/5239)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1283 days (2022.10.20)  
-    	 :one: [skill] [RGB和YUV有什么区别？](https://github.com/haizlin/fe-interview/issues/5237)  
+- 1284 days (2022.10.21)  
+    	 :one: [skill] [请讲讲使用Wireshark抓取ping命令的流程](https://github.com/haizlin/fe-interview/issues/5238)  
  
 	
 - **[All](category/history.md)**
