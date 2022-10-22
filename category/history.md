@@ -2,6 +2,8 @@
 
 
 
+- 第1286天 (2022-10-23)  
+    - [js] [请问JS中的数组和函数在内存中是如何存储的？](https://github.com/haizlin/fe-interview/issues/5240)
 - 第1285天 (2022-10-22)  
     - [软技能] [解释型语言和编译型语言的差异是什么？](https://github.com/haizlin/fe-interview/issues/5239)
 - 第1284天 (2022-10-21)  

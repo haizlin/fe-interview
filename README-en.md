@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.22) —— 1285 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [解释型语言和编译型语言的差异是什么？](https://github.com/haizlin/fe-interview/issues/5239)  
+## :clock430: Today's Knowledge Points (2022.10.23) —— 1286 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问JS中的数组和函数在内存中是如何存储的？](https://github.com/haizlin/fe-interview/issues/5240)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1284 days (2022.10.21)  
-    	 :one: [skill] [请讲讲使用Wireshark抓取ping命令的流程](https://github.com/haizlin/fe-interview/issues/5238)  
+- 1285 days (2022.10.22)  
+    	 :one: [skill] [解释型语言和编译型语言的差异是什么？](https://github.com/haizlin/fe-interview/issues/5239)  
  
 	
 - **[All](category/history.md)**
