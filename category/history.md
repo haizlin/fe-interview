@@ -2,6 +2,8 @@
 
 
 
+- 第1287天 (2022-10-24)  
+    - [js] [上传图片过程中断，如何恢复传输？](https://github.com/haizlin/fe-interview/issues/5241)
 - 第1286天 (2022-10-23)  
     - [js] [请问JS中的数组和函数在内存中是如何存储的？](https://github.com/haizlin/fe-interview/issues/5240)
 - 第1285天 (2022-10-22)  

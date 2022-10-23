@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.23) —— 第1286天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问JS中的数组和函数在内存中是如何存储的？](https://github.com/haizlin/fe-interview/issues/5240)  
+## :clock430: 今天的知识点   (2022.10.24) —— 第1287天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [上传图片过程中断，如何恢复传输？](https://github.com/haizlin/fe-interview/issues/5241)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1285天 (2022.10.22)  
-    	 :one: [软技能] [解释型语言和编译型语言的差异是什么？](https://github.com/haizlin/fe-interview/issues/5239)  
+- 第1286天 (2022.10.23)  
+    	 :one: [js] [请问JS中的数组和函数在内存中是如何存储的？](https://github.com/haizlin/fe-interview/issues/5240)  
  
 	
 - **[查看全部](category/history.md)**
