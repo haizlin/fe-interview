@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.24) —— 1287 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [上传图片过程中断，如何恢复传输？](https://github.com/haizlin/fe-interview/issues/5241)  
+## :clock430: Today's Knowledge Points (2022.10.25) —— 1288 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说npm/cnpm/yarn/pnpm的区别](https://github.com/haizlin/fe-interview/issues/5242)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1286 days (2022.10.23)  
-    	 :one: [js] [请问JS中的数组和函数在内存中是如何存储的？](https://github.com/haizlin/fe-interview/issues/5240)  
+- 1287 days (2022.10.24)  
+    	 :one: [js] [上传图片过程中断，如何恢复传输？](https://github.com/haizlin/fe-interview/issues/5241)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1288天 (2022-10-25)  
+    - [NodeJs] [请说说npm/cnpm/yarn/pnpm的区别](https://github.com/haizlin/fe-interview/issues/5242)
 - 第1287天 (2022-10-24)  
     - [js] [上传图片过程中断，如何恢复传输？](https://github.com/haizlin/fe-interview/issues/5241)
 - 第1286天 (2022-10-23)  
