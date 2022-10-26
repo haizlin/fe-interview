@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.26) —— 1289 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法随机生成一批微信昵称](https://github.com/haizlin/fe-interview/issues/5243)  
+## :clock430: Today's Knowledge Points (2022.10.27) —— 1290 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法随机生成一批微信头像](https://github.com/haizlin/fe-interview/issues/5244)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1288 days (2022.10.25)  
-    	 :one: [NodeJs] [请说说npm/cnpm/yarn/pnpm的区别](https://github.com/haizlin/fe-interview/issues/5242)  
+- 1289 days (2022.10.26)  
+    	 :one: [js] [使用js写一个方法随机生成一批微信昵称](https://github.com/haizlin/fe-interview/issues/5243)  
  
 	
 - **[All](category/history.md)**

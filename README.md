@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.26) —— 第1289天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法随机生成一批微信昵称](https://github.com/haizlin/fe-interview/issues/5243)  
+## :clock430: 今天的知识点   (2022.10.27) —— 第1290天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法随机生成一批微信头像](https://github.com/haizlin/fe-interview/issues/5244)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1288天 (2022.10.25)  
-    	 :one: [NodeJs] [请说说npm/cnpm/yarn/pnpm的区别](https://github.com/haizlin/fe-interview/issues/5242)  
+- 第1289天 (2022.10.26)  
+    	 :one: [js] [使用js写一个方法随机生成一批微信昵称](https://github.com/haizlin/fe-interview/issues/5243)  
  
 	
 - **[查看全部](category/history.md)**

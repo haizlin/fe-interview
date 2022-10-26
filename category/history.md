@@ -2,6 +2,8 @@
 
 
 
+- 第1290天 (2022-10-27)  
+    - [js] [使用js写一个方法随机生成一批微信头像](https://github.com/haizlin/fe-interview/issues/5244)
 - 第1289天 (2022-10-26)  
     - [js] [使用js写一个方法随机生成一批微信昵称](https://github.com/haizlin/fe-interview/issues/5243)
 - 第1288天 (2022-10-25)  
