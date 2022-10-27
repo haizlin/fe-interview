@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.27) —— 第1290天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法随机生成一批微信头像](https://github.com/haizlin/fe-interview/issues/5244)  
+## :clock430: 今天的知识点   (2022.10.28) —— 第1291天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [uniapp中原生与webview是如何相互通信的？](https://github.com/haizlin/fe-interview/issues/5245)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1289天 (2022.10.26)  
-    	 :one: [js] [使用js写一个方法随机生成一批微信昵称](https://github.com/haizlin/fe-interview/issues/5243)  
+- 第1290天 (2022.10.27)  
+    	 :one: [js] [使用js写一个方法随机生成一批微信头像](https://github.com/haizlin/fe-interview/issues/5244)  
  
 	
 - **[查看全部](category/history.md)**

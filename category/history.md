@@ -2,6 +2,8 @@
 
 
 
+- 第1291天 (2022-10-28)  
+    - [小程序] [uniapp中原生与webview是如何相互通信的？](https://github.com/haizlin/fe-interview/issues/5245)
 - 第1290天 (2022-10-27)  
     - [js] [使用js写一个方法随机生成一批微信头像](https://github.com/haizlin/fe-interview/issues/5244)
 - 第1289天 (2022-10-26)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.27) —— 1290 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法随机生成一批微信头像](https://github.com/haizlin/fe-interview/issues/5244)  
+## :clock430: Today's Knowledge Points (2022.10.28) —— 1291 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [uniapp中原生与webview是如何相互通信的？](https://github.com/haizlin/fe-interview/issues/5245)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1289 days (2022.10.26)  
-    	 :one: [js] [使用js写一个方法随机生成一批微信昵称](https://github.com/haizlin/fe-interview/issues/5243)  
+- 1290 days (2022.10.27)  
+    	 :one: [js] [使用js写一个方法随机生成一批微信头像](https://github.com/haizlin/fe-interview/issues/5244)  
  
 	
 - **[All](category/history.md)**
