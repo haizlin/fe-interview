@@ -2,6 +2,8 @@
 
 
 
+- 第1292天 (2022-10-29)  
+    - [NodeJs] [请讲讲libuv线程池运行原理](https://github.com/haizlin/fe-interview/issues/5246)
 - 第1291天 (2022-10-28)  
     - [小程序] [uniapp中原生与webview是如何相互通信的？](https://github.com/haizlin/fe-interview/issues/5245)
 - 第1290天 (2022-10-27)  
