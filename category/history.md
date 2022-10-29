@@ -2,6 +2,8 @@
 
 
 
+- 第1293天 (2022-10-30)  
+    - [NodeJs] [在NodeJs中是如何使用libuv中的线程池？](https://github.com/haizlin/fe-interview/issues/5247)
 - 第1292天 (2022-10-29)  
     - [NodeJs] [请讲讲libuv线程池运行原理](https://github.com/haizlin/fe-interview/issues/5246)
 - 第1291天 (2022-10-28)  

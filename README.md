@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.29) —— 第1292天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请讲讲libuv线程池运行原理](https://github.com/haizlin/fe-interview/issues/5246)  
+## :clock430: 今天的知识点   (2022.10.30) —— 第1293天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJs中是如何使用libuv中的线程池？](https://github.com/haizlin/fe-interview/issues/5247)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1291天 (2022.10.28)  
-    	 :one: [小程序] [uniapp中原生与webview是如何相互通信的？](https://github.com/haizlin/fe-interview/issues/5245)  
+- 第1292天 (2022.10.29)  
+    	 :one: [NodeJs] [请讲讲libuv线程池运行原理](https://github.com/haizlin/fe-interview/issues/5246)  
  
 	
 - **[查看全部](category/history.md)**
