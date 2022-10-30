@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.30) —— 第1293天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在NodeJs中是如何使用libuv中的线程池？](https://github.com/haizlin/fe-interview/issues/5247)  
+## :clock430: 今天的知识点   (2022.10.31) —— 第1294天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [什么是websocket？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/5248)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1292天 (2022.10.29)  
-    	 :one: [NodeJs] [请讲讲libuv线程池运行原理](https://github.com/haizlin/fe-interview/issues/5246)  
+- 第1293天 (2022.10.30)  
+    	 :one: [NodeJs] [在NodeJs中是如何使用libuv中的线程池？](https://github.com/haizlin/fe-interview/issues/5247)  
  
 	
 - **[查看全部](category/history.md)**

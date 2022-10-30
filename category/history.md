@@ -2,6 +2,8 @@
 
 
 
+- 第1294天 (2022-10-31)  
+    - [软技能] [什么是websocket？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/5248)
 - 第1293天 (2022-10-30)  
     - [NodeJs] [在NodeJs中是如何使用libuv中的线程池？](https://github.com/haizlin/fe-interview/issues/5247)
 - 第1292天 (2022-10-29)  
