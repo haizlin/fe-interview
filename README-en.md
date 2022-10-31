@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.10.31) —— 1294 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么是websocket？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/5248)  
+## :clock430: Today's Knowledge Points (2022.11.01) —— 1295 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说使用uniapp开发有哪些优点和缺点](https://github.com/haizlin/fe-interview/issues/5249)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1293 days (2022.10.30)  
-    	 :one: [NodeJs] [在NodeJs中是如何使用libuv中的线程池？](https://github.com/haizlin/fe-interview/issues/5247)  
+- 1294 days (2022.10.31)  
+    	 :one: [skill] [什么是websocket？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/5248)  
  
 	
 - **[All](category/history.md)**

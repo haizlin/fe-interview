@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.10.31) —— 第1294天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [什么是websocket？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/5248)  
+## :clock430: 今天的知识点   (2022.11.01) —— 第1295天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说使用uniapp开发有哪些优点和缺点](https://github.com/haizlin/fe-interview/issues/5249)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1293天 (2022.10.30)  
-    	 :one: [NodeJs] [在NodeJs中是如何使用libuv中的线程池？](https://github.com/haizlin/fe-interview/issues/5247)  
+- 第1294天 (2022.10.31)  
+    	 :one: [软技能] [什么是websocket？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/5248)  
  
 	
 - **[查看全部](category/history.md)**

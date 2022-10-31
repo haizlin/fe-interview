@@ -2,6 +2,8 @@
 
 
 
+- 第1295天 (2022-11-01)  
+    - [小程序] [请说说使用uniapp开发有哪些优点和缺点](https://github.com/haizlin/fe-interview/issues/5249)
 - 第1294天 (2022-10-31)  
     - [软技能] [什么是websocket？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/5248)
 - 第1293天 (2022-10-30)  
