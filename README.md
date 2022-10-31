@@ -6,7 +6,7 @@
         <img src="./resource/images/diandiansai.png" alt="点点赛" width="150px"> 
     </p>
     <p align="center">
-        (使用微信扫一扫体验，即将开源)
+        (使用微信扫一扫体验，基于uniapp，即将开源)
     </p>
 </div>
 
