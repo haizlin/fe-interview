@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.01) —— 第1295天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说使用uniapp开发有哪些优点和缺点](https://github.com/haizlin/fe-interview/issues/5249)  
+## :clock430: 今天的知识点   (2022.11.02) —— 第1296天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法实现求一个数组的平均数](https://github.com/haizlin/fe-interview/issues/5250)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1294天 (2022.10.31)  
-    	 :one: [软技能] [什么是websocket？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/5248)  
+- 第1295天 (2022.11.01)  
+    	 :one: [小程序] [请说说使用uniapp开发有哪些优点和缺点](https://github.com/haizlin/fe-interview/issues/5249)  
  
 	
 - **[查看全部](category/history.md)**

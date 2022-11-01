@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.01) —— 1295 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说使用uniapp开发有哪些优点和缺点](https://github.com/haizlin/fe-interview/issues/5249)  
+## :clock430: Today's Knowledge Points (2022.11.02) —— 1296 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法实现求一个数组的平均数](https://github.com/haizlin/fe-interview/issues/5250)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1294 days (2022.10.31)  
-    	 :one: [skill] [什么是websocket？它有什么应用场景？](https://github.com/haizlin/fe-interview/issues/5248)  
+- 1295 days (2022.11.01)  
+    	 :one: [小程序] [请说说使用uniapp开发有哪些优点和缺点](https://github.com/haizlin/fe-interview/issues/5249)  
  
 	
 - **[All](category/history.md)**

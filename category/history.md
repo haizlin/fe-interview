@@ -2,6 +2,8 @@
 
 
 
+- 第1296天 (2022-11-02)  
+    - [js] [使用js写一个方法实现求一个数组的平均数](https://github.com/haizlin/fe-interview/issues/5250)
 - 第1295天 (2022-11-01)  
     - [小程序] [请说说使用uniapp开发有哪些优点和缺点](https://github.com/haizlin/fe-interview/issues/5249)
 - 第1294天 (2022-10-31)  
