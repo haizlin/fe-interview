@@ -2,6 +2,8 @@
 
 
 
+- 第1297天 (2022-11-03)  
+    - [vue] [怎样衡量组件的封装好和不好？](https://github.com/haizlin/fe-interview/issues/5251)
 - 第1296天 (2022-11-02)  
     - [js] [使用js写一个方法实现求一个数组的平均数](https://github.com/haizlin/fe-interview/issues/5250)
 - 第1295天 (2022-11-01)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.02) —— 第1296天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法实现求一个数组的平均数](https://github.com/haizlin/fe-interview/issues/5250)  
+## :clock430: 今天的知识点   (2022.11.03) —— 第1297天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [怎样衡量组件的封装好和不好？](https://github.com/haizlin/fe-interview/issues/5251)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1295天 (2022.11.01)  
-    	 :one: [小程序] [请说说使用uniapp开发有哪些优点和缺点](https://github.com/haizlin/fe-interview/issues/5249)  
+- 第1296天 (2022.11.02)  
+    	 :one: [js] [使用js写一个方法实现求一个数组的平均数](https://github.com/haizlin/fe-interview/issues/5250)  
  
 	
 - **[查看全部](category/history.md)**
