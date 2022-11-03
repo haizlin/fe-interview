@@ -2,6 +2,8 @@
 
 
 
+- 第1298天 (2022-11-04)  
+    - [小程序] [开发的小程序用户可以评论，如何保证评论内容不违规？](https://github.com/haizlin/fe-interview/issues/5252)
 - 第1297天 (2022-11-03)  
     - [vue] [怎样衡量组件的封装好和不好？](https://github.com/haizlin/fe-interview/issues/5251)
 - 第1296天 (2022-11-02)  

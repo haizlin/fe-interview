@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.03) —— 1297 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [怎样衡量组件的封装好和不好？](https://github.com/haizlin/fe-interview/issues/5251)  
+## :clock430: Today's Knowledge Points (2022.11.04) —— 1298 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [开发的小程序用户可以评论，如何保证评论内容不违规？](https://github.com/haizlin/fe-interview/issues/5252)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1296 days (2022.11.02)  
-    	 :one: [js] [使用js写一个方法实现求一个数组的平均数](https://github.com/haizlin/fe-interview/issues/5250)  
+- 1297 days (2022.11.03)  
+    	 :one: [vue] [怎样衡量组件的封装好和不好？](https://github.com/haizlin/fe-interview/issues/5251)  
  
 	
 - **[All](category/history.md)**
