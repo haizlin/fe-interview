@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.04) —— 1298 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [开发的小程序用户可以评论，如何保证评论内容不违规？](https://github.com/haizlin/fe-interview/issues/5252)  
+## :clock430: Today's Knowledge Points (2022.11.05) —— 1299 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何保证同时请求5个接口的结果按顺序输出？](https://github.com/haizlin/fe-interview/issues/5253)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1297 days (2022.11.03)  
-    	 :one: [vue] [怎样衡量组件的封装好和不好？](https://github.com/haizlin/fe-interview/issues/5251)  
+- 1298 days (2022.11.04)  
+    	 :one: [小程序] [开发的小程序用户可以评论，如何保证评论内容不违规？](https://github.com/haizlin/fe-interview/issues/5252)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.04) —— 第1298天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [开发的小程序用户可以评论，如何保证评论内容不违规？](https://github.com/haizlin/fe-interview/issues/5252)  
+## :clock430: 今天的知识点   (2022.11.05) —— 第1299天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何保证同时请求5个接口的结果按顺序输出？](https://github.com/haizlin/fe-interview/issues/5253)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1297天 (2022.11.03)  
-    	 :one: [vue] [怎样衡量组件的封装好和不好？](https://github.com/haizlin/fe-interview/issues/5251)  
+- 第1298天 (2022.11.04)  
+    	 :one: [小程序] [开发的小程序用户可以评论，如何保证评论内容不违规？](https://github.com/haizlin/fe-interview/issues/5252)  
  
 	
 - **[查看全部](category/history.md)**
