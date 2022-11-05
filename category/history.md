@@ -2,6 +2,8 @@
 
 
 
+- 第1300天 (2022-11-06)  
+    - [js] [使用js写一个方法获取url上的所有参数](https://github.com/haizlin/fe-interview/issues/5254)
 - 第1299天 (2022-11-05)  
     - [js] [如何保证同时请求5个接口的结果按顺序输出？](https://github.com/haizlin/fe-interview/issues/5253)
 - 第1298天 (2022-11-04)  

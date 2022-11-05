@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.05) —— 1299 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何保证同时请求5个接口的结果按顺序输出？](https://github.com/haizlin/fe-interview/issues/5253)  
+## :clock430: Today's Knowledge Points (2022.11.06) —— 1300 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法获取url上的所有参数](https://github.com/haizlin/fe-interview/issues/5254)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1298 days (2022.11.04)  
-    	 :one: [小程序] [开发的小程序用户可以评论，如何保证评论内容不违规？](https://github.com/haizlin/fe-interview/issues/5252)  
+- 1299 days (2022.11.05)  
+    	 :one: [js] [如何保证同时请求5个接口的结果按顺序输出？](https://github.com/haizlin/fe-interview/issues/5253)  
  
 	
 - **[All](category/history.md)**
