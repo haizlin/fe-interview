@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.06) —— 第1300天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法获取url上的所有参数](https://github.com/haizlin/fe-interview/issues/5254)  
+## :clock430: 今天的知识点   (2022.11.07) —— 第1301天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说window.location和document.location有什么区别？](https://github.com/haizlin/fe-interview/issues/5255)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1299天 (2022.11.05)  
-    	 :one: [js] [如何保证同时请求5个接口的结果按顺序输出？](https://github.com/haizlin/fe-interview/issues/5253)  
+- 第1300天 (2022.11.06)  
+    	 :one: [js] [使用js写一个方法获取url上的所有参数](https://github.com/haizlin/fe-interview/issues/5254)  
  
 	
 - **[查看全部](category/history.md)**

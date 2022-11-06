@@ -2,6 +2,8 @@
 
 
 
+- 第1301天 (2022-11-07)  
+    - [js] [请说说window.location和document.location有什么区别？](https://github.com/haizlin/fe-interview/issues/5255)
 - 第1300天 (2022-11-06)  
     - [js] [使用js写一个方法获取url上的所有参数](https://github.com/haizlin/fe-interview/issues/5254)
 - 第1299天 (2022-11-05)  
