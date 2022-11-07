@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.07) —— 1301 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说window.location和document.location有什么区别？](https://github.com/haizlin/fe-interview/issues/5255)  
+## :clock430: Today's Knowledge Points (2022.11.08) —— 1302 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1300 days (2022.11.06)  
-    	 :one: [js] [使用js写一个方法获取url上的所有参数](https://github.com/haizlin/fe-interview/issues/5254)  
+- 1301 days (2022.11.07)  
+    	 :one: [js] [请说说window.location和document.location有什么区别？](https://github.com/haizlin/fe-interview/issues/5255)  
  
 	
 - **[All](category/history.md)**
