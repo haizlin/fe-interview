@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.06.27) —— 1168 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [浏览器渲染进程的线程有哪些？](https://github.com/haizlin/fe-interview/issues/5116)  
+## :clock430: Today's Knowledge Points (2022.11.07) —— 1301 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说window.location和document.location有什么区别？](https://github.com/haizlin/fe-interview/issues/5255)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1167 days (2022.06.26)  
-    	 :one: [skill] [有哪些操作可能会引起前端安全的问题？](https://github.com/haizlin/fe-interview/issues/5115)  
+- 1300 days (2022.11.06)  
+    	 :one: [js] [使用js写一个方法获取url上的所有参数](https://github.com/haizlin/fe-interview/issues/5254)  
  
 	
 - **[All](category/history.md)**
