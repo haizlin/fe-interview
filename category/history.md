@@ -2,6 +2,8 @@
 
 
 
+- 第1303天 (2022-11-09)  
+    - [js] [worker加载js脚本如何解决跨域?](https://github.com/haizlin/fe-interview/issues/5256)
 - 第1301天 (2022-11-07)  
     - [js] [请说说window.location和document.location有什么区别？](https://github.com/haizlin/fe-interview/issues/5255)
 - 第1300天 (2022-11-06)  

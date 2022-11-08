@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.08) —— 1302 days  
+## :clock430: Today's Knowledge Points (2022.11.09) —— 1303 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [worker加载js脚本如何解决跨域?](https://github.com/haizlin/fe-interview/issues/5256)  
  
   
 ### :camel: History
@@ -51,9 +52,8 @@
     …………  
 
 
-- 1301 days (2022.11.07)  
-    	 :one: [js] [请说说window.location和document.location有什么区别？](https://github.com/haizlin/fe-interview/issues/5255)  
- 
+- 1302 days (2022.11.08)  
+     
 	
 - **[All](category/history.md)**
 

@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.08) —— 第1302天  
+## :clock430: 今天的知识点   (2022.11.09) —— 第1303天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [worker加载js脚本如何解决跨域?](https://github.com/haizlin/fe-interview/issues/5256)  
  
   
 ### :camel: 历史题目
@@ -52,9 +53,8 @@
     …………  
 
 
-- 第1301天 (2022.11.07)  
-    	 :one: [js] [请说说window.location和document.location有什么区别？](https://github.com/haizlin/fe-interview/issues/5255)  
- 
+- 第1302天 (2022.11.08)  
+     
 	
 - **[查看全部](category/history.md)**
 
