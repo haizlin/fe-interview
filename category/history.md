@@ -2,6 +2,8 @@
 
 
 
+- 第1304天 (2022-11-10)  
+    - [软技能] [请描述下文件上传/下载的原理](https://github.com/haizlin/fe-interview/issues/5257)
 - 第1303天 (2022-11-09)  
     - [js] [worker加载js脚本如何解决跨域?](https://github.com/haizlin/fe-interview/issues/5256)
 - 第1301天 (2022-11-07)  

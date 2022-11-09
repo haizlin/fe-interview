@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.09) —— 1303 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [worker加载js脚本如何解决跨域?](https://github.com/haizlin/fe-interview/issues/5256)  
+## :clock430: Today's Knowledge Points (2022.11.10) —— 1304 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请描述下文件上传/下载的原理](https://github.com/haizlin/fe-interview/issues/5257)  
  
   
 ### :camel: History
@@ -52,8 +52,9 @@
     …………  
 
 
-- 1302 days (2022.11.08)  
-     
+- 1303 days (2022.11.09)  
+    	 :one: [js] [worker加载js脚本如何解决跨域?](https://github.com/haizlin/fe-interview/issues/5256)  
+ 
 	
 - **[All](category/history.md)**
 
