@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.10) —— 第1304天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请描述下文件上传/下载的原理](https://github.com/haizlin/fe-interview/issues/5257)  
+## :clock430: 今天的知识点   (2022.11.11) —— 第1305天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [worker线程有什么作用?](https://github.com/haizlin/fe-interview/issues/5258)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1303天 (2022.11.09)  
-    	 :one: [js] [worker加载js脚本如何解决跨域?](https://github.com/haizlin/fe-interview/issues/5256)  
+- 第1304天 (2022.11.10)  
+    	 :one: [软技能] [请描述下文件上传/下载的原理](https://github.com/haizlin/fe-interview/issues/5257)  
  
 	
 - **[查看全部](category/history.md)**

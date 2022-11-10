@@ -2,6 +2,8 @@
 
 
 
+- 第1305天 (2022-11-11)  
+    - [js] [worker线程有什么作用?](https://github.com/haizlin/fe-interview/issues/5258)
 - 第1304天 (2022-11-10)  
     - [软技能] [请描述下文件上传/下载的原理](https://github.com/haizlin/fe-interview/issues/5257)
 - 第1303天 (2022-11-09)  
