@@ -2,6 +2,8 @@
 
 
 
+- 第1306天 (2022-11-12)  
+    - [js] [worker子线程是否支持异步操作?](https://github.com/haizlin/fe-interview/issues/5259)
 - 第1305天 (2022-11-11)  
     - [js] [worker线程有什么作用?](https://github.com/haizlin/fe-interview/issues/5258)
 - 第1304天 (2022-11-10)  

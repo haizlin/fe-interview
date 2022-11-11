@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.11) —— 1305 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [worker线程有什么作用?](https://github.com/haizlin/fe-interview/issues/5258)  
+## :clock430: Today's Knowledge Points (2022.11.12) —— 1306 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [worker子线程是否支持异步操作?](https://github.com/haizlin/fe-interview/issues/5259)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1304 days (2022.11.10)  
-    	 :one: [skill] [请描述下文件上传/下载的原理](https://github.com/haizlin/fe-interview/issues/5257)  
+- 1305 days (2022.11.11)  
+    	 :one: [js] [worker线程有什么作用?](https://github.com/haizlin/fe-interview/issues/5258)  
  
 	
 - **[All](category/history.md)**
