@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.12) —— 第1306天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [worker子线程是否支持异步操作?](https://github.com/haizlin/fe-interview/issues/5259)  
+## :clock430: 今天的知识点   (2022.11.13) —— 第1307天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对Flutter的理解](https://github.com/haizlin/fe-interview/issues/5260)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1305天 (2022.11.11)  
-    	 :one: [js] [worker线程有什么作用?](https://github.com/haizlin/fe-interview/issues/5258)  
+- 第1306天 (2022.11.12)  
+    	 :one: [js] [worker子线程是否支持异步操作?](https://github.com/haizlin/fe-interview/issues/5259)  
  
 	
 - **[查看全部](category/history.md)**

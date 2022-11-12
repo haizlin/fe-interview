@@ -2,6 +2,8 @@
 
 
 
+- 第1307天 (2022-11-13)  
+    - [软技能] [说说你对Flutter的理解](https://github.com/haizlin/fe-interview/issues/5260)
 - 第1306天 (2022-11-12)  
     - [js] [worker子线程是否支持异步操作?](https://github.com/haizlin/fe-interview/issues/5259)
 - 第1305天 (2022-11-11)  
