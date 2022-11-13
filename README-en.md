@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.13) —— 1307 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对Flutter的理解](https://github.com/haizlin/fe-interview/issues/5260)  
+## :clock430: Today's Knowledge Points (2022.11.14) —— 1308 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [当前端项目过大时,你是如何做拆分的?](https://github.com/haizlin/fe-interview/issues/5261)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1306 days (2022.11.12)  
-    	 :one: [js] [worker子线程是否支持异步操作?](https://github.com/haizlin/fe-interview/issues/5259)  
+- 1307 days (2022.11.13)  
+    	 :one: [skill] [说说你对Flutter的理解](https://github.com/haizlin/fe-interview/issues/5260)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.13) —— 第1307天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对Flutter的理解](https://github.com/haizlin/fe-interview/issues/5260)  
+## :clock430: 今天的知识点   (2022.11.14) —— 第1308天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [当前端项目过大时,你是如何做拆分的?](https://github.com/haizlin/fe-interview/issues/5261)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1306天 (2022.11.12)  
-    	 :one: [js] [worker子线程是否支持异步操作?](https://github.com/haizlin/fe-interview/issues/5259)  
+- 第1307天 (2022.11.13)  
+    	 :one: [软技能] [说说你对Flutter的理解](https://github.com/haizlin/fe-interview/issues/5260)  
  
 	
 - **[查看全部](category/history.md)**

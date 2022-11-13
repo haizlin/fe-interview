@@ -2,6 +2,8 @@
 
 
 
+- 第1308天 (2022-11-14)  
+    - [软技能] [当前端项目过大时,你是如何做拆分的?](https://github.com/haizlin/fe-interview/issues/5261)
 - 第1307天 (2022-11-13)  
     - [软技能] [说说你对Flutter的理解](https://github.com/haizlin/fe-interview/issues/5260)
 - 第1306天 (2022-11-12)  
