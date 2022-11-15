@@ -2,6 +2,10 @@
 
 
 
+- 第1310天 (2022-11-16)  
+    - [软技能] [你了解微信开放平台吗？](https://github.com/haizlin/fe-interview/issues/5266)
+- 第1309天 (2022-11-15)  
+    - [vue] [说说你对vue中watch的immediate和deep的理解](https://github.com/haizlin/fe-interview/issues/5262)
 - 第1308天 (2022-11-14)  
     - [软技能] [当前端项目过大时,你是如何做拆分的?](https://github.com/haizlin/fe-interview/issues/5261)
 - 第1307天 (2022-11-13)  

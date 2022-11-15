@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.15) —— 1309 days  
+## :clock430: Today's Knowledge Points (2022.11.16) —— 1310 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你了解微信开放平台吗？](https://github.com/haizlin/fe-interview/issues/5266)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1308 days (2022.11.14)  
-    	 :one: [skill] [当前端项目过大时,你是如何做拆分的?](https://github.com/haizlin/fe-interview/issues/5261)  
+- 1309 days (2022.11.15)  
+    	 :one: [vue] [说说你对vue中watch的immediate和deep的理解](https://github.com/haizlin/fe-interview/issues/5262)  
  
 	
 - **[All](category/history.md)**

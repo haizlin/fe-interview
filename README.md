@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.15) —— 第1309天  
+## :clock430: 今天的知识点   (2022.11.16) —— 第1310天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你了解微信开放平台吗？](https://github.com/haizlin/fe-interview/issues/5266)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1308天 (2022.11.14)  
-    	 :one: [软技能] [当前端项目过大时,你是如何做拆分的?](https://github.com/haizlin/fe-interview/issues/5261)  
+- 第1309天 (2022.11.15)  
+    	 :one: [vue] [说说你对vue中watch的immediate和deep的理解](https://github.com/haizlin/fe-interview/issues/5262)  
  
 	
 - **[查看全部](category/history.md)**
