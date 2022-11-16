@@ -2,6 +2,8 @@
 
 
 
+- 第1311天 (2022-11-17)  
+    - [软技能] [说说你对Turbopack的理解，它有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5267)
 - 第1310天 (2022-11-16)  
     - [软技能] [你了解微信开放平台吗？](https://github.com/haizlin/fe-interview/issues/5266)
 - 第1309天 (2022-11-15)  

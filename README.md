@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.16) —— 第1310天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你了解微信开放平台吗？](https://github.com/haizlin/fe-interview/issues/5266)  
+## :clock430: 今天的知识点   (2022.11.17) —— 第1311天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对Turbopack的理解，它有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5267)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1309天 (2022.11.15)  
-    	 :one: [vue] [说说你对vue中watch的immediate和deep的理解](https://github.com/haizlin/fe-interview/issues/5262)  
+- 第1310天 (2022.11.16)  
+    	 :one: [软技能] [你了解微信开放平台吗？](https://github.com/haizlin/fe-interview/issues/5266)  
  
 	
 - **[查看全部](category/history.md)**
