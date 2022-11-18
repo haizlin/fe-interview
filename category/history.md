@@ -2,6 +2,8 @@
 
 
 
+- 第1313天 (2022-11-19)  
+    - [vue] [vue-router的原理是什么？](https://github.com/haizlin/fe-interview/issues/5269)
 - 第1312天 (2022-11-18)  
     - [webpack] [webpack和Turbopack有什么区别？](https://github.com/haizlin/fe-interview/issues/5268)
 - 第1311天 (2022-11-17)  
