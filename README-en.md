@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.19) —— 1313 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue-router的原理是什么？](https://github.com/haizlin/fe-interview/issues/5269)  
+## :clock430: Today's Knowledge Points (2022.11.20) —— 1314 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用vue-router你踩过哪些坑？](https://github.com/haizlin/fe-interview/issues/5270)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1312 days (2022.11.18)  
-    	 :one: [webpack] [webpack和Turbopack有什么区别？](https://github.com/haizlin/fe-interview/issues/5268)  
+- 1313 days (2022.11.19)  
+    	 :one: [vue] [vue-router的原理是什么？](https://github.com/haizlin/fe-interview/issues/5269)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1314天 (2022-11-20)  
+    - [vue] [使用vue-router你踩过哪些坑？](https://github.com/haizlin/fe-interview/issues/5270)
 - 第1313天 (2022-11-19)  
     - [vue] [vue-router的原理是什么？](https://github.com/haizlin/fe-interview/issues/5269)
 - 第1312天 (2022-11-18)  

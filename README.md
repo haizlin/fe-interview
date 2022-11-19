@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.19) —— 第1313天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue-router的原理是什么？](https://github.com/haizlin/fe-interview/issues/5269)  
+## :clock430: 今天的知识点   (2022.11.20) —— 第1314天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用vue-router你踩过哪些坑？](https://github.com/haizlin/fe-interview/issues/5270)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1312天 (2022.11.18)  
-    	 :one: [webpack] [webpack和Turbopack有什么区别？](https://github.com/haizlin/fe-interview/issues/5268)  
+- 第1313天 (2022.11.19)  
+    	 :one: [vue] [vue-router的原理是什么？](https://github.com/haizlin/fe-interview/issues/5269)  
  
 	
 - **[查看全部](category/history.md)**
