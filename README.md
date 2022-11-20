@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.20) —— 第1314天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用vue-router你踩过哪些坑？](https://github.com/haizlin/fe-interview/issues/5270)  
+## :clock430: 今天的知识点   (2022.11.21) —— 第1315天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [HTTP的请求头有哪些？请列举出一些并描述下它的作用](https://github.com/haizlin/fe-interview/issues/5271)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1313天 (2022.11.19)  
-    	 :one: [vue] [vue-router的原理是什么？](https://github.com/haizlin/fe-interview/issues/5269)  
+- 第1314天 (2022.11.20)  
+    	 :one: [vue] [使用vue-router你踩过哪些坑？](https://github.com/haizlin/fe-interview/issues/5270)  
  
 	
 - **[查看全部](category/history.md)**
