@@ -2,6 +2,8 @@
 
 
 
+- 第1316天 (2022-11-22)  
+    - [NodeJs] [请解译下nodejs中__dirname,__filename属性的作用](https://github.com/haizlin/fe-interview/issues/5272)
 - 第1315天 (2022-11-21)  
     - [软技能] [HTTP的请求头有哪些？请列举出一些并描述下它的作用](https://github.com/haizlin/fe-interview/issues/5271)
 - 第1314天 (2022-11-20)  
