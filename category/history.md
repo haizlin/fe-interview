@@ -2,6 +2,8 @@
 
 
 
+- 第1317天 (2022-11-23)  
+    - [NodeJs] [Nodejs中是如何导出模块的？](https://github.com/haizlin/fe-interview/issues/5273)
 - 第1316天 (2022-11-22)  
     - [NodeJs] [请解译下nodejs中__dirname,__filename属性的作用](https://github.com/haizlin/fe-interview/issues/5272)
 - 第1315天 (2022-11-21)  
