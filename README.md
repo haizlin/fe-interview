@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.11.23) —— 第1317天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs中是如何导出模块的？](https://github.com/haizlin/fe-interview/issues/5273)  
+## :clock430: 今天的知识点   (2022.11.24) —— 第1318天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [在Nodejs中异步I/O的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5274)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1316天 (2022.11.22)  
-    	 :one: [NodeJs] [请解译下nodejs中__dirname,__filename属性的作用](https://github.com/haizlin/fe-interview/issues/5272)  
+- 第1317天 (2022.11.23)  
+    	 :one: [NodeJs] [Nodejs中是如何导出模块的？](https://github.com/haizlin/fe-interview/issues/5273)  
  
 	
 - **[查看全部](category/history.md)**

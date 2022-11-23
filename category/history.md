@@ -2,6 +2,8 @@
 
 
 
+- 第1318天 (2022-11-24)  
+    - [NodeJs] [在Nodejs中异步I/O的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5274)
 - 第1317天 (2022-11-23)  
     - [NodeJs] [Nodejs中是如何导出模块的？](https://github.com/haizlin/fe-interview/issues/5273)
 - 第1316天 (2022-11-22)  
