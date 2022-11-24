@@ -2,6 +2,8 @@
 
 
 
+- 第1319天 (2022-11-25)  
+    - [NodeJs] [怎样查看V8的内存使用](https://github.com/haizlin/fe-interview/issues/5275)
 - 第1318天 (2022-11-24)  
     - [NodeJs] [在Nodejs中异步I/O的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5274)
 - 第1317天 (2022-11-23)  
