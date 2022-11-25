@@ -2,6 +2,8 @@
 
 
 
+- 第1320天 (2022-11-26)  
+    - [NodeJs] [V8引擎的内存限制是多少？为什么要限制？](https://github.com/haizlin/fe-interview/issues/5276)
 - 第1319天 (2022-11-25)  
     - [NodeJs] [怎样查看V8的内存使用](https://github.com/haizlin/fe-interview/issues/5275)
 - 第1318天 (2022-11-24)  
