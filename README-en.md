@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.27) —— 1321 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [V8引擎无法立即回收内存有哪些情况？](https://github.com/haizlin/fe-interview/issues/5277)  
+## :clock430: Today's Knowledge Points (2022.11.28) —— 1322 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs中进程通信的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5278)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1320 days (2022.11.26)  
-    	 :one: [NodeJs] [V8引擎的内存限制是多少？为什么要限制？](https://github.com/haizlin/fe-interview/issues/5276)  
+- 1321 days (2022.11.27)  
+    	 :one: [NodeJs] [V8引擎无法立即回收内存有哪些情况？](https://github.com/haizlin/fe-interview/issues/5277)  
  
 	
 - **[All](category/history.md)**

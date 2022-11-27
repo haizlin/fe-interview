@@ -2,6 +2,8 @@
 
 
 
+- 第1322天 (2022-11-28)  
+    - [NodeJs] [Nodejs中进程通信的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5278)
 - 第1321天 (2022-11-27)  
     - [NodeJs] [V8引擎无法立即回收内存有哪些情况？](https://github.com/haizlin/fe-interview/issues/5277)
 - 第1320天 (2022-11-26)  
