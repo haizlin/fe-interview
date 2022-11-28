@@ -2,6 +2,8 @@
 
 
 
+- 第1323天 (2022-11-29)  
+    - [NodeJs] [Buffer.allocUnsafe和Buffer.alloc有什么区别？](https://github.com/haizlin/fe-interview/issues/5279)
 - 第1322天 (2022-11-28)  
     - [NodeJs] [Nodejs中进程通信的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5278)
 - 第1321天 (2022-11-27)  

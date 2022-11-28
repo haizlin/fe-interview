@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.11.28) —— 1322 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs中进程通信的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5278)  
+## :clock430: Today's Knowledge Points (2022.11.29) —— 1323 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Buffer.allocUnsafe和Buffer.alloc有什么区别？](https://github.com/haizlin/fe-interview/issues/5279)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1321 days (2022.11.27)  
-    	 :one: [NodeJs] [V8引擎无法立即回收内存有哪些情况？](https://github.com/haizlin/fe-interview/issues/5277)  
+- 1322 days (2022.11.28)  
+    	 :one: [NodeJs] [Nodejs中进程通信的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5278)  
  
 	
 - **[All](category/history.md)**
