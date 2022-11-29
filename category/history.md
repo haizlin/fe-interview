@@ -2,6 +2,8 @@
 
 
 
+- 第1324天 (2022-11-30)  
+    - [NodeJs] [新建Buffer会占用V8分配的内存吗？](https://github.com/haizlin/fe-interview/issues/5280)
 - 第1323天 (2022-11-29)  
     - [NodeJs] [Buffer.allocUnsafe和Buffer.alloc有什么区别？](https://github.com/haizlin/fe-interview/issues/5279)
 - 第1322天 (2022-11-28)  
