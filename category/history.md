@@ -2,6 +2,8 @@
 
 
 
+- 第1325天 (2022-12-01)  
+    - [NodeJs] [Buffer是如何进行内存分配的？](https://github.com/haizlin/fe-interview/issues/5281)
 - 第1324天 (2022-11-30)  
     - [NodeJs] [新建Buffer会占用V8分配的内存吗？](https://github.com/haizlin/fe-interview/issues/5280)
 - 第1323天 (2022-11-29)  
