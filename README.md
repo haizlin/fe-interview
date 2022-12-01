@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.12.01) —— 第1325天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Buffer是如何进行内存分配的？](https://github.com/haizlin/fe-interview/issues/5281)  
+## :clock430: 今天的知识点   (2022.12.02) —— 第1326天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [使用Nodejs监听端口冲突怎么办？](https://github.com/haizlin/fe-interview/issues/5282)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1324天 (2022.11.30)  
-    	 :one: [NodeJs] [新建Buffer会占用V8分配的内存吗？](https://github.com/haizlin/fe-interview/issues/5280)  
+- 第1325天 (2022.12.01)  
+    	 :one: [NodeJs] [Buffer是如何进行内存分配的？](https://github.com/haizlin/fe-interview/issues/5281)  
  
 	
 - **[查看全部](category/history.md)**

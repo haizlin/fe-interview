@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.01) —— 1325 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Buffer是如何进行内存分配的？](https://github.com/haizlin/fe-interview/issues/5281)  
+## :clock430: Today's Knowledge Points (2022.12.02) —— 1326 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [使用Nodejs监听端口冲突怎么办？](https://github.com/haizlin/fe-interview/issues/5282)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1324 days (2022.11.30)  
-    	 :one: [NodeJs] [新建Buffer会占用V8分配的内存吗？](https://github.com/haizlin/fe-interview/issues/5280)  
+- 1325 days (2022.12.01)  
+    	 :one: [NodeJs] [Buffer是如何进行内存分配的？](https://github.com/haizlin/fe-interview/issues/5281)  
  
 	
 - **[All](category/history.md)**

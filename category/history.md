@@ -2,6 +2,8 @@
 
 
 
+- 第1326天 (2022-12-02)  
+    - [NodeJs] [使用Nodejs监听端口冲突怎么办？](https://github.com/haizlin/fe-interview/issues/5282)
 - 第1325天 (2022-12-01)  
     - [NodeJs] [Buffer是如何进行内存分配的？](https://github.com/haizlin/fe-interview/issues/5281)
 - 第1324天 (2022-11-30)  
