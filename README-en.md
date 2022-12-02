@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.02) —— 1326 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [使用Nodejs监听端口冲突怎么办？](https://github.com/haizlin/fe-interview/issues/5282)  
+## :clock430: Today's Knowledge Points (2022.12.03) —— 1327 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [怎样实现一个Writable流？](https://github.com/haizlin/fe-interview/issues/5283)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1325 days (2022.12.01)  
-    	 :one: [NodeJs] [Buffer是如何进行内存分配的？](https://github.com/haizlin/fe-interview/issues/5281)  
+- 1326 days (2022.12.02)  
+    	 :one: [NodeJs] [使用Nodejs监听端口冲突怎么办？](https://github.com/haizlin/fe-interview/issues/5282)  
  
 	
 - **[All](category/history.md)**

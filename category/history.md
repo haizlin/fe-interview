@@ -2,6 +2,8 @@
 
 
 
+- 第1327天 (2022-12-03)  
+    - [NodeJs] [怎样实现一个Writable流？](https://github.com/haizlin/fe-interview/issues/5283)
 - 第1326天 (2022-12-02)  
     - [NodeJs] [使用Nodejs监听端口冲突怎么办？](https://github.com/haizlin/fe-interview/issues/5282)
 - 第1325天 (2022-12-01)  
