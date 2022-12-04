@@ -2,6 +2,8 @@
 
 
 
+- 第1329天 (2022-12-05)  
+    - [js] [使用js写个方法在光标的位置插入文字](https://github.com/haizlin/fe-interview/issues/5285)
 - 第1328天 (2022-12-04)  
     - [NodeJs] [NodeJs如何对性能进行监控以及优化？](https://github.com/haizlin/fe-interview/issues/5284)
 - 第1327天 (2022-12-03)  

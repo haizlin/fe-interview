@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.04) —— 1328 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [NodeJs如何对性能进行监控以及优化？](https://github.com/haizlin/fe-interview/issues/5284)  
+## :clock430: Today's Knowledge Points (2022.12.05) —— 1329 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写个方法在光标的位置插入文字](https://github.com/haizlin/fe-interview/issues/5285)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1327 days (2022.12.03)  
-    	 :one: [NodeJs] [怎样实现一个Writable流？](https://github.com/haizlin/fe-interview/issues/5283)  
+- 1328 days (2022.12.04)  
+    	 :one: [NodeJs] [NodeJs如何对性能进行监控以及优化？](https://github.com/haizlin/fe-interview/issues/5284)  
  
 	
 - **[All](category/history.md)**
