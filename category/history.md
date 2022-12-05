@@ -2,6 +2,8 @@
 
 
 
+- 第1330天 (2022-12-06)  
+    - [js] [使用js写个方法将1和2互转（1置2，2置1）](https://github.com/haizlin/fe-interview/issues/5286)
 - 第1329天 (2022-12-05)  
     - [js] [使用js写个方法在光标的位置插入文字](https://github.com/haizlin/fe-interview/issues/5285)
 - 第1328天 (2022-12-04)  

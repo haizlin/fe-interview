@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.05) —— 1329 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写个方法在光标的位置插入文字](https://github.com/haizlin/fe-interview/issues/5285)  
+## :clock430: Today's Knowledge Points (2022.12.06) —— 1330 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写个方法将1和2互转（1置2，2置1）](https://github.com/haizlin/fe-interview/issues/5286)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1328 days (2022.12.04)  
-    	 :one: [NodeJs] [NodeJs如何对性能进行监控以及优化？](https://github.com/haizlin/fe-interview/issues/5284)  
+- 1329 days (2022.12.05)  
+    	 :one: [js] [使用js写个方法在光标的位置插入文字](https://github.com/haizlin/fe-interview/issues/5285)  
  
 	
 - **[All](category/history.md)**

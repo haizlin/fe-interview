@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.12.05) —— 第1329天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写个方法在光标的位置插入文字](https://github.com/haizlin/fe-interview/issues/5285)  
+## :clock430: 今天的知识点   (2022.12.06) —— 第1330天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写个方法将1和2互转（1置2，2置1）](https://github.com/haizlin/fe-interview/issues/5286)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1328天 (2022.12.04)  
-    	 :one: [NodeJs] [NodeJs如何对性能进行监控以及优化？](https://github.com/haizlin/fe-interview/issues/5284)  
+- 第1329天 (2022.12.05)  
+    	 :one: [js] [使用js写个方法在光标的位置插入文字](https://github.com/haizlin/fe-interview/issues/5285)  
  
 	
 - **[查看全部](category/history.md)**
