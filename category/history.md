@@ -2,6 +2,8 @@
 
 
 
+- 第1332天 (2022-12-08)  
+    - [ECMAScript] [请问Intl.ListFormat有什么作用？](https://github.com/haizlin/fe-interview/issues/5288)
 - 第1331天 (2022-12-07)  
     - [Electron] [electron多窗口加载缓慢问题该如何优化？](https://github.com/haizlin/fe-interview/issues/5287)
 - 第1330天 (2022-12-06)  

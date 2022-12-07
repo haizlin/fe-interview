@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.07) —— 1331 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [electron多窗口加载缓慢问题该如何优化？](https://github.com/haizlin/fe-interview/issues/5287)  
+## :clock430: Today's Knowledge Points (2022.12.08) —— 1332 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请问Intl.ListFormat有什么作用？](https://github.com/haizlin/fe-interview/issues/5288)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1330 days (2022.12.06)  
-    	 :one: [js] [使用js写个方法将1和2互转（1置2，2置1）](https://github.com/haizlin/fe-interview/issues/5286)  
+- 1331 days (2022.12.07)  
+    	 :one: [Electron] [electron多窗口加载缓慢问题该如何优化？](https://github.com/haizlin/fe-interview/issues/5287)  
  
 	
 - **[All](category/history.md)**
