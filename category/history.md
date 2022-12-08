@@ -2,6 +2,8 @@
 
 
 
+- 第1333天 (2022-12-09)  
+    - [js] [使用js实现一个有几万个节点的高性能树组件](https://github.com/haizlin/fe-interview/issues/5289)
 - 第1332天 (2022-12-08)  
     - [ECMAScript] [请问Intl.ListFormat有什么作用？](https://github.com/haizlin/fe-interview/issues/5288)
 - 第1331天 (2022-12-07)  
