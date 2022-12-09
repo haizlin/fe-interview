@@ -2,6 +2,8 @@
 
 
 
+- 第1334天 (2022-12-10)  
+    - [js] [内嵌的iframe在隐私模式下可以使用localStorage吗？](https://github.com/haizlin/fe-interview/issues/5290)
 - 第1333天 (2022-12-09)  
     - [js] [使用js实现一个有几万个节点的高性能树组件](https://github.com/haizlin/fe-interview/issues/5289)
 - 第1332天 (2022-12-08)  
