@@ -2,6 +2,8 @@
 
 
 
+- 第1338天 (2022-12-14)  
+    - [NodeJs] [你是怎样衡量异步操作的性能？](https://github.com/haizlin/fe-interview/issues/5294)
 - 第1337天 (2022-12-13)  
     - [NodeJs] [你是怎样测量异步操作的持续时间？](https://github.com/haizlin/fe-interview/issues/5293)
 - 第1336天 (2022-12-12)  
