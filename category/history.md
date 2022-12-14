@@ -2,6 +2,8 @@
 
 
 
+- 第1339天 (2022-12-15)  
+    - [NodeJs] [EventEmitter做了什么？](https://github.com/haizlin/fe-interview/issues/5295)
 - 第1338天 (2022-12-14)  
     - [NodeJs] [你是怎样衡量异步操作的性能？](https://github.com/haizlin/fe-interview/issues/5294)
 - 第1337天 (2022-12-13)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.12.14) —— 第1338天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [你是怎样衡量异步操作的性能？](https://github.com/haizlin/fe-interview/issues/5294)  
+## :clock430: 今天的知识点   (2022.12.15) —— 第1339天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [EventEmitter做了什么？](https://github.com/haizlin/fe-interview/issues/5295)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1337天 (2022.12.13)  
-    	 :one: [NodeJs] [你是怎样测量异步操作的持续时间？](https://github.com/haizlin/fe-interview/issues/5293)  
+- 第1338天 (2022.12.14)  
+    	 :one: [NodeJs] [你是怎样衡量异步操作的性能？](https://github.com/haizlin/fe-interview/issues/5294)  
  
 	
 - **[查看全部](category/history.md)**
