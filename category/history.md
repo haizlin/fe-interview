@@ -2,6 +2,8 @@
 
 
 
+- 第1340天 (2022-12-16)  
+    - [NodeJs] [请问stub什么？有什么使用场景？](https://github.com/haizlin/fe-interview/issues/5296)
 - 第1339天 (2022-12-15)  
     - [NodeJs] [EventEmitter做了什么？](https://github.com/haizlin/fe-interview/issues/5295)
 - 第1338天 (2022-12-14)  
