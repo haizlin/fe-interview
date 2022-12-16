@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.12.16) —— 第1340天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请问stub什么？有什么使用场景？](https://github.com/haizlin/fe-interview/issues/5296)  
+## :clock430: 今天的知识点   (2022.12.17) —— 第1341天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请问createReadStream和ReadFile有什么区别？](https://github.com/haizlin/fe-interview/issues/5297)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1339天 (2022.12.15)  
-    	 :one: [NodeJs] [EventEmitter做了什么？](https://github.com/haizlin/fe-interview/issues/5295)  
+- 第1340天 (2022.12.16)  
+    	 :one: [NodeJs] [请问stub什么？有什么使用场景？](https://github.com/haizlin/fe-interview/issues/5296)  
  
 	
 - **[查看全部](category/history.md)**

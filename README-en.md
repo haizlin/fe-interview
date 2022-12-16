@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.16) —— 1340 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请问stub什么？有什么使用场景？](https://github.com/haizlin/fe-interview/issues/5296)  
+## :clock430: Today's Knowledge Points (2022.12.17) —— 1341 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请问createReadStream和ReadFile有什么区别？](https://github.com/haizlin/fe-interview/issues/5297)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1339 days (2022.12.15)  
-    	 :one: [NodeJs] [EventEmitter做了什么？](https://github.com/haizlin/fe-interview/issues/5295)  
+- 1340 days (2022.12.16)  
+    	 :one: [NodeJs] [请问stub什么？有什么使用场景？](https://github.com/haizlin/fe-interview/issues/5296)  
  
 	
 - **[All](category/history.md)**
