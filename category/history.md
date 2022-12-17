@@ -2,6 +2,8 @@
 
 
 
+- 第1342天 (2022-12-18)  
+    - [NodeJs] [请问反应堆设计模式是什么？](https://github.com/haizlin/fe-interview/issues/5298)
 - 第1341天 (2022-12-17)  
     - [NodeJs] [请问createReadStream和ReadFile有什么区别？](https://github.com/haizlin/fe-interview/issues/5297)
 - 第1340天 (2022-12-16)  
