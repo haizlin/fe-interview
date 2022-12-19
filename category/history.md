@@ -2,6 +2,8 @@
 
 
 
+- 第1344天 (2022-12-20)  
+    - [软技能] [请解释下冒烟测试和全量测试](https://github.com/haizlin/fe-interview/issues/5300)
 - 第1343天 (2022-12-19)  
     - [NodeJs] [请使用Nodejs写一个监听80端口的方法](https://github.com/haizlin/fe-interview/issues/5299)
 - 第1342天 (2022-12-18)  

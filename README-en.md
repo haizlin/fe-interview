@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.19) —— 1343 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请使用Nodejs写一个监听80端口的方法](https://github.com/haizlin/fe-interview/issues/5299)  
+## :clock430: Today's Knowledge Points (2022.12.20) —— 1344 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请解释下冒烟测试和全量测试](https://github.com/haizlin/fe-interview/issues/5300)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1342 days (2022.12.18)  
-    	 :one: [NodeJs] [请问反应堆设计模式是什么？](https://github.com/haizlin/fe-interview/issues/5298)  
+- 1343 days (2022.12.19)  
+    	 :one: [NodeJs] [请使用Nodejs写一个监听80端口的方法](https://github.com/haizlin/fe-interview/issues/5299)  
  
 	
 - **[All](category/history.md)**
