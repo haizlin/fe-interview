@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.20) —— 1344 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请解释下冒烟测试和全量测试](https://github.com/haizlin/fe-interview/issues/5300)  
+## :clock430: Today's Knowledge Points (2022.12.21) —— 1345 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5301)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1343 days (2022.12.19)  
-    	 :one: [NodeJs] [请使用Nodejs写一个监听80端口的方法](https://github.com/haizlin/fe-interview/issues/5299)  
+- 1344 days (2022.12.20)  
+    	 :one: [skill] [请解释下冒烟测试和全量测试](https://github.com/haizlin/fe-interview/issues/5300)  
  
 	
 - **[All](category/history.md)**
