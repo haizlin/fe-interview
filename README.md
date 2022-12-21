@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.12.21) —— 第1345天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5301)  
+## :clock430: 今天的知识点   (2022.12.22) —— 第1346天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [module.exports有什么作用？](https://github.com/haizlin/fe-interview/issues/5302)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1344天 (2022.12.20)  
-    	 :one: [软技能] [请解释下冒烟测试和全量测试](https://github.com/haizlin/fe-interview/issues/5300)  
+- 第1345天 (2022.12.21)  
+    	 :one: [NodeJs] [Nodejs的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5301)  
  
 	
 - **[查看全部](category/history.md)**

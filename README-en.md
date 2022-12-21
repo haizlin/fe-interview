@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.21) —— 1345 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5301)  
+## :clock430: Today's Knowledge Points (2022.12.22) —— 1346 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [module.exports有什么作用？](https://github.com/haizlin/fe-interview/issues/5302)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1344 days (2022.12.20)  
-    	 :one: [skill] [请解释下冒烟测试和全量测试](https://github.com/haizlin/fe-interview/issues/5300)  
+- 1345 days (2022.12.21)  
+    	 :one: [NodeJs] [Nodejs的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5301)  
  
 	
 - **[All](category/history.md)**

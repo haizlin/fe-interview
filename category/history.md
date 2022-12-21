@@ -2,6 +2,8 @@
 
 
 
+- 第1346天 (2022-12-22)  
+    - [NodeJs] [module.exports有什么作用？](https://github.com/haizlin/fe-interview/issues/5302)
 - 第1345天 (2022-12-21)  
     - [NodeJs] [Nodejs的模块分为哪几类？](https://github.com/haizlin/fe-interview/issues/5301)
 - 第1344天 (2022-12-20)  
