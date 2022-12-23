@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.12.23) —— 第1347天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs是如何支持HTTPS、tls的？](https://github.com/haizlin/fe-interview/issues/5303)  
+## :clock430: 今天的知识点   (2022.12.24) —— 第1348天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请实现一个EventEmitter](https://github.com/haizlin/fe-interview/issues/5304)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1346天 (2022.12.22)  
-    	 :one: [NodeJs] [module.exports有什么作用？](https://github.com/haizlin/fe-interview/issues/5302)  
+- 第1347天 (2022.12.23)  
+    	 :one: [NodeJs] [Nodejs是如何支持HTTPS、tls的？](https://github.com/haizlin/fe-interview/issues/5303)  
  
 	
 - **[查看全部](category/history.md)**

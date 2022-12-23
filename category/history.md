@@ -2,6 +2,8 @@
 
 
 
+- 第1348天 (2022-12-24)  
+    - [NodeJs] [请实现一个EventEmitter](https://github.com/haizlin/fe-interview/issues/5304)
 - 第1347天 (2022-12-23)  
     - [NodeJs] [Nodejs是如何支持HTTPS、tls的？](https://github.com/haizlin/fe-interview/issues/5303)
 - 第1346天 (2022-12-22)  
