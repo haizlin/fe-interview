@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.24) —— 1348 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请实现一个EventEmitter](https://github.com/haizlin/fe-interview/issues/5304)  
+## :clock430: Today's Knowledge Points (2022.12.25) —— 1349 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [EventEmitter有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5305)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1347 days (2022.12.23)  
-    	 :one: [NodeJs] [Nodejs是如何支持HTTPS、tls的？](https://github.com/haizlin/fe-interview/issues/5303)  
+- 1348 days (2022.12.24)  
+    	 :one: [NodeJs] [请实现一个EventEmitter](https://github.com/haizlin/fe-interview/issues/5304)  
  
 	
 - **[All](category/history.md)**
