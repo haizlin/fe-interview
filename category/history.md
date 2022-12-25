@@ -2,6 +2,8 @@
 
 
 
+- 第1350天 (2022-12-26)  
+    - [NodeJs] [怎样捕获EventEmitter的错误？](https://github.com/haizlin/fe-interview/issues/5306)
 - 第1349天 (2022-12-25)  
     - [NodeJs] [EventEmitter有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5305)
 - 第1348天 (2022-12-24)  
