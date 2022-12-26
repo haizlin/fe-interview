@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.12.26) —— 第1350天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [怎样捕获EventEmitter的错误？](https://github.com/haizlin/fe-interview/issues/5306)  
+## :clock430: 今天的知识点   (2022.12.27) —— 第1351天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs中的流有哪些典型应用？](https://github.com/haizlin/fe-interview/issues/5307)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1349天 (2022.12.25)  
-    	 :one: [NodeJs] [EventEmitter有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5305)  
+- 第1350天 (2022.12.26)  
+    	 :one: [NodeJs] [怎样捕获EventEmitter的错误？](https://github.com/haizlin/fe-interview/issues/5306)  
  
 	
 - **[查看全部](category/history.md)**

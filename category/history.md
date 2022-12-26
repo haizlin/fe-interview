@@ -2,6 +2,8 @@
 
 
 
+- 第1351天 (2022-12-27)  
+    - [NodeJs] [Nodejs中的流有哪些典型应用？](https://github.com/haizlin/fe-interview/issues/5307)
 - 第1350天 (2022-12-26)  
     - [NodeJs] [怎样捕获EventEmitter的错误？](https://github.com/haizlin/fe-interview/issues/5306)
 - 第1349天 (2022-12-25)  

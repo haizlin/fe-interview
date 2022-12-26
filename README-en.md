@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.26) —— 1350 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [怎样捕获EventEmitter的错误？](https://github.com/haizlin/fe-interview/issues/5306)  
+## :clock430: Today's Knowledge Points (2022.12.27) —— 1351 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs中的流有哪些典型应用？](https://github.com/haizlin/fe-interview/issues/5307)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1349 days (2022.12.25)  
-    	 :one: [NodeJs] [EventEmitter有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5305)  
+- 1350 days (2022.12.26)  
+    	 :one: [NodeJs] [怎样捕获EventEmitter的错误？](https://github.com/haizlin/fe-interview/issues/5306)  
  
 	
 - **[All](category/history.md)**
