@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.12.29) —— 第1353天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [使用Nodejs读写一个JSON文件](https://github.com/haizlin/fe-interview/issues/5309)  
+## :clock430: 今天的知识点   (2022.12.30) —— 第1354天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说动态加载.js文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5310)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1352天 (2022.12.28)  
-    	 :one: [NodeJs] [在NodeJs中有哪些常用Stream流？分别在什么时候使用？](https://github.com/haizlin/fe-interview/issues/5308)  
+- 第1353天 (2022.12.29)  
+    	 :one: [NodeJs] [使用Nodejs读写一个JSON文件](https://github.com/haizlin/fe-interview/issues/5309)  
  
 	
 - **[查看全部](category/history.md)**

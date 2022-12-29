@@ -2,6 +2,8 @@
 
 
 
+- 第1354天 (2022-12-30)  
+    - [js] [请说说动态加载.js文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5310)
 - 第1353天 (2022-12-29)  
     - [NodeJs] [使用Nodejs读写一个JSON文件](https://github.com/haizlin/fe-interview/issues/5309)
 - 第1352天 (2022-12-28)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.29) —— 1353 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [使用Nodejs读写一个JSON文件](https://github.com/haizlin/fe-interview/issues/5309)  
+## :clock430: Today's Knowledge Points (2022.12.30) —— 1354 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说动态加载.js文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5310)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1352 days (2022.12.28)  
-    	 :one: [NodeJs] [在NodeJs中有哪些常用Stream流？分别在什么时候使用？](https://github.com/haizlin/fe-interview/issues/5308)  
+- 1353 days (2022.12.29)  
+    	 :one: [NodeJs] [使用Nodejs读写一个JSON文件](https://github.com/haizlin/fe-interview/issues/5309)  
  
 	
 - **[All](category/history.md)**
