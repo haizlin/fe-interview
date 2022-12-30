@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2022.12.30) —— 第1354天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说动态加载.js文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5310)  
+## :clock430: 今天的知识点   (2022.12.31) —— 第1355天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说动态加载.css文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5311)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1353天 (2022.12.29)  
-    	 :one: [NodeJs] [使用Nodejs读写一个JSON文件](https://github.com/haizlin/fe-interview/issues/5309)  
+- 第1354天 (2022.12.30)  
+    	 :one: [js] [请说说动态加载.js文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5310)  
  
 	
 - **[查看全部](category/history.md)**

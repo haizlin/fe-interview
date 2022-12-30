@@ -2,6 +2,8 @@
 
 
 
+- 第1355天 (2022-12-31)  
+    - [css] [请说说动态加载.css文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5311)
 - 第1354天 (2022-12-30)  
     - [js] [请说说动态加载.js文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5310)
 - 第1353天 (2022-12-29)  

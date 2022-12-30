@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2022.12.30) —— 1354 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说动态加载.js文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5310)  
+## :clock430: Today's Knowledge Points (2022.12.31) —— 1355 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请说说动态加载.css文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5311)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1353 days (2022.12.29)  
-    	 :one: [NodeJs] [使用Nodejs读写一个JSON文件](https://github.com/haizlin/fe-interview/issues/5309)  
+- 1354 days (2022.12.30)  
+    	 :one: [js] [请说说动态加载.js文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5310)  
  
 	
 - **[All](category/history.md)**
