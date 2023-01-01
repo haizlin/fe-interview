@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.01) —— 1356 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [H5如何播放ts流？](https://github.com/haizlin/fe-interview/issues/5313)  
+## :clock430: Today's Knowledge Points (2023.01.02) —— 1357 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [为什么try/catch为能捕获到promise的错误？](https://github.com/haizlin/fe-interview/issues/5314)  
  
   
 ### :camel: History
@@ -52,9 +52,8 @@
     …………  
 
 
-- 1355 days (2022.12.31)  
-    	 :one: [html] [H5如何播放flv的流？](https://github.com/haizlin/fe-interview/issues/5312)  
-	 :two: [css] [请说说动态加载.css文件有哪些方法？](https://github.com/haizlin/fe-interview/issues/5311)  
+- 1356 days (2023.01.01)  
+    	 :one: [html] [H5如何播放ts流？](https://github.com/haizlin/fe-interview/issues/5313)  
  
 	
 - **[All](category/history.md)**

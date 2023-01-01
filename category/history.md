@@ -2,6 +2,8 @@
 
 
 
+- 第1357天 (2023-01-02)  
+    - [js] [为什么try/catch为能捕获到promise的错误？](https://github.com/haizlin/fe-interview/issues/5314)
 - 第1356天 (2023-01-01)  
     - [html] [H5如何播放ts流？](https://github.com/haizlin/fe-interview/issues/5313)
 - 第1355天 (2022-12-31)  
