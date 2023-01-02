@@ -2,6 +2,8 @@
 
 
 
+- 第1358天 (2023-01-03)  
+    - [js] [请说说写一个拖拽组件的思路及注意事项](https://github.com/haizlin/fe-interview/issues/5315)
 - 第1357天 (2023-01-02)  
     - [js] [为什么try/catch为能捕获到promise的错误？](https://github.com/haizlin/fe-interview/issues/5314)
 - 第1356天 (2023-01-01)  

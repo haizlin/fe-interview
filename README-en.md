@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.02) —— 1357 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [为什么try/catch为能捕获到promise的错误？](https://github.com/haizlin/fe-interview/issues/5314)  
+## :clock430: Today's Knowledge Points (2023.01.03) —— 1358 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说写一个拖拽组件的思路及注意事项](https://github.com/haizlin/fe-interview/issues/5315)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1356 days (2023.01.01)  
-    	 :one: [html] [H5如何播放ts流？](https://github.com/haizlin/fe-interview/issues/5313)  
+- 1357 days (2023.01.02)  
+    	 :one: [js] [为什么try/catch为能捕获到promise的错误？](https://github.com/haizlin/fe-interview/issues/5314)  
  
 	
 - **[All](category/history.md)**
