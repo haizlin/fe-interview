@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.04) —— 第1359天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [在less中如何将px转换为vw？](https://github.com/haizlin/fe-interview/issues/5316)  
+## :clock430: 今天的知识点   (2023.01.05) —— 第1360天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [使用git commit后，如何修改commit的信息？](https://github.com/haizlin/fe-interview/issues/5317)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1358天 (2023.01.03)  
-    	 :one: [js] [请说说写一个拖拽组件的思路及注意事项](https://github.com/haizlin/fe-interview/issues/5315)  
+- 第1359天 (2023.01.04)  
+    	 :one: [css] [在less中如何将px转换为vw？](https://github.com/haizlin/fe-interview/issues/5316)  
  
 	
 - **[查看全部](category/history.md)**

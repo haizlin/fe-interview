@@ -2,6 +2,8 @@
 
 
 
+- 第1360天 (2023-01-05)  
+    - [软技能] [使用git commit后，如何修改commit的信息？](https://github.com/haizlin/fe-interview/issues/5317)
 - 第1359天 (2023-01-04)  
     - [css] [在less中如何将px转换为vw？](https://github.com/haizlin/fe-interview/issues/5316)
 - 第1358天 (2023-01-03)  
