@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.05) —— 第1360天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [使用git commit后，如何修改commit的信息？](https://github.com/haizlin/fe-interview/issues/5317)  
+## :clock430: 今天的知识点   (2023.01.06) —— 第1361天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue3中如何操作DOM？](https://github.com/haizlin/fe-interview/issues/5318)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1359天 (2023.01.04)  
-    	 :one: [css] [在less中如何将px转换为vw？](https://github.com/haizlin/fe-interview/issues/5316)  
+- 第1360天 (2023.01.05)  
+    	 :one: [软技能] [使用git commit后，如何修改commit的信息？](https://github.com/haizlin/fe-interview/issues/5317)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.05) —— 1360 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [使用git commit后，如何修改commit的信息？](https://github.com/haizlin/fe-interview/issues/5317)  
+## :clock430: Today's Knowledge Points (2023.01.06) —— 1361 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue3中如何操作DOM？](https://github.com/haizlin/fe-interview/issues/5318)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1359 days (2023.01.04)  
-    	 :one: [css] [在less中如何将px转换为vw？](https://github.com/haizlin/fe-interview/issues/5316)  
+- 1360 days (2023.01.05)  
+    	 :one: [skill] [使用git commit后，如何修改commit的信息？](https://github.com/haizlin/fe-interview/issues/5317)  
  
 	
 - **[All](category/history.md)**
