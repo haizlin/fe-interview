@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.06) —— 第1361天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue3中如何操作DOM？](https://github.com/haizlin/fe-interview/issues/5318)  
+## :clock430: 今天的知识点   (2023.01.07) —— 第1362天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1360天 (2023.01.05)  
-    	 :one: [软技能] [使用git commit后，如何修改commit的信息？](https://github.com/haizlin/fe-interview/issues/5317)  
+- 第1361天 (2023.01.06)  
+    	 :one: [vue] [在vue3中如何操作DOM？](https://github.com/haizlin/fe-interview/issues/5318)  
  
 	
 - **[查看全部](category/history.md)**
