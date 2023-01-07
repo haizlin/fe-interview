@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.07) —— 第1362天  
+## :clock430: 今天的知识点   (2023.01.08) —— 第1363天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请解释下[] == ![]的结果](https://github.com/haizlin/fe-interview/issues/5320)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1361天 (2023.01.06)  
-    	 :one: [vue] [在vue3中如何操作DOM？](https://github.com/haizlin/fe-interview/issues/5318)  
+- 第1362天 (2023.01.07)  
+    	 :one: [软技能] [请说说你对视频编码格式的了解？都有哪些主流的编码格式？](https://github.com/haizlin/fe-interview/issues/5319)  
  
 	
 - **[查看全部](category/history.md)**

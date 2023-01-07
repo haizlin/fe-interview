@@ -2,6 +2,10 @@
 
 
 
+- 第1363天 (2023-01-08)  
+    - [js] [请解释下[] == ![]的结果](https://github.com/haizlin/fe-interview/issues/5320)
+- 第1362天 (2023-01-07)  
+    - [软技能] [请说说你对视频编码格式的了解？都有哪些主流的编码格式？](https://github.com/haizlin/fe-interview/issues/5319)
 - 第1361天 (2023-01-06)  
     - [vue] [在vue3中如何操作DOM？](https://github.com/haizlin/fe-interview/issues/5318)
 - 第1360天 (2023-01-05)  
