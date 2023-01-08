@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.08) —— 1363 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请解释下[] == ![]的结果](https://github.com/haizlin/fe-interview/issues/5320)  
+## :clock430: Today's Knowledge Points (2023.01.09) —— 1364 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请解释下true == []的结果](https://github.com/haizlin/fe-interview/issues/5321)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1362 days (2023.01.07)  
-    	 :one: [skill] [请说说你对视频编码格式的了解？都有哪些主流的编码格式？](https://github.com/haizlin/fe-interview/issues/5319)  
+- 1363 days (2023.01.08)  
+    	 :one: [js] [请解释下[] == ![]的结果](https://github.com/haizlin/fe-interview/issues/5320)  
  
 	
 - **[All](category/history.md)**

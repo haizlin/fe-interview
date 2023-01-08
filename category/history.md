@@ -2,6 +2,8 @@
 
 
 
+- 第1364天 (2023-01-09)  
+    - [js] [请解释下true == []的结果](https://github.com/haizlin/fe-interview/issues/5321)
 - 第1363天 (2023-01-08)  
     - [js] [请解释下[] == ![]的结果](https://github.com/haizlin/fe-interview/issues/5320)
 - 第1362天 (2023-01-07)  
