@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.09) —— 第1364天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请解释下true == []的结果](https://github.com/haizlin/fe-interview/issues/5321)  
+## :clock430: 今天的知识点   (2023.01.10) —— 第1365天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法，四舍五入保留2位小数（不够位数，则用0替补）](https://github.com/haizlin/fe-interview/issues/5322)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1363天 (2023.01.08)  
-    	 :one: [js] [请解释下[] == ![]的结果](https://github.com/haizlin/fe-interview/issues/5320)  
+- 第1364天 (2023.01.09)  
+    	 :one: [js] [请解释下true == []的结果](https://github.com/haizlin/fe-interview/issues/5321)  
  
 	
 - **[查看全部](category/history.md)**

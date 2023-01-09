@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.09) —— 1364 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请解释下true == []的结果](https://github.com/haizlin/fe-interview/issues/5321)  
+## :clock430: Today's Knowledge Points (2023.01.10) —— 1365 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法，四舍五入保留2位小数（不够位数，则用0替补）](https://github.com/haizlin/fe-interview/issues/5322)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1363 days (2023.01.08)  
-    	 :one: [js] [请解释下[] == ![]的结果](https://github.com/haizlin/fe-interview/issues/5320)  
+- 1364 days (2023.01.09)  
+    	 :one: [js] [请解释下true == []的结果](https://github.com/haizlin/fe-interview/issues/5321)  
  
 	
 - **[All](category/history.md)**

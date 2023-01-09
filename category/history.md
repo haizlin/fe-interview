@@ -2,6 +2,8 @@
 
 
 
+- 第1365天 (2023-01-10)  
+    - [js] [使用js写一个方法，四舍五入保留2位小数（不够位数，则用0替补）](https://github.com/haizlin/fe-interview/issues/5322)
 - 第1364天 (2023-01-09)  
     - [js] [请解释下true == []的结果](https://github.com/haizlin/fe-interview/issues/5321)
 - 第1363天 (2023-01-08)  
