@@ -2,6 +2,8 @@
 
 
 
+- 第1366天 (2023-01-11)  
+    - [软技能] [请说下做一个“新手指引”功能的思路](https://github.com/haizlin/fe-interview/issues/5323)
 - 第1365天 (2023-01-10)  
     - [js] [使用js写一个方法，四舍五入保留2位小数（不够位数，则用0替补）](https://github.com/haizlin/fe-interview/issues/5322)
 - 第1364天 (2023-01-09)  
