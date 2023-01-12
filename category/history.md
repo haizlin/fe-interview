@@ -2,6 +2,8 @@
 
 
 
+- 第1368天 (2023-01-13)  
+    - [js] [在js中原型链的终点是什么？](https://github.com/haizlin/fe-interview/issues/5325)
 - 第1367天 (2023-01-12)  
     - [软技能] [如何在前端实现十万行数据的表格秒级响应？](https://github.com/haizlin/fe-interview/issues/5324)
 - 第1366天 (2023-01-11)  

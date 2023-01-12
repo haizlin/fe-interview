@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.12) —— 1367 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [如何在前端实现十万行数据的表格秒级响应？](https://github.com/haizlin/fe-interview/issues/5324)  
+## :clock430: Today's Knowledge Points (2023.01.13) —— 1368 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中原型链的终点是什么？](https://github.com/haizlin/fe-interview/issues/5325)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1366 days (2023.01.11)  
-    	 :one: [skill] [请说下做一个“新手指引”功能的思路](https://github.com/haizlin/fe-interview/issues/5323)  
+- 1367 days (2023.01.12)  
+    	 :one: [skill] [如何在前端实现十万行数据的表格秒级响应？](https://github.com/haizlin/fe-interview/issues/5324)  
  
 	
 - **[All](category/history.md)**
