@@ -2,6 +2,8 @@
 
 
 
+- 第1369天 (2023-01-14)  
+    - [js] [请问Promise有哪些实例方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5326)
 - 第1368天 (2023-01-13)  
     - [js] [在js中原型链的终点是什么？](https://github.com/haizlin/fe-interview/issues/5325)
 - 第1367天 (2023-01-12)  

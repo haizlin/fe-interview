@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.13) —— 第1368天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在js中原型链的终点是什么？](https://github.com/haizlin/fe-interview/issues/5325)  
+## :clock430: 今天的知识点   (2023.01.14) —— 第1369天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问Promise有哪些实例方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5326)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1367天 (2023.01.12)  
-    	 :one: [软技能] [如何在前端实现十万行数据的表格秒级响应？](https://github.com/haizlin/fe-interview/issues/5324)  
+- 第1368天 (2023.01.13)  
+    	 :one: [js] [在js中原型链的终点是什么？](https://github.com/haizlin/fe-interview/issues/5325)  
  
 	
 - **[查看全部](category/history.md)**
