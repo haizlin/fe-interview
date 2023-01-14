@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.14) —— 1369 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问Promise有哪些实例方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5326)  
+## :clock430: Today's Knowledge Points (2023.01.15) —— 1370 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问Promise有哪些静态方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5327)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1368 days (2023.01.13)  
-    	 :one: [js] [在js中原型链的终点是什么？](https://github.com/haizlin/fe-interview/issues/5325)  
+- 1369 days (2023.01.14)  
+    	 :one: [js] [请问Promise有哪些实例方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5326)  
  
 	
 - **[All](category/history.md)**
