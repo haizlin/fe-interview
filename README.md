@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.15) —— 第1370天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问Promise有哪些静态方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5327)  
+## :clock430: 今天的知识点   (2023.01.16) —— 第1371天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法遍历输出页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5328)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1369天 (2023.01.14)  
-    	 :one: [js] [请问Promise有哪些实例方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5326)  
+- 第1370天 (2023.01.15)  
+    	 :one: [js] [请问Promise有哪些静态方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5327)  
  
 	
 - **[查看全部](category/history.md)**

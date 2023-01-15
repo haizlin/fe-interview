@@ -2,6 +2,8 @@
 
 
 
+- 第1371天 (2023-01-16)  
+    - [js] [使用js写一个方法遍历输出页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5328)
 - 第1370天 (2023-01-15)  
     - [js] [请问Promise有哪些静态方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5327)
 - 第1369天 (2023-01-14)  

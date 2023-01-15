@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.15) —— 1370 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问Promise有哪些静态方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5327)  
+## :clock430: Today's Knowledge Points (2023.01.16) —— 1371 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法遍历输出页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5328)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1369 days (2023.01.14)  
-    	 :one: [js] [请问Promise有哪些实例方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5326)  
+- 1370 days (2023.01.15)  
+    	 :one: [js] [请问Promise有哪些静态方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5327)  
  
 	
 - **[All](category/history.md)**
