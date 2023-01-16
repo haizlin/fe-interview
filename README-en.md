@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.16) —— 1371 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法遍历输出页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5328)  
+## :clock430: Today's Knowledge Points (2023.01.17) —— 1372 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [如何使用CSS实现隐藏滚动条但内容可以滚动？](https://github.com/haizlin/fe-interview/issues/5329)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1370 days (2023.01.15)  
-    	 :one: [js] [请问Promise有哪些静态方法？并描述下各方法的作用](https://github.com/haizlin/fe-interview/issues/5327)  
+- 1371 days (2023.01.16)  
+    	 :one: [js] [使用js写一个方法遍历输出页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5328)  
  
 	
 - **[All](category/history.md)**

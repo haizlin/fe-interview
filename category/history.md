@@ -2,6 +2,8 @@
 
 
 
+- 第1372天 (2023-01-17)  
+    - [css] [如何使用CSS实现隐藏滚动条但内容可以滚动？](https://github.com/haizlin/fe-interview/issues/5329)
 - 第1371天 (2023-01-16)  
     - [js] [使用js写一个方法遍历输出页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5328)
 - 第1370天 (2023-01-15)  
