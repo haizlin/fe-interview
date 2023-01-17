@@ -2,6 +2,8 @@
 
 
 
+- 第1373天 (2023-01-18)  
+    - [js] [location对象的哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5330)
 - 第1372天 (2023-01-17)  
     - [css] [如何使用CSS实现隐藏滚动条但内容可以滚动？](https://github.com/haizlin/fe-interview/issues/5329)
 - 第1371天 (2023-01-16)  
