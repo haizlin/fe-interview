@@ -2,6 +2,8 @@
 
 
 
+- 第1374天 (2023-01-19)  
+    - [js] [navigator对象有哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5331)
 - 第1373天 (2023-01-18)  
     - [js] [location对象的哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5330)
 - 第1372天 (2023-01-17)  

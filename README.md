@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.18) —— 第1373天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [location对象的哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5330)  
+## :clock430: 今天的知识点   (2023.01.19) —— 第1374天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [navigator对象有哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5331)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1372天 (2023.01.17)  
-    	 :one: [css] [如何使用CSS实现隐藏滚动条但内容可以滚动？](https://github.com/haizlin/fe-interview/issues/5329)  
+- 第1373天 (2023.01.18)  
+    	 :one: [js] [location对象的哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5330)  
  
 	
 - **[查看全部](category/history.md)**
