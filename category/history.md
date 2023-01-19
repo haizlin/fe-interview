@@ -2,6 +2,8 @@
 
 
 
+- 第1375天 (2023-01-20)  
+    - [软技能] [使用git https的方式如何保存及清理密码？](https://github.com/haizlin/fe-interview/issues/5332)
 - 第1374天 (2023-01-19)  
     - [js] [navigator对象有哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5331)
 - 第1373天 (2023-01-18)  

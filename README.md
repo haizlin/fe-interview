@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.19) —— 第1374天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [navigator对象有哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5331)  
+## :clock430: 今天的知识点   (2023.01.20) —— 第1375天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [使用git https的方式如何保存及清理密码？](https://github.com/haizlin/fe-interview/issues/5332)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1373天 (2023.01.18)  
-    	 :one: [js] [location对象的哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5330)  
+- 第1374天 (2023.01.19)  
+    	 :one: [js] [navigator对象有哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5331)  
  
 	
 - **[查看全部](category/history.md)**
