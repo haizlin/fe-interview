@@ -2,6 +2,8 @@
 
 
 
+- 第1376天 (2023-01-21)  
+    - [软技能] [请说说实现一个抽奖程序的思路](https://github.com/haizlin/fe-interview/issues/5333)
 - 第1375天 (2023-01-20)  
     - [软技能] [使用git https的方式如何保存及清理密码？](https://github.com/haizlin/fe-interview/issues/5332)
 - 第1374天 (2023-01-19)  

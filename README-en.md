@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.20) —— 1375 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [使用git https的方式如何保存及清理密码？](https://github.com/haizlin/fe-interview/issues/5332)  
+## :clock430: Today's Knowledge Points (2023.01.21) —— 1376 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说实现一个抽奖程序的思路](https://github.com/haizlin/fe-interview/issues/5333)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1374 days (2023.01.19)  
-    	 :one: [js] [navigator对象有哪些常用的方法？](https://github.com/haizlin/fe-interview/issues/5331)  
+- 1375 days (2023.01.20)  
+    	 :one: [skill] [使用git https的方式如何保存及清理密码？](https://github.com/haizlin/fe-interview/issues/5332)  
  
 	
 - **[All](category/history.md)**
