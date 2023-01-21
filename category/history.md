@@ -2,6 +2,8 @@
 
 
 
+- 第1377天 (2023-01-22)  
+    - [软技能] [如何使用fiddler进行拦截请示和修改响应？](https://github.com/haizlin/fe-interview/issues/5334)
 - 第1376天 (2023-01-21)  
     - [软技能] [请说说实现一个抽奖程序的思路](https://github.com/haizlin/fe-interview/issues/5333)
 - 第1375天 (2023-01-20)  

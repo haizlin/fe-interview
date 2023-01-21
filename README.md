@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.21) —— 第1376天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说实现一个抽奖程序的思路](https://github.com/haizlin/fe-interview/issues/5333)  
+## :clock430: 今天的知识点   (2023.01.22) —— 第1377天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [如何使用fiddler进行拦截请示和修改响应？](https://github.com/haizlin/fe-interview/issues/5334)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1375天 (2023.01.20)  
-    	 :one: [软技能] [使用git https的方式如何保存及清理密码？](https://github.com/haizlin/fe-interview/issues/5332)  
+- 第1376天 (2023.01.21)  
+    	 :one: [软技能] [请说说实现一个抽奖程序的思路](https://github.com/haizlin/fe-interview/issues/5333)  
  
 	
 - **[查看全部](category/history.md)**
