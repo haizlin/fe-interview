@@ -2,6 +2,8 @@
 
 
 
+- 第1378天 (2023-01-23)  
+    - [软技能] [对于请求和响应数据防篡改你有什么解决方案？](https://github.com/haizlin/fe-interview/issues/5335)
 - 第1377天 (2023-01-22)  
     - [软技能] [如何使用fiddler进行拦截请示和修改响应？](https://github.com/haizlin/fe-interview/issues/5334)
 - 第1376天 (2023-01-21)  
