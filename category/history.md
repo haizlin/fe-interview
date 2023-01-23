@@ -2,6 +2,8 @@
 
 
 
+- 第1379天 (2023-01-24)  
+    - [小程序] [微信小程序的wxml文件和html有什么不同？](https://github.com/haizlin/fe-interview/issues/5336)
 - 第1378天 (2023-01-23)  
     - [软技能] [对于请求和响应数据防篡改你有什么解决方案？](https://github.com/haizlin/fe-interview/issues/5335)
 - 第1377天 (2023-01-22)  

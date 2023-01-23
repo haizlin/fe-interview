@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.23) —— 1378 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [对于请求和响应数据防篡改你有什么解决方案？](https://github.com/haizlin/fe-interview/issues/5335)  
+## :clock430: Today's Knowledge Points (2023.01.24) —— 1379 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [微信小程序的wxml文件和html有什么不同？](https://github.com/haizlin/fe-interview/issues/5336)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1377 days (2023.01.22)  
-    	 :one: [skill] [如何使用fiddler进行拦截请示和修改响应？](https://github.com/haizlin/fe-interview/issues/5334)  
+- 1378 days (2023.01.23)  
+    	 :one: [skill] [对于请求和响应数据防篡改你有什么解决方案？](https://github.com/haizlin/fe-interview/issues/5335)  
  
 	
 - **[All](category/history.md)**
