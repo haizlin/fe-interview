@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.24) —— 第1379天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [微信小程序的wxml文件和html有什么不同？](https://github.com/haizlin/fe-interview/issues/5336)  
+## :clock430: 今天的知识点   (2023.01.25) —— 第1380天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [微信小程序的原理是什么？](https://github.com/haizlin/fe-interview/issues/5337)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1378天 (2023.01.23)  
-    	 :one: [软技能] [对于请求和响应数据防篡改你有什么解决方案？](https://github.com/haizlin/fe-interview/issues/5335)  
+- 第1379天 (2023.01.24)  
+    	 :one: [小程序] [微信小程序的wxml文件和html有什么不同？](https://github.com/haizlin/fe-interview/issues/5336)  
  
 	
 - **[查看全部](category/history.md)**

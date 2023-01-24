@@ -2,6 +2,8 @@
 
 
 
+- 第1380天 (2023-01-25)  
+    - [小程序] [微信小程序的原理是什么？](https://github.com/haizlin/fe-interview/issues/5337)
 - 第1379天 (2023-01-24)  
     - [小程序] [微信小程序的wxml文件和html有什么不同？](https://github.com/haizlin/fe-interview/issues/5336)
 - 第1378天 (2023-01-23)  
