@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.25) —— 第1380天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [微信小程序的原理是什么？](https://github.com/haizlin/fe-interview/issues/5337)  
+## :clock430: 今天的知识点   (2023.01.26) —— 第1381天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [如何提高小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5338)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1379天 (2023.01.24)  
-    	 :one: [小程序] [微信小程序的wxml文件和html有什么不同？](https://github.com/haizlin/fe-interview/issues/5336)  
+- 第1380天 (2023.01.25)  
+    	 :one: [小程序] [微信小程序的原理是什么？](https://github.com/haizlin/fe-interview/issues/5337)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1381天 (2023-01-26)  
+    - [小程序] [如何提高小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5338)
 - 第1380天 (2023-01-25)  
     - [小程序] [微信小程序的原理是什么？](https://github.com/haizlin/fe-interview/issues/5337)
 - 第1379天 (2023-01-24)  
