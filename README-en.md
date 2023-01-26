@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.26) —— 1381 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [如何提高小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5338)  
+## :clock430: Today's Knowledge Points (2023.01.27) —— 1382 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说小程序有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5339)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1380 days (2023.01.25)  
-    	 :one: [小程序] [微信小程序的原理是什么？](https://github.com/haizlin/fe-interview/issues/5337)  
+- 1381 days (2023.01.26)  
+    	 :one: [小程序] [如何提高小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5338)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1382天 (2023-01-27)  
+    - [小程序] [请说说小程序有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5339)
 - 第1381天 (2023-01-26)  
     - [小程序] [如何提高小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5338)
 - 第1380天 (2023-01-25)  
