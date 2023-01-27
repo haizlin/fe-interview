@@ -2,6 +2,8 @@
 
 
 
+- 第1383天 (2023-01-28)  
+    - [小程序] [微信小程序实现下拉刷新有哪些方法？](https://github.com/haizlin/fe-interview/issues/5340)
 - 第1382天 (2023-01-27)  
     - [小程序] [请说说小程序有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5339)
 - 第1381天 (2023-01-26)  
