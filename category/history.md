@@ -2,6 +2,8 @@
 
 
 
+- 第1384天 (2023-01-29)  
+    - [小程序] [bindtap和catchta有什么区别？](https://github.com/haizlin/fe-interview/issues/5341)
 - 第1383天 (2023-01-28)  
     - [小程序] [微信小程序实现下拉刷新有哪些方法？](https://github.com/haizlin/fe-interview/issues/5340)
 - 第1382天 (2023-01-27)  
