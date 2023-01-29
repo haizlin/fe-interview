@@ -2,8 +2,10 @@
 
 
 
+- 第1385天 (2023-01-30)  
+    - [vue] [使用vue，如何让模板等待接口请求数据完成后再进行页面渲染？](https://github.com/haizlin/fe-interview/issues/5342)
 - 第1384天 (2023-01-29)  
-    - [小程序] [bindtap和catchta有什么区别？](https://github.com/haizlin/fe-interview/issues/5341)
+    - [小程序] [bindtap和catchtap有什么区别？](https://github.com/haizlin/fe-interview/issues/5341)
 - 第1383天 (2023-01-28)  
     - [小程序] [微信小程序实现下拉刷新有哪些方法？](https://github.com/haizlin/fe-interview/issues/5340)
 - 第1382天 (2023-01-27)  
