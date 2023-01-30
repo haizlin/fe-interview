@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.01.30) —— 第1385天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用vue，如何让模板等待接口请求数据完成后再进行页面渲染？](https://github.com/haizlin/fe-interview/issues/5342)  
+## :clock430: 今天的知识点   (2023.01.31) —— 第1386天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [使用nodejs写一个方法计算图片的md5](https://github.com/haizlin/fe-interview/issues/5343)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1384天 (2023.01.29)  
-    	 :one: [小程序] [bindtap和catchtap有什么区别？](https://github.com/haizlin/fe-interview/issues/5341)  
+- 第1385天 (2023.01.30)  
+    	 :one: [vue] [使用vue，如何让模板等待接口请求数据完成后再进行页面渲染？](https://github.com/haizlin/fe-interview/issues/5342)  
  
 	
 - **[查看全部](category/history.md)**

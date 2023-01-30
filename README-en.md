@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.30) —— 1385 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用vue，如何让模板等待接口请求数据完成后再进行页面渲染？](https://github.com/haizlin/fe-interview/issues/5342)  
+## :clock430: Today's Knowledge Points (2023.01.31) —— 1386 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [使用nodejs写一个方法计算图片的md5](https://github.com/haizlin/fe-interview/issues/5343)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1384 days (2023.01.29)  
-    	 :one: [小程序] [bindtap和catchtap有什么区别？](https://github.com/haizlin/fe-interview/issues/5341)  
+- 1385 days (2023.01.30)  
+    	 :one: [vue] [使用vue，如何让模板等待接口请求数据完成后再进行页面渲染？](https://github.com/haizlin/fe-interview/issues/5342)  
  
 	
 - **[All](category/history.md)**

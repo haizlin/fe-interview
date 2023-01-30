@@ -2,6 +2,8 @@
 
 
 
+- 第1386天 (2023-01-31)  
+    - [NodeJs] [使用nodejs写一个方法计算图片的md5](https://github.com/haizlin/fe-interview/issues/5343)
 - 第1385天 (2023-01-30)  
     - [vue] [使用vue，如何让模板等待接口请求数据完成后再进行页面渲染？](https://github.com/haizlin/fe-interview/issues/5342)
 - 第1384天 (2023-01-29)  
