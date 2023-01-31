@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.01.31) —— 1386 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [使用nodejs写一个方法计算图片的md5](https://github.com/haizlin/fe-interview/issues/5343)  
+## :clock430: Today's Knowledge Points (2023.02.01) —— 1387 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1385 days (2023.01.30)  
-    	 :one: [vue] [使用vue，如何让模板等待接口请求数据完成后再进行页面渲染？](https://github.com/haizlin/fe-interview/issues/5342)  
+- 1386 days (2023.01.31)  
+    	 :one: [NodeJs] [使用nodejs写一个方法计算图片的md5](https://github.com/haizlin/fe-interview/issues/5343)  
  
 	
 - **[All](category/history.md)**
