@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.01) —— 1387 days  
+## :clock430: Today's Knowledge Points (2023.02.03) —— 1389 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说什么是数字证书？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5347)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1386 days (2023.01.31)  
-    	 :one: [NodeJs] [使用nodejs写一个方法计算图片的md5](https://github.com/haizlin/fe-interview/issues/5343)  
+- 1388 days (2023.02.02)  
+    	 :one: [skill] [为什么post请求会产生两次请求?](https://github.com/haizlin/fe-interview/issues/5346)  
  
 	
 - **[All](category/history.md)**

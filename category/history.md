@@ -2,6 +2,12 @@
 
 
 
+- 第1389天 (2023-02-03)  
+    - [软技能] [请说说什么是数字证书？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5347)
+- 第1388天 (2023-02-02)  
+    - [软技能] [为什么post请求会产生两次请求?](https://github.com/haizlin/fe-interview/issues/5346)
+- 第1387天 (2023-02-01)  
+    - [软技能] [请说说git的rebase和merge有什么区别？](https://github.com/haizlin/fe-interview/issues/5344)
 - 第1386天 (2023-01-31)  
     - [NodeJs] [使用nodejs写一个方法计算图片的md5](https://github.com/haizlin/fe-interview/issues/5343)
 - 第1385天 (2023-01-30)  

@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.01) —— 第1387天  
+## :clock430: 今天的知识点   (2023.02.03) —— 第1389天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说什么是数字证书？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5347)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1386天 (2023.01.31)  
-    	 :one: [NodeJs] [使用nodejs写一个方法计算图片的md5](https://github.com/haizlin/fe-interview/issues/5343)  
+- 第1388天 (2023.02.02)  
+    	 :one: [软技能] [为什么post请求会产生两次请求?](https://github.com/haizlin/fe-interview/issues/5346)  
  
 	
 - **[查看全部](category/history.md)**
