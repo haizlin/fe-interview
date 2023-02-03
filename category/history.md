@@ -2,6 +2,8 @@
 
 
 
+- 第1390天 (2023-02-04)  
+    - [软技能] [请说说HTTPS的握手过程](https://github.com/haizlin/fe-interview/issues/5348)
 - 第1389天 (2023-02-03)  
     - [软技能] [请说说什么是数字证书？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5347)
 - 第1388天 (2023-02-02)  
