@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.04) —— 第1390天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说HTTPS的握手过程](https://github.com/haizlin/fe-interview/issues/5348)  
+## :clock430: 今天的知识点   (2023.02.05) —— 第1391天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [为什么TCP要三次握手呢？少一次行不行？](https://github.com/haizlin/fe-interview/issues/5349)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1389天 (2023.02.03)  
-    	 :one: [软技能] [请说说什么是数字证书？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5347)  
+- 第1390天 (2023.02.04)  
+    	 :one: [软技能] [请说说HTTPS的握手过程](https://github.com/haizlin/fe-interview/issues/5348)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.04) —— 1390 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说HTTPS的握手过程](https://github.com/haizlin/fe-interview/issues/5348)  
+## :clock430: Today's Knowledge Points (2023.02.05) —— 1391 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [为什么TCP要三次握手呢？少一次行不行？](https://github.com/haizlin/fe-interview/issues/5349)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1389 days (2023.02.03)  
-    	 :one: [skill] [请说说什么是数字证书？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5347)  
+- 1390 days (2023.02.04)  
+    	 :one: [skill] [请说说HTTPS的握手过程](https://github.com/haizlin/fe-interview/issues/5348)  
  
 	
 - **[All](category/history.md)**

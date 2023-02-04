@@ -2,6 +2,8 @@
 
 
 
+- 第1391天 (2023-02-05)  
+    - [软技能] [为什么TCP要三次握手呢？少一次行不行？](https://github.com/haizlin/fe-interview/issues/5349)
 - 第1390天 (2023-02-04)  
     - [软技能] [请说说HTTPS的握手过程](https://github.com/haizlin/fe-interview/issues/5348)
 - 第1389天 (2023-02-03)  
