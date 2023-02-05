@@ -2,6 +2,8 @@
 
 
 
+- 第1392天 (2023-02-06)  
+    - [软技能] [如何处理TCP的粘包?](https://github.com/haizlin/fe-interview/issues/5350)
 - 第1391天 (2023-02-05)  
     - [软技能] [为什么TCP要三次握手呢？少一次行不行？](https://github.com/haizlin/fe-interview/issues/5349)
 - 第1390天 (2023-02-04)  
