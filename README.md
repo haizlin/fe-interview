@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.06) —— 第1392天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [如何处理TCP的粘包?](https://github.com/haizlin/fe-interview/issues/5350)  
+## :clock430: 今天的知识点   (2023.02.07) —— 第1393天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [浏览器在渲染时遇到javascript文件要怎么处理？](https://github.com/haizlin/fe-interview/issues/5351)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1391天 (2023.02.05)  
-    	 :one: [软技能] [为什么TCP要三次握手呢？少一次行不行？](https://github.com/haizlin/fe-interview/issues/5349)  
+- 第1392天 (2023.02.06)  
+    	 :one: [软技能] [如何处理TCP的粘包?](https://github.com/haizlin/fe-interview/issues/5350)  
  
 	
 - **[查看全部](category/history.md)**

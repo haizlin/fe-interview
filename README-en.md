@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.06) —— 1392 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [如何处理TCP的粘包?](https://github.com/haizlin/fe-interview/issues/5350)  
+## :clock430: Today's Knowledge Points (2023.02.07) —— 1393 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [浏览器在渲染时遇到javascript文件要怎么处理？](https://github.com/haizlin/fe-interview/issues/5351)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1391 days (2023.02.05)  
-    	 :one: [skill] [为什么TCP要三次握手呢？少一次行不行？](https://github.com/haizlin/fe-interview/issues/5349)  
+- 1392 days (2023.02.06)  
+    	 :one: [skill] [如何处理TCP的粘包?](https://github.com/haizlin/fe-interview/issues/5350)  
  
 	
 - **[All](category/history.md)**

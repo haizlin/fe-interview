@@ -2,6 +2,8 @@
 
 
 
+- 第1393天 (2023-02-07)  
+    - [软技能] [浏览器在渲染时遇到javascript文件要怎么处理？](https://github.com/haizlin/fe-interview/issues/5351)
 - 第1392天 (2023-02-06)  
     - [软技能] [如何处理TCP的粘包?](https://github.com/haizlin/fe-interview/issues/5350)
 - 第1391天 (2023-02-05)  
