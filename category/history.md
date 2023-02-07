@@ -2,6 +2,8 @@
 
 
 
+- 第1394天 (2023-02-08)  
+    - [软技能] [什么是文档的预解析？](https://github.com/haizlin/fe-interview/issues/5352)
 - 第1393天 (2023-02-07)  
     - [软技能] [浏览器在渲染时遇到javascript文件要怎么处理？](https://github.com/haizlin/fe-interview/issues/5351)
 - 第1392天 (2023-02-06)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.07) —— 1393 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [浏览器在渲染时遇到javascript文件要怎么处理？](https://github.com/haizlin/fe-interview/issues/5351)  
+## :clock430: Today's Knowledge Points (2023.02.08) —— 1394 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么是文档的预解析？](https://github.com/haizlin/fe-interview/issues/5352)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1392 days (2023.02.06)  
-    	 :one: [skill] [如何处理TCP的粘包?](https://github.com/haizlin/fe-interview/issues/5350)  
+- 1393 days (2023.02.07)  
+    	 :one: [skill] [浏览器在渲染时遇到javascript文件要怎么处理？](https://github.com/haizlin/fe-interview/issues/5351)  
  
 	
 - **[All](category/history.md)**
