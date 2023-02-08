@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.08) —— 第1394天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [什么是文档的预解析？](https://github.com/haizlin/fe-interview/issues/5352)  
+## :clock430: 今天的知识点   (2023.02.09) —— 第1395天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请问右键刷新、地址栏回车、F5、Ctrl+F5有什么区别？](https://github.com/haizlin/fe-interview/issues/5353)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1393天 (2023.02.07)  
-    	 :one: [软技能] [浏览器在渲染时遇到javascript文件要怎么处理？](https://github.com/haizlin/fe-interview/issues/5351)  
+- 第1394天 (2023.02.08)  
+    	 :one: [软技能] [什么是文档的预解析？](https://github.com/haizlin/fe-interview/issues/5352)  
  
 	
 - **[查看全部](category/history.md)**

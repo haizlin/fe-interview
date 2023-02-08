@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.08) —— 1394 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么是文档的预解析？](https://github.com/haizlin/fe-interview/issues/5352)  
+## :clock430: Today's Knowledge Points (2023.02.09) —— 1395 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请问右键刷新、地址栏回车、F5、Ctrl+F5有什么区别？](https://github.com/haizlin/fe-interview/issues/5353)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1393 days (2023.02.07)  
-    	 :one: [skill] [浏览器在渲染时遇到javascript文件要怎么处理？](https://github.com/haizlin/fe-interview/issues/5351)  
+- 1394 days (2023.02.08)  
+    	 :one: [skill] [什么是文档的预解析？](https://github.com/haizlin/fe-interview/issues/5352)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1395天 (2023-02-09)  
+    - [软技能] [请问右键刷新、地址栏回车、F5、Ctrl+F5有什么区别？](https://github.com/haizlin/fe-interview/issues/5353)
 - 第1394天 (2023-02-08)  
     - [软技能] [什么是文档的预解析？](https://github.com/haizlin/fe-interview/issues/5352)
 - 第1393天 (2023-02-07)  
