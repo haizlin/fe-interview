@@ -2,6 +2,8 @@
 
 
 
+- 第1396天 (2023-02-10)  
+    - [软技能] [新窗口打开同样的站点会共用sessionStrorage吗？](https://github.com/haizlin/fe-interview/issues/5354)
 - 第1395天 (2023-02-09)  
     - [软技能] [请问右键刷新、地址栏回车、F5、Ctrl+F5有什么区别？](https://github.com/haizlin/fe-interview/issues/5353)
 - 第1394天 (2023-02-08)  
