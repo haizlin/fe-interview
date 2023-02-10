@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.10) —— 第1396天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [新窗口打开同样的站点会共用sessionStrorage吗？](https://github.com/haizlin/fe-interview/issues/5354)  
+## :clock430: 今天的知识点   (2023.02.11) —— 第1397天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端怎样实现即时通讯？](https://github.com/haizlin/fe-interview/issues/5355)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1395天 (2023.02.09)  
-    	 :one: [软技能] [请问右键刷新、地址栏回车、F5、Ctrl+F5有什么区别？](https://github.com/haizlin/fe-interview/issues/5353)  
+- 第1396天 (2023.02.10)  
+    	 :one: [软技能] [新窗口打开同样的站点会共用sessionStrorage吗？](https://github.com/haizlin/fe-interview/issues/5354)  
  
 	
 - **[查看全部](category/history.md)**

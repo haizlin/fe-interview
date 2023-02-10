@@ -2,6 +2,8 @@
 
 
 
+- 第1397天 (2023-02-11)  
+    - [软技能] [前端怎样实现即时通讯？](https://github.com/haizlin/fe-interview/issues/5355)
 - 第1396天 (2023-02-10)  
     - [软技能] [新窗口打开同样的站点会共用sessionStrorage吗？](https://github.com/haizlin/fe-interview/issues/5354)
 - 第1395天 (2023-02-09)  
