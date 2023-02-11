@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.11) —— 第1397天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端怎样实现即时通讯？](https://github.com/haizlin/fe-interview/issues/5355)  
+## :clock430: 今天的知识点   (2023.02.12) —— 第1398天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [你有使用过uni-app吗？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/5356)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1396天 (2023.02.10)  
-    	 :one: [软技能] [新窗口打开同样的站点会共用sessionStrorage吗？](https://github.com/haizlin/fe-interview/issues/5354)  
+- 第1397天 (2023.02.11)  
+    	 :one: [软技能] [前端怎样实现即时通讯？](https://github.com/haizlin/fe-interview/issues/5355)  
  
 	
 - **[查看全部](category/history.md)**
