@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.12) —— 第1398天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [你有使用过uni-app吗？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/5356)  
+## :clock430: 今天的知识点   (2023.02.13) —— 第1399天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [git如何删除本地仓库中未跟踪的文件？](https://github.com/haizlin/fe-interview/issues/5357)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1397天 (2023.02.11)  
-    	 :one: [软技能] [前端怎样实现即时通讯？](https://github.com/haizlin/fe-interview/issues/5355)  
+- 第1398天 (2023.02.12)  
+    	 :one: [小程序] [你有使用过uni-app吗？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/5356)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1399天 (2023-02-13)  
+    - [软技能] [git如何删除本地仓库中未跟踪的文件？](https://github.com/haizlin/fe-interview/issues/5357)
 - 第1398天 (2023-02-12)  
     - [小程序] [你有使用过uni-app吗？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/5356)
 - 第1397天 (2023-02-11)  
