@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.13) —— 1399 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [git如何删除本地仓库中未跟踪的文件？](https://github.com/haizlin/fe-interview/issues/5357)  
+## :clock430: Today's Knowledge Points (2023.02.14) —— 1400 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说你对ChatGPT的理解](https://github.com/haizlin/fe-interview/issues/5358)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1398 days (2023.02.12)  
-    	 :one: [小程序] [你有使用过uni-app吗？请说说你对它的理解](https://github.com/haizlin/fe-interview/issues/5356)  
+- 1399 days (2023.02.13)  
+    	 :one: [skill] [git如何删除本地仓库中未跟踪的文件？](https://github.com/haizlin/fe-interview/issues/5357)  
  
 	
 - **[All](category/history.md)**

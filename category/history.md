@@ -2,6 +2,8 @@
 
 
 
+- 第1400天 (2023-02-14)  
+    - [软技能] [请说说你对ChatGPT的理解](https://github.com/haizlin/fe-interview/issues/5358)
 - 第1399天 (2023-02-13)  
     - [软技能] [git如何删除本地仓库中未跟踪的文件？](https://github.com/haizlin/fe-interview/issues/5357)
 - 第1398天 (2023-02-12)  
