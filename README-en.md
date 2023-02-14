@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.14) —— 1400 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说你对ChatGPT的理解](https://github.com/haizlin/fe-interview/issues/5358)  
+## :clock430: Today's Knowledge Points (2023.02.15) —— 1401 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [你有使用过backdrop-filter吗？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5359)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1399 days (2023.02.13)  
-    	 :one: [skill] [git如何删除本地仓库中未跟踪的文件？](https://github.com/haizlin/fe-interview/issues/5357)  
+- 1400 days (2023.02.14)  
+    	 :one: [skill] [请说说你对ChatGPT的理解](https://github.com/haizlin/fe-interview/issues/5358)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.14) —— 第1400天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对ChatGPT的理解](https://github.com/haizlin/fe-interview/issues/5358)  
+## :clock430: 今天的知识点   (2023.02.15) —— 第1401天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [你有使用过backdrop-filter吗？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5359)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1399天 (2023.02.13)  
-    	 :one: [软技能] [git如何删除本地仓库中未跟踪的文件？](https://github.com/haizlin/fe-interview/issues/5357)  
+- 第1400天 (2023.02.14)  
+    	 :one: [软技能] [请说说你对ChatGPT的理解](https://github.com/haizlin/fe-interview/issues/5358)  
  
 	
 - **[查看全部](category/history.md)**
