@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.15) —— 第1401天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [你有使用过backdrop-filter吗？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5359)  
+## :clock430: 今天的知识点   (2023.02.16) —— 第1402天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1400天 (2023.02.14)  
-    	 :one: [软技能] [请说说你对ChatGPT的理解](https://github.com/haizlin/fe-interview/issues/5358)  
+- 第1401天 (2023.02.15)  
+    	 :one: [css] [你有使用过backdrop-filter吗？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5359)  
  
 	
 - **[查看全部](category/history.md)**

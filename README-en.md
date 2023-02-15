@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.15) —— 1401 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [你有使用过backdrop-filter吗？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5359)  
+## :clock430: Today's Knowledge Points (2023.02.16) —— 1402 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1400 days (2023.02.14)  
-    	 :one: [skill] [请说说你对ChatGPT的理解](https://github.com/haizlin/fe-interview/issues/5358)  
+- 1401 days (2023.02.15)  
+    	 :one: [css] [你有使用过backdrop-filter吗？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5359)  
  
 	
 - **[All](category/history.md)**
