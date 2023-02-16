@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.16) —— 第1402天  
+## :clock430: 今天的知识点   (2023.02.17) —— 第1403天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你是如何保证多浏览器的兼容？](https://github.com/haizlin/fe-interview/issues/5361)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1401天 (2023.02.15)  
-    	 :one: [css] [你有使用过backdrop-filter吗？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5359)  
+- 第1402天 (2023.02.16)  
+    	 :one: [js] [请使用js写一个单词折行算法](https://github.com/haizlin/fe-interview/issues/5360)  
  
 	
 - **[查看全部](category/history.md)**

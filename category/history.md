@@ -2,6 +2,10 @@
 
 
 
+- 第1403天 (2023-02-17)  
+    - [软技能] [你是如何保证多浏览器的兼容？](https://github.com/haizlin/fe-interview/issues/5361)
+- 第1402天 (2023-02-16)  
+    - [js] [请使用js写一个单词折行算法](https://github.com/haizlin/fe-interview/issues/5360)
 - 第1401天 (2023-02-15)  
     - [css] [你有使用过backdrop-filter吗？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5359)
 - 第1400天 (2023-02-14)  
