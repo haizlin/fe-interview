@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.17) —— 第1403天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你是如何保证多浏览器的兼容？](https://github.com/haizlin/fe-interview/issues/5361)  
+## :clock430: 今天的知识点   (2023.02.18) —— 第1404天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [数据大屏可视化适配方案有哪些？](https://github.com/haizlin/fe-interview/issues/5362)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1402天 (2023.02.16)  
-    	 :one: [js] [请使用js写一个单词折行算法](https://github.com/haizlin/fe-interview/issues/5360)  
+- 第1403天 (2023.02.17)  
+    	 :one: [软技能] [你是如何保证多浏览器的兼容？](https://github.com/haizlin/fe-interview/issues/5361)  
  
 	
 - **[查看全部](category/history.md)**

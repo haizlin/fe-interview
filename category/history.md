@@ -2,6 +2,8 @@
 
 
 
+- 第1404天 (2023-02-18)  
+    - [软技能] [数据大屏可视化适配方案有哪些？](https://github.com/haizlin/fe-interview/issues/5362)
 - 第1403天 (2023-02-17)  
     - [软技能] [你是如何保证多浏览器的兼容？](https://github.com/haizlin/fe-interview/issues/5361)
 - 第1402天 (2023-02-16)  
