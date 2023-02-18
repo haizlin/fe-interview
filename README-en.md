@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.18) —— 1404 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [数据大屏可视化适配方案有哪些？](https://github.com/haizlin/fe-interview/issues/5362)  
+## :clock430: Today's Knowledge Points (2023.02.19) —— 1405 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说CommonJS的规范有哪些？](https://github.com/haizlin/fe-interview/issues/5363)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1403 days (2023.02.17)  
-    	 :one: [skill] [你是如何保证多浏览器的兼容？](https://github.com/haizlin/fe-interview/issues/5361)  
+- 1404 days (2023.02.18)  
+    	 :one: [skill] [数据大屏可视化适配方案有哪些？](https://github.com/haizlin/fe-interview/issues/5362)  
  
 	
 - **[All](category/history.md)**

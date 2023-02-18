@@ -2,6 +2,8 @@
 
 
 
+- 第1405天 (2023-02-19)  
+    - [NodeJs] [请说说CommonJS的规范有哪些？](https://github.com/haizlin/fe-interview/issues/5363)
 - 第1404天 (2023-02-18)  
     - [软技能] [数据大屏可视化适配方案有哪些？](https://github.com/haizlin/fe-interview/issues/5362)
 - 第1403天 (2023-02-17)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.18) —— 第1404天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [数据大屏可视化适配方案有哪些？](https://github.com/haizlin/fe-interview/issues/5362)  
+## :clock430: 今天的知识点   (2023.02.19) —— 第1405天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说CommonJS的规范有哪些？](https://github.com/haizlin/fe-interview/issues/5363)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1403天 (2023.02.17)  
-    	 :one: [软技能] [你是如何保证多浏览器的兼容？](https://github.com/haizlin/fe-interview/issues/5361)  
+- 第1404天 (2023.02.18)  
+    	 :one: [软技能] [数据大屏可视化适配方案有哪些？](https://github.com/haizlin/fe-interview/issues/5362)  
  
 	
 - **[查看全部](category/history.md)**
