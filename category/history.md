@@ -2,6 +2,8 @@
 
 
 
+- 第1406天 (2023-02-20)  
+    - [NodeJs] [请讲讲Node的缓存机制](https://github.com/haizlin/fe-interview/issues/5364)
 - 第1405天 (2023-02-19)  
     - [NodeJs] [请说说CommonJS的规范有哪些？](https://github.com/haizlin/fe-interview/issues/5363)
 - 第1404天 (2023-02-18)  
