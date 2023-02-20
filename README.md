@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.20) —— 第1406天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请讲讲Node的缓存机制](https://github.com/haizlin/fe-interview/issues/5364)  
+## :clock430: 今天的知识点   (2023.02.21) —— 第1407天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [请使用vue实现一个图片懒加载](https://github.com/haizlin/fe-interview/issues/5365)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1405天 (2023.02.19)  
-    	 :one: [NodeJs] [请说说CommonJS的规范有哪些？](https://github.com/haizlin/fe-interview/issues/5363)  
+- 第1406天 (2023.02.20)  
+    	 :one: [NodeJs] [请讲讲Node的缓存机制](https://github.com/haizlin/fe-interview/issues/5364)  
  
 	
 - **[查看全部](category/history.md)**

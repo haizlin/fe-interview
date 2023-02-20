@@ -2,6 +2,8 @@
 
 
 
+- 第1407天 (2023-02-21)  
+    - [vue] [请使用vue实现一个图片懒加载](https://github.com/haizlin/fe-interview/issues/5365)
 - 第1406天 (2023-02-20)  
     - [NodeJs] [请讲讲Node的缓存机制](https://github.com/haizlin/fe-interview/issues/5364)
 - 第1405天 (2023-02-19)  
