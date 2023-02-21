@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.21) —— 1407 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [请使用vue实现一个图片懒加载](https://github.com/haizlin/fe-interview/issues/5365)  
+## :clock430: Today's Knowledge Points (2023.02.22) —— 1408 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [懒加载和预加载有什么区别？](https://github.com/haizlin/fe-interview/issues/5366)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1406 days (2023.02.20)  
-    	 :one: [NodeJs] [请讲讲Node的缓存机制](https://github.com/haizlin/fe-interview/issues/5364)  
+- 1407 days (2023.02.21)  
+    	 :one: [vue] [请使用vue实现一个图片懒加载](https://github.com/haizlin/fe-interview/issues/5365)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1408天 (2023-02-22)  
+    - [软技能] [懒加载和预加载有什么区别？](https://github.com/haizlin/fe-interview/issues/5366)
 - 第1407天 (2023-02-21)  
     - [vue] [请使用vue实现一个图片懒加载](https://github.com/haizlin/fe-interview/issues/5365)
 - 第1406天 (2023-02-20)  
