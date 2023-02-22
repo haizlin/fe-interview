@@ -2,6 +2,8 @@
 
 
 
+- 第1409天 (2023-02-23)  
+    - [软技能] [有哪些操作会导致回流？](https://github.com/haizlin/fe-interview/issues/5367)
 - 第1408天 (2023-02-22)  
     - [软技能] [懒加载和预加载有什么区别？](https://github.com/haizlin/fe-interview/issues/5366)
 - 第1407天 (2023-02-21)  

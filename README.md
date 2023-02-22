@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.22) —— 第1408天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [懒加载和预加载有什么区别？](https://github.com/haizlin/fe-interview/issues/5366)  
+## :clock430: 今天的知识点   (2023.02.23) —— 第1409天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [有哪些操作会导致回流？](https://github.com/haizlin/fe-interview/issues/5367)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1407天 (2023.02.21)  
-    	 :one: [vue] [请使用vue实现一个图片懒加载](https://github.com/haizlin/fe-interview/issues/5365)  
+- 第1408天 (2023.02.22)  
+    	 :one: [软技能] [懒加载和预加载有什么区别？](https://github.com/haizlin/fe-interview/issues/5366)  
  
 	
 - **[查看全部](category/history.md)**
