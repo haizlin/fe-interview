@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.23) —— 1409 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [有哪些操作会导致回流？](https://github.com/haizlin/fe-interview/issues/5367)  
+## :clock430: Today's Knowledge Points (2023.02.24) —— 1410 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [有哪些操作会导致重绘？](https://github.com/haizlin/fe-interview/issues/5368)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1408 days (2023.02.22)  
-    	 :one: [skill] [懒加载和预加载有什么区别？](https://github.com/haizlin/fe-interview/issues/5366)  
+- 1409 days (2023.02.23)  
+    	 :one: [skill] [有哪些操作会导致回流？](https://github.com/haizlin/fe-interview/issues/5367)  
  
 	
 - **[All](category/history.md)**

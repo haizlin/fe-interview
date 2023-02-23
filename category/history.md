@@ -2,6 +2,8 @@
 
 
 
+- 第1410天 (2023-02-24)  
+    - [软技能] [有哪些操作会导致重绘？](https://github.com/haizlin/fe-interview/issues/5368)
 - 第1409天 (2023-02-23)  
     - [软技能] [有哪些操作会导致回流？](https://github.com/haizlin/fe-interview/issues/5367)
 - 第1408天 (2023-02-22)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.23) —— 第1409天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [有哪些操作会导致回流？](https://github.com/haizlin/fe-interview/issues/5367)  
+## :clock430: 今天的知识点   (2023.02.24) —— 第1410天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [有哪些操作会导致重绘？](https://github.com/haizlin/fe-interview/issues/5368)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1408天 (2023.02.22)  
-    	 :one: [软技能] [懒加载和预加载有什么区别？](https://github.com/haizlin/fe-interview/issues/5366)  
+- 第1409天 (2023.02.23)  
+    	 :one: [软技能] [有哪些操作会导致回流？](https://github.com/haizlin/fe-interview/issues/5367)  
  
 	
 - **[查看全部](category/history.md)**
