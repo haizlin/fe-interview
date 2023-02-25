@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.25) —— 1411 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [如何更好的避免重绘和回流？](https://github.com/haizlin/fe-interview/issues/5369)  
+## :clock430: Today's Knowledge Points (2023.02.26) —— 1412 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用documentFragment和直接操作DOM有区别？](https://github.com/haizlin/fe-interview/issues/5370)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1410 days (2023.02.24)  
-    	 :one: [skill] [有哪些操作会导致重绘？](https://github.com/haizlin/fe-interview/issues/5368)  
+- 1411 days (2023.02.25)  
+    	 :one: [skill] [如何更好的避免重绘和回流？](https://github.com/haizlin/fe-interview/issues/5369)  
  
 	
 - **[All](category/history.md)**
