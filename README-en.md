@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.02.26) —— 1412 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用documentFragment和直接操作DOM有区别？](https://github.com/haizlin/fe-interview/issues/5370)  
+## :clock430: Today's Knowledge Points (2023.02.27) —— 1413 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请讲讲在webpack中有哪些常见的loader和Plugin？](https://github.com/haizlin/fe-interview/issues/5371)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1411 days (2023.02.25)  
-    	 :one: [skill] [如何更好的避免重绘和回流？](https://github.com/haizlin/fe-interview/issues/5369)  
+- 1412 days (2023.02.26)  
+    	 :one: [js] [使用documentFragment和直接操作DOM有区别？](https://github.com/haizlin/fe-interview/issues/5370)  
  
 	
 - **[All](category/history.md)**

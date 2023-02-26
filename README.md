@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.02.26) —— 第1412天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用documentFragment和直接操作DOM有区别？](https://github.com/haizlin/fe-interview/issues/5370)  
+## :clock430: 今天的知识点   (2023.02.27) —— 第1413天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请讲讲在webpack中有哪些常见的loader和Plugin？](https://github.com/haizlin/fe-interview/issues/5371)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1411天 (2023.02.25)  
-    	 :one: [软技能] [如何更好的避免重绘和回流？](https://github.com/haizlin/fe-interview/issues/5369)  
+- 第1412天 (2023.02.26)  
+    	 :one: [js] [使用documentFragment和直接操作DOM有区别？](https://github.com/haizlin/fe-interview/issues/5370)  
  
 	
 - **[查看全部](category/history.md)**

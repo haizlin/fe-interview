@@ -2,6 +2,8 @@
 
 
 
+- 第1413天 (2023-02-27)  
+    - [webpack] [请讲讲在webpack中有哪些常见的loader和Plugin？](https://github.com/haizlin/fe-interview/issues/5371)
 - 第1412天 (2023-02-26)  
     - [js] [使用documentFragment和直接操作DOM有区别？](https://github.com/haizlin/fe-interview/issues/5370)
 - 第1411天 (2023-02-25)  
