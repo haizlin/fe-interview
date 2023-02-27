@@ -2,6 +2,8 @@
 
 
 
+- 第1414天 (2023-02-28)  
+    - [webpack] [请问如何优化webpack的打包速度？](https://github.com/haizlin/fe-interview/issues/5372)
 - 第1413天 (2023-02-27)  
     - [webpack] [请讲讲在webpack中有哪些常见的loader和Plugin？](https://github.com/haizlin/fe-interview/issues/5371)
 - 第1412天 (2023-02-26)  
