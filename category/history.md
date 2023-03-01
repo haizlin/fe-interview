@@ -2,6 +2,8 @@
 
 
 
+- 第1416天 (2023-03-02)  
+    - [软技能] [请说说你对Major GC和Minor GC的理解](https://github.com/haizlin/fe-interview/issues/5374)
 - 第1415天 (2023-03-01)  
     - [vue] [在vue中为什么使用v-for数据渲染顺序会混乱？如何解决？](https://github.com/haizlin/fe-interview/issues/5373)
 - 第1414天 (2023-02-28)  
