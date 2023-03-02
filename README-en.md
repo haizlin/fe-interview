@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.02) —— 1416 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说你对Major GC和Minor GC的理解](https://github.com/haizlin/fe-interview/issues/5374)  
+## :clock430: Today's Knowledge Points (2023.03.03) —— 1417 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对content-visibility的理解 ](https://github.com/haizlin/fe-interview/issues/5375)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1415 days (2023.03.01)  
-    	 :one: [vue] [在vue中为什么使用v-for数据渲染顺序会混乱？如何解决？](https://github.com/haizlin/fe-interview/issues/5373)  
+- 1416 days (2023.03.02)  
+    	 :one: [skill] [请说说你对Major GC和Minor GC的理解](https://github.com/haizlin/fe-interview/issues/5374)  
  
 	
 - **[All](category/history.md)**

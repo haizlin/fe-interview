@@ -2,6 +2,8 @@
 
 
 
+- 第1417天 (2023-03-03)  
+    - [css] [说说你对content-visibility的理解 ](https://github.com/haizlin/fe-interview/issues/5375)
 - 第1416天 (2023-03-02)  
     - [软技能] [请说说你对Major GC和Minor GC的理解](https://github.com/haizlin/fe-interview/issues/5374)
 - 第1415天 (2023-03-01)  
