@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.03.03) —— 第1417天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对content-visibility的理解 ](https://github.com/haizlin/fe-interview/issues/5375)  
+## :clock430: 今天的知识点   (2023.03.04) —— 第1418天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [什么时候会触发Minor GC？](https://github.com/haizlin/fe-interview/issues/5376)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1416天 (2023.03.02)  
-    	 :one: [软技能] [请说说你对Major GC和Minor GC的理解](https://github.com/haizlin/fe-interview/issues/5374)  
+- 第1417天 (2023.03.03)  
+    	 :one: [css] [说说你对content-visibility的理解 ](https://github.com/haizlin/fe-interview/issues/5375)  
  
 	
 - **[查看全部](category/history.md)**

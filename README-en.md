@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.03) —— 1417 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对content-visibility的理解 ](https://github.com/haizlin/fe-interview/issues/5375)  
+## :clock430: Today's Knowledge Points (2023.03.04) —— 1418 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么时候会触发Minor GC？](https://github.com/haizlin/fe-interview/issues/5376)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1416 days (2023.03.02)  
-    	 :one: [skill] [请说说你对Major GC和Minor GC的理解](https://github.com/haizlin/fe-interview/issues/5374)  
+- 1417 days (2023.03.03)  
+    	 :one: [css] [说说你对content-visibility的理解 ](https://github.com/haizlin/fe-interview/issues/5375)  
  
 	
 - **[All](category/history.md)**

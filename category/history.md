@@ -2,6 +2,8 @@
 
 
 
+- 第1418天 (2023-03-04)  
+    - [软技能] [什么时候会触发Minor GC？](https://github.com/haizlin/fe-interview/issues/5376)
 - 第1417天 (2023-03-03)  
     - [css] [说说你对content-visibility的理解 ](https://github.com/haizlin/fe-interview/issues/5375)
 - 第1416天 (2023-03-02)  
