@@ -2,6 +2,8 @@
 
 
 
+- 第1419天 (2023-03-05)  
+    - [软技能] [如何优化动画的性能？](https://github.com/haizlin/fe-interview/issues/5377)
 - 第1418天 (2023-03-04)  
     - [软技能] [什么时候会触发Minor GC？](https://github.com/haizlin/fe-interview/issues/5376)
 - 第1417天 (2023-03-03)  
