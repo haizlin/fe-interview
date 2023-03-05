@@ -2,6 +2,8 @@
 
 
 
+- 第1420天 (2023-03-06)  
+    - [ECMAScript] [请描述下空值合并运算符（??）](https://github.com/haizlin/fe-interview/issues/5378)
 - 第1419天 (2023-03-05)  
     - [软技能] [如何优化动画的性能？](https://github.com/haizlin/fe-interview/issues/5377)
 - 第1418天 (2023-03-04)  

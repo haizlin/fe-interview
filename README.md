@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.03.05) —— 第1419天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [如何优化动画的性能？](https://github.com/haizlin/fe-interview/issues/5377)  
+## :clock430: 今天的知识点   (2023.03.06) —— 第1420天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请描述下空值合并运算符（??）](https://github.com/haizlin/fe-interview/issues/5378)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1418天 (2023.03.04)  
-    	 :one: [软技能] [什么时候会触发Minor GC？](https://github.com/haizlin/fe-interview/issues/5376)  
+- 第1419天 (2023.03.05)  
+    	 :one: [软技能] [如何优化动画的性能？](https://github.com/haizlin/fe-interview/issues/5377)  
  
 	
 - **[查看全部](category/history.md)**

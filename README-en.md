@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.05) —— 1419 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [如何优化动画的性能？](https://github.com/haizlin/fe-interview/issues/5377)  
+## :clock430: Today's Knowledge Points (2023.03.06) —— 1420 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请描述下空值合并运算符（??）](https://github.com/haizlin/fe-interview/issues/5378)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1418 days (2023.03.04)  
-    	 :one: [skill] [什么时候会触发Minor GC？](https://github.com/haizlin/fe-interview/issues/5376)  
+- 1419 days (2023.03.05)  
+    	 :one: [skill] [如何优化动画的性能？](https://github.com/haizlin/fe-interview/issues/5377)  
  
 	
 - **[All](category/history.md)**
