@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.03.06) —— 第1420天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请描述下空值合并运算符（??）](https://github.com/haizlin/fe-interview/issues/5378)  
+## :clock430: 今天的知识点   (2023.03.07) —— 第1421天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [ES2021有哪些新的特性？](https://github.com/haizlin/fe-interview/issues/5379)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1419天 (2023.03.05)  
-    	 :one: [软技能] [如何优化动画的性能？](https://github.com/haizlin/fe-interview/issues/5377)  
+- 第1420天 (2023.03.06)  
+    	 :one: [ECMAScript] [请描述下空值合并运算符（??）](https://github.com/haizlin/fe-interview/issues/5378)  
  
 	
 - **[查看全部](category/history.md)**

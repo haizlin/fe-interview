@@ -2,6 +2,8 @@
 
 
 
+- 第1421天 (2023-03-07)  
+    - [ECMAScript] [ES2021有哪些新的特性？](https://github.com/haizlin/fe-interview/issues/5379)
 - 第1420天 (2023-03-06)  
     - [ECMAScript] [请描述下空值合并运算符（??）](https://github.com/haizlin/fe-interview/issues/5378)
 - 第1419天 (2023-03-05)  
