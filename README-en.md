@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.07) —— 1421 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [ES2021有哪些新的特性？](https://github.com/haizlin/fe-interview/issues/5379)  
+## :clock430: Today's Knowledge Points (2023.03.08) —— 1422 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请描述下逻辑赋值操作符](https://github.com/haizlin/fe-interview/issues/5380)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1420 days (2023.03.06)  
-    	 :one: [ECMAScript] [请描述下空值合并运算符（??）](https://github.com/haizlin/fe-interview/issues/5378)  
+- 1421 days (2023.03.07)  
+    	 :one: [ECMAScript] [ES2021有哪些新的特性？](https://github.com/haizlin/fe-interview/issues/5379)  
  
 	
 - **[All](category/history.md)**

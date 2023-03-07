@@ -2,6 +2,8 @@
 
 
 
+- 第1422天 (2023-03-08)  
+    - [ECMAScript] [请描述下逻辑赋值操作符](https://github.com/haizlin/fe-interview/issues/5380)
 - 第1421天 (2023-03-07)  
     - [ECMAScript] [ES2021有哪些新的特性？](https://github.com/haizlin/fe-interview/issues/5379)
 - 第1420天 (2023-03-06)  
