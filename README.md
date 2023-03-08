@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.03.08) —— 第1422天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请描述下逻辑赋值操作符](https://github.com/haizlin/fe-interview/issues/5380)  
+## :clock430: 今天的知识点   (2023.03.09) —— 第1423天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何解绑事件？](https://github.com/haizlin/fe-interview/issues/5381)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1421天 (2023.03.07)  
-    	 :one: [ECMAScript] [ES2021有哪些新的特性？](https://github.com/haizlin/fe-interview/issues/5379)  
+- 第1422天 (2023.03.08)  
+    	 :one: [ECMAScript] [请描述下逻辑赋值操作符](https://github.com/haizlin/fe-interview/issues/5380)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1423天 (2023-03-09)  
+    - [js] [如何解绑事件？](https://github.com/haizlin/fe-interview/issues/5381)
 - 第1422天 (2023-03-08)  
     - [ECMAScript] [请描述下逻辑赋值操作符](https://github.com/haizlin/fe-interview/issues/5380)
 - 第1421天 (2023-03-07)  
