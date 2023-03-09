@@ -2,6 +2,8 @@
 
 
 
+- 第1424天 (2023-03-10)  
+    - [js] [L0和L2注册事件有什么区别？](https://github.com/haizlin/fe-interview/issues/5382)
 - 第1423天 (2023-03-09)  
     - [js] [如何解绑事件？](https://github.com/haizlin/fe-interview/issues/5381)
 - 第1422天 (2023-03-08)  

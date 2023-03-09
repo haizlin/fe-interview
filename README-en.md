@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.09) —— 1423 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何解绑事件？](https://github.com/haizlin/fe-interview/issues/5381)  
+## :clock430: Today's Knowledge Points (2023.03.10) —— 1424 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [L0和L2注册事件有什么区别？](https://github.com/haizlin/fe-interview/issues/5382)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1422 days (2023.03.08)  
-    	 :one: [ECMAScript] [请描述下逻辑赋值操作符](https://github.com/haizlin/fe-interview/issues/5380)  
+- 1423 days (2023.03.09)  
+    	 :one: [js] [如何解绑事件？](https://github.com/haizlin/fe-interview/issues/5381)  
  
 	
 - **[All](category/history.md)**
