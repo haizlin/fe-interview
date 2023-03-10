@@ -2,6 +2,8 @@
 
 
 
+- 第1425天 (2023-03-11)  
+    - [js] [DOM的类型有哪几种？](https://github.com/haizlin/fe-interview/issues/5383)
 - 第1424天 (2023-03-10)  
     - [js] [L0和L2注册事件有什么区别？](https://github.com/haizlin/fe-interview/issues/5382)
 - 第1423天 (2023-03-09)  

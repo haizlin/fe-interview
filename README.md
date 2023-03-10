@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.03.10) —— 第1424天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [L0和L2注册事件有什么区别？](https://github.com/haizlin/fe-interview/issues/5382)  
+## :clock430: 今天的知识点   (2023.03.11) —— 第1425天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [DOM的类型有哪几种？](https://github.com/haizlin/fe-interview/issues/5383)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1423天 (2023.03.09)  
-    	 :one: [js] [如何解绑事件？](https://github.com/haizlin/fe-interview/issues/5381)  
+- 第1424天 (2023.03.10)  
+    	 :one: [js] [L0和L2注册事件有什么区别？](https://github.com/haizlin/fe-interview/issues/5382)  
  
 	
 - **[查看全部](category/history.md)**
