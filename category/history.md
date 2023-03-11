@@ -2,6 +2,8 @@
 
 
 
+- 第1426天 (2023-03-12)  
+    - [js] [DOM获取坐标的属性有哪些？](https://github.com/haizlin/fe-interview/issues/5384)
 - 第1425天 (2023-03-11)  
     - [js] [DOM的类型有哪几种？](https://github.com/haizlin/fe-interview/issues/5383)
 - 第1424天 (2023-03-10)  

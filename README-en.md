@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.11) —— 1425 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [DOM的类型有哪几种？](https://github.com/haizlin/fe-interview/issues/5383)  
+## :clock430: Today's Knowledge Points (2023.03.12) —— 1426 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [DOM获取坐标的属性有哪些？](https://github.com/haizlin/fe-interview/issues/5384)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1424 days (2023.03.10)  
-    	 :one: [js] [L0和L2注册事件有什么区别？](https://github.com/haizlin/fe-interview/issues/5382)  
+- 1425 days (2023.03.11)  
+    	 :one: [js] [DOM的类型有哪几种？](https://github.com/haizlin/fe-interview/issues/5383)  
  
 	
 - **[All](category/history.md)**
