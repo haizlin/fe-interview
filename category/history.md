@@ -2,6 +2,8 @@
 
 
 
+- 第1428天 (2023-03-14)  
+    - [js] [请使用createNodeIterator写一个方法遍历页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5386)
 - 第1427天 (2023-03-13)  
     - [js] [DOM获取元素尺寸的属性有哪些？](https://github.com/haizlin/fe-interview/issues/5385)
 - 第1426天 (2023-03-12)  
