@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.03.14) —— 第1428天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用createNodeIterator写一个方法遍历页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5386)  
+## :clock430: 今天的知识点   (2023.03.15) —— 第1429天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [为什么获取clientWidth属性，浏览器会重排重绘？](https://github.com/haizlin/fe-interview/issues/5387)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1427天 (2023.03.13)  
-    	 :one: [js] [DOM获取元素尺寸的属性有哪些？](https://github.com/haizlin/fe-interview/issues/5385)  
+- 第1428天 (2023.03.14)  
+    	 :one: [js] [请使用createNodeIterator写一个方法遍历页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5386)  
  
 	
 - **[查看全部](category/history.md)**

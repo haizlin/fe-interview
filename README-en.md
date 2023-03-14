@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.14) —— 1428 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用createNodeIterator写一个方法遍历页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5386)  
+## :clock430: Today's Knowledge Points (2023.03.15) —— 1429 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [为什么获取clientWidth属性，浏览器会重排重绘？](https://github.com/haizlin/fe-interview/issues/5387)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1427 days (2023.03.13)  
-    	 :one: [js] [DOM获取元素尺寸的属性有哪些？](https://github.com/haizlin/fe-interview/issues/5385)  
+- 1428 days (2023.03.14)  
+    	 :one: [js] [请使用createNodeIterator写一个方法遍历页面中的所有元素](https://github.com/haizlin/fe-interview/issues/5386)  
  
 	
 - **[All](category/history.md)**
