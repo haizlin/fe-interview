@@ -2,6 +2,8 @@
 
 
 
+- 第1430天 (2023-03-16)  
+    - [js] [使用js写一个方法，使得结果值映射到[0-1]之间(数据归一化)](https://github.com/haizlin/fe-interview/issues/5388)
 - 第1429天 (2023-03-15)  
     - [软技能] [为什么获取clientWidth属性，浏览器会重排重绘？](https://github.com/haizlin/fe-interview/issues/5387)
 - 第1428天 (2023-03-14)  
