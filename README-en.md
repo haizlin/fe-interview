@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.16) —— 1430 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法，使得结果值映射到[0-1]之间(数据归一化)](https://github.com/haizlin/fe-interview/issues/5388)  
+## :clock430: Today's Knowledge Points (2023.03.17) —— 1431 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请问git log和git reflog有什么区别？](https://github.com/haizlin/fe-interview/issues/5389)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1429 days (2023.03.15)  
-    	 :one: [skill] [为什么获取clientWidth属性，浏览器会重排重绘？](https://github.com/haizlin/fe-interview/issues/5387)  
+- 1430 days (2023.03.16)  
+    	 :one: [js] [使用js写一个方法，使得结果值映射到[0-1]之间(数据归一化)](https://github.com/haizlin/fe-interview/issues/5388)  
  
 	
 - **[All](category/history.md)**
