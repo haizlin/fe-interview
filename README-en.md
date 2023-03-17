@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.17) —— 1431 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请问git log和git reflog有什么区别？](https://github.com/haizlin/fe-interview/issues/5389)  
+## :clock430: Today's Knowledge Points (2023.03.18) —— 1432 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请解释一下git的游离分支是什么？](https://github.com/haizlin/fe-interview/issues/5390)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1430 days (2023.03.16)  
-    	 :one: [js] [使用js写一个方法，使得结果值映射到[0-1]之间(数据归一化)](https://github.com/haizlin/fe-interview/issues/5388)  
+- 1431 days (2023.03.17)  
+    	 :one: [skill] [请问git log和git reflog有什么区别？](https://github.com/haizlin/fe-interview/issues/5389)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1432天 (2023-03-18)  
+    - [软技能] [请解释一下git的游离分支是什么？](https://github.com/haizlin/fe-interview/issues/5390)
 - 第1431天 (2023-03-17)  
     - [软技能] [请问git log和git reflog有什么区别？](https://github.com/haizlin/fe-interview/issues/5389)
 - 第1430天 (2023-03-16)  

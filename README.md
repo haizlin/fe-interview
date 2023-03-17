@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.03.17) —— 第1431天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请问git log和git reflog有什么区别？](https://github.com/haizlin/fe-interview/issues/5389)  
+## :clock430: 今天的知识点   (2023.03.18) —— 第1432天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请解释一下git的游离分支是什么？](https://github.com/haizlin/fe-interview/issues/5390)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1430天 (2023.03.16)  
-    	 :one: [js] [使用js写一个方法，使得结果值映射到[0-1]之间(数据归一化)](https://github.com/haizlin/fe-interview/issues/5388)  
+- 第1431天 (2023.03.17)  
+    	 :one: [软技能] [请问git log和git reflog有什么区别？](https://github.com/haizlin/fe-interview/issues/5389)  
  
 	
 - **[查看全部](category/history.md)**
