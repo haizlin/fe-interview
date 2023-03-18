@@ -2,6 +2,8 @@
 
 
 
+- 第1433天 (2023-03-19)  
+    - [js] [使用js写一个方法获取cookie的大小](https://github.com/haizlin/fe-interview/issues/5391)
 - 第1432天 (2023-03-18)  
     - [软技能] [请解释一下git的游离分支是什么？](https://github.com/haizlin/fe-interview/issues/5390)
 - 第1431天 (2023-03-17)  
