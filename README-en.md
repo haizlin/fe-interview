@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.19) —— 1433 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法获取cookie的大小](https://github.com/haizlin/fe-interview/issues/5391)  
+## :clock430: Today's Knowledge Points (2023.03.20) —— 1434 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法获取localStorage和sessionStorage的大小](https://github.com/haizlin/fe-interview/issues/5392)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1432 days (2023.03.18)  
-    	 :one: [skill] [请解释一下git的游离分支是什么？](https://github.com/haizlin/fe-interview/issues/5390)  
+- 1433 days (2023.03.19)  
+    	 :one: [js] [使用js写一个方法获取cookie的大小](https://github.com/haizlin/fe-interview/issues/5391)  
  
 	
 - **[All](category/history.md)**
