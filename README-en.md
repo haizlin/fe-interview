@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.21) —— 1435 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [如何实现无感刷新token？](https://github.com/haizlin/fe-interview/issues/5393)  
+## :clock430: Today's Knowledge Points (2023.03.22) —— 1436 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端并发多个相同的请求，如何控制只发一个？](https://github.com/haizlin/fe-interview/issues/5394)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1434 days (2023.03.20)  
-    	 :one: [js] [使用js写一个方法获取localStorage和sessionStorage的大小](https://github.com/haizlin/fe-interview/issues/5392)  
+- 1435 days (2023.03.21)  
+    	 :one: [skill] [如何实现无感刷新token？](https://github.com/haizlin/fe-interview/issues/5393)  
  
 	
 - **[All](category/history.md)**

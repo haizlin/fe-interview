@@ -2,6 +2,8 @@
 
 
 
+- 第1436天 (2023-03-22)  
+    - [软技能] [前端并发多个相同的请求，如何控制只发一个？](https://github.com/haizlin/fe-interview/issues/5394)
 - 第1435天 (2023-03-21)  
     - [软技能] [如何实现无感刷新token？](https://github.com/haizlin/fe-interview/issues/5393)
 - 第1434天 (2023-03-20)  
