@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.03.22) —— 第1436天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端并发多个相同的请求，如何控制只发一个？](https://github.com/haizlin/fe-interview/issues/5394)  
+## :clock430: 今天的知识点   (2023.03.23) —— 第1437天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对ChatGPT的了解](https://github.com/haizlin/fe-interview/issues/5395)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1435天 (2023.03.21)  
-    	 :one: [软技能] [如何实现无感刷新token？](https://github.com/haizlin/fe-interview/issues/5393)  
+- 第1436天 (2023.03.22)  
+    	 :one: [软技能] [前端并发多个相同的请求，如何控制只发一个？](https://github.com/haizlin/fe-interview/issues/5394)  
  
 	
 - **[查看全部](category/history.md)**
