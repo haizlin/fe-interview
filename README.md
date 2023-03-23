@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.03.23) —— 第1437天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对ChatGPT的了解](https://github.com/haizlin/fe-interview/issues/5395)  
+## :clock430: 今天的知识点   (2023.03.24) —— 第1438天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [请说说Vue.use方法的作用及原理](https://github.com/haizlin/fe-interview/issues/5396)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1436天 (2023.03.22)  
-    	 :one: [软技能] [前端并发多个相同的请求，如何控制只发一个？](https://github.com/haizlin/fe-interview/issues/5394)  
+- 第1437天 (2023.03.23)  
+    	 :one: [软技能] [请说说ChatGPT4.0和3.5有什么区别？](https://github.com/haizlin/fe-interview/issues/5395)  
  
 	
 - **[查看全部](category/history.md)**

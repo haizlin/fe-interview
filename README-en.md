@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.23) —— 1437 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说你对ChatGPT的了解](https://github.com/haizlin/fe-interview/issues/5395)  
+## :clock430: Today's Knowledge Points (2023.03.24) —— 1438 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [请说说Vue.use方法的作用及原理](https://github.com/haizlin/fe-interview/issues/5396)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1436 days (2023.03.22)  
-    	 :one: [skill] [前端并发多个相同的请求，如何控制只发一个？](https://github.com/haizlin/fe-interview/issues/5394)  
+- 1437 days (2023.03.23)  
+    	 :one: [skill] [请说说ChatGPT4.0和3.5有什么区别？](https://github.com/haizlin/fe-interview/issues/5395)  
  
 	
 - **[All](category/history.md)**

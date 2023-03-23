@@ -2,8 +2,10 @@
 
 
 
+- 第1438天 (2023-03-24)  
+    - [vue] [请说说Vue.use方法的作用及原理](https://github.com/haizlin/fe-interview/issues/5396)
 - 第1437天 (2023-03-23)  
-    - [软技能] [请说说你对ChatGPT的了解](https://github.com/haizlin/fe-interview/issues/5395)
+    - [软技能] [请说说ChatGPT4.0和3.5有什么区别？](https://github.com/haizlin/fe-interview/issues/5395)
 - 第1436天 (2023-03-22)  
     - [软技能] [前端并发多个相同的请求，如何控制只发一个？](https://github.com/haizlin/fe-interview/issues/5394)
 - 第1435天 (2023-03-21)  
