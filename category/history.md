@@ -2,6 +2,8 @@
 
 
 
+- 第1583天 (2023-08-16)  
+    - [js] [promise如何实现请求共享？](https://github.com/haizlin/fe-interview/issues/5545)
 - 第1582天 (2023-08-15)  
     - [js] [请说说原型对象、构造函数、实例对象三者之间的关系？](https://github.com/haizlin/fe-interview/issues/5544)
 - 第1581天 (2023-08-14)  

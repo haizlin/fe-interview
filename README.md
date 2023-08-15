@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.08.15) —— 第1582天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说原型对象、构造函数、实例对象三者之间的关系？](https://github.com/haizlin/fe-interview/issues/5544)  
+## :clock430: 今天的知识点   (2023.08.16) —— 第1583天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [promise如何实现请求共享？](https://github.com/haizlin/fe-interview/issues/5545)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1581天 (2023.08.14)  
-    	 :one: [软技能] [你有写过vs code插件吗？](https://github.com/haizlin/fe-interview/issues/5543)  
+- 第1582天 (2023.08.15)  
+    	 :one: [js] [请说说原型对象、构造函数、实例对象三者之间的关系？](https://github.com/haizlin/fe-interview/issues/5544)  
  
 	
 - **[查看全部](category/history.md)**
