@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.03.24) —— 1438 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [请说说Vue.use方法的作用及原理](https://github.com/haizlin/fe-interview/issues/5396)  
+## :clock430: Today's Knowledge Points (2023.08.15) —— 1582 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说原型对象、构造函数、实例对象三者之间的关系？](https://github.com/haizlin/fe-interview/issues/5544)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1437 days (2023.03.23)  
-    	 :one: [skill] [请说说ChatGPT4.0和3.5有什么区别？](https://github.com/haizlin/fe-interview/issues/5395)  
+- 1581 days (2023.08.14)  
+    	 :one: [skill] [你有写过vs code插件吗？](https://github.com/haizlin/fe-interview/issues/5543)  
  
 	
 - **[All](category/history.md)**
