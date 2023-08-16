@@ -2,6 +2,8 @@
 
 
 
+- 第1584天 (2023-08-17)  
+    - [js] [requestAnimationFrame是宏任务还是微任务？为什么？](https://github.com/haizlin/fe-interview/issues/5546)
 - 第1583天 (2023-08-16)  
     - [js] [promise如何实现请求共享？](https://github.com/haizlin/fe-interview/issues/5545)
 - 第1582天 (2023-08-15)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.16) —— 1583 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [promise如何实现请求共享？](https://github.com/haizlin/fe-interview/issues/5545)  
+## :clock430: Today's Knowledge Points (2023.08.17) —— 1584 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [requestAnimationFrame是宏任务还是微任务？为什么？](https://github.com/haizlin/fe-interview/issues/5546)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1582 days (2023.08.15)  
-    	 :one: [js] [请说说原型对象、构造函数、实例对象三者之间的关系？](https://github.com/haizlin/fe-interview/issues/5544)  
+- 1583 days (2023.08.16)  
+    	 :one: [js] [promise如何实现请求共享？](https://github.com/haizlin/fe-interview/issues/5545)  
  
 	
 - **[All](category/history.md)**
