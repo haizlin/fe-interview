@@ -2,6 +2,8 @@
 
 
 
+- 第1585天 (2023-08-18)  
+    - [ECMAScript] [箭头函数有prototype吗？为什么？](https://github.com/haizlin/fe-interview/issues/5547)
 - 第1584天 (2023-08-17)  
     - [js] [requestAnimationFrame是宏任务还是微任务？为什么？](https://github.com/haizlin/fe-interview/issues/5546)
 - 第1583天 (2023-08-16)  

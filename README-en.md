@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.17) —— 1584 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [requestAnimationFrame是宏任务还是微任务？为什么？](https://github.com/haizlin/fe-interview/issues/5546)  
+## :clock430: Today's Knowledge Points (2023.08.18) —— 1585 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [箭头函数有prototype吗？为什么？](https://github.com/haizlin/fe-interview/issues/5547)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1583 days (2023.08.16)  
-    	 :one: [js] [promise如何实现请求共享？](https://github.com/haizlin/fe-interview/issues/5545)  
+- 1584 days (2023.08.17)  
+    	 :one: [js] [requestAnimationFrame是宏任务还是微任务？为什么？](https://github.com/haizlin/fe-interview/issues/5546)  
  
 	
 - **[All](category/history.md)**
