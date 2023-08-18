@@ -2,6 +2,8 @@
 
 
 
+- 第1586天 (2023-08-19)  
+    - [react] [React v16.0之后的版本为什么要删除和Will相关生命周期？](https://github.com/haizlin/fe-interview/issues/5548)
 - 第1585天 (2023-08-18)  
     - [ECMAScript] [箭头函数有prototype吗？为什么？](https://github.com/haizlin/fe-interview/issues/5547)
 - 第1584天 (2023-08-17)  

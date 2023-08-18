@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.18) —— 1585 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [箭头函数有prototype吗？为什么？](https://github.com/haizlin/fe-interview/issues/5547)  
+## :clock430: Today's Knowledge Points (2023.08.19) —— 1586 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [react] [React v16.0之后的版本为什么要删除和Will相关生命周期？](https://github.com/haizlin/fe-interview/issues/5548)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1584 days (2023.08.17)  
-    	 :one: [js] [requestAnimationFrame是宏任务还是微任务？为什么？](https://github.com/haizlin/fe-interview/issues/5546)  
+- 1585 days (2023.08.18)  
+    	 :one: [ECMAScript] [箭头函数有prototype吗？为什么？](https://github.com/haizlin/fe-interview/issues/5547)  
  
 	
 - **[All](category/history.md)**
