@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.08.19) —— 第1586天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [react] [React v16.0之后的版本为什么要删除和Will相关生命周期？](https://github.com/haizlin/fe-interview/issues/5548)  
+## :clock430: 今天的知识点   (2023.08.20) —— 第1587天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1585天 (2023.08.18)  
-    	 :one: [ECMAScript] [箭头函数有prototype吗？为什么？](https://github.com/haizlin/fe-interview/issues/5547)  
+- 第1586天 (2023.08.19)  
+    	 :one: [react] [React v16.0之后的版本为什么要删除和Will相关生命周期？](https://github.com/haizlin/fe-interview/issues/5548)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.19) —— 1586 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [react] [React v16.0之后的版本为什么要删除和Will相关生命周期？](https://github.com/haizlin/fe-interview/issues/5548)  
+## :clock430: Today's Knowledge Points (2023.08.20) —— 1587 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1585 days (2023.08.18)  
-    	 :one: [ECMAScript] [箭头函数有prototype吗？为什么？](https://github.com/haizlin/fe-interview/issues/5547)  
+- 1586 days (2023.08.19)  
+    	 :one: [react] [React v16.0之后的版本为什么要删除和Will相关生命周期？](https://github.com/haizlin/fe-interview/issues/5548)  
  
 	
 - **[All](category/history.md)**
