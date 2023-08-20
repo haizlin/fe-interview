@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.20) —— 1587 days  
+## :clock430: Today's Knowledge Points (2023.08.21) —— 1588 days  
  
   
 ### :camel: History
@@ -51,9 +51,8 @@
     …………  
 
 
-- 1586 days (2023.08.19)  
-    	 :one: [react] [React v16.0之后的版本为什么要删除和Will相关生命周期？](https://github.com/haizlin/fe-interview/issues/5548)  
- 
+- 1587 days (2023.08.20)  
+     
 	
 - **[All](category/history.md)**
 
