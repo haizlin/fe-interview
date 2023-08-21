@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.21) —— 1588 days  
+## :clock430: Today's Knowledge Points (2023.08.22) —— 1589 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue3中setup是如何获得组件实例的？](https://github.com/haizlin/fe-interview/issues/5552)  
  
   
 ### :camel: History
@@ -51,8 +52,9 @@
     …………  
 
 
-- 1587 days (2023.08.20)  
-     
+- 1588 days (2023.08.21)  
+    	 :one: [vue] [请问EventBus和mitt有什么区别？](https://github.com/haizlin/fe-interview/issues/5551)  
+ 
 	
 - **[All](category/history.md)**
 

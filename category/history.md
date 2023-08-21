@@ -2,6 +2,10 @@
 
 
 
+- 第1589天 (2023-08-22)  
+    - [vue] [在vue3中setup是如何获得组件实例的？](https://github.com/haizlin/fe-interview/issues/5552)
+- 第1588天 (2023-08-21)  
+    - [vue] [请问EventBus和mitt有什么区别？](https://github.com/haizlin/fe-interview/issues/5551)
 - 第1586天 (2023-08-19)  
     - [react] [React v16.0之后的版本为什么要删除和Will相关生命周期？](https://github.com/haizlin/fe-interview/issues/5548)
 - 第1585天 (2023-08-18)  
