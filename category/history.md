@@ -2,6 +2,8 @@
 
 
 
+- 第1590天 (2023-08-23)  
+    - [js] [请描述下indexedDB的特性](https://github.com/haizlin/fe-interview/issues/5553)
 - 第1589天 (2023-08-22)  
     - [vue] [在vue3中setup是如何获得组件实例的？](https://github.com/haizlin/fe-interview/issues/5552)
 - 第1588天 (2023-08-21)  

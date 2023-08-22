@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.08.22) —— 第1589天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue3中setup是如何获得组件实例的？](https://github.com/haizlin/fe-interview/issues/5552)  
+## :clock430: 今天的知识点   (2023.08.23) —— 第1590天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请描述下indexedDB的特性](https://github.com/haizlin/fe-interview/issues/5553)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1588天 (2023.08.21)  
-    	 :one: [vue] [请问EventBus和mitt有什么区别？](https://github.com/haizlin/fe-interview/issues/5551)  
+- 第1589天 (2023.08.22)  
+    	 :one: [vue] [在vue3中setup是如何获得组件实例的？](https://github.com/haizlin/fe-interview/issues/5552)  
  
 	
 - **[查看全部](category/history.md)**
