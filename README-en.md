@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.23) —— 1590 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请描述下indexedDB的特性](https://github.com/haizlin/fe-interview/issues/5553)  
+## :clock430: Today's Knowledge Points (2023.08.24) —— 1591 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [indexedDB可以用在哪些场景？](https://github.com/haizlin/fe-interview/issues/5554)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1589 days (2023.08.22)  
-    	 :one: [vue] [在vue3中setup是如何获得组件实例的？](https://github.com/haizlin/fe-interview/issues/5552)  
+- 1590 days (2023.08.23)  
+    	 :one: [js] [请描述下indexedDB的特性](https://github.com/haizlin/fe-interview/issues/5553)  
  
 	
 - **[All](category/history.md)**
