@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.08.24) —— 第1591天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [indexedDB可以用在哪些场景？](https://github.com/haizlin/fe-interview/issues/5554)  
+## :clock430: 今天的知识点   (2023.08.25) —— 第1592天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说indexedDB有哪些基本操作？](https://github.com/haizlin/fe-interview/issues/5555)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1590天 (2023.08.23)  
-    	 :one: [js] [请描述下indexedDB的特性](https://github.com/haizlin/fe-interview/issues/5553)  
+- 第1591天 (2023.08.24)  
+    	 :one: [js] [indexedDB可以用在哪些场景？](https://github.com/haizlin/fe-interview/issues/5554)  
  
 	
 - **[查看全部](category/history.md)**

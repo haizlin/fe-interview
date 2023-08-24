@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.24) —— 1591 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [indexedDB可以用在哪些场景？](https://github.com/haizlin/fe-interview/issues/5554)  
+## :clock430: Today's Knowledge Points (2023.08.25) —— 1592 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说indexedDB有哪些基本操作？](https://github.com/haizlin/fe-interview/issues/5555)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1590 days (2023.08.23)  
-    	 :one: [js] [请描述下indexedDB的特性](https://github.com/haizlin/fe-interview/issues/5553)  
+- 1591 days (2023.08.24)  
+    	 :one: [js] [indexedDB可以用在哪些场景？](https://github.com/haizlin/fe-interview/issues/5554)  
  
 	
 - **[All](category/history.md)**

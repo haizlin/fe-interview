@@ -2,6 +2,8 @@
 
 
 
+- 第1592天 (2023-08-25)  
+    - [js] [请说说indexedDB有哪些基本操作？](https://github.com/haizlin/fe-interview/issues/5555)
 - 第1591天 (2023-08-24)  
     - [js] [indexedDB可以用在哪些场景？](https://github.com/haizlin/fe-interview/issues/5554)
 - 第1590天 (2023-08-23)  
