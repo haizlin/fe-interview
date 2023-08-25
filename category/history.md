@@ -2,6 +2,8 @@
 
 
 
+- 第1593天 (2023-08-26)  
+    - [js] [封装一个indexedDB的增删改存的库](https://github.com/haizlin/fe-interview/issues/5556)
 - 第1592天 (2023-08-25)  
     - [js] [请说说indexedDB有哪些基本操作？](https://github.com/haizlin/fe-interview/issues/5555)
 - 第1591天 (2023-08-24)  
