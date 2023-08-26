@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.26) —— 1593 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [封装一个indexedDB的增删改存的库](https://github.com/haizlin/fe-interview/issues/5556)  
+## :clock430: Today's Knowledge Points (2023.08.27) —— 1594 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你对ffmpeg了解吗？说说你有哪些作用？](https://github.com/haizlin/fe-interview/issues/5557)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1592 days (2023.08.25)  
-    	 :one: [js] [请说说indexedDB有哪些基本操作？](https://github.com/haizlin/fe-interview/issues/5555)  
+- 1593 days (2023.08.26)  
+    	 :one: [js] [封装一个indexedDB的增删改存的库](https://github.com/haizlin/fe-interview/issues/5556)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.08.26) —— 第1593天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [封装一个indexedDB的增删改存的库](https://github.com/haizlin/fe-interview/issues/5556)  
+## :clock430: 今天的知识点   (2023.08.27) —— 第1594天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你对ffmpeg了解吗？说说你有哪些作用？](https://github.com/haizlin/fe-interview/issues/5557)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1592天 (2023.08.25)  
-    	 :one: [js] [请说说indexedDB有哪些基本操作？](https://github.com/haizlin/fe-interview/issues/5555)  
+- 第1593天 (2023.08.26)  
+    	 :one: [js] [封装一个indexedDB的增删改存的库](https://github.com/haizlin/fe-interview/issues/5556)  
  
 	
 - **[查看全部](category/history.md)**

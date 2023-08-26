@@ -2,6 +2,8 @@
 
 
 
+- 第1594天 (2023-08-27)  
+    - [软技能] [你对ffmpeg了解吗？说说你有哪些作用？](https://github.com/haizlin/fe-interview/issues/5557)
 - 第1593天 (2023-08-26)  
     - [js] [封装一个indexedDB的增删改存的库](https://github.com/haizlin/fe-interview/issues/5556)
 - 第1592天 (2023-08-25)  
