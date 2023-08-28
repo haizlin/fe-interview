@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.28) —— 1595 days  
+## :clock430: Today's Knowledge Points (2023.08.29) —— 1596 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你了解少儿编程吗？说说你对它的看法](https://github.com/haizlin/fe-interview/issues/5559)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1594 days (2023.08.27)  
-    	 :one: [skill] [你对ffmpeg了解吗？说说你有哪些作用？](https://github.com/haizlin/fe-interview/issues/5557)  
+- 1595 days (2023.08.28)  
+    	 :one: [vue] [Pinia有什么特点？](https://github.com/haizlin/fe-interview/issues/5558)  
  
 	
 - **[All](category/history.md)**

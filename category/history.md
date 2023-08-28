@@ -2,6 +2,10 @@
 
 
 
+- 第1596天 (2023-08-29)  
+    - [软技能] [你了解少儿编程吗？说说你对它的看法](https://github.com/haizlin/fe-interview/issues/5559)
+- 第1595天 (2023-08-28)  
+    - [vue] [Pinia有什么特点？](https://github.com/haizlin/fe-interview/issues/5558)
 - 第1594天 (2023-08-27)  
     - [软技能] [你对ffmpeg了解吗？说说你有哪些作用？](https://github.com/haizlin/fe-interview/issues/5557)
 - 第1593天 (2023-08-26)  

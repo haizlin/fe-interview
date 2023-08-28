@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.08.28) —— 第1595天  
+## :clock430: 今天的知识点   (2023.08.29) —— 第1596天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你了解少儿编程吗？说说你对它的看法](https://github.com/haizlin/fe-interview/issues/5559)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1594天 (2023.08.27)  
-    	 :one: [软技能] [你对ffmpeg了解吗？说说你有哪些作用？](https://github.com/haizlin/fe-interview/issues/5557)  
+- 第1595天 (2023.08.28)  
+    	 :one: [vue] [Pinia有什么特点？](https://github.com/haizlin/fe-interview/issues/5558)  
  
 	
 - **[查看全部](category/history.md)**
