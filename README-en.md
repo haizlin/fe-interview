@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.29) —— 1596 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你了解少儿编程吗？说说你对它的看法](https://github.com/haizlin/fe-interview/issues/5559)  
+## :clock430: Today's Knowledge Points (2023.08.30) —— 1597 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1595 days (2023.08.28)  
-    	 :one: [vue] [Pinia有什么特点？](https://github.com/haizlin/fe-interview/issues/5558)  
+- 1596 days (2023.08.29)  
+    	 :one: [skill] [你了解少儿编程吗？说说你对它的看法](https://github.com/haizlin/fe-interview/issues/5559)  
  
 	
 - **[All](category/history.md)**
