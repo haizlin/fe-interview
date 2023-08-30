@@ -2,6 +2,10 @@
 
 
 
+- 第1598天 (2023-08-31)  
+    - [vue] [vite插件的执行顺序如何指定？](https://github.com/haizlin/fe-interview/issues/5561)
+- 第1597天 (2023-08-30)  
+    - [软技能] [使用chrome插件有哪些好处？](https://github.com/haizlin/fe-interview/issues/5560)
 - 第1596天 (2023-08-29)  
     - [软技能] [你了解少儿编程吗？说说你对它的看法](https://github.com/haizlin/fe-interview/issues/5559)
 - 第1595天 (2023-08-28)  

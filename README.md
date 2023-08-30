@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.08.30) —— 第1597天  
+## :clock430: 今天的知识点   (2023.08.31) —— 第1598天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite插件的执行顺序如何指定？](https://github.com/haizlin/fe-interview/issues/5561)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1596天 (2023.08.29)  
-    	 :one: [软技能] [你了解少儿编程吗？说说你对它的看法](https://github.com/haizlin/fe-interview/issues/5559)  
+- 第1597天 (2023.08.30)  
+    	 :one: [软技能] [使用chrome插件有哪些好处？](https://github.com/haizlin/fe-interview/issues/5560)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.08.30) —— 1597 days  
+## :clock430: Today's Knowledge Points (2023.08.31) —— 1598 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite插件的执行顺序如何指定？](https://github.com/haizlin/fe-interview/issues/5561)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1596 days (2023.08.29)  
-    	 :one: [skill] [你了解少儿编程吗？说说你对它的看法](https://github.com/haizlin/fe-interview/issues/5559)  
+- 1597 days (2023.08.30)  
+    	 :one: [skill] [使用chrome插件有哪些好处？](https://github.com/haizlin/fe-interview/issues/5560)  
  
 	
 - **[All](category/history.md)**
