@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.08.31) —— 第1598天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite插件的执行顺序如何指定？](https://github.com/haizlin/fe-interview/issues/5561)  
+## :clock430: 今天的知识点   (2023.09.01) —— 第1599天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite为什么比webpack快？](https://github.com/haizlin/fe-interview/issues/5562)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1597天 (2023.08.30)  
-    	 :one: [软技能] [使用chrome插件有哪些好处？](https://github.com/haizlin/fe-interview/issues/5560)  
+- 第1598天 (2023.08.31)  
+    	 :one: [vue] [vite插件的执行顺序如何指定？](https://github.com/haizlin/fe-interview/issues/5561)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1599天 (2023-09-01)  
+    - [vue] [vite为什么比webpack快？](https://github.com/haizlin/fe-interview/issues/5562)
 - 第1598天 (2023-08-31)  
     - [vue] [vite插件的执行顺序如何指定？](https://github.com/haizlin/fe-interview/issues/5561)
 - 第1597天 (2023-08-30)  
