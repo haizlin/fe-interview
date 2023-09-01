@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.01) —— 1599 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite为什么比webpack快？](https://github.com/haizlin/fe-interview/issues/5562)  
+## :clock430: Today's Knowledge Points (2023.09.02) —— 1600 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite有哪些常见的hook？](https://github.com/haizlin/fe-interview/issues/5563)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1598 days (2023.08.31)  
-    	 :one: [vue] [vite插件的执行顺序如何指定？](https://github.com/haizlin/fe-interview/issues/5561)  
+- 1599 days (2023.09.01)  
+    	 :one: [vue] [vite为什么比webpack快？](https://github.com/haizlin/fe-interview/issues/5562)  
  
 	
 - **[All](category/history.md)**

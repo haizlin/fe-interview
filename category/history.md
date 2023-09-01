@@ -2,6 +2,8 @@
 
 
 
+- 第1600天 (2023-09-02)  
+    - [vue] [vite有哪些常见的hook？](https://github.com/haizlin/fe-interview/issues/5563)
 - 第1599天 (2023-09-01)  
     - [vue] [vite为什么比webpack快？](https://github.com/haizlin/fe-interview/issues/5562)
 - 第1598天 (2023-08-31)  
