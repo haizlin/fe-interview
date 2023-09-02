@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.02) —— 1600 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite有哪些常见的hook？](https://github.com/haizlin/fe-interview/issues/5563)  
+## :clock430: Today's Knowledge Points (2023.09.03) —— 1601 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [怎么把项目里的webpack换成vite？](https://github.com/haizlin/fe-interview/issues/5564)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1599 days (2023.09.01)  
-    	 :one: [vue] [vite为什么比webpack快？](https://github.com/haizlin/fe-interview/issues/5562)  
+- 1600 days (2023.09.02)  
+    	 :one: [vue] [vite有哪些常见的hook？](https://github.com/haizlin/fe-interview/issues/5563)  
  
 	
 - **[All](category/history.md)**

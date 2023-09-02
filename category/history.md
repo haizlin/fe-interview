@@ -2,6 +2,8 @@
 
 
 
+- 第1601天 (2023-09-03)  
+    - [vue] [怎么把项目里的webpack换成vite？](https://github.com/haizlin/fe-interview/issues/5564)
 - 第1600天 (2023-09-02)  
     - [vue] [vite有哪些常见的hook？](https://github.com/haizlin/fe-interview/issues/5563)
 - 第1599天 (2023-09-01)  

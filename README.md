@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.02) —— 第1600天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite有哪些常见的hook？](https://github.com/haizlin/fe-interview/issues/5563)  
+## :clock430: 今天的知识点   (2023.09.03) —— 第1601天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [怎么把项目里的webpack换成vite？](https://github.com/haizlin/fe-interview/issues/5564)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1599天 (2023.09.01)  
-    	 :one: [vue] [vite为什么比webpack快？](https://github.com/haizlin/fe-interview/issues/5562)  
+- 第1600天 (2023.09.02)  
+    	 :one: [vue] [vite有哪些常见的hook？](https://github.com/haizlin/fe-interview/issues/5563)  
  
 	
 - **[查看全部](category/history.md)**
