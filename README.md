@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.03) —— 第1601天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [怎么把项目里的webpack换成vite？](https://github.com/haizlin/fe-interview/issues/5564)  
+## :clock430: 今天的知识点   (2023.09.04) —— 第1602天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [vite是如何进行热更新的？](https://github.com/haizlin/fe-interview/issues/5565)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1600天 (2023.09.02)  
-    	 :one: [vue] [vite有哪些常见的hook？](https://github.com/haizlin/fe-interview/issues/5563)  
+- 第1601天 (2023.09.03)  
+    	 :one: [vue] [怎么把项目里的webpack换成vite？](https://github.com/haizlin/fe-interview/issues/5564)  
  
 	
 - **[查看全部](category/history.md)**

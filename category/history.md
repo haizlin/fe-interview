@@ -2,6 +2,8 @@
 
 
 
+- 第1602天 (2023-09-04)  
+    - [js] [vite是如何进行热更新的？](https://github.com/haizlin/fe-interview/issues/5565)
 - 第1601天 (2023-09-03)  
     - [vue] [怎么把项目里的webpack换成vite？](https://github.com/haizlin/fe-interview/issues/5564)
 - 第1600天 (2023-09-02)  
