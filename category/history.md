@@ -2,6 +2,8 @@
 
 
 
+- 第1603天 (2023-09-05)  
+    - [js] [写一个vite插件用来压缩图片](https://github.com/haizlin/fe-interview/issues/5566)
 - 第1602天 (2023-09-04)  
     - [js] [vite是如何进行热更新的？](https://github.com/haizlin/fe-interview/issues/5565)
 - 第1601天 (2023-09-03)  
