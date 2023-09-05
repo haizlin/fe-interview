@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.05) —— 第1603天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个vite插件用来压缩图片](https://github.com/haizlin/fe-interview/issues/5566)  
+## :clock430: 今天的知识点   (2023.09.06) —— 第1604天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [vite是如何支持cjs的？](https://github.com/haizlin/fe-interview/issues/5567)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1602天 (2023.09.04)  
-    	 :one: [js] [vite是如何进行热更新的？](https://github.com/haizlin/fe-interview/issues/5565)  
+- 第1603天 (2023.09.05)  
+    	 :one: [js] [写一个vite插件用来压缩图片](https://github.com/haizlin/fe-interview/issues/5566)  
  
 	
 - **[查看全部](category/history.md)**
