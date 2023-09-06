@@ -2,6 +2,8 @@
 
 
 
+- 第1605天 (2023-09-07)  
+    - [js] [vite是如何利用Esbuild来提升性能的？](https://github.com/haizlin/fe-interview/issues/5568)
 - 第1604天 (2023-09-06)  
     - [js] [vite是如何支持cjs的？](https://github.com/haizlin/fe-interview/issues/5567)
 - 第1603天 (2023-09-05)  
