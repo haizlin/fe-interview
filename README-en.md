@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.07) —— 1605 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [vite是如何利用Esbuild来提升性能的？](https://github.com/haizlin/fe-interview/issues/5568)  
+## :clock430: Today's Knowledge Points (2023.09.08) —— 1606 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1604 days (2023.09.06)  
-    	 :one: [js] [vite是如何支持cjs的？](https://github.com/haizlin/fe-interview/issues/5567)  
+- 1605 days (2023.09.07)  
+    	 :one: [js] [vite是如何利用Esbuild来提升性能的？](https://github.com/haizlin/fe-interview/issues/5568)  
  
 	
 - **[All](category/history.md)**
