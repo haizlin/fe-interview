@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.08) —— 1606 days  
+## :clock430: Today's Knowledge Points (2023.09.09) —— 1607 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1605 days (2023.09.07)  
-    	 :one: [js] [vite是如何利用Esbuild来提升性能的？](https://github.com/haizlin/fe-interview/issues/5568)  
+- 1606 days (2023.09.08)  
+    	 :one: [skill] [有哪些方法可以禁止别人调试自己的前端代码？](https://github.com/haizlin/fe-interview/issues/5569)  
  
 	
 - **[All](category/history.md)**

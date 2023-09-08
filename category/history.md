@@ -2,6 +2,10 @@
 
 
 
+- 第1607天 (2023-09-09)  
+    - [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)
+- 第1606天 (2023-09-08)  
+    - [软技能] [有哪些方法可以禁止别人调试自己的前端代码？](https://github.com/haizlin/fe-interview/issues/5569)
 - 第1605天 (2023-09-07)  
     - [js] [vite是如何利用Esbuild来提升性能的？](https://github.com/haizlin/fe-interview/issues/5568)
 - 第1604天 (2023-09-06)  

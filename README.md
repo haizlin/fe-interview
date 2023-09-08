@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.08) —— 第1606天  
+## :clock430: 今天的知识点   (2023.09.09) —— 第1607天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1605天 (2023.09.07)  
-    	 :one: [js] [vite是如何利用Esbuild来提升性能的？](https://github.com/haizlin/fe-interview/issues/5568)  
+- 第1606天 (2023.09.08)  
+    	 :one: [软技能] [有哪些方法可以禁止别人调试自己的前端代码？](https://github.com/haizlin/fe-interview/issues/5569)  
  
 	
 - **[查看全部](category/history.md)**
