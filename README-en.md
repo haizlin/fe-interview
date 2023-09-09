@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.09) —— 1607 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)  
+## :clock430: Today's Knowledge Points (2023.09.10) —— 1608 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [说说你对localForage的了解](https://github.com/haizlin/fe-interview/issues/5571)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1606 days (2023.09.08)  
-    	 :one: [skill] [有哪些方法可以禁止别人调试自己的前端代码？](https://github.com/haizlin/fe-interview/issues/5569)  
+- 1607 days (2023.09.09)  
+    	 :one: [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)  
  
 	
 - **[All](category/history.md)**

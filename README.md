@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.09) —— 第1607天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)  
+## :clock430: 今天的知识点   (2023.09.10) —— 第1608天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [说说你对localForage的了解](https://github.com/haizlin/fe-interview/issues/5571)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1606天 (2023.09.08)  
-    	 :one: [软技能] [有哪些方法可以禁止别人调试自己的前端代码？](https://github.com/haizlin/fe-interview/issues/5569)  
+- 第1607天 (2023.09.09)  
+    	 :one: [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)  
  
 	
 - **[查看全部](category/history.md)**

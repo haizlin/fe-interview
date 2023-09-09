@@ -2,6 +2,8 @@
 
 
 
+- 第1608天 (2023-09-10)  
+    - [js] [说说你对localForage的了解](https://github.com/haizlin/fe-interview/issues/5571)
 - 第1607天 (2023-09-09)  
     - [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)
 - 第1606天 (2023-09-08)  
