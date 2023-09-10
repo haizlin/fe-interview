@@ -2,6 +2,8 @@
 
 
 
+- 第1609天 (2023-09-11)  
+    - [js] [请问sessionStrorage多久会过期？](https://github.com/haizlin/fe-interview/issues/5572)
 - 第1608天 (2023-09-10)  
     - [js] [说说你对localForage的了解](https://github.com/haizlin/fe-interview/issues/5571)
 - 第1607天 (2023-09-09)  

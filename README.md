@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.10) —— 第1608天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [说说你对localForage的了解](https://github.com/haizlin/fe-interview/issues/5571)  
+## :clock430: 今天的知识点   (2023.09.11) —— 第1609天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问sessionStrorage多久会过期？](https://github.com/haizlin/fe-interview/issues/5572)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1607天 (2023.09.09)  
-    	 :one: [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)  
+- 第1608天 (2023.09.10)  
+    	 :one: [js] [说说你对localForage的了解](https://github.com/haizlin/fe-interview/issues/5571)  
  
 	
 - **[查看全部](category/history.md)**

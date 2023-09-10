@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.10) —— 1608 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [说说你对localForage的了解](https://github.com/haizlin/fe-interview/issues/5571)  
+## :clock430: Today's Knowledge Points (2023.09.11) —— 1609 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问sessionStrorage多久会过期？](https://github.com/haizlin/fe-interview/issues/5572)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1607 days (2023.09.09)  
-    	 :one: [html] [sse和websocket有什么区别？](https://github.com/haizlin/fe-interview/issues/5570)  
+- 1608 days (2023.09.10)  
+    	 :one: [js] [说说你对localForage的了解](https://github.com/haizlin/fe-interview/issues/5571)  
  
 	
 - **[All](category/history.md)**
