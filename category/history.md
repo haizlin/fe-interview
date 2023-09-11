@@ -2,6 +2,8 @@
 
 
 
+- 第1610天 (2023-09-12)  
+    - [小程序] [小程序如何判断页面滚动到底部？](https://github.com/haizlin/fe-interview/issues/5573)
 - 第1609天 (2023-09-11)  
     - [js] [请问sessionStrorage多久会过期？](https://github.com/haizlin/fe-interview/issues/5572)
 - 第1608天 (2023-09-10)  
