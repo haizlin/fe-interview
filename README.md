@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.12) —— 第1610天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [小程序如何判断页面滚动到底部？](https://github.com/haizlin/fe-interview/issues/5573)  
+## :clock430: 今天的知识点   (2023.09.13) —— 第1611天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [小程序如何更新页面的值？](https://github.com/haizlin/fe-interview/issues/5574)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1609天 (2023.09.11)  
-    	 :one: [js] [请问sessionStrorage多久会过期？](https://github.com/haizlin/fe-interview/issues/5572)  
+- 第1610天 (2023.09.12)  
+    	 :one: [小程序] [小程序如何判断页面滚动到底部？](https://github.com/haizlin/fe-interview/issues/5573)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.12) —— 1610 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [小程序如何判断页面滚动到底部？](https://github.com/haizlin/fe-interview/issues/5573)  
+## :clock430: Today's Knowledge Points (2023.09.13) —— 1611 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [小程序如何更新页面的值？](https://github.com/haizlin/fe-interview/issues/5574)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1609 days (2023.09.11)  
-    	 :one: [js] [请问sessionStrorage多久会过期？](https://github.com/haizlin/fe-interview/issues/5572)  
+- 1610 days (2023.09.12)  
+    	 :one: [小程序] [小程序如何判断页面滚动到底部？](https://github.com/haizlin/fe-interview/issues/5573)  
  
 	
 - **[All](category/history.md)**
