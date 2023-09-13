@@ -2,6 +2,8 @@
 
 
 
+- 第1612天 (2023-09-14)  
+    - [小程序] [uniapp条件编译的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5575)
 - 第1611天 (2023-09-13)  
     - [小程序] [小程序如何更新页面的值？](https://github.com/haizlin/fe-interview/issues/5574)
 - 第1610天 (2023-09-12)  
