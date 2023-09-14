@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.14) —— 1612 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [uniapp条件编译的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5575)  
+## :clock430: Today's Knowledge Points (2023.09.15) —— 1613 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [小程序在哪些场景下会主动销毁？](https://github.com/haizlin/fe-interview/issues/5576)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1611 days (2023.09.13)  
-    	 :one: [小程序] [小程序如何更新页面的值？](https://github.com/haizlin/fe-interview/issues/5574)  
+- 1612 days (2023.09.14)  
+    	 :one: [小程序] [uniapp条件编译的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5575)  
  
 	
 - **[All](category/history.md)**

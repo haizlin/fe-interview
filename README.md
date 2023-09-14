@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.14) —— 第1612天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [uniapp条件编译的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5575)  
+## :clock430: 今天的知识点   (2023.09.15) —— 第1613天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [小程序在哪些场景下会主动销毁？](https://github.com/haizlin/fe-interview/issues/5576)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1611天 (2023.09.13)  
-    	 :one: [小程序] [小程序如何更新页面的值？](https://github.com/haizlin/fe-interview/issues/5574)  
+- 第1612天 (2023.09.14)  
+    	 :one: [小程序] [uniapp条件编译的方法有哪些？](https://github.com/haizlin/fe-interview/issues/5575)  
  
 	
 - **[查看全部](category/history.md)**
