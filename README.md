@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.16) —— 第1614天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [uniapp是如何监听页面滚动的？](https://github.com/haizlin/fe-interview/issues/5577)  
+## :clock430: 今天的知识点   (2023.09.17) —— 第1615天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [在小程序中说说你对image标签属性mode='widthFix'的理解](https://github.com/haizlin/fe-interview/issues/5578)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1613天 (2023.09.15)  
-    	 :one: [小程序] [小程序在哪些场景下会主动销毁？](https://github.com/haizlin/fe-interview/issues/5576)  
+- 第1614天 (2023.09.16)  
+    	 :one: [小程序] [uniapp是如何监听页面滚动的？](https://github.com/haizlin/fe-interview/issues/5577)  
  
 	
 - **[查看全部](category/history.md)**
