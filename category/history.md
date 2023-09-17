@@ -2,6 +2,8 @@
 
 
 
+- 第1616天 (2023-09-18)  
+    - [小程序] [使用uniapp如何进行性能优化？](https://github.com/haizlin/fe-interview/issues/5579)
 - 第1615天 (2023-09-17)  
     - [小程序] [在小程序中说说你对image标签属性mode='widthFix'的理解](https://github.com/haizlin/fe-interview/issues/5578)
 - 第1614天 (2023-09-16)  
