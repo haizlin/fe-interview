@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.18) —— 第1616天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [使用uniapp如何进行性能优化？](https://github.com/haizlin/fe-interview/issues/5579)  
+## :clock430: 今天的知识点   (2023.09.19) —— 第1617天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [uniapp的多端打包流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5580)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1615天 (2023.09.17)  
-    	 :one: [小程序] [在小程序中说说你对image标签属性mode='widthFix'的理解](https://github.com/haizlin/fe-interview/issues/5578)  
+- 第1616天 (2023.09.18)  
+    	 :one: [小程序] [使用uniapp如何进行性能优化？](https://github.com/haizlin/fe-interview/issues/5579)  
  
 	
 - **[查看全部](category/history.md)**

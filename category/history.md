@@ -2,6 +2,8 @@
 
 
 
+- 第1617天 (2023-09-19)  
+    - [小程序] [uniapp的多端打包流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5580)
 - 第1616天 (2023-09-18)  
     - [小程序] [使用uniapp如何进行性能优化？](https://github.com/haizlin/fe-interview/issues/5579)
 - 第1615天 (2023-09-17)  
