@@ -2,6 +2,8 @@
 
 
 
+- 第1619天 (2023-09-21)  
+    - [小程序] [说说你对小程序分包加载的理解](https://github.com/haizlin/fe-interview/issues/5582)
 - 第1618天 (2023-09-20)  
     - [小程序] [说说小程序的运行机制](https://github.com/haizlin/fe-interview/issues/5581)
 - 第1617天 (2023-09-19)  

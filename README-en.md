@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.20) —— 1618 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [说说小程序的运行机制](https://github.com/haizlin/fe-interview/issues/5581)  
+## :clock430: Today's Knowledge Points (2023.09.21) —— 1619 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [说说你对小程序分包加载的理解](https://github.com/haizlin/fe-interview/issues/5582)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1617 days (2023.09.19)  
-    	 :one: [小程序] [uniapp的多端打包流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5580)  
+- 1618 days (2023.09.20)  
+    	 :one: [小程序] [说说小程序的运行机制](https://github.com/haizlin/fe-interview/issues/5581)  
  
 	
 - **[All](category/history.md)**

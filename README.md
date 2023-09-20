@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.20) —— 第1618天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [说说小程序的运行机制](https://github.com/haizlin/fe-interview/issues/5581)  
+## :clock430: 今天的知识点   (2023.09.21) —— 第1619天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [说说你对小程序分包加载的理解](https://github.com/haizlin/fe-interview/issues/5582)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1617天 (2023.09.19)  
-    	 :one: [小程序] [uniapp的多端打包流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5580)  
+- 第1618天 (2023.09.20)  
+    	 :one: [小程序] [说说小程序的运行机制](https://github.com/haizlin/fe-interview/issues/5581)  
  
 	
 - **[查看全部](category/history.md)**
