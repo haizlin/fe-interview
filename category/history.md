@@ -2,6 +2,8 @@
 
 
 
+- 第1620天 (2023-09-22)  
+    - [小程序] [在微信小程序中路由跳转有哪些方式？有什么区别？](https://github.com/haizlin/fe-interview/issues/5583)
 - 第1619天 (2023-09-21)  
     - [小程序] [说说你对小程序分包加载的理解](https://github.com/haizlin/fe-interview/issues/5582)
 - 第1618天 (2023-09-20)  
