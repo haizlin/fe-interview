@@ -2,6 +2,8 @@
 
 
 
+- 第1621天 (2023-09-23)  
+    - [小程序] [请描述下微信小程序应用的生命周期执行过程](https://github.com/haizlin/fe-interview/issues/5584)
 - 第1620天 (2023-09-22)  
     - [小程序] [在微信小程序中路由跳转有哪些方式？有什么区别？](https://github.com/haizlin/fe-interview/issues/5583)
 - 第1619天 (2023-09-21)  

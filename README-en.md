@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.22) —— 1620 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [在微信小程序中路由跳转有哪些方式？有什么区别？](https://github.com/haizlin/fe-interview/issues/5583)  
+## :clock430: Today's Knowledge Points (2023.09.23) —— 1621 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请描述下微信小程序应用的生命周期执行过程](https://github.com/haizlin/fe-interview/issues/5584)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1619 days (2023.09.21)  
-    	 :one: [小程序] [说说你对小程序分包加载的理解](https://github.com/haizlin/fe-interview/issues/5582)  
+- 1620 days (2023.09.22)  
+    	 :one: [小程序] [在微信小程序中路由跳转有哪些方式？有什么区别？](https://github.com/haizlin/fe-interview/issues/5583)  
  
 	
 - **[All](category/history.md)**

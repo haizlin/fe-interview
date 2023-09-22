@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.22) —— 第1620天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [在微信小程序中路由跳转有哪些方式？有什么区别？](https://github.com/haizlin/fe-interview/issues/5583)  
+## :clock430: 今天的知识点   (2023.09.23) —— 第1621天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请描述下微信小程序应用的生命周期执行过程](https://github.com/haizlin/fe-interview/issues/5584)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1619天 (2023.09.21)  
-    	 :one: [小程序] [说说你对小程序分包加载的理解](https://github.com/haizlin/fe-interview/issues/5582)  
+- 第1620天 (2023.09.22)  
+    	 :one: [小程序] [在微信小程序中路由跳转有哪些方式？有什么区别？](https://github.com/haizlin/fe-interview/issues/5583)  
  
 	
 - **[查看全部](category/history.md)**
