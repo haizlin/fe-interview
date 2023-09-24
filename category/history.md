@@ -2,6 +2,8 @@
 
 
 
+- 第1623天 (2023-09-25)  
+    - [小程序] [请描述下微信小程序组件命周期的执行过程](https://github.com/haizlin/fe-interview/issues/5586)
 - 第1622天 (2023-09-24)  
     - [小程序] [请描述下微信小程序页面命周期的执行过程](https://github.com/haizlin/fe-interview/issues/5585)
 - 第1621天 (2023-09-23)  
