@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.25) —— 第1623天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请描述下微信小程序组件命周期的执行过程](https://github.com/haizlin/fe-interview/issues/5586)  
+## :clock430: 今天的知识点   (2023.09.26) —— 第1624天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说微信小程序的登录流程？](https://github.com/haizlin/fe-interview/issues/5587)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1622天 (2023.09.24)  
-    	 :one: [小程序] [请描述下微信小程序页面命周期的执行过程](https://github.com/haizlin/fe-interview/issues/5585)  
+- 第1623天 (2023.09.25)  
+    	 :one: [小程序] [请描述下微信小程序组件命周期的执行过程](https://github.com/haizlin/fe-interview/issues/5586)  
  
 	
 - **[查看全部](category/history.md)**

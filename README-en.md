@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.25) —— 1623 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请描述下微信小程序组件命周期的执行过程](https://github.com/haizlin/fe-interview/issues/5586)  
+## :clock430: Today's Knowledge Points (2023.09.26) —— 1624 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说微信小程序的登录流程？](https://github.com/haizlin/fe-interview/issues/5587)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1622 days (2023.09.24)  
-    	 :one: [小程序] [请描述下微信小程序页面命周期的执行过程](https://github.com/haizlin/fe-interview/issues/5585)  
+- 1623 days (2023.09.25)  
+    	 :one: [小程序] [请描述下微信小程序组件命周期的执行过程](https://github.com/haizlin/fe-interview/issues/5586)  
  
 	
 - **[All](category/history.md)**
