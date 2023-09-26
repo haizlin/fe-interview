@@ -2,6 +2,8 @@
 
 
 
+- 第1625天 (2023-09-27)  
+    - [小程序] [请说说微信小程序的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/5588)
 - 第1624天 (2023-09-26)  
     - [小程序] [请说说微信小程序的登录流程？](https://github.com/haizlin/fe-interview/issues/5587)
 - 第1623天 (2023-09-25)  
