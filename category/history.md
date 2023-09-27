@@ -2,6 +2,8 @@
 
 
 
+- 第1626天 (2023-09-28)  
+    - [小程序] [微信小程序常用的请求接口方式有哪些？](https://github.com/haizlin/fe-interview/issues/5589)
 - 第1625天 (2023-09-27)  
     - [小程序] [请说说微信小程序的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/5588)
 - 第1624天 (2023-09-26)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.27) —— 1625 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说微信小程序的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/5588)  
+## :clock430: Today's Knowledge Points (2023.09.28) —— 1626 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [微信小程序常用的请求接口方式有哪些？](https://github.com/haizlin/fe-interview/issues/5589)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1624 days (2023.09.26)  
-    	 :one: [小程序] [请说说微信小程序的登录流程？](https://github.com/haizlin/fe-interview/issues/5587)  
+- 1625 days (2023.09.27)  
+    	 :one: [小程序] [请说说微信小程序的实现原理是什么？](https://github.com/haizlin/fe-interview/issues/5588)  
  
 	
 - **[All](category/history.md)**
