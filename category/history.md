@@ -2,6 +2,8 @@
 
 
 
+- 第1627天 (2023-09-29)  
+    - [小程序] [小程序冷启动和热启动有什么区别？](https://github.com/haizlin/fe-interview/issues/5590)
 - 第1626天 (2023-09-28)  
     - [小程序] [微信小程序常用的请求接口方式有哪些？](https://github.com/haizlin/fe-interview/issues/5589)
 - 第1625天 (2023-09-27)  
