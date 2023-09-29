@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.09.29) —— 第1627天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [小程序冷启动和热启动有什么区别？](https://github.com/haizlin/fe-interview/issues/5590)  
+## :clock430: 今天的知识点   (2023.09.30) —— 第1628天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说微信小程序wx:if和hidden的区别？](https://github.com/haizlin/fe-interview/issues/5591)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1626天 (2023.09.28)  
-    	 :one: [小程序] [微信小程序常用的请求接口方式有哪些？](https://github.com/haizlin/fe-interview/issues/5589)  
+- 第1627天 (2023.09.29)  
+    	 :one: [小程序] [小程序冷启动和热启动有什么区别？](https://github.com/haizlin/fe-interview/issues/5590)  
  
 	
 - **[查看全部](category/history.md)**

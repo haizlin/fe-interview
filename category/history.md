@@ -2,6 +2,8 @@
 
 
 
+- 第1628天 (2023-09-30)  
+    - [小程序] [请说说微信小程序wx:if和hidden的区别？](https://github.com/haizlin/fe-interview/issues/5591)
 - 第1627天 (2023-09-29)  
     - [小程序] [小程序冷启动和热启动有什么区别？](https://github.com/haizlin/fe-interview/issues/5590)
 - 第1626天 (2023-09-28)  
