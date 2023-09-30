@@ -2,6 +2,8 @@
 
 
 
+- 第1629天 (2023-10-01)  
+    - [小程序] [请问小程序与原生App哪个好？为什么？](https://github.com/haizlin/fe-interview/issues/5592)
 - 第1628天 (2023-09-30)  
     - [小程序] [请说说微信小程序wx:if和hidden的区别？](https://github.com/haizlin/fe-interview/issues/5591)
 - 第1627天 (2023-09-29)  

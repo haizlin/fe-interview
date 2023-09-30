@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.09.30) —— 1628 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说微信小程序wx:if和hidden的区别？](https://github.com/haizlin/fe-interview/issues/5591)  
+## :clock430: Today's Knowledge Points (2023.10.01) —— 1629 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请问小程序与原生App哪个好？为什么？](https://github.com/haizlin/fe-interview/issues/5592)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1627 days (2023.09.29)  
-    	 :one: [小程序] [小程序冷启动和热启动有什么区别？](https://github.com/haizlin/fe-interview/issues/5590)  
+- 1628 days (2023.09.30)  
+    	 :one: [小程序] [请说说微信小程序wx:if和hidden的区别？](https://github.com/haizlin/fe-interview/issues/5591)  
  
 	
 - **[All](category/history.md)**
