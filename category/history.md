@@ -2,6 +2,8 @@
 
 
 
+- 第1631天 (2023-10-03)  
+    - [html] [使用canvas制作一个九宫格密码锁](https://github.com/haizlin/fe-interview/issues/5594)
 - 第1630天 (2023-10-02)  
     - [小程序] [在webview中如何跳回小程序？](https://github.com/haizlin/fe-interview/issues/5593)
 - 第1629天 (2023-10-01)  
