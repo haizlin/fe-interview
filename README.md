@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.10.03) —— 第1631天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas制作一个九宫格密码锁](https://github.com/haizlin/fe-interview/issues/5594)  
+## :clock430: 今天的知识点   (2023.10.04) —— 第1632天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1630天 (2023.10.02)  
-    	 :one: [小程序] [在webview中如何跳回小程序？](https://github.com/haizlin/fe-interview/issues/5593)  
+- 第1631天 (2023.10.03)  
+    	 :one: [html] [使用canvas制作一个九宫格密码锁](https://github.com/haizlin/fe-interview/issues/5594)  
  
 	
 - **[查看全部](category/history.md)**
