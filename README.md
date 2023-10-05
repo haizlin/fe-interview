@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.10.04) —— 第1632天  
+## :clock430: 今天的知识点   (2023.10.06) —— 第1634天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问requestAnimationFrame有哪些优点？](https://github.com/haizlin/fe-interview/issues/5596)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1631天 (2023.10.03)  
-    	 :one: [html] [使用canvas制作一个九宫格密码锁](https://github.com/haizlin/fe-interview/issues/5594)  
+- 第1633天 (2023.10.05)  
+    	 :one: [html] [如何使用canvas将多张图片合成一张图片？](https://github.com/haizlin/fe-interview/issues/5595)  
  
 	
 - **[查看全部](category/history.md)**

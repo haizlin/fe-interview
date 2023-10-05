@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.04) —— 1632 days  
+## :clock430: Today's Knowledge Points (2023.10.06) —— 1634 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问requestAnimationFrame有哪些优点？](https://github.com/haizlin/fe-interview/issues/5596)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1631 days (2023.10.03)  
-    	 :one: [html] [使用canvas制作一个九宫格密码锁](https://github.com/haizlin/fe-interview/issues/5594)  
+- 1633 days (2023.10.05)  
+    	 :one: [html] [如何使用canvas将多张图片合成一张图片？](https://github.com/haizlin/fe-interview/issues/5595)  
  
 	
 - **[All](category/history.md)**

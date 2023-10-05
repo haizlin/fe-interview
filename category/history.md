@@ -2,6 +2,10 @@
 
 
 
+- 第1634天 (2023-10-06)  
+    - [js] [请问requestAnimationFrame有哪些优点？](https://github.com/haizlin/fe-interview/issues/5596)
+- 第1633天 (2023-10-05)  
+    - [html] [如何使用canvas将多张图片合成一张图片？](https://github.com/haizlin/fe-interview/issues/5595)
 - 第1631天 (2023-10-03)  
     - [html] [使用canvas制作一个九宫格密码锁](https://github.com/haizlin/fe-interview/issues/5594)
 - 第1630天 (2023-10-02)  
