@@ -2,6 +2,8 @@
 
 
 
+- 第1637天 (2023-10-09)  
+    - [js] [请说说element-plus有哪些亮点？](https://github.com/haizlin/fe-interview/issues/5599)
 - 第1636天 (2023-10-08)  
     - [js] [请说说你对前端新框架Nue的了解，它与vue/react等有什么区别？](https://github.com/haizlin/fe-interview/issues/5598)
 - 第1635天 (2023-10-07)  
