@@ -2,6 +2,8 @@
 
 
 
+- 第1638天 (2023-10-10)  
+    - [软技能] [你使用过git的subtree吗？请说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5600)
 - 第1637天 (2023-10-09)  
     - [js] [请说说element-plus有哪些亮点？](https://github.com/haizlin/fe-interview/issues/5599)
 - 第1636天 (2023-10-08)  
