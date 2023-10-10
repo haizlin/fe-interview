@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.10) —— 1638 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你使用过git的subtree吗？请说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5600)  
+## :clock430: Today's Knowledge Points (2023.10.11) —— 1639 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [git submodule和git subtree有什么区别？](https://github.com/haizlin/fe-interview/issues/5601)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1637 days (2023.10.09)  
-    	 :one: [js] [请说说element-plus有哪些亮点？](https://github.com/haizlin/fe-interview/issues/5599)  
+- 1638 days (2023.10.10)  
+    	 :one: [skill] [你使用过git的subtree吗？请说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5600)  
  
 	
 - **[All](category/history.md)**

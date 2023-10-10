@@ -2,6 +2,8 @@
 
 
 
+- 第1639天 (2023-10-11)  
+    - [软技能] [git submodule和git subtree有什么区别？](https://github.com/haizlin/fe-interview/issues/5601)
 - 第1638天 (2023-10-10)  
     - [软技能] [你使用过git的subtree吗？请说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5600)
 - 第1637天 (2023-10-09)  
