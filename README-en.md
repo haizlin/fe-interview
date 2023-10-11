@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.11) —— 1639 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [git submodule和git subtree有什么区别？](https://github.com/haizlin/fe-interview/issues/5601)  
+## :clock430: Today's Knowledge Points (2023.10.12) —— 1640 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue3中为什么推荐使用ref而不是reactive？](https://github.com/haizlin/fe-interview/issues/5602)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1638 days (2023.10.10)  
-    	 :one: [skill] [你使用过git的subtree吗？请说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5600)  
+- 1639 days (2023.10.11)  
+    	 :one: [skill] [git submodule和git subtree有什么区别？](https://github.com/haizlin/fe-interview/issues/5601)  
  
 	
 - **[All](category/history.md)**

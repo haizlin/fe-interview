@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.10.11) —— 第1639天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [git submodule和git subtree有什么区别？](https://github.com/haizlin/fe-interview/issues/5601)  
+## :clock430: 今天的知识点   (2023.10.12) —— 第1640天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue3中为什么推荐使用ref而不是reactive？](https://github.com/haizlin/fe-interview/issues/5602)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1638天 (2023.10.10)  
-    	 :one: [软技能] [你使用过git的subtree吗？请说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5600)  
+- 第1639天 (2023.10.11)  
+    	 :one: [软技能] [git submodule和git subtree有什么区别？](https://github.com/haizlin/fe-interview/issues/5601)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1640天 (2023-10-12)  
+    - [vue] [在vue3中为什么推荐使用ref而不是reactive？](https://github.com/haizlin/fe-interview/issues/5602)
 - 第1639天 (2023-10-11)  
     - [软技能] [git submodule和git subtree有什么区别？](https://github.com/haizlin/fe-interview/issues/5601)
 - 第1638天 (2023-10-10)  
