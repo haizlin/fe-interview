@@ -2,6 +2,8 @@
 
 
 
+- 第1641天 (2023-10-13)  
+    - [js] [使用js写一个方法监听localStorage的变化](https://github.com/haizlin/fe-interview/issues/5603)
 - 第1640天 (2023-10-12)  
     - [vue] [在vue3中为什么推荐使用ref而不是reactive？](https://github.com/haizlin/fe-interview/issues/5602)
 - 第1639天 (2023-10-11)  

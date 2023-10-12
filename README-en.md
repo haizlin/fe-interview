@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.12) —— 1640 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue3中为什么推荐使用ref而不是reactive？](https://github.com/haizlin/fe-interview/issues/5602)  
+## :clock430: Today's Knowledge Points (2023.10.13) —— 1641 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法监听localStorage的变化](https://github.com/haizlin/fe-interview/issues/5603)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1639 days (2023.10.11)  
-    	 :one: [skill] [git submodule和git subtree有什么区别？](https://github.com/haizlin/fe-interview/issues/5601)  
+- 1640 days (2023.10.12)  
+    	 :one: [vue] [在vue3中为什么推荐使用ref而不是reactive？](https://github.com/haizlin/fe-interview/issues/5602)  
  
 	
 - **[All](category/history.md)**
