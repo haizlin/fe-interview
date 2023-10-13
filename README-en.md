@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.13) —— 1641 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法监听localStorage的变化](https://github.com/haizlin/fe-interview/issues/5603)  
+## :clock430: Today's Knowledge Points (2023.10.14) —— 1642 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1640 days (2023.10.12)  
-    	 :one: [vue] [在vue3中为什么推荐使用ref而不是reactive？](https://github.com/haizlin/fe-interview/issues/5602)  
+- 1641 days (2023.10.13)  
+    	 :one: [js] [使用js写一个方法监听localStorage的变化](https://github.com/haizlin/fe-interview/issues/5603)  
  
 	
 - **[All](category/history.md)**
