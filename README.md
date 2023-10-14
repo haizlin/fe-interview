@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.10.14) —— 第1642天  
+## :clock430: 今天的知识点   (2023.10.15) —— 第1643天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1641天 (2023.10.13)  
-    	 :one: [js] [使用js写一个方法监听localStorage的变化](https://github.com/haizlin/fe-interview/issues/5603)  
+- 第1642天 (2023.10.14)  
+    	 :one: [js] [使用js使用一个高性能的新闻列表](https://github.com/haizlin/fe-interview/issues/5604)  
  
 	
 - **[查看全部](category/history.md)**

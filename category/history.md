@@ -2,6 +2,8 @@
 
 
 
+- 第1642天 (2023-10-14)  
+    - [js] [使用js使用一个高性能的新闻列表](https://github.com/haizlin/fe-interview/issues/5604)
 - 第1641天 (2023-10-13)  
     - [js] [使用js写一个方法监听localStorage的变化](https://github.com/haizlin/fe-interview/issues/5603)
 - 第1640天 (2023-10-12)  

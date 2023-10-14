@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.14) —— 1642 days  
+## :clock430: Today's Knowledge Points (2023.10.15) —— 1643 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1641 days (2023.10.13)  
-    	 :one: [js] [使用js写一个方法监听localStorage的变化](https://github.com/haizlin/fe-interview/issues/5603)  
+- 1642 days (2023.10.14)  
+    	 :one: [js] [使用js使用一个高性能的新闻列表](https://github.com/haizlin/fe-interview/issues/5604)  
  
 	
 - **[All](category/history.md)**
