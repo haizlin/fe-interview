@@ -2,6 +2,10 @@
 
 
 
+- 第1644天 (2023-10-16)  
+    - [软技能] [你开发的项目是如何做缺陷管理的？](https://github.com/haizlin/fe-interview/issues/5606)
+- 第1643天 (2023-10-15)  
+    - [软技能] [说说你对git commit的规范有哪些了解？如何确保团队规范？](https://github.com/haizlin/fe-interview/issues/5605)
 - 第1642天 (2023-10-14)  
     - [js] [使用js使用一个高性能的新闻列表](https://github.com/haizlin/fe-interview/issues/5604)
 - 第1641天 (2023-10-13)  
