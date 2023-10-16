@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.10.16) —— 第1644天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你开发的项目是如何做缺陷管理的？](https://github.com/haizlin/fe-interview/issues/5606)  
+## :clock430: 今天的知识点   (2023.10.17) —— 第1645天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请问Tailwind CSS为什么这么火？](https://github.com/haizlin/fe-interview/issues/5607)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1643天 (2023.10.15)  
-    	 :one: [软技能] [说说你对git commit的规范有哪些了解？如何确保团队规范？](https://github.com/haizlin/fe-interview/issues/5605)  
+- 第1644天 (2023.10.16)  
+    	 :one: [软技能] [你开发的项目是如何做缺陷管理的？](https://github.com/haizlin/fe-interview/issues/5606)  
  
 	
 - **[查看全部](category/history.md)**
