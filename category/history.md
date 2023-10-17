@@ -2,6 +2,8 @@
 
 
 
+- 第1646天 (2023-10-18)  
+    - [css] [请问Tailwind CSS的原理是什么？](https://github.com/haizlin/fe-interview/issues/5608)
 - 第1645天 (2023-10-17)  
     - [css] [请问Tailwind CSS为什么这么火？](https://github.com/haizlin/fe-interview/issues/5607)
 - 第1644天 (2023-10-16)  

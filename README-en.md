@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.17) —— 1645 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请问Tailwind CSS为什么这么火？](https://github.com/haizlin/fe-interview/issues/5607)  
+## :clock430: Today's Knowledge Points (2023.10.18) —— 1646 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请问Tailwind CSS的原理是什么？](https://github.com/haizlin/fe-interview/issues/5608)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1644 days (2023.10.16)  
-    	 :one: [skill] [你开发的项目是如何做缺陷管理的？](https://github.com/haizlin/fe-interview/issues/5606)  
+- 1645 days (2023.10.17)  
+    	 :one: [css] [请问Tailwind CSS为什么这么火？](https://github.com/haizlin/fe-interview/issues/5607)  
  
 	
 - **[All](category/history.md)**
