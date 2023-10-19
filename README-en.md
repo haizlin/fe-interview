@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.19) —— 1647 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用Canvas绘画一个圆弧](https://github.com/haizlin/fe-interview/issues/5609)  
+## :clock430: Today's Knowledge Points (2023.10.20) —— 1648 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用Canvas绘画一个半圆](https://github.com/haizlin/fe-interview/issues/5610)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1646 days (2023.10.18)  
-    	 :one: [css] [请问Tailwind CSS的原理是什么？](https://github.com/haizlin/fe-interview/issues/5608)  
+- 1647 days (2023.10.19)  
+    	 :one: [html] [请使用Canvas绘画一个圆弧](https://github.com/haizlin/fe-interview/issues/5609)  
  
 	
 - **[All](category/history.md)**

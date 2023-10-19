@@ -2,6 +2,8 @@
 
 
 
+- 第1648天 (2023-10-20)  
+    - [html] [请使用Canvas绘画一个半圆](https://github.com/haizlin/fe-interview/issues/5610)
 - 第1647天 (2023-10-19)  
     - [html] [请使用Canvas绘画一个圆弧](https://github.com/haizlin/fe-interview/issues/5609)
 - 第1646天 (2023-10-18)  
