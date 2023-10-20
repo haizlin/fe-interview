@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.20) —— 1648 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请使用Canvas绘画一个半圆](https://github.com/haizlin/fe-interview/issues/5610)  
+## :clock430: Today's Knowledge Points (2023.10.21) —— 1649 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [请问什么是canvas污染？](https://github.com/haizlin/fe-interview/issues/5611)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1647 days (2023.10.19)  
-    	 :one: [html] [请使用Canvas绘画一个圆弧](https://github.com/haizlin/fe-interview/issues/5609)  
+- 1648 days (2023.10.20)  
+    	 :one: [html] [请使用Canvas绘画一个半圆](https://github.com/haizlin/fe-interview/issues/5610)  
  
 	
 - **[All](category/history.md)**
