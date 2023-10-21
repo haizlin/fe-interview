@@ -2,6 +2,8 @@
 
 
 
+- 第1650天 (2023-10-22)  
+    - [html] [如何做canvas性能分析？](https://github.com/haizlin/fe-interview/issues/5612)
 - 第1649天 (2023-10-21)  
     - [html] [请问什么是canvas污染？](https://github.com/haizlin/fe-interview/issues/5611)
 - 第1648天 (2023-10-20)  
