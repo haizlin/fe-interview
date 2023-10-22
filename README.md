@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.10.22) —— 第1650天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何做canvas性能分析？](https://github.com/haizlin/fe-interview/issues/5612)  
+## :clock430: 今天的知识点   (2023.10.23) —— 第1651天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [canvas渲染优化有哪些策略？](https://github.com/haizlin/fe-interview/issues/5613)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1649天 (2023.10.21)  
-    	 :one: [html] [请问什么是canvas污染？](https://github.com/haizlin/fe-interview/issues/5611)  
+- 第1650天 (2023.10.22)  
+    	 :one: [html] [如何做canvas性能分析？](https://github.com/haizlin/fe-interview/issues/5612)  
  
 	
 - **[查看全部](category/history.md)**

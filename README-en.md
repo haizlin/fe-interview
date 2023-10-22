@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.22) —— 1650 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何做canvas性能分析？](https://github.com/haizlin/fe-interview/issues/5612)  
+## :clock430: Today's Knowledge Points (2023.10.23) —— 1651 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [canvas渲染优化有哪些策略？](https://github.com/haizlin/fe-interview/issues/5613)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1649 days (2023.10.21)  
-    	 :one: [html] [请问什么是canvas污染？](https://github.com/haizlin/fe-interview/issues/5611)  
+- 1650 days (2023.10.22)  
+    	 :one: [html] [如何做canvas性能分析？](https://github.com/haizlin/fe-interview/issues/5612)  
  
 	
 - **[All](category/history.md)**

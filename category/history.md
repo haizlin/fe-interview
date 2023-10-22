@@ -2,6 +2,8 @@
 
 
 
+- 第1651天 (2023-10-23)  
+    - [html] [canvas渲染优化有哪些策略？](https://github.com/haizlin/fe-interview/issues/5613)
 - 第1650天 (2023-10-22)  
     - [html] [如何做canvas性能分析？](https://github.com/haizlin/fe-interview/issues/5612)
 - 第1649天 (2023-10-21)  
