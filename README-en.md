@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.23) —— 1651 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [canvas渲染优化有哪些策略？](https://github.com/haizlin/fe-interview/issues/5613)  
+## :clock430: Today's Knowledge Points (2023.10.24) —— 1652 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas实现鼠标滚轮缩放](https://github.com/haizlin/fe-interview/issues/5614)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1650 days (2023.10.22)  
-    	 :one: [html] [如何做canvas性能分析？](https://github.com/haizlin/fe-interview/issues/5612)  
+- 1651 days (2023.10.23)  
+    	 :one: [html] [canvas渲染优化有哪些策略？](https://github.com/haizlin/fe-interview/issues/5613)  
  
 	
 - **[All](category/history.md)**
