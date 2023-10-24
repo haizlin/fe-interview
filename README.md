@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.10.24) —— 第1652天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas实现鼠标滚轮缩放](https://github.com/haizlin/fe-interview/issues/5614)  
+## :clock430: 今天的知识点   (2023.10.25) —— 第1653天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas实现画布拖动](https://github.com/haizlin/fe-interview/issues/5615)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1651天 (2023.10.23)  
-    	 :one: [html] [canvas渲染优化有哪些策略？](https://github.com/haizlin/fe-interview/issues/5613)  
+- 第1652天 (2023.10.24)  
+    	 :one: [html] [使用canvas实现鼠标滚轮缩放](https://github.com/haizlin/fe-interview/issues/5614)  
  
 	
 - **[查看全部](category/history.md)**

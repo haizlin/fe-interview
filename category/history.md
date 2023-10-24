@@ -2,6 +2,8 @@
 
 
 
+- 第1653天 (2023-10-25)  
+    - [html] [使用canvas实现画布拖动](https://github.com/haizlin/fe-interview/issues/5615)
 - 第1652天 (2023-10-24)  
     - [html] [使用canvas实现鼠标滚轮缩放](https://github.com/haizlin/fe-interview/issues/5614)
 - 第1651天 (2023-10-23)  
