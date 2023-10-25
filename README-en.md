@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.25) —— 1653 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas实现画布拖动](https://github.com/haizlin/fe-interview/issues/5615)  
+## :clock430: Today's Knowledge Points (2023.10.26) —— 1654 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何解决canvas画出的图像模糊、失真、锯齿的问题？](https://github.com/haizlin/fe-interview/issues/5616)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1652 days (2023.10.24)  
-    	 :one: [html] [使用canvas实现鼠标滚轮缩放](https://github.com/haizlin/fe-interview/issues/5614)  
+- 1653 days (2023.10.25)  
+    	 :one: [html] [使用canvas实现画布拖动](https://github.com/haizlin/fe-interview/issues/5615)  
  
 	
 - **[All](category/history.md)**

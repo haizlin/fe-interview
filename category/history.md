@@ -2,6 +2,8 @@
 
 
 
+- 第1654天 (2023-10-26)  
+    - [html] [如何解决canvas画出的图像模糊、失真、锯齿的问题？](https://github.com/haizlin/fe-interview/issues/5616)
 - 第1653天 (2023-10-25)  
     - [html] [使用canvas实现画布拖动](https://github.com/haizlin/fe-interview/issues/5615)
 - 第1652天 (2023-10-24)  
