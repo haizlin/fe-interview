@@ -2,6 +2,8 @@
 
 
 
+- 第1655天 (2023-10-27)  
+    - [软技能] [请问分辨率是由显卡决定还是由显示屏决定的？](https://github.com/haizlin/fe-interview/issues/5617)
 - 第1654天 (2023-10-26)  
     - [html] [如何解决canvas画出的图像模糊、失真、锯齿的问题？](https://github.com/haizlin/fe-interview/issues/5616)
 - 第1653天 (2023-10-25)  
