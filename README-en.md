@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.27) —— 1655 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请问分辨率是由显卡决定还是由显示屏决定的？](https://github.com/haizlin/fe-interview/issues/5617)  
+## :clock430: Today's Knowledge Points (2023.10.28) —— 1656 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你有使用过Copilot吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5618)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1654 days (2023.10.26)  
-    	 :one: [html] [如何解决canvas画出的图像模糊、失真、锯齿的问题？](https://github.com/haizlin/fe-interview/issues/5616)  
+- 1655 days (2023.10.27)  
+    	 :one: [skill] [请问分辨率是由显卡决定还是由显示屏决定的？](https://github.com/haizlin/fe-interview/issues/5617)  
  
 	
 - **[All](category/history.md)**

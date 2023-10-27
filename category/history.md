@@ -2,6 +2,8 @@
 
 
 
+- 第1656天 (2023-10-28)  
+    - [软技能] [你有使用过Copilot吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5618)
 - 第1655天 (2023-10-27)  
     - [软技能] [请问分辨率是由显卡决定还是由显示屏决定的？](https://github.com/haizlin/fe-interview/issues/5617)
 - 第1654天 (2023-10-26)  
