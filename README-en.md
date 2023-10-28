@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.10.28) —— 1656 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你有使用过Copilot吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5618)  
+## :clock430: Today's Knowledge Points (2023.10.29) —— 1657 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1655 days (2023.10.27)  
-    	 :one: [skill] [请问分辨率是由显卡决定还是由显示屏决定的？](https://github.com/haizlin/fe-interview/issues/5617)  
+- 1656 days (2023.10.28)  
+    	 :one: [skill] [你有使用过Copilot吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5618)  
  
 	
 - **[All](category/history.md)**
