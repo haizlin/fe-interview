@@ -2,6 +2,10 @@
 
 
 
+- 第1658天 (2023-10-30)  
+    - [html] [使用canvas实现一个loading的效果](https://github.com/haizlin/fe-interview/issues/5620)
+- 第1657天 (2023-10-29)  
+    - [html] [你在项目中有使用过canvas吗？](https://github.com/haizlin/fe-interview/issues/5619)
 - 第1656天 (2023-10-28)  
     - [软技能] [你有使用过Copilot吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5618)
 - 第1655天 (2023-10-27)  

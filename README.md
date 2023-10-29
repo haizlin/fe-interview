@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.10.29) —— 第1657天  
+## :clock430: 今天的知识点   (2023.10.30) —— 第1658天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas实现一个loading的效果](https://github.com/haizlin/fe-interview/issues/5620)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1656天 (2023.10.28)  
-    	 :one: [软技能] [你有使用过Copilot吗？说说你对它的了解](https://github.com/haizlin/fe-interview/issues/5618)  
+- 第1657天 (2023.10.29)  
+    	 :one: [html] [你在项目中有使用过canvas吗？](https://github.com/haizlin/fe-interview/issues/5619)  
  
 	
 - **[查看全部](category/history.md)**
