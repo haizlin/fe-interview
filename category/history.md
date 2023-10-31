@@ -2,6 +2,8 @@
 
 
 
+- 第1660天 (2023-11-01)  
+    - [html] [说说你对translate属性的了解](https://github.com/haizlin/fe-interview/issues/5622)
 - 第1659天 (2023-10-31)  
     - [html] [说说你对spellcheck属性的了解](https://github.com/haizlin/fe-interview/issues/5621)
 - 第1658天 (2023-10-30)  
