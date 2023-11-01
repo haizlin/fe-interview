@@ -2,6 +2,8 @@
 
 
 
+- 第1661天 (2023-11-02)  
+    - [css] [请举例说明你常用的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/5623)
 - 第1660天 (2023-11-01)  
     - [html] [说说你对translate属性的了解](https://github.com/haizlin/fe-interview/issues/5622)
 - 第1659天 (2023-10-31)  

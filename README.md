@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.01) —— 第1660天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对translate属性的了解](https://github.com/haizlin/fe-interview/issues/5622)  
+## :clock430: 今天的知识点   (2023.11.02) —— 第1661天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请举例说明你常用的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/5623)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1659天 (2023.10.31)  
-    	 :one: [html] [说说你对spellcheck属性的了解](https://github.com/haizlin/fe-interview/issues/5621)  
+- 第1660天 (2023.11.01)  
+    	 :one: [html] [说说你对translate属性的了解](https://github.com/haizlin/fe-interview/issues/5622)  
  
 	
 - **[查看全部](category/history.md)**

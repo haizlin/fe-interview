@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.01) —— 1660 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [说说你对translate属性的了解](https://github.com/haizlin/fe-interview/issues/5622)  
+## :clock430: Today's Knowledge Points (2023.11.02) —— 1661 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请举例说明你常用的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/5623)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1659 days (2023.10.31)  
-    	 :one: [html] [说说你对spellcheck属性的了解](https://github.com/haizlin/fe-interview/issues/5621)  
+- 1660 days (2023.11.01)  
+    	 :one: [html] [说说你对translate属性的了解](https://github.com/haizlin/fe-interview/issues/5622)  
  
 	
 - **[All](category/history.md)**
