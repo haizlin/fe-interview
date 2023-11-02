@@ -2,6 +2,8 @@
 
 
 
+- 第1662天 (2023-11-03)  
+    - [css] [使用css如何实现选择某一块元素内的所有文本](https://github.com/haizlin/fe-interview/issues/5624)
 - 第1661天 (2023-11-02)  
     - [css] [请举例说明你常用的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/5623)
 - 第1660天 (2023-11-01)  
