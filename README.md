@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.03) —— 第1662天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用css如何实现选择某一块元素内的所有文本](https://github.com/haizlin/fe-interview/issues/5624)  
+## :clock430: 今天的知识点   (2023.11.04) —— 第1663天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用css如何实现多行文本下文字渐隐消失的效果](https://github.com/haizlin/fe-interview/issues/5625)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1661天 (2023.11.02)  
-    	 :one: [css] [请举例说明你常用的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/5623)  
+- 第1662天 (2023.11.03)  
+    	 :one: [css] [使用css如何实现选择某一块元素内的所有文本](https://github.com/haizlin/fe-interview/issues/5624)  
  
 	
 - **[查看全部](category/history.md)**

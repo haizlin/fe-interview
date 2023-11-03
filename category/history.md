@@ -2,6 +2,8 @@
 
 
 
+- 第1663天 (2023-11-04)  
+    - [css] [使用css如何实现多行文本下文字渐隐消失的效果](https://github.com/haizlin/fe-interview/issues/5625)
 - 第1662天 (2023-11-03)  
     - [css] [使用css如何实现选择某一块元素内的所有文本](https://github.com/haizlin/fe-interview/issues/5624)
 - 第1661天 (2023-11-02)  

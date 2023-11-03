@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.03) —— 1662 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用css如何实现选择某一块元素内的所有文本](https://github.com/haizlin/fe-interview/issues/5624)  
+## :clock430: Today's Knowledge Points (2023.11.04) —— 1663 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用css如何实现多行文本下文字渐隐消失的效果](https://github.com/haizlin/fe-interview/issues/5625)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1661 days (2023.11.02)  
-    	 :one: [css] [请举例说明你常用的css技巧有哪些？](https://github.com/haizlin/fe-interview/issues/5623)  
+- 1662 days (2023.11.03)  
+    	 :one: [css] [使用css如何实现选择某一块元素内的所有文本](https://github.com/haizlin/fe-interview/issues/5624)  
  
 	
 - **[All](category/history.md)**
