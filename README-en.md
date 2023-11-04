@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.04) —— 1663 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用css如何实现多行文本下文字渐隐消失的效果](https://github.com/haizlin/fe-interview/issues/5625)  
+## :clock430: Today's Knowledge Points (2023.11.05) —— 1664 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中unicode-bidi属性的理解](https://github.com/haizlin/fe-interview/issues/5626)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1662 days (2023.11.03)  
-    	 :one: [css] [使用css如何实现选择某一块元素内的所有文本](https://github.com/haizlin/fe-interview/issues/5624)  
+- 1663 days (2023.11.04)  
+    	 :one: [css] [使用css如何实现多行文本下文字渐隐消失的效果](https://github.com/haizlin/fe-interview/issues/5625)  
  
 	
 - **[All](category/history.md)**

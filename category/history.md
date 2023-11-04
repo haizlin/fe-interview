@@ -2,6 +2,8 @@
 
 
 
+- 第1664天 (2023-11-05)  
+    - [css] [说说你对css中unicode-bidi属性的理解](https://github.com/haizlin/fe-interview/issues/5626)
 - 第1663天 (2023-11-04)  
     - [css] [使用css如何实现多行文本下文字渐隐消失的效果](https://github.com/haizlin/fe-interview/issues/5625)
 - 第1662天 (2023-11-03)  
