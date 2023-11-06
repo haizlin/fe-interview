@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.06) —— 1665 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何优化性能问题？](https://github.com/haizlin/fe-interview/issues/5627)  
+## :clock430: Today's Knowledge Points (2023.11.07) —— 1666 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron应用如何自动更新？](https://github.com/haizlin/fe-interview/issues/5628)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1664 days (2023.11.05)  
-    	 :one: [css] [说说你对css中unicode-bidi属性的理解](https://github.com/haizlin/fe-interview/issues/5626)  
+- 1665 days (2023.11.06)  
+    	 :one: [Electron] [Electron如何优化性能问题？](https://github.com/haizlin/fe-interview/issues/5627)  
  
 	
 - **[All](category/history.md)**

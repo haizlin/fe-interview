@@ -2,6 +2,8 @@
 
 
 
+- 第1666天 (2023-11-07)  
+    - [Electron] [Electron应用如何自动更新？](https://github.com/haizlin/fe-interview/issues/5628)
 - 第1665天 (2023-11-06)  
     - [Electron] [Electron如何优化性能问题？](https://github.com/haizlin/fe-interview/issues/5627)
 - 第1664天 (2023-11-05)  
