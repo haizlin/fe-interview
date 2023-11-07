@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.07) —— 1666 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron应用如何自动更新？](https://github.com/haizlin/fe-interview/issues/5628)  
+## :clock430: Today's Knowledge Points (2023.11.08) —— 1667 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron窗口池如何优化？](https://github.com/haizlin/fe-interview/issues/5629)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1665 days (2023.11.06)  
-    	 :one: [Electron] [Electron如何优化性能问题？](https://github.com/haizlin/fe-interview/issues/5627)  
+- 1666 days (2023.11.07)  
+    	 :one: [Electron] [Electron应用如何自动更新？](https://github.com/haizlin/fe-interview/issues/5628)  
  
 	
 - **[All](category/history.md)**

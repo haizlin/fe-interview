@@ -2,6 +2,8 @@
 
 
 
+- 第1667天 (2023-11-08)  
+    - [Electron] [Electron窗口池如何优化？](https://github.com/haizlin/fe-interview/issues/5629)
 - 第1666天 (2023-11-07)  
     - [Electron] [Electron应用如何自动更新？](https://github.com/haizlin/fe-interview/issues/5628)
 - 第1665天 (2023-11-06)  
