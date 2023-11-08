@@ -2,6 +2,8 @@
 
 
 
+- 第1668天 (2023-11-09)  
+    - [Electron] [Electron如何收集崩溃日志？](https://github.com/haizlin/fe-interview/issues/5630)
 - 第1667天 (2023-11-08)  
     - [Electron] [Electron窗口池如何优化？](https://github.com/haizlin/fe-interview/issues/5629)
 - 第1666天 (2023-11-07)  
