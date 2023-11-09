@@ -2,6 +2,8 @@
 
 
 
+- 第1669天 (2023-11-10)  
+    - [Electron] [Electron如何实现串口通信？](https://github.com/haizlin/fe-interview/issues/5631)
 - 第1668天 (2023-11-09)  
     - [Electron] [Electron如何收集崩溃日志？](https://github.com/haizlin/fe-interview/issues/5630)
 - 第1667天 (2023-11-08)  
