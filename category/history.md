@@ -2,6 +2,8 @@
 
 
 
+- 第1670天 (2023-11-11)  
+    - [Electron] [Electron如何加载本地文件？](https://github.com/haizlin/fe-interview/issues/5632)
 - 第1669天 (2023-11-10)  
     - [Electron] [Electron如何实现串口通信？](https://github.com/haizlin/fe-interview/issues/5631)
 - 第1668天 (2023-11-09)  
