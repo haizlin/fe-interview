@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.11) —— 第1670天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何加载本地文件？](https://github.com/haizlin/fe-interview/issues/5632)  
+## :clock430: 今天的知识点   (2023.11.12) —— 第1671天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何增量更新？](https://github.com/haizlin/fe-interview/issues/5633)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1669天 (2023.11.10)  
-    	 :one: [Electron] [Electron如何实现串口通信？](https://github.com/haizlin/fe-interview/issues/5631)  
+- 第1670天 (2023.11.11)  
+    	 :one: [Electron] [Electron如何加载本地文件？](https://github.com/haizlin/fe-interview/issues/5632)  
  
 	
 - **[查看全部](category/history.md)**

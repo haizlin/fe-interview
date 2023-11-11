@@ -2,6 +2,8 @@
 
 
 
+- 第1671天 (2023-11-12)  
+    - [Electron] [Electron如何增量更新？](https://github.com/haizlin/fe-interview/issues/5633)
 - 第1670天 (2023-11-11)  
     - [Electron] [Electron如何加载本地文件？](https://github.com/haizlin/fe-interview/issues/5632)
 - 第1669天 (2023-11-10)  
