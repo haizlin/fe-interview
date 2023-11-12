@@ -2,6 +2,8 @@
 
 
 
+- 第1672天 (2023-11-13)  
+    - [Electron] [Electron开发过程中如何调试？](https://github.com/haizlin/fe-interview/issues/5634)
 - 第1671天 (2023-11-12)  
     - [Electron] [Electron如何增量更新？](https://github.com/haizlin/fe-interview/issues/5633)
 - 第1670天 (2023-11-11)  
