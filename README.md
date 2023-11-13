@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.13) —— 第1672天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron开发过程中如何调试？](https://github.com/haizlin/fe-interview/issues/5634)  
+## :clock430: 今天的知识点   (2023.11.14) —— 第1673天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron开发的应用如何保护源码？](https://github.com/haizlin/fe-interview/issues/5635)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1671天 (2023.11.12)  
-    	 :one: [Electron] [Electron如何增量更新？](https://github.com/haizlin/fe-interview/issues/5633)  
+- 第1672天 (2023.11.13)  
+    	 :one: [Electron] [Electron开发过程中如何调试？](https://github.com/haizlin/fe-interview/issues/5634)  
  
 	
 - **[查看全部](category/history.md)**

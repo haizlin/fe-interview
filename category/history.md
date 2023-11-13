@@ -2,6 +2,8 @@
 
 
 
+- 第1673天 (2023-11-14)  
+    - [Electron] [Electron开发的应用如何保护源码？](https://github.com/haizlin/fe-interview/issues/5635)
 - 第1672天 (2023-11-13)  
     - [Electron] [Electron开发过程中如何调试？](https://github.com/haizlin/fe-interview/issues/5634)
 - 第1671天 (2023-11-12)  
