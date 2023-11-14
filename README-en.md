@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.14) —— 1673 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron开发的应用如何保护源码？](https://github.com/haizlin/fe-interview/issues/5635)  
+## :clock430: Today's Knowledge Points (2023.11.15) —— 1674 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [如何手动离线安装Electron？](https://github.com/haizlin/fe-interview/issues/5636)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1672 days (2023.11.13)  
-    	 :one: [Electron] [Electron开发过程中如何调试？](https://github.com/haizlin/fe-interview/issues/5634)  
+- 1673 days (2023.11.14)  
+    	 :one: [Electron] [Electron开发的应用如何保护源码？](https://github.com/haizlin/fe-interview/issues/5635)  
  
 	
 - **[All](category/history.md)**

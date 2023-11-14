@@ -2,6 +2,8 @@
 
 
 
+- 第1674天 (2023-11-15)  
+    - [Electron] [如何手动离线安装Electron？](https://github.com/haizlin/fe-interview/issues/5636)
 - 第1673天 (2023-11-14)  
     - [Electron] [Electron开发的应用如何保护源码？](https://github.com/haizlin/fe-interview/issues/5635)
 - 第1672天 (2023-11-13)  
