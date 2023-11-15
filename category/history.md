@@ -2,6 +2,8 @@
 
 
 
+- 第1675天 (2023-11-16)  
+    - [Electron] [Electron有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5637)
 - 第1674天 (2023-11-15)  
     - [Electron] [如何手动离线安装Electron？](https://github.com/haizlin/fe-interview/issues/5636)
 - 第1673天 (2023-11-14)  

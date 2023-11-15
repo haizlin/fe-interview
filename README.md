@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.15) —— 第1674天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [如何手动离线安装Electron？](https://github.com/haizlin/fe-interview/issues/5636)  
+## :clock430: 今天的知识点   (2023.11.16) —— 第1675天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5637)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1673天 (2023.11.14)  
-    	 :one: [Electron] [Electron开发的应用如何保护源码？](https://github.com/haizlin/fe-interview/issues/5635)  
+- 第1674天 (2023.11.15)  
+    	 :one: [Electron] [如何手动离线安装Electron？](https://github.com/haizlin/fe-interview/issues/5636)  
  
 	
 - **[查看全部](category/history.md)**
