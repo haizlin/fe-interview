@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.16) —— 1675 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5637)  
+## :clock430: Today's Knowledge Points (2023.11.17) —— 1676 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何自定义菜单？](https://github.com/haizlin/fe-interview/issues/5638)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1674 days (2023.11.15)  
-    	 :one: [Electron] [如何手动离线安装Electron？](https://github.com/haizlin/fe-interview/issues/5636)  
+- 1675 days (2023.11.16)  
+    	 :one: [Electron] [Electron有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5637)  
  
 	
 - **[All](category/history.md)**
