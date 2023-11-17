@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.17) —— 第1676天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何自定义菜单？](https://github.com/haizlin/fe-interview/issues/5638)  
+## :clock430: 今天的知识点   (2023.11.18) —— 第1677天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现静默打印？](https://github.com/haizlin/fe-interview/issues/5639)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1675天 (2023.11.16)  
-    	 :one: [Electron] [Electron有哪些应用场景？](https://github.com/haizlin/fe-interview/issues/5637)  
+- 第1676天 (2023.11.17)  
+    	 :one: [Electron] [Electron如何自定义菜单？](https://github.com/haizlin/fe-interview/issues/5638)  
  
 	
 - **[查看全部](category/history.md)**
