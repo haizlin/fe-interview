@@ -2,6 +2,8 @@
 
 
 
+- 第1678天 (2023-11-19)  
+    - [Electron] [请讲讲Electron的生命周期？](https://github.com/haizlin/fe-interview/issues/5640)
 - 第1677天 (2023-11-18)  
     - [Electron] [Electron如何实现静默打印？](https://github.com/haizlin/fe-interview/issues/5639)
 - 第1676天 (2023-11-17)  

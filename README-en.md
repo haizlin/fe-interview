@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.18) —— 1677 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现静默打印？](https://github.com/haizlin/fe-interview/issues/5639)  
+## :clock430: Today's Knowledge Points (2023.11.19) —— 1678 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [请讲讲Electron的生命周期？](https://github.com/haizlin/fe-interview/issues/5640)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1676 days (2023.11.17)  
-    	 :one: [Electron] [Electron如何自定义菜单？](https://github.com/haizlin/fe-interview/issues/5638)  
+- 1677 days (2023.11.18)  
+    	 :one: [Electron] [Electron如何实现静默打印？](https://github.com/haizlin/fe-interview/issues/5639)  
  
 	
 - **[All](category/history.md)**
