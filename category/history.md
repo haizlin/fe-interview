@@ -2,6 +2,8 @@
 
 
 
+- 第1679天 (2023-11-20)  
+    - [Electron] [Electron进程间如何通信？](https://github.com/haizlin/fe-interview/issues/5641)
 - 第1678天 (2023-11-19)  
     - [Electron] [请讲讲Electron的生命周期？](https://github.com/haizlin/fe-interview/issues/5640)
 - 第1677天 (2023-11-18)  

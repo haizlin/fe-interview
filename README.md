@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.19) —— 第1678天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [请讲讲Electron的生命周期？](https://github.com/haizlin/fe-interview/issues/5640)  
+## :clock430: 今天的知识点   (2023.11.20) —— 第1679天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron进程间如何通信？](https://github.com/haizlin/fe-interview/issues/5641)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1677天 (2023.11.18)  
-    	 :one: [Electron] [Electron如何实现静默打印？](https://github.com/haizlin/fe-interview/issues/5639)  
+- 第1678天 (2023.11.19)  
+    	 :one: [Electron] [请讲讲Electron的生命周期？](https://github.com/haizlin/fe-interview/issues/5640)  
  
 	
 - **[查看全部](category/history.md)**
