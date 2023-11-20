@@ -2,6 +2,8 @@
 
 
 
+- 第1680天 (2023-11-21)  
+    - [Electron] [Electron的应用如何禁止多开？](https://github.com/haizlin/fe-interview/issues/5642)
 - 第1679天 (2023-11-20)  
     - [Electron] [Electron进程间如何通信？](https://github.com/haizlin/fe-interview/issues/5641)
 - 第1678天 (2023-11-19)  
