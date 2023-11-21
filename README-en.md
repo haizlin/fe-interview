@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.21) —— 1680 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron的应用如何禁止多开？](https://github.com/haizlin/fe-interview/issues/5642)  
+## :clock430: Today's Knowledge Points (2023.11.22) —— 1681 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何进行网络状态检测？](https://github.com/haizlin/fe-interview/issues/5643)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1679 days (2023.11.20)  
-    	 :one: [Electron] [Electron进程间如何通信？](https://github.com/haizlin/fe-interview/issues/5641)  
+- 1680 days (2023.11.21)  
+    	 :one: [Electron] [Electron的应用如何禁止多开？](https://github.com/haizlin/fe-interview/issues/5642)  
  
 	
 - **[All](category/history.md)**

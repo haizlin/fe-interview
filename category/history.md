@@ -2,6 +2,8 @@
 
 
 
+- 第1681天 (2023-11-22)  
+    - [Electron] [Electron如何进行网络状态检测？](https://github.com/haizlin/fe-interview/issues/5643)
 - 第1680天 (2023-11-21)  
     - [Electron] [Electron的应用如何禁止多开？](https://github.com/haizlin/fe-interview/issues/5642)
 - 第1679天 (2023-11-20)  

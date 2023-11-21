@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.21) —— 第1680天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron的应用如何禁止多开？](https://github.com/haizlin/fe-interview/issues/5642)  
+## :clock430: 今天的知识点   (2023.11.22) —— 第1681天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何进行网络状态检测？](https://github.com/haizlin/fe-interview/issues/5643)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1679天 (2023.11.20)  
-    	 :one: [Electron] [Electron进程间如何通信？](https://github.com/haizlin/fe-interview/issues/5641)  
+- 第1680天 (2023.11.21)  
+    	 :one: [Electron] [Electron的应用如何禁止多开？](https://github.com/haizlin/fe-interview/issues/5642)  
  
 	
 - **[查看全部](category/history.md)**
