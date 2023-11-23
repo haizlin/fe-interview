@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.23) —— 第1682天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [请讲讲Electron的Main进程和Renderer进程](https://github.com/haizlin/fe-interview/issues/5644)  
+## :clock430: 今天的知识点   (2023.11.24) —— 第1683天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron跨平台有什么兼容性问题吗？](https://github.com/haizlin/fe-interview/issues/5646)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1681天 (2023.11.22)  
-    	 :one: [Electron] [Electron如何进行网络状态检测？](https://github.com/haizlin/fe-interview/issues/5643)  
+- 第1682天 (2023.11.23)  
+    	 :one: [Electron] [请讲讲Electron的Main进程和Renderer进程](https://github.com/haizlin/fe-interview/issues/5644)  
  
 	
 - **[查看全部](category/history.md)**
