@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.24) —— 1683 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron跨平台有什么兼容性问题吗？](https://github.com/haizlin/fe-interview/issues/5646)  
+## :clock430: Today's Knowledge Points (2023.11.25) —— 1684 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何预防页面被冻结？](https://github.com/haizlin/fe-interview/issues/5647)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1682 days (2023.11.23)  
-    	 :one: [Electron] [请讲讲Electron的Main进程和Renderer进程](https://github.com/haizlin/fe-interview/issues/5644)  
+- 1683 days (2023.11.24)  
+    	 :one: [Electron] [Electron跨平台有什么兼容性问题吗？](https://github.com/haizlin/fe-interview/issues/5646)  
  
 	
 - **[All](category/history.md)**

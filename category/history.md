@@ -2,6 +2,8 @@
 
 
 
+- 第1684天 (2023-11-25)  
+    - [Electron] [Electron如何预防页面被冻结？](https://github.com/haizlin/fe-interview/issues/5647)
 - 第1683天 (2023-11-24)  
     - [Electron] [Electron跨平台有什么兼容性问题吗？](https://github.com/haizlin/fe-interview/issues/5646)
 - 第1682天 (2023-11-23)  
