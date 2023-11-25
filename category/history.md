@@ -2,6 +2,8 @@
 
 
 
+- 第1685天 (2023-11-26)  
+    - [Electron] [Electron多窗口如何进行数据共享？](https://github.com/haizlin/fe-interview/issues/5648)
 - 第1684天 (2023-11-25)  
     - [Electron] [Electron如何预防页面被冻结？](https://github.com/haizlin/fe-interview/issues/5647)
 - 第1683天 (2023-11-24)  
