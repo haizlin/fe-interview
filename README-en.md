@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.26) —— 1685 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron多窗口如何进行数据共享？](https://github.com/haizlin/fe-interview/issues/5648)  
+## :clock430: Today's Knowledge Points (2023.11.27) —— 1686 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何销毁所有窗口？](https://github.com/haizlin/fe-interview/issues/5649)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1684 days (2023.11.25)  
-    	 :one: [Electron] [Electron如何预防页面被冻结？](https://github.com/haizlin/fe-interview/issues/5647)  
+- 1685 days (2023.11.26)  
+    	 :one: [Electron] [Electron多窗口如何进行数据共享？](https://github.com/haizlin/fe-interview/issues/5648)  
  
 	
 - **[All](category/history.md)**
