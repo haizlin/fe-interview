@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.27) —— 第1686天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何销毁所有窗口？](https://github.com/haizlin/fe-interview/issues/5649)  
+## :clock430: 今天的知识点   (2023.11.28) —— 第1687天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron的应用如何设置开机启动？](https://github.com/haizlin/fe-interview/issues/5650)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1685天 (2023.11.26)  
-    	 :one: [Electron] [Electron多窗口如何进行数据共享？](https://github.com/haizlin/fe-interview/issues/5648)  
+- 第1686天 (2023.11.27)  
+    	 :one: [Electron] [Electron如何销毁所有窗口？](https://github.com/haizlin/fe-interview/issues/5649)  
  
 	
 - **[查看全部](category/history.md)**

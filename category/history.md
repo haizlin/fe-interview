@@ -2,6 +2,8 @@
 
 
 
+- 第1687天 (2023-11-28)  
+    - [Electron] [Electron的应用如何设置开机启动？](https://github.com/haizlin/fe-interview/issues/5650)
 - 第1686天 (2023-11-27)  
     - [Electron] [Electron如何销毁所有窗口？](https://github.com/haizlin/fe-interview/issues/5649)
 - 第1685天 (2023-11-26)  
