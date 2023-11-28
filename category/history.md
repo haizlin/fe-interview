@@ -2,6 +2,8 @@
 
 
 
+- 第1688天 (2023-11-29)  
+    - [Electron] [Electron如何取消跨域限制？](https://github.com/haizlin/fe-interview/issues/5651)
 - 第1687天 (2023-11-28)  
     - [Electron] [Electron的应用如何设置开机启动？](https://github.com/haizlin/fe-interview/issues/5650)
 - 第1686天 (2023-11-27)  
