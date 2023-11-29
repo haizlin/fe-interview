@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.11.29) —— 1688 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何取消跨域限制？](https://github.com/haizlin/fe-interview/issues/5651)  
+## :clock430: Today's Knowledge Points (2023.11.30) —— 1689 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何设置应用为默认中文？](https://github.com/haizlin/fe-interview/issues/5652)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1687 days (2023.11.28)  
-    	 :one: [Electron] [Electron的应用如何设置开机启动？](https://github.com/haizlin/fe-interview/issues/5650)  
+- 1688 days (2023.11.29)  
+    	 :one: [Electron] [Electron如何取消跨域限制？](https://github.com/haizlin/fe-interview/issues/5651)  
  
 	
 - **[All](category/history.md)**

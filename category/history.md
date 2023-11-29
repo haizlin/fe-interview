@@ -2,6 +2,8 @@
 
 
 
+- 第1689天 (2023-11-30)  
+    - [Electron] [Electron如何设置应用为默认中文？](https://github.com/haizlin/fe-interview/issues/5652)
 - 第1688天 (2023-11-29)  
     - [Electron] [Electron如何取消跨域限制？](https://github.com/haizlin/fe-interview/issues/5651)
 - 第1687天 (2023-11-28)  
