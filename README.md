@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.11.30) —— 第1689天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何设置应用为默认中文？](https://github.com/haizlin/fe-interview/issues/5652)  
+## :clock430: 今天的知识点   (2023.12.01) —— 第1690天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现无边框窗口？](https://github.com/haizlin/fe-interview/issues/5653)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1688天 (2023.11.29)  
-    	 :one: [Electron] [Electron如何取消跨域限制？](https://github.com/haizlin/fe-interview/issues/5651)  
+- 第1689天 (2023.11.30)  
+    	 :one: [Electron] [Electron如何设置应用为默认中文？](https://github.com/haizlin/fe-interview/issues/5652)  
  
 	
 - **[查看全部](category/history.md)**
