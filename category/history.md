@@ -2,6 +2,8 @@
 
 
 
+- 第1691天 (2023-12-02)  
+    - [Electron] [Electron如何获取当前软件运行系统环境？](https://github.com/haizlin/fe-interview/issues/5654)
 - 第1690天 (2023-12-01)  
     - [Electron] [Electron如何实现无边框窗口？](https://github.com/haizlin/fe-interview/issues/5653)
 - 第1689天 (2023-11-30)  

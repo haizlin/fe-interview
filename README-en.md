@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.01) —— 1690 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现无边框窗口？](https://github.com/haizlin/fe-interview/issues/5653)  
+## :clock430: Today's Knowledge Points (2023.12.02) —— 1691 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何获取当前软件运行系统环境？](https://github.com/haizlin/fe-interview/issues/5654)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1689 days (2023.11.30)  
-    	 :one: [Electron] [Electron如何设置应用为默认中文？](https://github.com/haizlin/fe-interview/issues/5652)  
+- 1690 days (2023.12.01)  
+    	 :one: [Electron] [Electron如何实现无边框窗口？](https://github.com/haizlin/fe-interview/issues/5653)  
  
 	
 - **[All](category/history.md)**
