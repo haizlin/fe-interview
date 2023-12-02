@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.02) —— 第1691天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何获取当前软件运行系统环境？](https://github.com/haizlin/fe-interview/issues/5654)  
+## :clock430: 今天的知识点   (2023.12.03) —— 第1692天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现截图功能？](https://github.com/haizlin/fe-interview/issues/5655)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1690天 (2023.12.01)  
-    	 :one: [Electron] [Electron如何实现无边框窗口？](https://github.com/haizlin/fe-interview/issues/5653)  
+- 第1691天 (2023.12.02)  
+    	 :one: [Electron] [Electron如何获取当前软件运行系统环境？](https://github.com/haizlin/fe-interview/issues/5654)  
  
 	
 - **[查看全部](category/history.md)**

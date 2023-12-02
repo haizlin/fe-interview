@@ -2,6 +2,8 @@
 
 
 
+- 第1692天 (2023-12-03)  
+    - [Electron] [Electron如何实现截图功能？](https://github.com/haizlin/fe-interview/issues/5655)
 - 第1691天 (2023-12-02)  
     - [Electron] [Electron如何获取当前软件运行系统环境？](https://github.com/haizlin/fe-interview/issues/5654)
 - 第1690天 (2023-12-01)  
