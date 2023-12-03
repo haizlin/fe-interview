@@ -2,6 +2,8 @@
 
 
 
+- 第1693天 (2023-12-04)  
+    - [Electron] [Electron如何禁用缓存？](https://github.com/haizlin/fe-interview/issues/5656)
 - 第1692天 (2023-12-03)  
     - [Electron] [Electron如何实现截图功能？](https://github.com/haizlin/fe-interview/issues/5655)
 - 第1691天 (2023-12-02)  

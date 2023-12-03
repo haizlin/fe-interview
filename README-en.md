@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.03) —— 1692 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现截图功能？](https://github.com/haizlin/fe-interview/issues/5655)  
+## :clock430: Today's Knowledge Points (2023.12.04) —— 1693 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何禁用缓存？](https://github.com/haizlin/fe-interview/issues/5656)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1691 days (2023.12.02)  
-    	 :one: [Electron] [Electron如何获取当前软件运行系统环境？](https://github.com/haizlin/fe-interview/issues/5654)  
+- 1692 days (2023.12.03)  
+    	 :one: [Electron] [Electron如何实现截图功能？](https://github.com/haizlin/fe-interview/issues/5655)  
  
 	
 - **[All](category/history.md)**
