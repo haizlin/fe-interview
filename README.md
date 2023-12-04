@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.04) —— 第1693天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何禁用缓存？](https://github.com/haizlin/fe-interview/issues/5656)  
+## :clock430: 今天的知识点   (2023.12.05) —— 第1694天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现系统托盘？](https://github.com/haizlin/fe-interview/issues/5657)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1692天 (2023.12.03)  
-    	 :one: [Electron] [Electron如何实现截图功能？](https://github.com/haizlin/fe-interview/issues/5655)  
+- 第1693天 (2023.12.04)  
+    	 :one: [Electron] [Electron如何禁用缓存？](https://github.com/haizlin/fe-interview/issues/5656)  
  
 	
 - **[查看全部](category/history.md)**

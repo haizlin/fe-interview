@@ -2,6 +2,8 @@
 
 
 
+- 第1694天 (2023-12-05)  
+    - [Electron] [Electron如何实现系统托盘？](https://github.com/haizlin/fe-interview/issues/5657)
 - 第1693天 (2023-12-04)  
     - [Electron] [Electron如何禁用缓存？](https://github.com/haizlin/fe-interview/issues/5656)
 - 第1692天 (2023-12-03)  
