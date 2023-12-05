@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.05) —— 1694 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现系统托盘？](https://github.com/haizlin/fe-interview/issues/5657)  
+## :clock430: Today's Knowledge Points (2023.12.06) —— 1695 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现系统托盘有消息时闪烁？](https://github.com/haizlin/fe-interview/issues/5658)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1693 days (2023.12.04)  
-    	 :one: [Electron] [Electron如何禁用缓存？](https://github.com/haizlin/fe-interview/issues/5656)  
+- 1694 days (2023.12.05)  
+    	 :one: [Electron] [Electron如何实现系统托盘？](https://github.com/haizlin/fe-interview/issues/5657)  
  
 	
 - **[All](category/history.md)**
