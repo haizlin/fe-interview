@@ -2,6 +2,8 @@
 
 
 
+- 第1696天 (2023-12-07)  
+    - [Electron] [说说你对Electron Builder的了解](https://github.com/haizlin/fe-interview/issues/5659)
 - 第1695天 (2023-12-06)  
     - [Electron] [Electron如何实现系统托盘有消息时闪烁？](https://github.com/haizlin/fe-interview/issues/5658)
 - 第1694天 (2023-12-05)  
