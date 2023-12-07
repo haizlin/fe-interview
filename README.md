@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.07) —— 第1696天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [说说你对Electron Builder的了解](https://github.com/haizlin/fe-interview/issues/5659)  
+## :clock430: 今天的知识点   (2023.12.08) —— 第1697天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何实现文件下载？](https://github.com/haizlin/fe-interview/issues/5660)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1695天 (2023.12.06)  
-    	 :one: [Electron] [Electron如何实现系统托盘有消息时闪烁？](https://github.com/haizlin/fe-interview/issues/5658)  
+- 第1696天 (2023.12.07)  
+    	 :one: [Electron] [说说你对Electron Builder的了解](https://github.com/haizlin/fe-interview/issues/5659)  
  
 	
 - **[查看全部](category/history.md)**
