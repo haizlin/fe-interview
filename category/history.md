@@ -2,6 +2,8 @@
 
 
 
+- 第1698天 (2023-12-09)  
+    - [Electron] [Electron的应用如何更新桌面图标？](https://github.com/haizlin/fe-interview/issues/5661)
 - 第1697天 (2023-12-08)  
     - [Electron] [Electron如何实现文件下载？](https://github.com/haizlin/fe-interview/issues/5660)
 - 第1696天 (2023-12-07)  
