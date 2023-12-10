@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.10) —— 1699 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [使用Electron开发一个TodoList](https://github.com/haizlin/fe-interview/issues/5662)  
+## :clock430: Today's Knowledge Points (2023.12.11) —— 1700 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [请说说Electron的应用安装为什么会这么慢？](https://github.com/haizlin/fe-interview/issues/5663)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1698 days (2023.12.09)  
-    	 :one: [Electron] [Electron的应用如何更新桌面图标？](https://github.com/haizlin/fe-interview/issues/5661)  
+- 1699 days (2023.12.10)  
+    	 :one: [Electron] [使用Electron开发一个TodoList](https://github.com/haizlin/fe-interview/issues/5662)  
  
 	
 - **[All](category/history.md)**

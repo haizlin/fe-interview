@@ -2,6 +2,8 @@
 
 
 
+- 第1700天 (2023-12-11)  
+    - [Electron] [请说说Electron的应用安装为什么会这么慢？](https://github.com/haizlin/fe-interview/issues/5663)
 - 第1699天 (2023-12-10)  
     - [Electron] [使用Electron开发一个TodoList](https://github.com/haizlin/fe-interview/issues/5662)
 - 第1698天 (2023-12-09)  
