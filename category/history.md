@@ -2,6 +2,8 @@
 
 
 
+- 第1702天 (2023-12-13)  
+    - [软技能] [Flutter热更新有哪些方案？](https://github.com/haizlin/fe-interview/issues/5665)
 - 第1701天 (2023-12-12)  
     - [Electron] [Electron如何使用vue进行开发？](https://github.com/haizlin/fe-interview/issues/5664)
 - 第1700天 (2023-12-11)  

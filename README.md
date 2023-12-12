@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.12) —— 第1701天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何使用vue进行开发？](https://github.com/haizlin/fe-interview/issues/5664)  
+## :clock430: 今天的知识点   (2023.12.13) —— 第1702天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [Flutter热更新有哪些方案？](https://github.com/haizlin/fe-interview/issues/5665)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1700天 (2023.12.11)  
-    	 :one: [Electron] [请说说Electron的应用安装为什么会这么慢？](https://github.com/haizlin/fe-interview/issues/5663)  
+- 第1701天 (2023.12.12)  
+    	 :one: [Electron] [Electron如何使用vue进行开发？](https://github.com/haizlin/fe-interview/issues/5664)  
  
 	
 - **[查看全部](category/history.md)**

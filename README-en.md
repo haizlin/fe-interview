@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.12) —— 1701 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [Electron如何使用vue进行开发？](https://github.com/haizlin/fe-interview/issues/5664)  
+## :clock430: Today's Knowledge Points (2023.12.13) —— 1702 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [Flutter热更新有哪些方案？](https://github.com/haizlin/fe-interview/issues/5665)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1700 days (2023.12.11)  
-    	 :one: [Electron] [请说说Electron的应用安装为什么会这么慢？](https://github.com/haizlin/fe-interview/issues/5663)  
+- 1701 days (2023.12.12)  
+    	 :one: [Electron] [Electron如何使用vue进行开发？](https://github.com/haizlin/fe-interview/issues/5664)  
  
 	
 - **[All](category/history.md)**
