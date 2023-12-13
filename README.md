@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.13) —— 第1702天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [Flutter热更新有哪些方案？](https://github.com/haizlin/fe-interview/issues/5665)  
+## :clock430: 今天的知识点   (2023.12.14) —— 第1703天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说Flutter和RN有哪些区别？](https://github.com/haizlin/fe-interview/issues/5666)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1701天 (2023.12.12)  
-    	 :one: [Electron] [Electron如何使用vue进行开发？](https://github.com/haizlin/fe-interview/issues/5664)  
+- 第1702天 (2023.12.13)  
+    	 :one: [软技能] [Flutter热更新有哪些方案？](https://github.com/haizlin/fe-interview/issues/5665)  
  
 	
 - **[查看全部](category/history.md)**

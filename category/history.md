@@ -2,6 +2,8 @@
 
 
 
+- 第1703天 (2023-12-14)  
+    - [软技能] [请说说Flutter和RN有哪些区别？](https://github.com/haizlin/fe-interview/issues/5666)
 - 第1702天 (2023-12-13)  
     - [软技能] [Flutter热更新有哪些方案？](https://github.com/haizlin/fe-interview/issues/5665)
 - 第1701天 (2023-12-12)  
