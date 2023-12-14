@@ -2,6 +2,8 @@
 
 
 
+- 第1704天 (2023-12-15)  
+    - [软技能] [请说说Flutter的绘制原理](https://github.com/haizlin/fe-interview/issues/5667)
 - 第1703天 (2023-12-14)  
     - [软技能] [请说说Flutter和RN有哪些区别？](https://github.com/haizlin/fe-interview/issues/5666)
 - 第1702天 (2023-12-13)  
