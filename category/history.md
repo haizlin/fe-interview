@@ -2,6 +2,8 @@
 
 
 
+- 第1705天 (2023-12-16)  
+    - [js] [请说说事件传播有哪几个阶段？](https://github.com/haizlin/fe-interview/issues/5668)
 - 第1704天 (2023-12-15)  
     - [软技能] [请说说Flutter的绘制原理](https://github.com/haizlin/fe-interview/issues/5667)
 - 第1703天 (2023-12-14)  

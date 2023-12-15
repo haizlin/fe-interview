@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.15) —— 1704 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说Flutter的绘制原理](https://github.com/haizlin/fe-interview/issues/5667)  
+## :clock430: Today's Knowledge Points (2023.12.16) —— 1705 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说事件传播有哪几个阶段？](https://github.com/haizlin/fe-interview/issues/5668)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1703 days (2023.12.14)  
-    	 :one: [skill] [请说说Flutter和RN有哪些区别？](https://github.com/haizlin/fe-interview/issues/5666)  
+- 1704 days (2023.12.15)  
+    	 :one: [skill] [请说说Flutter的绘制原理](https://github.com/haizlin/fe-interview/issues/5667)  
  
 	
 - **[All](category/history.md)**
