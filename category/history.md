@@ -2,6 +2,8 @@
 
 
 
+- 第1706天 (2023-12-17)  
+    - [软技能] [你有使用过esbuild-loader吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/5669)
 - 第1705天 (2023-12-16)  
     - [js] [请说说事件传播有哪几个阶段？](https://github.com/haizlin/fe-interview/issues/5668)
 - 第1704天 (2023-12-15)  

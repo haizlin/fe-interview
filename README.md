@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.16) —— 第1705天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说事件传播有哪几个阶段？](https://github.com/haizlin/fe-interview/issues/5668)  
+## :clock430: 今天的知识点   (2023.12.17) —— 第1706天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你有使用过esbuild-loader吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/5669)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1704天 (2023.12.15)  
-    	 :one: [软技能] [请说说Flutter的绘制原理](https://github.com/haizlin/fe-interview/issues/5667)  
+- 第1705天 (2023.12.16)  
+    	 :one: [js] [请说说事件传播有哪几个阶段？](https://github.com/haizlin/fe-interview/issues/5668)  
  
 	
 - **[查看全部](category/history.md)**
