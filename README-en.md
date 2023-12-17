@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.17) —— 1706 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你有使用过esbuild-loader吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/5669)  
+## :clock430: Today's Knowledge Points (2023.12.18) —— 1707 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [使用Electron如何实现截屏功能？](https://github.com/haizlin/fe-interview/issues/5670)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1705 days (2023.12.16)  
-    	 :one: [js] [请说说事件传播有哪几个阶段？](https://github.com/haizlin/fe-interview/issues/5668)  
+- 1706 days (2023.12.17)  
+    	 :one: [skill] [你有使用过esbuild-loader吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/5669)  
  
 	
 - **[All](category/history.md)**

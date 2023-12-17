@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.17) —— 第1706天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你有使用过esbuild-loader吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/5669)  
+## :clock430: 今天的知识点   (2023.12.18) —— 第1707天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [使用Electron如何实现截屏功能？](https://github.com/haizlin/fe-interview/issues/5670)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1705天 (2023.12.16)  
-    	 :one: [js] [请说说事件传播有哪几个阶段？](https://github.com/haizlin/fe-interview/issues/5668)  
+- 第1706天 (2023.12.17)  
+    	 :one: [软技能] [你有使用过esbuild-loader吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/5669)  
  
 	
 - **[查看全部](category/history.md)**

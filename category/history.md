@@ -2,6 +2,8 @@
 
 
 
+- 第1707天 (2023-12-18)  
+    - [Electron] [使用Electron如何实现截屏功能？](https://github.com/haizlin/fe-interview/issues/5670)
 - 第1706天 (2023-12-17)  
     - [软技能] [你有使用过esbuild-loader吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/5669)
 - 第1705天 (2023-12-16)  
