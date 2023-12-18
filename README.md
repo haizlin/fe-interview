@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.18) —— 第1707天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [Electron] [使用Electron如何实现截屏功能？](https://github.com/haizlin/fe-interview/issues/5670)  
+## :clock430: 今天的知识点   (2023.12.19) —— 第1708天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [制作图表，你都有使用哪些插件？它们有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5671)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1706天 (2023.12.17)  
-    	 :one: [软技能] [你有使用过esbuild-loader吗？请说说它的作用](https://github.com/haizlin/fe-interview/issues/5669)  
+- 第1707天 (2023.12.18)  
+    	 :one: [Electron] [使用Electron如何实现截屏功能？](https://github.com/haizlin/fe-interview/issues/5670)  
  
 	
 - **[查看全部](category/history.md)**

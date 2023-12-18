@@ -2,6 +2,8 @@
 
 
 
+- 第1708天 (2023-12-19)  
+    - [软技能] [制作图表，你都有使用哪些插件？它们有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5671)
 - 第1707天 (2023-12-18)  
     - [Electron] [使用Electron如何实现截屏功能？](https://github.com/haizlin/fe-interview/issues/5670)
 - 第1706天 (2023-12-17)  
