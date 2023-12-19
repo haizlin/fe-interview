@@ -2,6 +2,8 @@
 
 
 
+- 第1709天 (2023-12-20)  
+    - [js] [Echarts能实现哪些功能？](https://github.com/haizlin/fe-interview/issues/5672)
 - 第1708天 (2023-12-19)  
     - [软技能] [制作图表，你都有使用哪些插件？它们有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5671)
 - 第1707天 (2023-12-18)  
