@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.20) —— 第1709天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Echarts能实现哪些功能？](https://github.com/haizlin/fe-interview/issues/5672)  
+## :clock430: 今天的知识点   (2023.12.21) —— 第1710天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts绘制仪表盘？](https://github.com/haizlin/fe-interview/issues/5673)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1708天 (2023.12.19)  
-    	 :one: [软技能] [制作图表，你都有使用哪些插件？它们有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5671)  
+- 第1709天 (2023.12.20)  
+    	 :one: [js] [Echarts能实现哪些功能？](https://github.com/haizlin/fe-interview/issues/5672)  
  
 	
 - **[查看全部](category/history.md)**

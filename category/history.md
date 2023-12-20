@@ -2,6 +2,8 @@
 
 
 
+- 第1710天 (2023-12-21)  
+    - [js] [如何使用Echarts绘制仪表盘？](https://github.com/haizlin/fe-interview/issues/5673)
 - 第1709天 (2023-12-20)  
     - [js] [Echarts能实现哪些功能？](https://github.com/haizlin/fe-interview/issues/5672)
 - 第1708天 (2023-12-19)  

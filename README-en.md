@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.20) —— 1709 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Echarts能实现哪些功能？](https://github.com/haizlin/fe-interview/issues/5672)  
+## :clock430: Today's Knowledge Points (2023.12.21) —— 1710 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts绘制仪表盘？](https://github.com/haizlin/fe-interview/issues/5673)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1708 days (2023.12.19)  
-    	 :one: [skill] [制作图表，你都有使用哪些插件？它们有哪些优缺点？](https://github.com/haizlin/fe-interview/issues/5671)  
+- 1709 days (2023.12.20)  
+    	 :one: [js] [Echarts能实现哪些功能？](https://github.com/haizlin/fe-interview/issues/5672)  
  
 	
 - **[All](category/history.md)**
