@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.22) —— 第1711天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现3D立体中国地图](https://github.com/haizlin/fe-interview/issues/5674)  
+## :clock430: 今天的知识点   (2023.12.23) —— 第1712天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现3D柱状图？](https://github.com/haizlin/fe-interview/issues/5675)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1710天 (2023.12.21)  
-    	 :one: [js] [如何使用Echarts绘制仪表盘？](https://github.com/haizlin/fe-interview/issues/5673)  
+- 第1711天 (2023.12.22)  
+    	 :one: [js] [如何使用Echarts实现3D立体中国地图](https://github.com/haizlin/fe-interview/issues/5674)  
  
 	
 - **[查看全部](category/history.md)**

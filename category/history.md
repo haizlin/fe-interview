@@ -2,6 +2,8 @@
 
 
 
+- 第1712天 (2023-12-23)  
+    - [js] [如何使用Echarts实现3D柱状图？](https://github.com/haizlin/fe-interview/issues/5675)
 - 第1711天 (2023-12-22)  
     - [js] [如何使用Echarts实现3D立体中国地图](https://github.com/haizlin/fe-interview/issues/5674)
 - 第1710天 (2023-12-21)  
