@@ -2,6 +2,8 @@
 
 
 
+- 第1713天 (2023-12-24)  
+    - [js] [如何使用Echarts实现漏斗图？](https://github.com/haizlin/fe-interview/issues/5676)
 - 第1712天 (2023-12-23)  
     - [js] [如何使用Echarts实现3D柱状图？](https://github.com/haizlin/fe-interview/issues/5675)
 - 第1711天 (2023-12-22)  
