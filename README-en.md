@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.24) —— 1713 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现漏斗图？](https://github.com/haizlin/fe-interview/issues/5676)  
+## :clock430: Today's Knowledge Points (2023.12.25) —— 1714 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现多图联动？](https://github.com/haizlin/fe-interview/issues/5677)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1712 days (2023.12.23)  
-    	 :one: [js] [如何使用Echarts实现3D柱状图？](https://github.com/haizlin/fe-interview/issues/5675)  
+- 1713 days (2023.12.24)  
+    	 :one: [js] [如何使用Echarts实现漏斗图？](https://github.com/haizlin/fe-interview/issues/5676)  
  
 	
 - **[All](category/history.md)**

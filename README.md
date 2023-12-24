@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.24) —— 第1713天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现漏斗图？](https://github.com/haizlin/fe-interview/issues/5676)  
+## :clock430: 今天的知识点   (2023.12.25) —— 第1714天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现多图联动？](https://github.com/haizlin/fe-interview/issues/5677)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1712天 (2023.12.23)  
-    	 :one: [js] [如何使用Echarts实现3D柱状图？](https://github.com/haizlin/fe-interview/issues/5675)  
+- 第1713天 (2023.12.24)  
+    	 :one: [js] [如何使用Echarts实现漏斗图？](https://github.com/haizlin/fe-interview/issues/5676)  
  
 	
 - **[查看全部](category/history.md)**
