@@ -2,6 +2,8 @@
 
 
 
+- 第1715天 (2023-12-26)  
+    - [js] [如何在Vue项目中使用Echarts？](https://github.com/haizlin/fe-interview/issues/5678)
 - 第1714天 (2023-12-25)  
     - [js] [如何使用Echarts实现多图联动？](https://github.com/haizlin/fe-interview/issues/5677)
 - 第1713天 (2023-12-24)  
