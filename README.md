@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.26) —— 第1715天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何在Vue项目中使用Echarts？](https://github.com/haizlin/fe-interview/issues/5678)  
+## :clock430: 今天的知识点   (2023.12.27) —— 第1716天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts绘制街道、镇级地图？](https://github.com/haizlin/fe-interview/issues/5679)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1714天 (2023.12.25)  
-    	 :one: [js] [如何使用Echarts实现多图联动？](https://github.com/haizlin/fe-interview/issues/5677)  
+- 第1715天 (2023.12.26)  
+    	 :one: [js] [如何在Vue项目中使用Echarts？](https://github.com/haizlin/fe-interview/issues/5678)  
  
 	
 - **[查看全部](category/history.md)**

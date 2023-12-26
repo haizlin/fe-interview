@@ -2,6 +2,8 @@
 
 
 
+- 第1716天 (2023-12-27)  
+    - [js] [如何使用Echarts绘制街道、镇级地图？](https://github.com/haizlin/fe-interview/issues/5679)
 - 第1715天 (2023-12-26)  
     - [js] [如何在Vue项目中使用Echarts？](https://github.com/haizlin/fe-interview/issues/5678)
 - 第1714天 (2023-12-25)  
