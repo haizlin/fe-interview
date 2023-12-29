@@ -2,6 +2,8 @@
 
 
 
+- 第1719天 (2023-12-30)  
+    - [js] [如何使用Echarts实现热力图？](https://github.com/haizlin/fe-interview/issues/5682)
 - 第1718天 (2023-12-29)  
     - [js] [各坐标系是如何转换的？](https://github.com/haizlin/fe-interview/issues/5681)
 - 第1717天 (2023-12-28)  
