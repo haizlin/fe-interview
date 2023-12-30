@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2023.12.30) —— 1719 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现热力图？](https://github.com/haizlin/fe-interview/issues/5682)  
+## :clock430: Today's Knowledge Points (2023.12.31) —— 1720 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现饼图？](https://github.com/haizlin/fe-interview/issues/5683)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1718 days (2023.12.29)  
-    	 :one: [js] [各坐标系是如何转换的？](https://github.com/haizlin/fe-interview/issues/5681)  
+- 1719 days (2023.12.30)  
+    	 :one: [js] [如何使用Echarts实现热力图？](https://github.com/haizlin/fe-interview/issues/5682)  
  
 	
 - **[All](category/history.md)**

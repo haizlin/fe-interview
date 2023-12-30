@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2023.12.30) —— 第1719天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现热力图？](https://github.com/haizlin/fe-interview/issues/5682)  
+## :clock430: 今天的知识点   (2023.12.31) —— 第1720天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用Echarts实现饼图？](https://github.com/haizlin/fe-interview/issues/5683)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1718天 (2023.12.29)  
-    	 :one: [js] [各坐标系是如何转换的？](https://github.com/haizlin/fe-interview/issues/5681)  
+- 第1719天 (2023.12.30)  
+    	 :one: [js] [如何使用Echarts实现热力图？](https://github.com/haizlin/fe-interview/issues/5682)  
  
 	
 - **[查看全部](category/history.md)**

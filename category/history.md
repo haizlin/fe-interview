@@ -2,6 +2,8 @@
 
 
 
+- 第1720天 (2023-12-31)  
+    - [js] [如何使用Echarts实现饼图？](https://github.com/haizlin/fe-interview/issues/5683)
 - 第1719天 (2023-12-30)  
     - [js] [如何使用Echarts实现热力图？](https://github.com/haizlin/fe-interview/issues/5682)
 - 第1718天 (2023-12-29)  
