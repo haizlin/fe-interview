@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.01.01) —— 1721 days  
+## :clock430: Today's Knowledge Points (2024.01.02) —— 1722 days  
  
   
 ### :camel: History
@@ -51,9 +51,8 @@
     …………  
 
 
-- 1720 days (2023.12.31)  
-    	 :one: [js] [如何使用Echarts实现饼图？](https://github.com/haizlin/fe-interview/issues/5683)  
- 
+- 1721 days (2024.01.01)  
+     
 	
 - **[All](category/history.md)**
 
