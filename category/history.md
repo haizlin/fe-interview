@@ -2,6 +2,10 @@
 
 
 
+- 第1723天 (2024-01-03)  
+    - [软技能] [说说你对Rust的了解？](https://github.com/haizlin/fe-interview/issues/5685)
+- 第1722天 (2024-01-02)  
+    - [html] [使用canvas制作一个无人机旋转特效](https://github.com/haizlin/fe-interview/issues/5684)
 - 第1720天 (2023-12-31)  
     - [js] [如何使用Echarts实现饼图？](https://github.com/haizlin/fe-interview/issues/5683)
 - 第1719天 (2023-12-30)  

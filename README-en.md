@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.01.02) —— 1722 days  
+## :clock430: Today's Knowledge Points (2024.01.03) —— 1723 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对Rust的了解？](https://github.com/haizlin/fe-interview/issues/5685)  
  
   
 ### :camel: History
@@ -51,8 +52,9 @@
     …………  
 
 
-- 1721 days (2024.01.01)  
-     
+- 1722 days (2024.01.02)  
+    	 :one: [html] [使用canvas制作一个无人机旋转特效](https://github.com/haizlin/fe-interview/issues/5684)  
+ 
 	
 - **[All](category/history.md)**
 
