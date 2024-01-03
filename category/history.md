@@ -2,6 +2,8 @@
 
 
 
+- 第1724天 (2024-01-04)  
+    - [软技能] [Rust在前端领域有哪些应用？](https://github.com/haizlin/fe-interview/issues/5686)
 - 第1723天 (2024-01-03)  
     - [软技能] [说说你对Rust的了解？](https://github.com/haizlin/fe-interview/issues/5685)
 - 第1722天 (2024-01-02)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.01.03) —— 第1723天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对Rust的了解？](https://github.com/haizlin/fe-interview/issues/5685)  
+## :clock430: 今天的知识点   (2024.01.04) —— 第1724天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [Rust在前端领域有哪些应用？](https://github.com/haizlin/fe-interview/issues/5686)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1722天 (2024.01.02)  
-    	 :one: [html] [使用canvas制作一个无人机旋转特效](https://github.com/haizlin/fe-interview/issues/5684)  
+- 第1723天 (2024.01.03)  
+    	 :one: [软技能] [说说你对Rust的了解？](https://github.com/haizlin/fe-interview/issues/5685)  
  
 	
 - **[查看全部](category/history.md)**
