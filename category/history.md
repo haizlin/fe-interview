@@ -2,6 +2,8 @@
 
 
 
+- 第1725天 (2024-01-05)  
+    - [软技能] [你觉得前端开发人员有必要学习Rust吗？](https://github.com/haizlin/fe-interview/issues/5687)
 - 第1724天 (2024-01-04)  
     - [软技能] [Rust在前端领域有哪些应用？](https://github.com/haizlin/fe-interview/issues/5686)
 - 第1723天 (2024-01-03)  
