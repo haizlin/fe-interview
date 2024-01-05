@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.01.05) —— 第1725天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你觉得前端开发人员有必要学习Rust吗？](https://github.com/haizlin/fe-interview/issues/5687)  
+## :clock430: 今天的知识点   (2024.01.06) —— 第1726天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你有使用过Rust写过什么应用吗？](https://github.com/haizlin/fe-interview/issues/5688)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1724天 (2024.01.04)  
-    	 :one: [软技能] [Rust在前端领域有哪些应用？](https://github.com/haizlin/fe-interview/issues/5686)  
+- 第1725天 (2024.01.05)  
+    	 :one: [软技能] [你觉得前端开发人员有必要学习Rust吗？](https://github.com/haizlin/fe-interview/issues/5687)  
  
 	
 - **[查看全部](category/history.md)**

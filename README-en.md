@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.01.05) —— 1725 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你觉得前端开发人员有必要学习Rust吗？](https://github.com/haizlin/fe-interview/issues/5687)  
+## :clock430: Today's Knowledge Points (2024.01.06) —— 1726 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你有使用过Rust写过什么应用吗？](https://github.com/haizlin/fe-interview/issues/5688)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1724 days (2024.01.04)  
-    	 :one: [skill] [Rust在前端领域有哪些应用？](https://github.com/haizlin/fe-interview/issues/5686)  
+- 1725 days (2024.01.05)  
+    	 :one: [skill] [你觉得前端开发人员有必要学习Rust吗？](https://github.com/haizlin/fe-interview/issues/5687)  
  
 	
 - **[All](category/history.md)**
