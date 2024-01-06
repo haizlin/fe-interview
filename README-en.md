@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.01.06) —— 1726 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你有使用过Rust写过什么应用吗？](https://github.com/haizlin/fe-interview/issues/5688)  
+## :clock430: Today's Knowledge Points (2024.01.07) —— 1727 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs是如何处理高并发的？](https://github.com/haizlin/fe-interview/issues/5689)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1725 days (2024.01.05)  
-    	 :one: [skill] [你觉得前端开发人员有必要学习Rust吗？](https://github.com/haizlin/fe-interview/issues/5687)  
+- 1726 days (2024.01.06)  
+    	 :one: [skill] [你有使用过Rust写过什么应用吗？](https://github.com/haizlin/fe-interview/issues/5688)  
  
 	
 - **[All](category/history.md)**

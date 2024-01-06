@@ -2,6 +2,8 @@
 
 
 
+- 第1727天 (2024-01-07)  
+    - [NodeJs] [Nodejs是如何处理高并发的？](https://github.com/haizlin/fe-interview/issues/5689)
 - 第1726天 (2024-01-06)  
     - [软技能] [你有使用过Rust写过什么应用吗？](https://github.com/haizlin/fe-interview/issues/5688)
 - 第1725天 (2024-01-05)  
