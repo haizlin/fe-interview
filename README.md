@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.01.07) —— 第1727天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [Nodejs是如何处理高并发的？](https://github.com/haizlin/fe-interview/issues/5689)  
+## :clock430: 今天的知识点   (2024.01.08) —— 第1728天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [2024年你觉得前端圈会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5690)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1726天 (2024.01.06)  
-    	 :one: [软技能] [你有使用过Rust写过什么应用吗？](https://github.com/haizlin/fe-interview/issues/5688)  
+- 第1727天 (2024.01.07)  
+    	 :one: [NodeJs] [Nodejs是如何处理高并发的？](https://github.com/haizlin/fe-interview/issues/5689)  
  
 	
 - **[查看全部](category/history.md)**

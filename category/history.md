@@ -2,6 +2,8 @@
 
 
 
+- 第1728天 (2024-01-08)  
+    - [软技能] [2024年你觉得前端圈会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5690)
 - 第1727天 (2024-01-07)  
     - [NodeJs] [Nodejs是如何处理高并发的？](https://github.com/haizlin/fe-interview/issues/5689)
 - 第1726天 (2024-01-06)  
