@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.01.08) —— 1728 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [2024年你觉得前端圈会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5690)  
+## :clock430: Today's Knowledge Points (2024.01.09) —— 1729 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对AIGC的了解](https://github.com/haizlin/fe-interview/issues/5691)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1727 days (2024.01.07)  
-    	 :one: [NodeJs] [Nodejs是如何处理高并发的？](https://github.com/haizlin/fe-interview/issues/5689)  
+- 1728 days (2024.01.08)  
+    	 :one: [skill] [2024年你觉得前端圈会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5690)  
  
 	
 - **[All](category/history.md)**

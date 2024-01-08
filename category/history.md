@@ -2,6 +2,8 @@
 
 
 
+- 第1729天 (2024-01-09)  
+    - [软技能] [说说你对AIGC的了解](https://github.com/haizlin/fe-interview/issues/5691)
 - 第1728天 (2024-01-08)  
     - [软技能] [2024年你觉得前端圈会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5690)
 - 第1727天 (2024-01-07)  
