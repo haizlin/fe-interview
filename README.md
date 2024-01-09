@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.01.09) —— 第1729天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对AIGC的了解](https://github.com/haizlin/fe-interview/issues/5691)  
+## :clock430: 今天的知识点   (2024.01.10) —— 第1730天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对隐私计算的了解](https://github.com/haizlin/fe-interview/issues/5692)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1728天 (2024.01.08)  
-    	 :one: [软技能] [2024年你觉得前端圈会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5690)  
+- 第1729天 (2024.01.09)  
+    	 :one: [软技能] [说说你对AIGC的了解](https://github.com/haizlin/fe-interview/issues/5691)  
  
 	
 - **[查看全部](category/history.md)**
