@@ -2,6 +2,8 @@
 
 
 
+- 第1731天 (2024-01-11)  
+    - [软技能] [说说你有画过哪些前端架构图？](https://github.com/haizlin/fe-interview/issues/5693)
 - 第1730天 (2024-01-10)  
     - [软技能] [说说你对隐私计算的了解](https://github.com/haizlin/fe-interview/issues/5692)
 - 第1729天 (2024-01-09)  

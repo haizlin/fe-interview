@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.01.10) —— 1730 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对隐私计算的了解](https://github.com/haizlin/fe-interview/issues/5692)  
+## :clock430: Today's Knowledge Points (2024.01.11) —— 1731 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你有画过哪些前端架构图？](https://github.com/haizlin/fe-interview/issues/5693)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1729 days (2024.01.09)  
-    	 :one: [skill] [说说你对AIGC的了解](https://github.com/haizlin/fe-interview/issues/5691)  
+- 1730 days (2024.01.10)  
+    	 :one: [skill] [说说你对隐私计算的了解](https://github.com/haizlin/fe-interview/issues/5692)  
  
 	
 - **[All](category/history.md)**
