@@ -2,6 +2,8 @@
 
 
 
+- 第1732天 (2024-01-12)  
+    - [js] [请使用javascript实现一套SWR机制](https://github.com/haizlin/fe-interview/issues/5694)
 - 第1731天 (2024-01-11)  
     - [软技能] [说说你有画过哪些前端架构图？](https://github.com/haizlin/fe-interview/issues/5693)
 - 第1730天 (2024-01-10)  
