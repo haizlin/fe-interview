@@ -2,6 +2,8 @@
 
 
 
+- 第1733天 (2024-01-13)  
+    - [软技能] [请说说什么是SWR？](https://github.com/haizlin/fe-interview/issues/5695)
 - 第1732天 (2024-01-12)  
     - [js] [请使用javascript实现一套SWR机制](https://github.com/haizlin/fe-interview/issues/5694)
 - 第1731天 (2024-01-11)  

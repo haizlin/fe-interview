@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.01.12) —— 第1732天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用javascript实现一套SWR机制](https://github.com/haizlin/fe-interview/issues/5694)  
+## :clock430: 今天的知识点   (2024.01.13) —— 第1733天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说什么是SWR？](https://github.com/haizlin/fe-interview/issues/5695)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1731天 (2024.01.11)  
-    	 :one: [软技能] [说说你有画过哪些前端架构图？](https://github.com/haizlin/fe-interview/issues/5693)  
+- 第1732天 (2024.01.12)  
+    	 :one: [js] [请使用javascript实现一套SWR机制](https://github.com/haizlin/fe-interview/issues/5694)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.01.12) —— 1732 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用javascript实现一套SWR机制](https://github.com/haizlin/fe-interview/issues/5694)  
+## :clock430: Today's Knowledge Points (2024.01.13) —— 1733 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说什么是SWR？](https://github.com/haizlin/fe-interview/issues/5695)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1731 days (2024.01.11)  
-    	 :one: [skill] [说说你有画过哪些前端架构图？](https://github.com/haizlin/fe-interview/issues/5693)  
+- 1732 days (2024.01.12)  
+    	 :one: [js] [请使用javascript实现一套SWR机制](https://github.com/haizlin/fe-interview/issues/5694)  
  
 	
 - **[All](category/history.md)**
