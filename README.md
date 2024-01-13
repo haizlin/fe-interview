@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.01.13) —— 第1733天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说什么是SWR？](https://github.com/haizlin/fe-interview/issues/5695)  
+## :clock430: 今天的知识点   (2024.01.14) —— 第1734天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1732天 (2024.01.12)  
-    	 :one: [js] [请使用javascript实现一套SWR机制](https://github.com/haizlin/fe-interview/issues/5694)  
+- 第1733天 (2024.01.13)  
+    	 :one: [软技能] [请说说什么是SWR？](https://github.com/haizlin/fe-interview/issues/5695)  
  
 	
 - **[查看全部](category/history.md)**
