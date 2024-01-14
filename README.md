@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.01.14) —— 第1734天  
+## :clock430: 今天的知识点   (2024.01.15) —— 第1735天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [请说说jQeury与Vue有哪些区别？](https://github.com/haizlin/fe-interview/issues/5697)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1733天 (2024.01.13)  
-    	 :one: [软技能] [请说说什么是SWR？](https://github.com/haizlin/fe-interview/issues/5695)  
+- 第1734天 (2024.01.14)  
+    	 :one: [vue] [在vue里如何使用jQuery的插件？](https://github.com/haizlin/fe-interview/issues/5696)  
  
 	
 - **[查看全部](category/history.md)**

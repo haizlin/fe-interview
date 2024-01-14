@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.01.14) —— 1734 days  
+## :clock430: Today's Knowledge Points (2024.01.15) —— 1735 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [请说说jQeury与Vue有哪些区别？](https://github.com/haizlin/fe-interview/issues/5697)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1733 days (2024.01.13)  
-    	 :one: [skill] [请说说什么是SWR？](https://github.com/haizlin/fe-interview/issues/5695)  
+- 1734 days (2024.01.14)  
+    	 :one: [vue] [在vue里如何使用jQuery的插件？](https://github.com/haizlin/fe-interview/issues/5696)  
  
 	
 - **[All](category/history.md)**

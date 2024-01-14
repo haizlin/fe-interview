@@ -2,6 +2,10 @@
 
 
 
+- 第1735天 (2024-01-15)  
+    - [jQuery] [请说说jQeury与Vue有哪些区别？](https://github.com/haizlin/fe-interview/issues/5697)
+- 第1734天 (2024-01-14)  
+    - [vue] [在vue里如何使用jQuery的插件？](https://github.com/haizlin/fe-interview/issues/5696)
 - 第1733天 (2024-01-13)  
     - [软技能] [请说说什么是SWR？](https://github.com/haizlin/fe-interview/issues/5695)
 - 第1732天 (2024-01-12)  
