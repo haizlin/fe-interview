@@ -2,6 +2,8 @@
 
 
 
+- 第1736天 (2024-01-16)  
+    - [jQuery] [jQuery的组件如何快速转换为Vue的组件？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5698)
 - 第1735天 (2024-01-15)  
     - [jQuery] [请说说jQeury与Vue有哪些区别？](https://github.com/haizlin/fe-interview/issues/5697)
 - 第1734天 (2024-01-14)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.01.15) —— 第1735天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [请说说jQeury与Vue有哪些区别？](https://github.com/haizlin/fe-interview/issues/5697)  
+## :clock430: 今天的知识点   (2024.01.16) —— 第1736天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery的组件如何快速转换为Vue的组件？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5698)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1734天 (2024.01.14)  
-    	 :one: [vue] [在vue里如何使用jQuery的插件？](https://github.com/haizlin/fe-interview/issues/5696)  
+- 第1735天 (2024.01.15)  
+    	 :one: [jQuery] [请说说jQeury与Vue有哪些区别？](https://github.com/haizlin/fe-interview/issues/5697)  
  
 	
 - **[查看全部](category/history.md)**
