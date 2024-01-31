@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.01.16) —— 第1736天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery的组件如何快速转换为Vue的组件？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5698)  
+## :clock430: 今天的知识点   (2024.02.01) —— 第1752天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端播放mp3音乐时，如何显示播放的波形图？](https://github.com/haizlin/fe-interview/issues/5714)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1735天 (2024.01.15)  
-    	 :one: [jQuery] [请说说jQeury与Vue有哪些区别？](https://github.com/haizlin/fe-interview/issues/5697)  
+- 第1751天 (2024.01.31)  
+    	 :one: [软技能] [前端如何播放aac的音频文件？有什么方法？](https://github.com/haizlin/fe-interview/issues/5713)  
  
 	
 - **[查看全部](category/history.md)**

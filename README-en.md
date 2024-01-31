@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.01.16) —— 1736 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery的组件如何快速转换为Vue的组件？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5698)  
+## :clock430: Today's Knowledge Points (2024.02.01) —— 1752 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端播放mp3音乐时，如何显示播放的波形图？](https://github.com/haizlin/fe-interview/issues/5714)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1735 days (2024.01.15)  
-    	 :one: [jQuery] [请说说jQeury与Vue有哪些区别？](https://github.com/haizlin/fe-interview/issues/5697)  
+- 1751 days (2024.01.31)  
+    	 :one: [skill] [前端如何播放aac的音频文件？有什么方法？](https://github.com/haizlin/fe-interview/issues/5713)  
  
 	
 - **[All](category/history.md)**
