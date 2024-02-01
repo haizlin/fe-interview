@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.01) —— 第1752天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端播放mp3音乐时，如何显示播放的波形图？](https://github.com/haizlin/fe-interview/issues/5714)  
+## :clock430: 今天的知识点   (2024.02.02) —— 第1753天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端如何将pcm转为wav音频？](https://github.com/haizlin/fe-interview/issues/5715)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1751天 (2024.01.31)  
-    	 :one: [软技能] [前端如何播放aac的音频文件？有什么方法？](https://github.com/haizlin/fe-interview/issues/5713)  
+- 第1752天 (2024.02.01)  
+    	 :one: [软技能] [前端播放mp3音乐时，如何显示播放的波形图？](https://github.com/haizlin/fe-interview/issues/5714)  
  
 	
 - **[查看全部](category/history.md)**

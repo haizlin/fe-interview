@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.01) —— 1752 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端播放mp3音乐时，如何显示播放的波形图？](https://github.com/haizlin/fe-interview/issues/5714)  
+## :clock430: Today's Knowledge Points (2024.02.02) —— 1753 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端如何将pcm转为wav音频？](https://github.com/haizlin/fe-interview/issues/5715)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1751 days (2024.01.31)  
-    	 :one: [skill] [前端如何播放aac的音频文件？有什么方法？](https://github.com/haizlin/fe-interview/issues/5713)  
+- 1752 days (2024.02.01)  
+    	 :one: [skill] [前端播放mp3音乐时，如何显示播放的波形图？](https://github.com/haizlin/fe-interview/issues/5714)  
  
 	
 - **[All](category/history.md)**

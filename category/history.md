@@ -2,6 +2,8 @@
 
 
 
+- 第1753天 (2024-02-02)  
+    - [软技能] [前端如何将pcm转为wav音频？](https://github.com/haizlin/fe-interview/issues/5715)
 - 第1752天 (2024-02-01)  
     - [软技能] [前端播放mp3音乐时，如何显示播放的波形图？](https://github.com/haizlin/fe-interview/issues/5714)
 - 第1751天 (2024-01-31)  
