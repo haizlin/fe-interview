@@ -2,6 +2,8 @@
 
 
 
+- 第1754天 (2024-02-03)  
+    - [js] [如何同时管理多个版本的node](https://github.com/haizlin/fe-interview/issues/5716)
 - 第1753天 (2024-02-02)  
     - [软技能] [前端如何将pcm转为wav音频？](https://github.com/haizlin/fe-interview/issues/5715)
 - 第1752天 (2024-02-01)  
