@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.03) —— 1754 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何同时管理多个版本的node](https://github.com/haizlin/fe-interview/issues/5716)  
+## :clock430: Today's Knowledge Points (2024.02.04) —— 1755 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1753 days (2024.02.02)  
-    	 :one: [skill] [前端如何将pcm转为wav音频？](https://github.com/haizlin/fe-interview/issues/5715)  
+- 1754 days (2024.02.03)  
+    	 :one: [js] [如何同时管理多个版本的node](https://github.com/haizlin/fe-interview/issues/5716)  
  
 	
 - **[All](category/history.md)**

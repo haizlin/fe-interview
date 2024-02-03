@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.03) —— 第1754天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何同时管理多个版本的node](https://github.com/haizlin/fe-interview/issues/5716)  
+## :clock430: 今天的知识点   (2024.02.04) —— 第1755天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1753天 (2024.02.02)  
-    	 :one: [软技能] [前端如何将pcm转为wav音频？](https://github.com/haizlin/fe-interview/issues/5715)  
+- 第1754天 (2024.02.03)  
+    	 :one: [js] [如何同时管理多个版本的node](https://github.com/haizlin/fe-interview/issues/5716)  
  
 	
 - **[查看全部](category/history.md)**
