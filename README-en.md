@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.05) —— 1756 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请解释下width:auto与width:100%的区别？](https://github.com/haizlin/fe-interview/issues/5718)  
+## :clock430: Today's Knowledge Points (2024.02.06) —— 1757 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1755 days (2024.02.04)  
-    	 :one: [css] [使用CSS3制作一个圆形徽章](https://github.com/haizlin/fe-interview/issues/5717)  
+- 1756 days (2024.02.05)  
+    	 :one: [css] [请解释下width:auto与width:100%的区别？](https://github.com/haizlin/fe-interview/issues/5718)  
  
 	
 - **[All](category/history.md)**

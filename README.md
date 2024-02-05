@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.05) —— 第1756天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [请解释下width:auto与width:100%的区别？](https://github.com/haizlin/fe-interview/issues/5718)  
+## :clock430: 今天的知识点   (2024.02.06) —— 第1757天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1755天 (2024.02.04)  
-    	 :one: [css] [使用CSS3制作一个圆形徽章](https://github.com/haizlin/fe-interview/issues/5717)  
+- 第1756天 (2024.02.05)  
+    	 :one: [css] [请解释下width:auto与width:100%的区别？](https://github.com/haizlin/fe-interview/issues/5718)  
  
 	
 - **[查看全部](category/history.md)**
