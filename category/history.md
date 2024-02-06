@@ -2,6 +2,10 @@
 
 
 
+- 第1758天 (2024-02-07)  
+    - [软技能] [2024年前端将会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5720)
+- 第1757天 (2024-02-06)  
+    - [软技能] [请说说什么是同构渲染？](https://github.com/haizlin/fe-interview/issues/5719)
 - 第1756天 (2024-02-05)  
     - [css] [请解释下width:auto与width:100%的区别？](https://github.com/haizlin/fe-interview/issues/5718)
 - 第1755天 (2024-02-04)  

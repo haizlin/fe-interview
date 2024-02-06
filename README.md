@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.06) —— 第1757天  
+## :clock430: 今天的知识点   (2024.02.07) —— 第1758天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [2024年前端将会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5720)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1756天 (2024.02.05)  
-    	 :one: [css] [请解释下width:auto与width:100%的区别？](https://github.com/haizlin/fe-interview/issues/5718)  
+- 第1757天 (2024.02.06)  
+    	 :one: [软技能] [请说说什么是同构渲染？](https://github.com/haizlin/fe-interview/issues/5719)  
  
 	
 - **[查看全部](category/history.md)**
