@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.07) —— 1758 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [2024年前端将会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5720)  
+## :clock430: Today's Knowledge Points (2024.02.08) —— 1759 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1757 days (2024.02.06)  
-    	 :one: [skill] [请说说什么是同构渲染？](https://github.com/haizlin/fe-interview/issues/5719)  
+- 1758 days (2024.02.07)  
+    	 :one: [skill] [2024年前端将会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5720)  
  
 	
 - **[All](category/history.md)**
