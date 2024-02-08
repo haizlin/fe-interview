@@ -2,6 +2,8 @@
 
 
 
+- 第1759天 (2024-02-08)  
+    - [软技能] [你有做过鸿蒙相关开发吗？](https://github.com/haizlin/fe-interview/issues/5721)
 - 第1758天 (2024-02-07)  
     - [软技能] [2024年前端将会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5720)
 - 第1757天 (2024-02-06)  
