@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.09) —— 1760 days  
+## :clock430: Today's Knowledge Points (2024.02.10) —— 1761 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1759 days (2024.02.08)  
-    	 :one: [skill] [你有做过鸿蒙相关开发吗？](https://github.com/haizlin/fe-interview/issues/5721)  
+- 1760 days (2024.02.09)  
+    	 :one: [css] [使用css3制作一个“龙”字](https://github.com/haizlin/fe-interview/issues/5722)  
  
 	
 - **[All](category/history.md)**

@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.09) —— 第1760天  
+## :clock430: 今天的知识点   (2024.02.10) —— 第1761天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1759天 (2024.02.08)  
-    	 :one: [软技能] [你有做过鸿蒙相关开发吗？](https://github.com/haizlin/fe-interview/issues/5721)  
+- 第1760天 (2024.02.09)  
+    	 :one: [css] [使用css3制作一个“龙”字](https://github.com/haizlin/fe-interview/issues/5722)  
  
 	
 - **[查看全部](category/history.md)**
