@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.10) —— 第1761天  
+## :clock430: 今天的知识点   (2024.02.11) —— 第1762天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [为什么建议使用void 0代替undefined？](https://github.com/haizlin/fe-interview/issues/5724)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1760天 (2024.02.09)  
-    	 :one: [css] [使用css3制作一个“龙”字](https://github.com/haizlin/fe-interview/issues/5722)  
+- 第1761天 (2024.02.10)  
+    	 :one: [vue] [vue3移除了哪些特性？](https://github.com/haizlin/fe-interview/issues/5723)  
  
 	
 - **[查看全部](category/history.md)**

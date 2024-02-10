@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.10) —— 1761 days  
+## :clock430: Today's Knowledge Points (2024.02.11) —— 1762 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [为什么建议使用void 0代替undefined？](https://github.com/haizlin/fe-interview/issues/5724)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1760 days (2024.02.09)  
-    	 :one: [css] [使用css3制作一个“龙”字](https://github.com/haizlin/fe-interview/issues/5722)  
+- 1761 days (2024.02.10)  
+    	 :one: [vue] [vue3移除了哪些特性？](https://github.com/haizlin/fe-interview/issues/5723)  
  
 	
 - **[All](category/history.md)**

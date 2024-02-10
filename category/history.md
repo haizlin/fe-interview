@@ -2,6 +2,10 @@
 
 
 
+- 第1762天 (2024-02-11)  
+    - [js] [为什么建议使用void 0代替undefined？](https://github.com/haizlin/fe-interview/issues/5724)
+- 第1761天 (2024-02-10)  
+    - [vue] [vue3移除了哪些特性？](https://github.com/haizlin/fe-interview/issues/5723)
 - 第1760天 (2024-02-09)  
     - [css] [使用css3制作一个“龙”字](https://github.com/haizlin/fe-interview/issues/5722)
 - 第1759天 (2024-02-08)  
