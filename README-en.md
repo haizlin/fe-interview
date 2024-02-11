@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.11) —— 1762 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [为什么建议使用void 0代替undefined？](https://github.com/haizlin/fe-interview/issues/5724)  
+## :clock430: Today's Knowledge Points (2024.02.12) —— 1763 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请问void 0 === void 9结果是什么？](https://github.com/haizlin/fe-interview/issues/5725)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1761 days (2024.02.10)  
-    	 :one: [vue] [vue3移除了哪些特性？](https://github.com/haizlin/fe-interview/issues/5723)  
+- 1762 days (2024.02.11)  
+    	 :one: [js] [为什么建议使用void 0代替undefined？](https://github.com/haizlin/fe-interview/issues/5724)  
  
 	
 - **[All](category/history.md)**
