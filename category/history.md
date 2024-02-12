@@ -2,6 +2,8 @@
 
 
 
+- 第1764天 (2024-02-13)  
+    - [js] [为什么使用void 0而不是使用void 9？](https://github.com/haizlin/fe-interview/issues/5726)
 - 第1763天 (2024-02-12)  
     - [js] [请问void 0 === void 9结果是什么？](https://github.com/haizlin/fe-interview/issues/5725)
 - 第1762天 (2024-02-11)  
