@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.13) —— 第1764天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [为什么使用void 0而不是使用void 9？](https://github.com/haizlin/fe-interview/issues/5726)  
+## :clock430: 今天的知识点   (2024.02.14) —— 第1765天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1763天 (2024.02.12)  
-    	 :one: [js] [请问void 0 === void 9结果是什么？](https://github.com/haizlin/fe-interview/issues/5725)  
+- 第1764天 (2024.02.13)  
+    	 :one: [js] [为什么使用void 0而不是使用void 9？](https://github.com/haizlin/fe-interview/issues/5726)  
  
 	
 - **[查看全部](category/history.md)**
