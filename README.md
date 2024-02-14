@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.14) —— 第1765天  
+## :clock430: 今天的知识点   (2024.02.15) —— 第1766天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1764天 (2024.02.13)  
-    	 :one: [js] [为什么使用void 0而不是使用void 9？](https://github.com/haizlin/fe-interview/issues/5726)  
+- 第1765天 (2024.02.14)  
+    	 :one: [vue] [vue2项目升级为vue3，有哪些需要修改的？](https://github.com/haizlin/fe-interview/issues/5727)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.14) —— 1765 days  
+## :clock430: Today's Knowledge Points (2024.02.15) —— 1766 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1764 days (2024.02.13)  
-    	 :one: [js] [为什么使用void 0而不是使用void 9？](https://github.com/haizlin/fe-interview/issues/5726)  
+- 1765 days (2024.02.14)  
+    	 :one: [vue] [vue2项目升级为vue3，有哪些需要修改的？](https://github.com/haizlin/fe-interview/issues/5727)  
  
 	
 - **[All](category/history.md)**

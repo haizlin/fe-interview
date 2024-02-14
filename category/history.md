@@ -2,6 +2,8 @@
 
 
 
+- 第1765天 (2024-02-14)  
+    - [vue] [vue2项目升级为vue3，有哪些需要修改的？](https://github.com/haizlin/fe-interview/issues/5727)
 - 第1764天 (2024-02-13)  
     - [js] [为什么使用void 0而不是使用void 9？](https://github.com/haizlin/fe-interview/issues/5726)
 - 第1763天 (2024-02-12)  
