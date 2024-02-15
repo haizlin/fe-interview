@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.15) —— 第1766天  
+## :clock430: 今天的知识点   (2024.02.16) —— 第1767天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1765天 (2024.02.14)  
-    	 :one: [vue] [vue2项目升级为vue3，有哪些需要修改的？](https://github.com/haizlin/fe-interview/issues/5727)  
+- 第1766天 (2024.02.15)  
+    	 :one: [vue] [说说到vue4时，将会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5728)  
  
 	
 - **[查看全部](category/history.md)**
