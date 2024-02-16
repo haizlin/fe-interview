@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.16) —— 第1767天  
+## :clock430: 今天的知识点   (2024.02.17) —— 第1768天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1766天 (2024.02.15)  
-    	 :one: [vue] [说说到vue4时，将会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5728)  
+- 第1767天 (2024.02.16)  
+    	 :one: [js] [javascript如何判断浏览器是否支持严格模式？](https://github.com/haizlin/fe-interview/issues/5729)  
  
 	
 - **[查看全部](category/history.md)**

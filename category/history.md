@@ -2,6 +2,8 @@
 
 
 
+- 第1767天 (2024-02-16)  
+    - [js] [javascript如何判断浏览器是否支持严格模式？](https://github.com/haizlin/fe-interview/issues/5729)
 - 第1766天 (2024-02-15)  
     - [vue] [说说到vue4时，将会有哪些变化？](https://github.com/haizlin/fe-interview/issues/5728)
 - 第1765天 (2024-02-14)  
