@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.17) —— 1768 days  
+## :clock430: Today's Knowledge Points (2024.02.18) —— 1769 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用javascript实现一个popup](https://github.com/haizlin/fe-interview/issues/5731)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1767 days (2024.02.16)  
-    	 :one: [js] [javascript如何判断浏览器是否支持严格模式？](https://github.com/haizlin/fe-interview/issues/5729)  
+- 1768 days (2024.02.17)  
+    	 :one: [js] [javascript设置"严格模式"有什么目的？](https://github.com/haizlin/fe-interview/issues/5730)  
  
 	
 - **[All](category/history.md)**

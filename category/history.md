@@ -2,6 +2,10 @@
 
 
 
+- 第1769天 (2024-02-18)  
+    - [js] [使用javascript实现一个popup](https://github.com/haizlin/fe-interview/issues/5731)
+- 第1768天 (2024-02-17)  
+    - [js] [javascript设置"严格模式"有什么目的？](https://github.com/haizlin/fe-interview/issues/5730)
 - 第1767天 (2024-02-16)  
     - [js] [javascript如何判断浏览器是否支持严格模式？](https://github.com/haizlin/fe-interview/issues/5729)
 - 第1766天 (2024-02-15)  
