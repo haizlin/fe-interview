@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.18) —— 第1769天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用javascript实现一个popup](https://github.com/haizlin/fe-interview/issues/5731)  
+## :clock430: 今天的知识点   (2024.02.19) —— 第1770天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中isolation的了解](https://github.com/haizlin/fe-interview/issues/5732)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1768天 (2024.02.17)  
-    	 :one: [js] [javascript设置"严格模式"有什么目的？](https://github.com/haizlin/fe-interview/issues/5730)  
+- 第1769天 (2024.02.18)  
+    	 :one: [js] [使用javascript实现一个popup](https://github.com/haizlin/fe-interview/issues/5731)  
  
 	
 - **[查看全部](category/history.md)**

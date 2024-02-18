@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.18) —— 1769 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用javascript实现一个popup](https://github.com/haizlin/fe-interview/issues/5731)  
+## :clock430: Today's Knowledge Points (2024.02.19) —— 1770 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中isolation的了解](https://github.com/haizlin/fe-interview/issues/5732)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1768 days (2024.02.17)  
-    	 :one: [js] [javascript设置"严格模式"有什么目的？](https://github.com/haizlin/fe-interview/issues/5730)  
+- 1769 days (2024.02.18)  
+    	 :one: [js] [使用javascript实现一个popup](https://github.com/haizlin/fe-interview/issues/5731)  
  
 	
 - **[All](category/history.md)**

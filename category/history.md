@@ -2,6 +2,8 @@
 
 
 
+- 第1770天 (2024-02-19)  
+    - [css] [说说你对css中isolation的了解](https://github.com/haizlin/fe-interview/issues/5732)
 - 第1769天 (2024-02-18)  
     - [js] [使用javascript实现一个popup](https://github.com/haizlin/fe-interview/issues/5731)
 - 第1768天 (2024-02-17)  
