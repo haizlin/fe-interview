@@ -2,6 +2,8 @@
 
 
 
+- 第1771天 (2024-02-20)  
+    - [css] [说说你对css中font-variant-numeric的了解](https://github.com/haizlin/fe-interview/issues/5733)
 - 第1770天 (2024-02-19)  
     - [css] [说说你对css中isolation的了解](https://github.com/haizlin/fe-interview/issues/5732)
 - 第1769天 (2024-02-18)  

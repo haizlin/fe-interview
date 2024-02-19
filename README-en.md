@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.19) —— 1770 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中isolation的了解](https://github.com/haizlin/fe-interview/issues/5732)  
+## :clock430: Today's Knowledge Points (2024.02.20) —— 1771 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中font-variant-numeric的了解](https://github.com/haizlin/fe-interview/issues/5733)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1769 days (2024.02.18)  
-    	 :one: [js] [使用javascript实现一个popup](https://github.com/haizlin/fe-interview/issues/5731)  
+- 1770 days (2024.02.19)  
+    	 :one: [css] [说说你对css中isolation的了解](https://github.com/haizlin/fe-interview/issues/5732)  
  
 	
 - **[All](category/history.md)**
