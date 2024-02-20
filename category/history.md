@@ -2,6 +2,8 @@
 
 
 
+- 第1772天 (2024-02-21)  
+    - [css] [说说你对css中scroll-padding-top的了解](https://github.com/haizlin/fe-interview/issues/5734)
 - 第1771天 (2024-02-20)  
     - [css] [说说你对css中font-variant-numeric的了解](https://github.com/haizlin/fe-interview/issues/5733)
 - 第1770天 (2024-02-19)  
