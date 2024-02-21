@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.21) —— 第1772天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中scroll-padding-top的了解](https://github.com/haizlin/fe-interview/issues/5734)  
+## :clock430: 今天的知识点   (2024.02.22) —— 第1773天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [如何使用css实现点击子元素时，整段文字被选中？](https://github.com/haizlin/fe-interview/issues/5735)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1771天 (2024.02.20)  
-    	 :one: [css] [说说你对css中font-variant-numeric的了解](https://github.com/haizlin/fe-interview/issues/5733)  
+- 第1772天 (2024.02.21)  
+    	 :one: [css] [说说你对css中scroll-padding-top的了解](https://github.com/haizlin/fe-interview/issues/5734)  
  
 	
 - **[查看全部](category/history.md)**

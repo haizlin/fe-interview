@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.21) —— 1772 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中scroll-padding-top的了解](https://github.com/haizlin/fe-interview/issues/5734)  
+## :clock430: Today's Knowledge Points (2024.02.22) —— 1773 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [如何使用css实现点击子元素时，整段文字被选中？](https://github.com/haizlin/fe-interview/issues/5735)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1771 days (2024.02.20)  
-    	 :one: [css] [说说你对css中font-variant-numeric的了解](https://github.com/haizlin/fe-interview/issues/5733)  
+- 1772 days (2024.02.21)  
+    	 :one: [css] [说说你对css中scroll-padding-top的了解](https://github.com/haizlin/fe-interview/issues/5734)  
  
 	
 - **[All](category/history.md)**
