@@ -2,6 +2,8 @@
 
 
 
+- 第1774天 (2024-02-23)  
+    - [css] [说说你对css中font-variant-east-asian的了解](https://github.com/haizlin/fe-interview/issues/5736)
 - 第1773天 (2024-02-22)  
     - [css] [如何使用css实现点击子元素时，整段文字被选中？](https://github.com/haizlin/fe-interview/issues/5735)
 - 第1772天 (2024-02-21)  
