@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.24) —— 第1775天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中-webkit-box-reflect的了解](https://github.com/haizlin/fe-interview/issues/5737)  
+## :clock430: 今天的知识点   (2024.02.25) —— 第1776天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中color-scheme的了解](https://github.com/haizlin/fe-interview/issues/5738)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1774天 (2024.02.23)  
-    	 :one: [css] [说说你对css中font-variant-east-asian的了解](https://github.com/haizlin/fe-interview/issues/5736)  
+- 第1775天 (2024.02.24)  
+    	 :one: [css] [说说你对css中-webkit-box-reflect的了解](https://github.com/haizlin/fe-interview/issues/5737)  
  
 	
 - **[查看全部](category/history.md)**
