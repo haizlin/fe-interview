@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.25) —— 1776 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中color-scheme的了解](https://github.com/haizlin/fe-interview/issues/5738)  
+## :clock430: Today's Knowledge Points (2024.02.26) —— 1777 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中object-position的了解](https://github.com/haizlin/fe-interview/issues/5739)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1775 days (2024.02.24)  
-    	 :one: [css] [说说你对css中-webkit-box-reflect的了解](https://github.com/haizlin/fe-interview/issues/5737)  
+- 1776 days (2024.02.25)  
+    	 :one: [css] [说说你对css中color-scheme的了解](https://github.com/haizlin/fe-interview/issues/5738)  
  
 	
 - **[All](category/history.md)**
