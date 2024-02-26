@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.02.26) —— 1777 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [说说你对css中object-position的了解](https://github.com/haizlin/fe-interview/issues/5739)  
+## :clock430: Today's Knowledge Points (2024.02.27) —— 1778 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [微前端有哪些架构？](https://github.com/haizlin/fe-interview/issues/5740)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1776 days (2024.02.25)  
-    	 :one: [css] [说说你对css中color-scheme的了解](https://github.com/haizlin/fe-interview/issues/5738)  
+- 1777 days (2024.02.26)  
+    	 :one: [css] [说说你对css中object-position的了解](https://github.com/haizlin/fe-interview/issues/5739)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1778天 (2024-02-27)  
+    - [软技能] [微前端有哪些架构？](https://github.com/haizlin/fe-interview/issues/5740)
 - 第1777天 (2024-02-26)  
     - [css] [说说你对css中object-position的了解](https://github.com/haizlin/fe-interview/issues/5739)
 - 第1776天 (2024-02-25)  
