@@ -2,6 +2,8 @@
 
 
 
+- 第1779天 (2024-02-28)  
+    - [软技能] [你认为好的代码应该是怎么样的？](https://github.com/haizlin/fe-interview/issues/5741)
 - 第1778天 (2024-02-27)  
     - [软技能] [微前端有哪些架构？](https://github.com/haizlin/fe-interview/issues/5740)
 - 第1777天 (2024-02-26)  

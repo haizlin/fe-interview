@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.27) —— 第1778天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [微前端有哪些架构？](https://github.com/haizlin/fe-interview/issues/5740)  
+## :clock430: 今天的知识点   (2024.02.28) —— 第1779天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你认为好的代码应该是怎么样的？](https://github.com/haizlin/fe-interview/issues/5741)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1777天 (2024.02.26)  
-    	 :one: [css] [说说你对css中object-position的了解](https://github.com/haizlin/fe-interview/issues/5739)  
+- 第1778天 (2024.02.27)  
+    	 :one: [软技能] [微前端有哪些架构？](https://github.com/haizlin/fe-interview/issues/5740)  
  
 	
 - **[查看全部](category/history.md)**
