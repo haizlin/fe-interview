@@ -2,6 +2,8 @@
 
 
 
+- 第1780天 (2024-02-29)  
+    - [软技能] [微前端是如何实现作用域隔离的？](https://github.com/haizlin/fe-interview/issues/5742)
 - 第1779天 (2024-02-28)  
     - [软技能] [你认为好的代码应该是怎么样的？](https://github.com/haizlin/fe-interview/issues/5741)
 - 第1778天 (2024-02-27)  
