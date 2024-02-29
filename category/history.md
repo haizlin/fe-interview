@@ -2,6 +2,8 @@
 
 
 
+- 第1781天 (2024-03-01)  
+    - [软技能] [你是如何看待区块链这个行业的？](https://github.com/haizlin/fe-interview/issues/5743)
 - 第1780天 (2024-02-29)  
     - [软技能] [微前端是如何实现作用域隔离的？](https://github.com/haizlin/fe-interview/issues/5742)
 - 第1779天 (2024-02-28)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.02.29) —— 第1780天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [微前端是如何实现作用域隔离的？](https://github.com/haizlin/fe-interview/issues/5742)  
+## :clock430: 今天的知识点   (2024.03.01) —— 第1781天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你是如何看待区块链这个行业的？](https://github.com/haizlin/fe-interview/issues/5743)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1779天 (2024.02.28)  
-    	 :one: [软技能] [你认为好的代码应该是怎么样的？](https://github.com/haizlin/fe-interview/issues/5741)  
+- 第1780天 (2024.02.29)  
+    	 :one: [软技能] [微前端是如何实现作用域隔离的？](https://github.com/haizlin/fe-interview/issues/5742)  
  
 	
 - **[查看全部](category/history.md)**
