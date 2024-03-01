@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.01) —— 1781 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你是如何看待区块链这个行业的？](https://github.com/haizlin/fe-interview/issues/5743)  
+## :clock430: Today's Knowledge Points (2024.03.02) —— 1782 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你觉得之前的工作强度怎样？](https://github.com/haizlin/fe-interview/issues/5744)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1780 days (2024.02.29)  
-    	 :one: [skill] [微前端是如何实现作用域隔离的？](https://github.com/haizlin/fe-interview/issues/5742)  
+- 1781 days (2024.03.01)  
+    	 :one: [skill] [你是如何看待区块链这个行业的？](https://github.com/haizlin/fe-interview/issues/5743)  
  
 	
 - **[All](category/history.md)**

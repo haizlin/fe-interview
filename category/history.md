@@ -2,6 +2,8 @@
 
 
 
+- 第1782天 (2024-03-02)  
+    - [软技能] [你觉得之前的工作强度怎样？](https://github.com/haizlin/fe-interview/issues/5744)
 - 第1781天 (2024-03-01)  
     - [软技能] [你是如何看待区块链这个行业的？](https://github.com/haizlin/fe-interview/issues/5743)
 - 第1780天 (2024-02-29)  
