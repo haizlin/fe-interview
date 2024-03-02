@@ -2,6 +2,8 @@
 
 
 
+- 第1783天 (2024-03-03)  
+    - [软技能] [你认为什么样的工作强度是你适应的？](https://github.com/haizlin/fe-interview/issues/5745)
 - 第1782天 (2024-03-02)  
     - [软技能] [你觉得之前的工作强度怎样？](https://github.com/haizlin/fe-interview/issues/5744)
 - 第1781天 (2024-03-01)  

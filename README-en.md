@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.02) —— 1782 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你觉得之前的工作强度怎样？](https://github.com/haizlin/fe-interview/issues/5744)  
+## :clock430: Today's Knowledge Points (2024.03.03) —— 1783 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你认为什么样的工作强度是你适应的？](https://github.com/haizlin/fe-interview/issues/5745)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1781 days (2024.03.01)  
-    	 :one: [skill] [你是如何看待区块链这个行业的？](https://github.com/haizlin/fe-interview/issues/5743)  
+- 1782 days (2024.03.02)  
+    	 :one: [skill] [你觉得之前的工作强度怎样？](https://github.com/haizlin/fe-interview/issues/5744)  
  
 	
 - **[All](category/history.md)**
