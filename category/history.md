@@ -2,6 +2,8 @@
 
 
 
+- 第1784天 (2024-03-04)  
+    - [软技能] [低代码的设计思路有哪些？](https://github.com/haizlin/fe-interview/issues/5746)
 - 第1783天 (2024-03-03)  
     - [软技能] [你认为什么样的工作强度是你适应的？](https://github.com/haizlin/fe-interview/issues/5745)
 - 第1782天 (2024-03-02)  

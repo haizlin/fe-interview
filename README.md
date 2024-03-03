@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.03) —— 第1783天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你认为什么样的工作强度是你适应的？](https://github.com/haizlin/fe-interview/issues/5745)  
+## :clock430: 今天的知识点   (2024.03.04) —— 第1784天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [低代码的设计思路有哪些？](https://github.com/haizlin/fe-interview/issues/5746)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1782天 (2024.03.02)  
-    	 :one: [软技能] [你觉得之前的工作强度怎样？](https://github.com/haizlin/fe-interview/issues/5744)  
+- 第1783天 (2024.03.03)  
+    	 :one: [软技能] [你认为什么样的工作强度是你适应的？](https://github.com/haizlin/fe-interview/issues/5745)  
  
 	
 - **[查看全部](category/history.md)**
