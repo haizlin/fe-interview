@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.04) —— 1784 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [低代码的设计思路有哪些？](https://github.com/haizlin/fe-interview/issues/5746)  
+## :clock430: Today's Knowledge Points (2024.03.05) —— 1785 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端如何收集日志？](https://github.com/haizlin/fe-interview/issues/5747)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1783 days (2024.03.03)  
-    	 :one: [skill] [你认为什么样的工作强度是你适应的？](https://github.com/haizlin/fe-interview/issues/5745)  
+- 1784 days (2024.03.04)  
+    	 :one: [skill] [低代码的设计思路有哪些？](https://github.com/haizlin/fe-interview/issues/5746)  
  
 	
 - **[All](category/history.md)**

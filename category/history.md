@@ -2,6 +2,8 @@
 
 
 
+- 第1785天 (2024-03-05)  
+    - [软技能] [前端如何收集日志？](https://github.com/haizlin/fe-interview/issues/5747)
 - 第1784天 (2024-03-04)  
     - [软技能] [低代码的设计思路有哪些？](https://github.com/haizlin/fe-interview/issues/5746)
 - 第1783天 (2024-03-03)  
