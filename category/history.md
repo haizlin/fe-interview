@@ -2,6 +2,8 @@
 
 
 
+- 第1786天 (2024-03-06)  
+    - [软技能] [说说你对瓦片图的了解](https://github.com/haizlin/fe-interview/issues/5748)
 - 第1785天 (2024-03-05)  
     - [软技能] [前端如何收集日志？](https://github.com/haizlin/fe-interview/issues/5747)
 - 第1784天 (2024-03-04)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.05) —— 第1785天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端如何收集日志？](https://github.com/haizlin/fe-interview/issues/5747)  
+## :clock430: 今天的知识点   (2024.03.06) —— 第1786天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对瓦片图的了解](https://github.com/haizlin/fe-interview/issues/5748)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1784天 (2024.03.04)  
-    	 :one: [软技能] [低代码的设计思路有哪些？](https://github.com/haizlin/fe-interview/issues/5746)  
+- 第1785天 (2024.03.05)  
+    	 :one: [软技能] [前端如何收集日志？](https://github.com/haizlin/fe-interview/issues/5747)  
  
 	
 - **[查看全部](category/history.md)**
