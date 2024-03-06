@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.06) —— 1786 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对瓦片图的了解](https://github.com/haizlin/fe-interview/issues/5748)  
+## :clock430: Today's Knowledge Points (2024.03.07) —— 1787 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [如何使用webpack进行代码压缩？](https://github.com/haizlin/fe-interview/issues/5749)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1785 days (2024.03.05)  
-    	 :one: [skill] [前端如何收集日志？](https://github.com/haizlin/fe-interview/issues/5747)  
+- 1786 days (2024.03.06)  
+    	 :one: [skill] [说说你对瓦片图的了解](https://github.com/haizlin/fe-interview/issues/5748)  
  
 	
 - **[All](category/history.md)**

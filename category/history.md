@@ -2,6 +2,8 @@
 
 
 
+- 第1787天 (2024-03-07)  
+    - [webpack] [如何使用webpack进行代码压缩？](https://github.com/haizlin/fe-interview/issues/5749)
 - 第1786天 (2024-03-06)  
     - [软技能] [说说你对瓦片图的了解](https://github.com/haizlin/fe-interview/issues/5748)
 - 第1785天 (2024-03-05)  

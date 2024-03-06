@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.06) —— 第1786天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对瓦片图的了解](https://github.com/haizlin/fe-interview/issues/5748)  
+## :clock430: 今天的知识点   (2024.03.07) —— 第1787天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [如何使用webpack进行代码压缩？](https://github.com/haizlin/fe-interview/issues/5749)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1785天 (2024.03.05)  
-    	 :one: [软技能] [前端如何收集日志？](https://github.com/haizlin/fe-interview/issues/5747)  
+- 第1786天 (2024.03.06)  
+    	 :one: [软技能] [说说你对瓦片图的了解](https://github.com/haizlin/fe-interview/issues/5748)  
  
 	
 - **[查看全部](category/history.md)**
