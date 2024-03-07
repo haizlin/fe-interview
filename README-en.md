@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.07) —— 1787 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [如何使用webpack进行代码压缩？](https://github.com/haizlin/fe-interview/issues/5749)  
+## :clock430: Today's Knowledge Points (2024.03.08) —— 1788 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [什么是Angular？它与Vue和React有何不同？](https://github.com/haizlin/fe-interview/issues/5750)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1786 days (2024.03.06)  
-    	 :one: [skill] [说说你对瓦片图的了解](https://github.com/haizlin/fe-interview/issues/5748)  
+- 1787 days (2024.03.07)  
+    	 :one: [webpack] [如何使用webpack进行代码压缩？](https://github.com/haizlin/fe-interview/issues/5749)  
  
 	
 - **[All](category/history.md)**

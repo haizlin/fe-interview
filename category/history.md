@@ -2,6 +2,8 @@
 
 
 
+- 第1788天 (2024-03-08)  
+    - [angular] [什么是Angular？它与Vue和React有何不同？](https://github.com/haizlin/fe-interview/issues/5750)
 - 第1787天 (2024-03-07)  
     - [webpack] [如何使用webpack进行代码压缩？](https://github.com/haizlin/fe-interview/issues/5749)
 - 第1786天 (2024-03-06)  
