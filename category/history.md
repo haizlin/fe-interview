@@ -2,6 +2,8 @@
 
 
 
+- 第1789天 (2024-03-09)  
+    - [angular] [Angular中的路由是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5751)
 - 第1788天 (2024-03-08)  
     - [angular] [什么是Angular？它与Vue和React有何不同？](https://github.com/haizlin/fe-interview/issues/5750)
 - 第1787天 (2024-03-07)  
