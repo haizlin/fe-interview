@@ -2,6 +2,8 @@
 
 
 
+- 第1790天 (2024-03-10)  
+    - [angular] [请说说Angular的主要组成部分有哪些？](https://github.com/haizlin/fe-interview/issues/5752)
 - 第1789天 (2024-03-09)  
     - [angular] [Angular中的路由是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5751)
 - 第1788天 (2024-03-08)  
