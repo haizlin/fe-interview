@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.10) —— 第1790天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说Angular的主要组成部分有哪些？](https://github.com/haizlin/fe-interview/issues/5752)  
+## :clock430: 今天的知识点   (2024.03.11) —— 第1791天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular的模块？](https://github.com/haizlin/fe-interview/issues/5753)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1789天 (2024.03.09)  
-    	 :one: [angular] [Angular中的路由是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5751)  
+- 第1790天 (2024.03.10)  
+    	 :one: [angular] [请说说Angular的主要组成部分有哪些？](https://github.com/haizlin/fe-interview/issues/5752)  
  
 	
 - **[查看全部](category/history.md)**

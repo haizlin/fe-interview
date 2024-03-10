@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.10) —— 1790 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说Angular的主要组成部分有哪些？](https://github.com/haizlin/fe-interview/issues/5752)  
+## :clock430: Today's Knowledge Points (2024.03.11) —— 1791 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular的模块？](https://github.com/haizlin/fe-interview/issues/5753)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1789 days (2024.03.09)  
-    	 :one: [angular] [Angular中的路由是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5751)  
+- 1790 days (2024.03.10)  
+    	 :one: [angular] [请说说Angular的主要组成部分有哪些？](https://github.com/haizlin/fe-interview/issues/5752)  
  
 	
 - **[All](category/history.md)**
