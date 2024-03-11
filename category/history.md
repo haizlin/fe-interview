@@ -2,6 +2,8 @@
 
 
 
+- 第1792天 (2024-03-12)  
+    - [angular] [请说说什么是Angular的路由守卫？](https://github.com/haizlin/fe-interview/issues/5754)
 - 第1791天 (2024-03-11)  
     - [angular] [请说说什么是Angular的模块？](https://github.com/haizlin/fe-interview/issues/5753)
 - 第1790天 (2024-03-10)  
