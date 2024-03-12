@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.12) —— 1792 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular的路由守卫？](https://github.com/haizlin/fe-interview/issues/5754)  
+## :clock430: Today's Knowledge Points (2024.03.13) —— 1793 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular的HTTP模块？](https://github.com/haizlin/fe-interview/issues/5755)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1791 days (2024.03.11)  
-    	 :one: [angular] [请说说什么是Angular的模块？](https://github.com/haizlin/fe-interview/issues/5753)  
+- 1792 days (2024.03.12)  
+    	 :one: [angular] [请说说什么是Angular的路由守卫？](https://github.com/haizlin/fe-interview/issues/5754)  
  
 	
 - **[All](category/history.md)**
