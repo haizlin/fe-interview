@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.15) —— 第1795天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular的服务？](https://github.com/haizlin/fe-interview/issues/5757)  
+## :clock430: 今天的知识点   (2024.03.16) —— 第1796天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中如何使用Service共享数据](https://github.com/haizlin/fe-interview/issues/5758)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1794天 (2024.03.14)  
-    	 :one: [angular] [请说说什么是Angular的表单？](https://github.com/haizlin/fe-interview/issues/5756)  
+- 第1795天 (2024.03.15)  
+    	 :one: [angular] [请说说什么是Angular的服务？](https://github.com/haizlin/fe-interview/issues/5757)  
  
 	
 - **[查看全部](category/history.md)**
