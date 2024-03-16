@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.16) —— 1796 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中如何使用Service共享数据](https://github.com/haizlin/fe-interview/issues/5758)  
+## :clock430: Today's Knowledge Points (2024.03.17) —— 1797 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [什么是数据绑定？Angular中支持哪些类型的数据绑定？](https://github.com/haizlin/fe-interview/issues/5759)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1795 days (2024.03.15)  
-    	 :one: [angular] [请说说什么是Angular的服务？](https://github.com/haizlin/fe-interview/issues/5757)  
+- 1796 days (2024.03.16)  
+    	 :one: [angular] [在Angular中如何使用Service共享数据](https://github.com/haizlin/fe-interview/issues/5758)  
  
 	
 - **[All](category/history.md)**

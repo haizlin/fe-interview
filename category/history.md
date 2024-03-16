@@ -2,6 +2,8 @@
 
 
 
+- 第1797天 (2024-03-17)  
+    - [angular] [什么是数据绑定？Angular中支持哪些类型的数据绑定？](https://github.com/haizlin/fe-interview/issues/5759)
 - 第1796天 (2024-03-16)  
     - [angular] [在Angular中如何使用Service共享数据](https://github.com/haizlin/fe-interview/issues/5758)
 - 第1795天 (2024-03-15)  
