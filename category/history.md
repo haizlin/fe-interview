@@ -2,6 +2,8 @@
 
 
 
+- 第1798天 (2024-03-18)  
+    - [angular] [请说说在Angular中的ngIf是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5760)
 - 第1797天 (2024-03-17)  
     - [angular] [什么是数据绑定？Angular中支持哪些类型的数据绑定？](https://github.com/haizlin/fe-interview/issues/5759)
 - 第1796天 (2024-03-16)  
