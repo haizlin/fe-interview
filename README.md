@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.18) —— 第1798天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的ngIf是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5760)  
+## :clock430: 今天的知识点   (2024.03.19) —— 第1799天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是管道？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5761)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1797天 (2024.03.17)  
-    	 :one: [angular] [什么是数据绑定？Angular中支持哪些类型的数据绑定？](https://github.com/haizlin/fe-interview/issues/5759)  
+- 第1798天 (2024.03.18)  
+    	 :one: [angular] [请说说在Angular中的ngIf是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5760)  
  
 	
 - **[查看全部](category/history.md)**

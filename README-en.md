@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.18) —— 1798 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的ngIf是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5760)  
+## :clock430: Today's Knowledge Points (2024.03.19) —— 1799 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是管道？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5761)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1797 days (2024.03.17)  
-    	 :one: [angular] [什么是数据绑定？Angular中支持哪些类型的数据绑定？](https://github.com/haizlin/fe-interview/issues/5759)  
+- 1798 days (2024.03.18)  
+    	 :one: [angular] [请说说在Angular中的ngIf是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5760)  
  
 	
 - **[All](category/history.md)**
