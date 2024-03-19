@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.19) —— 第1799天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是管道？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5761)  
+## :clock430: 今天的知识点   (2024.03.20) —— 第1800天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是组件？](https://github.com/haizlin/fe-interview/issues/5762)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1798天 (2024.03.18)  
-    	 :one: [angular] [请说说在Angular中的ngIf是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5760)  
+- 第1799天 (2024.03.19)  
+    	 :one: [angular] [请说说在Angular中什么是管道？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5761)  
  
 	
 - **[查看全部](category/history.md)**

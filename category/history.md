@@ -2,6 +2,8 @@
 
 
 
+- 第1800天 (2024-03-20)  
+    - [angular] [请说说在Angular中什么是组件？](https://github.com/haizlin/fe-interview/issues/5762)
 - 第1799天 (2024-03-19)  
     - [angular] [请说说在Angular中什么是管道？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5761)
 - 第1798天 (2024-03-18)  
