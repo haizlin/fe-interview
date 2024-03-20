@@ -2,6 +2,8 @@
 
 
 
+- 第1801天 (2024-03-21)  
+    - [angular] [在Angular中组件的生命周期钩子有哪些？](https://github.com/haizlin/fe-interview/issues/5763)
 - 第1800天 (2024-03-20)  
     - [angular] [请说说在Angular中什么是组件？](https://github.com/haizlin/fe-interview/issues/5762)
 - 第1799天 (2024-03-19)  
