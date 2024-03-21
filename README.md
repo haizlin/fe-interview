@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.21) —— 第1801天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中组件的生命周期钩子有哪些？](https://github.com/haizlin/fe-interview/issues/5763)  
+## :clock430: 今天的知识点   (2024.03.22) —— 第1802天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说模块在Angular中的有什么作用？](https://github.com/haizlin/fe-interview/issues/5764)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1800天 (2024.03.20)  
-    	 :one: [angular] [请说说在Angular中什么是组件？](https://github.com/haizlin/fe-interview/issues/5762)  
+- 第1801天 (2024.03.21)  
+    	 :one: [angular] [在Angular中组件的生命周期钩子有哪些？](https://github.com/haizlin/fe-interview/issues/5763)  
  
 	
 - **[查看全部](category/history.md)**

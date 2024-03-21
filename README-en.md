@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.21) —— 1801 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中组件的生命周期钩子有哪些？](https://github.com/haizlin/fe-interview/issues/5763)  
+## :clock430: Today's Knowledge Points (2024.03.22) —— 1802 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说模块在Angular中的有什么作用？](https://github.com/haizlin/fe-interview/issues/5764)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1800 days (2024.03.20)  
-    	 :one: [angular] [请说说在Angular中什么是组件？](https://github.com/haizlin/fe-interview/issues/5762)  
+- 1801 days (2024.03.21)  
+    	 :one: [angular] [在Angular中组件的生命周期钩子有哪些？](https://github.com/haizlin/fe-interview/issues/5763)  
  
 	
 - **[All](category/history.md)**

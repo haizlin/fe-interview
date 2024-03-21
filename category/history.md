@@ -2,6 +2,8 @@
 
 
 
+- 第1802天 (2024-03-22)  
+    - [angular] [请说说模块在Angular中的有什么作用？](https://github.com/haizlin/fe-interview/issues/5764)
 - 第1801天 (2024-03-21)  
     - [angular] [在Angular中组件的生命周期钩子有哪些？](https://github.com/haizlin/fe-interview/issues/5763)
 - 第1800天 (2024-03-20)  
