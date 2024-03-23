@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.23) —— 第1803天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是服务和依赖注入（DI）？](https://github.com/haizlin/fe-interview/issues/5765)  
+## :clock430: 今天的知识点   (2024.03.24) —— 第1804天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说路由和导航在Angular中如何工作的？](https://github.com/haizlin/fe-interview/issues/5766)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1802天 (2024.03.22)  
-    	 :one: [angular] [请说说模块在Angular中的有什么作用？](https://github.com/haizlin/fe-interview/issues/5764)  
+- 第1803天 (2024.03.23)  
+    	 :one: [angular] [请说说在Angular中什么是服务和依赖注入（DI）？](https://github.com/haizlin/fe-interview/issues/5765)  
  
 	
 - **[查看全部](category/history.md)**
