@@ -2,6 +2,8 @@
 
 
 
+- 第1805天 (2024-03-25)  
+    - [angular] [请说说在Angular中如何实现表单验证？](https://github.com/haizlin/fe-interview/issues/5767)
 - 第1804天 (2024-03-24)  
     - [angular] [请说说路由和导航在Angular中如何工作的？](https://github.com/haizlin/fe-interview/issues/5766)
 - 第1803天 (2024-03-23)  
