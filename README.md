@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.25) —— 第1805天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中如何实现表单验证？](https://github.com/haizlin/fe-interview/issues/5767)  
+## :clock430: 今天的知识点   (2024.03.26) —— 第1806天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说观察者模式和RxJS在Angular中的应用](https://github.com/haizlin/fe-interview/issues/5768)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1804天 (2024.03.24)  
-    	 :one: [angular] [请说说路由和导航在Angular中如何工作的？](https://github.com/haizlin/fe-interview/issues/5766)  
+- 第1805天 (2024.03.25)  
+    	 :one: [angular] [请说说在Angular中如何实现表单验证？](https://github.com/haizlin/fe-interview/issues/5767)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1806天 (2024-03-26)  
+    - [angular] [请说说观察者模式和RxJS在Angular中的应用](https://github.com/haizlin/fe-interview/issues/5768)
 - 第1805天 (2024-03-25)  
     - [angular] [请说说在Angular中如何实现表单验证？](https://github.com/haizlin/fe-interview/issues/5767)
 - 第1804天 (2024-03-24)  
