@@ -2,6 +2,8 @@
 
 
 
+- 第1807天 (2024-03-27)  
+    - [angular] [请说说在Angular中的双向数据绑定是如何工作的？](https://github.com/haizlin/fe-interview/issues/5769)
 - 第1806天 (2024-03-26)  
     - [angular] [请说说观察者模式和RxJS在Angular中的应用](https://github.com/haizlin/fe-interview/issues/5768)
 - 第1805天 (2024-03-25)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.03.26) —— 1806 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说观察者模式和RxJS在Angular中的应用](https://github.com/haizlin/fe-interview/issues/5768)  
+## :clock430: Today's Knowledge Points (2024.03.27) —— 1807 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的双向数据绑定是如何工作的？](https://github.com/haizlin/fe-interview/issues/5769)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1805 days (2024.03.25)  
-    	 :one: [angular] [请说说在Angular中如何实现表单验证？](https://github.com/haizlin/fe-interview/issues/5767)  
+- 1806 days (2024.03.26)  
+    	 :one: [angular] [请说说观察者模式和RxJS在Angular中的应用](https://github.com/haizlin/fe-interview/issues/5768)  
  
 	
 - **[All](category/history.md)**
