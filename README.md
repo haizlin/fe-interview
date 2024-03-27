@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.27) —— 第1807天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的双向数据绑定是如何工作的？](https://github.com/haizlin/fe-interview/issues/5769)  
+## :clock430: 今天的知识点   (2024.03.28) —— 第1808天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中如何实现国际化（i18n）？](https://github.com/haizlin/fe-interview/issues/5770)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1806天 (2024.03.26)  
-    	 :one: [angular] [请说说观察者模式和RxJS在Angular中的应用](https://github.com/haizlin/fe-interview/issues/5768)  
+- 第1807天 (2024.03.27)  
+    	 :one: [angular] [请说说在Angular中的双向数据绑定是如何工作的？](https://github.com/haizlin/fe-interview/issues/5769)  
  
 	
 - **[查看全部](category/history.md)**

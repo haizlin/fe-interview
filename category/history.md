@@ -2,6 +2,8 @@
 
 
 
+- 第1808天 (2024-03-28)  
+    - [angular] [请说说在Angular中如何实现国际化（i18n）？](https://github.com/haizlin/fe-interview/issues/5770)
 - 第1807天 (2024-03-27)  
     - [angular] [请说说在Angular中的双向数据绑定是如何工作的？](https://github.com/haizlin/fe-interview/issues/5769)
 - 第1806天 (2024-03-26)  
