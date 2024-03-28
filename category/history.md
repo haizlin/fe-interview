@@ -2,6 +2,8 @@
 
 
 
+- 第1809天 (2024-03-29)  
+    - [angular] [如何在Angular中实现懒加载？](https://github.com/haizlin/fe-interview/issues/5771)
 - 第1808天 (2024-03-28)  
     - [angular] [请说说在Angular中如何实现国际化（i18n）？](https://github.com/haizlin/fe-interview/issues/5770)
 - 第1807天 (2024-03-27)  
