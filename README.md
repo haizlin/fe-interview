@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.29) —— 第1809天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [如何在Angular中实现懒加载？](https://github.com/haizlin/fe-interview/issues/5771)  
+## :clock430: 今天的知识点   (2024.03.30) —— 第1810天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [如何在Angular中实现导航的控制和保护？](https://github.com/haizlin/fe-interview/issues/5772)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1808天 (2024.03.28)  
-    	 :one: [angular] [请说说在Angular中如何实现国际化（i18n）？](https://github.com/haizlin/fe-interview/issues/5770)  
+- 第1809天 (2024.03.29)  
+    	 :one: [angular] [如何在Angular中实现懒加载？](https://github.com/haizlin/fe-interview/issues/5771)  
  
 	
 - **[查看全部](category/history.md)**
