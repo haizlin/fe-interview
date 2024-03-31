@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.03.31) —— 第1811天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是RxJS？](https://github.com/haizlin/fe-interview/issues/5773)  
+## :clock430: 今天的知识点   (2024.04.01) —— 第1812天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的ngFor是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5774)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1810天 (2024.03.30)  
-    	 :one: [angular] [如何在Angular中实现导航的控制和保护？](https://github.com/haizlin/fe-interview/issues/5772)  
+- 第1811天 (2024.03.31)  
+    	 :one: [angular] [请说说在Angular中什么是RxJS？](https://github.com/haizlin/fe-interview/issues/5773)  
  
 	
 - **[查看全部](category/history.md)**

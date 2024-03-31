@@ -2,6 +2,8 @@
 
 
 
+- 第1812天 (2024-04-01)  
+    - [angular] [请说说在Angular中的ngFor是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5774)
 - 第1811天 (2024-03-31)  
     - [angular] [请说说在Angular中什么是RxJS？](https://github.com/haizlin/fe-interview/issues/5773)
 - 第1810天 (2024-03-30)  
