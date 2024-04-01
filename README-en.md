@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.01) —— 1812 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的ngFor是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5774)  
+## :clock430: Today's Knowledge Points (2024.04.02) —— 1813 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的路由器是什么？](https://github.com/haizlin/fe-interview/issues/5775)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1811 days (2024.03.31)  
-    	 :one: [angular] [请说说在Angular中什么是RxJS？](https://github.com/haizlin/fe-interview/issues/5773)  
+- 1812 days (2024.04.01)  
+    	 :one: [angular] [请说说在Angular中的ngFor是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5774)  
  
 	
 - **[All](category/history.md)**
