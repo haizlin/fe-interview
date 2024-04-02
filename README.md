@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.02) —— 第1813天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的路由器是什么？](https://github.com/haizlin/fe-interview/issues/5775)  
+## :clock430: 今天的知识点   (2024.04.03) —— 第1814天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的ngSwitch是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5776)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1812天 (2024.04.01)  
-    	 :one: [angular] [请说说在Angular中的ngFor是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5774)  
+- 第1813天 (2024.04.02)  
+    	 :one: [angular] [请说说在Angular中的路由器是什么？](https://github.com/haizlin/fe-interview/issues/5775)  
  
 	
 - **[查看全部](category/history.md)**
