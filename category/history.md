@@ -2,6 +2,8 @@
 
 
 
+- 第1816天 (2024-04-05)  
+    - [angular] [请说说在Angular中什么是指令？有哪些类型的指令？](https://github.com/haizlin/fe-interview/issues/5778)
 - 第1815天 (2024-04-04)  
     - [angular] [请说说在Angular中的组件是什么？](https://github.com/haizlin/fe-interview/issues/5777)
 - 第1814天 (2024-04-03)  

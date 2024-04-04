@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.04) —— 第1815天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的组件是什么？](https://github.com/haizlin/fe-interview/issues/5777)  
+## :clock430: 今天的知识点   (2024.04.05) —— 第1816天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是指令？有哪些类型的指令？](https://github.com/haizlin/fe-interview/issues/5778)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1814天 (2024.04.03)  
-    	 :one: [angular] [请说说在Angular中的ngSwitch是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5776)  
+- 第1815天 (2024.04.04)  
+    	 :one: [angular] [请说说在Angular中的组件是什么？](https://github.com/haizlin/fe-interview/issues/5777)  
  
 	
 - **[查看全部](category/history.md)**

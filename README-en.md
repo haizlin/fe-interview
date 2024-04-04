@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.04) —— 1815 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的组件是什么？](https://github.com/haizlin/fe-interview/issues/5777)  
+## :clock430: Today's Knowledge Points (2024.04.05) —— 1816 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是指令？有哪些类型的指令？](https://github.com/haizlin/fe-interview/issues/5778)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1814 days (2024.04.03)  
-    	 :one: [angular] [请说说在Angular中的ngSwitch是什么？有哪些用途？](https://github.com/haizlin/fe-interview/issues/5776)  
+- 1815 days (2024.04.04)  
+    	 :one: [angular] [请说说在Angular中的组件是什么？](https://github.com/haizlin/fe-interview/issues/5777)  
  
 	
 - **[All](category/history.md)**
