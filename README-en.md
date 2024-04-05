@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.05) —— 1816 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是指令？有哪些类型的指令？](https://github.com/haizlin/fe-interview/issues/5778)  
+## :clock430: Today's Knowledge Points (2024.04.06) —— 1817 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的依赖注入是什么？](https://github.com/haizlin/fe-interview/issues/5779)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1815 days (2024.04.04)  
-    	 :one: [angular] [请说说在Angular中的组件是什么？](https://github.com/haizlin/fe-interview/issues/5777)  
+- 1816 days (2024.04.05)  
+    	 :one: [angular] [请说说在Angular中什么是指令？有哪些类型的指令？](https://github.com/haizlin/fe-interview/issues/5778)  
  
 	
 - **[All](category/history.md)**

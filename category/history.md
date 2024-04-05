@@ -2,6 +2,8 @@
 
 
 
+- 第1817天 (2024-04-06)  
+    - [angular] [请说说在Angular中的依赖注入是什么？](https://github.com/haizlin/fe-interview/issues/5779)
 - 第1816天 (2024-04-05)  
     - [angular] [请说说在Angular中什么是指令？有哪些类型的指令？](https://github.com/haizlin/fe-interview/issues/5778)
 - 第1815天 (2024-04-04)  
