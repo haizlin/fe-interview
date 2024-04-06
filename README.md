@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.06) —— 第1817天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的依赖注入是什么？](https://github.com/haizlin/fe-interview/issues/5779)  
+## :clock430: 今天的知识点   (2024.04.07) —— 第1818天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的NgModule是什么？](https://github.com/haizlin/fe-interview/issues/5780)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1816天 (2024.04.05)  
-    	 :one: [angular] [请说说在Angular中什么是指令？有哪些类型的指令？](https://github.com/haizlin/fe-interview/issues/5778)  
+- 第1817天 (2024.04.06)  
+    	 :one: [angular] [请说说在Angular中的依赖注入是什么？](https://github.com/haizlin/fe-interview/issues/5779)  
  
 	
 - **[查看全部](category/history.md)**
