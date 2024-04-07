@@ -2,6 +2,8 @@
 
 
 
+- 第1819天 (2024-04-08)  
+    - [angular] [请说说在Angular中的可观察对象是什么？](https://github.com/haizlin/fe-interview/issues/5781)
 - 第1818天 (2024-04-07)  
     - [angular] [请说说在Angular中的NgModule是什么？](https://github.com/haizlin/fe-interview/issues/5780)
 - 第1817天 (2024-04-06)  

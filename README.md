@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.07) —— 第1818天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的NgModule是什么？](https://github.com/haizlin/fe-interview/issues/5780)  
+## :clock430: 今天的知识点   (2024.04.08) —— 第1819天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的可观察对象是什么？](https://github.com/haizlin/fe-interview/issues/5781)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1817天 (2024.04.06)  
-    	 :one: [angular] [请说说在Angular中的依赖注入是什么？](https://github.com/haizlin/fe-interview/issues/5779)  
+- 第1818天 (2024.04.07)  
+    	 :one: [angular] [请说说在Angular中的NgModule是什么？](https://github.com/haizlin/fe-interview/issues/5780)  
  
 	
 - **[查看全部](category/history.md)**
