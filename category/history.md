@@ -2,6 +2,8 @@
 
 
 
+- 第1820天 (2024-04-09)  
+    - [angular] [请说说在Angular中的路由器守卫是什么？它有哪些类型？](https://github.com/haizlin/fe-interview/issues/5782)
 - 第1819天 (2024-04-08)  
     - [angular] [请说说在Angular中的可观察对象是什么？](https://github.com/haizlin/fe-interview/issues/5781)
 - 第1818天 (2024-04-07)  
