@@ -2,6 +2,8 @@
 
 
 
+- 第1821天 (2024-04-10)  
+    - [angular] [请说说在Angular中的服务是什么？如何创建一个服务？](https://github.com/haizlin/fe-interview/issues/5783)
 - 第1820天 (2024-04-09)  
     - [angular] [请说说在Angular中的路由器守卫是什么？它有哪些类型？](https://github.com/haizlin/fe-interview/issues/5782)
 - 第1819天 (2024-04-08)  
