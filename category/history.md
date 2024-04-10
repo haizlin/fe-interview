@@ -2,6 +2,8 @@
 
 
 
+- 第1822天 (2024-04-11)  
+    - [angular] [请说说在Angular中的模板语法是什么？](https://github.com/haizlin/fe-interview/issues/5784)
 - 第1821天 (2024-04-10)  
     - [angular] [请说说在Angular中的服务是什么？如何创建一个服务？](https://github.com/haizlin/fe-interview/issues/5783)
 - 第1820天 (2024-04-09)  
