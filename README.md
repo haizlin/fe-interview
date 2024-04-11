@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.11) —— 第1822天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的模板语法是什么？](https://github.com/haizlin/fe-interview/issues/5784)  
+## :clock430: 今天的知识点   (2024.04.12) —— 第1823天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的管道是什么？如何创建一个管道？](https://github.com/haizlin/fe-interview/issues/5785)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1821天 (2024.04.10)  
-    	 :one: [angular] [请说说在Angular中的服务是什么？如何创建一个服务？](https://github.com/haizlin/fe-interview/issues/5783)  
+- 第1822天 (2024.04.11)  
+    	 :one: [angular] [请说说在Angular中的模板语法是什么？](https://github.com/haizlin/fe-interview/issues/5784)  
  
 	
 - **[查看全部](category/history.md)**

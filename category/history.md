@@ -2,6 +2,8 @@
 
 
 
+- 第1823天 (2024-04-12)  
+    - [angular] [请说说在Angular中的管道是什么？如何创建一个管道？](https://github.com/haizlin/fe-interview/issues/5785)
 - 第1822天 (2024-04-11)  
     - [angular] [请说说在Angular中的模板语法是什么？](https://github.com/haizlin/fe-interview/issues/5784)
 - 第1821天 (2024-04-10)  
