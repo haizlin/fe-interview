@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.12) —— 1823 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的管道是什么？如何创建一个管道？](https://github.com/haizlin/fe-interview/issues/5785)  
+## :clock430: Today's Knowledge Points (2024.04.13) —— 1824 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的Change Detection是什么？如何优化应用程序的性能？](https://github.com/haizlin/fe-interview/issues/5786)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1822 days (2024.04.11)  
-    	 :one: [angular] [请说说在Angular中的模板语法是什么？](https://github.com/haizlin/fe-interview/issues/5784)  
+- 1823 days (2024.04.12)  
+    	 :one: [angular] [请说说在Angular中的管道是什么？如何创建一个管道？](https://github.com/haizlin/fe-interview/issues/5785)  
  
 	
 - **[All](category/history.md)**

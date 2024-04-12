@@ -2,6 +2,8 @@
 
 
 
+- 第1824天 (2024-04-13)  
+    - [angular] [请说说在Angular中的Change Detection是什么？如何优化应用程序的性能？](https://github.com/haizlin/fe-interview/issues/5786)
 - 第1823天 (2024-04-12)  
     - [angular] [请说说在Angular中的管道是什么？如何创建一个管道？](https://github.com/haizlin/fe-interview/issues/5785)
 - 第1822天 (2024-04-11)  
