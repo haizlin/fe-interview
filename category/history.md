@@ -2,6 +2,8 @@
 
 
 
+- 第1825天 (2024-04-14)  
+    - [angular] [请说说在Angular中的NgModule是如何工作的？它有哪些功能？](https://github.com/haizlin/fe-interview/issues/5787)
 - 第1824天 (2024-04-13)  
     - [angular] [请说说在Angular中的Change Detection是什么？如何优化应用程序的性能？](https://github.com/haizlin/fe-interview/issues/5786)
 - 第1823天 (2024-04-12)  
