@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.14) —— 第1825天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的NgModule是如何工作的？它有哪些功能？](https://github.com/haizlin/fe-interview/issues/5787)  
+## :clock430: 今天的知识点   (2024.04.15) —— 第1826天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的动态组件是什么？](https://github.com/haizlin/fe-interview/issues/5788)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1824天 (2024.04.13)  
-    	 :one: [angular] [请说说在Angular中的Change Detection是什么？如何优化应用程序的性能？](https://github.com/haizlin/fe-interview/issues/5786)  
+- 第1825天 (2024.04.14)  
+    	 :one: [angular] [请说说在Angular中的NgModule是如何工作的？它有哪些功能？](https://github.com/haizlin/fe-interview/issues/5787)  
  
 	
 - **[查看全部](category/history.md)**

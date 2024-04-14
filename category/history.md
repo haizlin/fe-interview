@@ -2,6 +2,8 @@
 
 
 
+- 第1826天 (2024-04-15)  
+    - [angular] [请说说在Angular中的动态组件是什么？](https://github.com/haizlin/fe-interview/issues/5788)
 - 第1825天 (2024-04-14)  
     - [angular] [请说说在Angular中的NgModule是如何工作的？它有哪些功能？](https://github.com/haizlin/fe-interview/issues/5787)
 - 第1824天 (2024-04-13)  
