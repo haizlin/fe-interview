@@ -2,6 +2,8 @@
 
 
 
+- 第1827天 (2024-04-16)  
+    - [angular] [在Angular中怎样创建一个动态组件？](https://github.com/haizlin/fe-interview/issues/5789)
 - 第1826天 (2024-04-15)  
     - [angular] [请说说在Angular中的动态组件是什么？](https://github.com/haizlin/fe-interview/issues/5788)
 - 第1825天 (2024-04-14)  
