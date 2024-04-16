@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.16) —— 1827 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中怎样创建一个动态组件？](https://github.com/haizlin/fe-interview/issues/5789)  
+## :clock430: Today's Knowledge Points (2024.04.17) —— 1828 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中怎样创建一个服务工厂？](https://github.com/haizlin/fe-interview/issues/5790)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1826 days (2024.04.15)  
-    	 :one: [angular] [请说说在Angular中的动态组件是什么？](https://github.com/haizlin/fe-interview/issues/5788)  
+- 1827 days (2024.04.16)  
+    	 :one: [angular] [在Angular中怎样创建一个动态组件？](https://github.com/haizlin/fe-interview/issues/5789)  
  
 	
 - **[All](category/history.md)**

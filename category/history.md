@@ -2,6 +2,8 @@
 
 
 
+- 第1828天 (2024-04-17)  
+    - [angular] [在Angular中怎样创建一个服务工厂？](https://github.com/haizlin/fe-interview/issues/5790)
 - 第1827天 (2024-04-16)  
     - [angular] [在Angular中怎样创建一个动态组件？](https://github.com/haizlin/fe-interview/issues/5789)
 - 第1826天 (2024-04-15)  
