@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.17) —— 第1828天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中怎样创建一个服务工厂？](https://github.com/haizlin/fe-interview/issues/5790)  
+## :clock430: 今天的知识点   (2024.04.18) —— 第1829天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的RxJS是什么？](https://github.com/haizlin/fe-interview/issues/5791)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1827天 (2024.04.16)  
-    	 :one: [angular] [在Angular中怎样创建一个动态组件？](https://github.com/haizlin/fe-interview/issues/5789)  
+- 第1828天 (2024.04.17)  
+    	 :one: [angular] [在Angular中怎样创建一个服务工厂？](https://github.com/haizlin/fe-interview/issues/5790)  
  
 	
 - **[查看全部](category/history.md)**
