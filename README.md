@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.18) —— 第1829天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的RxJS是什么？](https://github.com/haizlin/fe-interview/issues/5791)  
+## :clock430: 今天的知识点   (2024.04.19) —— 第1830天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的单元测试是什么？](https://github.com/haizlin/fe-interview/issues/5792)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1828天 (2024.04.17)  
-    	 :one: [angular] [在Angular中怎样创建一个服务工厂？](https://github.com/haizlin/fe-interview/issues/5790)  
+- 第1829天 (2024.04.18)  
+    	 :one: [angular] [请说说在Angular中的RxJS是什么？](https://github.com/haizlin/fe-interview/issues/5791)  
  
 	
 - **[查看全部](category/history.md)**

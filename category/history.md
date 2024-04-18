@@ -2,6 +2,8 @@
 
 
 
+- 第1830天 (2024-04-19)  
+    - [angular] [请说说在Angular中的单元测试是什么？](https://github.com/haizlin/fe-interview/issues/5792)
 - 第1829天 (2024-04-18)  
     - [angular] [请说说在Angular中的RxJS是什么？](https://github.com/haizlin/fe-interview/issues/5791)
 - 第1828天 (2024-04-17)  
