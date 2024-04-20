@@ -2,6 +2,8 @@
 
 
 
+- 第1832天 (2024-04-21)  
+    - [angular] [请说说在Angular中的服务工厂是什么？](https://github.com/haizlin/fe-interview/issues/5794)
 - 第1831天 (2024-04-20)  
     - [angular] [在Angular中怎样写一个单元测试？](https://github.com/haizlin/fe-interview/issues/5793)
 - 第1830天 (2024-04-19)  
