@@ -2,6 +2,8 @@
 
 
 
+- 第1833天 (2024-04-22)  
+    - [angular] [在Angular中怎样使用RxJS？](https://github.com/haizlin/fe-interview/issues/5795)
 - 第1832天 (2024-04-21)  
     - [angular] [请说说在Angular中的服务工厂是什么？](https://github.com/haizlin/fe-interview/issues/5794)
 - 第1831天 (2024-04-20)  
