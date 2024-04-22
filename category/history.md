@@ -2,6 +2,8 @@
 
 
 
+- 第1834天 (2024-04-23)  
+    - [angular] [在Angular中有哪些常用的装饰器？](https://github.com/haizlin/fe-interview/issues/5796)
 - 第1833天 (2024-04-22)  
     - [angular] [在Angular中怎样使用RxJS？](https://github.com/haizlin/fe-interview/issues/5795)
 - 第1832天 (2024-04-21)  
