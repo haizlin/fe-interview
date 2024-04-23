@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.23) —— 1834 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中有哪些常用的装饰器？](https://github.com/haizlin/fe-interview/issues/5796)  
+## :clock430: Today's Knowledge Points (2024.04.24) —— 1835 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中组件初始化时，生命周期钩子的调用顺序](https://github.com/haizlin/fe-interview/issues/5797)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1833 days (2024.04.22)  
-    	 :one: [angular] [在Angular中怎样使用RxJS？](https://github.com/haizlin/fe-interview/issues/5795)  
+- 1834 days (2024.04.23)  
+    	 :one: [angular] [在Angular中有哪些常用的装饰器？](https://github.com/haizlin/fe-interview/issues/5796)  
  
 	
 - **[All](category/history.md)**

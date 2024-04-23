@@ -2,6 +2,8 @@
 
 
 
+- 第1835天 (2024-04-24)  
+    - [angular] [请说说在Angular中组件初始化时，生命周期钩子的调用顺序](https://github.com/haizlin/fe-interview/issues/5797)
 - 第1834天 (2024-04-23)  
     - [angular] [在Angular中有哪些常用的装饰器？](https://github.com/haizlin/fe-interview/issues/5796)
 - 第1833天 (2024-04-22)  
