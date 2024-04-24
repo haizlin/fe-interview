@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.24) —— 1835 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中组件初始化时，生命周期钩子的调用顺序](https://github.com/haizlin/fe-interview/issues/5797)  
+## :clock430: Today's Knowledge Points (2024.04.25) —— 1836 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中父子之间是如何通信的？](https://github.com/haizlin/fe-interview/issues/5798)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1834 days (2024.04.23)  
-    	 :one: [angular] [在Angular中有哪些常用的装饰器？](https://github.com/haizlin/fe-interview/issues/5796)  
+- 1835 days (2024.04.24)  
+    	 :one: [angular] [请说说在Angular中组件初始化时，生命周期钩子的调用顺序](https://github.com/haizlin/fe-interview/issues/5797)  
  
 	
 - **[All](category/history.md)**

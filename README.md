@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.24) —— 第1835天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中组件初始化时，生命周期钩子的调用顺序](https://github.com/haizlin/fe-interview/issues/5797)  
+## :clock430: 今天的知识点   (2024.04.25) —— 第1836天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中父子之间是如何通信的？](https://github.com/haizlin/fe-interview/issues/5798)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1834天 (2024.04.23)  
-    	 :one: [angular] [在Angular中有哪些常用的装饰器？](https://github.com/haizlin/fe-interview/issues/5796)  
+- 第1835天 (2024.04.24)  
+    	 :one: [angular] [请说说在Angular中组件初始化时，生命周期钩子的调用顺序](https://github.com/haizlin/fe-interview/issues/5797)  
  
 	
 - **[查看全部](category/history.md)**
