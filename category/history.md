@@ -2,6 +2,8 @@
 
 
 
+- 第1837天 (2024-04-26)  
+    - [angular] [AngularJS和Angular有什么区别？](https://github.com/haizlin/fe-interview/issues/5799)
 - 第1836天 (2024-04-25)  
     - [angular] [在Angular中父子之间是如何通信的？](https://github.com/haizlin/fe-interview/issues/5798)
 - 第1835天 (2024-04-24)  
