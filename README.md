@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.26) —— 第1837天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [AngularJS和Angular有什么区别？](https://github.com/haizlin/fe-interview/issues/5799)  
+## :clock430: 今天的知识点   (2024.04.27) —— 第1838天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中的onpush策略下什么时候会解变更检测？](https://github.com/haizlin/fe-interview/issues/5800)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1836天 (2024.04.25)  
-    	 :one: [angular] [在Angular中父子之间是如何通信的？](https://github.com/haizlin/fe-interview/issues/5798)  
+- 第1837天 (2024.04.26)  
+    	 :one: [angular] [AngularJS和Angular有什么区别？](https://github.com/haizlin/fe-interview/issues/5799)  
  
 	
 - **[查看全部](category/history.md)**

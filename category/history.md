@@ -2,6 +2,8 @@
 
 
 
+- 第1838天 (2024-04-27)  
+    - [angular] [在Angular中的onpush策略下什么时候会解变更检测？](https://github.com/haizlin/fe-interview/issues/5800)
 - 第1837天 (2024-04-26)  
     - [angular] [AngularJS和Angular有什么区别？](https://github.com/haizlin/fe-interview/issues/5799)
 - 第1836天 (2024-04-25)  

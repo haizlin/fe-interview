@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.26) —— 1837 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [AngularJS和Angular有什么区别？](https://github.com/haizlin/fe-interview/issues/5799)  
+## :clock430: Today's Knowledge Points (2024.04.27) —— 1838 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中的onpush策略下什么时候会解变更检测？](https://github.com/haizlin/fe-interview/issues/5800)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1836 days (2024.04.25)  
-    	 :one: [angular] [在Angular中父子之间是如何通信的？](https://github.com/haizlin/fe-interview/issues/5798)  
+- 1837 days (2024.04.26)  
+    	 :one: [angular] [AngularJS和Angular有什么区别？](https://github.com/haizlin/fe-interview/issues/5799)  
  
 	
 - **[All](category/history.md)**
