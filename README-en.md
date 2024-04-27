@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.27) —— 1838 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中的onpush策略下什么时候会解变更检测？](https://github.com/haizlin/fe-interview/issues/5800)  
+## :clock430: Today's Knowledge Points (2024.04.28) —— 1839 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中的数据绑定是采用什么机制？](https://github.com/haizlin/fe-interview/issues/5801)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1837 days (2024.04.26)  
-    	 :one: [angular] [AngularJS和Angular有什么区别？](https://github.com/haizlin/fe-interview/issues/5799)  
+- 1838 days (2024.04.27)  
+    	 :one: [angular] [在Angular中的onpush策略下什么时候会解变更检测？](https://github.com/haizlin/fe-interview/issues/5800)  
  
 	
 - **[All](category/history.md)**

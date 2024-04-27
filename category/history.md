@@ -2,6 +2,8 @@
 
 
 
+- 第1839天 (2024-04-28)  
+    - [angular] [在Angular中的数据绑定是采用什么机制？](https://github.com/haizlin/fe-interview/issues/5801)
 - 第1838天 (2024-04-27)  
     - [angular] [在Angular中的onpush策略下什么时候会解变更检测？](https://github.com/haizlin/fe-interview/issues/5800)
 - 第1837天 (2024-04-26)  
