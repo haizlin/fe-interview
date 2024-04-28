@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.28) —— 第1839天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [在Angular中的数据绑定是采用什么机制？](https://github.com/haizlin/fe-interview/issues/5801)  
+## :clock430: 今天的知识点   (2024.04.29) —— 第1840天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说你对Promise.allSettled()的了解](https://github.com/haizlin/fe-interview/issues/5802)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1838天 (2024.04.27)  
-    	 :one: [angular] [在Angular中的onpush策略下什么时候会解变更检测？](https://github.com/haizlin/fe-interview/issues/5800)  
+- 第1839天 (2024.04.28)  
+    	 :one: [angular] [在Angular中的数据绑定是采用什么机制？](https://github.com/haizlin/fe-interview/issues/5801)  
  
 	
 - **[查看全部](category/history.md)**

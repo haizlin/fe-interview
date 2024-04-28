@@ -2,6 +2,8 @@
 
 
 
+- 第1840天 (2024-04-29)  
+    - [js] [请说说你对Promise.allSettled()的了解](https://github.com/haizlin/fe-interview/issues/5802)
 - 第1839天 (2024-04-28)  
     - [angular] [在Angular中的数据绑定是采用什么机制？](https://github.com/haizlin/fe-interview/issues/5801)
 - 第1838天 (2024-04-27)  
