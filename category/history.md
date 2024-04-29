@@ -2,6 +2,8 @@
 
 
 
+- 第1841天 (2024-04-30)  
+    - [angular] [请说说什么是Angular CLI构建器？](https://github.com/haizlin/fe-interview/issues/5803)
 - 第1840天 (2024-04-29)  
     - [js] [请说说你对Promise.allSettled()的了解](https://github.com/haizlin/fe-interview/issues/5802)
 - 第1839天 (2024-04-28)  
