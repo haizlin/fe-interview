@@ -2,6 +2,8 @@
 
 
 
+- 第1842天 (2024-05-01)  
+    - [angular] [你有看过Angular的源码吗？](https://github.com/haizlin/fe-interview/issues/5804)
 - 第1841天 (2024-04-30)  
     - [angular] [请说说什么是Angular CLI构建器？](https://github.com/haizlin/fe-interview/issues/5803)
 - 第1840天 (2024-04-29)  

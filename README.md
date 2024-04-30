@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.04.30) —— 第1841天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular CLI构建器？](https://github.com/haizlin/fe-interview/issues/5803)  
+## :clock430: 今天的知识点   (2024.05.01) —— 第1842天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [你有看过Angular的源码吗？](https://github.com/haizlin/fe-interview/issues/5804)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1840天 (2024.04.29)  
-    	 :one: [js] [请说说你对Promise.allSettled()的了解](https://github.com/haizlin/fe-interview/issues/5802)  
+- 第1841天 (2024.04.30)  
+    	 :one: [angular] [请说说什么是Angular CLI构建器？](https://github.com/haizlin/fe-interview/issues/5803)  
  
 	
 - **[查看全部](category/history.md)**

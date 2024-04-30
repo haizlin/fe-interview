@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.04.30) —— 1841 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular CLI构建器？](https://github.com/haizlin/fe-interview/issues/5803)  
+## :clock430: Today's Knowledge Points (2024.05.01) —— 1842 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [你有看过Angular的源码吗？](https://github.com/haizlin/fe-interview/issues/5804)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1840 days (2024.04.29)  
-    	 :one: [js] [请说说你对Promise.allSettled()的了解](https://github.com/haizlin/fe-interview/issues/5802)  
+- 1841 days (2024.04.30)  
+    	 :one: [angular] [请说说什么是Angular CLI构建器？](https://github.com/haizlin/fe-interview/issues/5803)  
  
 	
 - **[All](category/history.md)**
