@@ -2,6 +2,8 @@
 
 
 
+- 第1843天 (2024-05-02)  
+    - [angular] [请说说使用Angular有哪些优势？](https://github.com/haizlin/fe-interview/issues/5805)
 - 第1842天 (2024-05-01)  
     - [angular] [你有看过Angular的源码吗？](https://github.com/haizlin/fe-interview/issues/5804)
 - 第1841天 (2024-04-30)  
