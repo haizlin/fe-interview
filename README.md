@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.02) —— 第1843天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说使用Angular有哪些优势？](https://github.com/haizlin/fe-interview/issues/5805)  
+## :clock430: 今天的知识点   (2024.05.03) —— 第1844天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的范围是什么？](https://github.com/haizlin/fe-interview/issues/5806)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1842天 (2024.05.01)  
-    	 :one: [angular] [你有看过Angular的源码吗？](https://github.com/haizlin/fe-interview/issues/5804)  
+- 第1843天 (2024.05.02)  
+    	 :one: [angular] [请说说使用Angular有哪些优势？](https://github.com/haizlin/fe-interview/issues/5805)  
  
 	
 - **[查看全部](category/history.md)**

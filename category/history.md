@@ -2,6 +2,8 @@
 
 
 
+- 第1844天 (2024-05-03)  
+    - [angular] [请说说在Angular中的范围是什么？](https://github.com/haizlin/fe-interview/issues/5806)
 - 第1843天 (2024-05-02)  
     - [angular] [请说说使用Angular有哪些优势？](https://github.com/haizlin/fe-interview/issues/5805)
 - 第1842天 (2024-05-01)  
