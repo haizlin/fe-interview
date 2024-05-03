@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.03) —— 1844 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的范围是什么？](https://github.com/haizlin/fe-interview/issues/5806)  
+## :clock430: Today's Knowledge Points (2024.05.04) —— 1845 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的指令是什么？](https://github.com/haizlin/fe-interview/issues/5807)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1843 days (2024.05.02)  
-    	 :one: [angular] [请说说使用Angular有哪些优势？](https://github.com/haizlin/fe-interview/issues/5805)  
+- 1844 days (2024.05.03)  
+    	 :one: [angular] [请说说在Angular中的范围是什么？](https://github.com/haizlin/fe-interview/issues/5806)  
  
 	
 - **[All](category/history.md)**

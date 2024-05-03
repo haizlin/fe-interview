@@ -2,6 +2,8 @@
 
 
 
+- 第1845天 (2024-05-04)  
+    - [angular] [请说说在Angular中的指令是什么？](https://github.com/haizlin/fe-interview/issues/5807)
 - 第1844天 (2024-05-03)  
     - [angular] [请说说在Angular中的范围是什么？](https://github.com/haizlin/fe-interview/issues/5806)
 - 第1843天 (2024-05-02)  
