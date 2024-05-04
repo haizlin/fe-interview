@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.04) —— 1845 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的指令是什么？](https://github.com/haizlin/fe-interview/issues/5807)  
+## :clock430: Today's Knowledge Points (2024.05.05) —— 1846 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中范围层次是什么？](https://github.com/haizlin/fe-interview/issues/5808)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1844 days (2024.05.03)  
-    	 :one: [angular] [请说说在Angular中的范围是什么？](https://github.com/haizlin/fe-interview/issues/5806)  
+- 1845 days (2024.05.04)  
+    	 :one: [angular] [请说说在Angular中的指令是什么？](https://github.com/haizlin/fe-interview/issues/5807)  
  
 	
 - **[All](category/history.md)**

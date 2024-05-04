@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.04) —— 第1845天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的指令是什么？](https://github.com/haizlin/fe-interview/issues/5807)  
+## :clock430: 今天的知识点   (2024.05.05) —— 第1846天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中范围层次是什么？](https://github.com/haizlin/fe-interview/issues/5808)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1844天 (2024.05.03)  
-    	 :one: [angular] [请说说在Angular中的范围是什么？](https://github.com/haizlin/fe-interview/issues/5806)  
+- 第1845天 (2024.05.04)  
+    	 :one: [angular] [请说说在Angular中的指令是什么？](https://github.com/haizlin/fe-interview/issues/5807)  
  
 	
 - **[查看全部](category/history.md)**
