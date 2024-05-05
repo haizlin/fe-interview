@@ -2,6 +2,8 @@
 
 
 
+- 第1847天 (2024-05-06)  
+    - [angular] [请说说在Angular中什么是AOT？](https://github.com/haizlin/fe-interview/issues/5809)
 - 第1846天 (2024-05-05)  
     - [angular] [请说说在Angular中范围层次是什么？](https://github.com/haizlin/fe-interview/issues/5808)
 - 第1845天 (2024-05-04)  
