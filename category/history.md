@@ -2,6 +2,8 @@
 
 
 
+- 第1848天 (2024-05-07)  
+    - [angular] [请说说在Angular中什么是数据绑定？](https://github.com/haizlin/fe-interview/issues/5810)
 - 第1847天 (2024-05-06)  
     - [angular] [请说说在Angular中什么是AOT？](https://github.com/haizlin/fe-interview/issues/5809)
 - 第1846天 (2024-05-05)  

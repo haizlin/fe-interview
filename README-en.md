@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.06) —— 1847 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是AOT？](https://github.com/haizlin/fe-interview/issues/5809)  
+## :clock430: Today's Knowledge Points (2024.05.07) —— 1848 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是数据绑定？](https://github.com/haizlin/fe-interview/issues/5810)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1846 days (2024.05.05)  
-    	 :one: [angular] [请说说在Angular中范围层次是什么？](https://github.com/haizlin/fe-interview/issues/5808)  
+- 1847 days (2024.05.06)  
+    	 :one: [angular] [请说说在Angular中什么是AOT？](https://github.com/haizlin/fe-interview/issues/5809)  
  
 	
 - **[All](category/history.md)**
