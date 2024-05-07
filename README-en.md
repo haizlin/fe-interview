@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.07) —— 1848 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是数据绑定？](https://github.com/haizlin/fe-interview/issues/5810)  
+## :clock430: Today's Knowledge Points (2024.05.08) —— 1849 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中使用过滤器的目？](https://github.com/haizlin/fe-interview/issues/5811)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1847 days (2024.05.06)  
-    	 :one: [angular] [请说说在Angular中什么是AOT？](https://github.com/haizlin/fe-interview/issues/5809)  
+- 1848 days (2024.05.07)  
+    	 :one: [angular] [请说说在Angular中什么是数据绑定？](https://github.com/haizlin/fe-interview/issues/5810)  
  
 	
 - **[All](category/history.md)**
