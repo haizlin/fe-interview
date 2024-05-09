@@ -2,6 +2,8 @@
 
 
 
+- 第1851天 (2024-05-10)  
+    - [angular] [请说说在Angular中REST是什么？](https://github.com/haizlin/fe-interview/issues/5813)
 - 第1850天 (2024-05-09)  
     - [angular] [请说说在Angular中事件指的是什么？](https://github.com/haizlin/fe-interview/issues/5812)
 - 第1849天 (2024-05-08)  
