@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.11) —— 1852 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说Angular主要用于什么？](https://github.com/haizlin/fe-interview/issues/5814)  
+## :clock430: Today's Knowledge Points (2024.05.12) —— 1853 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是角度表达式？](https://github.com/haizlin/fe-interview/issues/5815)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1851 days (2024.05.10)  
-    	 :one: [angular] [请说说在Angular中REST是什么？](https://github.com/haizlin/fe-interview/issues/5813)  
+- 1852 days (2024.05.11)  
+    	 :one: [angular] [请说说Angular主要用于什么？](https://github.com/haizlin/fe-interview/issues/5814)  
  
 	
 - **[All](category/history.md)**
