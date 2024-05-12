@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.12) —— 第1853天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是角度表达式？](https://github.com/haizlin/fe-interview/issues/5815)  
+## :clock430: 今天的知识点   (2024.05.13) —— 第1854天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中ng-app指令指的是什么？](https://github.com/haizlin/fe-interview/issues/5816)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1852天 (2024.05.11)  
-    	 :one: [angular] [请说说Angular主要用于什么？](https://github.com/haizlin/fe-interview/issues/5814)  
+- 第1853天 (2024.05.12)  
+    	 :one: [angular] [请说说在Angular中什么是角度表达式？](https://github.com/haizlin/fe-interview/issues/5815)  
  
 	
 - **[查看全部](category/history.md)**

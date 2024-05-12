@@ -2,6 +2,8 @@
 
 
 
+- 第1854天 (2024-05-13)  
+    - [angular] [请说说在Angular中ng-app指令指的是什么？](https://github.com/haizlin/fe-interview/issues/5816)
 - 第1853天 (2024-05-12)  
     - [angular] [请说说在Angular中什么是角度表达式？](https://github.com/haizlin/fe-interview/issues/5815)
 - 第1852天 (2024-05-11)  
