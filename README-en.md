@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.13) —— 1854 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中ng-app指令指的是什么？](https://github.com/haizlin/fe-interview/issues/5816)  
+## :clock430: Today's Knowledge Points (2024.05.14) —— 1855 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中模块之间进行通信的方式有哪些？](https://github.com/haizlin/fe-interview/issues/5817)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1853 days (2024.05.12)  
-    	 :one: [angular] [请说说在Angular中什么是角度表达式？](https://github.com/haizlin/fe-interview/issues/5815)  
+- 1854 days (2024.05.13)  
+    	 :one: [angular] [请说说在Angular中ng-app指令指的是什么？](https://github.com/haizlin/fe-interview/issues/5816)  
  
 	
 - **[All](category/history.md)**

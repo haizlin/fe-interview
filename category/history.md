@@ -2,6 +2,8 @@
 
 
 
+- 第1855天 (2024-05-14)  
+    - [angular] [请说说在Angular中模块之间进行通信的方式有哪些？](https://github.com/haizlin/fe-interview/issues/5817)
 - 第1854天 (2024-05-13)  
     - [angular] [请说说在Angular中ng-app指令指的是什么？](https://github.com/haizlin/fe-interview/issues/5816)
 - 第1853天 (2024-05-12)  
