@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.14) —— 1855 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中模块之间进行通信的方式有哪些？](https://github.com/haizlin/fe-interview/issues/5817)  
+## :clock430: Today's Knowledge Points (2024.05.15) —— 1856 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中factory()和service()有什么区别？](https://github.com/haizlin/fe-interview/issues/5818)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1854 days (2024.05.13)  
-    	 :one: [angular] [请说说在Angular中ng-app指令指的是什么？](https://github.com/haizlin/fe-interview/issues/5816)  
+- 1855 days (2024.05.14)  
+    	 :one: [angular] [请说说在Angular中模块之间进行通信的方式有哪些？](https://github.com/haizlin/fe-interview/issues/5817)  
  
 	
 - **[All](category/history.md)**

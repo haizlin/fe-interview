@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.14) —— 第1855天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中模块之间进行通信的方式有哪些？](https://github.com/haizlin/fe-interview/issues/5817)  
+## :clock430: 今天的知识点   (2024.05.15) —— 第1856天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中factory()和service()有什么区别？](https://github.com/haizlin/fe-interview/issues/5818)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1854天 (2024.05.13)  
-    	 :one: [angular] [请说说在Angular中ng-app指令指的是什么？](https://github.com/haizlin/fe-interview/issues/5816)  
+- 第1855天 (2024.05.14)  
+    	 :one: [angular] [请说说在Angular中模块之间进行通信的方式有哪些？](https://github.com/haizlin/fe-interview/issues/5817)  
  
 	
 - **[查看全部](category/history.md)**

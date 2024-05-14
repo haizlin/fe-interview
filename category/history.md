@@ -2,6 +2,8 @@
 
 
 
+- 第1856天 (2024-05-15)  
+    - [angular] [请说说在Angular中factory()和service()有什么区别？](https://github.com/haizlin/fe-interview/issues/5818)
 - 第1855天 (2024-05-14)  
     - [angular] [请说说在Angular中模块之间进行通信的方式有哪些？](https://github.com/haizlin/fe-interview/issues/5817)
 - 第1854天 (2024-05-13)  
