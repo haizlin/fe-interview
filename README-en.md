@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.15) —— 1856 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中factory()和service()有什么区别？](https://github.com/haizlin/fe-interview/issues/5818)  
+## :clock430: Today's Knowledge Points (2024.05.16) —— 1857 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的模板是什么？](https://github.com/haizlin/fe-interview/issues/5819)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1855 days (2024.05.14)  
-    	 :one: [angular] [请说说在Angular中模块之间进行通信的方式有哪些？](https://github.com/haizlin/fe-interview/issues/5817)  
+- 1856 days (2024.05.15)  
+    	 :one: [angular] [请说说在Angular中factory()和service()有什么区别？](https://github.com/haizlin/fe-interview/issues/5818)  
  
 	
 - **[All](category/history.md)**
