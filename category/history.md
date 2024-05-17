@@ -2,6 +2,8 @@
 
 
 
+- 第1859天 (2024-05-18)  
+    - [angular] [请说说在Angular中常数指的是什么？](https://github.com/haizlin/fe-interview/issues/5821)
 - 第1858天 (2024-05-17)  
     - [angular] [请说说在Angular中链接和编译有什么区别？](https://github.com/haizlin/fe-interview/issues/5820)
 - 第1857天 (2024-05-16)  

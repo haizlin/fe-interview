@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.17) —— 1858 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中链接和编译有什么区别？](https://github.com/haizlin/fe-interview/issues/5820)  
+## :clock430: Today's Knowledge Points (2024.05.18) —— 1859 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中常数指的是什么？](https://github.com/haizlin/fe-interview/issues/5821)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1857 days (2024.05.16)  
-    	 :one: [angular] [请说说在Angular中的模板是什么？](https://github.com/haizlin/fe-interview/issues/5819)  
+- 1858 days (2024.05.17)  
+    	 :one: [angular] [请说说在Angular中链接和编译有什么区别？](https://github.com/haizlin/fe-interview/issues/5820)  
  
 	
 - **[All](category/history.md)**
