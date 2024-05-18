@@ -2,6 +2,8 @@
 
 
 
+- 第1860天 (2024-05-19)  
+    - [angular] [请说说在Angular中，什么是字符串插值？](https://github.com/haizlin/fe-interview/issues/5822)
 - 第1859天 (2024-05-18)  
     - [angular] [请说说在Angular中常数指的是什么？](https://github.com/haizlin/fe-interview/issues/5821)
 - 第1858天 (2024-05-17)  

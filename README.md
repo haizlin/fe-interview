@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.18) —— 第1859天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中常数指的是什么？](https://github.com/haizlin/fe-interview/issues/5821)  
+## :clock430: 今天的知识点   (2024.05.19) —— 第1860天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中，什么是字符串插值？](https://github.com/haizlin/fe-interview/issues/5822)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1858天 (2024.05.17)  
-    	 :one: [angular] [请说说在Angular中链接和编译有什么区别？](https://github.com/haizlin/fe-interview/issues/5820)  
+- 第1859天 (2024.05.18)  
+    	 :one: [angular] [请说说在Angular中常数指的是什么？](https://github.com/haizlin/fe-interview/issues/5821)  
  
 	
 - **[查看全部](category/history.md)**
