@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.20) —— 第1861天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的Decorator和Annotation有什么区别？](https://github.com/haizlin/fe-interview/issues/5823)  
+## :clock430: 今天的知识点   (2024.05.21) —— 第1862天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的控制器的作用有哪些？](https://github.com/haizlin/fe-interview/issues/5824)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1860天 (2024.05.19)  
-    	 :one: [angular] [请说说在Angular中，什么是字符串插值？](https://github.com/haizlin/fe-interview/issues/5822)  
+- 第1861天 (2024.05.20)  
+    	 :one: [angular] [请说说在Angular中的Decorator和Annotation有什么区别？](https://github.com/haizlin/fe-interview/issues/5823)  
  
 	
 - **[查看全部](category/history.md)**

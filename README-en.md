@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.20) —— 1861 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的Decorator和Annotation有什么区别？](https://github.com/haizlin/fe-interview/issues/5823)  
+## :clock430: Today's Knowledge Points (2024.05.21) —— 1862 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的控制器的作用有哪些？](https://github.com/haizlin/fe-interview/issues/5824)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1860 days (2024.05.19)  
-    	 :one: [angular] [请说说在Angular中，什么是字符串插值？](https://github.com/haizlin/fe-interview/issues/5822)  
+- 1861 days (2024.05.20)  
+    	 :one: [angular] [请说说在Angular中的Decorator和Annotation有什么区别？](https://github.com/haizlin/fe-interview/issues/5823)  
  
 	
 - **[All](category/history.md)**
