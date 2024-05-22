@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.22) —— 第1863天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说Angular和jQuery有什么区别？](https://github.com/haizlin/fe-interview/issues/5825)  
+## :clock430: 今天的知识点   (2024.05.23) —— 第1864天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的提供程序是什么？](https://github.com/haizlin/fe-interview/issues/5826)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1862天 (2024.05.21)  
-    	 :one: [angular] [请说说在Angular中的控制器的作用有哪些？](https://github.com/haizlin/fe-interview/issues/5824)  
+- 第1863天 (2024.05.22)  
+    	 :one: [angular] [请说说Angular和jQuery有什么区别？](https://github.com/haizlin/fe-interview/issues/5825)  
  
 	
 - **[查看全部](category/history.md)**

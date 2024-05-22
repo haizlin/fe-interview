@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.22) —— 1863 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说Angular和jQuery有什么区别？](https://github.com/haizlin/fe-interview/issues/5825)  
+## :clock430: Today's Knowledge Points (2024.05.23) —— 1864 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的提供程序是什么？](https://github.com/haizlin/fe-interview/issues/5826)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1862 days (2024.05.21)  
-    	 :one: [angular] [请说说在Angular中的控制器的作用有哪些？](https://github.com/haizlin/fe-interview/issues/5824)  
+- 1863 days (2024.05.22)  
+    	 :one: [angular] [请说说Angular和jQuery有什么区别？](https://github.com/haizlin/fe-interview/issues/5825)  
  
 	
 - **[All](category/history.md)**

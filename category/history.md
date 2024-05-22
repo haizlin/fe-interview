@@ -2,6 +2,8 @@
 
 
 
+- 第1864天 (2024-05-23)  
+    - [angular] [请说说在Angular中的提供程序是什么？](https://github.com/haizlin/fe-interview/issues/5826)
 - 第1863天 (2024-05-22)  
     - [angular] [请说说Angular和jQuery有什么区别？](https://github.com/haizlin/fe-interview/issues/5825)
 - 第1862天 (2024-05-21)  
