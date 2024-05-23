@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.23) —— 1864 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的提供程序是什么？](https://github.com/haizlin/fe-interview/issues/5826)  
+## :clock430: Today's Knowledge Points (2024.05.24) —— 1865 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中是如何区分单向绑定和双向数据绑定的？](https://github.com/haizlin/fe-interview/issues/5827)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1863 days (2024.05.22)  
-    	 :one: [angular] [请说说Angular和jQuery有什么区别？](https://github.com/haizlin/fe-interview/issues/5825)  
+- 1864 days (2024.05.23)  
+    	 :one: [angular] [请说说在Angular中的提供程序是什么？](https://github.com/haizlin/fe-interview/issues/5826)  
  
 	
 - **[All](category/history.md)**
