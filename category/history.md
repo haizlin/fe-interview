@@ -2,6 +2,8 @@
 
 
 
+- 第1866天 (2024-05-25)  
+    - [angular] [请说说在Angular中组件和指令的生命周期挂钩是什么？](https://github.com/haizlin/fe-interview/issues/5828)
 - 第1865天 (2024-05-24)  
     - [angular] [请说说在Angular中是如何区分单向绑定和双向数据绑定的？](https://github.com/haizlin/fe-interview/issues/5827)
 - 第1864天 (2024-05-23)  

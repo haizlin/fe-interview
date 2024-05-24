@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.24) —— 1865 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中是如何区分单向绑定和双向数据绑定的？](https://github.com/haizlin/fe-interview/issues/5827)  
+## :clock430: Today's Knowledge Points (2024.05.25) —— 1866 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中组件和指令的生命周期挂钩是什么？](https://github.com/haizlin/fe-interview/issues/5828)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1864 days (2024.05.23)  
-    	 :one: [angular] [请说说在Angular中的提供程序是什么？](https://github.com/haizlin/fe-interview/issues/5826)  
+- 1865 days (2024.05.24)  
+    	 :one: [angular] [请说说在Angular中是如何区分单向绑定和双向数据绑定的？](https://github.com/haizlin/fe-interview/issues/5827)  
  
 	
 - **[All](category/history.md)**
