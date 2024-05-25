@@ -2,6 +2,8 @@
 
 
 
+- 第1867天 (2024-05-26)  
+    - [angular] [请说说在Angular中是否支持嵌套控制器？](https://github.com/haizlin/fe-interview/issues/5829)
 - 第1866天 (2024-05-25)  
     - [angular] [请说说在Angular中组件和指令的生命周期挂钩是什么？](https://github.com/haizlin/fe-interview/issues/5828)
 - 第1865天 (2024-05-24)  
