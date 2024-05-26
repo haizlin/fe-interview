@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.26) —— 1867 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中是否支持嵌套控制器？](https://github.com/haizlin/fe-interview/issues/5829)  
+## :clock430: Today's Knowledge Points (2024.05.27) —— 1868 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [怎样区分Angular表达式和JavaScript表达式？](https://github.com/haizlin/fe-interview/issues/5830)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1866 days (2024.05.25)  
-    	 :one: [angular] [请说说在Angular中组件和指令的生命周期挂钩是什么？](https://github.com/haizlin/fe-interview/issues/5828)  
+- 1867 days (2024.05.26)  
+    	 :one: [angular] [请说说在Angular中是否支持嵌套控制器？](https://github.com/haizlin/fe-interview/issues/5829)  
  
 	
 - **[All](category/history.md)**

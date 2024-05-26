@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.26) —— 第1867天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中是否支持嵌套控制器？](https://github.com/haizlin/fe-interview/issues/5829)  
+## :clock430: 今天的知识点   (2024.05.27) —— 第1868天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [怎样区分Angular表达式和JavaScript表达式？](https://github.com/haizlin/fe-interview/issues/5830)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1866天 (2024.05.25)  
-    	 :one: [angular] [请说说在Angular中组件和指令的生命周期挂钩是什么？](https://github.com/haizlin/fe-interview/issues/5828)  
+- 第1867天 (2024.05.26)  
+    	 :one: [angular] [请说说在Angular中是否支持嵌套控制器？](https://github.com/haizlin/fe-interview/issues/5829)  
  
 	
 - **[查看全部](category/history.md)**

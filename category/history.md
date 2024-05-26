@@ -2,6 +2,8 @@
 
 
 
+- 第1868天 (2024-05-27)  
+    - [angular] [怎样区分Angular表达式和JavaScript表达式？](https://github.com/haizlin/fe-interview/issues/5830)
 - 第1867天 (2024-05-26)  
     - [angular] [请说说在Angular中是否支持嵌套控制器？](https://github.com/haizlin/fe-interview/issues/5829)
 - 第1866天 (2024-05-25)  
