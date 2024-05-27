@@ -2,6 +2,8 @@
 
 
 
+- 第1869天 (2024-05-28)  
+    - [angular] [请说说在Angular中是如何进行脏检查的？](https://github.com/haizlin/fe-interview/issues/5831)
 - 第1868天 (2024-05-27)  
     - [angular] [怎样区分Angular表达式和JavaScript表达式？](https://github.com/haizlin/fe-interview/issues/5830)
 - 第1867天 (2024-05-26)  

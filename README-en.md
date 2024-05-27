@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.27) —— 1868 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [怎样区分Angular表达式和JavaScript表达式？](https://github.com/haizlin/fe-interview/issues/5830)  
+## :clock430: Today's Knowledge Points (2024.05.28) —— 1869 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中是如何进行脏检查的？](https://github.com/haizlin/fe-interview/issues/5831)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1867 days (2024.05.26)  
-    	 :one: [angular] [请说说在Angular中是否支持嵌套控制器？](https://github.com/haizlin/fe-interview/issues/5829)  
+- 1868 days (2024.05.27)  
+    	 :one: [angular] [怎样区分Angular表达式和JavaScript表达式？](https://github.com/haizlin/fe-interview/issues/5830)  
  
 	
 - **[All](category/history.md)**
