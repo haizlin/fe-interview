@@ -2,6 +2,8 @@
 
 
 
+- 第1870天 (2024-05-29)  
+    - [angular] [请说说什么是Angular Global API？](https://github.com/haizlin/fe-interview/issues/5832)
 - 第1869天 (2024-05-28)  
     - [angular] [请说说在Angular中是如何进行脏检查的？](https://github.com/haizlin/fe-interview/issues/5831)
 - 第1868天 (2024-05-27)  

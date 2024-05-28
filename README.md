@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.28) —— 第1869天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中是如何进行脏检查的？](https://github.com/haizlin/fe-interview/issues/5831)  
+## :clock430: 今天的知识点   (2024.05.29) —— 第1870天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular Global API？](https://github.com/haizlin/fe-interview/issues/5832)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1868天 (2024.05.27)  
-    	 :one: [angular] [怎样区分Angular表达式和JavaScript表达式？](https://github.com/haizlin/fe-interview/issues/5830)  
+- 第1869天 (2024.05.28)  
+    	 :one: [angular] [请说说在Angular中是如何进行脏检查的？](https://github.com/haizlin/fe-interview/issues/5831)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.28) —— 1869 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中是如何进行脏检查的？](https://github.com/haizlin/fe-interview/issues/5831)  
+## :clock430: Today's Knowledge Points (2024.05.29) —— 1870 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular Global API？](https://github.com/haizlin/fe-interview/issues/5832)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1868 days (2024.05.27)  
-    	 :one: [angular] [怎样区分Angular表达式和JavaScript表达式？](https://github.com/haizlin/fe-interview/issues/5830)  
+- 1869 days (2024.05.28)  
+    	 :one: [angular] [请说说在Angular中是如何进行脏检查的？](https://github.com/haizlin/fe-interview/issues/5831)  
  
 	
 - **[All](category/history.md)**
