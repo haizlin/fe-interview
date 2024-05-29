@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.29) —— 1870 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说什么是Angular Global API？](https://github.com/haizlin/fe-interview/issues/5832)  
+## :clock430: Today's Knowledge Points (2024.05.30) —— 1871 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中怎样设置、获取和清除cookie？](https://github.com/haizlin/fe-interview/issues/5833)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1869 days (2024.05.28)  
-    	 :one: [angular] [请说说在Angular中是如何进行脏检查的？](https://github.com/haizlin/fe-interview/issues/5831)  
+- 1870 days (2024.05.29)  
+    	 :one: [angular] [请说说什么是Angular Global API？](https://github.com/haizlin/fe-interview/issues/5832)  
  
 	
 - **[All](category/history.md)**

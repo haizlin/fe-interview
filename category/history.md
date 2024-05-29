@@ -2,6 +2,8 @@
 
 
 
+- 第1871天 (2024-05-30)  
+    - [angular] [请说说在Angular中怎样设置、获取和清除cookie？](https://github.com/haizlin/fe-interview/issues/5833)
 - 第1870天 (2024-05-29)  
     - [angular] [请说说什么是Angular Global API？](https://github.com/haizlin/fe-interview/issues/5832)
 - 第1869天 (2024-05-28)  
