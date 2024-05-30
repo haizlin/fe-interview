@@ -2,6 +2,8 @@
 
 
 
+- 第1872天 (2024-05-31)  
+    - [angular] [请说说在Angular中$scope和scope有什么区别？](https://github.com/haizlin/fe-interview/issues/5834)
 - 第1871天 (2024-05-30)  
     - [angular] [请说说在Angular中怎样设置、获取和清除cookie？](https://github.com/haizlin/fe-interview/issues/5833)
 - 第1870天 (2024-05-29)  
