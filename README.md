@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.05.31) —— 第1872天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中$scope和scope有什么区别？](https://github.com/haizlin/fe-interview/issues/5834)  
+## :clock430: 今天的知识点   (2024.06.01) —— 第1873天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的摘要循环过程是什么？](https://github.com/haizlin/fe-interview/issues/5835)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1871天 (2024.05.30)  
-    	 :one: [angular] [请说说在Angular中怎样设置、获取和清除cookie？](https://github.com/haizlin/fe-interview/issues/5833)  
+- 第1872天 (2024.05.31)  
+    	 :one: [angular] [请说说在Angular中$scope和scope有什么区别？](https://github.com/haizlin/fe-interview/issues/5834)  
  
 	
 - **[查看全部](category/history.md)**

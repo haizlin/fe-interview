@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.05.31) —— 1872 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中$scope和scope有什么区别？](https://github.com/haizlin/fe-interview/issues/5834)  
+## :clock430: Today's Knowledge Points (2024.06.01) —— 1873 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的摘要循环过程是什么？](https://github.com/haizlin/fe-interview/issues/5835)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1871 days (2024.05.30)  
-    	 :one: [angular] [请说说在Angular中怎样设置、获取和清除cookie？](https://github.com/haizlin/fe-interview/issues/5833)  
+- 1872 days (2024.05.31)  
+    	 :one: [angular] [请说说在Angular中$scope和scope有什么区别？](https://github.com/haizlin/fe-interview/issues/5834)  
  
 	
 - **[All](category/history.md)**
