@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.01) —— 1873 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的摘要循环过程是什么？](https://github.com/haizlin/fe-interview/issues/5835)  
+## :clock430: Today's Knowledge Points (2024.06.02) —— 1874 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中哪些类型的组件可以创建自定义指令？](https://github.com/haizlin/fe-interview/issues/5836)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1872 days (2024.05.31)  
-    	 :one: [angular] [请说说在Angular中$scope和scope有什么区别？](https://github.com/haizlin/fe-interview/issues/5834)  
+- 1873 days (2024.06.01)  
+    	 :one: [angular] [请说说在Angular中的摘要循环过程是什么？](https://github.com/haizlin/fe-interview/issues/5835)  
  
 	
 - **[All](category/history.md)**

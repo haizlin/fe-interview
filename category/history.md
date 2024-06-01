@@ -2,6 +2,8 @@
 
 
 
+- 第1874天 (2024-06-02)  
+    - [angular] [请说说在Angular中哪些类型的组件可以创建自定义指令？](https://github.com/haizlin/fe-interview/issues/5836)
 - 第1873天 (2024-06-01)  
     - [angular] [请说说在Angular中的摘要循环过程是什么？](https://github.com/haizlin/fe-interview/issues/5835)
 - 第1872天 (2024-05-31)  
