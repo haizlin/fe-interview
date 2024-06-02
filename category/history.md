@@ -2,6 +2,8 @@
 
 
 
+- 第1875天 (2024-06-03)  
+    - [angular] [请说说在Angular中有哪些不同类型的过滤器？](https://github.com/haizlin/fe-interview/issues/5837)
 - 第1874天 (2024-06-02)  
     - [angular] [请说说在Angular中哪些类型的组件可以创建自定义指令？](https://github.com/haizlin/fe-interview/issues/5836)
 - 第1873天 (2024-06-01)  
