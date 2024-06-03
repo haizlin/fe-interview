@@ -2,6 +2,8 @@
 
 
 
+- 第1876天 (2024-06-04)  
+    - [angular] [请说说在Angular中什么是Transpiling？](https://github.com/haizlin/fe-interview/issues/5838)
 - 第1875天 (2024-06-03)  
     - [angular] [请说说在Angular中有哪些不同类型的过滤器？](https://github.com/haizlin/fe-interview/issues/5837)
 - 第1874天 (2024-06-02)  
