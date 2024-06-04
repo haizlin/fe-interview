@@ -2,6 +2,8 @@
 
 
 
+- 第1877天 (2024-06-05)  
+    - [angular] [请说说在Angular中什么是包含？](https://github.com/haizlin/fe-interview/issues/5839)
 - 第1876天 (2024-06-04)  
     - [angular] [请说说在Angular中什么是Transpiling？](https://github.com/haizlin/fe-interview/issues/5838)
 - 第1875天 (2024-06-03)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.04) —— 第1876天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是Transpiling？](https://github.com/haizlin/fe-interview/issues/5838)  
+## :clock430: 今天的知识点   (2024.06.05) —— 第1877天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是包含？](https://github.com/haizlin/fe-interview/issues/5839)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1875天 (2024.06.03)  
-    	 :one: [angular] [请说说在Angular中有哪些不同类型的过滤器？](https://github.com/haizlin/fe-interview/issues/5837)  
+- 第1876天 (2024.06.04)  
+    	 :one: [angular] [请说说在Angular中什么是Transpiling？](https://github.com/haizlin/fe-interview/issues/5838)  
  
 	
 - **[查看全部](category/history.md)**
