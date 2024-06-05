@@ -2,6 +2,8 @@
 
 
 
+- 第1878天 (2024-06-06)  
+    - [angular] [请说说在Angular中的自举是什么？](https://github.com/haizlin/fe-interview/issues/5840)
 - 第1877天 (2024-06-05)  
     - [angular] [请说说在Angular中什么是包含？](https://github.com/haizlin/fe-interview/issues/5839)
 - 第1876天 (2024-06-04)  

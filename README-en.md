@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.05) —— 1877 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是包含？](https://github.com/haizlin/fe-interview/issues/5839)  
+## :clock430: Today's Knowledge Points (2024.06.06) —— 1878 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的自举是什么？](https://github.com/haizlin/fe-interview/issues/5840)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1876 days (2024.06.04)  
-    	 :one: [angular] [请说说在Angular中什么是Transpiling？](https://github.com/haizlin/fe-interview/issues/5838)  
+- 1877 days (2024.06.05)  
+    	 :one: [angular] [请说说在Angular中什么是包含？](https://github.com/haizlin/fe-interview/issues/5839)  
  
 	
 - **[All](category/history.md)**
