@@ -2,6 +2,8 @@
 
 
 
+- 第1879天 (2024-06-07)  
+    - [angular] [请说说在Angular中提供者，服务和工厂之间有什么区别？](https://github.com/haizlin/fe-interview/issues/5841)
 - 第1878天 (2024-06-06)  
     - [angular] [请说说在Angular中的自举是什么？](https://github.com/haizlin/fe-interview/issues/5840)
 - 第1877天 (2024-06-05)  

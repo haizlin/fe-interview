@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.06) —— 1878 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中的自举是什么？](https://github.com/haizlin/fe-interview/issues/5840)  
+## :clock430: Today's Knowledge Points (2024.06.07) —— 1879 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中提供者，服务和工厂之间有什么区别？](https://github.com/haizlin/fe-interview/issues/5841)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1877 days (2024.06.05)  
-    	 :one: [angular] [请说说在Angular中什么是包含？](https://github.com/haizlin/fe-interview/issues/5839)  
+- 1878 days (2024.06.06)  
+    	 :one: [angular] [请说说在Angular中的自举是什么？](https://github.com/haizlin/fe-interview/issues/5840)  
  
 	
 - **[All](category/history.md)**
