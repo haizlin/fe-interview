@@ -2,6 +2,8 @@
 
 
 
+- 第1880天 (2024-06-08)  
+    - [angular] [请说说在Angular中如何定义路由过渡动画？](https://github.com/haizlin/fe-interview/issues/5842)
 - 第1879天 (2024-06-07)  
     - [angular] [请说说在Angular中提供者，服务和工厂之间有什么区别？](https://github.com/haizlin/fe-interview/issues/5841)
 - 第1878天 (2024-06-06)  
