@@ -2,6 +2,8 @@
 
 
 
+- 第1881天 (2024-06-09)  
+    - [angular] [请说说在Angular中什么是RouterOutlet？](https://github.com/haizlin/fe-interview/issues/5843)
 - 第1880天 (2024-06-08)  
     - [angular] [请说说在Angular中如何定义路由过渡动画？](https://github.com/haizlin/fe-interview/issues/5842)
 - 第1879天 (2024-06-07)  

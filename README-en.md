@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.08) —— 1880 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中如何定义路由过渡动画？](https://github.com/haizlin/fe-interview/issues/5842)  
+## :clock430: Today's Knowledge Points (2024.06.09) —— 1881 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是RouterOutlet？](https://github.com/haizlin/fe-interview/issues/5843)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1879 days (2024.06.07)  
-    	 :one: [angular] [请说说在Angular中提供者，服务和工厂之间有什么区别？](https://github.com/haizlin/fe-interview/issues/5841)  
+- 1880 days (2024.06.08)  
+    	 :one: [angular] [请说说在Angular中如何定义路由过渡动画？](https://github.com/haizlin/fe-interview/issues/5842)  
  
 	
 - **[All](category/history.md)**

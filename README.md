@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.08) —— 第1880天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中如何定义路由过渡动画？](https://github.com/haizlin/fe-interview/issues/5842)  
+## :clock430: 今天的知识点   (2024.06.09) —— 第1881天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是RouterOutlet？](https://github.com/haizlin/fe-interview/issues/5843)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1879天 (2024.06.07)  
-    	 :one: [angular] [请说说在Angular中提供者，服务和工厂之间有什么区别？](https://github.com/haizlin/fe-interview/issues/5841)  
+- 第1880天 (2024.06.08)  
+    	 :one: [angular] [请说说在Angular中如何定义路由过渡动画？](https://github.com/haizlin/fe-interview/issues/5842)  
  
 	
 - **[查看全部](category/history.md)**
