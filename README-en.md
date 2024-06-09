@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.09) —— 1881 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中什么是RouterOutlet？](https://github.com/haizlin/fe-interview/issues/5843)  
+## :clock430: Today's Knowledge Points (2024.06.10) —— 1882 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [angular] [请说说在Angular中ng-content和select的了解](https://github.com/haizlin/fe-interview/issues/5844)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1880 days (2024.06.08)  
-    	 :one: [angular] [请说说在Angular中如何定义路由过渡动画？](https://github.com/haizlin/fe-interview/issues/5842)  
+- 1881 days (2024.06.09)  
+    	 :one: [angular] [请说说在Angular中什么是RouterOutlet？](https://github.com/haizlin/fe-interview/issues/5843)  
  
 	
 - **[All](category/history.md)**

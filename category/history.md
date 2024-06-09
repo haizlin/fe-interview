@@ -2,6 +2,8 @@
 
 
 
+- 第1882天 (2024-06-10)  
+    - [angular] [请说说在Angular中ng-content和select的了解](https://github.com/haizlin/fe-interview/issues/5844)
 - 第1881天 (2024-06-09)  
     - [angular] [请说说在Angular中什么是RouterOutlet？](https://github.com/haizlin/fe-interview/issues/5843)
 - 第1880天 (2024-06-08)  
