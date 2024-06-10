@@ -2,6 +2,8 @@
 
 
 
+- 第1883天 (2024-06-11)  
+    - [js] [使用Javascript写一个方法检测页面是否为空间状态](https://github.com/haizlin/fe-interview/issues/5845)
 - 第1882天 (2024-06-10)  
     - [angular] [请说说在Angular中ng-content和select的了解](https://github.com/haizlin/fe-interview/issues/5844)
 - 第1881天 (2024-06-09)  
