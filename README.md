@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.11) —— 第1883天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用Javascript写一个方法检测页面是否为空间状态](https://github.com/haizlin/fe-interview/issues/5845)  
+## :clock430: 今天的知识点   (2024.06.12) —— 第1884天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用位运算改写以下的方法Math.ceil(20 / 3)？](https://github.com/haizlin/fe-interview/issues/5846)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1882天 (2024.06.10)  
-    	 :one: [angular] [请说说在Angular中ng-content和select的了解](https://github.com/haizlin/fe-interview/issues/5844)  
+- 第1883天 (2024.06.11)  
+    	 :one: [js] [使用Javascript写一个方法检测页面是否为空间状态](https://github.com/haizlin/fe-interview/issues/5845)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1884天 (2024-06-12)  
+    - [js] [如何使用位运算改写以下的方法Math.ceil(20 / 3)？](https://github.com/haizlin/fe-interview/issues/5846)
 - 第1883天 (2024-06-11)  
     - [js] [使用Javascript写一个方法检测页面是否为空间状态](https://github.com/haizlin/fe-interview/issues/5845)
 - 第1882天 (2024-06-10)  

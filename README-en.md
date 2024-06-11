@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.11) —— 1883 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用Javascript写一个方法检测页面是否为空间状态](https://github.com/haizlin/fe-interview/issues/5845)  
+## :clock430: Today's Knowledge Points (2024.06.12) —— 1884 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用位运算改写以下的方法Math.ceil(20 / 3)？](https://github.com/haizlin/fe-interview/issues/5846)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1882 days (2024.06.10)  
-    	 :one: [angular] [请说说在Angular中ng-content和select的了解](https://github.com/haizlin/fe-interview/issues/5844)  
+- 1883 days (2024.06.11)  
+    	 :one: [js] [使用Javascript写一个方法检测页面是否为空间状态](https://github.com/haizlin/fe-interview/issues/5845)  
  
 	
 - **[All](category/history.md)**
