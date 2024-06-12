@@ -2,6 +2,8 @@
 
 
 
+- 第1885天 (2024-06-13)  
+    - [软技能] [请说说鸿蒙和android有什么区别？](https://github.com/haizlin/fe-interview/issues/5847)
 - 第1884天 (2024-06-12)  
     - [js] [如何使用位运算改写以下的方法Math.ceil(20 / 3)？](https://github.com/haizlin/fe-interview/issues/5846)
 - 第1883天 (2024-06-11)  
