@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.13) —— 1885 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说鸿蒙和android有什么区别？](https://github.com/haizlin/fe-interview/issues/5847)  
+## :clock430: Today's Knowledge Points (2024.06.14) —— 1886 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对arkts的了解](https://github.com/haizlin/fe-interview/issues/5849)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1884 days (2024.06.12)  
-    	 :one: [js] [如何使用位运算改写以下的方法Math.ceil(20 / 3)？](https://github.com/haizlin/fe-interview/issues/5846)  
+- 1885 days (2024.06.13)  
+    	 :one: [skill] [请说说鸿蒙和android有什么区别？](https://github.com/haizlin/fe-interview/issues/5847)  
  
 	
 - **[All](category/history.md)**

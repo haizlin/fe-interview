@@ -2,6 +2,8 @@
 
 
 
+- 第1886天 (2024-06-14)  
+    - [软技能] [说说你对arkts的了解](https://github.com/haizlin/fe-interview/issues/5849)
 - 第1885天 (2024-06-13)  
     - [软技能] [请说说鸿蒙和android有什么区别？](https://github.com/haizlin/fe-interview/issues/5847)
 - 第1884天 (2024-06-12)  
