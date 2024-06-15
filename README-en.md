@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.15) —— 1887 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [arkts有哪些特性？](https://github.com/haizlin/fe-interview/issues/5850)  
+## :clock430: Today's Knowledge Points (2024.06.16) —— 1888 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1886 days (2024.06.14)  
-    	 :one: [skill] [说说你对arkts的了解](https://github.com/haizlin/fe-interview/issues/5849)  
+- 1887 days (2024.06.15)  
+    	 :one: [skill] [arkts有哪些特性？](https://github.com/haizlin/fe-interview/issues/5850)  
  
 	
 - **[All](category/history.md)**

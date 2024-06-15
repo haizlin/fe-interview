@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.15) —— 第1887天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [arkts有哪些特性？](https://github.com/haizlin/fe-interview/issues/5850)  
+## :clock430: 今天的知识点   (2024.06.16) —— 第1888天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1886天 (2024.06.14)  
-    	 :one: [软技能] [说说你对arkts的了解](https://github.com/haizlin/fe-interview/issues/5849)  
+- 第1887天 (2024.06.15)  
+    	 :one: [软技能] [arkts有哪些特性？](https://github.com/haizlin/fe-interview/issues/5850)  
  
 	
 - **[查看全部](category/history.md)**
