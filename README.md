@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.16) —— 第1888天  
+## :clock430: 今天的知识点   (2024.06.17) —— 第1889天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1887天 (2024.06.15)  
-    	 :one: [软技能] [arkts有哪些特性？](https://github.com/haizlin/fe-interview/issues/5850)  
+- 第1888天 (2024.06.16)  
+    	 :one: [vue] [请说说你认为vitepress和vuepress哪个好？](https://github.com/haizlin/fe-interview/issues/5851)  
  
 	
 - **[查看全部](category/history.md)**

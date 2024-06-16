@@ -2,6 +2,8 @@
 
 
 
+- 第1888天 (2024-06-16)  
+    - [vue] [请说说你认为vitepress和vuepress哪个好？](https://github.com/haizlin/fe-interview/issues/5851)
 - 第1887天 (2024-06-15)  
     - [软技能] [arkts有哪些特性？](https://github.com/haizlin/fe-interview/issues/5850)
 - 第1886天 (2024-06-14)  

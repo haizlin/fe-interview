@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.16) —— 1888 days  
+## :clock430: Today's Knowledge Points (2024.06.17) —— 1889 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1887 days (2024.06.15)  
-    	 :one: [skill] [arkts有哪些特性？](https://github.com/haizlin/fe-interview/issues/5850)  
+- 1888 days (2024.06.16)  
+    	 :one: [vue] [请说说你认为vitepress和vuepress哪个好？](https://github.com/haizlin/fe-interview/issues/5851)  
  
 	
 - **[All](category/history.md)**
