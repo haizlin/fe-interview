@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.17) —— 1889 days  
+## :clock430: Today's Knowledge Points (2024.06.18) —— 1890 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1888 days (2024.06.16)  
-    	 :one: [vue] [请说说你认为vitepress和vuepress哪个好？](https://github.com/haizlin/fe-interview/issues/5851)  
+- 1889 days (2024.06.17)  
+    	 :one: [html] [使用canvas制作一个在线钢琴模拟器](https://github.com/haizlin/fe-interview/issues/5852)  
  
 	
 - **[All](category/history.md)**

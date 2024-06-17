@@ -2,6 +2,8 @@
 
 
 
+- 第1889天 (2024-06-17)  
+    - [html] [使用canvas制作一个在线钢琴模拟器](https://github.com/haizlin/fe-interview/issues/5852)
 - 第1888天 (2024-06-16)  
     - [vue] [请说说你认为vitepress和vuepress哪个好？](https://github.com/haizlin/fe-interview/issues/5851)
 - 第1887天 (2024-06-15)  
