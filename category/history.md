@@ -2,6 +2,10 @@
 
 
 
+- 第1891天 (2024-06-19)  
+    - [软技能] [请说说你对emscripten的了解](https://github.com/haizlin/fe-interview/issues/5854)
+- 第1890天 (2024-06-18)  
+    - [js] [请说说WASM如何进行内存管理？](https://github.com/haizlin/fe-interview/issues/5853)
 - 第1889天 (2024-06-17)  
     - [html] [使用canvas制作一个在线钢琴模拟器](https://github.com/haizlin/fe-interview/issues/5852)
 - 第1888天 (2024-06-16)  

@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.18) —— 1890 days  
+## :clock430: Today's Knowledge Points (2024.06.19) —— 1891 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说你对emscripten的了解](https://github.com/haizlin/fe-interview/issues/5854)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1889 days (2024.06.17)  
-    	 :one: [html] [使用canvas制作一个在线钢琴模拟器](https://github.com/haizlin/fe-interview/issues/5852)  
+- 1890 days (2024.06.18)  
+    	 :one: [js] [请说说WASM如何进行内存管理？](https://github.com/haizlin/fe-interview/issues/5853)  
  
 	
 - **[All](category/history.md)**

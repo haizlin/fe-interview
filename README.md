@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.18) —— 第1890天  
+## :clock430: 今天的知识点   (2024.06.19) —— 第1891天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对emscripten的了解](https://github.com/haizlin/fe-interview/issues/5854)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1889天 (2024.06.17)  
-    	 :one: [html] [使用canvas制作一个在线钢琴模拟器](https://github.com/haizlin/fe-interview/issues/5852)  
+- 第1890天 (2024.06.18)  
+    	 :one: [js] [请说说WASM如何进行内存管理？](https://github.com/haizlin/fe-interview/issues/5853)  
  
 	
 - **[查看全部](category/history.md)**
