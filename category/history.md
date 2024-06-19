@@ -2,6 +2,8 @@
 
 
 
+- 第1892天 (2024-06-20)  
+    - [vue] [使用vue导出excel](https://github.com/haizlin/fe-interview/issues/5855)
 - 第1891天 (2024-06-19)  
     - [软技能] [请说说你对emscripten的了解](https://github.com/haizlin/fe-interview/issues/5854)
 - 第1890天 (2024-06-18)  

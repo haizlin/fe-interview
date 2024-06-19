@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.19) —— 第1891天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对emscripten的了解](https://github.com/haizlin/fe-interview/issues/5854)  
+## :clock430: 今天的知识点   (2024.06.20) —— 第1892天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用vue导出excel](https://github.com/haizlin/fe-interview/issues/5855)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1890天 (2024.06.18)  
-    	 :one: [js] [请说说WASM如何进行内存管理？](https://github.com/haizlin/fe-interview/issues/5853)  
+- 第1891天 (2024.06.19)  
+    	 :one: [软技能] [请说说你对emscripten的了解](https://github.com/haizlin/fe-interview/issues/5854)  
  
 	
 - **[查看全部](category/history.md)**
