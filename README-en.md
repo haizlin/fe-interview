@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.20) —— 1892 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用vue导出excel](https://github.com/haizlin/fe-interview/issues/5855)  
+## :clock430: Today's Knowledge Points (2024.06.21) —— 1893 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite如何进行插件开发？](https://github.com/haizlin/fe-interview/issues/5856)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1891 days (2024.06.19)  
-    	 :one: [skill] [请说说你对emscripten的了解](https://github.com/haizlin/fe-interview/issues/5854)  
+- 1892 days (2024.06.20)  
+    	 :one: [vue] [使用vue导出excel](https://github.com/haizlin/fe-interview/issues/5855)  
  
 	
 - **[All](category/history.md)**

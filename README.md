@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.20) —— 第1892天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [使用vue导出excel](https://github.com/haizlin/fe-interview/issues/5855)  
+## :clock430: 今天的知识点   (2024.06.21) —— 第1893天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite如何进行插件开发？](https://github.com/haizlin/fe-interview/issues/5856)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1891天 (2024.06.19)  
-    	 :one: [软技能] [请说说你对emscripten的了解](https://github.com/haizlin/fe-interview/issues/5854)  
+- 第1892天 (2024.06.20)  
+    	 :one: [vue] [使用vue导出excel](https://github.com/haizlin/fe-interview/issues/5855)  
  
 	
 - **[查看全部](category/history.md)**

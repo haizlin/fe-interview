@@ -2,6 +2,8 @@
 
 
 
+- 第1893天 (2024-06-21)  
+    - [vue] [vite如何进行插件开发？](https://github.com/haizlin/fe-interview/issues/5856)
 - 第1892天 (2024-06-20)  
     - [vue] [使用vue导出excel](https://github.com/haizlin/fe-interview/issues/5855)
 - 第1891天 (2024-06-19)  
