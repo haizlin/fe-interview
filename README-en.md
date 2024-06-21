@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.21) —— 1893 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vite如何进行插件开发？](https://github.com/haizlin/fe-interview/issues/5856)  
+## :clock430: Today's Knowledge Points (2024.06.22) —— 1894 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何让npm script串行？](https://github.com/haizlin/fe-interview/issues/5857)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1892 days (2024.06.20)  
-    	 :one: [vue] [使用vue导出excel](https://github.com/haizlin/fe-interview/issues/5855)  
+- 1893 days (2024.06.21)  
+    	 :one: [vue] [vite如何进行插件开发？](https://github.com/haizlin/fe-interview/issues/5856)  
  
 	
 - **[All](category/history.md)**

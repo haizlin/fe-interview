@@ -2,6 +2,8 @@
 
 
 
+- 第1894天 (2024-06-22)  
+    - [NodeJs] [如何让npm script串行？](https://github.com/haizlin/fe-interview/issues/5857)
 - 第1893天 (2024-06-21)  
     - [vue] [vite如何进行插件开发？](https://github.com/haizlin/fe-interview/issues/5856)
 - 第1892天 (2024-06-20)  
