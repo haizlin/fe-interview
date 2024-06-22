@@ -2,6 +2,8 @@
 
 
 
+- 第1895天 (2024-06-23)  
+    - [NodeJs] [如何让npm script并行？](https://github.com/haizlin/fe-interview/issues/5858)
 - 第1894天 (2024-06-22)  
     - [NodeJs] [如何让npm script串行？](https://github.com/haizlin/fe-interview/issues/5857)
 - 第1893天 (2024-06-21)  

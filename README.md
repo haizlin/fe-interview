@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.22) —— 第1894天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何让npm script串行？](https://github.com/haizlin/fe-interview/issues/5857)  
+## :clock430: 今天的知识点   (2024.06.23) —— 第1895天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何让npm script并行？](https://github.com/haizlin/fe-interview/issues/5858)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1893天 (2024.06.21)  
-    	 :one: [vue] [vite如何进行插件开发？](https://github.com/haizlin/fe-interview/issues/5856)  
+- 第1894天 (2024.06.22)  
+    	 :one: [NodeJs] [如何让npm script串行？](https://github.com/haizlin/fe-interview/issues/5857)  
  
 	
 - **[查看全部](category/history.md)**
