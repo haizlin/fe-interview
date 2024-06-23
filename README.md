@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.23) —— 第1895天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何让npm script并行？](https://github.com/haizlin/fe-interview/issues/5858)  
+## :clock430: 今天的知识点   (2024.06.24) —— 第1896天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [你有发布过哪些npm的包？发布流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5859)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1894天 (2024.06.22)  
-    	 :one: [NodeJs] [如何让npm script串行？](https://github.com/haizlin/fe-interview/issues/5857)  
+- 第1895天 (2024.06.23)  
+    	 :one: [NodeJs] [如何让npm script并行？](https://github.com/haizlin/fe-interview/issues/5858)  
  
 	
 - **[查看全部](category/history.md)**
