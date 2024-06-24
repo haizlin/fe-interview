@@ -2,6 +2,8 @@
 
 
 
+- 第1897天 (2024-06-25)  
+    - [NodeJs] [为什么说pnpm比npm、yarn好？](https://github.com/haizlin/fe-interview/issues/5860)
 - 第1896天 (2024-06-24)  
     - [NodeJs] [你有发布过哪些npm的包？发布流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5859)
 - 第1895天 (2024-06-23)  

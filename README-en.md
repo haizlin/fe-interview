@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.24) —— 1896 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [你有发布过哪些npm的包？发布流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5859)  
+## :clock430: Today's Knowledge Points (2024.06.25) —— 1897 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [为什么说pnpm比npm、yarn好？](https://github.com/haizlin/fe-interview/issues/5860)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1895 days (2024.06.23)  
-    	 :one: [NodeJs] [如何让npm script并行？](https://github.com/haizlin/fe-interview/issues/5858)  
+- 1896 days (2024.06.24)  
+    	 :one: [NodeJs] [你有发布过哪些npm的包？发布流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5859)  
  
 	
 - **[All](category/history.md)**
