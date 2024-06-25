@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.25) —— 1897 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [为什么说pnpm比npm、yarn好？](https://github.com/haizlin/fe-interview/issues/5860)  
+## :clock430: Today's Knowledge Points (2024.06.26) —— 1898 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请问yarn是怎么解决依赖重复很多次，嵌套路径过长的问题的？](https://github.com/haizlin/fe-interview/issues/5861)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1896 days (2024.06.24)  
-    	 :one: [NodeJs] [你有发布过哪些npm的包？发布流程是怎样的？](https://github.com/haizlin/fe-interview/issues/5859)  
+- 1897 days (2024.06.25)  
+    	 :one: [NodeJs] [为什么说pnpm比npm、yarn好？](https://github.com/haizlin/fe-interview/issues/5860)  
  
 	
 - **[All](category/history.md)**

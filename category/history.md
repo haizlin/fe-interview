@@ -2,6 +2,8 @@
 
 
 
+- 第1898天 (2024-06-26)  
+    - [NodeJs] [请问yarn是怎么解决依赖重复很多次，嵌套路径过长的问题的？](https://github.com/haizlin/fe-interview/issues/5861)
 - 第1897天 (2024-06-25)  
     - [NodeJs] [为什么说pnpm比npm、yarn好？](https://github.com/haizlin/fe-interview/issues/5860)
 - 第1896天 (2024-06-24)  
