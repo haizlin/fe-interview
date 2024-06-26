@@ -2,6 +2,8 @@
 
 
 
+- 第1899天 (2024-06-27)  
+    - [NodeJs] [npm如何对模块进行升级和安装？](https://github.com/haizlin/fe-interview/issues/5862)
 - 第1898天 (2024-06-26)  
     - [NodeJs] [请问yarn是怎么解决依赖重复很多次，嵌套路径过长的问题的？](https://github.com/haizlin/fe-interview/issues/5861)
 - 第1897天 (2024-06-25)  
