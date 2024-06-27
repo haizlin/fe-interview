@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.27) —— 第1899天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [npm如何对模块进行升级和安装？](https://github.com/haizlin/fe-interview/issues/5862)  
+## :clock430: 今天的知识点   (2024.06.28) —— 第1900天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [npm如何对模块进行安装与卸载？](https://github.com/haizlin/fe-interview/issues/5863)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1898天 (2024.06.26)  
-    	 :one: [NodeJs] [请问yarn是怎么解决依赖重复很多次，嵌套路径过长的问题的？](https://github.com/haizlin/fe-interview/issues/5861)  
+- 第1899天 (2024.06.27)  
+    	 :one: [NodeJs] [npm如何对模块进行升级和安装？](https://github.com/haizlin/fe-interview/issues/5862)  
  
 	
 - **[查看全部](category/history.md)**
