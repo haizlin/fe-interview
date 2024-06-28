@@ -2,6 +2,8 @@
 
 
 
+- 第1901天 (2024-06-29)  
+    - [vue] [npm link有什么作用？](https://github.com/haizlin/fe-interview/issues/5864)
 - 第1900天 (2024-06-28)  
     - [vue] [npm如何对模块进行安装与卸载？](https://github.com/haizlin/fe-interview/issues/5863)
 - 第1899天 (2024-06-27)  

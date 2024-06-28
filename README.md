@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.28) —— 第1900天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [npm如何对模块进行安装与卸载？](https://github.com/haizlin/fe-interview/issues/5863)  
+## :clock430: 今天的知识点   (2024.06.29) —— 第1901天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [npm link有什么作用？](https://github.com/haizlin/fe-interview/issues/5864)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1899天 (2024.06.27)  
-    	 :one: [NodeJs] [npm如何对模块进行升级和安装？](https://github.com/haizlin/fe-interview/issues/5862)  
+- 第1900天 (2024.06.28)  
+    	 :one: [vue] [npm如何对模块进行安装与卸载？](https://github.com/haizlin/fe-interview/issues/5863)  
  
 	
 - **[查看全部](category/history.md)**
