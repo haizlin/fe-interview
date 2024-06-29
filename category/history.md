@@ -2,6 +2,8 @@
 
 
 
+- 第1902天 (2024-06-30)  
+    - [vue] [npm pack有什么作用？](https://github.com/haizlin/fe-interview/issues/5865)
 - 第1901天 (2024-06-29)  
     - [vue] [npm link有什么作用？](https://github.com/haizlin/fe-interview/issues/5864)
 - 第1900天 (2024-06-28)  
