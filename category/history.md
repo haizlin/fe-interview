@@ -2,6 +2,8 @@
 
 
 
+- 第1903天 (2024-07-01)  
+    - [vue] [npm如何清除项目中没有被使用的依赖？](https://github.com/haizlin/fe-interview/issues/5866)
 - 第1902天 (2024-06-30)  
     - [vue] [npm pack有什么作用？](https://github.com/haizlin/fe-interview/issues/5865)
 - 第1901天 (2024-06-29)  

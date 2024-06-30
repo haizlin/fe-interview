@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.06.30) —— 1902 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [npm pack有什么作用？](https://github.com/haizlin/fe-interview/issues/5865)  
+## :clock430: Today's Knowledge Points (2024.07.01) —— 1903 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [npm如何清除项目中没有被使用的依赖？](https://github.com/haizlin/fe-interview/issues/5866)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1901 days (2024.06.29)  
-    	 :one: [vue] [npm link有什么作用？](https://github.com/haizlin/fe-interview/issues/5864)  
+- 1902 days (2024.06.30)  
+    	 :one: [vue] [npm pack有什么作用？](https://github.com/haizlin/fe-interview/issues/5865)  
  
 	
 - **[All](category/history.md)**

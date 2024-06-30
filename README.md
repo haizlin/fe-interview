@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.06.30) —— 第1902天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [npm pack有什么作用？](https://github.com/haizlin/fe-interview/issues/5865)  
+## :clock430: 今天的知识点   (2024.07.01) —— 第1903天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [npm如何清除项目中没有被使用的依赖？](https://github.com/haizlin/fe-interview/issues/5866)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1901天 (2024.06.29)  
-    	 :one: [vue] [npm link有什么作用？](https://github.com/haizlin/fe-interview/issues/5864)  
+- 第1902天 (2024.06.30)  
+    	 :one: [vue] [npm pack有什么作用？](https://github.com/haizlin/fe-interview/issues/5865)  
  
 	
 - **[查看全部](category/history.md)**
