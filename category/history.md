@@ -2,6 +2,8 @@
 
 
 
+- 第1904天 (2024-07-02)  
+    - [vue] [npm如何修改镜像地址？](https://github.com/haizlin/fe-interview/issues/5867)
 - 第1903天 (2024-07-01)  
     - [vue] [npm如何清除项目中没有被使用的依赖？](https://github.com/haizlin/fe-interview/issues/5866)
 - 第1902天 (2024-06-30)  
