@@ -2,6 +2,8 @@
 
 
 
+- 第1905天 (2024-07-03)  
+    - [NodeJs] [npm依赖检测有哪些方法？](https://github.com/haizlin/fe-interview/issues/5869)
 - 第1904天 (2024-07-02)  
     - [vue] [npm如何修改镜像地址？](https://github.com/haizlin/fe-interview/issues/5867)
 - 第1903天 (2024-07-01)  
