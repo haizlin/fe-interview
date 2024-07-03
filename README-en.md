@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.03) —— 1905 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [npm依赖检测有哪些方法？](https://github.com/haizlin/fe-interview/issues/5869)  
+## :clock430: Today's Knowledge Points (2024.07.04) —— 1906 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何本地调试npm包？](https://github.com/haizlin/fe-interview/issues/5870)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1904 days (2024.07.02)  
-    	 :one: [vue] [npm如何修改镜像地址？](https://github.com/haizlin/fe-interview/issues/5867)  
+- 1905 days (2024.07.03)  
+    	 :one: [NodeJs] [npm依赖检测有哪些方法？](https://github.com/haizlin/fe-interview/issues/5869)  
  
 	
 - **[All](category/history.md)**

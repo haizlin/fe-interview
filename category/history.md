@@ -2,6 +2,8 @@
 
 
 
+- 第1906天 (2024-07-04)  
+    - [NodeJs] [如何本地调试npm包？](https://github.com/haizlin/fe-interview/issues/5870)
 - 第1905天 (2024-07-03)  
     - [NodeJs] [npm依赖检测有哪些方法？](https://github.com/haizlin/fe-interview/issues/5869)
 - 第1904天 (2024-07-02)  

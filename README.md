@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.03) —— 第1905天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [npm依赖检测有哪些方法？](https://github.com/haizlin/fe-interview/issues/5869)  
+## :clock430: 今天的知识点   (2024.07.04) —— 第1906天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何本地调试npm包？](https://github.com/haizlin/fe-interview/issues/5870)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1904天 (2024.07.02)  
-    	 :one: [vue] [npm如何修改镜像地址？](https://github.com/haizlin/fe-interview/issues/5867)  
+- 第1905天 (2024.07.03)  
+    	 :one: [NodeJs] [npm依赖检测有哪些方法？](https://github.com/haizlin/fe-interview/issues/5869)  
  
 	
 - **[查看全部](category/history.md)**
