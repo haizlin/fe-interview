@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.05) —— 1907 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [怎样判断某个js对象是否存在循环引用？](https://github.com/haizlin/fe-interview/issues/5871)  
+## :clock430: Today's Knowledge Points (2024.07.06) —— 1908 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1906 days (2024.07.04)  
-    	 :one: [NodeJs] [如何本地调试npm包？](https://github.com/haizlin/fe-interview/issues/5870)  
+- 1907 days (2024.07.05)  
+    	 :one: [js] [怎样判断某个js对象是否存在循环引用？](https://github.com/haizlin/fe-interview/issues/5871)  
  
 	
 - **[All](category/history.md)**
