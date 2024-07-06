@@ -2,6 +2,10 @@
 
 
 
+- 第1909天 (2024-07-07)  
+    - [NodeJs] [如何清除npm的缓存？](https://github.com/haizlin/fe-interview/issues/5875)
+- 第1908天 (2024-07-06)  
+    - [NodeJs] [如何清除项目中没有被使用的依赖？](https://github.com/haizlin/fe-interview/issues/5874)
 - 第1907天 (2024-07-05)  
     - [js] [怎样判断某个js对象是否存在循环引用？](https://github.com/haizlin/fe-interview/issues/5871)
 - 第1906天 (2024-07-04)  

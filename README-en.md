@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.06) —— 1908 days  
+## :clock430: Today's Knowledge Points (2024.07.07) —— 1909 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何清除npm的缓存？](https://github.com/haizlin/fe-interview/issues/5875)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1907 days (2024.07.05)  
-    	 :one: [js] [怎样判断某个js对象是否存在循环引用？](https://github.com/haizlin/fe-interview/issues/5871)  
+- 1908 days (2024.07.06)  
+    	 :one: [NodeJs] [如何清除项目中没有被使用的依赖？](https://github.com/haizlin/fe-interview/issues/5874)  
  
 	
 - **[All](category/history.md)**
