@@ -2,6 +2,8 @@
 
 
 
+- 第1910天 (2024-07-08)  
+    - [html] [使用canvas画一个小汽车](https://github.com/haizlin/fe-interview/issues/5876)
 - 第1909天 (2024-07-07)  
     - [NodeJs] [如何清除npm的缓存？](https://github.com/haizlin/fe-interview/issues/5875)
 - 第1908天 (2024-07-06)  

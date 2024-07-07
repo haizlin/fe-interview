@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.07) —— 第1909天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [如何清除npm的缓存？](https://github.com/haizlin/fe-interview/issues/5875)  
+## :clock430: 今天的知识点   (2024.07.08) —— 第1910天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个小汽车](https://github.com/haizlin/fe-interview/issues/5876)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1908天 (2024.07.06)  
-    	 :one: [NodeJs] [如何清除项目中没有被使用的依赖？](https://github.com/haizlin/fe-interview/issues/5874)  
+- 第1909天 (2024.07.07)  
+    	 :one: [NodeJs] [如何清除npm的缓存？](https://github.com/haizlin/fe-interview/issues/5875)  
  
 	
 - **[查看全部](category/history.md)**
