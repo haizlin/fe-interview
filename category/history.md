@@ -2,6 +2,8 @@
 
 
 
+- 第1911天 (2024-07-09)  
+    - [js] [如何避免函数调用栈溢出？](https://github.com/haizlin/fe-interview/issues/5877)
 - 第1910天 (2024-07-08)  
     - [html] [使用canvas画一个小汽车](https://github.com/haizlin/fe-interview/issues/5876)
 - 第1909天 (2024-07-07)  

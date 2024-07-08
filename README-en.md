@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.08) —— 1910 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用canvas画一个小汽车](https://github.com/haizlin/fe-interview/issues/5876)  
+## :clock430: Today's Knowledge Points (2024.07.09) —— 1911 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何避免函数调用栈溢出？](https://github.com/haizlin/fe-interview/issues/5877)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1909 days (2024.07.07)  
-    	 :one: [NodeJs] [如何清除npm的缓存？](https://github.com/haizlin/fe-interview/issues/5875)  
+- 1910 days (2024.07.08)  
+    	 :one: [html] [使用canvas画一个小汽车](https://github.com/haizlin/fe-interview/issues/5876)  
  
 	
 - **[All](category/history.md)**
