@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.10) —— 1912 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说你对JavaScript中的递归、PTC、TCO和STC的了解](https://github.com/haizlin/fe-interview/issues/5878)  
+## :clock430: Today's Knowledge Points (2024.07.11) —— 1913 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何给canvas添加事件监听？](https://github.com/haizlin/fe-interview/issues/5879)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1911 days (2024.07.09)  
-    	 :one: [js] [如何避免函数调用栈溢出？](https://github.com/haizlin/fe-interview/issues/5877)  
+- 1912 days (2024.07.10)  
+    	 :one: [js] [请说说你对JavaScript中的递归、PTC、TCO和STC的了解](https://github.com/haizlin/fe-interview/issues/5878)  
  
 	
 - **[All](category/history.md)**

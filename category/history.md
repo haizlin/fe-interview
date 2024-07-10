@@ -2,6 +2,8 @@
 
 
 
+- 第1913天 (2024-07-11)  
+    - [js] [如何给canvas添加事件监听？](https://github.com/haizlin/fe-interview/issues/5879)
 - 第1912天 (2024-07-10)  
     - [js] [请说说你对JavaScript中的递归、PTC、TCO和STC的了解](https://github.com/haizlin/fe-interview/issues/5878)
 - 第1911天 (2024-07-09)  
