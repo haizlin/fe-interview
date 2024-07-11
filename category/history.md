@@ -2,6 +2,8 @@
 
 
 
+- 第1914天 (2024-07-12)  
+    - [html] [如何实现H5秒开？](https://github.com/haizlin/fe-interview/issues/5880)
 - 第1913天 (2024-07-11)  
     - [js] [如何给canvas添加事件监听？](https://github.com/haizlin/fe-interview/issues/5879)
 - 第1912天 (2024-07-10)  

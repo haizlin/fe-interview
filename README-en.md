@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.11) —— 1913 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何给canvas添加事件监听？](https://github.com/haizlin/fe-interview/issues/5879)  
+## :clock430: Today's Knowledge Points (2024.07.12) —— 1914 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何实现H5秒开？](https://github.com/haizlin/fe-interview/issues/5880)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1912 days (2024.07.10)  
-    	 :one: [js] [请说说你对JavaScript中的递归、PTC、TCO和STC的了解](https://github.com/haizlin/fe-interview/issues/5878)  
+- 1913 days (2024.07.11)  
+    	 :one: [js] [如何给canvas添加事件监听？](https://github.com/haizlin/fe-interview/issues/5879)  
  
 	
 - **[All](category/history.md)**
