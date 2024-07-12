@@ -2,6 +2,8 @@
 
 
 
+- 第1915天 (2024-07-13)  
+    - [js] [请使用javascript实现一个EventMitter类](https://github.com/haizlin/fe-interview/issues/5881)
 - 第1914天 (2024-07-12)  
     - [html] [如何实现H5秒开？](https://github.com/haizlin/fe-interview/issues/5880)
 - 第1913天 (2024-07-11)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.12) —— 第1914天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何实现H5秒开？](https://github.com/haizlin/fe-interview/issues/5880)  
+## :clock430: 今天的知识点   (2024.07.13) —— 第1915天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用javascript实现一个EventMitter类](https://github.com/haizlin/fe-interview/issues/5881)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1913天 (2024.07.11)  
-    	 :one: [js] [如何给canvas添加事件监听？](https://github.com/haizlin/fe-interview/issues/5879)  
+- 第1914天 (2024.07.12)  
+    	 :one: [html] [如何实现H5秒开？](https://github.com/haizlin/fe-interview/issues/5880)  
  
 	
 - **[查看全部](category/history.md)**

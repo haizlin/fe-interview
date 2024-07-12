@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.12) —— 1914 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何实现H5秒开？](https://github.com/haizlin/fe-interview/issues/5880)  
+## :clock430: Today's Knowledge Points (2024.07.13) —— 1915 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用javascript实现一个EventMitter类](https://github.com/haizlin/fe-interview/issues/5881)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1913 days (2024.07.11)  
-    	 :one: [js] [如何给canvas添加事件监听？](https://github.com/haizlin/fe-interview/issues/5879)  
+- 1914 days (2024.07.12)  
+    	 :one: [html] [如何实现H5秒开？](https://github.com/haizlin/fe-interview/issues/5880)  
  
 	
 - **[All](category/history.md)**
