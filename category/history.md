@@ -2,6 +2,8 @@
 
 
 
+- 第1916天 (2024-07-14)  
+    - [vue] [vue项目是如何实现国际化的？](https://github.com/haizlin/fe-interview/issues/5883)
 - 第1915天 (2024-07-13)  
     - [js] [请使用javascript实现一个EventMitter类](https://github.com/haizlin/fe-interview/issues/5881)
 - 第1914天 (2024-07-12)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.13) —— 1915 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用javascript实现一个EventMitter类](https://github.com/haizlin/fe-interview/issues/5881)  
+## :clock430: Today's Knowledge Points (2024.07.14) —— 1916 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue项目是如何实现国际化的？](https://github.com/haizlin/fe-interview/issues/5883)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1914 days (2024.07.12)  
-    	 :one: [html] [如何实现H5秒开？](https://github.com/haizlin/fe-interview/issues/5880)  
+- 1915 days (2024.07.13)  
+    	 :one: [js] [请使用javascript实现一个EventMitter类](https://github.com/haizlin/fe-interview/issues/5881)  
  
 	
 - **[All](category/history.md)**
