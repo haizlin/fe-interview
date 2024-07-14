@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.14) —— 1916 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue项目是如何实现国际化的？](https://github.com/haizlin/fe-interview/issues/5883)  
+## :clock430: Today's Knowledge Points (2024.07.15) —— 1917 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1915 days (2024.07.13)  
-    	 :one: [js] [请使用javascript实现一个EventMitter类](https://github.com/haizlin/fe-interview/issues/5881)  
+- 1916 days (2024.07.14)  
+    	 :one: [vue] [vue项目是如何实现国际化的？](https://github.com/haizlin/fe-interview/issues/5883)  
  
 	
 - **[All](category/history.md)**

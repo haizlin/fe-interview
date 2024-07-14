@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.14) —— 第1916天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [vue项目是如何实现国际化的？](https://github.com/haizlin/fe-interview/issues/5883)  
+## :clock430: 今天的知识点   (2024.07.15) —— 第1917天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1915天 (2024.07.13)  
-    	 :one: [js] [请使用javascript实现一个EventMitter类](https://github.com/haizlin/fe-interview/issues/5881)  
+- 第1916天 (2024.07.14)  
+    	 :one: [vue] [vue项目是如何实现国际化的？](https://github.com/haizlin/fe-interview/issues/5883)  
  
 	
 - **[查看全部](category/history.md)**
