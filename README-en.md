@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.15) —— 1917 days  
+## :clock430: Today's Knowledge Points (2024.07.16) —— 1918 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1916 days (2024.07.14)  
-    	 :one: [vue] [vue项目是如何实现国际化的？](https://github.com/haizlin/fe-interview/issues/5883)  
+- 1917 days (2024.07.15)  
+    	 :one: [js] [请说说Promise.all有什么使用场景？](https://github.com/haizlin/fe-interview/issues/5884)  
  
 	
 - **[All](category/history.md)**

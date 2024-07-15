@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.15) —— 第1917天  
+## :clock430: 今天的知识点   (2024.07.16) —— 第1918天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1916天 (2024.07.14)  
-    	 :one: [vue] [vue项目是如何实现国际化的？](https://github.com/haizlin/fe-interview/issues/5883)  
+- 第1917天 (2024.07.15)  
+    	 :one: [js] [请说说Promise.all有什么使用场景？](https://github.com/haizlin/fe-interview/issues/5884)  
  
 	
 - **[查看全部](category/history.md)**

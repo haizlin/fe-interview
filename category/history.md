@@ -2,6 +2,8 @@
 
 
 
+- 第1917天 (2024-07-15)  
+    - [js] [请说说Promise.all有什么使用场景？](https://github.com/haizlin/fe-interview/issues/5884)
 - 第1916天 (2024-07-14)  
     - [vue] [vue项目是如何实现国际化的？](https://github.com/haizlin/fe-interview/issues/5883)
 - 第1915天 (2024-07-13)  
