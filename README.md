@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.16) —— 第1918天  
+## :clock430: 今天的知识点   (2024.07.17) —— 第1919天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [javascript如何与WASM进行通讯的？](https://github.com/haizlin/fe-interview/issues/5886)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1917天 (2024.07.15)  
-    	 :one: [js] [请说说Promise.all有什么使用场景？](https://github.com/haizlin/fe-interview/issues/5884)  
+- 第1918天 (2024.07.16)  
+    	 :one: [软技能] [前端如何实现录屏的功能？](https://github.com/haizlin/fe-interview/issues/5885)  
  
 	
 - **[查看全部](category/history.md)**
