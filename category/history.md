@@ -2,6 +2,8 @@
 
 
 
+- 第1920天 (2024-07-18)  
+    - [软技能] [思维导图能用来表达什么？](https://github.com/haizlin/fe-interview/issues/5887)
 - 第1919天 (2024-07-17)  
     - [js] [javascript如何与WASM进行通讯的？](https://github.com/haizlin/fe-interview/issues/5886)
 - 第1918天 (2024-07-16)  

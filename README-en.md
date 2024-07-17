@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.17) —— 1919 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [javascript如何与WASM进行通讯的？](https://github.com/haizlin/fe-interview/issues/5886)  
+## :clock430: Today's Knowledge Points (2024.07.18) —— 1920 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [思维导图能用来表达什么？](https://github.com/haizlin/fe-interview/issues/5887)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1918 days (2024.07.16)  
-    	 :one: [skill] [前端如何实现录屏的功能？](https://github.com/haizlin/fe-interview/issues/5885)  
+- 1919 days (2024.07.17)  
+    	 :one: [js] [javascript如何与WASM进行通讯的？](https://github.com/haizlin/fe-interview/issues/5886)  
  
 	
 - **[All](category/history.md)**
