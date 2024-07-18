@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.18) —— 第1920天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [思维导图能用来表达什么？](https://github.com/haizlin/fe-interview/issues/5887)  
+## :clock430: 今天的知识点   (2024.07.19) —— 第1921天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [基于vue3实现一个高性能的虚拟滚动列表](https://github.com/haizlin/fe-interview/issues/5888)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1919天 (2024.07.17)  
-    	 :one: [js] [javascript如何与WASM进行通讯的？](https://github.com/haizlin/fe-interview/issues/5886)  
+- 第1920天 (2024.07.18)  
+    	 :one: [软技能] [思维导图能用来表达什么？](https://github.com/haizlin/fe-interview/issues/5887)  
  
 	
 - **[查看全部](category/history.md)**

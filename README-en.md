@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.18) —— 1920 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [思维导图能用来表达什么？](https://github.com/haizlin/fe-interview/issues/5887)  
+## :clock430: Today's Knowledge Points (2024.07.19) —— 1921 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [基于vue3实现一个高性能的虚拟滚动列表](https://github.com/haizlin/fe-interview/issues/5888)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1919 days (2024.07.17)  
-    	 :one: [js] [javascript如何与WASM进行通讯的？](https://github.com/haizlin/fe-interview/issues/5886)  
+- 1920 days (2024.07.18)  
+    	 :one: [skill] [思维导图能用来表达什么？](https://github.com/haizlin/fe-interview/issues/5887)  
  
 	
 - **[All](category/history.md)**
