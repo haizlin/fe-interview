@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.19) —— 1921 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [基于vue3实现一个高性能的虚拟滚动列表](https://github.com/haizlin/fe-interview/issues/5888)  
+## :clock430: Today's Knowledge Points (2024.07.20) —— 1922 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1920 days (2024.07.18)  
-    	 :one: [skill] [思维导图能用来表达什么？](https://github.com/haizlin/fe-interview/issues/5887)  
+- 1921 days (2024.07.19)  
+    	 :one: [vue] [基于vue3实现一个高性能的虚拟滚动列表](https://github.com/haizlin/fe-interview/issues/5888)  
  
 	
 - **[All](category/history.md)**
