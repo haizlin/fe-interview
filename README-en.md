@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.20) —— 1922 days  
+## :clock430: Today's Knowledge Points (2024.07.21) —— 1923 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise如何使用？](https://github.com/haizlin/fe-interview/issues/5890)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1921 days (2024.07.19)  
-    	 :one: [vue] [基于vue3实现一个高性能的虚拟滚动列表](https://github.com/haizlin/fe-interview/issues/5888)  
+- 1922 days (2024.07.20)  
+    	 :one: [js] [请说说你对Promise.any()的了解](https://github.com/haizlin/fe-interview/issues/5889)  
  
 	
 - **[All](category/history.md)**

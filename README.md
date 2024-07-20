@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.20) —— 第1922天  
+## :clock430: 今天的知识点   (2024.07.21) —— 第1923天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise如何使用？](https://github.com/haizlin/fe-interview/issues/5890)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1921天 (2024.07.19)  
-    	 :one: [vue] [基于vue3实现一个高性能的虚拟滚动列表](https://github.com/haizlin/fe-interview/issues/5888)  
+- 第1922天 (2024.07.20)  
+    	 :one: [js] [请说说你对Promise.any()的了解](https://github.com/haizlin/fe-interview/issues/5889)  
  
 	
 - **[查看全部](category/history.md)**

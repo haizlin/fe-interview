@@ -2,6 +2,10 @@
 
 
 
+- 第1923天 (2024-07-21)  
+    - [js] [Promise如何使用？](https://github.com/haizlin/fe-interview/issues/5890)
+- 第1922天 (2024-07-20)  
+    - [js] [请说说你对Promise.any()的了解](https://github.com/haizlin/fe-interview/issues/5889)
 - 第1921天 (2024-07-19)  
     - [vue] [基于vue3实现一个高性能的虚拟滚动列表](https://github.com/haizlin/fe-interview/issues/5888)
 - 第1920天 (2024-07-18)  
