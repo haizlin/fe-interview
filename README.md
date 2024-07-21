@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.21) —— 第1923天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise如何使用？](https://github.com/haizlin/fe-interview/issues/5890)  
+## :clock430: 今天的知识点   (2024.07.22) —— 第1924天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用javascript实现一个Promise的polyfill](https://github.com/haizlin/fe-interview/issues/5891)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1922天 (2024.07.20)  
-    	 :one: [js] [请说说你对Promise.any()的了解](https://github.com/haizlin/fe-interview/issues/5889)  
+- 第1923天 (2024.07.21)  
+    	 :one: [js] [Promise如何使用？](https://github.com/haizlin/fe-interview/issues/5890)  
  
 	
 - **[查看全部](category/history.md)**

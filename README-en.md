@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.21) —— 1923 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise如何使用？](https://github.com/haizlin/fe-interview/issues/5890)  
+## :clock430: Today's Knowledge Points (2024.07.22) —— 1924 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用javascript实现一个Promise的polyfill](https://github.com/haizlin/fe-interview/issues/5891)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1922 days (2024.07.20)  
-    	 :one: [js] [请说说你对Promise.any()的了解](https://github.com/haizlin/fe-interview/issues/5889)  
+- 1923 days (2024.07.21)  
+    	 :one: [js] [Promise如何使用？](https://github.com/haizlin/fe-interview/issues/5890)  
  
 	
 - **[All](category/history.md)**
