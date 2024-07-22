@@ -2,6 +2,8 @@
 
 
 
+- 第1925天 (2024-07-23)  
+    - [js] [Promise解决了哪些痛点？](https://github.com/haizlin/fe-interview/issues/5892)
 - 第1924天 (2024-07-22)  
     - [js] [请使用javascript实现一个Promise的polyfill](https://github.com/haizlin/fe-interview/issues/5891)
 - 第1923天 (2024-07-21)  
