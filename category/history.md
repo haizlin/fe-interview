@@ -2,6 +2,8 @@
 
 
 
+- 第1926天 (2024-07-24)  
+    - [js] [Promise常用的方法有哪些？它们有什么作用？](https://github.com/haizlin/fe-interview/issues/5893)
 - 第1925天 (2024-07-23)  
     - [js] [Promise解决了哪些痛点？](https://github.com/haizlin/fe-interview/issues/5892)
 - 第1924天 (2024-07-22)  
