@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.24) —— 1926 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise常用的方法有哪些？它们有什么作用？](https://github.com/haizlin/fe-interview/issues/5893)  
+## :clock430: Today's Knowledge Points (2024.07.25) —— 1927 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise有哪些实现方式？](https://github.com/haizlin/fe-interview/issues/5894)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1925 days (2024.07.23)  
-    	 :one: [js] [Promise解决了哪些痛点？](https://github.com/haizlin/fe-interview/issues/5892)  
+- 1926 days (2024.07.24)  
+    	 :one: [js] [Promise常用的方法有哪些？它们有什么作用？](https://github.com/haizlin/fe-interview/issues/5893)  
  
 	
 - **[All](category/history.md)**
