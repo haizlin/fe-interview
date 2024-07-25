@@ -2,6 +2,8 @@
 
 
 
+- 第1928天 (2024-07-26)  
+    - [js] [Promise在事件循环中的执行过程是怎样的？](https://github.com/haizlin/fe-interview/issues/5895)
 - 第1927天 (2024-07-25)  
     - [js] [Promise有哪些实现方式？](https://github.com/haizlin/fe-interview/issues/5894)
 - 第1926天 (2024-07-24)  
