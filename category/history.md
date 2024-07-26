@@ -2,6 +2,8 @@
 
 
 
+- 第1929天 (2024-07-27)  
+    - [js] [Promise.all数组中传的不是promise对象，将返回什么？](https://github.com/haizlin/fe-interview/issues/5896)
 - 第1928天 (2024-07-26)  
     - [js] [Promise在事件循环中的执行过程是怎样的？](https://github.com/haizlin/fe-interview/issues/5895)
 - 第1927天 (2024-07-25)  
