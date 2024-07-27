@@ -2,6 +2,8 @@
 
 
 
+- 第1930天 (2024-07-28)  
+    - [js] [使用JavaScript实现一个Promise的队列](https://github.com/haizlin/fe-interview/issues/5897)
 - 第1929天 (2024-07-27)  
     - [js] [Promise.all数组中传的不是promise对象，将返回什么？](https://github.com/haizlin/fe-interview/issues/5896)
 - 第1928天 (2024-07-26)  
