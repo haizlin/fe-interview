@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.28) —— 第1930天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用JavaScript实现一个Promise的队列](https://github.com/haizlin/fe-interview/issues/5897)  
+## :clock430: 今天的知识点   (2024.07.29) —— 第1931天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise是如何实现then的链式调用的？](https://github.com/haizlin/fe-interview/issues/5898)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1929天 (2024.07.27)  
-    	 :one: [js] [Promise.all数组中传的不是promise对象，将返回什么？](https://github.com/haizlin/fe-interview/issues/5896)  
+- 第1930天 (2024.07.28)  
+    	 :one: [js] [使用JavaScript实现一个Promise的队列](https://github.com/haizlin/fe-interview/issues/5897)  
  
 	
 - **[查看全部](category/history.md)**

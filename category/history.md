@@ -2,6 +2,8 @@
 
 
 
+- 第1931天 (2024-07-29)  
+    - [js] [Promise是如何实现then的链式调用的？](https://github.com/haizlin/fe-interview/issues/5898)
 - 第1930天 (2024-07-28)  
     - [js] [使用JavaScript实现一个Promise的队列](https://github.com/haizlin/fe-interview/issues/5897)
 - 第1929天 (2024-07-27)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.28) —— 1930 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用JavaScript实现一个Promise的队列](https://github.com/haizlin/fe-interview/issues/5897)  
+## :clock430: Today's Knowledge Points (2024.07.29) —— 1931 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise是如何实现then的链式调用的？](https://github.com/haizlin/fe-interview/issues/5898)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1929 days (2024.07.27)  
-    	 :one: [js] [Promise.all数组中传的不是promise对象，将返回什么？](https://github.com/haizlin/fe-interview/issues/5896)  
+- 1930 days (2024.07.28)  
+    	 :one: [js] [使用JavaScript实现一个Promise的队列](https://github.com/haizlin/fe-interview/issues/5897)  
  
 	
 - **[All](category/history.md)**
