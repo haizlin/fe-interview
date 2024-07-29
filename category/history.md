@@ -2,6 +2,8 @@
 
 
 
+- 第1932天 (2024-07-30)  
+    - [js] [请说说你对PromiseA+规范的了解](https://github.com/haizlin/fe-interview/issues/5899)
 - 第1931天 (2024-07-29)  
     - [js] [Promise是如何实现then的链式调用的？](https://github.com/haizlin/fe-interview/issues/5898)
 - 第1930天 (2024-07-28)  
