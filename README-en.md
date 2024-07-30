@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.30) —— 1932 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说你对PromiseA+规范的了解](https://github.com/haizlin/fe-interview/issues/5899)  
+## :clock430: Today's Knowledge Points (2024.07.31) —— 1933 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [promise有哪些状态？](https://github.com/haizlin/fe-interview/issues/5900)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1931 days (2024.07.29)  
-    	 :one: [js] [Promise是如何实现then的链式调用的？](https://github.com/haizlin/fe-interview/issues/5898)  
+- 1932 days (2024.07.30)  
+    	 :one: [js] [请说说你对PromiseA+规范的了解](https://github.com/haizlin/fe-interview/issues/5899)  
  
 	
 - **[All](category/history.md)**

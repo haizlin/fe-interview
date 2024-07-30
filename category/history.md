@@ -2,6 +2,8 @@
 
 
 
+- 第1933天 (2024-07-31)  
+    - [js] [promise有哪些状态？](https://github.com/haizlin/fe-interview/issues/5900)
 - 第1932天 (2024-07-30)  
     - [js] [请说说你对PromiseA+规范的了解](https://github.com/haizlin/fe-interview/issues/5899)
 - 第1931天 (2024-07-29)  
