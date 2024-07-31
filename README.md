@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.07.31) —— 第1933天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [promise有哪些状态？](https://github.com/haizlin/fe-interview/issues/5900)  
+## :clock430: 今天的知识点   (2024.08.01) —— 第1934天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何查找两个DOM节点的最近公共父节点](https://github.com/haizlin/fe-interview/issues/5901)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1932天 (2024.07.30)  
-    	 :one: [js] [请说说你对PromiseA+规范的了解](https://github.com/haizlin/fe-interview/issues/5899)  
+- 第1933天 (2024.07.31)  
+    	 :one: [js] [promise有哪些状态？](https://github.com/haizlin/fe-interview/issues/5900)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1934天 (2024-08-01)  
+    - [js] [如何查找两个DOM节点的最近公共父节点](https://github.com/haizlin/fe-interview/issues/5901)
 - 第1933天 (2024-07-31)  
     - [js] [promise有哪些状态？](https://github.com/haizlin/fe-interview/issues/5900)
 - 第1932天 (2024-07-30)  

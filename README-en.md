@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.07.31) —— 1933 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [promise有哪些状态？](https://github.com/haizlin/fe-interview/issues/5900)  
+## :clock430: Today's Knowledge Points (2024.08.01) —— 1934 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何查找两个DOM节点的最近公共父节点](https://github.com/haizlin/fe-interview/issues/5901)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1932 days (2024.07.30)  
-    	 :one: [js] [请说说你对PromiseA+规范的了解](https://github.com/haizlin/fe-interview/issues/5899)  
+- 1933 days (2024.07.31)  
+    	 :one: [js] [promise有哪些状态？](https://github.com/haizlin/fe-interview/issues/5900)  
  
 	
 - **[All](category/history.md)**
