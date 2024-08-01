@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.01) —— 1934 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何查找两个DOM节点的最近公共父节点](https://github.com/haizlin/fe-interview/issues/5901)  
+## :clock430: Today's Knowledge Points (2024.08.02) —— 1935 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用reduce实现map函数功能](https://github.com/haizlin/fe-interview/issues/5902)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1933 days (2024.07.31)  
-    	 :one: [js] [promise有哪些状态？](https://github.com/haizlin/fe-interview/issues/5900)  
+- 1934 days (2024.08.01)  
+    	 :one: [js] [如何查找两个DOM节点的最近公共父节点](https://github.com/haizlin/fe-interview/issues/5901)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1935天 (2024-08-02)  
+    - [js] [请使用reduce实现map函数功能](https://github.com/haizlin/fe-interview/issues/5902)
 - 第1934天 (2024-08-01)  
     - [js] [如何查找两个DOM节点的最近公共父节点](https://github.com/haizlin/fe-interview/issues/5901)
 - 第1933天 (2024-07-31)  
