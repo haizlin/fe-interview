@@ -2,6 +2,8 @@
 
 
 
+- 第1936天 (2024-08-03)  
+    - [js] [JavaScript中数组去重的方法有哪些？哪个性能好？](https://github.com/haizlin/fe-interview/issues/5903)
 - 第1935天 (2024-08-02)  
     - [js] [请使用reduce实现map函数功能](https://github.com/haizlin/fe-interview/issues/5902)
 - 第1934天 (2024-08-01)  

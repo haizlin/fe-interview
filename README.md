@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.02) —— 第1935天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请使用reduce实现map函数功能](https://github.com/haizlin/fe-interview/issues/5902)  
+## :clock430: 今天的知识点   (2024.08.03) —— 第1936天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [JavaScript中数组去重的方法有哪些？哪个性能好？](https://github.com/haizlin/fe-interview/issues/5903)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1934天 (2024.08.01)  
-    	 :one: [js] [如何查找两个DOM节点的最近公共父节点](https://github.com/haizlin/fe-interview/issues/5901)  
+- 第1935天 (2024.08.02)  
+    	 :one: [js] [请使用reduce实现map函数功能](https://github.com/haizlin/fe-interview/issues/5902)  
  
 	
 - **[查看全部](category/history.md)**
