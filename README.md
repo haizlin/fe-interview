@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.03) —— 第1936天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [JavaScript中数组去重的方法有哪些？哪个性能好？](https://github.com/haizlin/fe-interview/issues/5903)  
+## :clock430: 今天的知识点   (2024.08.04) —— 第1937天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [setTimeout和setImmediate哪个先执行？](https://github.com/haizlin/fe-interview/issues/5904)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1935天 (2024.08.02)  
-    	 :one: [js] [请使用reduce实现map函数功能](https://github.com/haizlin/fe-interview/issues/5902)  
+- 第1936天 (2024.08.03)  
+    	 :one: [js] [JavaScript中数组去重的方法有哪些？哪个性能好？](https://github.com/haizlin/fe-interview/issues/5903)  
  
 	
 - **[查看全部](category/history.md)**

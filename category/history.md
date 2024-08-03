@@ -2,6 +2,8 @@
 
 
 
+- 第1937天 (2024-08-04)  
+    - [js] [setTimeout和setImmediate哪个先执行？](https://github.com/haizlin/fe-interview/issues/5904)
 - 第1936天 (2024-08-03)  
     - [js] [JavaScript中数组去重的方法有哪些？哪个性能好？](https://github.com/haizlin/fe-interview/issues/5903)
 - 第1935天 (2024-08-02)  
