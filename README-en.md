@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.04) —— 1937 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [setTimeout和setImmediate哪个先执行？](https://github.com/haizlin/fe-interview/issues/5904)  
+## :clock430: Today's Knowledge Points (2024.08.05) —— 1938 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用promise实现，加载100张图片，每次最多同时加载5张图片](https://github.com/haizlin/fe-interview/issues/5905)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1936 days (2024.08.03)  
-    	 :one: [js] [JavaScript中数组去重的方法有哪些？哪个性能好？](https://github.com/haizlin/fe-interview/issues/5903)  
+- 1937 days (2024.08.04)  
+    	 :one: [js] [setTimeout和setImmediate哪个先执行？](https://github.com/haizlin/fe-interview/issues/5904)  
  
 	
 - **[All](category/history.md)**

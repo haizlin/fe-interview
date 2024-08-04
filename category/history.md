@@ -2,6 +2,8 @@
 
 
 
+- 第1938天 (2024-08-05)  
+    - [js] [使用promise实现，加载100张图片，每次最多同时加载5张图片](https://github.com/haizlin/fe-interview/issues/5905)
 - 第1937天 (2024-08-04)  
     - [js] [setTimeout和setImmediate哪个先执行？](https://github.com/haizlin/fe-interview/issues/5904)
 - 第1936天 (2024-08-03)  
