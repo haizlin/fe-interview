@@ -2,6 +2,8 @@
 
 
 
+- 第1939天 (2024-08-06)  
+    - [js] [Promise与async和await有什么关系？](https://github.com/haizlin/fe-interview/issues/5906)
 - 第1938天 (2024-08-05)  
     - [js] [使用promise实现，加载100张图片，每次最多同时加载5张图片](https://github.com/haizlin/fe-interview/issues/5905)
 - 第1937天 (2024-08-04)  
