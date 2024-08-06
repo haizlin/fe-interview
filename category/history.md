@@ -2,6 +2,8 @@
 
 
 
+- 第1940天 (2024-08-07)  
+    - [js] [如何串行执行Promise?](https://github.com/haizlin/fe-interview/issues/5907)
 - 第1939天 (2024-08-06)  
     - [js] [Promise与async和await有什么关系？](https://github.com/haizlin/fe-interview/issues/5906)
 - 第1938天 (2024-08-05)  

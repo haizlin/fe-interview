@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.06) —— 第1939天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise与async和await有什么关系？](https://github.com/haizlin/fe-interview/issues/5906)  
+## :clock430: 今天的知识点   (2024.08.07) —— 第1940天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何串行执行Promise?](https://github.com/haizlin/fe-interview/issues/5907)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1938天 (2024.08.05)  
-    	 :one: [js] [使用promise实现，加载100张图片，每次最多同时加载5张图片](https://github.com/haizlin/fe-interview/issues/5905)  
+- 第1939天 (2024.08.06)  
+    	 :one: [js] [Promise与async和await有什么关系？](https://github.com/haizlin/fe-interview/issues/5906)  
  
 	
 - **[查看全部](category/history.md)**

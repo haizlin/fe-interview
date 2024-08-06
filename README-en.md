@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.06) —— 1939 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [Promise与async和await有什么关系？](https://github.com/haizlin/fe-interview/issues/5906)  
+## :clock430: Today's Knowledge Points (2024.08.07) —— 1940 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何串行执行Promise?](https://github.com/haizlin/fe-interview/issues/5907)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1938 days (2024.08.05)  
-    	 :one: [js] [使用promise实现，加载100张图片，每次最多同时加载5张图片](https://github.com/haizlin/fe-interview/issues/5905)  
+- 1939 days (2024.08.06)  
+    	 :one: [js] [Promise与async和await有什么关系？](https://github.com/haizlin/fe-interview/issues/5906)  
  
 	
 - **[All](category/history.md)**
