@@ -2,6 +2,8 @@
 
 
 
+- 第1941天 (2024-08-08)  
+    - [js] [如何给Promise添加进度通知的功能？](https://github.com/haizlin/fe-interview/issues/5908)
 - 第1940天 (2024-08-07)  
     - [js] [如何串行执行Promise?](https://github.com/haizlin/fe-interview/issues/5907)
 - 第1939天 (2024-08-06)  

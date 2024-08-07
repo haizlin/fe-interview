@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.07) —— 1940 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何串行执行Promise?](https://github.com/haizlin/fe-interview/issues/5907)  
+## :clock430: Today's Knowledge Points (2024.08.08) —— 1941 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何给Promise添加进度通知的功能？](https://github.com/haizlin/fe-interview/issues/5908)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1939 days (2024.08.06)  
-    	 :one: [js] [Promise与async和await有什么关系？](https://github.com/haizlin/fe-interview/issues/5906)  
+- 1940 days (2024.08.07)  
+    	 :one: [js] [如何串行执行Promise?](https://github.com/haizlin/fe-interview/issues/5907)  
  
 	
 - **[All](category/history.md)**

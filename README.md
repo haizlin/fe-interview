@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.07) —— 第1940天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何串行执行Promise?](https://github.com/haizlin/fe-interview/issues/5907)  
+## :clock430: 今天的知识点   (2024.08.08) —— 第1941天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何给Promise添加进度通知的功能？](https://github.com/haizlin/fe-interview/issues/5908)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1939天 (2024.08.06)  
-    	 :one: [js] [Promise与async和await有什么关系？](https://github.com/haizlin/fe-interview/issues/5906)  
+- 第1940天 (2024.08.07)  
+    	 :one: [js] [如何串行执行Promise?](https://github.com/haizlin/fe-interview/issues/5907)  
  
 	
 - **[查看全部](category/history.md)**
