@@ -2,6 +2,8 @@
 
 
 
+- 第1942天 (2024-08-09)  
+    - [js] [浏览器跨Tab页面通信有哪些方式？](https://github.com/haizlin/fe-interview/issues/5909)
 - 第1941天 (2024-08-08)  
     - [js] [如何给Promise添加进度通知的功能？](https://github.com/haizlin/fe-interview/issues/5908)
 - 第1940天 (2024-08-07)  
