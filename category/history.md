@@ -2,6 +2,8 @@
 
 
 
+- 第1943天 (2024-08-10)  
+    - [js] [浏览器子Tab能控制父Tab吗？](https://github.com/haizlin/fe-interview/issues/5910)
 - 第1942天 (2024-08-09)  
     - [js] [浏览器跨Tab页面通信有哪些方式？](https://github.com/haizlin/fe-interview/issues/5909)
 - 第1941天 (2024-08-08)  
