@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.10) —— 第1943天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [浏览器子Tab能控制父Tab吗？](https://github.com/haizlin/fe-interview/issues/5910)  
+## :clock430: 今天的知识点   (2024.08.11) —— 第1944天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [JQuery的源码你有看过吗？简要概况一下它的实现原理](https://github.com/haizlin/fe-interview/issues/5911)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1942天 (2024.08.09)  
-    	 :one: [js] [浏览器跨Tab页面通信有哪些方式？](https://github.com/haizlin/fe-interview/issues/5909)  
+- 第1943天 (2024.08.10)  
+    	 :one: [js] [浏览器子Tab能控制父Tab吗？](https://github.com/haizlin/fe-interview/issues/5910)  
  
 	
 - **[查看全部](category/history.md)**

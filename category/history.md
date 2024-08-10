@@ -2,6 +2,8 @@
 
 
 
+- 第1944天 (2024-08-11)  
+    - [jQuery] [JQuery的源码你有看过吗？简要概况一下它的实现原理](https://github.com/haizlin/fe-interview/issues/5911)
 - 第1943天 (2024-08-10)  
     - [js] [浏览器子Tab能控制父Tab吗？](https://github.com/haizlin/fe-interview/issues/5910)
 - 第1942天 (2024-08-09)  
