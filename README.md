@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.11) —— 第1944天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [JQuery的源码你有看过吗？简要概况一下它的实现原理](https://github.com/haizlin/fe-interview/issues/5911)  
+## :clock430: 今天的知识点   (2024.08.12) —— 第1945天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你认为普通程序员和优秀程序员有什么区别？](https://github.com/haizlin/fe-interview/issues/5912)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1943天 (2024.08.10)  
-    	 :one: [js] [浏览器子Tab能控制父Tab吗？](https://github.com/haizlin/fe-interview/issues/5910)  
+- 第1944天 (2024.08.11)  
+    	 :one: [jQuery] [JQuery的源码你有看过吗？简要概况一下它的实现原理](https://github.com/haizlin/fe-interview/issues/5911)  
  
 	
 - **[查看全部](category/history.md)**

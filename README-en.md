@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.11) —— 1944 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [JQuery的源码你有看过吗？简要概况一下它的实现原理](https://github.com/haizlin/fe-interview/issues/5911)  
+## :clock430: Today's Knowledge Points (2024.08.12) —— 1945 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你认为普通程序员和优秀程序员有什么区别？](https://github.com/haizlin/fe-interview/issues/5912)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1943 days (2024.08.10)  
-    	 :one: [js] [浏览器子Tab能控制父Tab吗？](https://github.com/haizlin/fe-interview/issues/5910)  
+- 1944 days (2024.08.11)  
+    	 :one: [jQuery] [JQuery的源码你有看过吗？简要概况一下它的实现原理](https://github.com/haizlin/fe-interview/issues/5911)  
  
 	
 - **[All](category/history.md)**

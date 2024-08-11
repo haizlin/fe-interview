@@ -2,6 +2,8 @@
 
 
 
+- 第1945天 (2024-08-12)  
+    - [软技能] [你认为普通程序员和优秀程序员有什么区别？](https://github.com/haizlin/fe-interview/issues/5912)
 - 第1944天 (2024-08-11)  
     - [jQuery] [JQuery的源码你有看过吗？简要概况一下它的实现原理](https://github.com/haizlin/fe-interview/issues/5911)
 - 第1943天 (2024-08-10)  
