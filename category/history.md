@@ -2,6 +2,8 @@
 
 
 
+- 第1946天 (2024-08-13)  
+    - [vue] [服务端渲染有什么作用？](https://github.com/haizlin/fe-interview/issues/5913)
 - 第1945天 (2024-08-12)  
     - [软技能] [你认为普通程序员和优秀程序员有什么区别？](https://github.com/haizlin/fe-interview/issues/5912)
 - 第1944天 (2024-08-11)  
