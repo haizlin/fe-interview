@@ -2,6 +2,8 @@
 
 
 
+- 第1947天 (2024-08-14)  
+    - [vue] [服务端渲染有哪些方法？](https://github.com/haizlin/fe-interview/issues/5914)
 - 第1946天 (2024-08-13)  
     - [vue] [服务端渲染有什么作用？](https://github.com/haizlin/fe-interview/issues/5913)
 - 第1945天 (2024-08-12)  

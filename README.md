@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.13) —— 第1946天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [服务端渲染有什么作用？](https://github.com/haizlin/fe-interview/issues/5913)  
+## :clock430: 今天的知识点   (2024.08.14) —— 第1947天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [服务端渲染有哪些方法？](https://github.com/haizlin/fe-interview/issues/5914)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1945天 (2024.08.12)  
-    	 :one: [软技能] [你认为普通程序员和优秀程序员有什么区别？](https://github.com/haizlin/fe-interview/issues/5912)  
+- 第1946天 (2024.08.13)  
+    	 :one: [vue] [服务端渲染有什么作用？](https://github.com/haizlin/fe-interview/issues/5913)  
  
 	
 - **[查看全部](category/history.md)**
