@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.14) —— 1947 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [服务端渲染有哪些方法？](https://github.com/haizlin/fe-interview/issues/5914)  
+## :clock430: Today's Knowledge Points (2024.08.15) —— 1948 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法获取元素的样式](https://github.com/haizlin/fe-interview/issues/5915)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1946 days (2024.08.13)  
-    	 :one: [vue] [服务端渲染有什么作用？](https://github.com/haizlin/fe-interview/issues/5913)  
+- 1947 days (2024.08.14)  
+    	 :one: [vue] [服务端渲染有哪些方法？](https://github.com/haizlin/fe-interview/issues/5914)  
  
 	
 - **[All](category/history.md)**
