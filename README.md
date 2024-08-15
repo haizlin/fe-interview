@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.15) —— 第1948天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法获取元素的样式](https://github.com/haizlin/fe-interview/issues/5915)  
+## :clock430: 今天的知识点   (2024.08.16) —— 第1949天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个方法将in8Array转Float32Array](https://github.com/haizlin/fe-interview/issues/5916)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1947天 (2024.08.14)  
-    	 :one: [vue] [服务端渲染有哪些方法？](https://github.com/haizlin/fe-interview/issues/5914)  
+- 第1948天 (2024.08.15)  
+    	 :one: [js] [使用js写一个方法获取元素的样式](https://github.com/haizlin/fe-interview/issues/5915)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1949天 (2024-08-16)  
+    - [js] [写一个方法将in8Array转Float32Array](https://github.com/haizlin/fe-interview/issues/5916)
 - 第1948天 (2024-08-15)  
     - [js] [使用js写一个方法获取元素的样式](https://github.com/haizlin/fe-interview/issues/5915)
 - 第1947天 (2024-08-14)  
