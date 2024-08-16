@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.16) —— 第1949天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [写一个方法将in8Array转Float32Array](https://github.com/haizlin/fe-interview/issues/5916)  
+## :clock430: 今天的知识点   (2024.08.17) —— 第1950天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [in8Array转Float32Array数据精度会丢失吗？](https://github.com/haizlin/fe-interview/issues/5917)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1948天 (2024.08.15)  
-    	 :one: [js] [使用js写一个方法获取元素的样式](https://github.com/haizlin/fe-interview/issues/5915)  
+- 第1949天 (2024.08.16)  
+    	 :one: [js] [写一个方法将in8Array转Float32Array](https://github.com/haizlin/fe-interview/issues/5916)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1950天 (2024-08-17)  
+    - [js] [in8Array转Float32Array数据精度会丢失吗？](https://github.com/haizlin/fe-interview/issues/5917)
 - 第1949天 (2024-08-16)  
     - [js] [写一个方法将in8Array转Float32Array](https://github.com/haizlin/fe-interview/issues/5916)
 - 第1948天 (2024-08-15)  
