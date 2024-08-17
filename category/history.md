@@ -2,6 +2,8 @@
 
 
 
+- 第1951天 (2024-08-18)  
+    - [js] [input设置disabled为true后，如何触发点击事件？](https://github.com/haizlin/fe-interview/issues/5918)
 - 第1950天 (2024-08-17)  
     - [js] [in8Array转Float32Array数据精度会丢失吗？](https://github.com/haizlin/fe-interview/issues/5917)
 - 第1949天 (2024-08-16)  
