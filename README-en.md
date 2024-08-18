@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.18) —— 1951 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [input设置disabled为true后，如何触发点击事件？](https://github.com/haizlin/fe-interview/issues/5918)  
+## :clock430: Today's Knowledge Points (2024.08.19) —— 1952 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1950 days (2024.08.17)  
-    	 :one: [js] [in8Array转Float32Array数据精度会丢失吗？](https://github.com/haizlin/fe-interview/issues/5917)  
+- 1951 days (2024.08.18)  
+    	 :one: [js] [input设置disabled为true后，如何触发点击事件？](https://github.com/haizlin/fe-interview/issues/5918)  
  
 	
 - **[All](category/history.md)**
