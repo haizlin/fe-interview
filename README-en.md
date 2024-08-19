@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.19) —— 1952 days  
+## :clock430: Today's Knowledge Points (2024.08.20) —— 1953 days  
  
   
 ### :camel: History
@@ -51,9 +51,8 @@
     …………  
 
 
-- 1951 days (2024.08.18)  
-    	 :one: [js] [input设置disabled为true后，如何触发点击事件？](https://github.com/haizlin/fe-interview/issues/5918)  
- 
+- 1952 days (2024.08.19)  
+     
 	
 - **[All](category/history.md)**
 

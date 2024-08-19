@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.19) —— 第1952天  
+## :clock430: 今天的知识点   (2024.08.20) —— 第1953天  
  
   
 ### :camel: 历史题目
@@ -52,9 +52,8 @@
     …………  
 
 
-- 第1951天 (2024.08.18)  
-    	 :one: [js] [input设置disabled为true后，如何触发点击事件？](https://github.com/haizlin/fe-interview/issues/5918)  
- 
+- 第1952天 (2024.08.19)  
+     
 	
 - **[查看全部](category/history.md)**
 
