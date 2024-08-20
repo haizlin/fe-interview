@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.20) —— 1953 days  
+## :clock430: Today's Knowledge Points (2024.08.21) —— 1954 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [写一个自动生成表单，有哪些思路？](https://github.com/haizlin/fe-interview/issues/5920)  
  
   
 ### :camel: History
@@ -51,8 +52,9 @@
     …………  
 
 
-- 1952 days (2024.08.19)  
-     
+- 1953 days (2024.08.20)  
+    	 :one: [skill] [前端监控系统你用过哪些？](https://github.com/haizlin/fe-interview/issues/5919)  
+ 
 	
 - **[All](category/history.md)**
 

@@ -2,6 +2,10 @@
 
 
 
+- 第1954天 (2024-08-21)  
+    - [软技能] [写一个自动生成表单，有哪些思路？](https://github.com/haizlin/fe-interview/issues/5920)
+- 第1953天 (2024-08-20)  
+    - [软技能] [前端监控系统你用过哪些？](https://github.com/haizlin/fe-interview/issues/5919)
 - 第1951天 (2024-08-18)  
     - [js] [input设置disabled为true后，如何触发点击事件？](https://github.com/haizlin/fe-interview/issues/5918)
 - 第1950天 (2024-08-17)  
