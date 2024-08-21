@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.21) —— 第1954天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [写一个自动生成表单，有哪些思路？](https://github.com/haizlin/fe-interview/issues/5920)  
+## :clock430: 今天的知识点   (2024.08.22) —— 第1955天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [webRTC中为什么用浏览器无法打开摄像头？](https://github.com/haizlin/fe-interview/issues/5921)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1953天 (2024.08.20)  
-    	 :one: [软技能] [前端监控系统你用过哪些？](https://github.com/haizlin/fe-interview/issues/5919)  
+- 第1954天 (2024.08.21)  
+    	 :one: [软技能] [写一个自动生成表单，有哪些思路？](https://github.com/haizlin/fe-interview/issues/5920)  
  
 	
 - **[查看全部](category/history.md)**

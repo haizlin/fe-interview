@@ -2,6 +2,8 @@
 
 
 
+- 第1955天 (2024-08-22)  
+    - [js] [webRTC中为什么用浏览器无法打开摄像头？](https://github.com/haizlin/fe-interview/issues/5921)
 - 第1954天 (2024-08-21)  
     - [软技能] [写一个自动生成表单，有哪些思路？](https://github.com/haizlin/fe-interview/issues/5920)
 - 第1953天 (2024-08-20)  

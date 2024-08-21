@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.21) —— 1954 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [写一个自动生成表单，有哪些思路？](https://github.com/haizlin/fe-interview/issues/5920)  
+## :clock430: Today's Knowledge Points (2024.08.22) —— 1955 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [webRTC中为什么用浏览器无法打开摄像头？](https://github.com/haizlin/fe-interview/issues/5921)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1953 days (2024.08.20)  
-    	 :one: [skill] [前端监控系统你用过哪些？](https://github.com/haizlin/fe-interview/issues/5919)  
+- 1954 days (2024.08.21)  
+    	 :one: [skill] [写一个自动生成表单，有哪些思路？](https://github.com/haizlin/fe-interview/issues/5920)  
  
 	
 - **[All](category/history.md)**
