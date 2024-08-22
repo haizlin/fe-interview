@@ -2,6 +2,8 @@
 
 
 
+- 第1956天 (2024-08-23)  
+    - [js] [什么是webRTC？](https://github.com/haizlin/fe-interview/issues/5922)
 - 第1955天 (2024-08-22)  
     - [js] [webRTC中为什么用浏览器无法打开摄像头？](https://github.com/haizlin/fe-interview/issues/5921)
 - 第1954天 (2024-08-21)  

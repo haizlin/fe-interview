@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.22) —— 第1955天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [webRTC中为什么用浏览器无法打开摄像头？](https://github.com/haizlin/fe-interview/issues/5921)  
+## :clock430: 今天的知识点   (2024.08.23) —— 第1956天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [什么是webRTC？](https://github.com/haizlin/fe-interview/issues/5922)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1954天 (2024.08.21)  
-    	 :one: [软技能] [写一个自动生成表单，有哪些思路？](https://github.com/haizlin/fe-interview/issues/5920)  
+- 第1955天 (2024.08.22)  
+    	 :one: [js] [webRTC中为什么用浏览器无法打开摄像头？](https://github.com/haizlin/fe-interview/issues/5921)  
  
 	
 - **[查看全部](category/history.md)**
