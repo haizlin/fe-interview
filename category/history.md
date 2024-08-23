@@ -2,6 +2,8 @@
 
 
 
+- 第1957天 (2024-08-24)  
+    - [js] [请说说getUserMedia方法是做什么用的？](https://github.com/haizlin/fe-interview/issues/5923)
 - 第1956天 (2024-08-23)  
     - [js] [什么是webRTC？](https://github.com/haizlin/fe-interview/issues/5922)
 - 第1955天 (2024-08-22)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.23) —— 1956 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [什么是webRTC？](https://github.com/haizlin/fe-interview/issues/5922)  
+## :clock430: Today's Knowledge Points (2024.08.24) —— 1957 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说getUserMedia方法是做什么用的？](https://github.com/haizlin/fe-interview/issues/5923)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1955 days (2024.08.22)  
-    	 :one: [js] [webRTC中为什么用浏览器无法打开摄像头？](https://github.com/haizlin/fe-interview/issues/5921)  
+- 1956 days (2024.08.23)  
+    	 :one: [js] [什么是webRTC？](https://github.com/haizlin/fe-interview/issues/5922)  
  
 	
 - **[All](category/history.md)**
