@@ -2,6 +2,8 @@
 
 
 
+- 第1958天 (2024-08-25)  
+    - [js] [如何检测到麦克风是否可用？](https://github.com/haizlin/fe-interview/issues/5924)
 - 第1957天 (2024-08-24)  
     - [js] [请说说getUserMedia方法是做什么用的？](https://github.com/haizlin/fe-interview/issues/5923)
 - 第1956天 (2024-08-23)  

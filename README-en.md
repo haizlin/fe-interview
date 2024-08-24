@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.24) —— 1957 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说getUserMedia方法是做什么用的？](https://github.com/haizlin/fe-interview/issues/5923)  
+## :clock430: Today's Knowledge Points (2024.08.25) —— 1958 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何检测到麦克风是否可用？](https://github.com/haizlin/fe-interview/issues/5924)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1956 days (2024.08.23)  
-    	 :one: [js] [什么是webRTC？](https://github.com/haizlin/fe-interview/issues/5922)  
+- 1957 days (2024.08.24)  
+    	 :one: [js] [请说说getUserMedia方法是做什么用的？](https://github.com/haizlin/fe-interview/issues/5923)  
  
 	
 - **[All](category/history.md)**
