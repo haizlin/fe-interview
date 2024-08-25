@@ -2,6 +2,8 @@
 
 
 
+- 第1959天 (2024-08-26)  
+    - [js] [如何检测到摄像头是否可用？](https://github.com/haizlin/fe-interview/issues/5925)
 - 第1958天 (2024-08-25)  
     - [js] [如何检测到麦克风是否可用？](https://github.com/haizlin/fe-interview/issues/5924)
 - 第1957天 (2024-08-24)  

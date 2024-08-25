@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.25) —— 1958 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何检测到麦克风是否可用？](https://github.com/haizlin/fe-interview/issues/5924)  
+## :clock430: Today's Knowledge Points (2024.08.26) —— 1959 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何检测到摄像头是否可用？](https://github.com/haizlin/fe-interview/issues/5925)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1957 days (2024.08.24)  
-    	 :one: [js] [请说说getUserMedia方法是做什么用的？](https://github.com/haizlin/fe-interview/issues/5923)  
+- 1958 days (2024.08.25)  
+    	 :one: [js] [如何检测到麦克风是否可用？](https://github.com/haizlin/fe-interview/issues/5924)  
  
 	
 - **[All](category/history.md)**

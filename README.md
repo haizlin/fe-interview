@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.25) —— 第1958天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何检测到麦克风是否可用？](https://github.com/haizlin/fe-interview/issues/5924)  
+## :clock430: 今天的知识点   (2024.08.26) —— 第1959天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何检测到摄像头是否可用？](https://github.com/haizlin/fe-interview/issues/5925)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1957天 (2024.08.24)  
-    	 :one: [js] [请说说getUserMedia方法是做什么用的？](https://github.com/haizlin/fe-interview/issues/5923)  
+- 第1958天 (2024.08.25)  
+    	 :one: [js] [如何检测到麦克风是否可用？](https://github.com/haizlin/fe-interview/issues/5924)  
  
 	
 - **[查看全部](category/history.md)**
