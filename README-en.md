@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.26) —— 1959 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何检测到摄像头是否可用？](https://github.com/haizlin/fe-interview/issues/5925)  
+## :clock430: Today's Knowledge Points (2024.08.27) —— 1960 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [前端音频录制要怎么做呢？](https://github.com/haizlin/fe-interview/issues/5926)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1958 days (2024.08.25)  
-    	 :one: [js] [如何检测到麦克风是否可用？](https://github.com/haizlin/fe-interview/issues/5924)  
+- 1959 days (2024.08.26)  
+    	 :one: [js] [如何检测到摄像头是否可用？](https://github.com/haizlin/fe-interview/issues/5925)  
  
 	
 - **[All](category/history.md)**

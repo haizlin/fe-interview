@@ -2,6 +2,8 @@
 
 
 
+- 第1960天 (2024-08-27)  
+    - [js] [前端音频录制要怎么做呢？](https://github.com/haizlin/fe-interview/issues/5926)
 - 第1959天 (2024-08-26)  
     - [js] [如何检测到摄像头是否可用？](https://github.com/haizlin/fe-interview/issues/5925)
 - 第1958天 (2024-08-25)  
