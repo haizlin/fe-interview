@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.27) —— 第1960天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [前端音频录制要怎么做呢？](https://github.com/haizlin/fe-interview/issues/5926)  
+## :clock430: 今天的知识点   (2024.08.28) —— 第1961天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [websocket有哪些特点？](https://github.com/haizlin/fe-interview/issues/5927)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1959天 (2024.08.26)  
-    	 :one: [js] [如何检测到摄像头是否可用？](https://github.com/haizlin/fe-interview/issues/5925)  
+- 第1960天 (2024.08.27)  
+    	 :one: [js] [前端音频录制要怎么做呢？](https://github.com/haizlin/fe-interview/issues/5926)  
  
 	
 - **[查看全部](category/history.md)**
