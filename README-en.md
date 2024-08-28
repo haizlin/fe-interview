@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.28) —— 1961 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [websocket有哪些特点？](https://github.com/haizlin/fe-interview/issues/5927)  
+## :clock430: Today's Knowledge Points (2024.08.29) —— 1962 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请讲讲websocket的心跳机制](https://github.com/haizlin/fe-interview/issues/5928)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1960 days (2024.08.27)  
-    	 :one: [js] [前端音频录制要怎么做呢？](https://github.com/haizlin/fe-interview/issues/5926)  
+- 1961 days (2024.08.28)  
+    	 :one: [js] [websocket有哪些特点？](https://github.com/haizlin/fe-interview/issues/5927)  
  
 	
 - **[All](category/history.md)**
