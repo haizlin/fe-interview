@@ -2,6 +2,8 @@
 
 
 
+- 第1964天 (2024-08-31)  
+    - [js] [请讲讲websocket心跳机制作用](https://github.com/haizlin/fe-interview/issues/5930)
 - 第1963天 (2024-08-30)  
     - [js] [请讲讲websocket心跳机制原理](https://github.com/haizlin/fe-interview/issues/5929)
 - 第1962天 (2024-08-29)  

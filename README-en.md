@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.08.30) —— 1963 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请讲讲websocket心跳机制原理](https://github.com/haizlin/fe-interview/issues/5929)  
+## :clock430: Today's Knowledge Points (2024.08.31) —— 1964 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请讲讲websocket心跳机制作用](https://github.com/haizlin/fe-interview/issues/5930)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1962 days (2024.08.29)  
-    	 :one: [js] [请讲讲websocket的心跳机制](https://github.com/haizlin/fe-interview/issues/5928)  
+- 1963 days (2024.08.30)  
+    	 :one: [js] [请讲讲websocket心跳机制原理](https://github.com/haizlin/fe-interview/issues/5929)  
  
 	
 - **[All](category/history.md)**
