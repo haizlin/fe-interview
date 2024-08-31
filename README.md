@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.08.31) —— 第1964天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请讲讲websocket心跳机制作用](https://github.com/haizlin/fe-interview/issues/5930)  
+## :clock430: 今天的知识点   (2024.09.01) —— 第1965天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请讲讲WebSocket重连机制](https://github.com/haizlin/fe-interview/issues/5931)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1963天 (2024.08.30)  
-    	 :one: [js] [请讲讲websocket心跳机制原理](https://github.com/haizlin/fe-interview/issues/5929)  
+- 第1964天 (2024.08.31)  
+    	 :one: [js] [请讲讲websocket心跳机制作用](https://github.com/haizlin/fe-interview/issues/5930)  
  
 	
 - **[查看全部](category/history.md)**
