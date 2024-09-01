@@ -2,6 +2,8 @@
 
 
 
+- 第1966天 (2024-09-02)  
+    - [js] [请讲讲WebSocket有哪些缺点和不足](https://github.com/haizlin/fe-interview/issues/5932)
 - 第1965天 (2024-09-01)  
     - [js] [请讲讲WebSocket重连机制](https://github.com/haizlin/fe-interview/issues/5931)
 - 第1964天 (2024-08-31)  
