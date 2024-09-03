@@ -2,6 +2,8 @@
 
 
 
+- 第1968天 (2024-09-04)  
+    - [js] [webSocket 握手的原理是什么？](https://github.com/haizlin/fe-interview/issues/5934)
 - 第1967天 (2024-09-03)  
     - [js] [请讲讲WebSocket如何维持连接？](https://github.com/haizlin/fe-interview/issues/5933)
 - 第1966天 (2024-09-02)  

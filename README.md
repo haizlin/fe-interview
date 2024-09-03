@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.03) —— 第1967天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请讲讲WebSocket如何维持连接？](https://github.com/haizlin/fe-interview/issues/5933)  
+## :clock430: 今天的知识点   (2024.09.04) —— 第1968天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [webSocket 握手的原理是什么？](https://github.com/haizlin/fe-interview/issues/5934)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1966天 (2024.09.02)  
-    	 :one: [js] [请讲讲WebSocket有哪些缺点和不足](https://github.com/haizlin/fe-interview/issues/5932)  
+- 第1967天 (2024.09.03)  
+    	 :one: [js] [请讲讲WebSocket如何维持连接？](https://github.com/haizlin/fe-interview/issues/5933)  
  
 	
 - **[查看全部](category/history.md)**
