@@ -2,6 +2,8 @@
 
 
 
+- 第1969天 (2024-09-05)  
+    - [js] [请讲讲WebSocket如何判断在线离线？](https://github.com/haizlin/fe-interview/issues/5935)
 - 第1968天 (2024-09-04)  
     - [js] [webSocket 握手的原理是什么？](https://github.com/haizlin/fe-interview/issues/5934)
 - 第1967天 (2024-09-03)  
