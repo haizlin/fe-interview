@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.05) —— 1969 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请讲讲WebSocket如何判断在线离线？](https://github.com/haizlin/fe-interview/issues/5935)  
+## :clock430: Today's Knowledge Points (2024.09.06) —— 1970 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [WebSocket如何解决断线问题？](https://github.com/haizlin/fe-interview/issues/5936)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1968 days (2024.09.04)  
-    	 :one: [js] [webSocket 握手的原理是什么？](https://github.com/haizlin/fe-interview/issues/5934)  
+- 1969 days (2024.09.05)  
+    	 :one: [js] [请讲讲WebSocket如何判断在线离线？](https://github.com/haizlin/fe-interview/issues/5935)  
  
 	
 - **[All](category/history.md)**

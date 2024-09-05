@@ -2,6 +2,8 @@
 
 
 
+- 第1970天 (2024-09-06)  
+    - [js] [WebSocket如何解决断线问题？](https://github.com/haizlin/fe-interview/issues/5936)
 - 第1969天 (2024-09-05)  
     - [js] [请讲讲WebSocket如何判断在线离线？](https://github.com/haizlin/fe-interview/issues/5935)
 - 第1968天 (2024-09-04)  
