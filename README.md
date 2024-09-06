@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.06) —— 第1970天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [WebSocket如何解决断线问题？](https://github.com/haizlin/fe-interview/issues/5936)  
+## :clock430: 今天的知识点   (2024.09.07) —— 第1971天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1969天 (2024.09.05)  
-    	 :one: [js] [请讲讲WebSocket如何判断在线离线？](https://github.com/haizlin/fe-interview/issues/5935)  
+- 第1970天 (2024.09.06)  
+    	 :one: [js] [WebSocket如何解决断线问题？](https://github.com/haizlin/fe-interview/issues/5936)  
  
 	
 - **[查看全部](category/history.md)**
