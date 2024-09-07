@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.07) —— 第1971天  
+## :clock430: 今天的知识点   (2024.09.08) —— 第1972天  
  
   
 ### :camel: 历史题目
@@ -52,9 +52,8 @@
     …………  
 
 
-- 第1970天 (2024.09.06)  
-    	 :one: [js] [WebSocket如何解决断线问题？](https://github.com/haizlin/fe-interview/issues/5936)  
- 
+- 第1971天 (2024.09.07)  
+     
 	
 - **[查看全部](category/history.md)**
 

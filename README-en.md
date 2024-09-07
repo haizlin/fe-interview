@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.07) —— 1971 days  
+## :clock430: Today's Knowledge Points (2024.09.08) —— 1972 days  
  
   
 ### :camel: History
@@ -51,9 +51,8 @@
     …………  
 
 
-- 1970 days (2024.09.06)  
-    	 :one: [js] [WebSocket如何解决断线问题？](https://github.com/haizlin/fe-interview/issues/5936)  
- 
+- 1971 days (2024.09.07)  
+     
 	
 - **[All](category/history.md)**
 
