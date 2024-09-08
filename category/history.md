@@ -2,6 +2,10 @@
 
 
 
+- 第1973天 (2024-09-09)  
+    - [小程序] [使用uniapp实现一个生成奖状的功能，如何实现？](https://github.com/haizlin/fe-interview/issues/5938)
+- 第1972天 (2024-09-08)  
+    - [html] [js如何检测白屏？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5937)
 - 第1970天 (2024-09-06)  
     - [js] [WebSocket如何解决断线问题？](https://github.com/haizlin/fe-interview/issues/5936)
 - 第1969天 (2024-09-05)  

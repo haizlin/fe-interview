@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.08) —— 第1972天  
+## :clock430: 今天的知识点   (2024.09.09) —— 第1973天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [使用uniapp实现一个生成奖状的功能，如何实现？](https://github.com/haizlin/fe-interview/issues/5938)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,9 @@
     …………  
 
 
-- 第1971天 (2024.09.07)  
-     
+- 第1972天 (2024.09.08)  
+    	 :one: [html] [js如何检测白屏？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5937)  
+ 
 	
 - **[查看全部](category/history.md)**
 

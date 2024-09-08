@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.08) —— 1972 days  
+## :clock430: Today's Knowledge Points (2024.09.09) —— 1973 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [使用uniapp实现一个生成奖状的功能，如何实现？](https://github.com/haizlin/fe-interview/issues/5938)  
  
   
 ### :camel: History
@@ -51,8 +52,9 @@
     …………  
 
 
-- 1971 days (2024.09.07)  
-     
+- 1972 days (2024.09.08)  
+    	 :one: [html] [js如何检测白屏？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5937)  
+ 
 	
 - **[All](category/history.md)**
 
