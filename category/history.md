@@ -2,6 +2,8 @@
 
 
 
+- 第1974天 (2024-09-10)  
+    - [js] [请说说百度地图实现的原理](https://github.com/haizlin/fe-interview/issues/5939)
 - 第1973天 (2024-09-09)  
     - [小程序] [使用uniapp实现一个生成奖状的功能，如何实现？](https://github.com/haizlin/fe-interview/issues/5938)
 - 第1972天 (2024-09-08)  

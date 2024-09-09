@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.09) —— 1973 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [使用uniapp实现一个生成奖状的功能，如何实现？](https://github.com/haizlin/fe-interview/issues/5938)  
+## :clock430: Today's Knowledge Points (2024.09.10) —— 1974 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说百度地图实现的原理](https://github.com/haizlin/fe-interview/issues/5939)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1972 days (2024.09.08)  
-    	 :one: [html] [js如何检测白屏？有哪些方法？](https://github.com/haizlin/fe-interview/issues/5937)  
+- 1973 days (2024.09.09)  
+    	 :one: [小程序] [使用uniapp实现一个生成奖状的功能，如何实现？](https://github.com/haizlin/fe-interview/issues/5938)  
  
 	
 - **[All](category/history.md)**
