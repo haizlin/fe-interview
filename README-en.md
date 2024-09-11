@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.11) —— 1975 days  
+## :clock430: Today's Knowledge Points (2024.09.12) —— 1976 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [3D地图是如何制作的？](https://github.com/haizlin/fe-interview/issues/5941)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1974 days (2024.09.10)  
-    	 :one: [js] [请说说百度地图实现的原理](https://github.com/haizlin/fe-interview/issues/5939)  
+- 1975 days (2024.09.11)  
+    	 :one: [js] [使用javascript写个方法进行屏目切换检测](https://github.com/haizlin/fe-interview/issues/5940)  
  
 	
 - **[All](category/history.md)**

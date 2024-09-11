@@ -2,6 +2,10 @@
 
 
 
+- 第1976天 (2024-09-12)  
+    - [js] [3D地图是如何制作的？](https://github.com/haizlin/fe-interview/issues/5941)
+- 第1975天 (2024-09-11)  
+    - [js] [使用javascript写个方法进行屏目切换检测](https://github.com/haizlin/fe-interview/issues/5940)
 - 第1974天 (2024-09-10)  
     - [js] [请说说百度地图实现的原理](https://github.com/haizlin/fe-interview/issues/5939)
 - 第1973天 (2024-09-09)  
