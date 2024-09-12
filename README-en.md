@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.12) —— 1976 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [3D地图是如何制作的？](https://github.com/haizlin/fe-interview/issues/5941)  
+## :clock430: Today's Knowledge Points (2024.09.13) —— 1977 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [前端埋点，有哪些上报的方法？](https://github.com/haizlin/fe-interview/issues/5942)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1975 days (2024.09.11)  
-    	 :one: [js] [使用javascript写个方法进行屏目切换检测](https://github.com/haizlin/fe-interview/issues/5940)  
+- 1976 days (2024.09.12)  
+    	 :one: [js] [3D地图是如何制作的？](https://github.com/haizlin/fe-interview/issues/5941)  
  
 	
 - **[All](category/history.md)**

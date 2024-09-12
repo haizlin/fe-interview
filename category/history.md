@@ -2,6 +2,8 @@
 
 
 
+- 第1977天 (2024-09-13)  
+    - [js] [前端埋点，有哪些上报的方法？](https://github.com/haizlin/fe-interview/issues/5942)
 - 第1976天 (2024-09-12)  
     - [js] [3D地图是如何制作的？](https://github.com/haizlin/fe-interview/issues/5941)
 - 第1975天 (2024-09-11)  
