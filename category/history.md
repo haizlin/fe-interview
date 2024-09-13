@@ -2,6 +2,8 @@
 
 
 
+- 第1978天 (2024-09-14)  
+    - [html] [如何计算页面的性能？](https://github.com/haizlin/fe-interview/issues/5943)
 - 第1977天 (2024-09-13)  
     - [js] [前端埋点，有哪些上报的方法？](https://github.com/haizlin/fe-interview/issues/5942)
 - 第1976天 (2024-09-12)  
