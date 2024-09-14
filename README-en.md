@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.14) —— 1978 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何计算页面的性能？](https://github.com/haizlin/fe-interview/issues/5943)  
+## :clock430: Today's Knowledge Points (2024.09.15) —— 1979 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1977 days (2024.09.13)  
-    	 :one: [js] [前端埋点，有哪些上报的方法？](https://github.com/haizlin/fe-interview/issues/5942)  
+- 1978 days (2024.09.14)  
+    	 :one: [html] [如何计算页面的性能？](https://github.com/haizlin/fe-interview/issues/5943)  
  
 	
 - **[All](category/history.md)**

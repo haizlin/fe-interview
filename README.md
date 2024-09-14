@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.14) —— 第1978天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [如何计算页面的性能？](https://github.com/haizlin/fe-interview/issues/5943)  
+## :clock430: 今天的知识点   (2024.09.15) —— 第1979天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第1977天 (2024.09.13)  
-    	 :one: [js] [前端埋点，有哪些上报的方法？](https://github.com/haizlin/fe-interview/issues/5942)  
+- 第1978天 (2024.09.14)  
+    	 :one: [html] [如何计算页面的性能？](https://github.com/haizlin/fe-interview/issues/5943)  
  
 	
 - **[查看全部](category/history.md)**
