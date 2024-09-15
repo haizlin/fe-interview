@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.15) —— 第1979天  
+## :clock430: 今天的知识点   (2024.09.16) —— 第1980天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1978天 (2024.09.14)  
-    	 :one: [html] [如何计算页面的性能？](https://github.com/haizlin/fe-interview/issues/5943)  
+- 第1979天 (2024.09.15)  
+    	 :one: [js] [如何实现一个自定义表单？](https://github.com/haizlin/fe-interview/issues/5944)  
  
 	
 - **[查看全部](category/history.md)**

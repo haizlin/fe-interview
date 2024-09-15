@@ -2,6 +2,8 @@
 
 
 
+- 第1979天 (2024-09-15)  
+    - [js] [如何实现一个自定义表单？](https://github.com/haizlin/fe-interview/issues/5944)
 - 第1978天 (2024-09-14)  
     - [html] [如何计算页面的性能？](https://github.com/haizlin/fe-interview/issues/5943)
 - 第1977天 (2024-09-13)  

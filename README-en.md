@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.15) —— 1979 days  
+## :clock430: Today's Knowledge Points (2024.09.16) —— 1980 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1978 days (2024.09.14)  
-    	 :one: [html] [如何计算页面的性能？](https://github.com/haizlin/fe-interview/issues/5943)  
+- 1979 days (2024.09.15)  
+    	 :one: [js] [如何实现一个自定义表单？](https://github.com/haizlin/fe-interview/issues/5944)  
  
 	
 - **[All](category/history.md)**
