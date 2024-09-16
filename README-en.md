@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.16) —— 1980 days  
+## :clock430: Today's Knowledge Points (2024.09.17) —— 1981 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1979 days (2024.09.15)  
-    	 :one: [js] [如何实现一个自定义表单？](https://github.com/haizlin/fe-interview/issues/5944)  
+- 1980 days (2024.09.16)  
+    	 :one: [css] [使用canvas制作一个卡通的月饼](https://github.com/haizlin/fe-interview/issues/5945)  
  
 	
 - **[All](category/history.md)**
