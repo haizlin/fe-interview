@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.17) —— 第1981天  
+## :clock430: 今天的知识点   (2024.09.18) —— 第1982天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1980天 (2024.09.16)  
-    	 :one: [css] [使用canvas制作一个卡通的月饼](https://github.com/haizlin/fe-interview/issues/5945)  
+- 第1981天 (2024.09.17)  
+    	 :one: [html] [使用canvas制作下雨的效果](https://github.com/haizlin/fe-interview/issues/5946)  
  
 	
 - **[查看全部](category/history.md)**

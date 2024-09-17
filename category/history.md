@@ -2,6 +2,8 @@
 
 
 
+- 第1981天 (2024-09-17)  
+    - [html] [使用canvas制作下雨的效果](https://github.com/haizlin/fe-interview/issues/5946)
 - 第1980天 (2024-09-16)  
     - [css] [使用canvas制作一个卡通的月饼](https://github.com/haizlin/fe-interview/issues/5945)
 - 第1979天 (2024-09-15)  
