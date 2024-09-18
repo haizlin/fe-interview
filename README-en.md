@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.18) —— 1982 days  
+## :clock430: Today's Knowledge Points (2024.09.19) —— 1983 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [怎样提高微信小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5949)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 1981 days (2024.09.17)  
-    	 :one: [html] [使用canvas制作下雨的效果](https://github.com/haizlin/fe-interview/issues/5946)  
+- 1982 days (2024.09.18)  
+    	 :one: [小程序] [小程序如何自定义tabbar？](https://github.com/haizlin/fe-interview/issues/5948)  
  
 	
 - **[All](category/history.md)**

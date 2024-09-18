@@ -2,6 +2,10 @@
 
 
 
+- 第1983天 (2024-09-19)  
+    - [小程序] [怎样提高微信小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5949)
+- 第1982天 (2024-09-18)  
+    - [小程序] [小程序如何自定义tabbar？](https://github.com/haizlin/fe-interview/issues/5948)
 - 第1981天 (2024-09-17)  
     - [html] [使用canvas制作下雨的效果](https://github.com/haizlin/fe-interview/issues/5946)
 - 第1980天 (2024-09-16)  
