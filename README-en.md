@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.19) —— 1983 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [怎样提高微信小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5949)  
+## :clock430: Today's Knowledge Points (2024.09.20) —— 1984 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [怎样提高微信小程序的渲染性能？](https://github.com/haizlin/fe-interview/issues/5950)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1982 days (2024.09.18)  
-    	 :one: [小程序] [小程序如何自定义tabbar？](https://github.com/haizlin/fe-interview/issues/5948)  
+- 1983 days (2024.09.19)  
+    	 :one: [小程序] [怎样提高微信小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5949)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第1984天 (2024-09-20)  
+    - [小程序] [怎样提高微信小程序的渲染性能？](https://github.com/haizlin/fe-interview/issues/5950)
 - 第1983天 (2024-09-19)  
     - [小程序] [怎样提高微信小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5949)
 - 第1982天 (2024-09-18)  
