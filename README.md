@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.20) —— 第1984天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [怎样提高微信小程序的渲染性能？](https://github.com/haizlin/fe-interview/issues/5950)  
+## :clock430: 今天的知识点   (2024.09.21) —— 第1985天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说小程序授权登录的流程](https://github.com/haizlin/fe-interview/issues/5951)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1983天 (2024.09.19)  
-    	 :one: [小程序] [怎样提高微信小程序的加载速度？](https://github.com/haizlin/fe-interview/issues/5949)  
+- 第1984天 (2024.09.20)  
+    	 :one: [小程序] [怎样提高微信小程序的渲染性能？](https://github.com/haizlin/fe-interview/issues/5950)  
  
 	
 - **[查看全部](category/history.md)**

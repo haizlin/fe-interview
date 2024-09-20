@@ -2,6 +2,8 @@
 
 
 
+- 第1985天 (2024-09-21)  
+    - [小程序] [请说说小程序授权登录的流程](https://github.com/haizlin/fe-interview/issues/5951)
 - 第1984天 (2024-09-20)  
     - [小程序] [怎样提高微信小程序的渲染性能？](https://github.com/haizlin/fe-interview/issues/5950)
 - 第1983天 (2024-09-19)  
