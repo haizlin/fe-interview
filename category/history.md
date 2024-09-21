@@ -2,6 +2,8 @@
 
 
 
+- 第1986天 (2024-09-22)  
+    - [小程序] [请问微信小程序和H5有什么区别？](https://github.com/haizlin/fe-interview/issues/5952)
 - 第1985天 (2024-09-21)  
     - [小程序] [请说说小程序授权登录的流程](https://github.com/haizlin/fe-interview/issues/5951)
 - 第1984天 (2024-09-20)  

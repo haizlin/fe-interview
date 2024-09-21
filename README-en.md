@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.21) —— 1985 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说小程序授权登录的流程](https://github.com/haizlin/fe-interview/issues/5951)  
+## :clock430: Today's Knowledge Points (2024.09.22) —— 1986 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请问微信小程序和H5有什么区别？](https://github.com/haizlin/fe-interview/issues/5952)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1984 days (2024.09.20)  
-    	 :one: [小程序] [怎样提高微信小程序的渲染性能？](https://github.com/haizlin/fe-interview/issues/5950)  
+- 1985 days (2024.09.21)  
+    	 :one: [小程序] [请说说小程序授权登录的流程](https://github.com/haizlin/fe-interview/issues/5951)  
  
 	
 - **[All](category/history.md)**
