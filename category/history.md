@@ -2,6 +2,8 @@
 
 
 
+- 第1987天 (2024-09-23)  
+    - [小程序] [小程序对异步请求的优化有哪些方式？](https://github.com/haizlin/fe-interview/issues/5953)
 - 第1986天 (2024-09-22)  
     - [小程序] [请问微信小程序和H5有什么区别？](https://github.com/haizlin/fe-interview/issues/5952)
 - 第1985天 (2024-09-21)  

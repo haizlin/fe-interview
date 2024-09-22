@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.22) —— 1986 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请问微信小程序和H5有什么区别？](https://github.com/haizlin/fe-interview/issues/5952)  
+## :clock430: Today's Knowledge Points (2024.09.23) —— 1987 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [小程序对异步请求的优化有哪些方式？](https://github.com/haizlin/fe-interview/issues/5953)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1985 days (2024.09.21)  
-    	 :one: [小程序] [请说说小程序授权登录的流程](https://github.com/haizlin/fe-interview/issues/5951)  
+- 1986 days (2024.09.22)  
+    	 :one: [小程序] [请问微信小程序和H5有什么区别？](https://github.com/haizlin/fe-interview/issues/5952)  
  
 	
 - **[All](category/history.md)**
