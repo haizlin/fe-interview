@@ -2,6 +2,8 @@
 
 
 
+- 第1988天 (2024-09-24)  
+    - [小程序] [请说说setData的操作过程](https://github.com/haizlin/fe-interview/issues/5954)
 - 第1987天 (2024-09-23)  
     - [小程序] [小程序对异步请求的优化有哪些方式？](https://github.com/haizlin/fe-interview/issues/5953)
 - 第1986天 (2024-09-22)  
