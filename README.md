@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.24) —— 第1988天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说setData的操作过程](https://github.com/haizlin/fe-interview/issues/5954)  
+## :clock430: 今天的知识点   (2024.09.25) —— 第1989天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [打开微信小程序有哪些方式？](https://github.com/haizlin/fe-interview/issues/5955)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1987天 (2024.09.23)  
-    	 :one: [小程序] [小程序对异步请求的优化有哪些方式？](https://github.com/haizlin/fe-interview/issues/5953)  
+- 第1988天 (2024.09.24)  
+    	 :one: [小程序] [请说说setData的操作过程](https://github.com/haizlin/fe-interview/issues/5954)  
  
 	
 - **[查看全部](category/history.md)**

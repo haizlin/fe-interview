@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.24) —— 1988 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [请说说setData的操作过程](https://github.com/haizlin/fe-interview/issues/5954)  
+## :clock430: Today's Knowledge Points (2024.09.25) —— 1989 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [打开微信小程序有哪些方式？](https://github.com/haizlin/fe-interview/issues/5955)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1987 days (2024.09.23)  
-    	 :one: [小程序] [小程序对异步请求的优化有哪些方式？](https://github.com/haizlin/fe-interview/issues/5953)  
+- 1988 days (2024.09.24)  
+    	 :one: [小程序] [请说说setData的操作过程](https://github.com/haizlin/fe-interview/issues/5954)  
  
 	
 - **[All](category/history.md)**
