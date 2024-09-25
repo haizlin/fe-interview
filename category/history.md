@@ -2,6 +2,8 @@
 
 
 
+- 第1990天 (2024-09-26)  
+    - [小程序] [微信小程序可以放到公众号的底部菜单吗？](https://github.com/haizlin/fe-interview/issues/5956)
 - 第1989天 (2024-09-25)  
     - [小程序] [打开微信小程序有哪些方式？](https://github.com/haizlin/fe-interview/issues/5955)
 - 第1988天 (2024-09-24)  
