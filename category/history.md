@@ -2,6 +2,8 @@
 
 
 
+- 第1991天 (2024-09-27)  
+    - [小程序] [微信小程序有哪些支付方式？](https://github.com/haizlin/fe-interview/issues/5957)
 - 第1990天 (2024-09-26)  
     - [小程序] [微信小程序可以放到公众号的底部菜单吗？](https://github.com/haizlin/fe-interview/issues/5956)
 - 第1989天 (2024-09-25)  
