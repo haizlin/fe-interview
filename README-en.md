@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.27) —— 1991 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [微信小程序有哪些支付方式？](https://github.com/haizlin/fe-interview/issues/5957)  
+## :clock430: Today's Knowledge Points (2024.09.28) —— 1992 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [小程序] [微信小程序如何实现分享功能](https://github.com/haizlin/fe-interview/issues/5958)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1990 days (2024.09.26)  
-    	 :one: [小程序] [微信小程序可以放到公众号的底部菜单吗？](https://github.com/haizlin/fe-interview/issues/5956)  
+- 1991 days (2024.09.27)  
+    	 :one: [小程序] [微信小程序有哪些支付方式？](https://github.com/haizlin/fe-interview/issues/5957)  
  
 	
 - **[All](category/history.md)**

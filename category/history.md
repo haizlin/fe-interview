@@ -2,6 +2,8 @@
 
 
 
+- 第1992天 (2024-09-28)  
+    - [小程序] [微信小程序如何实现分享功能](https://github.com/haizlin/fe-interview/issues/5958)
 - 第1991天 (2024-09-27)  
     - [小程序] [微信小程序有哪些支付方式？](https://github.com/haizlin/fe-interview/issues/5957)
 - 第1990天 (2024-09-26)  
