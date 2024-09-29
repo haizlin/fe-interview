@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.09.29) —— 第1993天  
+## :clock430: 今天的知识点   (2024.09.30) —— 第1994天  
  
   
 ### :camel: 历史题目
@@ -52,9 +52,8 @@
     …………  
 
 
-- 第1992天 (2024.09.28)  
-    	 :one: [小程序] [微信小程序如何实现分享功能](https://github.com/haizlin/fe-interview/issues/5958)  
- 
+- 第1993天 (2024.09.29)  
+     
 	
 - **[查看全部](category/history.md)**
 

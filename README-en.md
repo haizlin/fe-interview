@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.09.29) —— 1993 days  
+## :clock430: Today's Knowledge Points (2024.09.30) —— 1994 days  
  
   
 ### :camel: History
@@ -51,9 +51,8 @@
     …………  
 
 
-- 1992 days (2024.09.28)  
-    	 :one: [小程序] [微信小程序如何实现分享功能](https://github.com/haizlin/fe-interview/issues/5958)  
- 
+- 1993 days (2024.09.29)  
+     
 	
 - **[All](category/history.md)**
 
