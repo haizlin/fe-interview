@@ -2,6 +2,8 @@
 
 
 
+- 第1994天 (2024-09-30)  
+    - [css] [使用css制作一个喜庆的国庆头像](https://github.com/haizlin/fe-interview/issues/5959)
 - 第1992天 (2024-09-28)  
     - [小程序] [微信小程序如何实现分享功能](https://github.com/haizlin/fe-interview/issues/5958)
 - 第1991天 (2024-09-27)  
