@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.01) —— 第1995天  
+## :clock430: 今天的知识点   (2024.10.02) —— 第1996天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1994天 (2024.09.30)  
-    	 :one: [css] [使用css制作一个喜庆的国庆头像](https://github.com/haizlin/fe-interview/issues/5959)  
+- 第1995天 (2024.10.01)  
+    	 :one: [css] [使用css写一个自动升国旗的动画](https://github.com/haizlin/fe-interview/issues/5960)  
  
 	
 - **[查看全部](category/history.md)**

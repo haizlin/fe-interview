@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.01) —— 1995 days  
+## :clock430: Today's Knowledge Points (2024.10.02) —— 1996 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1994 days (2024.09.30)  
-    	 :one: [css] [使用css制作一个喜庆的国庆头像](https://github.com/haizlin/fe-interview/issues/5959)  
+- 1995 days (2024.10.01)  
+    	 :one: [css] [使用css写一个自动升国旗的动画](https://github.com/haizlin/fe-interview/issues/5960)  
  
 	
 - **[All](category/history.md)**

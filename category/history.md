@@ -2,6 +2,8 @@
 
 
 
+- 第1995天 (2024-10-01)  
+    - [css] [使用css写一个自动升国旗的动画](https://github.com/haizlin/fe-interview/issues/5960)
 - 第1994天 (2024-09-30)  
     - [css] [使用css制作一个喜庆的国庆头像](https://github.com/haizlin/fe-interview/issues/5959)
 - 第1992天 (2024-09-28)  
