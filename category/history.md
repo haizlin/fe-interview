@@ -2,6 +2,10 @@
 
 
 
+- 第1997天 (2024-10-03)  
+    - [vue] [SPA首屏为什么加载慢？](https://github.com/haizlin/fe-interview/issues/5962)
+- 第1996天 (2024-10-02)  
+    - [js] [怎么用javascript实现markdown文件预览？](https://github.com/haizlin/fe-interview/issues/5961)
 - 第1995天 (2024-10-01)  
     - [css] [使用css写一个自动升国旗的动画](https://github.com/haizlin/fe-interview/issues/5960)
 - 第1994天 (2024-09-30)  

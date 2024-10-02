@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.02) —— 第1996天  
+## :clock430: 今天的知识点   (2024.10.03) —— 第1997天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [SPA首屏为什么加载慢？](https://github.com/haizlin/fe-interview/issues/5962)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第1995天 (2024.10.01)  
-    	 :one: [css] [使用css写一个自动升国旗的动画](https://github.com/haizlin/fe-interview/issues/5960)  
+- 第1996天 (2024.10.02)  
+    	 :one: [js] [怎么用javascript实现markdown文件预览？](https://github.com/haizlin/fe-interview/issues/5961)  
  
 	
 - **[查看全部](category/history.md)**
