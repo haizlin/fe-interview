@@ -2,6 +2,8 @@
 
 
 
+- 第1998天 (2024-10-04)  
+    - [软技能] [为什么要做性能优化？](https://github.com/haizlin/fe-interview/issues/5963)
 - 第1997天 (2024-10-03)  
     - [vue] [SPA首屏为什么加载慢？](https://github.com/haizlin/fe-interview/issues/5962)
 - 第1996天 (2024-10-02)  

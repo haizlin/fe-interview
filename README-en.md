@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.03) —— 1997 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [SPA首屏为什么加载慢？](https://github.com/haizlin/fe-interview/issues/5962)  
+## :clock430: Today's Knowledge Points (2024.10.04) —— 1998 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [为什么要做性能优化？](https://github.com/haizlin/fe-interview/issues/5963)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1996 days (2024.10.02)  
-    	 :one: [js] [怎么用javascript实现markdown文件预览？](https://github.com/haizlin/fe-interview/issues/5961)  
+- 1997 days (2024.10.03)  
+    	 :one: [vue] [SPA首屏为什么加载慢？](https://github.com/haizlin/fe-interview/issues/5962)  
  
 	
 - **[All](category/history.md)**
