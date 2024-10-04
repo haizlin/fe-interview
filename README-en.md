@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.04) —— 1998 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [为什么要做性能优化？](https://github.com/haizlin/fe-interview/issues/5963)  
+## :clock430: Today's Knowledge Points (2024.10.05) —— 1999 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你有开发过vscode插件吗？](https://github.com/haizlin/fe-interview/issues/5964)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 1997 days (2024.10.03)  
-    	 :one: [vue] [SPA首屏为什么加载慢？](https://github.com/haizlin/fe-interview/issues/5962)  
+- 1998 days (2024.10.04)  
+    	 :one: [skill] [为什么要做性能优化？](https://github.com/haizlin/fe-interview/issues/5963)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.04) —— 第1998天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [为什么要做性能优化？](https://github.com/haizlin/fe-interview/issues/5963)  
+## :clock430: 今天的知识点   (2024.10.05) —— 第1999天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你有开发过vscode插件吗？](https://github.com/haizlin/fe-interview/issues/5964)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第1997天 (2024.10.03)  
-    	 :one: [vue] [SPA首屏为什么加载慢？](https://github.com/haizlin/fe-interview/issues/5962)  
+- 第1998天 (2024.10.04)  
+    	 :one: [软技能] [为什么要做性能优化？](https://github.com/haizlin/fe-interview/issues/5963)  
  
 	
 - **[查看全部](category/history.md)**

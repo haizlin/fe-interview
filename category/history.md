@@ -2,6 +2,8 @@
 
 
 
+- 第1999天 (2024-10-05)  
+    - [软技能] [你有开发过vscode插件吗？](https://github.com/haizlin/fe-interview/issues/5964)
 - 第1998天 (2024-10-04)  
     - [软技能] [为什么要做性能优化？](https://github.com/haizlin/fe-interview/issues/5963)
 - 第1997天 (2024-10-03)  
