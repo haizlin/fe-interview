@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.05) —— 1999 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你有开发过vscode插件吗？](https://github.com/haizlin/fe-interview/issues/5964)  
+## :clock430: Today's Knowledge Points (2024.10.06) —— 2000 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 1998 days (2024.10.04)  
-    	 :one: [skill] [为什么要做性能优化？](https://github.com/haizlin/fe-interview/issues/5963)  
+- 1999 days (2024.10.05)  
+    	 :one: [skill] [你有开发过vscode插件吗？](https://github.com/haizlin/fe-interview/issues/5964)  
  
 	
 - **[All](category/history.md)**
