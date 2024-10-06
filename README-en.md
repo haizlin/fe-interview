@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.06) —— 2000 days  
+## :clock430: Today's Knowledge Points (2024.10.07) —— 2001 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 1999 days (2024.10.05)  
-    	 :one: [skill] [你有开发过vscode插件吗？](https://github.com/haizlin/fe-interview/issues/5964)  
+- 2000 days (2024.10.06)  
+    	 :one: [skill] [说说你对性能258原则的理解](https://github.com/haizlin/fe-interview/issues/5965)  
  
 	
 - **[All](category/history.md)**

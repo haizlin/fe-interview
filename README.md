@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.06) —— 第2000天  
+## :clock430: 今天的知识点   (2024.10.07) —— 第2001天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第1999天 (2024.10.05)  
-    	 :one: [软技能] [你有开发过vscode插件吗？](https://github.com/haizlin/fe-interview/issues/5964)  
+- 第2000天 (2024.10.06)  
+    	 :one: [软技能] [说说你对性能258原则的理解](https://github.com/haizlin/fe-interview/issues/5965)  
  
 	
 - **[查看全部](category/history.md)**
