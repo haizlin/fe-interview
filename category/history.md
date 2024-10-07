@@ -2,6 +2,8 @@
 
 
 
+- 第2001天 (2024-10-07)  
+    - [css] [使用css3画一只熊猫的动画](https://github.com/haizlin/fe-interview/issues/5966)
 - 第2000天 (2024-10-06)  
     - [软技能] [说说你对性能258原则的理解](https://github.com/haizlin/fe-interview/issues/5965)
 - 第1999天 (2024-10-05)  

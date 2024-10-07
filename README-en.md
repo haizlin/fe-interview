@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.07) —— 2001 days  
+## :clock430: Today's Knowledge Points (2024.10.08) —— 2002 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 2000 days (2024.10.06)  
-    	 :one: [skill] [说说你对性能258原则的理解](https://github.com/haizlin/fe-interview/issues/5965)  
+- 2001 days (2024.10.07)  
+    	 :one: [css] [使用css3画一只熊猫的动画](https://github.com/haizlin/fe-interview/issues/5966)  
  
 	
 - **[All](category/history.md)**
