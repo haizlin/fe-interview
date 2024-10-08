@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.08) —— 2002 days  
+## :clock430: Today's Knowledge Points (2024.10.09) —— 2003 days  
  
   
 ### :camel: History
@@ -51,8 +51,8 @@
     …………  
 
 
-- 2001 days (2024.10.07)  
-    	 :one: [css] [使用css3画一只熊猫的动画](https://github.com/haizlin/fe-interview/issues/5966)  
+- 2002 days (2024.10.08)  
+    	 :one: [NodeJs] [使用nodejs写一个压缩图片的方法](https://github.com/haizlin/fe-interview/issues/5968)  
  
 	
 - **[All](category/history.md)**

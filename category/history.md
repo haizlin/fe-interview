@@ -2,6 +2,8 @@
 
 
 
+- 第2002天 (2024-10-08)  
+    - [NodeJs] [使用nodejs写一个压缩图片的方法](https://github.com/haizlin/fe-interview/issues/5968)
 - 第2001天 (2024-10-07)  
     - [css] [使用css3画一只熊猫的动画](https://github.com/haizlin/fe-interview/issues/5966)
 - 第2000天 (2024-10-06)  

@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.08) —— 第2002天  
+## :clock430: 今天的知识点   (2024.10.09) —— 第2003天  
  
   
 ### :camel: 历史题目
@@ -52,8 +52,8 @@
     …………  
 
 
-- 第2001天 (2024.10.07)  
-    	 :one: [css] [使用css3画一只熊猫的动画](https://github.com/haizlin/fe-interview/issues/5966)  
+- 第2002天 (2024.10.08)  
+    	 :one: [NodeJs] [使用nodejs写一个压缩图片的方法](https://github.com/haizlin/fe-interview/issues/5968)  
  
 	
 - **[查看全部](category/history.md)**
