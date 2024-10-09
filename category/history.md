@@ -2,6 +2,10 @@
 
 
 
+- 第2004天 (2024-10-10)  
+    - [webpack] [请问为什么要学习Webpack？](https://github.com/haizlin/fe-interview/issues/5970)
+- 第2003天 (2024-10-09)  
+    - [js] [如何使用Promise模拟任务队列？](https://github.com/haizlin/fe-interview/issues/5969)
 - 第2002天 (2024-10-08)  
     - [NodeJs] [使用nodejs写一个压缩图片的方法](https://github.com/haizlin/fe-interview/issues/5968)
 - 第2001天 (2024-10-07)  

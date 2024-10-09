@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.09) —— 2003 days  
+## :clock430: Today's Knowledge Points (2024.10.10) —— 2004 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请问为什么要学习Webpack？](https://github.com/haizlin/fe-interview/issues/5970)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 2002 days (2024.10.08)  
-    	 :one: [NodeJs] [使用nodejs写一个压缩图片的方法](https://github.com/haizlin/fe-interview/issues/5968)  
+- 2003 days (2024.10.09)  
+    	 :one: [js] [如何使用Promise模拟任务队列？](https://github.com/haizlin/fe-interview/issues/5969)  
  
 	
 - **[All](category/history.md)**

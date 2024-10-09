@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.09) —— 第2003天  
+## :clock430: 今天的知识点   (2024.10.10) —— 第2004天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请问为什么要学习Webpack？](https://github.com/haizlin/fe-interview/issues/5970)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第2002天 (2024.10.08)  
-    	 :one: [NodeJs] [使用nodejs写一个压缩图片的方法](https://github.com/haizlin/fe-interview/issues/5968)  
+- 第2003天 (2024.10.09)  
+    	 :one: [js] [如何使用Promise模拟任务队列？](https://github.com/haizlin/fe-interview/issues/5969)  
  
 	
 - **[查看全部](category/history.md)**
