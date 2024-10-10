@@ -2,6 +2,8 @@
 
 
 
+- 第2005天 (2024-10-11)  
+    - [webpack] [webpack都有哪些使用场景？](https://github.com/haizlin/fe-interview/issues/5971)
 - 第2004天 (2024-10-10)  
     - [webpack] [请问为什么要学习Webpack？](https://github.com/haizlin/fe-interview/issues/5970)
 - 第2003天 (2024-10-09)  
