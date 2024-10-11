@@ -2,6 +2,8 @@
 
 
 
+- 第2006天 (2024-10-12)  
+    - [webpack] [在webpack中，什么是文件指纹？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5972)
 - 第2005天 (2024-10-11)  
     - [webpack] [webpack都有哪些使用场景？](https://github.com/haizlin/fe-interview/issues/5971)
 - 第2004天 (2024-10-10)  
