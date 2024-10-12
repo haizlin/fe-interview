@@ -2,6 +2,8 @@
 
 
 
+- 第2007天 (2024-10-13)  
+    - [webpack] [在webpack中，请说说文件监听的原理](https://github.com/haizlin/fe-interview/issues/5973)
 - 第2006天 (2024-10-12)  
     - [webpack] [在webpack中，什么是文件指纹？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5972)
 - 第2005天 (2024-10-11)  

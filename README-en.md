@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.12) —— 2006 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，什么是文件指纹？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5972)  
+## :clock430: Today's Knowledge Points (2024.10.13) —— 2007 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，请说说文件监听的原理](https://github.com/haizlin/fe-interview/issues/5973)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2005 days (2024.10.11)  
-    	 :one: [webpack] [webpack都有哪些使用场景？](https://github.com/haizlin/fe-interview/issues/5971)  
+- 2006 days (2024.10.12)  
+    	 :one: [webpack] [在webpack中，什么是文件指纹？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5972)  
  
 	
 - **[All](category/history.md)**
