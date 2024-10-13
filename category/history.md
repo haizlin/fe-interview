@@ -2,6 +2,8 @@
 
 
 
+- 第2008天 (2024-10-14)  
+    - [webpack] [在webpack中，你觉得哪些plugin比较好用呢？为什么？](https://github.com/haizlin/fe-interview/issues/5974)
 - 第2007天 (2024-10-13)  
     - [webpack] [在webpack中，请说说文件监听的原理](https://github.com/haizlin/fe-interview/issues/5973)
 - 第2006天 (2024-10-12)  
