@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.14) —— 第2008天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，你觉得哪些plugin比较好用呢？为什么？](https://github.com/haizlin/fe-interview/issues/5974)  
+## :clock430: 今天的知识点   (2024.10.15) —— 第2009天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，常见的loader有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5975)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2007天 (2024.10.13)  
-    	 :one: [webpack] [在webpack中，请说说文件监听的原理](https://github.com/haizlin/fe-interview/issues/5973)  
+- 第2008天 (2024.10.14)  
+    	 :one: [webpack] [在webpack中，你觉得哪些plugin比较好用呢？为什么？](https://github.com/haizlin/fe-interview/issues/5974)  
  
 	
 - **[查看全部](category/history.md)**
