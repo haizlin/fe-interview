@@ -2,6 +2,8 @@
 
 
 
+- 第2010天 (2024-10-16)  
+    - [webpack] [在webpack中，常见的plugin有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5976)
 - 第2009天 (2024-10-15)  
     - [webpack] [在webpack中，常见的loader有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5975)
 - 第2008天 (2024-10-14)  

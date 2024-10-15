@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.15) —— 2009 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，常见的loader有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5975)  
+## :clock430: Today's Knowledge Points (2024.10.16) —— 2010 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，常见的plugin有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5976)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2008 days (2024.10.14)  
-    	 :one: [webpack] [在webpack中，你觉得哪些plugin比较好用呢？为什么？](https://github.com/haizlin/fe-interview/issues/5974)  
+- 2009 days (2024.10.15)  
+    	 :one: [webpack] [在webpack中，常见的loader有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5975)  
  
 	
 - **[All](category/history.md)**
