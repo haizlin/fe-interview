@@ -2,6 +2,8 @@
 
 
 
+- 第2011天 (2024-10-17)  
+    - [webpack] [在webpack中，怎样保证多个Loader按照顺序执行？](https://github.com/haizlin/fe-interview/issues/5977)
 - 第2010天 (2024-10-16)  
     - [webpack] [在webpack中，常见的plugin有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5976)
 - 第2009天 (2024-10-15)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.16) —— 第2010天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，常见的plugin有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5976)  
+## :clock430: 今天的知识点   (2024.10.17) —— 第2011天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，怎样保证多个Loader按照顺序执行？](https://github.com/haizlin/fe-interview/issues/5977)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2009天 (2024.10.15)  
-    	 :one: [webpack] [在webpack中，常见的loader有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5975)  
+- 第2010天 (2024.10.16)  
+    	 :one: [webpack] [在webpack中，常见的plugin有哪些？作用分别是什么？](https://github.com/haizlin/fe-interview/issues/5976)  
  
 	
 - **[查看全部](category/history.md)**
