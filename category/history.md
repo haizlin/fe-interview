@@ -2,6 +2,8 @@
 
 
 
+- 第2012天 (2024-10-18)  
+    - [webpack] [在webpack中，什么是Source map？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5978)
 - 第2011天 (2024-10-17)  
     - [webpack] [在webpack中，怎样保证多个Loader按照顺序执行？](https://github.com/haizlin/fe-interview/issues/5977)
 - 第2010天 (2024-10-16)  
