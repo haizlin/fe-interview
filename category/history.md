@@ -2,6 +2,8 @@
 
 
 
+- 第2013天 (2024-10-19)  
+    - [webpack] [在webpack中，请说说HMR的原理](https://github.com/haizlin/fe-interview/issues/5979)
 - 第2012天 (2024-10-18)  
     - [webpack] [在webpack中，什么是Source map？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5978)
 - 第2011天 (2024-10-17)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.18) —— 第2012天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，什么是Source map？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5978)  
+## :clock430: 今天的知识点   (2024.10.19) —— 第2013天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，请说说HMR的原理](https://github.com/haizlin/fe-interview/issues/5979)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2011天 (2024.10.17)  
-    	 :one: [webpack] [在webpack中，怎样保证多个Loader按照顺序执行？](https://github.com/haizlin/fe-interview/issues/5977)  
+- 第2012天 (2024.10.18)  
+    	 :one: [webpack] [在webpack中，什么是Source map？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5978)  
  
 	
 - **[查看全部](category/history.md)**
