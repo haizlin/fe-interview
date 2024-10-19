@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.19) —— 2013 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，请说说HMR的原理](https://github.com/haizlin/fe-interview/issues/5979)  
+## :clock430: Today's Knowledge Points (2024.10.20) —— 2014 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，请说说Tree shaking的原理](https://github.com/haizlin/fe-interview/issues/5980)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2012 days (2024.10.18)  
-    	 :one: [webpack] [在webpack中，什么是Source map？它有什么作用？](https://github.com/haizlin/fe-interview/issues/5978)  
+- 2013 days (2024.10.19)  
+    	 :one: [webpack] [在webpack中，请说说HMR的原理](https://github.com/haizlin/fe-interview/issues/5979)  
  
 	
 - **[All](category/history.md)**

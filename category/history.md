@@ -2,6 +2,8 @@
 
 
 
+- 第2014天 (2024-10-20)  
+    - [webpack] [在webpack中，请说说Tree shaking的原理](https://github.com/haizlin/fe-interview/issues/5980)
 - 第2013天 (2024-10-19)  
     - [webpack] [在webpack中，请说说HMR的原理](https://github.com/haizlin/fe-interview/issues/5979)
 - 第2012天 (2024-10-18)  
