@@ -2,6 +2,8 @@
 
 
 
+- 第2016天 (2024-10-22)  
+    - [webpack] [在webpack中，怎样编写Loader？](https://github.com/haizlin/fe-interview/issues/5982)
 - 第2015天 (2024-10-21)  
     - [webpack] [开发中如何利用Tree shaking？](https://github.com/haizlin/fe-interview/issues/5981)
 - 第2014天 (2024-10-20)  
