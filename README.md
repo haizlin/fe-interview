@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.22) —— 第2016天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，怎样编写Loader？](https://github.com/haizlin/fe-interview/issues/5982)  
+## :clock430: 今天的知识点   (2024.10.23) —— 第2017天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，怎样编写Plugin？](https://github.com/haizlin/fe-interview/issues/5983)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2015天 (2024.10.21)  
-    	 :one: [webpack] [开发中如何利用Tree shaking？](https://github.com/haizlin/fe-interview/issues/5981)  
+- 第2016天 (2024.10.22)  
+    	 :one: [webpack] [在webpack中，怎样编写Loader？](https://github.com/haizlin/fe-interview/issues/5982)  
  
 	
 - **[查看全部](category/history.md)**
