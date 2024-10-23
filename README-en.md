@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.23) —— 2017 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，怎样编写Plugin？](https://github.com/haizlin/fe-interview/issues/5983)  
+## :clock430: Today's Knowledge Points (2024.10.24) —— 2018 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [怎样用webpack来优化项目的性能？](https://github.com/haizlin/fe-interview/issues/5984)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2016 days (2024.10.22)  
-    	 :one: [webpack] [在webpack中，怎样编写Loader？](https://github.com/haizlin/fe-interview/issues/5982)  
+- 2017 days (2024.10.23)  
+    	 :one: [webpack] [在webpack中，怎样编写Plugin？](https://github.com/haizlin/fe-interview/issues/5983)  
  
 	
 - **[All](category/history.md)**
