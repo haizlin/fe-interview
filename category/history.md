@@ -2,6 +2,8 @@
 
 
 
+- 第2019天 (2024-10-25)  
+    - [webpack] [webpack配置有哪些？](https://github.com/haizlin/fe-interview/issues/5985)
 - 第2018天 (2024-10-24)  
     - [webpack] [怎样用webpack来优化项目的性能？](https://github.com/haizlin/fe-interview/issues/5984)
 - 第2017天 (2024-10-23)  
