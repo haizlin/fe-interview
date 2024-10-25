@@ -2,6 +2,8 @@
 
 
 
+- 第2020天 (2024-10-26)  
+    - [webpack] [在webpack中，什么是Code Splitting](https://github.com/haizlin/fe-interview/issues/5986)
 - 第2019天 (2024-10-25)  
     - [webpack] [webpack配置有哪些？](https://github.com/haizlin/fe-interview/issues/5985)
 - 第2018天 (2024-10-24)  

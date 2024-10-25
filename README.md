@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.25) —— 第2019天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack配置有哪些？](https://github.com/haizlin/fe-interview/issues/5985)  
+## :clock430: 今天的知识点   (2024.10.26) —— 第2020天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，什么是Code Splitting](https://github.com/haizlin/fe-interview/issues/5986)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2018天 (2024.10.24)  
-    	 :one: [webpack] [怎样用webpack来优化项目的性能？](https://github.com/haizlin/fe-interview/issues/5984)  
+- 第2019天 (2024.10.25)  
+    	 :one: [webpack] [webpack配置有哪些？](https://github.com/haizlin/fe-interview/issues/5985)  
  
 	
 - **[查看全部](category/history.md)**
