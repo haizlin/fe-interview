@@ -2,6 +2,8 @@
 
 
 
+- 第2021天 (2024-10-27)  
+    - [webpack] [在webpack中，如何配置生成Source Map？](https://github.com/haizlin/fe-interview/issues/5987)
 - 第2020天 (2024-10-26)  
     - [webpack] [在webpack中，什么是Code Splitting](https://github.com/haizlin/fe-interview/issues/5986)
 - 第2019天 (2024-10-25)  

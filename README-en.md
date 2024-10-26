@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.26) —— 2020 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，什么是Code Splitting](https://github.com/haizlin/fe-interview/issues/5986)  
+## :clock430: Today's Knowledge Points (2024.10.27) —— 2021 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，如何配置生成Source Map？](https://github.com/haizlin/fe-interview/issues/5987)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2019 days (2024.10.25)  
-    	 :one: [webpack] [webpack配置有哪些？](https://github.com/haizlin/fe-interview/issues/5985)  
+- 2020 days (2024.10.26)  
+    	 :one: [webpack] [在webpack中，什么是Code Splitting](https://github.com/haizlin/fe-interview/issues/5986)  
  
 	
 - **[All](category/history.md)**
