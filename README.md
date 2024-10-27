@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.27) —— 第2021天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，如何配置生成Source Map？](https://github.com/haizlin/fe-interview/issues/5987)  
+## :clock430: 今天的知识点   (2024.10.28) —— 第2022天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，如何减少打包后的代码体积？](https://github.com/haizlin/fe-interview/issues/5988)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2020天 (2024.10.26)  
-    	 :one: [webpack] [在webpack中，什么是Code Splitting](https://github.com/haizlin/fe-interview/issues/5986)  
+- 第2021天 (2024.10.27)  
+    	 :one: [webpack] [在webpack中，如何配置生成Source Map？](https://github.com/haizlin/fe-interview/issues/5987)  
  
 	
 - **[查看全部](category/history.md)**

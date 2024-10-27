@@ -2,6 +2,8 @@
 
 
 
+- 第2022天 (2024-10-28)  
+    - [webpack] [在webpack中，如何减少打包后的代码体积？](https://github.com/haizlin/fe-interview/issues/5988)
 - 第2021天 (2024-10-27)  
     - [webpack] [在webpack中，如何配置生成Source Map？](https://github.com/haizlin/fe-interview/issues/5987)
 - 第2020天 (2024-10-26)  
