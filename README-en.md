@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.10.28) —— 2022 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，如何减少打包后的代码体积？](https://github.com/haizlin/fe-interview/issues/5988)  
+## :clock430: Today's Knowledge Points (2024.10.29) —— 2023 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [vite比webpack快在哪里？](https://github.com/haizlin/fe-interview/issues/5989)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2021 days (2024.10.27)  
-    	 :one: [webpack] [在webpack中，如何配置生成Source Map？](https://github.com/haizlin/fe-interview/issues/5987)  
+- 2022 days (2024.10.28)  
+    	 :one: [webpack] [在webpack中，如何减少打包后的代码体积？](https://github.com/haizlin/fe-interview/issues/5988)  
  
 	
 - **[All](category/history.md)**

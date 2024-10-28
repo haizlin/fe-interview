@@ -2,6 +2,8 @@
 
 
 
+- 第2023天 (2024-10-29)  
+    - [webpack] [vite比webpack快在哪里？](https://github.com/haizlin/fe-interview/issues/5989)
 - 第2022天 (2024-10-28)  
     - [webpack] [在webpack中，如何减少打包后的代码体积？](https://github.com/haizlin/fe-interview/issues/5988)
 - 第2021天 (2024-10-27)  
