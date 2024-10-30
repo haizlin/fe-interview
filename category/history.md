@@ -2,6 +2,8 @@
 
 
 
+- 第2025天 (2024-10-31)  
+    - [webpack] [请问你在项目是怎么做Monorepo？](https://github.com/haizlin/fe-interview/issues/5991)
 - 第2024天 (2024-10-30)  
     - [webpack] [请说说说你对Monorepo的理解](https://github.com/haizlin/fe-interview/issues/5990)
 - 第2023天 (2024-10-29)  

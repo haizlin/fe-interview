@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.10.30) —— 第2024天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请说说说你对Monorepo的理解](https://github.com/haizlin/fe-interview/issues/5990)  
+## :clock430: 今天的知识点   (2024.10.31) —— 第2025天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请问你在项目是怎么做Monorepo？](https://github.com/haizlin/fe-interview/issues/5991)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2023天 (2024.10.29)  
-    	 :one: [webpack] [vite比webpack快在哪里？](https://github.com/haizlin/fe-interview/issues/5989)  
+- 第2024天 (2024.10.30)  
+    	 :one: [webpack] [请说说说你对Monorepo的理解](https://github.com/haizlin/fe-interview/issues/5990)  
  
 	
 - **[查看全部](category/history.md)**
