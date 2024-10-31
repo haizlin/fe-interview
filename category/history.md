@@ -2,6 +2,8 @@
 
 
 
+- 第2026天 (2024-11-01)  
+    - [NodeJs] [为什么pnpm比npm快？](https://github.com/haizlin/fe-interview/issues/5992)
 - 第2025天 (2024-10-31)  
     - [webpack] [请问你在项目是怎么做Monorepo？](https://github.com/haizlin/fe-interview/issues/5991)
 - 第2024天 (2024-10-30)  
