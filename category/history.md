@@ -2,6 +2,8 @@
 
 
 
+- 第2027天 (2024-11-02)  
+    - [NodeJs] [请说说ESLint概念及原理](https://github.com/haizlin/fe-interview/issues/5993)
 - 第2026天 (2024-11-01)  
     - [NodeJs] [为什么pnpm比npm快？](https://github.com/haizlin/fe-interview/issues/5992)
 - 第2025天 (2024-10-31)  

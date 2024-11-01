@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.01) —— 第2026天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [为什么pnpm比npm快？](https://github.com/haizlin/fe-interview/issues/5992)  
+## :clock430: 今天的知识点   (2024.11.02) —— 第2027天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说ESLint概念及原理](https://github.com/haizlin/fe-interview/issues/5993)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2025天 (2024.10.31)  
-    	 :one: [webpack] [请问你在项目是怎么做Monorepo？](https://github.com/haizlin/fe-interview/issues/5991)  
+- 第2026天 (2024.11.01)  
+    	 :one: [NodeJs] [为什么pnpm比npm快？](https://github.com/haizlin/fe-interview/issues/5992)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.01) —— 2026 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [为什么pnpm比npm快？](https://github.com/haizlin/fe-interview/issues/5992)  
+## :clock430: Today's Knowledge Points (2024.11.02) —— 2027 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说ESLint概念及原理](https://github.com/haizlin/fe-interview/issues/5993)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2025 days (2024.10.31)  
-    	 :one: [webpack] [请问你在项目是怎么做Monorepo？](https://github.com/haizlin/fe-interview/issues/5991)  
+- 2026 days (2024.11.01)  
+    	 :one: [NodeJs] [为什么pnpm比npm快？](https://github.com/haizlin/fe-interview/issues/5992)  
  
 	
 - **[All](category/history.md)**
