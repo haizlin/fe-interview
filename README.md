@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.02) —— 第2027天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说ESLint概念及原理](https://github.com/haizlin/fe-interview/issues/5993)  
+## :clock430: 今天的知识点   (2024.11.03) —— 第2028天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说npm run start 的整个过程？](https://github.com/haizlin/fe-interview/issues/5994)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2026天 (2024.11.01)  
-    	 :one: [NodeJs] [为什么pnpm比npm快？](https://github.com/haizlin/fe-interview/issues/5992)  
+- 第2027天 (2024.11.02)  
+    	 :one: [NodeJs] [请说说ESLint概念及原理](https://github.com/haizlin/fe-interview/issues/5993)  
  
 	
 - **[查看全部](category/history.md)**

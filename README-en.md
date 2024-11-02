@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.02) —— 2027 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说ESLint概念及原理](https://github.com/haizlin/fe-interview/issues/5993)  
+## :clock430: Today's Knowledge Points (2024.11.03) —— 2028 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [NodeJs] [请说说npm run start 的整个过程？](https://github.com/haizlin/fe-interview/issues/5994)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2026 days (2024.11.01)  
-    	 :one: [NodeJs] [为什么pnpm比npm快？](https://github.com/haizlin/fe-interview/issues/5992)  
+- 2027 days (2024.11.02)  
+    	 :one: [NodeJs] [请说说ESLint概念及原理](https://github.com/haizlin/fe-interview/issues/5993)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第2028天 (2024-11-03)  
+    - [NodeJs] [请说说npm run start 的整个过程？](https://github.com/haizlin/fe-interview/issues/5994)
 - 第2027天 (2024-11-02)  
     - [NodeJs] [请说说ESLint概念及原理](https://github.com/haizlin/fe-interview/issues/5993)
 - 第2026天 (2024-11-01)  
