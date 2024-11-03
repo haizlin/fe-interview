@@ -2,6 +2,8 @@
 
 
 
+- 第2029天 (2024-11-04)  
+    - [webpack] [在webpack中，请说说模块打包的运行原理](https://github.com/haizlin/fe-interview/issues/5995)
 - 第2028天 (2024-11-03)  
     - [NodeJs] [请说说npm run start 的整个过程？](https://github.com/haizlin/fe-interview/issues/5994)
 - 第2027天 (2024-11-02)  
