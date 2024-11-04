@@ -2,6 +2,8 @@
 
 
 
+- 第2030天 (2024-11-05)  
+    - [webpack] [在webpack中，如何确定依赖引用顺序](https://github.com/haizlin/fe-interview/issues/5996)
 - 第2029天 (2024-11-04)  
     - [webpack] [在webpack中，请说说模块打包的运行原理](https://github.com/haizlin/fe-interview/issues/5995)
 - 第2028天 (2024-11-03)  

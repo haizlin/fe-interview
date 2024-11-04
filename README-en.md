@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.04) —— 2029 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，请说说模块打包的运行原理](https://github.com/haizlin/fe-interview/issues/5995)  
+## :clock430: Today's Knowledge Points (2024.11.05) —— 2030 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，如何确定依赖引用顺序](https://github.com/haizlin/fe-interview/issues/5996)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2028 days (2024.11.03)  
-    	 :one: [NodeJs] [请说说npm run start 的整个过程？](https://github.com/haizlin/fe-interview/issues/5994)  
+- 2029 days (2024.11.04)  
+    	 :one: [webpack] [在webpack中，请说说模块打包的运行原理](https://github.com/haizlin/fe-interview/issues/5995)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.04) —— 第2029天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，请说说模块打包的运行原理](https://github.com/haizlin/fe-interview/issues/5995)  
+## :clock430: 今天的知识点   (2024.11.05) —— 第2030天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，如何确定依赖引用顺序](https://github.com/haizlin/fe-interview/issues/5996)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2028天 (2024.11.03)  
-    	 :one: [NodeJs] [请说说npm run start 的整个过程？](https://github.com/haizlin/fe-interview/issues/5994)  
+- 第2029天 (2024.11.04)  
+    	 :one: [webpack] [在webpack中，请说说模块打包的运行原理](https://github.com/haizlin/fe-interview/issues/5995)  
  
 	
 - **[查看全部](category/history.md)**
