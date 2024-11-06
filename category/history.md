@@ -2,6 +2,8 @@
 
 
 
+- 第2032天 (2024-11-07)  
+    - [webpack] [在webpack中，less-loader 的底层原理是什么？](https://github.com/haizlin/fe-interview/issues/5998)
 - 第2031天 (2024-11-06)  
     - [webpack] [在webpack中，Module/Chunk/Bundle是什么？](https://github.com/haizlin/fe-interview/issues/5997)
 - 第2030天 (2024-11-05)  
