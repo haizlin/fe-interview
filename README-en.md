@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.07) —— 2032 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，less-loader 的底层原理是什么？](https://github.com/haizlin/fe-interview/issues/5998)  
+## :clock430: Today's Knowledge Points (2024.11.08) —— 2033 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，Mainfest文件是什么，有什么用](https://github.com/haizlin/fe-interview/issues/5999)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2031 days (2024.11.06)  
-    	 :one: [webpack] [在webpack中，Module/Chunk/Bundle是什么？](https://github.com/haizlin/fe-interview/issues/5997)  
+- 2032 days (2024.11.07)  
+    	 :one: [webpack] [在webpack中，less-loader 的底层原理是什么？](https://github.com/haizlin/fe-interview/issues/5998)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.07) —— 第2032天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，less-loader 的底层原理是什么？](https://github.com/haizlin/fe-interview/issues/5998)  
+## :clock430: 今天的知识点   (2024.11.08) —— 第2033天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，Mainfest文件是什么，有什么用](https://github.com/haizlin/fe-interview/issues/5999)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2031天 (2024.11.06)  
-    	 :one: [webpack] [在webpack中，Module/Chunk/Bundle是什么？](https://github.com/haizlin/fe-interview/issues/5997)  
+- 第2032天 (2024.11.07)  
+    	 :one: [webpack] [在webpack中，less-loader 的底层原理是什么？](https://github.com/haizlin/fe-interview/issues/5998)  
  
 	
 - **[查看全部](category/history.md)**

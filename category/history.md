@@ -2,6 +2,8 @@
 
 
 
+- 第2033天 (2024-11-08)  
+    - [webpack] [在webpack中，Mainfest文件是什么，有什么用](https://github.com/haizlin/fe-interview/issues/5999)
 - 第2032天 (2024-11-07)  
     - [webpack] [在webpack中，less-loader 的底层原理是什么？](https://github.com/haizlin/fe-interview/issues/5998)
 - 第2031天 (2024-11-06)  
