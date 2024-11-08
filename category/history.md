@@ -2,6 +2,8 @@
 
 
 
+- 第2034天 (2024-11-09)  
+    - [webpack] [在webpack中，如何做代码分割或者提取一个公共模块？](https://github.com/haizlin/fe-interview/issues/6000)
 - 第2033天 (2024-11-08)  
     - [webpack] [在webpack中，Mainfest文件是什么，有什么用](https://github.com/haizlin/fe-interview/issues/5999)
 - 第2032天 (2024-11-07)  
