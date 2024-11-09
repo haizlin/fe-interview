@@ -2,6 +2,8 @@
 
 
 
+- 第2035天 (2024-11-10)  
+    - [webpack] [在webpack中，请说说SplitChunksPlugin的原理](https://github.com/haizlin/fe-interview/issues/6001)
 - 第2034天 (2024-11-09)  
     - [webpack] [在webpack中，如何做代码分割或者提取一个公共模块？](https://github.com/haizlin/fe-interview/issues/6000)
 - 第2033天 (2024-11-08)  
