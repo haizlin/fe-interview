@@ -2,6 +2,8 @@
 
 
 
+- 第2036天 (2024-11-11)  
+    - [webpack] [webpack5有哪些新特性？](https://github.com/haizlin/fe-interview/issues/6002)
 - 第2035天 (2024-11-10)  
     - [webpack] [在webpack中，请说说SplitChunksPlugin的原理](https://github.com/haizlin/fe-interview/issues/6001)
 - 第2034天 (2024-11-09)  

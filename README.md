@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.10) —— 第2035天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，请说说SplitChunksPlugin的原理](https://github.com/haizlin/fe-interview/issues/6001)  
+## :clock430: 今天的知识点   (2024.11.11) —— 第2036天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack5有哪些新特性？](https://github.com/haizlin/fe-interview/issues/6002)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2034天 (2024.11.09)  
-    	 :one: [webpack] [在webpack中，如何做代码分割或者提取一个公共模块？](https://github.com/haizlin/fe-interview/issues/6000)  
+- 第2035天 (2024.11.10)  
+    	 :one: [webpack] [在webpack中，请说说SplitChunksPlugin的原理](https://github.com/haizlin/fe-interview/issues/6001)  
  
 	
 - **[查看全部](category/history.md)**
