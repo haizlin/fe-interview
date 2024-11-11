@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.11) —— 第2036天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack5有哪些新特性？](https://github.com/haizlin/fe-interview/issues/6002)  
+## :clock430: 今天的知识点   (2024.11.12) —— 第2037天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，Chunkhash和Contenthash有什么区别？](https://github.com/haizlin/fe-interview/issues/6003)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2035天 (2024.11.10)  
-    	 :one: [webpack] [在webpack中，请说说SplitChunksPlugin的原理](https://github.com/haizlin/fe-interview/issues/6001)  
+- 第2036天 (2024.11.11)  
+    	 :one: [webpack] [webpack5有哪些新特性？](https://github.com/haizlin/fe-interview/issues/6002)  
  
 	
 - **[查看全部](category/history.md)**

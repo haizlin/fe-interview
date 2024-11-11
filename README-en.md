@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.11) —— 2036 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack5有哪些新特性？](https://github.com/haizlin/fe-interview/issues/6002)  
+## :clock430: Today's Knowledge Points (2024.11.12) —— 2037 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，Chunkhash和Contenthash有什么区别？](https://github.com/haizlin/fe-interview/issues/6003)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2035 days (2024.11.10)  
-    	 :one: [webpack] [在webpack中，请说说SplitChunksPlugin的原理](https://github.com/haizlin/fe-interview/issues/6001)  
+- 2036 days (2024.11.11)  
+    	 :one: [webpack] [webpack5有哪些新特性？](https://github.com/haizlin/fe-interview/issues/6002)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第2037天 (2024-11-12)  
+    - [webpack] [在webpack中，Chunkhash和Contenthash有什么区别？](https://github.com/haizlin/fe-interview/issues/6003)
 - 第2036天 (2024-11-11)  
     - [webpack] [webpack5有哪些新特性？](https://github.com/haizlin/fe-interview/issues/6002)
 - 第2035天 (2024-11-10)  
