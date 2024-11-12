@@ -2,6 +2,8 @@
 
 
 
+- 第2038天 (2024-11-13)  
+    - [webpack] [在webpack中，怎样做多页面打包？](https://github.com/haizlin/fe-interview/issues/6004)
 - 第2037天 (2024-11-12)  
     - [webpack] [在webpack中，Chunkhash和Contenthash有什么区别？](https://github.com/haizlin/fe-interview/issues/6003)
 - 第2036天 (2024-11-11)  
