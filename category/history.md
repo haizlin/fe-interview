@@ -2,6 +2,8 @@
 
 
 
+- 第2039天 (2024-11-14)  
+    - [webpack] [在webpack中，怎么做错误上报？](https://github.com/haizlin/fe-interview/issues/6005)
 - 第2038天 (2024-11-13)  
     - [webpack] [在webpack中，怎样做多页面打包？](https://github.com/haizlin/fe-interview/issues/6004)
 - 第2037天 (2024-11-12)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.13) —— 2038 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，怎样做多页面打包？](https://github.com/haizlin/fe-interview/issues/6004)  
+## :clock430: Today's Knowledge Points (2024.11.14) —— 2039 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，怎么做错误上报？](https://github.com/haizlin/fe-interview/issues/6005)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2037 days (2024.11.12)  
-    	 :one: [webpack] [在webpack中，Chunkhash和Contenthash有什么区别？](https://github.com/haizlin/fe-interview/issues/6003)  
+- 2038 days (2024.11.13)  
+    	 :one: [webpack] [在webpack中，怎样做多页面打包？](https://github.com/haizlin/fe-interview/issues/6004)  
  
 	
 - **[All](category/history.md)**
