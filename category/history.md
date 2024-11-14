@@ -2,6 +2,8 @@
 
 
 
+- 第2040天 (2024-11-15)  
+    - [webpack] [在webpack中，怎么做代理？](https://github.com/haizlin/fe-interview/issues/6006)
 - 第2039天 (2024-11-14)  
     - [webpack] [在webpack中，怎么做错误上报？](https://github.com/haizlin/fe-interview/issues/6005)
 - 第2038天 (2024-11-13)  

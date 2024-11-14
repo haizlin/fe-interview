@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.14) —— 第2039天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，怎么做错误上报？](https://github.com/haizlin/fe-interview/issues/6005)  
+## :clock430: 今天的知识点   (2024.11.15) —— 第2040天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，怎么做代理？](https://github.com/haizlin/fe-interview/issues/6006)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2038天 (2024.11.13)  
-    	 :one: [webpack] [在webpack中，怎样做多页面打包？](https://github.com/haizlin/fe-interview/issues/6004)  
+- 第2039天 (2024.11.14)  
+    	 :one: [webpack] [在webpack中，怎么做错误上报？](https://github.com/haizlin/fe-interview/issues/6005)  
  
 	
 - **[查看全部](category/history.md)**
