@@ -2,6 +2,8 @@
 
 
 
+- 第2042天 (2024-11-17)  
+    - [webpack] [webpack能动态加载require引入的模块吗？](https://github.com/haizlin/fe-interview/issues/6008)
 - 第2041天 (2024-11-16)  
     - [webpack] [在webpack中，按需加载如何实现，原理是什么？](https://github.com/haizlin/fe-interview/issues/6007)
 - 第2040天 (2024-11-15)  

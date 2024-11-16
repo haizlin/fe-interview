@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.16) —— 2041 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，按需加载如何实现，原理是什么？](https://github.com/haizlin/fe-interview/issues/6007)  
+## :clock430: Today's Knowledge Points (2024.11.17) —— 2042 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack能动态加载require引入的模块吗？](https://github.com/haizlin/fe-interview/issues/6008)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2040 days (2024.11.15)  
-    	 :one: [webpack] [在webpack中，怎么做代理？](https://github.com/haizlin/fe-interview/issues/6006)  
+- 2041 days (2024.11.16)  
+    	 :one: [webpack] [在webpack中，按需加载如何实现，原理是什么？](https://github.com/haizlin/fe-interview/issues/6007)  
  
 	
 - **[All](category/history.md)**

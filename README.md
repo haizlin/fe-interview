@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.16) —— 第2041天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，按需加载如何实现，原理是什么？](https://github.com/haizlin/fe-interview/issues/6007)  
+## :clock430: 今天的知识点   (2024.11.17) —— 第2042天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack能动态加载require引入的模块吗？](https://github.com/haizlin/fe-interview/issues/6008)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2040天 (2024.11.15)  
-    	 :one: [webpack] [在webpack中，怎么做代理？](https://github.com/haizlin/fe-interview/issues/6006)  
+- 第2041天 (2024.11.16)  
+    	 :one: [webpack] [在webpack中，按需加载如何实现，原理是什么？](https://github.com/haizlin/fe-interview/issues/6007)  
  
 	
 - **[查看全部](category/history.md)**
