@@ -2,6 +2,8 @@
 
 
 
+- 第2044天 (2024-11-19)  
+    - [webpack] [在webpack中，代码分割的本质是什么？](https://github.com/haizlin/fe-interview/issues/6010)
 - 第2043天 (2024-11-18)  
     - [webpack] [在webpack中，如何对bundle体积进行监控和分析？](https://github.com/haizlin/fe-interview/issues/6009)
 - 第2042天 (2024-11-17)  
