@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.19) —— 2044 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，代码分割的本质是什么？](https://github.com/haizlin/fe-interview/issues/6010)  
+## :clock430: Today's Knowledge Points (2024.11.20) —— 2045 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请说说Babel的原理](https://github.com/haizlin/fe-interview/issues/6011)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2043 days (2024.11.18)  
-    	 :one: [webpack] [在webpack中，如何对bundle体积进行监控和分析？](https://github.com/haizlin/fe-interview/issues/6009)  
+- 2044 days (2024.11.19)  
+    	 :one: [webpack] [在webpack中，代码分割的本质是什么？](https://github.com/haizlin/fe-interview/issues/6010)  
  
 	
 - **[All](category/history.md)**

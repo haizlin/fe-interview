@@ -2,6 +2,8 @@
 
 
 
+- 第2045天 (2024-11-20)  
+    - [webpack] [请说说Babel的原理](https://github.com/haizlin/fe-interview/issues/6011)
 - 第2044天 (2024-11-19)  
     - [webpack] [在webpack中，代码分割的本质是什么？](https://github.com/haizlin/fe-interview/issues/6010)
 - 第2043天 (2024-11-18)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.19) —— 第2044天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，代码分割的本质是什么？](https://github.com/haizlin/fe-interview/issues/6010)  
+## :clock430: 今天的知识点   (2024.11.20) —— 第2045天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请说说Babel的原理](https://github.com/haizlin/fe-interview/issues/6011)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2043天 (2024.11.18)  
-    	 :one: [webpack] [在webpack中，如何对bundle体积进行监控和分析？](https://github.com/haizlin/fe-interview/issues/6009)  
+- 第2044天 (2024.11.19)  
+    	 :one: [webpack] [在webpack中，代码分割的本质是什么？](https://github.com/haizlin/fe-interview/issues/6010)  
  
 	
 - **[查看全部](category/history.md)**
