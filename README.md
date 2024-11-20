@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.20) —— 第2045天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请说说Babel的原理](https://github.com/haizlin/fe-interview/issues/6011)  
+## :clock430: 今天的知识点   (2024.11.21) —— 第2046天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [bable-polyfill和able-runtime有什么区别？](https://github.com/haizlin/fe-interview/issues/6012)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2044天 (2024.11.19)  
-    	 :one: [webpack] [在webpack中，代码分割的本质是什么？](https://github.com/haizlin/fe-interview/issues/6010)  
+- 第2045天 (2024.11.20)  
+    	 :one: [webpack] [请说说Babel的原理](https://github.com/haizlin/fe-interview/issues/6011)  
  
 	
 - **[查看全部](category/history.md)**

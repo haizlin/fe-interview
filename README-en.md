@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.20) —— 2045 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [请说说Babel的原理](https://github.com/haizlin/fe-interview/issues/6011)  
+## :clock430: Today's Knowledge Points (2024.11.21) —— 2046 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [bable-polyfill和able-runtime有什么区别？](https://github.com/haizlin/fe-interview/issues/6012)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2044 days (2024.11.19)  
-    	 :one: [webpack] [在webpack中，代码分割的本质是什么？](https://github.com/haizlin/fe-interview/issues/6010)  
+- 2045 days (2024.11.20)  
+    	 :one: [webpack] [请说说Babel的原理](https://github.com/haizlin/fe-interview/issues/6011)  
  
 	
 - **[All](category/history.md)**

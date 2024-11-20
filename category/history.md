@@ -2,6 +2,8 @@
 
 
 
+- 第2046天 (2024-11-21)  
+    - [webpack] [bable-polyfill和able-runtime有什么区别？](https://github.com/haizlin/fe-interview/issues/6012)
 - 第2045天 (2024-11-20)  
     - [webpack] [请说说Babel的原理](https://github.com/haizlin/fe-interview/issues/6011)
 - 第2044天 (2024-11-19)  
