@@ -2,6 +2,8 @@
 
 
 
+- 第2047天 (2024-11-22)  
+    - [webpack] [在webpack中，为何Proxy不能被Polyfill?](https://github.com/haizlin/fe-interview/issues/6013)
 - 第2046天 (2024-11-21)  
     - [webpack] [bable-polyfill和able-runtime有什么区别？](https://github.com/haizlin/fe-interview/issues/6012)
 - 第2045天 (2024-11-20)  
