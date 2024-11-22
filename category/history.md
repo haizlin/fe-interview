@@ -2,6 +2,8 @@
 
 
 
+- 第2048天 (2024-11-23)  
+    - [webpack] [webpack如何优化构建速度？](https://github.com/haizlin/fe-interview/issues/6014)
 - 第2047天 (2024-11-22)  
     - [webpack] [在webpack中，为何Proxy不能被Polyfill?](https://github.com/haizlin/fe-interview/issues/6013)
 - 第2046天 (2024-11-21)  

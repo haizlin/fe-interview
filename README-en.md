@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.22) —— 2047 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，为何Proxy不能被Polyfill?](https://github.com/haizlin/fe-interview/issues/6013)  
+## :clock430: Today's Knowledge Points (2024.11.23) —— 2048 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack如何优化构建速度？](https://github.com/haizlin/fe-interview/issues/6014)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2046 days (2024.11.21)  
-    	 :one: [webpack] [bable-polyfill和able-runtime有什么区别？](https://github.com/haizlin/fe-interview/issues/6012)  
+- 2047 days (2024.11.22)  
+    	 :one: [webpack] [在webpack中，为何Proxy不能被Polyfill?](https://github.com/haizlin/fe-interview/issues/6013)  
  
 	
 - **[All](category/history.md)**

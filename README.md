@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.22) —— 第2047天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，为何Proxy不能被Polyfill?](https://github.com/haizlin/fe-interview/issues/6013)  
+## :clock430: 今天的知识点   (2024.11.23) —— 第2048天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack如何优化构建速度？](https://github.com/haizlin/fe-interview/issues/6014)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2046天 (2024.11.21)  
-    	 :one: [webpack] [bable-polyfill和able-runtime有什么区别？](https://github.com/haizlin/fe-interview/issues/6012)  
+- 第2047天 (2024.11.22)  
+    	 :one: [webpack] [在webpack中，为何Proxy不能被Polyfill?](https://github.com/haizlin/fe-interview/issues/6013)  
  
 	
 - **[查看全部](category/history.md)**
