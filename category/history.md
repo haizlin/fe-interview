@@ -2,6 +2,8 @@
 
 
 
+- 第2049天 (2024-11-24)  
+    - [webpack] [webpack如何优化产出代码？](https://github.com/haizlin/fe-interview/issues/6015)
 - 第2048天 (2024-11-23)  
     - [webpack] [webpack如何优化构建速度？](https://github.com/haizlin/fe-interview/issues/6014)
 - 第2047天 (2024-11-22)  
