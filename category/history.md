@@ -2,6 +2,8 @@
 
 
 
+- 第2050天 (2024-11-25)  
+    - [webpack] [在webpack中，什么是chunks？](https://github.com/haizlin/fe-interview/issues/6017)
 - 第2049天 (2024-11-24)  
     - [webpack] [webpack如何优化产出代码？](https://github.com/haizlin/fe-interview/issues/6015)
 - 第2048天 (2024-11-23)  

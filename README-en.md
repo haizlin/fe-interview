@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.24) —— 2049 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack如何优化产出代码？](https://github.com/haizlin/fe-interview/issues/6015)  
+## :clock430: Today's Knowledge Points (2024.11.25) —— 2050 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，什么是chunks？](https://github.com/haizlin/fe-interview/issues/6017)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2048 days (2024.11.23)  
-    	 :one: [webpack] [webpack如何优化构建速度？](https://github.com/haizlin/fe-interview/issues/6014)  
+- 2049 days (2024.11.24)  
+    	 :one: [webpack] [webpack如何优化产出代码？](https://github.com/haizlin/fe-interview/issues/6015)  
  
 	
 - **[All](category/history.md)**
