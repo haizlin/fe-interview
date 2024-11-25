@@ -2,6 +2,8 @@
 
 
 
+- 第2051天 (2024-11-26)  
+    - [webpack] [你配置过Webpack optimize吗？](https://github.com/haizlin/fe-interview/issues/6018)
 - 第2050天 (2024-11-25)  
     - [webpack] [在webpack中，什么是chunks？](https://github.com/haizlin/fe-interview/issues/6017)
 - 第2049天 (2024-11-24)  

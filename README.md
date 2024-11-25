@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.25) —— 第2050天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，什么是chunks？](https://github.com/haizlin/fe-interview/issues/6017)  
+## :clock430: 今天的知识点   (2024.11.26) —— 第2051天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [你配置过Webpack optimize吗？](https://github.com/haizlin/fe-interview/issues/6018)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2049天 (2024.11.24)  
-    	 :one: [webpack] [webpack如何优化产出代码？](https://github.com/haizlin/fe-interview/issues/6015)  
+- 第2050天 (2024.11.25)  
+    	 :one: [webpack] [在webpack中，什么是chunks？](https://github.com/haizlin/fe-interview/issues/6017)  
  
 	
 - **[查看全部](category/history.md)**
