@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.27) —— 2052 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，什么是entry,output?](https://github.com/haizlin/fe-interview/issues/6019)  
+## :clock430: Today's Knowledge Points (2024.11.28) —— 2053 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [如何自动生成webpack配置？](https://github.com/haizlin/fe-interview/issues/6020)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2051 days (2024.11.26)  
-    	 :one: [webpack] [你配置过Webpack optimize吗？](https://github.com/haizlin/fe-interview/issues/6018)  
+- 2052 days (2024.11.27)  
+    	 :one: [webpack] [在webpack中，什么是entry,output?](https://github.com/haizlin/fe-interview/issues/6019)  
  
 	
 - **[All](category/history.md)**

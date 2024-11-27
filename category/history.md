@@ -2,6 +2,8 @@
 
 
 
+- 第2053天 (2024-11-28)  
+    - [webpack] [如何自动生成webpack配置？](https://github.com/haizlin/fe-interview/issues/6020)
 - 第2052天 (2024-11-27)  
     - [webpack] [在webpack中，什么是entry,output?](https://github.com/haizlin/fe-interview/issues/6019)
 - 第2051天 (2024-11-26)  
