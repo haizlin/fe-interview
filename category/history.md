@@ -2,6 +2,8 @@
 
 
 
+- 第2054天 (2024-11-29)  
+    - [webpack] [webpack-dev-server和http服务器如nginx有什么区别？](https://github.com/haizlin/fe-interview/issues/6021)
 - 第2053天 (2024-11-28)  
     - [webpack] [如何自动生成webpack配置？](https://github.com/haizlin/fe-interview/issues/6020)
 - 第2052天 (2024-11-27)  
