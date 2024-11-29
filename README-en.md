@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.29) —— 2054 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [webpack-dev-server和http服务器如nginx有什么区别？](https://github.com/haizlin/fe-interview/issues/6021)  
+## :clock430: Today's Knowledge Points (2024.11.30) —— 2055 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，dev-server是怎么跑起来的？](https://github.com/haizlin/fe-interview/issues/6022)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2053 days (2024.11.28)  
-    	 :one: [webpack] [如何自动生成webpack配置？](https://github.com/haizlin/fe-interview/issues/6020)  
+- 2054 days (2024.11.29)  
+    	 :one: [webpack] [webpack-dev-server和http服务器如nginx有什么区别？](https://github.com/haizlin/fe-interview/issues/6021)  
  
 	
 - **[All](category/history.md)**

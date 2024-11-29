@@ -2,6 +2,8 @@
 
 
 
+- 第2055天 (2024-11-30)  
+    - [webpack] [在webpack中，dev-server是怎么跑起来的？](https://github.com/haizlin/fe-interview/issues/6022)
 - 第2054天 (2024-11-29)  
     - [webpack] [webpack-dev-server和http服务器如nginx有什么区别？](https://github.com/haizlin/fe-interview/issues/6021)
 - 第2053天 (2024-11-28)  
