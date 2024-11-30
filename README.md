@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.11.30) —— 第2055天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，dev-server是怎么跑起来的？](https://github.com/haizlin/fe-interview/issues/6022)  
+## :clock430: 今天的知识点   (2024.12.01) —— 第2056天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [什么是长缓存？在webpack中如何做到长缓存优化？](https://github.com/haizlin/fe-interview/issues/6023)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2054天 (2024.11.29)  
-    	 :one: [webpack] [webpack-dev-server和http服务器如nginx有什么区别？](https://github.com/haizlin/fe-interview/issues/6021)  
+- 第2055天 (2024.11.30)  
+    	 :one: [webpack] [在webpack中，dev-server是怎么跑起来的？](https://github.com/haizlin/fe-interview/issues/6022)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.11.30) —— 2055 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [在webpack中，dev-server是怎么跑起来的？](https://github.com/haizlin/fe-interview/issues/6022)  
+## :clock430: Today's Knowledge Points (2024.12.01) —— 2056 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [什么是长缓存？在webpack中如何做到长缓存优化？](https://github.com/haizlin/fe-interview/issues/6023)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2054 days (2024.11.29)  
-    	 :one: [webpack] [webpack-dev-server和http服务器如nginx有什么区别？](https://github.com/haizlin/fe-interview/issues/6021)  
+- 2055 days (2024.11.30)  
+    	 :one: [webpack] [在webpack中，dev-server是怎么跑起来的？](https://github.com/haizlin/fe-interview/issues/6022)  
  
 	
 - **[All](category/history.md)**
