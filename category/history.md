@@ -2,6 +2,8 @@
 
 
 
+- 第2057天 (2024-12-02)  
+    - [webpack] [常用的打包构建工具有哪些？](https://github.com/haizlin/fe-interview/issues/6024)
 - 第2056天 (2024-12-01)  
     - [webpack] [什么是长缓存？在webpack中如何做到长缓存优化？](https://github.com/haizlin/fe-interview/issues/6023)
 - 第2055天 (2024-11-30)  

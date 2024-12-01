@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.01) —— 2056 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [什么是长缓存？在webpack中如何做到长缓存优化？](https://github.com/haizlin/fe-interview/issues/6023)  
+## :clock430: Today's Knowledge Points (2024.12.02) —— 2057 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [常用的打包构建工具有哪些？](https://github.com/haizlin/fe-interview/issues/6024)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2055 days (2024.11.30)  
-    	 :one: [webpack] [在webpack中，dev-server是怎么跑起来的？](https://github.com/haizlin/fe-interview/issues/6022)  
+- 2056 days (2024.12.01)  
+    	 :one: [webpack] [什么是长缓存？在webpack中如何做到长缓存优化？](https://github.com/haizlin/fe-interview/issues/6023)  
  
 	
 - **[All](category/history.md)**
