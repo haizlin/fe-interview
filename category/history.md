@@ -2,6 +2,8 @@
 
 
 
+- 第2058天 (2024-12-03)  
+    - [webpack] [Vite是否支持commonjs写法？](https://github.com/haizlin/fe-interview/issues/6025)
 - 第2057天 (2024-12-02)  
     - [webpack] [常用的打包构建工具有哪些？](https://github.com/haizlin/fe-interview/issues/6024)
 - 第2056天 (2024-12-01)  
