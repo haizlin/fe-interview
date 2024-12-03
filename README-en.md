@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.03) —— 2058 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [Vite是否支持commonjs写法？](https://github.com/haizlin/fe-interview/issues/6025)  
+## :clock430: Today's Knowledge Points (2024.12.04) —— 2059 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 2057 days (2024.12.02)  
-    	 :one: [webpack] [常用的打包构建工具有哪些？](https://github.com/haizlin/fe-interview/issues/6024)  
+- 2058 days (2024.12.03)  
+    	 :one: [webpack] [Vite是否支持commonjs写法？](https://github.com/haizlin/fe-interview/issues/6025)  
  
 	
 - **[All](category/history.md)**
