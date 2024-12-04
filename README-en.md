@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.04) —— 2059 days  
+## :clock430: Today's Knowledge Points (2024.12.05) —— 2060 days  
  
   
 ### :camel: History
@@ -51,9 +51,8 @@
     …………  
 
 
-- 2058 days (2024.12.03)  
-    	 :one: [webpack] [Vite是否支持commonjs写法？](https://github.com/haizlin/fe-interview/issues/6025)  
- 
+- 2059 days (2024.12.04)  
+     
 	
 - **[All](category/history.md)**
 

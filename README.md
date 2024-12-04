@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.04) —— 第2059天  
+## :clock430: 今天的知识点   (2024.12.05) —— 第2060天  
  
   
 ### :camel: 历史题目
@@ -52,9 +52,8 @@
     …………  
 
 
-- 第2058天 (2024.12.03)  
-    	 :one: [webpack] [Vite是否支持commonjs写法？](https://github.com/haizlin/fe-interview/issues/6025)  
- 
+- 第2059天 (2024.12.04)  
+     
 	
 - **[查看全部](category/history.md)**
 
