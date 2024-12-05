@@ -2,6 +2,10 @@
 
 
 
+- 第2061天 (2024-12-06)  
+    - [js] [js的压缩原理是什么？如果让你写一个压缩js的方法，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/6028)
+- 第2060天 (2024-12-05)  
+    - [小程序] [微信小程序如何实现页面的缩放？](https://github.com/haizlin/fe-interview/issues/6027)
 - 第2058天 (2024-12-03)  
     - [webpack] [Vite是否支持commonjs写法？](https://github.com/haizlin/fe-interview/issues/6025)
 - 第2057天 (2024-12-02)  

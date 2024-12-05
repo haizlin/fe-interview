@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.05) —— 第2060天  
+## :clock430: 今天的知识点   (2024.12.06) —— 第2061天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js的压缩原理是什么？如果让你写一个压缩js的方法，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/6028)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,9 @@
     …………  
 
 
-- 第2059天 (2024.12.04)  
-     
+- 第2060天 (2024.12.05)  
+    	 :one: [小程序] [微信小程序如何实现页面的缩放？](https://github.com/haizlin/fe-interview/issues/6027)  
+ 
 	
 - **[查看全部](category/history.md)**
 

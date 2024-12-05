@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.05) —— 2060 days  
+## :clock430: Today's Knowledge Points (2024.12.06) —— 2061 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [js的压缩原理是什么？如果让你写一个压缩js的方法，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/6028)  
  
   
 ### :camel: History
@@ -51,8 +52,9 @@
     …………  
 
 
-- 2059 days (2024.12.04)  
-     
+- 2060 days (2024.12.05)  
+    	 :one: [小程序] [微信小程序如何实现页面的缩放？](https://github.com/haizlin/fe-interview/issues/6027)  
+ 
 	
 - **[All](category/history.md)**
 
