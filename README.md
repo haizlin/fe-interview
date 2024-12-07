@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.07) —— 第2062天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [使用webpack打包时，如何区分本地开发和线上部署环境？](https://github.com/haizlin/fe-interview/issues/6029)  
+## :clock430: 今天的知识点   (2024.12.08) —— 第2063天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,8 @@
     …………  
 
 
-- 第2061天 (2024.12.06)  
-    	 :one: [js] [js的压缩原理是什么？如果让你写一个压缩js的方法，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/6028)  
+- 第2062天 (2024.12.07)  
+    	 :one: [webpack] [使用webpack打包时，如何区分本地开发和线上部署环境？](https://github.com/haizlin/fe-interview/issues/6029)  
  
 	
 - **[查看全部](category/history.md)**

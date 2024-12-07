@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.07) —— 2062 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [webpack] [使用webpack打包时，如何区分本地开发和线上部署环境？](https://github.com/haizlin/fe-interview/issues/6029)  
+## :clock430: Today's Knowledge Points (2024.12.08) —— 2063 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 2061 days (2024.12.06)  
-    	 :one: [js] [js的压缩原理是什么？如果让你写一个压缩js的方法，你的思路是什么？](https://github.com/haizlin/fe-interview/issues/6028)  
+- 2062 days (2024.12.07)  
+    	 :one: [webpack] [使用webpack打包时，如何区分本地开发和线上部署环境？](https://github.com/haizlin/fe-interview/issues/6029)  
  
 	
 - **[All](category/history.md)**
