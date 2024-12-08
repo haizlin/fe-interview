@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.08) —— 第2063天  
+## :clock430: 今天的知识点   (2024.12.09) —— 第2064天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法，将px转rem](https://github.com/haizlin/fe-interview/issues/6032)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,8 @@
     …………  
 
 
-- 第2062天 (2024.12.07)  
-    	 :one: [webpack] [使用webpack打包时，如何区分本地开发和线上部署环境？](https://github.com/haizlin/fe-interview/issues/6029)  
+- 第2063天 (2024.12.08)  
+    	 :one: [webpack] [webpack如何加载并压缩图片？](https://github.com/haizlin/fe-interview/issues/6031)  
  
 	
 - **[查看全部](category/history.md)**

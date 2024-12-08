@@ -2,6 +2,10 @@
 
 
 
+- 第2064天 (2024-12-09)  
+    - [js] [使用js写一个方法，将px转rem](https://github.com/haizlin/fe-interview/issues/6032)
+- 第2063天 (2024-12-08)  
+    - [webpack] [webpack如何加载并压缩图片？](https://github.com/haizlin/fe-interview/issues/6031)
 - 第2062天 (2024-12-07)  
     - [webpack] [使用webpack打包时，如何区分本地开发和线上部署环境？](https://github.com/haizlin/fe-interview/issues/6029)
 - 第2061天 (2024-12-06)  

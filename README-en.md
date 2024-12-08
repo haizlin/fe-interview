@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.08) —— 2063 days  
+## :clock430: Today's Knowledge Points (2024.12.09) —— 2064 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [使用js写一个方法，将px转rem](https://github.com/haizlin/fe-interview/issues/6032)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 2062 days (2024.12.07)  
-    	 :one: [webpack] [使用webpack打包时，如何区分本地开发和线上部署环境？](https://github.com/haizlin/fe-interview/issues/6029)  
+- 2063 days (2024.12.08)  
+    	 :one: [webpack] [webpack如何加载并压缩图片？](https://github.com/haizlin/fe-interview/issues/6031)  
  
 	
 - **[All](category/history.md)**
