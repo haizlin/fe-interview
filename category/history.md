@@ -2,6 +2,8 @@
 
 
 
+- 第2065天 (2024-12-10)  
+    - [css] [使用其它方式模拟table布局，要有合并行、合并列的功能](https://github.com/haizlin/fe-interview/issues/6033)
 - 第2064天 (2024-12-09)  
     - [js] [使用js写一个方法，将px转rem](https://github.com/haizlin/fe-interview/issues/6032)
 - 第2063天 (2024-12-08)  
