@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.10) —— 2065 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用其它方式模拟table布局，要有合并行、合并列的功能](https://github.com/haizlin/fe-interview/issues/6033)  
+## :clock430: Today's Knowledge Points (2024.12.11) —— 2066 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue中如何引入svg图标？](https://github.com/haizlin/fe-interview/issues/6034)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2064 days (2024.12.09)  
-    	 :one: [js] [使用js写一个方法，将px转rem](https://github.com/haizlin/fe-interview/issues/6032)  
+- 2065 days (2024.12.10)  
+    	 :one: [css] [使用其它方式模拟table布局，要有合并行、合并列的功能](https://github.com/haizlin/fe-interview/issues/6033)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.10) —— 第2065天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [css] [使用其它方式模拟table布局，要有合并行、合并列的功能](https://github.com/haizlin/fe-interview/issues/6033)  
+## :clock430: 今天的知识点   (2024.12.11) —— 第2066天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue中如何引入svg图标？](https://github.com/haizlin/fe-interview/issues/6034)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2064天 (2024.12.09)  
-    	 :one: [js] [使用js写一个方法，将px转rem](https://github.com/haizlin/fe-interview/issues/6032)  
+- 第2065天 (2024.12.10)  
+    	 :one: [css] [使用其它方式模拟table布局，要有合并行、合并列的功能](https://github.com/haizlin/fe-interview/issues/6033)  
  
 	
 - **[查看全部](category/history.md)**

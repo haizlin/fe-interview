@@ -2,6 +2,8 @@
 
 
 
+- 第2066天 (2024-12-11)  
+    - [vue] [在vue中如何引入svg图标？](https://github.com/haizlin/fe-interview/issues/6034)
 - 第2065天 (2024-12-10)  
     - [css] [使用其它方式模拟table布局，要有合并行、合并列的功能](https://github.com/haizlin/fe-interview/issues/6033)
 - 第2064天 (2024-12-09)  
