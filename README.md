@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.11) —— 第2066天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [在vue中如何引入svg图标？](https://github.com/haizlin/fe-interview/issues/6034)  
+## :clock430: 今天的知识点   (2024.12.12) —— 第2067天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg制作一个loading的效果](https://github.com/haizlin/fe-interview/issues/6035)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2065天 (2024.12.10)  
-    	 :one: [css] [使用其它方式模拟table布局，要有合并行、合并列的功能](https://github.com/haizlin/fe-interview/issues/6033)  
+- 第2066天 (2024.12.11)  
+    	 :one: [vue] [在vue中如何引入svg图标？](https://github.com/haizlin/fe-interview/issues/6034)  
  
 	
 - **[查看全部](category/history.md)**

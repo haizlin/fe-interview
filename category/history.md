@@ -2,6 +2,8 @@
 
 
 
+- 第2067天 (2024-12-12)  
+    - [html] [使用svg制作一个loading的效果](https://github.com/haizlin/fe-interview/issues/6035)
 - 第2066天 (2024-12-11)  
     - [vue] [在vue中如何引入svg图标？](https://github.com/haizlin/fe-interview/issues/6034)
 - 第2065天 (2024-12-10)  
