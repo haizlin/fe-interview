@@ -2,6 +2,8 @@
 
 
 
+- 第2068天 (2024-12-13)  
+    - [软技能] [git如何删除某次的commit？](https://github.com/haizlin/fe-interview/issues/6036)
 - 第2067天 (2024-12-12)  
     - [html] [使用svg制作一个loading的效果](https://github.com/haizlin/fe-interview/issues/6035)
 - 第2066天 (2024-12-11)  
