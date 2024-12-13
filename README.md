@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.13) —— 第2068天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [git如何删除某次的commit？](https://github.com/haizlin/fe-interview/issues/6036)  
+## :clock430: 今天的知识点   (2024.12.14) —— 第2069天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg有什么优势？](https://github.com/haizlin/fe-interview/issues/6037)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2067天 (2024.12.12)  
-    	 :one: [html] [使用svg制作一个loading的效果](https://github.com/haizlin/fe-interview/issues/6035)  
+- 第2068天 (2024.12.13)  
+    	 :one: [软技能] [git如何删除某次的commit？](https://github.com/haizlin/fe-interview/issues/6036)  
  
 	
 - **[查看全部](category/history.md)**

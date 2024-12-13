@@ -2,6 +2,8 @@
 
 
 
+- 第2069天 (2024-12-14)  
+    - [html] [使用svg有什么优势？](https://github.com/haizlin/fe-interview/issues/6037)
 - 第2068天 (2024-12-13)  
     - [软技能] [git如何删除某次的commit？](https://github.com/haizlin/fe-interview/issues/6036)
 - 第2067天 (2024-12-12)  

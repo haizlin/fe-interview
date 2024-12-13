@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.13) —— 2068 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [git如何删除某次的commit？](https://github.com/haizlin/fe-interview/issues/6036)  
+## :clock430: Today's Knowledge Points (2024.12.14) —— 2069 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [html] [使用svg有什么优势？](https://github.com/haizlin/fe-interview/issues/6037)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2067 days (2024.12.12)  
-    	 :one: [html] [使用svg制作一个loading的效果](https://github.com/haizlin/fe-interview/issues/6035)  
+- 2068 days (2024.12.13)  
+    	 :one: [skill] [git如何删除某次的commit？](https://github.com/haizlin/fe-interview/issues/6036)  
  
 	
 - **[All](category/history.md)**
