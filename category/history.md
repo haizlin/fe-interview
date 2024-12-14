@@ -2,6 +2,8 @@
 
 
 
+- 第2070天 (2024-12-15)  
+    - [js] [跨页面如何进行通信？有哪些方法？](https://github.com/haizlin/fe-interview/issues/6038)
 - 第2069天 (2024-12-14)  
     - [html] [使用svg有什么优势？](https://github.com/haizlin/fe-interview/issues/6037)
 - 第2068天 (2024-12-13)  
