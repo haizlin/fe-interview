@@ -2,6 +2,8 @@
 
 
 
+- 第2071天 (2024-12-16)  
+    - [软技能] [git如何回滚到某个commit？](https://github.com/haizlin/fe-interview/issues/6039)
 - 第2070天 (2024-12-15)  
     - [js] [跨页面如何进行通信？有哪些方法？](https://github.com/haizlin/fe-interview/issues/6038)
 - 第2069天 (2024-12-14)  

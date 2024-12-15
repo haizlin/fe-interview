@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.15) —— 第2070天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [跨页面如何进行通信？有哪些方法？](https://github.com/haizlin/fe-interview/issues/6038)  
+## :clock430: 今天的知识点   (2024.12.16) —— 第2071天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [git如何回滚到某个commit？](https://github.com/haizlin/fe-interview/issues/6039)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2069天 (2024.12.14)  
-    	 :one: [html] [使用svg有什么优势？](https://github.com/haizlin/fe-interview/issues/6037)  
+- 第2070天 (2024.12.15)  
+    	 :one: [js] [跨页面如何进行通信？有哪些方法？](https://github.com/haizlin/fe-interview/issues/6038)  
  
 	
 - **[查看全部](category/history.md)**
