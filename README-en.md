@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.16) —— 2071 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [git如何回滚到某个commit？](https://github.com/haizlin/fe-interview/issues/6039)  
+## :clock430: Today's Knowledge Points (2024.12.17) —— 2072 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 2070 days (2024.12.15)  
-    	 :one: [js] [跨页面如何进行通信？有哪些方法？](https://github.com/haizlin/fe-interview/issues/6038)  
+- 2071 days (2024.12.16)  
+    	 :one: [skill] [git如何回滚到某个commit？](https://github.com/haizlin/fe-interview/issues/6039)  
  
 	
 - **[All](category/history.md)**
