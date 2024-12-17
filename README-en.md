@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.17) —— 2072 days  
+## :clock430: Today's Knowledge Points (2024.12.18) —— 2073 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何在一张图片上做一个批注的功能？](https://github.com/haizlin/fe-interview/issues/6042)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 2071 days (2024.12.16)  
-    	 :one: [skill] [git如何回滚到某个commit？](https://github.com/haizlin/fe-interview/issues/6039)  
+- 2072 days (2024.12.17)  
+    	 :one: [NodeJs] [请说说pnpm的原理](https://github.com/haizlin/fe-interview/issues/6041)  
  
 	
 - **[All](category/history.md)**

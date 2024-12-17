@@ -2,6 +2,10 @@
 
 
 
+- 第2073天 (2024-12-18)  
+    - [js] [如何在一张图片上做一个批注的功能？](https://github.com/haizlin/fe-interview/issues/6042)
+- 第2072天 (2024-12-17)  
+    - [NodeJs] [请说说pnpm的原理](https://github.com/haizlin/fe-interview/issues/6041)
 - 第2071天 (2024-12-16)  
     - [软技能] [git如何回滚到某个commit？](https://github.com/haizlin/fe-interview/issues/6039)
 - 第2070天 (2024-12-15)  
