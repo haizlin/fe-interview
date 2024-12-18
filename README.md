@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.18) —— 第2073天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何在一张图片上做一个批注的功能？](https://github.com/haizlin/fe-interview/issues/6042)  
+## :clock430: 今天的知识点   (2024.12.19) —— 第2074天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [你用过哪些git的图形化工具？](https://github.com/haizlin/fe-interview/issues/6043)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2072天 (2024.12.17)  
-    	 :one: [NodeJs] [请说说pnpm的原理](https://github.com/haizlin/fe-interview/issues/6041)  
+- 第2073天 (2024.12.18)  
+    	 :one: [js] [如何在一张图片上做一个批注的功能？](https://github.com/haizlin/fe-interview/issues/6042)  
  
 	
 - **[查看全部](category/history.md)**

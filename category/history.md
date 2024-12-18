@@ -2,6 +2,8 @@
 
 
 
+- 第2074天 (2024-12-19)  
+    - [软技能] [你用过哪些git的图形化工具？](https://github.com/haizlin/fe-interview/issues/6043)
 - 第2073天 (2024-12-18)  
     - [js] [如何在一张图片上做一个批注的功能？](https://github.com/haizlin/fe-interview/issues/6042)
 - 第2072天 (2024-12-17)  
