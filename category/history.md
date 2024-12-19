@@ -2,6 +2,8 @@
 
 
 
+- 第2075天 (2024-12-20)  
+    - [软技能] [请说说你对git stage的了解](https://github.com/haizlin/fe-interview/issues/6044)
 - 第2074天 (2024-12-19)  
     - [软技能] [你用过哪些git的图形化工具？](https://github.com/haizlin/fe-interview/issues/6043)
 - 第2073天 (2024-12-18)  
