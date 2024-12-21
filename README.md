@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.21) —— 第2076天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [git add和git stage有什么区别？](https://github.com/haizlin/fe-interview/issues/6045)  
+## :clock430: 今天的知识点   (2024.12.22) —— 第2077天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [git reset和git checkout有什么区别？](https://github.com/haizlin/fe-interview/issues/6046)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2075天 (2024.12.20)  
-    	 :one: [软技能] [请说说你对git stage的了解](https://github.com/haizlin/fe-interview/issues/6044)  
+- 第2076天 (2024.12.21)  
+    	 :one: [软技能] [git add和git stage有什么区别？](https://github.com/haizlin/fe-interview/issues/6045)  
  
 	
 - **[查看全部](category/history.md)**

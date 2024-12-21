@@ -2,6 +2,8 @@
 
 
 
+- 第2077天 (2024-12-22)  
+    - [软技能] [git reset和git checkout有什么区别？](https://github.com/haizlin/fe-interview/issues/6046)
 - 第2076天 (2024-12-21)  
     - [软技能] [git add和git stage有什么区别？](https://github.com/haizlin/fe-interview/issues/6045)
 - 第2075天 (2024-12-20)  

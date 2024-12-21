@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.21) —— 2076 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [git add和git stage有什么区别？](https://github.com/haizlin/fe-interview/issues/6045)  
+## :clock430: Today's Knowledge Points (2024.12.22) —— 2077 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [git reset和git checkout有什么区别？](https://github.com/haizlin/fe-interview/issues/6046)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2075 days (2024.12.20)  
-    	 :one: [skill] [请说说你对git stage的了解](https://github.com/haizlin/fe-interview/issues/6044)  
+- 2076 days (2024.12.21)  
+    	 :one: [skill] [git add和git stage有什么区别？](https://github.com/haizlin/fe-interview/issues/6045)  
  
 	
 - **[All](category/history.md)**
