@@ -2,6 +2,8 @@
 
 
 
+- 第2078天 (2024-12-23)  
+    - [软技能] [解释下PR和MR有什么区别？它们有什么作用？](https://github.com/haizlin/fe-interview/issues/6047)
 - 第2077天 (2024-12-22)  
     - [软技能] [git reset和git checkout有什么区别？](https://github.com/haizlin/fe-interview/issues/6046)
 - 第2076天 (2024-12-21)  
