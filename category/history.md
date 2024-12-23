@@ -2,6 +2,8 @@
 
 
 
+- 第2079天 (2024-12-24)  
+    - [软技能] [请问：使用git不小心把一个文件推送到了远程仓库，怎样删除远程仓库的该文件，本地还要用到这个文件](https://github.com/haizlin/fe-interview/issues/6048)
 - 第2078天 (2024-12-23)  
     - [软技能] [解释下PR和MR有什么区别？它们有什么作用？](https://github.com/haizlin/fe-interview/issues/6047)
 - 第2077天 (2024-12-22)  
