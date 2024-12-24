@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.24) —— 2079 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请问：使用git不小心把一个文件推送到了远程仓库，怎样删除远程仓库的该文件，本地还要用到这个文件](https://github.com/haizlin/fe-interview/issues/6048)  
+## :clock430: Today's Knowledge Points (2024.12.25) —— 2080 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么时候合并分支用git rebase, 不用 git merge？](https://github.com/haizlin/fe-interview/issues/6049)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2078 days (2024.12.23)  
-    	 :one: [skill] [解释下PR和MR有什么区别？它们有什么作用？](https://github.com/haizlin/fe-interview/issues/6047)  
+- 2079 days (2024.12.24)  
+    	 :one: [skill] [请问：使用git不小心把一个文件推送到了远程仓库，怎样删除远程仓库的该文件，本地还要用到这个文件](https://github.com/haizlin/fe-interview/issues/6048)  
  
 	
 - **[All](category/history.md)**

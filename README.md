@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.24) —— 第2079天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请问：使用git不小心把一个文件推送到了远程仓库，怎样删除远程仓库的该文件，本地还要用到这个文件](https://github.com/haizlin/fe-interview/issues/6048)  
+## :clock430: 今天的知识点   (2024.12.25) —— 第2080天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [什么时候合并分支用git rebase, 不用 git merge？](https://github.com/haizlin/fe-interview/issues/6049)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2078天 (2024.12.23)  
-    	 :one: [软技能] [解释下PR和MR有什么区别？它们有什么作用？](https://github.com/haizlin/fe-interview/issues/6047)  
+- 第2079天 (2024.12.24)  
+    	 :one: [软技能] [请问：使用git不小心把一个文件推送到了远程仓库，怎样删除远程仓库的该文件，本地还要用到这个文件](https://github.com/haizlin/fe-interview/issues/6048)  
  
 	
 - **[查看全部](category/history.md)**

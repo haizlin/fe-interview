@@ -2,6 +2,8 @@
 
 
 
+- 第2080天 (2024-12-25)  
+    - [软技能] [什么时候合并分支用git rebase, 不用 git merge？](https://github.com/haizlin/fe-interview/issues/6049)
 - 第2079天 (2024-12-24)  
     - [软技能] [请问：使用git不小心把一个文件推送到了远程仓库，怎样删除远程仓库的该文件，本地还要用到这个文件](https://github.com/haizlin/fe-interview/issues/6048)
 - 第2078天 (2024-12-23)  
