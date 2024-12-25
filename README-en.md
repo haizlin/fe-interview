@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.25) —— 2080 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [什么时候合并分支用git rebase, 不用 git merge？](https://github.com/haizlin/fe-interview/issues/6049)  
+## :clock430: Today's Knowledge Points (2024.12.26) —— 2081 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [开发直播功能时，前端使用什么技术？](https://github.com/haizlin/fe-interview/issues/6050)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2079 days (2024.12.24)  
-    	 :one: [skill] [请问：使用git不小心把一个文件推送到了远程仓库，怎样删除远程仓库的该文件，本地还要用到这个文件](https://github.com/haizlin/fe-interview/issues/6048)  
+- 2080 days (2024.12.25)  
+    	 :one: [skill] [什么时候合并分支用git rebase, 不用 git merge？](https://github.com/haizlin/fe-interview/issues/6049)  
  
 	
 - **[All](category/history.md)**

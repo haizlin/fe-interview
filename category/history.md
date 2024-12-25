@@ -2,6 +2,8 @@
 
 
 
+- 第2081天 (2024-12-26)  
+    - [软技能] [开发直播功能时，前端使用什么技术？](https://github.com/haizlin/fe-interview/issues/6050)
 - 第2080天 (2024-12-25)  
     - [软技能] [什么时候合并分支用git rebase, 不用 git merge？](https://github.com/haizlin/fe-interview/issues/6049)
 - 第2079天 (2024-12-24)  
