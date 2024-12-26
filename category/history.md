@@ -2,6 +2,8 @@
 
 
 
+- 第2082天 (2024-12-27)  
+    - [软技能] [前端开发直播功能的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6051)
 - 第2081天 (2024-12-26)  
     - [软技能] [开发直播功能时，前端使用什么技术？](https://github.com/haizlin/fe-interview/issues/6050)
 - 第2080天 (2024-12-25)  

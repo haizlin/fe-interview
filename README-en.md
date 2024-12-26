@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.26) —— 2081 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [开发直播功能时，前端使用什么技术？](https://github.com/haizlin/fe-interview/issues/6050)  
+## :clock430: Today's Knowledge Points (2024.12.27) —— 2082 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端开发直播功能的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6051)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2080 days (2024.12.25)  
-    	 :one: [skill] [什么时候合并分支用git rebase, 不用 git merge？](https://github.com/haizlin/fe-interview/issues/6049)  
+- 2081 days (2024.12.26)  
+    	 :one: [skill] [开发直播功能时，前端使用什么技术？](https://github.com/haizlin/fe-interview/issues/6050)  
  
 	
 - **[All](category/history.md)**

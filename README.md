@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.26) —— 第2081天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [开发直播功能时，前端使用什么技术？](https://github.com/haizlin/fe-interview/issues/6050)  
+## :clock430: 今天的知识点   (2024.12.27) —— 第2082天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端开发直播功能的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6051)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2080天 (2024.12.25)  
-    	 :one: [软技能] [什么时候合并分支用git rebase, 不用 git merge？](https://github.com/haizlin/fe-interview/issues/6049)  
+- 第2081天 (2024.12.26)  
+    	 :one: [软技能] [开发直播功能时，前端使用什么技术？](https://github.com/haizlin/fe-interview/issues/6050)  
  
 	
 - **[查看全部](category/history.md)**
