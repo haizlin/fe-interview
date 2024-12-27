@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.27) —— 第2082天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [前端开发直播功能的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6051)  
+## :clock430: 今天的知识点   (2024.12.28) —— 第2083天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [H5直播原理是什么？](https://github.com/haizlin/fe-interview/issues/6052)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2081天 (2024.12.26)  
-    	 :one: [软技能] [开发直播功能时，前端使用什么技术？](https://github.com/haizlin/fe-interview/issues/6050)  
+- 第2082天 (2024.12.27)  
+    	 :one: [软技能] [前端开发直播功能的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6051)  
  
 	
 - **[查看全部](category/history.md)**

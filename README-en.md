@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.27) —— 2082 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端开发直播功能的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6051)  
+## :clock430: Today's Knowledge Points (2024.12.28) —— 2083 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [H5直播原理是什么？](https://github.com/haizlin/fe-interview/issues/6052)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2081 days (2024.12.26)  
-    	 :one: [skill] [开发直播功能时，前端使用什么技术？](https://github.com/haizlin/fe-interview/issues/6050)  
+- 2082 days (2024.12.27)  
+    	 :one: [skill] [前端开发直播功能的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6051)  
  
 	
 - **[All](category/history.md)**

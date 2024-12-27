@@ -2,6 +2,8 @@
 
 
 
+- 第2083天 (2024-12-28)  
+    - [软技能] [H5直播原理是什么？](https://github.com/haizlin/fe-interview/issues/6052)
 - 第2082天 (2024-12-27)  
     - [软技能] [前端开发直播功能的流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6051)
 - 第2081天 (2024-12-26)  
