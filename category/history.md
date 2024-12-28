@@ -2,6 +2,8 @@
 
 
 
+- 第2084天 (2024-12-29)  
+    - [js] [WebRTC由哪几大块组成？](https://github.com/haizlin/fe-interview/issues/6053)
 - 第2083天 (2024-12-28)  
     - [软技能] [H5直播原理是什么？](https://github.com/haizlin/fe-interview/issues/6052)
 - 第2082天 (2024-12-27)  
