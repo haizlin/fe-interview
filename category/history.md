@@ -2,6 +2,8 @@
 
 
 
+- 第2085天 (2024-12-30)  
+    - [js] [如何使用WebRTC实现录音功能？](https://github.com/haizlin/fe-interview/issues/6054)
 - 第2084天 (2024-12-29)  
     - [js] [WebRTC由哪几大块组成？](https://github.com/haizlin/fe-interview/issues/6053)
 - 第2083天 (2024-12-28)  

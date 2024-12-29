@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2024.12.29) —— 第2084天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [WebRTC由哪几大块组成？](https://github.com/haizlin/fe-interview/issues/6053)  
+## :clock430: 今天的知识点   (2024.12.30) —— 第2085天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用WebRTC实现录音功能？](https://github.com/haizlin/fe-interview/issues/6054)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2083天 (2024.12.28)  
-    	 :one: [软技能] [H5直播原理是什么？](https://github.com/haizlin/fe-interview/issues/6052)  
+- 第2084天 (2024.12.29)  
+    	 :one: [js] [WebRTC由哪几大块组成？](https://github.com/haizlin/fe-interview/issues/6053)  
  
 	
 - **[查看全部](category/history.md)**

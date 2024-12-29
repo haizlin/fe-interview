@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.29) —— 2084 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [WebRTC由哪几大块组成？](https://github.com/haizlin/fe-interview/issues/6053)  
+## :clock430: Today's Knowledge Points (2024.12.30) —— 2085 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何使用WebRTC实现录音功能？](https://github.com/haizlin/fe-interview/issues/6054)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2083 days (2024.12.28)  
-    	 :one: [skill] [H5直播原理是什么？](https://github.com/haizlin/fe-interview/issues/6052)  
+- 2084 days (2024.12.29)  
+    	 :one: [js] [WebRTC由哪几大块组成？](https://github.com/haizlin/fe-interview/issues/6053)  
  
 	
 - **[All](category/history.md)**
