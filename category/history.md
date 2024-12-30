@@ -2,6 +2,8 @@
 
 
 
+- 第2086天 (2024-12-31)  
+    - [软技能] [前端如何实现视频通话？](https://github.com/haizlin/fe-interview/issues/6055)
 - 第2085天 (2024-12-30)  
     - [js] [如何使用WebRTC实现录音功能？](https://github.com/haizlin/fe-interview/issues/6054)
 - 第2084天 (2024-12-29)  
