@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2024.12.31) —— 2086 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [前端如何实现视频通话？](https://github.com/haizlin/fe-interview/issues/6055)  
+## :clock430: Today's Knowledge Points (2025.01.01) —— 2087 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [webRTC如何优化性能？](https://github.com/haizlin/fe-interview/issues/6056)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2085 days (2024.12.30)  
-    	 :one: [js] [如何使用WebRTC实现录音功能？](https://github.com/haizlin/fe-interview/issues/6054)  
+- 2086 days (2024.12.31)  
+    	 :one: [skill] [前端如何实现视频通话？](https://github.com/haizlin/fe-interview/issues/6055)  
  
 	
 - **[All](category/history.md)**

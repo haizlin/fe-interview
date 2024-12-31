@@ -2,6 +2,8 @@
 
 
 
+- 第2087天 (2025-01-01)  
+    - [js] [webRTC如何优化性能？](https://github.com/haizlin/fe-interview/issues/6056)
 - 第2086天 (2024-12-31)  
     - [软技能] [前端如何实现视频通话？](https://github.com/haizlin/fe-interview/issues/6055)
 - 第2085天 (2024-12-30)  
