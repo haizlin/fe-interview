@@ -40,8 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.01) —— 第2087天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [webRTC如何优化性能？](https://github.com/haizlin/fe-interview/issues/6056)  
+## :clock430: 今天的知识点   (2025.01.02) —— 第2088天  
  
   
 ### :camel: 历史题目
@@ -53,8 +52,9 @@
     …………  
 
 
-- 第2086天 (2024.12.31)  
-    	 :one: [软技能] [前端如何实现视频通话？](https://github.com/haizlin/fe-interview/issues/6055)  
+- 第2087天 (2025.01.01)  
+    	 :one: [html] [使用CSS3制作一个元旦的贺卡](https://github.com/haizlin/fe-interview/issues/6057)  
+	 :two: [js] [webRTC如何优化性能？](https://github.com/haizlin/fe-interview/issues/6056)  
  
 	
 - **[查看全部](category/history.md)**

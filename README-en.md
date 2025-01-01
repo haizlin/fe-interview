@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.01) —— 2087 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [webRTC如何优化性能？](https://github.com/haizlin/fe-interview/issues/6056)  
+## :clock430: Today's Knowledge Points (2025.01.02) —— 2088 days  
  
   
 ### :camel: History
@@ -52,8 +51,9 @@
     …………  
 
 
-- 2086 days (2024.12.31)  
-    	 :one: [skill] [前端如何实现视频通话？](https://github.com/haizlin/fe-interview/issues/6055)  
+- 2087 days (2025.01.01)  
+    	 :one: [html] [使用CSS3制作一个元旦的贺卡](https://github.com/haizlin/fe-interview/issues/6057)  
+	 :two: [js] [webRTC如何优化性能？](https://github.com/haizlin/fe-interview/issues/6056)  
  
 	
 - **[All](category/history.md)**
