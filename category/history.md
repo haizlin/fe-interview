@@ -2,6 +2,10 @@
 
 
 
+- 第2089天 (2025-01-03)  
+    - [软技能] [你认为WebRTC会成主流吗？](https://github.com/haizlin/fe-interview/issues/6059)
+- 第2088天 (2025-01-02)  
+    - [软技能] [说说你对P2P的理解](https://github.com/haizlin/fe-interview/issues/6058)
 - 第2087天 (2025-01-01)  
     - [html] [使用CSS3制作一个元旦的贺卡](https://github.com/haizlin/fe-interview/issues/6057)
     - [js] [webRTC如何优化性能？](https://github.com/haizlin/fe-interview/issues/6056)
