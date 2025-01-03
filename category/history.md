@@ -2,6 +2,8 @@
 
 
 
+- 第2090天 (2025-01-04)  
+    - [软技能] [说说你对M3U8视频文件的了解](https://github.com/haizlin/fe-interview/issues/6060)
 - 第2089天 (2025-01-03)  
     - [软技能] [你认为WebRTC会成主流吗？](https://github.com/haizlin/fe-interview/issues/6059)
 - 第2088天 (2025-01-02)  

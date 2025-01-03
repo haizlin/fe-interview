@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.03) —— 2089 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [你认为WebRTC会成主流吗？](https://github.com/haizlin/fe-interview/issues/6059)  
+## :clock430: Today's Knowledge Points (2025.01.04) —— 2090 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对M3U8视频文件的了解](https://github.com/haizlin/fe-interview/issues/6060)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2088 days (2025.01.02)  
-    	 :one: [skill] [说说你对P2P的理解](https://github.com/haizlin/fe-interview/issues/6058)  
+- 2089 days (2025.01.03)  
+    	 :one: [skill] [你认为WebRTC会成主流吗？](https://github.com/haizlin/fe-interview/issues/6059)  
  
 	
 - **[All](category/history.md)**
