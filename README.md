@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.04) —— 第2090天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对M3U8视频文件的了解](https://github.com/haizlin/fe-interview/issues/6060)  
+## :clock430: 今天的知识点   (2025.01.05) —— 第2091天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [说说你对HLS的了解](https://github.com/haizlin/fe-interview/issues/6061)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2089天 (2025.01.03)  
-    	 :one: [软技能] [你认为WebRTC会成主流吗？](https://github.com/haizlin/fe-interview/issues/6059)  
+- 第2090天 (2025.01.04)  
+    	 :one: [软技能] [说说你对M3U8视频文件的了解](https://github.com/haizlin/fe-interview/issues/6060)  
  
 	
 - **[查看全部](category/history.md)**
