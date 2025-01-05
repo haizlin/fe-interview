@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.05) —— 2091 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对HLS的了解](https://github.com/haizlin/fe-interview/issues/6061)  
+## :clock430: Today's Knowledge Points (2025.01.06) —— 2092 days  
  
   
 ### :camel: History
@@ -52,8 +51,8 @@
     …………  
 
 
-- 2090 days (2025.01.04)  
-    	 :one: [skill] [说说你对M3U8视频文件的了解](https://github.com/haizlin/fe-interview/issues/6060)  
+- 2091 days (2025.01.05)  
+    	 :one: [skill] [说说你对HLS的了解](https://github.com/haizlin/fe-interview/issues/6061)  
  
 	
 - **[All](category/history.md)**
