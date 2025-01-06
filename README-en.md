@@ -40,7 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.06) —— 2092 days  
+## :clock430: Today's Knowledge Points (2025.01.07) —— 2093 days  
  
   
 ### :camel: History
@@ -51,9 +51,8 @@
     …………  
 
 
-- 2091 days (2025.01.05)  
-    	 :one: [skill] [说说你对HLS的了解](https://github.com/haizlin/fe-interview/issues/6061)  
- 
+- 2092 days (2025.01.06)  
+     
 	
 - **[All](category/history.md)**
 

@@ -40,7 +40,7 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.06) —— 第2092天  
+## :clock430: 今天的知识点   (2025.01.07) —— 第2093天  
  
   
 ### :camel: 历史题目
@@ -52,9 +52,8 @@
     …………  
 
 
-- 第2091天 (2025.01.05)  
-    	 :one: [软技能] [说说你对HLS的了解](https://github.com/haizlin/fe-interview/issues/6061)  
- 
+- 第2092天 (2025.01.06)  
+     
 	
 - **[查看全部](category/history.md)**
 
