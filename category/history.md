@@ -2,6 +2,10 @@
 
 
 
+- 第2094天 (2025-01-08)  
+    - [软技能] [音视频传输协议有哪些？](https://github.com/haizlin/fe-interview/issues/6063)
+- 第2093天 (2025-01-07)  
+    - [js] [请描述下什么是flv格式](https://github.com/haizlin/fe-interview/issues/6062)
 - 第2091天 (2025-01-05)  
     - [软技能] [说说你对HLS的了解](https://github.com/haizlin/fe-interview/issues/6061)
 - 第2090天 (2025-01-04)  
