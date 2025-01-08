@@ -2,6 +2,8 @@
 
 
 
+- 第2095天 (2025-01-09)  
+    - [软技能] [如何将M3U8-TS文件合并为MP4文件？](https://github.com/haizlin/fe-interview/issues/6064)
 - 第2094天 (2025-01-08)  
     - [软技能] [音视频传输协议有哪些？](https://github.com/haizlin/fe-interview/issues/6063)
 - 第2093天 (2025-01-07)  
