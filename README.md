@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.09) —— 第2095天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [如何将M3U8-TS文件合并为MP4文件？](https://github.com/haizlin/fe-interview/issues/6064)  
+## :clock430: 今天的知识点   (2025.01.10) —— 第2096天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请问TS流生成流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6065)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2094天 (2025.01.08)  
-    	 :one: [软技能] [音视频传输协议有哪些？](https://github.com/haizlin/fe-interview/issues/6063)  
+- 第2095天 (2025.01.09)  
+    	 :one: [软技能] [如何将M3U8-TS文件合并为MP4文件？](https://github.com/haizlin/fe-interview/issues/6064)  
  
 	
 - **[查看全部](category/history.md)**

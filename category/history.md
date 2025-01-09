@@ -2,6 +2,8 @@
 
 
 
+- 第2096天 (2025-01-10)  
+    - [软技能] [请问TS流生成流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6065)
 - 第2095天 (2025-01-09)  
     - [软技能] [如何将M3U8-TS文件合并为MP4文件？](https://github.com/haizlin/fe-interview/issues/6064)
 - 第2094天 (2025-01-08)  
