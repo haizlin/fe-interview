@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.10) —— 2096 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请问TS流生成流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6065)  
+## :clock430: Today's Knowledge Points (2025.01.11) —— 2097 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请问TS流解析流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6066)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2095 days (2025.01.09)  
-    	 :one: [skill] [如何将M3U8-TS文件合并为MP4文件？](https://github.com/haizlin/fe-interview/issues/6064)  
+- 2096 days (2025.01.10)  
+    	 :one: [skill] [请问TS流生成流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6065)  
  
 	
 - **[All](category/history.md)**

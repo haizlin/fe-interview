@@ -2,6 +2,8 @@
 
 
 
+- 第2097天 (2025-01-11)  
+    - [软技能] [请问TS流解析流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6066)
 - 第2096天 (2025-01-10)  
     - [软技能] [请问TS流生成流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6065)
 - 第2095天 (2025-01-09)  
