@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.11) —— 第2097天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请问TS流解析流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6066)  
+## :clock430: 今天的知识点   (2025.01.12) —— 第2098天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [软技能] [请说说你对万物互联的理解](https://github.com/haizlin/fe-interview/issues/6067)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2096天 (2025.01.10)  
-    	 :one: [软技能] [请问TS流生成流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6065)  
+- 第2097天 (2025.01.11)  
+    	 :one: [软技能] [请问TS流解析流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6066)  
  
 	
 - **[查看全部](category/history.md)**

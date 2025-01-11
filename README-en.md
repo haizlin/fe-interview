@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.11) —— 2097 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请问TS流解析流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6066)  
+## :clock430: Today's Knowledge Points (2025.01.12) —— 2098 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [请说说你对万物互联的理解](https://github.com/haizlin/fe-interview/issues/6067)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2096 days (2025.01.10)  
-    	 :one: [skill] [请问TS流生成流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6065)  
+- 2097 days (2025.01.11)  
+    	 :one: [skill] [请问TS流解析流程是怎样的？](https://github.com/haizlin/fe-interview/issues/6066)  
  
 	
 - **[All](category/history.md)**
