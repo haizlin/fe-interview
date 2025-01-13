@@ -2,6 +2,8 @@
 
 
 
+- 第2100天 (2025-01-14)  
+    - [js] [请说说Blob、File、FileReader、ArrayBuffer、Base64、URL.createObjectURL()的区别](https://github.com/haizlin/fe-interview/issues/6069)
 - 第2099天 (2025-01-13)  
     - [vue] [你有使用过Monorepo吗？](https://github.com/haizlin/fe-interview/issues/6068)
 - 第2098天 (2025-01-12)  

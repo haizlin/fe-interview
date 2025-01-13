@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.13) —— 第2099天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [你有使用过Monorepo吗？](https://github.com/haizlin/fe-interview/issues/6068)  
+## :clock430: 今天的知识点   (2025.01.14) —— 第2100天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说Blob、File、FileReader、ArrayBuffer、Base64、URL.createObjectURL()的区别](https://github.com/haizlin/fe-interview/issues/6069)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2098天 (2025.01.12)  
-    	 :one: [软技能] [请说说你对万物互联的理解](https://github.com/haizlin/fe-interview/issues/6067)  
+- 第2099天 (2025.01.13)  
+    	 :one: [vue] [你有使用过Monorepo吗？](https://github.com/haizlin/fe-interview/issues/6068)  
  
 	
 - **[查看全部](category/history.md)**

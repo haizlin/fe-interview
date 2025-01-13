@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.13) —— 2099 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [vue] [你有使用过Monorepo吗？](https://github.com/haizlin/fe-interview/issues/6068)  
+## :clock430: Today's Knowledge Points (2025.01.14) —— 2100 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请说说Blob、File、FileReader、ArrayBuffer、Base64、URL.createObjectURL()的区别](https://github.com/haizlin/fe-interview/issues/6069)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2098 days (2025.01.12)  
-    	 :one: [skill] [请说说你对万物互联的理解](https://github.com/haizlin/fe-interview/issues/6067)  
+- 2099 days (2025.01.13)  
+    	 :one: [vue] [你有使用过Monorepo吗？](https://github.com/haizlin/fe-interview/issues/6068)  
  
 	
 - **[All](category/history.md)**
