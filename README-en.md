@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.15) —— 2101 days  
+## :clock430: Today's Knowledge Points (2025.01.16) —— 2102 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请描述下WebRTC的连接过程](https://github.com/haizlin/fe-interview/issues/6071)  
  
   
 ### :camel: History
@@ -51,8 +52,8 @@
     …………  
 
 
-- 2100 days (2025.01.14)  
-    	 :one: [js] [请说说Blob、File、FileReader、ArrayBuffer、Base64、URL.createObjectURL()的区别](https://github.com/haizlin/fe-interview/issues/6069)  
+- 2101 days (2025.01.15)  
+    	 :one: [skill] [请说说你对AI智能体的了解](https://github.com/haizlin/fe-interview/issues/6070)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,10 @@
 
 
 
+- 第2102天 (2025-01-16)  
+    - [js] [请描述下WebRTC的连接过程](https://github.com/haizlin/fe-interview/issues/6071)
+- 第2101天 (2025-01-15)  
+    - [软技能] [请说说你对AI智能体的了解](https://github.com/haizlin/fe-interview/issues/6070)
 - 第2100天 (2025-01-14)  
     - [js] [请说说Blob、File、FileReader、ArrayBuffer、Base64、URL.createObjectURL()的区别](https://github.com/haizlin/fe-interview/issues/6069)
 - 第2099天 (2025-01-13)  
