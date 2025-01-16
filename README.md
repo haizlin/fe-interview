@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.16) —— 第2102天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请描述下WebRTC的连接过程](https://github.com/haizlin/fe-interview/issues/6071)  
+## :clock430: 今天的知识点   (2025.01.17) —— 第2103天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [WebRTC如何处理异常？](https://github.com/haizlin/fe-interview/issues/6072)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2101天 (2025.01.15)  
-    	 :one: [软技能] [请说说你对AI智能体的了解](https://github.com/haizlin/fe-interview/issues/6070)  
+- 第2102天 (2025.01.16)  
+    	 :one: [js] [请描述下WebRTC的连接过程](https://github.com/haizlin/fe-interview/issues/6071)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第2103天 (2025-01-17)  
+    - [js] [WebRTC如何处理异常？](https://github.com/haizlin/fe-interview/issues/6072)
 - 第2102天 (2025-01-16)  
     - [js] [请描述下WebRTC的连接过程](https://github.com/haizlin/fe-interview/issues/6071)
 - 第2101天 (2025-01-15)  
