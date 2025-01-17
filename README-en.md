@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.17) —— 2103 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [WebRTC如何处理异常？](https://github.com/haizlin/fe-interview/issues/6072)  
+## :clock430: Today's Knowledge Points (2025.01.18) —— 2104 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请描述下WebRTC的信令控制](https://github.com/haizlin/fe-interview/issues/6073)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2102 days (2025.01.16)  
-    	 :one: [js] [请描述下WebRTC的连接过程](https://github.com/haizlin/fe-interview/issues/6071)  
+- 2103 days (2025.01.17)  
+    	 :one: [js] [WebRTC如何处理异常？](https://github.com/haizlin/fe-interview/issues/6072)  
  
 	
 - **[All](category/history.md)**
