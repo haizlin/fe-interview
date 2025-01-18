@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.18) —— 第2104天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [请描述下WebRTC的信令控制](https://github.com/haizlin/fe-interview/issues/6073)  
+## :clock430: 今天的知识点   (2025.01.19) —— 第2105天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在WebRTC，为什么需要媒体协商？](https://github.com/haizlin/fe-interview/issues/6074)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2103天 (2025.01.17)  
-    	 :one: [js] [WebRTC如何处理异常？](https://github.com/haizlin/fe-interview/issues/6072)  
+- 第2104天 (2025.01.18)  
+    	 :one: [js] [请描述下WebRTC的信令控制](https://github.com/haizlin/fe-interview/issues/6073)  
  
 	
 - **[查看全部](category/history.md)**
