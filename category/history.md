@@ -2,6 +2,8 @@
 
 
 
+- 第2106天 (2025-01-20)  
+    - [js] [在WebRTC，媒体协商在做什么？](https://github.com/haizlin/fe-interview/issues/6075)
 - 第2105天 (2025-01-19)  
     - [js] [在WebRTC，为什么需要媒体协商？](https://github.com/haizlin/fe-interview/issues/6074)
 - 第2104天 (2025-01-18)  
