@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.20) —— 2106 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在WebRTC，媒体协商在做什么？](https://github.com/haizlin/fe-interview/issues/6075)  
+## :clock430: Today's Knowledge Points (2025.01.21) —— 2107 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在WebRTC，SDP是什么？](https://github.com/haizlin/fe-interview/issues/6076)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2105 days (2025.01.19)  
-    	 :one: [js] [在WebRTC，为什么需要媒体协商？](https://github.com/haizlin/fe-interview/issues/6074)  
+- 2106 days (2025.01.20)  
+    	 :one: [js] [在WebRTC，媒体协商在做什么？](https://github.com/haizlin/fe-interview/issues/6075)  
  
 	
 - **[All](category/history.md)**
