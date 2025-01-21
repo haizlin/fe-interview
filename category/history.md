@@ -2,6 +2,8 @@
 
 
 
+- 第2108天 (2025-01-22)  
+    - [js] [如何实现多人聊天？](https://github.com/haizlin/fe-interview/issues/6077)
 - 第2107天 (2025-01-21)  
     - [js] [在WebRTC，SDP是什么？](https://github.com/haizlin/fe-interview/issues/6076)
 - 第2106天 (2025-01-20)  

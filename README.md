@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.21) —— 第2107天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [在WebRTC，SDP是什么？](https://github.com/haizlin/fe-interview/issues/6076)  
+## :clock430: 今天的知识点   (2025.01.22) —— 第2108天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [js] [如何实现多人聊天？](https://github.com/haizlin/fe-interview/issues/6077)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2106天 (2025.01.20)  
-    	 :one: [js] [在WebRTC，媒体协商在做什么？](https://github.com/haizlin/fe-interview/issues/6075)  
+- 第2107天 (2025.01.21)  
+    	 :one: [js] [在WebRTC，SDP是什么？](https://github.com/haizlin/fe-interview/issues/6076)  
  
 	
 - **[查看全部](category/history.md)**
