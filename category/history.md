@@ -2,6 +2,8 @@
 
 
 
+- 第2110天 (2025-01-24)  
+    - [软技能] [微信支付的服务商和普通商户有什么区别？](https://github.com/haizlin/fe-interview/issues/6079)
 - 第2109天 (2025-01-23)  
     - [小程序] [小程序内嵌的webview怎么实现支付？](https://github.com/haizlin/fe-interview/issues/6078)
 - 第2108天 (2025-01-22)  
