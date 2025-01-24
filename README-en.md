@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.24) —— 2110 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [微信支付的服务商和普通商户有什么区别？](https://github.com/haizlin/fe-interview/issues/6079)  
+## :clock430: Today's Knowledge Points (2025.01.25) —— 2111 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [skill] [说说你对“豆包”的了解](https://github.com/haizlin/fe-interview/issues/6080)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2109 days (2025.01.23)  
-    	 :one: [小程序] [小程序内嵌的webview怎么实现支付？](https://github.com/haizlin/fe-interview/issues/6078)  
+- 2110 days (2025.01.24)  
+    	 :one: [skill] [微信支付的服务商和普通商户有什么区别？](https://github.com/haizlin/fe-interview/issues/6079)  
  
 	
 - **[All](category/history.md)**

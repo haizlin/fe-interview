@@ -2,6 +2,8 @@
 
 
 
+- 第2111天 (2025-01-25)  
+    - [软技能] [说说你对“豆包”的了解](https://github.com/haizlin/fe-interview/issues/6080)
 - 第2110天 (2025-01-24)  
     - [软技能] [微信支付的服务商和普通商户有什么区别？](https://github.com/haizlin/fe-interview/issues/6079)
 - 第2109天 (2025-01-23)  
