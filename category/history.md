@@ -2,6 +2,8 @@
 
 
 
+- 第2112天 (2025-01-26)  
+    - [软技能] [说说你对大模型了解](https://github.com/haizlin/fe-interview/issues/6081)
 - 第2111天 (2025-01-25)  
     - [软技能] [说说你对“豆包”的了解](https://github.com/haizlin/fe-interview/issues/6080)
 - 第2110天 (2025-01-24)  
