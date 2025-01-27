@@ -2,6 +2,8 @@
 
 
 
+- 第2114天 (2025-01-28)  
+    - [jQuery] [jQuery与原生JavaScript相比有哪些优势？](https://github.com/haizlin/fe-interview/issues/6083)
 - 第2113天 (2025-01-27)  
     - [jQuery] [jQuery是什么？它解决了什么问题？](https://github.com/haizlin/fe-interview/issues/6082)
 - 第2112天 (2025-01-26)  
