@@ -2,6 +2,8 @@
 
 
 
+- 第2115天 (2025-01-29)  
+    - [jQuery] [jQuery的基本语法是什么？](https://github.com/haizlin/fe-interview/issues/6084)
 - 第2114天 (2025-01-28)  
     - [jQuery] [jQuery与原生JavaScript相比有哪些优势？](https://github.com/haizlin/fe-interview/issues/6083)
 - 第2113天 (2025-01-27)  

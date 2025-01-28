@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.01.28) —— 2114 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery与原生JavaScript相比有哪些优势？](https://github.com/haizlin/fe-interview/issues/6083)  
+## :clock430: Today's Knowledge Points (2025.01.29) —— 2115 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery的基本语法是什么？](https://github.com/haizlin/fe-interview/issues/6084)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2113 days (2025.01.27)  
-    	 :one: [jQuery] [jQuery是什么？它解决了什么问题？](https://github.com/haizlin/fe-interview/issues/6082)  
+- 2114 days (2025.01.28)  
+    	 :one: [jQuery] [jQuery与原生JavaScript相比有哪些优势？](https://github.com/haizlin/fe-interview/issues/6083)  
  
 	
 - **[All](category/history.md)**
