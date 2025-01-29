@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.01.29) —— 第2115天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery的基本语法是什么？](https://github.com/haizlin/fe-interview/issues/6084)  
+## :clock430: 今天的知识点   (2025.01.30) —— 第2116天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何引入jQuery库？](https://github.com/haizlin/fe-interview/issues/6085)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2114天 (2025.01.28)  
-    	 :one: [jQuery] [jQuery与原生JavaScript相比有哪些优势？](https://github.com/haizlin/fe-interview/issues/6083)  
+- 第2115天 (2025.01.29)  
+    	 :one: [jQuery] [jQuery的基本语法是什么？](https://github.com/haizlin/fe-interview/issues/6084)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第2116天 (2025-01-30)  
+    - [jQuery] [如何引入jQuery库？](https://github.com/haizlin/fe-interview/issues/6085)
 - 第2115天 (2025-01-29)  
     - [jQuery] [jQuery的基本语法是什么？](https://github.com/haizlin/fe-interview/issues/6084)
 - 第2114天 (2025-01-28)  
