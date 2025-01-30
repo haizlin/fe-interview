@@ -2,6 +2,8 @@
 
 
 
+- 第2117天 (2025-01-31)  
+    - [jQuery] [jQuery的$符号代表什么？](https://github.com/haizlin/fe-interview/issues/6086)
 - 第2116天 (2025-01-30)  
     - [jQuery] [如何引入jQuery库？](https://github.com/haizlin/fe-interview/issues/6085)
 - 第2115天 (2025-01-29)  
