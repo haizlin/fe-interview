@@ -2,6 +2,8 @@
 
 
 
+- 第2118天 (2025-02-01)  
+    - [jQuery] [如何在jQuery中检查一个元素是否存在？](https://github.com/haizlin/fe-interview/issues/6087)
 - 第2117天 (2025-01-31)  
     - [jQuery] [jQuery的$符号代表什么？](https://github.com/haizlin/fe-interview/issues/6086)
 - 第2116天 (2025-01-30)  
