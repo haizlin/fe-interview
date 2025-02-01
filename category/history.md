@@ -2,6 +2,8 @@
 
 
 
+- 第2119天 (2025-02-02)  
+    - [jQuery] [jQuery的ready()方法是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/6088)
 - 第2118天 (2025-02-01)  
     - [jQuery] [如何在jQuery中检查一个元素是否存在？](https://github.com/haizlin/fe-interview/issues/6087)
 - 第2117天 (2025-01-31)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.01) —— 2118 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中检查一个元素是否存在？](https://github.com/haizlin/fe-interview/issues/6087)  
+## :clock430: Today's Knowledge Points (2025.02.02) —— 2119 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery的ready()方法是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/6088)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2117 days (2025.01.31)  
-    	 :one: [jQuery] [jQuery的$符号代表什么？](https://github.com/haizlin/fe-interview/issues/6086)  
+- 2118 days (2025.02.01)  
+    	 :one: [jQuery] [如何在jQuery中检查一个元素是否存在？](https://github.com/haizlin/fe-interview/issues/6087)  
  
 	
 - **[All](category/history.md)**

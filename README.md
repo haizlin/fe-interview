@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.01) —— 第2118天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中检查一个元素是否存在？](https://github.com/haizlin/fe-interview/issues/6087)  
+## :clock430: 今天的知识点   (2025.02.02) —— 第2119天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery的ready()方法是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/6088)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2117天 (2025.01.31)  
-    	 :one: [jQuery] [jQuery的$符号代表什么？](https://github.com/haizlin/fe-interview/issues/6086)  
+- 第2118天 (2025.02.01)  
+    	 :one: [jQuery] [如何在jQuery中检查一个元素是否存在？](https://github.com/haizlin/fe-interview/issues/6087)  
  
 	
 - **[查看全部](category/history.md)**
