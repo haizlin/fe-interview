@@ -2,6 +2,8 @@
 
 
 
+- 第2120天 (2025-02-03)  
+    - [jQuery] [jQuery中的链式调用是什么？](https://github.com/haizlin/fe-interview/issues/6089)
 - 第2119天 (2025-02-02)  
     - [jQuery] [jQuery的ready()方法是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/6088)
 - 第2118天 (2025-02-01)  
