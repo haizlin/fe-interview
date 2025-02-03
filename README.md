@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.03) —— 第2120天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery中的链式调用是什么？](https://github.com/haizlin/fe-interview/issues/6089)  
+## :clock430: 今天的知识点   (2025.02.04) —— 第2121天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的each()方法](https://github.com/haizlin/fe-interview/issues/6090)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2119天 (2025.02.02)  
-    	 :one: [jQuery] [jQuery的ready()方法是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/6088)  
+- 第2120天 (2025.02.03)  
+    	 :one: [jQuery] [jQuery中的链式调用是什么？](https://github.com/haizlin/fe-interview/issues/6089)  
  
 	
 - **[查看全部](category/history.md)**

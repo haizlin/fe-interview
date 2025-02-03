@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.03) —— 2120 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery中的链式调用是什么？](https://github.com/haizlin/fe-interview/issues/6089)  
+## :clock430: Today's Knowledge Points (2025.02.04) —— 2121 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的each()方法](https://github.com/haizlin/fe-interview/issues/6090)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2119 days (2025.02.02)  
-    	 :one: [jQuery] [jQuery的ready()方法是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/6088)  
+- 2120 days (2025.02.03)  
+    	 :one: [jQuery] [jQuery中的链式调用是什么？](https://github.com/haizlin/fe-interview/issues/6089)  
  
 	
 - **[All](category/history.md)**
