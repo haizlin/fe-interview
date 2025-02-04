@@ -2,6 +2,8 @@
 
 
 
+- 第2122天 (2025-02-05)  
+    - [jQuery] [jQuery中的data()方法用于什么？](https://github.com/haizlin/fe-interview/issues/6091)
 - 第2121天 (2025-02-04)  
     - [jQuery] [解释jQuery中的each()方法](https://github.com/haizlin/fe-interview/issues/6090)
 - 第2120天 (2025-02-03)  
