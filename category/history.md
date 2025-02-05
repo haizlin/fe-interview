@@ -2,6 +2,8 @@
 
 
 
+- 第2123天 (2025-02-06)  
+    - [jQuery] [如何使用jQuery添加或移除CSS类？](https://github.com/haizlin/fe-interview/issues/6092)
 - 第2122天 (2025-02-05)  
     - [jQuery] [jQuery中的data()方法用于什么？](https://github.com/haizlin/fe-interview/issues/6091)
 - 第2121天 (2025-02-04)  

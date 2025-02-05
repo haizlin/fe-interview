@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.05) —— 第2122天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery中的data()方法用于什么？](https://github.com/haizlin/fe-interview/issues/6091)  
+## :clock430: 今天的知识点   (2025.02.06) —— 第2123天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery添加或移除CSS类？](https://github.com/haizlin/fe-interview/issues/6092)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2121天 (2025.02.04)  
-    	 :one: [jQuery] [解释jQuery中的each()方法](https://github.com/haizlin/fe-interview/issues/6090)  
+- 第2122天 (2025.02.05)  
+    	 :one: [jQuery] [jQuery中的data()方法用于什么？](https://github.com/haizlin/fe-interview/issues/6091)  
  
 	
 - **[查看全部](category/history.md)**
