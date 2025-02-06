@@ -2,6 +2,8 @@
 
 
 
+- 第2124天 (2025-02-07)  
+    - [jQuery] [如何使用jQuery更改元素的HTML内容？](https://github.com/haizlin/fe-interview/issues/6093)
 - 第2123天 (2025-02-06)  
     - [jQuery] [如何使用jQuery添加或移除CSS类？](https://github.com/haizlin/fe-interview/issues/6092)
 - 第2122天 (2025-02-05)  
