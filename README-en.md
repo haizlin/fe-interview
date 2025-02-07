@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.07) —— 2124 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery更改元素的HTML内容？](https://github.com/haizlin/fe-interview/issues/6093)  
+## :clock430: Today's Knowledge Points (2025.02.08) —— 2125 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery设置或获取元素的属性值？](https://github.com/haizlin/fe-interview/issues/6094)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2123 days (2025.02.06)  
-    	 :one: [jQuery] [如何使用jQuery添加或移除CSS类？](https://github.com/haizlin/fe-interview/issues/6092)  
+- 2124 days (2025.02.07)  
+    	 :one: [jQuery] [如何使用jQuery更改元素的HTML内容？](https://github.com/haizlin/fe-interview/issues/6093)  
  
 	
 - **[All](category/history.md)**

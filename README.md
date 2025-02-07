@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.07) —— 第2124天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery更改元素的HTML内容？](https://github.com/haizlin/fe-interview/issues/6093)  
+## :clock430: 今天的知识点   (2025.02.08) —— 第2125天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery设置或获取元素的属性值？](https://github.com/haizlin/fe-interview/issues/6094)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2123天 (2025.02.06)  
-    	 :one: [jQuery] [如何使用jQuery添加或移除CSS类？](https://github.com/haizlin/fe-interview/issues/6092)  
+- 第2124天 (2025.02.07)  
+    	 :one: [jQuery] [如何使用jQuery更改元素的HTML内容？](https://github.com/haizlin/fe-interview/issues/6093)  
  
 	
 - **[查看全部](category/history.md)**
