@@ -2,6 +2,8 @@
 
 
 
+- 第2126天 (2025-02-09)  
+    - [jQuery] [jQuery中的append()和appendTo()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6095)
 - 第2125天 (2025-02-08)  
     - [jQuery] [如何使用jQuery设置或获取元素的属性值？](https://github.com/haizlin/fe-interview/issues/6094)
 - 第2124天 (2025-02-07)  
