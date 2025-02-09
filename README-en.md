@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.09) —— 2126 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery中的append()和appendTo()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6095)  
+## :clock430: Today's Knowledge Points (2025.02.10) —— 2127 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery创建和插入新元素？](https://github.com/haizlin/fe-interview/issues/6096)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2125 days (2025.02.08)  
-    	 :one: [jQuery] [如何使用jQuery设置或获取元素的属性值？](https://github.com/haizlin/fe-interview/issues/6094)  
+- 2126 days (2025.02.09)  
+    	 :one: [jQuery] [jQuery中的append()和appendTo()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6095)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.09) —— 第2126天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery中的append()和appendTo()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6095)  
+## :clock430: 今天的知识点   (2025.02.10) —— 第2127天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery创建和插入新元素？](https://github.com/haizlin/fe-interview/issues/6096)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2125天 (2025.02.08)  
-    	 :one: [jQuery] [如何使用jQuery设置或获取元素的属性值？](https://github.com/haizlin/fe-interview/issues/6094)  
+- 第2126天 (2025.02.09)  
+    	 :one: [jQuery] [jQuery中的append()和appendTo()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6095)  
  
 	
 - **[查看全部](category/history.md)**
