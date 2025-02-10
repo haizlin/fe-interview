@@ -2,6 +2,8 @@
 
 
 
+- 第2128天 (2025-02-11)  
+    - [jQuery] [解释jQuery中的wrap()方法](https://github.com/haizlin/fe-interview/issues/6097)
 - 第2127天 (2025-02-10)  
     - [jQuery] [如何使用jQuery创建和插入新元素？](https://github.com/haizlin/fe-interview/issues/6096)
 - 第2126天 (2025-02-09)  
