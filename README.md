@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.11) —— 第2128天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的wrap()方法](https://github.com/haizlin/fe-interview/issues/6097)  
+## :clock430: 今天的知识点   (2025.02.12) —— 第2129天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery遍历DOM树？](https://github.com/haizlin/fe-interview/issues/6098)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2127天 (2025.02.10)  
-    	 :one: [jQuery] [如何使用jQuery创建和插入新元素？](https://github.com/haizlin/fe-interview/issues/6096)  
+- 第2128天 (2025.02.11)  
+    	 :one: [jQuery] [解释jQuery中的wrap()方法](https://github.com/haizlin/fe-interview/issues/6097)  
  
 	
 - **[查看全部](category/history.md)**
