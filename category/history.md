@@ -2,6 +2,8 @@
 
 
 
+- 第2130天 (2025-02-13)  
+    - [jQuery] [如何使用jQuery删除元素？](https://github.com/haizlin/fe-interview/issues/6099)
 - 第2129天 (2025-02-12)  
     - [jQuery] [如何使用jQuery遍历DOM树？](https://github.com/haizlin/fe-interview/issues/6098)
 - 第2128天 (2025-02-11)  
