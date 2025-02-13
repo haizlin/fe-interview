@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.13) —— 2130 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery删除元素？](https://github.com/haizlin/fe-interview/issues/6099)  
+## :clock430: Today's Knowledge Points (2025.02.14) —— 2131 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery中的find()和children()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6100)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2129 days (2025.02.12)  
-    	 :one: [jQuery] [如何使用jQuery遍历DOM树？](https://github.com/haizlin/fe-interview/issues/6098)  
+- 2130 days (2025.02.13)  
+    	 :one: [jQuery] [如何使用jQuery删除元素？](https://github.com/haizlin/fe-interview/issues/6099)  
  
 	
 - **[All](category/history.md)**
