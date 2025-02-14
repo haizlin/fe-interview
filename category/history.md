@@ -2,6 +2,8 @@
 
 
 
+- 第2132天 (2025-02-15)  
+    - [jQuery] [如何使用jQuery的filter()方法筛选元素？](https://github.com/haizlin/fe-interview/issues/6101)
 - 第2131天 (2025-02-14)  
     - [jQuery] [jQuery中的find()和children()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6100)
 - 第2130天 (2025-02-13)  

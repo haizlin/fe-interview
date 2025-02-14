@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.14) —— 第2131天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery中的find()和children()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6100)  
+## :clock430: 今天的知识点   (2025.02.15) —— 第2132天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery的filter()方法筛选元素？](https://github.com/haizlin/fe-interview/issues/6101)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2130天 (2025.02.13)  
-    	 :one: [jQuery] [如何使用jQuery删除元素？](https://github.com/haizlin/fe-interview/issues/6099)  
+- 第2131天 (2025.02.14)  
+    	 :one: [jQuery] [jQuery中的find()和children()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6100)  
  
 	
 - **[查看全部](category/history.md)**
