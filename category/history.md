@@ -2,6 +2,8 @@
 
 
 
+- 第2133天 (2025-02-16)  
+    - [jQuery] [jQuery中的事件绑定方法有哪些？](https://github.com/haizlin/fe-interview/issues/6102)
 - 第2132天 (2025-02-15)  
     - [jQuery] [如何使用jQuery的filter()方法筛选元素？](https://github.com/haizlin/fe-interview/issues/6101)
 - 第2131天 (2025-02-14)  

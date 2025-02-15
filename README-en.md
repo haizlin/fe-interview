@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.15) —— 2132 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery的filter()方法筛选元素？](https://github.com/haizlin/fe-interview/issues/6101)  
+## :clock430: Today's Knowledge Points (2025.02.16) —— 2133 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery中的事件绑定方法有哪些？](https://github.com/haizlin/fe-interview/issues/6102)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2131 days (2025.02.14)  
-    	 :one: [jQuery] [jQuery中的find()和children()方法有什么区别？](https://github.com/haizlin/fe-interview/issues/6100)  
+- 2132 days (2025.02.15)  
+    	 :one: [jQuery] [如何使用jQuery的filter()方法筛选元素？](https://github.com/haizlin/fe-interview/issues/6101)  
  
 	
 - **[All](category/history.md)**
