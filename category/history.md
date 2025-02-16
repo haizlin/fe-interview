@@ -2,6 +2,8 @@
 
 
 
+- 第2134天 (2025-02-17)  
+    - [jQuery] [解释jQuery中的on()和off()方法](https://github.com/haizlin/fe-interview/issues/6103)
 - 第2133天 (2025-02-16)  
     - [jQuery] [jQuery中的事件绑定方法有哪些？](https://github.com/haizlin/fe-interview/issues/6102)
 - 第2132天 (2025-02-15)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.16) —— 第2133天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [jQuery中的事件绑定方法有哪些？](https://github.com/haizlin/fe-interview/issues/6102)  
+## :clock430: 今天的知识点   (2025.02.17) —— 第2134天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的on()和off()方法](https://github.com/haizlin/fe-interview/issues/6103)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2132天 (2025.02.15)  
-    	 :one: [jQuery] [如何使用jQuery的filter()方法筛选元素？](https://github.com/haizlin/fe-interview/issues/6101)  
+- 第2133天 (2025.02.16)  
+    	 :one: [jQuery] [jQuery中的事件绑定方法有哪些？](https://github.com/haizlin/fe-interview/issues/6102)  
  
 	
 - **[查看全部](category/history.md)**
