@@ -7246,3 +7246,5 @@
     - [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
     - [css] [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)
     - [js] [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizlin/fe-interview/issues/3)
+- 第2135天 (Invalid date)  
+    - [jQuery] [jQuery中的事件委托是什么？如何实现？](https://github.com/haizlin/fe-interview/issues/6105)

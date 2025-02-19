@@ -40,8 +40,7 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.17) —— 2134 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的on()和off()方法](https://github.com/haizlin/fe-interview/issues/6103)  
+## :clock430: Today's Knowledge Points (2025.02.20) —— 2137 days  
  
   
 ### :camel: History
@@ -52,9 +51,8 @@
     …………  
 
 
-- 2133 days (2025.02.16)  
-    	 :one: [jQuery] [jQuery中的事件绑定方法有哪些？](https://github.com/haizlin/fe-interview/issues/6102)  
- 
+- 2136 days (2025.02.19)  
+     
 	
 - **[All](category/history.md)**
 
