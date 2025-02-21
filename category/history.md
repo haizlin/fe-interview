@@ -2,6 +2,14 @@
 
 
 
+- 第2139天 (2025-02-22)  
+    - [jQuery] [如何使用jQuery处理表单提交事件？](https://github.com/haizlin/fe-interview/issues/6108)
+- 第2138天 (2025-02-21)  
+    - [jQuery] [解释jQuery中的hover()方法](https://github.com/haizlin/fe-interview/issues/6107)
+- 第2137天 (2025-02-20)  
+    - [jQuery] [如何使用jQuery触发事件？](https://github.com/haizlin/fe-interview/issues/6106)
+- 第2135天 (2025-02-18)  
+    - [jQuery] [jQuery中的事件委托是什么？如何实现？](https://github.com/haizlin/fe-interview/issues/6105)
 - 第2134天 (2025-02-17)  
     - [jQuery] [解释jQuery中的on()和off()方法](https://github.com/haizlin/fe-interview/issues/6103)
 - 第2133天 (2025-02-16)  
@@ -7246,5 +7254,3 @@
     - [html] [页面导入样式时，使用link和@import有什么区别？](https://github.com/haizlin/fe-interview/issues/1)
     - [css] [圣杯布局和双飞翼布局的理解和区别，并用代码实现](https://github.com/haizlin/fe-interview/issues/2)
     - [js] [用递归算法实现，数组长度为5且元素的随机数在2-32间不重复的值](https://github.com/haizlin/fe-interview/issues/3)
-- 第2135天 (Invalid date)  
-    - [jQuery] [jQuery中的事件委托是什么？如何实现？](https://github.com/haizlin/fe-interview/issues/6105)

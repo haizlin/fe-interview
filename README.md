@@ -40,7 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.20) —— 第2137天  
+## :clock430: 今天的知识点   (2025.02.22) —— 第2139天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery处理表单提交事件？](https://github.com/haizlin/fe-interview/issues/6108)  
  
   
 ### :camel: 历史题目
@@ -52,8 +53,9 @@
     …………  
 
 
-- 第2136天 (2025.02.19)  
-     
+- 第2138天 (2025.02.21)  
+    	 :one: [jQuery] [解释jQuery中的hover()方法](https://github.com/haizlin/fe-interview/issues/6107)  
+ 
 	
 - **[查看全部](category/history.md)**
 

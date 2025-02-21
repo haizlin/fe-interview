@@ -40,7 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.20) —— 2137 days  
+## :clock430: Today's Knowledge Points (2025.02.22) —— 2139 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery处理表单提交事件？](https://github.com/haizlin/fe-interview/issues/6108)  
  
   
 ### :camel: History
@@ -51,8 +52,9 @@
     …………  
 
 
-- 2136 days (2025.02.19)  
-     
+- 2138 days (2025.02.21)  
+    	 :one: [jQuery] [解释jQuery中的hover()方法](https://github.com/haizlin/fe-interview/issues/6107)  
+ 
 	
 - **[All](category/history.md)**
 
