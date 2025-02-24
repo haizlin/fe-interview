@@ -2,6 +2,12 @@
 
 
 
+- 第2142天 (2025-02-25)  
+    - [jQuery] [解释jQuery中的blur()和focus()事件](https://github.com/haizlin/fe-interview/issues/6112)
+- 第2141天 (2025-02-24)  
+    - [jQuery] [如何使用jQuery检测元素是否可见？](https://github.com/haizlin/fe-interview/issues/6110)
+- 第2140天 (2025-02-23)  
+    - [jQuery] [jQuery中的one()方法是什么？它有什么作用？](https://github.com/haizlin/fe-interview/issues/6109)
 - 第2139天 (2025-02-22)  
     - [jQuery] [如何使用jQuery处理表单提交事件？](https://github.com/haizlin/fe-interview/issues/6108)
 - 第2138天 (2025-02-21)  

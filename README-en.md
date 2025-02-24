@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.22) —— 2139 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery处理表单提交事件？](https://github.com/haizlin/fe-interview/issues/6108)  
+## :clock430: Today's Knowledge Points (2025.02.25) —— 2142 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的blur()和focus()事件](https://github.com/haizlin/fe-interview/issues/6112)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2138 days (2025.02.21)  
-    	 :one: [jQuery] [解释jQuery中的hover()方法](https://github.com/haizlin/fe-interview/issues/6107)  
+- 2141 days (2025.02.24)  
+    	 :one: [jQuery] [如何使用jQuery检测元素是否可见？](https://github.com/haizlin/fe-interview/issues/6110)  
  
 	
 - **[All](category/history.md)**
