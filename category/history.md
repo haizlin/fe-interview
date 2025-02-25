@@ -2,6 +2,8 @@
 
 
 
+- 第2143天 (2025-02-26)  
+    - [jQuery] [AJAX是什么？jQuery如何简化AJAX操作？](https://github.com/haizlin/fe-interview/issues/6114)
 - 第2142天 (2025-02-25)  
     - [jQuery] [解释jQuery中的blur()和focus()事件](https://github.com/haizlin/fe-interview/issues/6112)
 - 第2141天 (2025-02-24)  
