@@ -2,6 +2,10 @@
 
 
 
+- 第2145天 (2025-02-28)  
+    - [jQuery] [如何使用jQuery的$.get()和$.post()方法？](https://github.com/haizlin/fe-interview/issues/6116)
+- 第2144天 (2025-02-27)  
+    - [jQuery] [解释jQuery中的$.ajax()方法](https://github.com/haizlin/fe-interview/issues/6115)
 - 第2143天 (2025-02-26)  
     - [jQuery] [AJAX是什么？jQuery如何简化AJAX操作？](https://github.com/haizlin/fe-interview/issues/6114)
 - 第2142天 (2025-02-25)  

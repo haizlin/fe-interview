@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.26) —— 2143 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [AJAX是什么？jQuery如何简化AJAX操作？](https://github.com/haizlin/fe-interview/issues/6114)  
+## :clock430: Today's Knowledge Points (2025.02.28) —— 2145 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery的$.get()和$.post()方法？](https://github.com/haizlin/fe-interview/issues/6116)  
  
   
 ### :camel: History
@@ -52,9 +52,8 @@
     …………  
 
 
-- 2142 days (2025.02.25)  
-    	 :one: [jQuery] [解释jQuery中的blur()和focus()事件](https://github.com/haizlin/fe-interview/issues/6112)  
-	 :two: [jQuery] [如何使用jQuery实现拖放功能？](https://github.com/haizlin/fe-interview/issues/6113)  
+- 2144 days (2025.02.27)  
+    	 :one: [jQuery] [解释jQuery中的$.ajax()方法](https://github.com/haizlin/fe-interview/issues/6115)  
  
 	
 - **[All](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.02.26) —— 第2143天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [AJAX是什么？jQuery如何简化AJAX操作？](https://github.com/haizlin/fe-interview/issues/6114)  
+## :clock430: 今天的知识点   (2025.02.28) —— 第2145天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery的$.get()和$.post()方法？](https://github.com/haizlin/fe-interview/issues/6116)  
  
   
 ### :camel: 历史题目
@@ -53,9 +53,8 @@
     …………  
 
 
-- 第2142天 (2025.02.25)  
-    	 :one: [jQuery] [解释jQuery中的blur()和focus()事件](https://github.com/haizlin/fe-interview/issues/6112)  
-	 :two: [jQuery] [如何使用jQuery实现拖放功能？](https://github.com/haizlin/fe-interview/issues/6113)  
+- 第2144天 (2025.02.27)  
+    	 :one: [jQuery] [解释jQuery中的$.ajax()方法](https://github.com/haizlin/fe-interview/issues/6115)  
  
 	
 - **[查看全部](category/history.md)**
