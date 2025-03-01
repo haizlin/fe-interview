@@ -2,6 +2,10 @@
 
 
 
+- 第2147天 (2025-03-02)  
+    - [jQuery] [如何处理AJAX请求的回调函数？](https://github.com/haizlin/fe-interview/issues/6118)
+- 第2146天 (2025-03-01)  
+    - [jQuery] [jQuery中的$.getJSON()方法用于什么？](https://github.com/haizlin/fe-interview/issues/6117)
 - 第2145天 (2025-02-28)  
     - [jQuery] [如何使用jQuery的$.get()和$.post()方法？](https://github.com/haizlin/fe-interview/issues/6116)
 - 第2144天 (2025-02-27)  

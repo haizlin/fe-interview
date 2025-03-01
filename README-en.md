@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.02.28) —— 2145 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery的$.get()和$.post()方法？](https://github.com/haizlin/fe-interview/issues/6116)  
+## :clock430: Today's Knowledge Points (2025.03.02) —— 2147 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何处理AJAX请求的回调函数？](https://github.com/haizlin/fe-interview/issues/6118)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2144 days (2025.02.27)  
-    	 :one: [jQuery] [解释jQuery中的$.ajax()方法](https://github.com/haizlin/fe-interview/issues/6115)  
+- 2146 days (2025.03.01)  
+    	 :one: [jQuery] [jQuery中的$.getJSON()方法用于什么？](https://github.com/haizlin/fe-interview/issues/6117)  
  
 	
 - **[All](category/history.md)**
