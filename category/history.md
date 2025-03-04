@@ -2,6 +2,12 @@
 
 
 
+- 第2150天 (2025-03-05)  
+    - [jQuery] [解释jQuery中的$.ajaxSetup()方法](https://github.com/haizlin/fe-interview/issues/6121)
+- 第2149天 (2025-03-04)  
+    - [jQuery] [如何使用jQuery处理AJAX错误？](https://github.com/haizlin/fe-interview/issues/6120)
+- 第2148天 (2025-03-03)  
+    - [jQuery] [如何在jQuery中设置AJAX请求的头部信息？](https://github.com/haizlin/fe-interview/issues/6119)
 - 第2147天 (2025-03-02)  
     - [jQuery] [如何处理AJAX请求的回调函数？](https://github.com/haizlin/fe-interview/issues/6118)
 - 第2146天 (2025-03-01)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.03.02) —— 第2147天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何处理AJAX请求的回调函数？](https://github.com/haizlin/fe-interview/issues/6118)  
+## :clock430: 今天的知识点   (2025.03.05) —— 第2150天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的$.ajaxSetup()方法](https://github.com/haizlin/fe-interview/issues/6121)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2146天 (2025.03.01)  
-    	 :one: [jQuery] [jQuery中的$.getJSON()方法用于什么？](https://github.com/haizlin/fe-interview/issues/6117)  
+- 第2149天 (2025.03.04)  
+    	 :one: [jQuery] [如何使用jQuery处理AJAX错误？](https://github.com/haizlin/fe-interview/issues/6120)  
  
 	
 - **[查看全部](category/history.md)**
