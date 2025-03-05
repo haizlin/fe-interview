@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.05) —— 2150 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的$.ajaxSetup()方法](https://github.com/haizlin/fe-interview/issues/6121)  
+## :clock430: Today's Knowledge Points (2025.03.06) —— 2151 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中取消AJAX请求？](https://github.com/haizlin/fe-interview/issues/6123)  
  
   
 ### :camel: History
@@ -52,8 +52,9 @@
     …………  
 
 
-- 2149 days (2025.03.04)  
-    	 :one: [jQuery] [如何使用jQuery处理AJAX错误？](https://github.com/haizlin/fe-interview/issues/6120)  
+- 2150 days (2025.03.05)  
+    	 :one: [jQuery] [解释jQuery中的$.ajaxSetup()方法](https://github.com/haizlin/fe-interview/issues/6121)  
+	 :two: [jQuery] [如何使用jQuery实现全局AJAX事件处理？](https://github.com/haizlin/fe-interview/issues/6122)  
  
 	
 - **[All](category/history.md)**

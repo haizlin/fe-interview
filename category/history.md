@@ -2,6 +2,8 @@
 
 
 
+- 第2151天 (2025-03-06)  
+    - [jQuery] [如何在jQuery中取消AJAX请求？](https://github.com/haizlin/fe-interview/issues/6123)
 - 第2150天 (2025-03-05)  
     - [jQuery] [解释jQuery中的$.ajaxSetup()方法](https://github.com/haizlin/fe-interview/issues/6121)
 - 第2149天 (2025-03-04)  
