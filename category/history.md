@@ -2,6 +2,10 @@
 
 
 
+- 第2153天 (2025-03-08)  
+    - [jQuery] [解释jQuery UI是什么，它提供了哪些功能？](https://github.com/haizlin/fe-interview/issues/6125)
+- 第2152天 (2025-03-07)  
+    - [jQuery] [什么是jQuery插件？如何创建一个简单的jQuery插件？](https://github.com/haizlin/fe-interview/issues/6124)
 - 第2151天 (2025-03-06)  
     - [jQuery] [如何在jQuery中取消AJAX请求？](https://github.com/haizlin/fe-interview/issues/6123)
 - 第2150天 (2025-03-05)  

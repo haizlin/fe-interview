@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.03.06) —— 第2151天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中取消AJAX请求？](https://github.com/haizlin/fe-interview/issues/6123)  
+## :clock430: 今天的知识点   (2025.03.08) —— 第2153天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery UI是什么，它提供了哪些功能？](https://github.com/haizlin/fe-interview/issues/6125)  
  
   
 ### :camel: 历史题目
@@ -53,9 +53,8 @@
     …………  
 
 
-- 第2150天 (2025.03.05)  
-    	 :one: [jQuery] [解释jQuery中的$.ajaxSetup()方法](https://github.com/haizlin/fe-interview/issues/6121)  
-	 :two: [jQuery] [如何使用jQuery实现全局AJAX事件处理？](https://github.com/haizlin/fe-interview/issues/6122)  
+- 第2152天 (2025.03.07)  
+    	 :one: [jQuery] [什么是jQuery插件？如何创建一个简单的jQuery插件？](https://github.com/haizlin/fe-interview/issues/6124)  
  
 	
 - **[查看全部](category/history.md)**
