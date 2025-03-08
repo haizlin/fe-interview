@@ -2,6 +2,8 @@
 
 
 
+- 第2154天 (2025-03-09)  
+    - [jQuery] [如何使用jQuery插件（如jQuery UI）？](https://github.com/haizlin/fe-interview/issues/6126)
 - 第2153天 (2025-03-08)  
     - [jQuery] [解释jQuery UI是什么，它提供了哪些功能？](https://github.com/haizlin/fe-interview/issues/6125)
 - 第2152天 (2025-03-07)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.08) —— 2153 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery UI是什么，它提供了哪些功能？](https://github.com/haizlin/fe-interview/issues/6125)  
+## :clock430: Today's Knowledge Points (2025.03.09) —— 2154 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery插件（如jQuery UI）？](https://github.com/haizlin/fe-interview/issues/6126)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2152 days (2025.03.07)  
-    	 :one: [jQuery] [什么是jQuery插件？如何创建一个简单的jQuery插件？](https://github.com/haizlin/fe-interview/issues/6124)  
+- 2153 days (2025.03.08)  
+    	 :one: [jQuery] [解释jQuery UI是什么，它提供了哪些功能？](https://github.com/haizlin/fe-interview/issues/6125)  
  
 	
 - **[All](category/history.md)**

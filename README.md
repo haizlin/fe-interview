@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.03.08) —— 第2153天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery UI是什么，它提供了哪些功能？](https://github.com/haizlin/fe-interview/issues/6125)  
+## :clock430: 今天的知识点   (2025.03.09) —— 第2154天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery插件（如jQuery UI）？](https://github.com/haizlin/fe-interview/issues/6126)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2152天 (2025.03.07)  
-    	 :one: [jQuery] [什么是jQuery插件？如何创建一个简单的jQuery插件？](https://github.com/haizlin/fe-interview/issues/6124)  
+- 第2153天 (2025.03.08)  
+    	 :one: [jQuery] [解释jQuery UI是什么，它提供了哪些功能？](https://github.com/haizlin/fe-interview/issues/6125)  
  
 	
 - **[查看全部](category/history.md)**
