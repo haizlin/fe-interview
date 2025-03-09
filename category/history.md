@@ -2,6 +2,8 @@
 
 
 
+- 第2155天 (2025-03-10)  
+    - [jQuery] [如何在jQuery插件中传递参数和选项？](https://github.com/haizlin/fe-interview/issues/6127)
 - 第2154天 (2025-03-09)  
     - [jQuery] [如何使用jQuery插件（如jQuery UI）？](https://github.com/haizlin/fe-interview/issues/6126)
 - 第2153天 (2025-03-08)  
