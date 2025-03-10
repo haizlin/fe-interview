@@ -2,6 +2,8 @@
 
 
 
+- 第2156天 (2025-03-11)  
+    - [jQuery] [解释jQuery插件的命名空间](https://github.com/haizlin/fe-interview/issues/6128)
 - 第2155天 (2025-03-10)  
     - [jQuery] [如何在jQuery插件中传递参数和选项？](https://github.com/haizlin/fe-interview/issues/6127)
 - 第2154天 (2025-03-09)  

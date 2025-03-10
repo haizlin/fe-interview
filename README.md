@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.03.10) —— 第2155天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery插件中传递参数和选项？](https://github.com/haizlin/fe-interview/issues/6127)  
+## :clock430: 今天的知识点   (2025.03.11) —— 第2156天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery插件的命名空间](https://github.com/haizlin/fe-interview/issues/6128)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2154天 (2025.03.09)  
-    	 :one: [jQuery] [如何使用jQuery插件（如jQuery UI）？](https://github.com/haizlin/fe-interview/issues/6126)  
+- 第2155天 (2025.03.10)  
+    	 :one: [jQuery] [如何在jQuery插件中传递参数和选项？](https://github.com/haizlin/fe-interview/issues/6127)  
  
 	
 - **[查看全部](category/history.md)**
