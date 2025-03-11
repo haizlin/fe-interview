@@ -2,6 +2,8 @@
 
 
 
+- 第2157天 (2025-03-12)  
+    - [jQuery] [如何扩展现有的jQuery插件？](https://github.com/haizlin/fe-interview/issues/6129)
 - 第2156天 (2025-03-11)  
     - [jQuery] [解释jQuery插件的命名空间](https://github.com/haizlin/fe-interview/issues/6128)
 - 第2155天 (2025-03-10)  

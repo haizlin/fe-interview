@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.11) —— 2156 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery插件的命名空间](https://github.com/haizlin/fe-interview/issues/6128)  
+## :clock430: Today's Knowledge Points (2025.03.12) —— 2157 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何扩展现有的jQuery插件？](https://github.com/haizlin/fe-interview/issues/6129)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2155 days (2025.03.10)  
-    	 :one: [jQuery] [如何在jQuery插件中传递参数和选项？](https://github.com/haizlin/fe-interview/issues/6127)  
+- 2156 days (2025.03.11)  
+    	 :one: [jQuery] [解释jQuery插件的命名空间](https://github.com/haizlin/fe-interview/issues/6128)  
  
 	
 - **[All](category/history.md)**
