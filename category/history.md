@@ -2,6 +2,8 @@
 
 
 
+- 第2158天 (2025-03-13)  
+    - [jQuery] [如何在jQuery插件中处理事件？](https://github.com/haizlin/fe-interview/issues/6130)
 - 第2157天 (2025-03-12)  
     - [jQuery] [如何扩展现有的jQuery插件？](https://github.com/haizlin/fe-interview/issues/6129)
 - 第2156天 (2025-03-11)  
