@@ -2,6 +2,8 @@
 
 
 
+- 第2159天 (2025-03-14)  
+    - [jQuery] [如何调试jQuery插件？](https://github.com/haizlin/fe-interview/issues/6131)
 - 第2158天 (2025-03-13)  
     - [jQuery] [如何在jQuery插件中处理事件？](https://github.com/haizlin/fe-interview/issues/6130)
 - 第2157天 (2025-03-12)  
