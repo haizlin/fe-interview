@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.14) —— 2159 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何调试jQuery插件？](https://github.com/haizlin/fe-interview/issues/6131)  
+## :clock430: Today's Knowledge Points (2025.03.15) —— 2160 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery插件的链式调用](https://github.com/haizlin/fe-interview/issues/6132)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2158 days (2025.03.13)  
-    	 :one: [jQuery] [如何在jQuery插件中处理事件？](https://github.com/haizlin/fe-interview/issues/6130)  
+- 2159 days (2025.03.14)  
+    	 :one: [jQuery] [如何调试jQuery插件？](https://github.com/haizlin/fe-interview/issues/6131)  
  
 	
 - **[All](category/history.md)**

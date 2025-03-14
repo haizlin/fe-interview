@@ -2,6 +2,8 @@
 
 
 
+- 第2160天 (2025-03-15)  
+    - [jQuery] [解释jQuery插件的链式调用](https://github.com/haizlin/fe-interview/issues/6132)
 - 第2159天 (2025-03-14)  
     - [jQuery] [如何调试jQuery插件？](https://github.com/haizlin/fe-interview/issues/6131)
 - 第2158天 (2025-03-13)  
