@@ -2,6 +2,8 @@
 
 
 
+- 第2161天 (2025-03-16)  
+    - [jQuery] [如何在jQuery插件中封装私有变量和方法？](https://github.com/haizlin/fe-interview/issues/6133)
 - 第2160天 (2025-03-15)  
     - [jQuery] [解释jQuery插件的链式调用](https://github.com/haizlin/fe-interview/issues/6132)
 - 第2159天 (2025-03-14)  

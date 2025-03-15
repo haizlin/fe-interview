@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.03.15) —— 第2160天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery插件的链式调用](https://github.com/haizlin/fe-interview/issues/6132)  
+## :clock430: 今天的知识点   (2025.03.16) —— 第2161天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery插件中封装私有变量和方法？](https://github.com/haizlin/fe-interview/issues/6133)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2159天 (2025.03.14)  
-    	 :one: [jQuery] [如何调试jQuery插件？](https://github.com/haizlin/fe-interview/issues/6131)  
+- 第2160天 (2025.03.15)  
+    	 :one: [jQuery] [解释jQuery插件的链式调用](https://github.com/haizlin/fe-interview/issues/6132)  
  
 	
 - **[查看全部](category/history.md)**
