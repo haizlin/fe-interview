@@ -2,6 +2,8 @@
 
 
 
+- 第2162天 (2025-03-17)  
+    - [jQuery] [最佳实践和性能优化](https://github.com/haizlin/fe-interview/issues/6134)
 - 第2161天 (2025-03-16)  
     - [jQuery] [如何在jQuery插件中封装私有变量和方法？](https://github.com/haizlin/fe-interview/issues/6133)
 - 第2160天 (2025-03-15)  

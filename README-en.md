@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.16) —— 2161 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery插件中封装私有变量和方法？](https://github.com/haizlin/fe-interview/issues/6133)  
+## :clock430: Today's Knowledge Points (2025.03.17) —— 2162 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [最佳实践和性能优化](https://github.com/haizlin/fe-interview/issues/6134)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2160 days (2025.03.15)  
-    	 :one: [jQuery] [解释jQuery插件的链式调用](https://github.com/haizlin/fe-interview/issues/6132)  
+- 2161 days (2025.03.16)  
+    	 :one: [jQuery] [如何在jQuery插件中封装私有变量和方法？](https://github.com/haizlin/fe-interview/issues/6133)  
  
 	
 - **[All](category/history.md)**
