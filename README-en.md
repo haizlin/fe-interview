@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.17) —— 2162 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [最佳实践和性能优化](https://github.com/haizlin/fe-interview/issues/6134)  
+## :clock430: Today's Knowledge Points (2025.03.18) —— 2163 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的缓存选择器的重要性](https://github.com/haizlin/fe-interview/issues/6135)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2161 days (2025.03.16)  
-    	 :one: [jQuery] [如何在jQuery插件中封装私有变量和方法？](https://github.com/haizlin/fe-interview/issues/6133)  
+- 2162 days (2025.03.17)  
+    	 :one: [jQuery] [最佳实践和性能优化](https://github.com/haizlin/fe-interview/issues/6134)  
  
 	
 - **[All](category/history.md)**
