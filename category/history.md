@@ -2,6 +2,8 @@
 
 
 
+- 第2164天 (2025-03-19)  
+    - [jQuery] [如何避免jQuery中的常见性能问题？](https://github.com/haizlin/fe-interview/issues/6136)
 - 第2163天 (2025-03-18)  
     - [jQuery] [解释jQuery中的缓存选择器的重要性](https://github.com/haizlin/fe-interview/issues/6135)
 - 第2162天 (2025-03-17)  
