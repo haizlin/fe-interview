@@ -2,6 +2,8 @@
 
 
 
+- 第2165天 (2025-03-20)  
+    - [jQuery] [解释jQuery中的事件委托对性能的影响](https://github.com/haizlin/fe-interview/issues/6137)
 - 第2164天 (2025-03-19)  
     - [jQuery] [如何避免jQuery中的常见性能问题？](https://github.com/haizlin/fe-interview/issues/6136)
 - 第2163天 (2025-03-18)  

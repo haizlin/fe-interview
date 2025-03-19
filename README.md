@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.03.19) —— 第2164天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何避免jQuery中的常见性能问题？](https://github.com/haizlin/fe-interview/issues/6136)  
+## :clock430: 今天的知识点   (2025.03.20) —— 第2165天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的事件委托对性能的影响](https://github.com/haizlin/fe-interview/issues/6137)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2163天 (2025.03.18)  
-    	 :one: [jQuery] [解释jQuery中的缓存选择器的重要性](https://github.com/haizlin/fe-interview/issues/6135)  
+- 第2164天 (2025.03.19)  
+    	 :one: [jQuery] [如何避免jQuery中的常见性能问题？](https://github.com/haizlin/fe-interview/issues/6136)  
  
 	
 - **[查看全部](category/history.md)**

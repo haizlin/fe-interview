@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.19) —— 2164 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何避免jQuery中的常见性能问题？](https://github.com/haizlin/fe-interview/issues/6136)  
+## :clock430: Today's Knowledge Points (2025.03.20) —— 2165 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的事件委托对性能的影响](https://github.com/haizlin/fe-interview/issues/6137)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2163 days (2025.03.18)  
-    	 :one: [jQuery] [解释jQuery中的缓存选择器的重要性](https://github.com/haizlin/fe-interview/issues/6135)  
+- 2164 days (2025.03.19)  
+    	 :one: [jQuery] [如何避免jQuery中的常见性能问题？](https://github.com/haizlin/fe-interview/issues/6136)  
  
 	
 - **[All](category/history.md)**
