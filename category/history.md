@@ -2,6 +2,8 @@
 
 
 
+- 第2166天 (2025-03-21)  
+    - [jQuery] [如何在jQuery中最小化DOM操作？](https://github.com/haizlin/fe-interview/issues/6138)
 - 第2165天 (2025-03-20)  
     - [jQuery] [解释jQuery中的事件委托对性能的影响](https://github.com/haizlin/fe-interview/issues/6137)
 - 第2164天 (2025-03-19)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.20) —— 2165 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的事件委托对性能的影响](https://github.com/haizlin/fe-interview/issues/6137)  
+## :clock430: Today's Knowledge Points (2025.03.21) —— 2166 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中最小化DOM操作？](https://github.com/haizlin/fe-interview/issues/6138)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2164 days (2025.03.19)  
-    	 :one: [jQuery] [如何避免jQuery中的常见性能问题？](https://github.com/haizlin/fe-interview/issues/6136)  
+- 2165 days (2025.03.20)  
+    	 :one: [jQuery] [解释jQuery中的事件委托对性能的影响](https://github.com/haizlin/fe-interview/issues/6137)  
  
 	
 - **[All](category/history.md)**
