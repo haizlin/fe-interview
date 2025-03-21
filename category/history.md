@@ -2,6 +2,8 @@
 
 
 
+- 第2167天 (2025-03-22)  
+    - [jQuery] [如何在jQuery中避免内存泄漏？](https://github.com/haizlin/fe-interview/issues/6139)
 - 第2166天 (2025-03-21)  
     - [jQuery] [如何在jQuery中最小化DOM操作？](https://github.com/haizlin/fe-interview/issues/6138)
 - 第2165天 (2025-03-20)  
