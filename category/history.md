@@ -2,6 +2,8 @@
 
 
 
+- 第2168天 (2025-03-23)  
+    - [jQuery] [解释jQuery中的noConflict()方法](https://github.com/haizlin/fe-interview/issues/6140)
 - 第2167天 (2025-03-22)  
     - [jQuery] [如何在jQuery中避免内存泄漏？](https://github.com/haizlin/fe-interview/issues/6139)
 - 第2166天 (2025-03-21)  
