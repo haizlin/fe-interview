@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.23) —— 2168 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的noConflict()方法](https://github.com/haizlin/fe-interview/issues/6140)  
+## :clock430: Today's Knowledge Points (2025.03.24) —— 2169 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中处理跨域请求？](https://github.com/haizlin/fe-interview/issues/6141)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2167 days (2025.03.22)  
-    	 :one: [jQuery] [如何在jQuery中避免内存泄漏？](https://github.com/haizlin/fe-interview/issues/6139)  
+- 2168 days (2025.03.23)  
+    	 :one: [jQuery] [解释jQuery中的noConflict()方法](https://github.com/haizlin/fe-interview/issues/6140)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第2169天 (2025-03-24)  
+    - [jQuery] [如何在jQuery中处理跨域请求？](https://github.com/haizlin/fe-interview/issues/6141)
 - 第2168天 (2025-03-23)  
     - [jQuery] [解释jQuery中的noConflict()方法](https://github.com/haizlin/fe-interview/issues/6140)
 - 第2167天 (2025-03-22)  
