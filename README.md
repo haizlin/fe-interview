@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.03.24) —— 第2169天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中处理跨域请求？](https://github.com/haizlin/fe-interview/issues/6141)  
+## :clock430: 今天的知识点   (2025.03.25) —— 第2170天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery实现延迟执行和定时执行？](https://github.com/haizlin/fe-interview/issues/6142)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2168天 (2025.03.23)  
-    	 :one: [jQuery] [解释jQuery中的noConflict()方法](https://github.com/haizlin/fe-interview/issues/6140)  
+- 第2169天 (2025.03.24)  
+    	 :one: [jQuery] [如何在jQuery中处理跨域请求？](https://github.com/haizlin/fe-interview/issues/6141)  
  
 	
 - **[查看全部](category/history.md)**

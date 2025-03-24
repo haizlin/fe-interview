@@ -2,6 +2,8 @@
 
 
 
+- 第2170天 (2025-03-25)  
+    - [jQuery] [如何使用jQuery实现延迟执行和定时执行？](https://github.com/haizlin/fe-interview/issues/6142)
 - 第2169天 (2025-03-24)  
     - [jQuery] [如何在jQuery中处理跨域请求？](https://github.com/haizlin/fe-interview/issues/6141)
 - 第2168天 (2025-03-23)  
