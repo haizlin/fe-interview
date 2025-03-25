@@ -2,6 +2,8 @@
 
 
 
+- 第2171天 (2025-03-26)  
+    - [jQuery] [解释jQuery中的$.proxy()方法](https://github.com/haizlin/fe-interview/issues/6143)
 - 第2170天 (2025-03-25)  
     - [jQuery] [如何使用jQuery实现延迟执行和定时执行？](https://github.com/haizlin/fe-interview/issues/6142)
 - 第2169天 (2025-03-24)  

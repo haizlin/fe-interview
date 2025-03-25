@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.03.25) —— 2170 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery实现延迟执行和定时执行？](https://github.com/haizlin/fe-interview/issues/6142)  
+## :clock430: Today's Knowledge Points (2025.03.26) —— 2171 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [解释jQuery中的$.proxy()方法](https://github.com/haizlin/fe-interview/issues/6143)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2169 days (2025.03.24)  
-    	 :one: [jQuery] [如何在jQuery中处理跨域请求？](https://github.com/haizlin/fe-interview/issues/6141)  
+- 2170 days (2025.03.25)  
+    	 :one: [jQuery] [如何使用jQuery实现延迟执行和定时执行？](https://github.com/haizlin/fe-interview/issues/6142)  
  
 	
 - **[All](category/history.md)**
