@@ -2,6 +2,8 @@
 
 
 
+- 第2209天 (2025-05-03)  
+    - [jQuery] [如何在jQuery中实现自定义的UI组件？](https://github.com/haizlin/fe-interview/issues/6181)
 - 第2208天 (2025-05-02)  
     - [jQuery] [如何使用jQuery进行复杂的UI交互设计？](https://github.com/haizlin/fe-interview/issues/6180)
 - 第2207天 (2025-05-01)  
