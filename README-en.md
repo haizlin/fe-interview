@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.03) —— 2209 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中实现自定义的UI组件？](https://github.com/haizlin/fe-interview/issues/6181)  
+## :clock430: Today's Knowledge Points (2025.05.04) —— 2210 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery进行大型项目的模块化管理？](https://github.com/haizlin/fe-interview/issues/6182)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2208 days (2025.05.02)  
-    	 :one: [jQuery] [如何使用jQuery进行复杂的UI交互设计？](https://github.com/haizlin/fe-interview/issues/6180)  
+- 2209 days (2025.05.03)  
+    	 :one: [jQuery] [如何在jQuery中实现自定义的UI组件？](https://github.com/haizlin/fe-interview/issues/6181)  
  
 	
 - **[All](category/history.md)**
