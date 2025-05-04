@@ -2,6 +2,8 @@
 
 
 
+- 第2211天 (2025-05-05)  
+    - [jQuery] [如何在jQuery中实现与后端API的无缝集成？](https://github.com/haizlin/fe-interview/issues/6183)
 - 第2210天 (2025-05-04)  
     - [jQuery] [如何使用jQuery进行大型项目的模块化管理？](https://github.com/haizlin/fe-interview/issues/6182)
 - 第2209天 (2025-05-03)  

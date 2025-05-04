@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.04) —— 第2210天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何使用jQuery进行大型项目的模块化管理？](https://github.com/haizlin/fe-interview/issues/6182)  
+## :clock430: 今天的知识点   (2025.05.05) —— 第2211天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何在jQuery中实现与后端API的无缝集成？](https://github.com/haizlin/fe-interview/issues/6183)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2209天 (2025.05.03)  
-    	 :one: [jQuery] [如何在jQuery中实现自定义的UI组件？](https://github.com/haizlin/fe-interview/issues/6181)  
+- 第2210天 (2025.05.04)  
+    	 :one: [jQuery] [如何使用jQuery进行大型项目的模块化管理？](https://github.com/haizlin/fe-interview/issues/6182)  
  
 	
 - **[查看全部](category/history.md)**
