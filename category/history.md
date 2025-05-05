@@ -2,6 +2,8 @@
 
 
 
+- 第2212天 (2025-05-06)  
+    - [jQuery] [如何结合jQuery和原生JavaScript进行性能优化？](https://github.com/haizlin/fe-interview/issues/6184)
 - 第2211天 (2025-05-05)  
     - [jQuery] [如何在jQuery中实现与后端API的无缝集成？](https://github.com/haizlin/fe-interview/issues/6183)
 - 第2210天 (2025-05-04)  
