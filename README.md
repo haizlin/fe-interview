@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.06) —— 第2212天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [jQuery] [如何结合jQuery和原生JavaScript进行性能优化？](https://github.com/haizlin/fe-interview/issues/6184)  
+## :clock430: 今天的知识点   (2025.05.07) —— 第2213天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript的编译过程是怎样的？](https://github.com/haizlin/fe-interview/issues/6185)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2211天 (2025.05.05)  
-    	 :one: [jQuery] [如何在jQuery中实现与后端API的无缝集成？](https://github.com/haizlin/fe-interview/issues/6183)  
+- 第2212天 (2025.05.06)  
+    	 :one: [jQuery] [如何结合jQuery和原生JavaScript进行性能优化？](https://github.com/haizlin/fe-interview/issues/6184)  
  
 	
 - **[查看全部](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第2213天 (2025-05-07)  
+    - [TypeScript] [TypeScript的编译过程是怎样的？](https://github.com/haizlin/fe-interview/issues/6185)
 - 第2212天 (2025-05-06)  
     - [jQuery] [如何结合jQuery和原生JavaScript进行性能优化？](https://github.com/haizlin/fe-interview/issues/6184)
 - 第2211天 (2025-05-05)  
