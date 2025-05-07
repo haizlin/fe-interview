@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.07) —— 2213 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript的编译过程是怎样的？](https://github.com/haizlin/fe-interview/issues/6185)  
+## :clock430: Today's Knowledge Points (2025.05.08) —— 2214 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的类型有哪些？](https://github.com/haizlin/fe-interview/issues/6186)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2212 days (2025.05.06)  
-    	 :one: [jQuery] [如何结合jQuery和原生JavaScript进行性能优化？](https://github.com/haizlin/fe-interview/issues/6184)  
+- 2213 days (2025.05.07)  
+    	 :one: [TypeScript] [TypeScript的编译过程是怎样的？](https://github.com/haizlin/fe-interview/issues/6185)  
  
 	
 - **[All](category/history.md)**

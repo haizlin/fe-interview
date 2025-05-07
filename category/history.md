@@ -2,6 +2,8 @@
 
 
 
+- 第2214天 (2025-05-08)  
+    - [TypeScript] [TypeScript中的类型有哪些？](https://github.com/haizlin/fe-interview/issues/6186)
 - 第2213天 (2025-05-07)  
     - [TypeScript] [TypeScript的编译过程是怎样的？](https://github.com/haizlin/fe-interview/issues/6185)
 - 第2212天 (2025-05-06)  
