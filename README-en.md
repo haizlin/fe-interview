@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.08) —— 2214 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的类型有哪些？](https://github.com/haizlin/fe-interview/issues/6186)  
+## :clock430: Today's Knowledge Points (2025.05.09) —— 2215 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [如何定义变量和函数的类型？](https://github.com/haizlin/fe-interview/issues/6187)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2213 days (2025.05.07)  
-    	 :one: [TypeScript] [TypeScript的编译过程是怎样的？](https://github.com/haizlin/fe-interview/issues/6185)  
+- 2214 days (2025.05.08)  
+    	 :one: [TypeScript] [TypeScript中的类型有哪些？](https://github.com/haizlin/fe-interview/issues/6186)  
  
 	
 - **[All](category/history.md)**

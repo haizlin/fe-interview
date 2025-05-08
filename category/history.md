@@ -2,6 +2,8 @@
 
 
 
+- 第2215天 (2025-05-09)  
+    - [TypeScript] [如何定义变量和函数的类型？](https://github.com/haizlin/fe-interview/issues/6187)
 - 第2214天 (2025-05-08)  
     - [TypeScript] [TypeScript中的类型有哪些？](https://github.com/haizlin/fe-interview/issues/6186)
 - 第2213天 (2025-05-07)  
