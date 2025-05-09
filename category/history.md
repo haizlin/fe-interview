@@ -2,6 +2,8 @@
 
 
 
+- 第2216天 (2025-05-10)  
+    - [TypeScript] [解释TypeScript中的接口（Interface）和类型别名（Type Alias）](https://github.com/haizlin/fe-interview/issues/6188)
 - 第2215天 (2025-05-09)  
     - [TypeScript] [如何定义变量和函数的类型？](https://github.com/haizlin/fe-interview/issues/6187)
 - 第2214天 (2025-05-08)  

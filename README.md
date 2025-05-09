@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.09) —— 第2215天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [如何定义变量和函数的类型？](https://github.com/haizlin/fe-interview/issues/6187)  
+## :clock430: 今天的知识点   (2025.05.10) —— 第2216天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [解释TypeScript中的接口（Interface）和类型别名（Type Alias）](https://github.com/haizlin/fe-interview/issues/6188)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2214天 (2025.05.08)  
-    	 :one: [TypeScript] [TypeScript中的类型有哪些？](https://github.com/haizlin/fe-interview/issues/6186)  
+- 第2215天 (2025.05.09)  
+    	 :one: [TypeScript] [如何定义变量和函数的类型？](https://github.com/haizlin/fe-interview/issues/6187)  
  
 	
 - **[查看全部](category/history.md)**

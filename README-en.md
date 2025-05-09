@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.09) —— 2215 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [如何定义变量和函数的类型？](https://github.com/haizlin/fe-interview/issues/6187)  
+## :clock430: Today's Knowledge Points (2025.05.10) —— 2216 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [解释TypeScript中的接口（Interface）和类型别名（Type Alias）](https://github.com/haizlin/fe-interview/issues/6188)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2214 days (2025.05.08)  
-    	 :one: [TypeScript] [TypeScript中的类型有哪些？](https://github.com/haizlin/fe-interview/issues/6186)  
+- 2215 days (2025.05.09)  
+    	 :one: [TypeScript] [如何定义变量和函数的类型？](https://github.com/haizlin/fe-interview/issues/6187)  
  
 	
 - **[All](category/history.md)**
