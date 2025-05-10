@@ -2,6 +2,8 @@
 
 
 
+- 第2217天 (2025-05-11)  
+    - [TypeScript] [TypeScript中的枚举（Enum）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6189)
 - 第2216天 (2025-05-10)  
     - [TypeScript] [解释TypeScript中的接口（Interface）和类型别名（Type Alias）](https://github.com/haizlin/fe-interview/issues/6188)
 - 第2215天 (2025-05-09)  
