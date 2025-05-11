@@ -2,6 +2,8 @@
 
 
 
+- 第2218天 (2025-05-12)  
+    - [TypeScript] [TypeScript中的元组（Tuple）是什么？](https://github.com/haizlin/fe-interview/issues/6190)
 - 第2217天 (2025-05-11)  
     - [TypeScript] [TypeScript中的枚举（Enum）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6189)
 - 第2216天 (2025-05-10)  
