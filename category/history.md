@@ -2,6 +2,8 @@
 
 
 
+- 第2219天 (2025-05-13)  
+    - [TypeScript] [TypeScript中的交叉类型（Intersection Types）和联合类型（Union Types）是什么？](https://github.com/haizlin/fe-interview/issues/6191)
 - 第2218天 (2025-05-12)  
     - [TypeScript] [TypeScript中的元组（Tuple）是什么？](https://github.com/haizlin/fe-interview/issues/6190)
 - 第2217天 (2025-05-11)  

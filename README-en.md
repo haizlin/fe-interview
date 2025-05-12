@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.12) —— 2218 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的元组（Tuple）是什么？](https://github.com/haizlin/fe-interview/issues/6190)  
+## :clock430: Today's Knowledge Points (2025.05.13) —— 2219 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的交叉类型（Intersection Types）和联合类型（Union Types）是什么？](https://github.com/haizlin/fe-interview/issues/6191)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2217 days (2025.05.11)  
-    	 :one: [TypeScript] [TypeScript中的枚举（Enum）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6189)  
+- 2218 days (2025.05.12)  
+    	 :one: [TypeScript] [TypeScript中的元组（Tuple）是什么？](https://github.com/haizlin/fe-interview/issues/6190)  
  
 	
 - **[All](category/history.md)**

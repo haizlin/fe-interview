@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.12) —— 第2218天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的元组（Tuple）是什么？](https://github.com/haizlin/fe-interview/issues/6190)  
+## :clock430: 今天的知识点   (2025.05.13) —— 第2219天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的交叉类型（Intersection Types）和联合类型（Union Types）是什么？](https://github.com/haizlin/fe-interview/issues/6191)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2217天 (2025.05.11)  
-    	 :one: [TypeScript] [TypeScript中的枚举（Enum）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6189)  
+- 第2218天 (2025.05.12)  
+    	 :one: [TypeScript] [TypeScript中的元组（Tuple）是什么？](https://github.com/haizlin/fe-interview/issues/6190)  
  
 	
 - **[查看全部](category/history.md)**
