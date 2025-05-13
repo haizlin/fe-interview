@@ -2,6 +2,8 @@
 
 
 
+- 第2220天 (2025-05-14)  
+    - [TypeScript] [如何使用TypeScript定义数组和对象的类型？](https://github.com/haizlin/fe-interview/issues/6192)
 - 第2219天 (2025-05-13)  
     - [TypeScript] [TypeScript中的交叉类型（Intersection Types）和联合类型（Union Types）是什么？](https://github.com/haizlin/fe-interview/issues/6191)
 - 第2218天 (2025-05-12)  

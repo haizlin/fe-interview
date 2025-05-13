@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.13) —— 第2219天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的交叉类型（Intersection Types）和联合类型（Union Types）是什么？](https://github.com/haizlin/fe-interview/issues/6191)  
+## :clock430: 今天的知识点   (2025.05.14) —— 第2220天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [如何使用TypeScript定义数组和对象的类型？](https://github.com/haizlin/fe-interview/issues/6192)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2218天 (2025.05.12)  
-    	 :one: [TypeScript] [TypeScript中的元组（Tuple）是什么？](https://github.com/haizlin/fe-interview/issues/6190)  
+- 第2219天 (2025.05.13)  
+    	 :one: [TypeScript] [TypeScript中的交叉类型（Intersection Types）和联合类型（Union Types）是什么？](https://github.com/haizlin/fe-interview/issues/6191)  
  
 	
 - **[查看全部](category/history.md)**
