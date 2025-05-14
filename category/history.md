@@ -2,6 +2,8 @@
 
 
 
+- 第2221天 (2025-05-15)  
+    - [TypeScript] [TypeScript中的any类型是什么？在什么情况下使用？](https://github.com/haizlin/fe-interview/issues/6193)
 - 第2220天 (2025-05-14)  
     - [TypeScript] [如何使用TypeScript定义数组和对象的类型？](https://github.com/haizlin/fe-interview/issues/6192)
 - 第2219天 (2025-05-13)  
