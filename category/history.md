@@ -2,6 +2,8 @@
 
 
 
+- 第2222天 (2025-05-16)  
+    - [TypeScript] [TypeScript中的never类型是什么？](https://github.com/haizlin/fe-interview/issues/6194)
 - 第2221天 (2025-05-15)  
     - [TypeScript] [TypeScript中的any类型是什么？在什么情况下使用？](https://github.com/haizlin/fe-interview/issues/6193)
 - 第2220天 (2025-05-14)  

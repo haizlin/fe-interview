@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.15) —— 2221 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的any类型是什么？在什么情况下使用？](https://github.com/haizlin/fe-interview/issues/6193)  
+## :clock430: Today's Knowledge Points (2025.05.16) —— 2222 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的never类型是什么？](https://github.com/haizlin/fe-interview/issues/6194)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2220 days (2025.05.14)  
-    	 :one: [TypeScript] [如何使用TypeScript定义数组和对象的类型？](https://github.com/haizlin/fe-interview/issues/6192)  
+- 2221 days (2025.05.15)  
+    	 :one: [TypeScript] [TypeScript中的any类型是什么？在什么情况下使用？](https://github.com/haizlin/fe-interview/issues/6193)  
  
 	
 - **[All](category/history.md)**
