@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.16) —— 2222 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的never类型是什么？](https://github.com/haizlin/fe-interview/issues/6194)  
+## :clock430: Today's Knowledge Points (2025.05.17) —— 2223 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [如何使用TypeScript的null和undefined类型？](https://github.com/haizlin/fe-interview/issues/6195)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2221 days (2025.05.15)  
-    	 :one: [TypeScript] [TypeScript中的any类型是什么？在什么情况下使用？](https://github.com/haizlin/fe-interview/issues/6193)  
+- 2222 days (2025.05.16)  
+    	 :one: [TypeScript] [TypeScript中的never类型是什么？](https://github.com/haizlin/fe-interview/issues/6194)  
  
 	
 - **[All](category/history.md)**

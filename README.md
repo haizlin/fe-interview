@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.16) —— 第2222天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的never类型是什么？](https://github.com/haizlin/fe-interview/issues/6194)  
+## :clock430: 今天的知识点   (2025.05.17) —— 第2223天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [如何使用TypeScript的null和undefined类型？](https://github.com/haizlin/fe-interview/issues/6195)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2221天 (2025.05.15)  
-    	 :one: [TypeScript] [TypeScript中的any类型是什么？在什么情况下使用？](https://github.com/haizlin/fe-interview/issues/6193)  
+- 第2222天 (2025.05.16)  
+    	 :one: [TypeScript] [TypeScript中的never类型是什么？](https://github.com/haizlin/fe-interview/issues/6194)  
  
 	
 - **[查看全部](category/history.md)**
