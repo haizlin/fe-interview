@@ -2,6 +2,8 @@
 
 
 
+- 第2224天 (2025-05-18)  
+    - [TypeScript] [TypeScript中的可选属性（Optional Properties）是什么？](https://github.com/haizlin/fe-interview/issues/6196)
 - 第2223天 (2025-05-17)  
     - [TypeScript] [如何使用TypeScript的null和undefined类型？](https://github.com/haizlin/fe-interview/issues/6195)
 - 第2222天 (2025-05-16)  
