@@ -2,6 +2,8 @@
 
 
 
+- 第2225天 (2025-05-19)  
+    - [TypeScript] [TypeScript中的只读属性（Readonly Properties）是什么？](https://github.com/haizlin/fe-interview/issues/6197)
 - 第2224天 (2025-05-18)  
     - [TypeScript] [TypeScript中的可选属性（Optional Properties）是什么？](https://github.com/haizlin/fe-interview/issues/6196)
 - 第2223天 (2025-05-17)  
