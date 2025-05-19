@@ -2,6 +2,8 @@
 
 
 
+- 第2226天 (2025-05-20)  
+    - [TypeScript] [TypeScript中的字面量类型（Literal Types）是什么？](https://github.com/haizlin/fe-interview/issues/6198)
 - 第2225天 (2025-05-19)  
     - [TypeScript] [TypeScript中的只读属性（Readonly Properties）是什么？](https://github.com/haizlin/fe-interview/issues/6197)
 - 第2224天 (2025-05-18)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.19) —— 2225 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的只读属性（Readonly Properties）是什么？](https://github.com/haizlin/fe-interview/issues/6197)  
+## :clock430: Today's Knowledge Points (2025.05.20) —— 2226 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的字面量类型（Literal Types）是什么？](https://github.com/haizlin/fe-interview/issues/6198)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2224 days (2025.05.18)  
-    	 :one: [TypeScript] [TypeScript中的可选属性（Optional Properties）是什么？](https://github.com/haizlin/fe-interview/issues/6196)  
+- 2225 days (2025.05.19)  
+    	 :one: [TypeScript] [TypeScript中的只读属性（Readonly Properties）是什么？](https://github.com/haizlin/fe-interview/issues/6197)  
  
 	
 - **[All](category/history.md)**
