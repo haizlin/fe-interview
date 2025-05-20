@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.20) —— 第2226天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的字面量类型（Literal Types）是什么？](https://github.com/haizlin/fe-interview/issues/6198)  
+## :clock430: 今天的知识点   (2025.05.21) —— 第2227天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的类型断言（Type Assertions）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6199)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2225天 (2025.05.19)  
-    	 :one: [TypeScript] [TypeScript中的只读属性（Readonly Properties）是什么？](https://github.com/haizlin/fe-interview/issues/6197)  
+- 第2226天 (2025.05.20)  
+    	 :one: [TypeScript] [TypeScript中的字面量类型（Literal Types）是什么？](https://github.com/haizlin/fe-interview/issues/6198)  
  
 	
 - **[查看全部](category/history.md)**
