@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.21) —— 2227 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的类型断言（Type Assertions）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6199)  
+## :clock430: Today's Knowledge Points (2025.05.22) —— 2228 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的类型保护（Type Guards）是什么？](https://github.com/haizlin/fe-interview/issues/6200)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2226 days (2025.05.20)  
-    	 :one: [TypeScript] [TypeScript中的字面量类型（Literal Types）是什么？](https://github.com/haizlin/fe-interview/issues/6198)  
+- 2227 days (2025.05.21)  
+    	 :one: [TypeScript] [TypeScript中的类型断言（Type Assertions）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6199)  
  
 	
 - **[All](category/history.md)**
