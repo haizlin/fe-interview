@@ -2,6 +2,8 @@
 
 
 
+- 第2229天 (2025-05-23)  
+    - [TypeScript] [解释TypeScript中的泛型（Generics）](https://github.com/haizlin/fe-interview/issues/6201)
 - 第2228天 (2025-05-22)  
     - [TypeScript] [TypeScript中的类型保护（Type Guards）是什么？](https://github.com/haizlin/fe-interview/issues/6200)
 - 第2227天 (2025-05-21)  
