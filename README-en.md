@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.23) —— 2229 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [解释TypeScript中的泛型（Generics）](https://github.com/haizlin/fe-interview/issues/6201)  
+## :clock430: Today's Knowledge Points (2025.05.24) —— 2230 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的条件类型（Conditional Types）是什么？](https://github.com/haizlin/fe-interview/issues/6202)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2228 days (2025.05.22)  
-    	 :one: [TypeScript] [TypeScript中的类型保护（Type Guards）是什么？](https://github.com/haizlin/fe-interview/issues/6200)  
+- 2229 days (2025.05.23)  
+    	 :one: [TypeScript] [解释TypeScript中的泛型（Generics）](https://github.com/haizlin/fe-interview/issues/6201)  
  
 	
 - **[All](category/history.md)**

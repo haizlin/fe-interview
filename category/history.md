@@ -2,6 +2,8 @@
 
 
 
+- 第2230天 (2025-05-24)  
+    - [TypeScript] [TypeScript中的条件类型（Conditional Types）是什么？](https://github.com/haizlin/fe-interview/issues/6202)
 - 第2229天 (2025-05-23)  
     - [TypeScript] [解释TypeScript中的泛型（Generics）](https://github.com/haizlin/fe-interview/issues/6201)
 - 第2228天 (2025-05-22)  
