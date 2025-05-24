@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.24) —— 2230 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的条件类型（Conditional Types）是什么？](https://github.com/haizlin/fe-interview/issues/6202)  
+## :clock430: Today's Knowledge Points (2025.05.25) —— 2231 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的映射类型（Mapped Types）是什么？](https://github.com/haizlin/fe-interview/issues/6203)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2229 days (2025.05.23)  
-    	 :one: [TypeScript] [解释TypeScript中的泛型（Generics）](https://github.com/haizlin/fe-interview/issues/6201)  
+- 2230 days (2025.05.24)  
+    	 :one: [TypeScript] [TypeScript中的条件类型（Conditional Types）是什么？](https://github.com/haizlin/fe-interview/issues/6202)  
  
 	
 - **[All](category/history.md)**

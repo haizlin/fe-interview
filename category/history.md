@@ -2,6 +2,8 @@
 
 
 
+- 第2231天 (2025-05-25)  
+    - [TypeScript] [TypeScript中的映射类型（Mapped Types）是什么？](https://github.com/haizlin/fe-interview/issues/6203)
 - 第2230天 (2025-05-24)  
     - [TypeScript] [TypeScript中的条件类型（Conditional Types）是什么？](https://github.com/haizlin/fe-interview/issues/6202)
 - 第2229天 (2025-05-23)  
