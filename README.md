@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.25) —— 第2231天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的映射类型（Mapped Types）是什么？](https://github.com/haizlin/fe-interview/issues/6203)  
+## :clock430: 今天的知识点   (2025.05.26) —— 第2232天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的索引签名（Index Signatures）是什么？](https://github.com/haizlin/fe-interview/issues/6204)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2230天 (2025.05.24)  
-    	 :one: [TypeScript] [TypeScript中的条件类型（Conditional Types）是什么？](https://github.com/haizlin/fe-interview/issues/6202)  
+- 第2231天 (2025.05.25)  
+    	 :one: [TypeScript] [TypeScript中的映射类型（Mapped Types）是什么？](https://github.com/haizlin/fe-interview/issues/6203)  
  
 	
 - **[查看全部](category/history.md)**
