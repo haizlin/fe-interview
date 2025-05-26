@@ -2,6 +2,8 @@
 
 
 
+- 第2233天 (2025-05-27)  
+    - [TypeScript] [TypeScript中的类型兼容性（Type Compatibility）规则是什么？](https://github.com/haizlin/fe-interview/issues/6205)
 - 第2232天 (2025-05-26)  
     - [TypeScript] [TypeScript中的索引签名（Index Signatures）是什么？](https://github.com/haizlin/fe-interview/issues/6204)
 - 第2231天 (2025-05-25)  
