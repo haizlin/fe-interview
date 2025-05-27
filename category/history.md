@@ -2,6 +2,8 @@
 
 
 
+- 第2234天 (2025-05-28)  
+    - [TypeScript] [TypeScript中的高级类型（Advanced Types）有哪些？](https://github.com/haizlin/fe-interview/issues/6206)
 - 第2233天 (2025-05-27)  
     - [TypeScript] [TypeScript中的类型兼容性（Type Compatibility）规则是什么？](https://github.com/haizlin/fe-interview/issues/6205)
 - 第2232天 (2025-05-26)  
