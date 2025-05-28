@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.28) —— 第2234天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的高级类型（Advanced Types）有哪些？](https://github.com/haizlin/fe-interview/issues/6206)  
+## :clock430: 今天的知识点   (2025.05.29) —— 第2235天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的类型别名与接口的区别是什么？](https://github.com/haizlin/fe-interview/issues/6207)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2233天 (2025.05.27)  
-    	 :one: [TypeScript] [TypeScript中的类型兼容性（Type Compatibility）规则是什么？](https://github.com/haizlin/fe-interview/issues/6205)  
+- 第2234天 (2025.05.28)  
+    	 :one: [TypeScript] [TypeScript中的高级类型（Advanced Types）有哪些？](https://github.com/haizlin/fe-interview/issues/6206)  
  
 	
 - **[查看全部](category/history.md)**
