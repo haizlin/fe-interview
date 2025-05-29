@@ -2,6 +2,8 @@
 
 
 
+- 第2236天 (2025-05-30)  
+    - [TypeScript] [TypeScript中的函数重载（Function Overloading）是什么？](https://github.com/haizlin/fe-interview/issues/6208)
 - 第2235天 (2025-05-29)  
     - [TypeScript] [TypeScript中的类型别名与接口的区别是什么？](https://github.com/haizlin/fe-interview/issues/6207)
 - 第2234天 (2025-05-28)  

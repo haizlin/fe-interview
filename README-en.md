@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.29) —— 2235 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的类型别名与接口的区别是什么？](https://github.com/haizlin/fe-interview/issues/6207)  
+## :clock430: Today's Knowledge Points (2025.05.30) —— 2236 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的函数重载（Function Overloading）是什么？](https://github.com/haizlin/fe-interview/issues/6208)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2234 days (2025.05.28)  
-    	 :one: [TypeScript] [TypeScript中的高级类型（Advanced Types）有哪些？](https://github.com/haizlin/fe-interview/issues/6206)  
+- 2235 days (2025.05.29)  
+    	 :one: [TypeScript] [TypeScript中的类型别名与接口的区别是什么？](https://github.com/haizlin/fe-interview/issues/6207)  
  
 	
 - **[All](category/history.md)**
