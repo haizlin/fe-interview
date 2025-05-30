@@ -2,6 +2,8 @@
 
 
 
+- 第2237天 (2025-05-31)  
+    - [TypeScript] [TypeScript中的装饰器（Decorators）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6209)
 - 第2236天 (2025-05-30)  
     - [TypeScript] [TypeScript中的函数重载（Function Overloading）是什么？](https://github.com/haizlin/fe-interview/issues/6208)
 - 第2235天 (2025-05-29)  

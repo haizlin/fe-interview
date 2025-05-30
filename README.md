@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.05.30) —— 第2236天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的函数重载（Function Overloading）是什么？](https://github.com/haizlin/fe-interview/issues/6208)  
+## :clock430: 今天的知识点   (2025.05.31) —— 第2237天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的装饰器（Decorators）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6209)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2235天 (2025.05.29)  
-    	 :one: [TypeScript] [TypeScript中的类型别名与接口的区别是什么？](https://github.com/haizlin/fe-interview/issues/6207)  
+- 第2236天 (2025.05.30)  
+    	 :one: [TypeScript] [TypeScript中的函数重载（Function Overloading）是什么？](https://github.com/haizlin/fe-interview/issues/6208)  
  
 	
 - **[查看全部](category/history.md)**
