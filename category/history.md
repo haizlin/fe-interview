@@ -2,6 +2,8 @@
 
 
 
+- 第2238天 (2025-06-01)  
+    - [TypeScript] [TypeScript中的混入（Mixins）是什么？如何实现？](https://github.com/haizlin/fe-interview/issues/6210)
 - 第2237天 (2025-05-31)  
     - [TypeScript] [TypeScript中的装饰器（Decorators）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6209)
 - 第2236天 (2025-05-30)  

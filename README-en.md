@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.05.31) —— 2237 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的装饰器（Decorators）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6209)  
+## :clock430: Today's Knowledge Points (2025.06.01) —— 2238 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的混入（Mixins）是什么？如何实现？](https://github.com/haizlin/fe-interview/issues/6210)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2236 days (2025.05.30)  
-    	 :one: [TypeScript] [TypeScript中的函数重载（Function Overloading）是什么？](https://github.com/haizlin/fe-interview/issues/6208)  
+- 2237 days (2025.05.31)  
+    	 :one: [TypeScript] [TypeScript中的装饰器（Decorators）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6209)  
  
 	
 - **[All](category/history.md)**
