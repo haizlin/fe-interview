@@ -2,6 +2,8 @@
 
 
 
+- 第2239天 (2025-06-02)  
+    - [TypeScript] [TypeScript中的访问修饰符（Access Modifiers）有哪些？](https://github.com/haizlin/fe-interview/issues/6211)
 - 第2238天 (2025-06-01)  
     - [TypeScript] [TypeScript中的混入（Mixins）是什么？如何实现？](https://github.com/haizlin/fe-interview/issues/6210)
 - 第2237天 (2025-05-31)  

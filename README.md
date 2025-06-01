@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.06.01) —— 第2238天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的混入（Mixins）是什么？如何实现？](https://github.com/haizlin/fe-interview/issues/6210)  
+## :clock430: 今天的知识点   (2025.06.02) —— 第2239天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的访问修饰符（Access Modifiers）有哪些？](https://github.com/haizlin/fe-interview/issues/6211)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2237天 (2025.05.31)  
-    	 :one: [TypeScript] [TypeScript中的装饰器（Decorators）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6209)  
+- 第2238天 (2025.06.01)  
+    	 :one: [TypeScript] [TypeScript中的混入（Mixins）是什么？如何实现？](https://github.com/haizlin/fe-interview/issues/6210)  
  
 	
 - **[查看全部](category/history.md)**
