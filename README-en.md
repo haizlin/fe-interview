@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.06.02) —— 2239 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的访问修饰符（Access Modifiers）有哪些？](https://github.com/haizlin/fe-interview/issues/6211)  
+## :clock430: Today's Knowledge Points (2025.06.03) —— 2240 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的抽象类（Abstract Classes）是什么？](https://github.com/haizlin/fe-interview/issues/6212)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2238 days (2025.06.01)  
-    	 :one: [TypeScript] [TypeScript中的混入（Mixins）是什么？如何实现？](https://github.com/haizlin/fe-interview/issues/6210)  
+- 2239 days (2025.06.02)  
+    	 :one: [TypeScript] [TypeScript中的访问修饰符（Access Modifiers）有哪些？](https://github.com/haizlin/fe-interview/issues/6211)  
  
 	
 - **[All](category/history.md)**

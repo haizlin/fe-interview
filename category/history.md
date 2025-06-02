@@ -2,6 +2,8 @@
 
 
 
+- 第2240天 (2025-06-03)  
+    - [TypeScript] [TypeScript中的抽象类（Abstract Classes）是什么？](https://github.com/haizlin/fe-interview/issues/6212)
 - 第2239天 (2025-06-02)  
     - [TypeScript] [TypeScript中的访问修饰符（Access Modifiers）有哪些？](https://github.com/haizlin/fe-interview/issues/6211)
 - 第2238天 (2025-06-01)  
