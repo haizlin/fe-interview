@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.06.03) —— 2240 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的抽象类（Abstract Classes）是什么？](https://github.com/haizlin/fe-interview/issues/6212)  
+## :clock430: Today's Knowledge Points (2025.06.04) —— 2241 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的命名空间（Namespaces）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6213)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2239 days (2025.06.02)  
-    	 :one: [TypeScript] [TypeScript中的访问修饰符（Access Modifiers）有哪些？](https://github.com/haizlin/fe-interview/issues/6211)  
+- 2240 days (2025.06.03)  
+    	 :one: [TypeScript] [TypeScript中的抽象类（Abstract Classes）是什么？](https://github.com/haizlin/fe-interview/issues/6212)  
  
 	
 - **[All](category/history.md)**

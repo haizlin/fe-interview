@@ -2,6 +2,8 @@
 
 
 
+- 第2241天 (2025-06-04)  
+    - [TypeScript] [TypeScript中的命名空间（Namespaces）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6213)
 - 第2240天 (2025-06-03)  
     - [TypeScript] [TypeScript中的抽象类（Abstract Classes）是什么？](https://github.com/haizlin/fe-interview/issues/6212)
 - 第2239天 (2025-06-02)  
