@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.06.04) —— 第2241天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的命名空间（Namespaces）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6213)  
+## :clock430: 今天的知识点   (2025.06.05) —— 第2242天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的模块（Modules）是什么？与命名空间的区别是什么？](https://github.com/haizlin/fe-interview/issues/6214)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2240天 (2025.06.03)  
-    	 :one: [TypeScript] [TypeScript中的抽象类（Abstract Classes）是什么？](https://github.com/haizlin/fe-interview/issues/6212)  
+- 第2241天 (2025.06.04)  
+    	 :one: [TypeScript] [TypeScript中的命名空间（Namespaces）是什么？如何使用？](https://github.com/haizlin/fe-interview/issues/6213)  
  
 	
 - **[查看全部](category/history.md)**
