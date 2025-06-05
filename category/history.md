@@ -2,6 +2,8 @@
 
 
 
+- 第2243天 (2025-06-06)  
+    - [TypeScript] [TypeScript中的this类型是什么？](https://github.com/haizlin/fe-interview/issues/6215)
 - 第2242天 (2025-06-05)  
     - [TypeScript] [TypeScript中的模块（Modules）是什么？与命名空间的区别是什么？](https://github.com/haizlin/fe-interview/issues/6214)
 - 第2241天 (2025-06-04)  
