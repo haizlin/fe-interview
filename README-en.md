@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.06.06) —— 2243 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的this类型是什么？](https://github.com/haizlin/fe-interview/issues/6215)  
+## :clock430: Today's Knowledge Points (2025.06.07) —— 2244 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的类型推断（Type Inference）机制是怎样的？](https://github.com/haizlin/fe-interview/issues/6216)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2242 days (2025.06.05)  
-    	 :one: [TypeScript] [TypeScript中的模块（Modules）是什么？与命名空间的区别是什么？](https://github.com/haizlin/fe-interview/issues/6214)  
+- 2243 days (2025.06.06)  
+    	 :one: [TypeScript] [TypeScript中的this类型是什么？](https://github.com/haizlin/fe-interview/issues/6215)  
  
 	
 - **[All](category/history.md)**

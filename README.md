@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.06.06) —— 第2243天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的this类型是什么？](https://github.com/haizlin/fe-interview/issues/6215)  
+## :clock430: 今天的知识点   (2025.06.07) —— 第2244天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的类型推断（Type Inference）机制是怎样的？](https://github.com/haizlin/fe-interview/issues/6216)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2242天 (2025.06.05)  
-    	 :one: [TypeScript] [TypeScript中的模块（Modules）是什么？与命名空间的区别是什么？](https://github.com/haizlin/fe-interview/issues/6214)  
+- 第2243天 (2025.06.06)  
+    	 :one: [TypeScript] [TypeScript中的this类型是什么？](https://github.com/haizlin/fe-interview/issues/6215)  
  
 	
 - **[查看全部](category/history.md)**

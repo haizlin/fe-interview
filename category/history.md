@@ -2,6 +2,8 @@
 
 
 
+- 第2244天 (2025-06-07)  
+    - [TypeScript] [TypeScript中的类型推断（Type Inference）机制是怎样的？](https://github.com/haizlin/fe-interview/issues/6216)
 - 第2243天 (2025-06-06)  
     - [TypeScript] [TypeScript中的this类型是什么？](https://github.com/haizlin/fe-interview/issues/6215)
 - 第2242天 (2025-06-05)  
