@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.06.08) —— 2245 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的typeof操作符是什么？](https://github.com/haizlin/fe-interview/issues/6217)  
+## :clock430: Today's Knowledge Points (2025.06.09) —— 2246 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的instanceof操作符是什么？](https://github.com/haizlin/fe-interview/issues/6218)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2244 days (2025.06.07)  
-    	 :one: [TypeScript] [TypeScript中的类型推断（Type Inference）机制是怎样的？](https://github.com/haizlin/fe-interview/issues/6216)  
+- 2245 days (2025.06.08)  
+    	 :one: [TypeScript] [TypeScript中的typeof操作符是什么？](https://github.com/haizlin/fe-interview/issues/6217)  
  
 	
 - **[All](category/history.md)**
