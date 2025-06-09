@@ -2,6 +2,8 @@
 
 
 
+- 第2247天 (2025-06-10)  
+    - [TypeScript] [TypeScript中的in关键字是什么？](https://github.com/haizlin/fe-interview/issues/6219)
 - 第2246天 (2025-06-09)  
     - [TypeScript] [TypeScript中的instanceof操作符是什么？](https://github.com/haizlin/fe-interview/issues/6218)
 - 第2245天 (2025-06-08)  
