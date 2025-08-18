@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.06.10) —— 第2247天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的in关键字是什么？](https://github.com/haizlin/fe-interview/issues/6219)  
+## :clock430: 今天的知识点   (2025.08.19) —— 第2317天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [你是如何确保TypeScript代码与JavaScript代码的兼容性的？](https://github.com/haizlin/fe-interview/issues/6288)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2246天 (2025.06.09)  
-    	 :one: [TypeScript] [TypeScript中的instanceof操作符是什么？](https://github.com/haizlin/fe-interview/issues/6218)  
+- 第2316天 (2025.08.18)  
+    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行代码重构的？](https://github.com/haizlin/fe-interview/issues/6287)  
  
 	
 - **[查看全部](category/history.md)**

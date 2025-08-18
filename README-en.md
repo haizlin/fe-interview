@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.06.10) —— 2247 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [TypeScript中的in关键字是什么？](https://github.com/haizlin/fe-interview/issues/6219)  
+## :clock430: Today's Knowledge Points (2025.08.19) —— 2317 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [你是如何确保TypeScript代码与JavaScript代码的兼容性的？](https://github.com/haizlin/fe-interview/issues/6288)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2246 days (2025.06.09)  
-    	 :one: [TypeScript] [TypeScript中的instanceof操作符是什么？](https://github.com/haizlin/fe-interview/issues/6218)  
+- 2316 days (2025.08.18)  
+    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行代码重构的？](https://github.com/haizlin/fe-interview/issues/6287)  
  
 	
 - **[All](category/history.md)**
