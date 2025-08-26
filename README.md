@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.08.19) —— 第2317天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [你是如何确保TypeScript代码与JavaScript代码的兼容性的？](https://github.com/haizlin/fe-interview/issues/6288)  
+## :clock430: 今天的知识点   (2025.08.27) —— 第2325天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [你是如何确保TypeScript代码与第三方库的兼容性的？](https://github.com/haizlin/fe-interview/issues/6296)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2316天 (2025.08.18)  
-    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行代码重构的？](https://github.com/haizlin/fe-interview/issues/6287)  
+- 第2324天 (2025.08.26)  
+    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行模块化开发的？](https://github.com/haizlin/fe-interview/issues/6295)  
  
 	
 - **[查看全部](category/history.md)**
