@@ -2,6 +2,8 @@
 
 
 
+- 第2329天 (2025-08-31)  
+    - [TypeScript] [你是如何确保TypeScript代码与前端框架（如React、Angular等）的兼容性的？](https://github.com/haizlin/fe-interview/issues/6300)
 - 第2328天 (2025-08-30)  
     - [TypeScript] [在你的项目中，你是如何使用TypeScript进行代码重构以提高可读性和可维护性的？](https://github.com/haizlin/fe-interview/issues/6299)
 - 第2327天 (2025-08-29)  

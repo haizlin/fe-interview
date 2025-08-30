@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.08.30) —— 第2328天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行代码重构以提高可读性和可维护性的？](https://github.com/haizlin/fe-interview/issues/6299)  
+## :clock430: 今天的知识点   (2025.08.31) —— 第2329天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [你是如何确保TypeScript代码与前端框架（如React、Angular等）的兼容性的？](https://github.com/haizlin/fe-interview/issues/6300)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2327天 (2025.08.29)  
-    	 :one: [TypeScript] [描述一个你使用TypeScript进行代码审查或代码质量检查的案例](https://github.com/haizlin/fe-interview/issues/6298)  
+- 第2328天 (2025.08.30)  
+    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行代码重构以提高可读性和可维护性的？](https://github.com/haizlin/fe-interview/issues/6299)  
  
 	
 - **[查看全部](category/history.md)**

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.08.30) —— 2328 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行代码重构以提高可读性和可维护性的？](https://github.com/haizlin/fe-interview/issues/6299)  
+## :clock430: Today's Knowledge Points (2025.08.31) —— 2329 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [你是如何确保TypeScript代码与前端框架（如React、Angular等）的兼容性的？](https://github.com/haizlin/fe-interview/issues/6300)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2327 days (2025.08.29)  
-    	 :one: [TypeScript] [描述一个你使用TypeScript进行代码审查或代码质量检查的案例](https://github.com/haizlin/fe-interview/issues/6298)  
+- 2328 days (2025.08.30)  
+    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行代码重构以提高可读性和可维护性的？](https://github.com/haizlin/fe-interview/issues/6299)  
  
 	
 - **[All](category/history.md)**
