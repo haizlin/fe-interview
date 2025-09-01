@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.01) —— 2330 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行状态管理的？](https://github.com/haizlin/fe-interview/issues/6301)  
+## :clock430: Today's Knowledge Points (2025.09.02) —— 2331 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [描述一个你使用TypeScript进行路由管理的案例](https://github.com/haizlin/fe-interview/issues/6302)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2329 days (2025.08.31)  
-    	 :one: [TypeScript] [你是如何确保TypeScript代码与前端框架（如React、Angular等）的兼容性的？](https://github.com/haizlin/fe-interview/issues/6300)  
+- 2330 days (2025.09.01)  
+    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行状态管理的？](https://github.com/haizlin/fe-interview/issues/6301)  
  
 	
 - **[All](category/history.md)**
