@@ -2,6 +2,8 @@
 
 
 
+- 第2332天 (2025-09-03)  
+    - [TypeScript] [在你的项目中，你是如何使用TypeScript进行表单验证的？](https://github.com/haizlin/fe-interview/issues/6303)
 - 第2331天 (2025-09-02)  
     - [TypeScript] [描述一个你使用TypeScript进行路由管理的案例](https://github.com/haizlin/fe-interview/issues/6302)
 - 第2330天 (2025-09-01)  
