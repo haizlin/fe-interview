@@ -2,6 +2,8 @@
 
 
 
+- 第2333天 (2025-09-04)  
+    - [TypeScript] [你是如何确保TypeScript代码与后端API的兼容性的？](https://github.com/haizlin/fe-interview/issues/6304)
 - 第2332天 (2025-09-03)  
     - [TypeScript] [在你的项目中，你是如何使用TypeScript进行表单验证的？](https://github.com/haizlin/fe-interview/issues/6303)
 - 第2331天 (2025-09-02)  

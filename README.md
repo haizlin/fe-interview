@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.03) —— 第2332天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行表单验证的？](https://github.com/haizlin/fe-interview/issues/6303)  
+## :clock430: 今天的知识点   (2025.09.04) —— 第2333天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [你是如何确保TypeScript代码与后端API的兼容性的？](https://github.com/haizlin/fe-interview/issues/6304)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2331天 (2025.09.02)  
-    	 :one: [TypeScript] [描述一个你使用TypeScript进行路由管理的案例](https://github.com/haizlin/fe-interview/issues/6302)  
+- 第2332天 (2025.09.03)  
+    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行表单验证的？](https://github.com/haizlin/fe-interview/issues/6303)  
  
 	
 - **[查看全部](category/history.md)**
