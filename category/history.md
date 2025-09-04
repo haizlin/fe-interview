@@ -2,6 +2,8 @@
 
 
 
+- 第2334天 (2025-09-05)  
+    - [TypeScript] [在你的项目中，你是如何使用TypeScript进行国际化（i18n）和本地化（l10n）的？](https://github.com/haizlin/fe-interview/issues/6305)
 - 第2333天 (2025-09-04)  
     - [TypeScript] [你是如何确保TypeScript代码与后端API的兼容性的？](https://github.com/haizlin/fe-interview/issues/6304)
 - 第2332天 (2025-09-03)  
