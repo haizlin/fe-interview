@@ -2,6 +2,8 @@
 
 
 
+- 第2335天 (2025-09-06)  
+    - [TypeScript] [描述一个你使用TypeScript进行插件或扩展开发的案例](https://github.com/haizlin/fe-interview/issues/6306)
 - 第2334天 (2025-09-05)  
     - [TypeScript] [在你的项目中，你是如何使用TypeScript进行国际化（i18n）和本地化（l10n）的？](https://github.com/haizlin/fe-interview/issues/6305)
 - 第2333天 (2025-09-04)  

@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.05) —— 2334 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行国际化（i18n）和本地化（l10n）的？](https://github.com/haizlin/fe-interview/issues/6305)  
+## :clock430: Today's Knowledge Points (2025.09.06) —— 2335 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [描述一个你使用TypeScript进行插件或扩展开发的案例](https://github.com/haizlin/fe-interview/issues/6306)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2333 days (2025.09.04)  
-    	 :one: [TypeScript] [你是如何确保TypeScript代码与后端API的兼容性的？](https://github.com/haizlin/fe-interview/issues/6304)  
+- 2334 days (2025.09.05)  
+    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行国际化（i18n）和本地化（l10n）的？](https://github.com/haizlin/fe-interview/issues/6305)  
  
 	
 - **[All](category/history.md)**
