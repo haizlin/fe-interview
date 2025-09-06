@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.06) —— 2335 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [TypeScript] [描述一个你使用TypeScript进行插件或扩展开发的案例](https://github.com/haizlin/fe-interview/issues/6306)  
+## :clock430: Today's Knowledge Points (2025.09.07) —— 2336 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [ECMAScript的主要版本有哪些？每个版本引入了哪些新特性？](https://github.com/haizlin/fe-interview/issues/6307)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2334 days (2025.09.05)  
-    	 :one: [TypeScript] [在你的项目中，你是如何使用TypeScript进行国际化（i18n）和本地化（l10n）的？](https://github.com/haizlin/fe-interview/issues/6305)  
+- 2335 days (2025.09.06)  
+    	 :one: [TypeScript] [描述一个你使用TypeScript进行插件或扩展开发的案例](https://github.com/haizlin/fe-interview/issues/6306)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第2336天 (2025-09-07)  
+    - [ECMAScript] [ECMAScript的主要版本有哪些？每个版本引入了哪些新特性？](https://github.com/haizlin/fe-interview/issues/6307)
 - 第2335天 (2025-09-06)  
     - [TypeScript] [描述一个你使用TypeScript进行插件或扩展开发的案例](https://github.com/haizlin/fe-interview/issues/6306)
 - 第2334天 (2025-09-05)  
