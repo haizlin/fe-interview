@@ -2,6 +2,8 @@
 
 
 
+- 第2337天 (2025-09-08)  
+    - [ECMAScript] [JavaScript中的函数声明与函数表达式的区别是什么？](https://github.com/haizlin/fe-interview/issues/6308)
 - 第2336天 (2025-09-07)  
     - [ECMAScript] [ECMAScript的主要版本有哪些？每个版本引入了哪些新特性？](https://github.com/haizlin/fe-interview/issues/6307)
 - 第2335天 (2025-09-06)  

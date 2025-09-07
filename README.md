@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.07) —— 第2336天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [ECMAScript的主要版本有哪些？每个版本引入了哪些新特性？](https://github.com/haizlin/fe-interview/issues/6307)  
+## :clock430: 今天的知识点   (2025.09.08) —— 第2337天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [JavaScript中的函数声明与函数表达式的区别是什么？](https://github.com/haizlin/fe-interview/issues/6308)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2335天 (2025.09.06)  
-    	 :one: [TypeScript] [描述一个你使用TypeScript进行插件或扩展开发的案例](https://github.com/haizlin/fe-interview/issues/6306)  
+- 第2336天 (2025.09.07)  
+    	 :one: [ECMAScript] [ECMAScript的主要版本有哪些？每个版本引入了哪些新特性？](https://github.com/haizlin/fe-interview/issues/6307)  
  
 	
 - **[查看全部](category/history.md)**

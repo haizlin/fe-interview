@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.07) —— 2336 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [ECMAScript的主要版本有哪些？每个版本引入了哪些新特性？](https://github.com/haizlin/fe-interview/issues/6307)  
+## :clock430: Today's Knowledge Points (2025.09.08) —— 2337 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [JavaScript中的函数声明与函数表达式的区别是什么？](https://github.com/haizlin/fe-interview/issues/6308)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2335 days (2025.09.06)  
-    	 :one: [TypeScript] [描述一个你使用TypeScript进行插件或扩展开发的案例](https://github.com/haizlin/fe-interview/issues/6306)  
+- 2336 days (2025.09.07)  
+    	 :one: [ECMAScript] [ECMAScript的主要版本有哪些？每个版本引入了哪些新特性？](https://github.com/haizlin/fe-interview/issues/6307)  
  
 	
 - **[All](category/history.md)**
