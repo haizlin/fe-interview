@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.08) —— 2337 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [JavaScript中的函数声明与函数表达式的区别是什么？](https://github.com/haizlin/fe-interview/issues/6308)  
+## :clock430: Today's Knowledge Points (2025.09.11) —— 2340 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [严格模式（strict mode）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6311)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2336 days (2025.09.07)  
-    	 :one: [ECMAScript] [ECMAScript的主要版本有哪些？每个版本引入了哪些新特性？](https://github.com/haizlin/fe-interview/issues/6307)  
+- 2339 days (2025.09.10)  
+    	 :one: [ECMAScript] [typeof和instanceof操作符在JavaScript中的用法和区别是什么？](https://github.com/haizlin/fe-interview/issues/6310)  
  
 	
 - **[All](category/history.md)**

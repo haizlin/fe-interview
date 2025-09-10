@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.08) —— 第2337天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [JavaScript中的函数声明与函数表达式的区别是什么？](https://github.com/haizlin/fe-interview/issues/6308)  
+## :clock430: 今天的知识点   (2025.09.11) —— 第2340天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [严格模式（strict mode）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6311)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2336天 (2025.09.07)  
-    	 :one: [ECMAScript] [ECMAScript的主要版本有哪些？每个版本引入了哪些新特性？](https://github.com/haizlin/fe-interview/issues/6307)  
+- 第2339天 (2025.09.10)  
+    	 :one: [ECMAScript] [typeof和instanceof操作符在JavaScript中的用法和区别是什么？](https://github.com/haizlin/fe-interview/issues/6310)  
  
 	
 - **[查看全部](category/history.md)**

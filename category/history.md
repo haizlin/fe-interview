@@ -2,6 +2,12 @@
 
 
 
+- 第2340天 (2025-09-11)  
+    - [ECMAScript] [严格模式（strict mode）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6311)
+- 第2339天 (2025-09-10)  
+    - [ECMAScript] [typeof和instanceof操作符在JavaScript中的用法和区别是什么？](https://github.com/haizlin/fe-interview/issues/6310)
+- 第2338天 (2025-09-09)  
+    - [ECMAScript] [this关键字在JavaScript中的作用是什么？它在不同情况下的值是如何确定的？](https://github.com/haizlin/fe-interview/issues/6309)
 - 第2337天 (2025-09-08)  
     - [ECMAScript] [JavaScript中的函数声明与函数表达式的区别是什么？](https://github.com/haizlin/fe-interview/issues/6308)
 - 第2336天 (2025-09-07)  
