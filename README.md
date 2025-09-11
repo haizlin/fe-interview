@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.11) —— 第2340天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [严格模式（strict mode）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6311)  
+## :clock430: 今天的知识点   (2025.09.12) —— 第2341天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [NaN是什么？如何检测一个值是否是NaN？](https://github.com/haizlin/fe-interview/issues/6312)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2339天 (2025.09.10)  
-    	 :one: [ECMAScript] [typeof和instanceof操作符在JavaScript中的用法和区别是什么？](https://github.com/haizlin/fe-interview/issues/6310)  
+- 第2340天 (2025.09.11)  
+    	 :one: [ECMAScript] [严格模式（strict mode）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6311)  
  
 	
 - **[查看全部](category/history.md)**
