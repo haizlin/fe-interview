@@ -2,6 +2,8 @@
 
 
 
+- 第2342天 (2025-09-13)  
+    - [ECMAScript] [请解释位操作符在JavaScript中的作用和使用场景，并给出示例](https://github.com/haizlin/fe-interview/issues/6313)
 - 第2341天 (2025-09-12)  
     - [ECMAScript] [NaN是什么？如何检测一个值是否是NaN？](https://github.com/haizlin/fe-interview/issues/6312)
 - 第2340天 (2025-09-11)  

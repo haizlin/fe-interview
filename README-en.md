@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.12) —— 2341 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [NaN是什么？如何检测一个值是否是NaN？](https://github.com/haizlin/fe-interview/issues/6312)  
+## :clock430: Today's Knowledge Points (2025.09.13) —— 2342 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释位操作符在JavaScript中的作用和使用场景，并给出示例](https://github.com/haizlin/fe-interview/issues/6313)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2340 days (2025.09.11)  
-    	 :one: [ECMAScript] [严格模式（strict mode）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6311)  
+- 2341 days (2025.09.12)  
+    	 :one: [ECMAScript] [NaN是什么？如何检测一个值是否是NaN？](https://github.com/haizlin/fe-interview/issues/6312)  
  
 	
 - **[All](category/history.md)**
