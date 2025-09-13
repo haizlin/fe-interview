@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.13) —— 2342 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释位操作符在JavaScript中的作用和使用场景，并给出示例](https://github.com/haizlin/fe-interview/issues/6313)  
+## :clock430: Today's Knowledge Points (2025.09.14) —— 2343 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [对象的深拷贝和浅拷贝的区别是什么？请给出实现方法并解释](https://github.com/haizlin/fe-interview/issues/6314)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2341 days (2025.09.12)  
-    	 :one: [ECMAScript] [NaN是什么？如何检测一个值是否是NaN？](https://github.com/haizlin/fe-interview/issues/6312)  
+- 2342 days (2025.09.13)  
+    	 :one: [ECMAScript] [请解释位操作符在JavaScript中的作用和使用场景，并给出示例](https://github.com/haizlin/fe-interview/issues/6313)  
  
 	
 - **[All](category/history.md)**

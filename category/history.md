@@ -2,6 +2,8 @@
 
 
 
+- 第2343天 (2025-09-14)  
+    - [ECMAScript] [对象的深拷贝和浅拷贝的区别是什么？请给出实现方法并解释](https://github.com/haizlin/fe-interview/issues/6314)
 - 第2342天 (2025-09-13)  
     - [ECMAScript] [请解释位操作符在JavaScript中的作用和使用场景，并给出示例](https://github.com/haizlin/fe-interview/issues/6313)
 - 第2341天 (2025-09-12)  
