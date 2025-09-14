@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.14) —— 2343 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [对象的深拷贝和浅拷贝的区别是什么？请给出实现方法并解释](https://github.com/haizlin/fe-interview/issues/6314)  
+## :clock430: Today's Knowledge Points (2025.09.15) —— 2344 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [Promise对象在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6315)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2342 days (2025.09.13)  
-    	 :one: [ECMAScript] [请解释位操作符在JavaScript中的作用和使用场景，并给出示例](https://github.com/haizlin/fe-interview/issues/6313)  
+- 2343 days (2025.09.14)  
+    	 :one: [ECMAScript] [对象的深拷贝和浅拷贝的区别是什么？请给出实现方法并解释](https://github.com/haizlin/fe-interview/issues/6314)  
  
 	
 - **[All](category/history.md)**
