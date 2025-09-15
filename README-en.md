@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.15) —— 2344 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [Promise对象在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6315)  
+## :clock430: Today's Knowledge Points (2025.09.16) —— 2345 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [async/await语法在JavaScript中的作用是什么？它与Promise的关系是什么？](https://github.com/haizlin/fe-interview/issues/6316)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2343 days (2025.09.14)  
-    	 :one: [ECMAScript] [对象的深拷贝和浅拷贝的区别是什么？请给出实现方法并解释](https://github.com/haizlin/fe-interview/issues/6314)  
+- 2344 days (2025.09.15)  
+    	 :one: [ECMAScript] [Promise对象在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6315)  
  
 	
 - **[All](category/history.md)**

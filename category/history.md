@@ -2,6 +2,8 @@
 
 
 
+- 第2345天 (2025-09-16)  
+    - [ECMAScript] [async/await语法在JavaScript中的作用是什么？它与Promise的关系是什么？](https://github.com/haizlin/fe-interview/issues/6316)
 - 第2344天 (2025-09-15)  
     - [ECMAScript] [Promise对象在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6315)
 - 第2343天 (2025-09-14)  
