@@ -2,6 +2,8 @@
 
 
 
+- 第2347天 (2025-09-18)  
+    - [ECMAScript] [请解释并给出JavaScript中异步编程的几种常见方法及其特点](https://github.com/haizlin/fe-interview/issues/6318)
 - 第2346天 (2025-09-17)  
     - [ECMAScript] [请解释事件循环（Event Loop）在JavaScript中的作用和工作原理](https://github.com/haizlin/fe-interview/issues/6317)
 - 第2345天 (2025-09-16)  

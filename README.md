@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.17) —— 第2346天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释事件循环（Event Loop）在JavaScript中的作用和工作原理](https://github.com/haizlin/fe-interview/issues/6317)  
+## :clock430: 今天的知识点   (2025.09.18) —— 第2347天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中异步编程的几种常见方法及其特点](https://github.com/haizlin/fe-interview/issues/6318)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2345天 (2025.09.16)  
-    	 :one: [ECMAScript] [async/await语法在JavaScript中的作用是什么？它与Promise的关系是什么？](https://github.com/haizlin/fe-interview/issues/6316)  
+- 第2346天 (2025.09.17)  
+    	 :one: [ECMAScript] [请解释事件循环（Event Loop）在JavaScript中的作用和工作原理](https://github.com/haizlin/fe-interview/issues/6317)  
  
 	
 - **[查看全部](category/history.md)**
