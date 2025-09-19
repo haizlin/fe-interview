@@ -2,6 +2,8 @@
 
 
 
+- 第2349天 (2025-09-20)  
+    - [ECMAScript] [扩展运算符（spread operator）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6320)
 - 第2348天 (2025-09-19)  
     - [ECMAScript] [模板字符串的语法和用法是什么？](https://github.com/haizlin/fe-interview/issues/6319)
 - 第2347天 (2025-09-18)  

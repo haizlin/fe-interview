@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.19) —— 第2348天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [模板字符串的语法和用法是什么？](https://github.com/haizlin/fe-interview/issues/6319)  
+## :clock430: 今天的知识点   (2025.09.20) —— 第2349天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [扩展运算符（spread operator）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6320)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2347天 (2025.09.18)  
-    	 :one: [ECMAScript] [请解释并给出JavaScript中异步编程的几种常见方法及其特点](https://github.com/haizlin/fe-interview/issues/6318)  
+- 第2348天 (2025.09.19)  
+    	 :one: [ECMAScript] [模板字符串的语法和用法是什么？](https://github.com/haizlin/fe-interview/issues/6319)  
  
 	
 - **[查看全部](category/history.md)**
