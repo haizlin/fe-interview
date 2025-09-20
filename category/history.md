@@ -2,6 +2,8 @@
 
 
 
+- 第2350天 (2025-09-21)  
+    - [ECMAScript] [类（class）在ES6中的语法和用法是什么？它与函数构造器有何不同？](https://github.com/haizlin/fe-interview/issues/6321)
 - 第2349天 (2025-09-20)  
     - [ECMAScript] [扩展运算符（spread operator）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6320)
 - 第2348天 (2025-09-19)  
