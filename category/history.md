@@ -2,6 +2,8 @@
 
 
 
+- 第2352天 (2025-09-23)  
+    - [ECMAScript] [请解释模块（Module）在JavaScript中的作用及其语法和用法](https://github.com/haizlin/fe-interview/issues/6323)
 - 第2351天 (2025-09-22)  
     - [ECMAScript] [静态方法和实例方法在ES6中的区别是什么？](https://github.com/haizlin/fe-interview/issues/6322)
 - 第2350天 (2025-09-21)  
