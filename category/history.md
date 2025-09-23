@@ -2,6 +2,8 @@
 
 
 
+- 第2353天 (2025-09-24)  
+    - [ECMAScript] [import和export语句在ES6中的语法和用法是什么？](https://github.com/haizlin/fe-interview/issues/6324)
 - 第2352天 (2025-09-23)  
     - [ECMAScript] [请解释模块（Module）在JavaScript中的作用及其语法和用法](https://github.com/haizlin/fe-interview/issues/6323)
 - 第2351天 (2025-09-22)  

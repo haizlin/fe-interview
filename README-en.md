@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.23) —— 2352 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释模块（Module）在JavaScript中的作用及其语法和用法](https://github.com/haizlin/fe-interview/issues/6323)  
+## :clock430: Today's Knowledge Points (2025.09.24) —— 2353 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [import和export语句在ES6中的语法和用法是什么？](https://github.com/haizlin/fe-interview/issues/6324)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2351 days (2025.09.22)  
-    	 :one: [ECMAScript] [静态方法和实例方法在ES6中的区别是什么？](https://github.com/haizlin/fe-interview/issues/6322)  
+- 2352 days (2025.09.23)  
+    	 :one: [ECMAScript] [请解释模块（Module）在JavaScript中的作用及其语法和用法](https://github.com/haizlin/fe-interview/issues/6323)  
  
 	
 - **[All](category/history.md)**

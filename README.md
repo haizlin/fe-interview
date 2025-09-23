@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.23) —— 第2352天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释模块（Module）在JavaScript中的作用及其语法和用法](https://github.com/haizlin/fe-interview/issues/6323)  
+## :clock430: 今天的知识点   (2025.09.24) —— 第2353天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [import和export语句在ES6中的语法和用法是什么？](https://github.com/haizlin/fe-interview/issues/6324)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2351天 (2025.09.22)  
-    	 :one: [ECMAScript] [静态方法和实例方法在ES6中的区别是什么？](https://github.com/haizlin/fe-interview/issues/6322)  
+- 第2352天 (2025.09.23)  
+    	 :one: [ECMAScript] [请解释模块（Module）在JavaScript中的作用及其语法和用法](https://github.com/haizlin/fe-interview/issues/6323)  
  
 	
 - **[查看全部](category/history.md)**
