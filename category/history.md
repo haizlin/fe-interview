@@ -2,6 +2,8 @@
 
 
 
+- 第2354天 (2025-09-25)  
+    - [ECMAScript] [JavaScript中的错误处理机制是什么？](https://github.com/haizlin/fe-interview/issues/6325)
 - 第2353天 (2025-09-24)  
     - [ECMAScript] [import和export语句在ES6中的语法和用法是什么？](https://github.com/haizlin/fe-interview/issues/6324)
 - 第2352天 (2025-09-23)  
