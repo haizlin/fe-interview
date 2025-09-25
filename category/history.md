@@ -2,6 +2,8 @@
 
 
 
+- 第2355天 (2025-09-26)  
+    - [ECMAScript] [正则表达式在JavaScript中的作用是什么？其语法和用法](https://github.com/haizlin/fe-interview/issues/6326)
 - 第2354天 (2025-09-25)  
     - [ECMAScript] [JavaScript中的错误处理机制是什么？](https://github.com/haizlin/fe-interview/issues/6325)
 - 第2353天 (2025-09-24)  
