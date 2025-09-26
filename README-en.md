@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.26) —— 2355 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [正则表达式在JavaScript中的作用是什么？其语法和用法](https://github.com/haizlin/fe-interview/issues/6326)  
+## :clock430: Today's Knowledge Points (2025.09.27) —— 2356 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释JavaScript中的内存管理机制和垃圾回收机制](https://github.com/haizlin/fe-interview/issues/6327)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2354 days (2025.09.25)  
-    	 :one: [ECMAScript] [JavaScript中的错误处理机制是什么？](https://github.com/haizlin/fe-interview/issues/6325)  
+- 2355 days (2025.09.26)  
+    	 :one: [ECMAScript] [正则表达式在JavaScript中的作用是什么？其语法和用法](https://github.com/haizlin/fe-interview/issues/6326)  
  
 	
 - **[All](category/history.md)**

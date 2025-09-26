@@ -2,6 +2,8 @@
 
 
 
+- 第2356天 (2025-09-27)  
+    - [ECMAScript] [请解释JavaScript中的内存管理机制和垃圾回收机制](https://github.com/haizlin/fe-interview/issues/6327)
 - 第2355天 (2025-09-26)  
     - [ECMAScript] [正则表达式在JavaScript中的作用是什么？其语法和用法](https://github.com/haizlin/fe-interview/issues/6326)
 - 第2354天 (2025-09-25)  
