@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.27) —— 第2356天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释JavaScript中的内存管理机制和垃圾回收机制](https://github.com/haizlin/fe-interview/issues/6327)  
+## :clock430: 今天的知识点   (2025.09.28) —— 第2357天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [跨域资源共享（CORS）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6328)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2355天 (2025.09.26)  
-    	 :one: [ECMAScript] [正则表达式在JavaScript中的作用是什么？其语法和用法](https://github.com/haizlin/fe-interview/issues/6326)  
+- 第2356天 (2025.09.27)  
+    	 :one: [ECMAScript] [请解释JavaScript中的内存管理机制和垃圾回收机制](https://github.com/haizlin/fe-interview/issues/6327)  
  
 	
 - **[查看全部](category/history.md)**
