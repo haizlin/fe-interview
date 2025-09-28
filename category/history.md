@@ -2,6 +2,8 @@
 
 
 
+- 第2358天 (2025-09-29)  
+    - [ECMAScript] [事件委托机制在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6329)
 - 第2357天 (2025-09-28)  
     - [ECMAScript] [跨域资源共享（CORS）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6328)
 - 第2356天 (2025-09-27)  
