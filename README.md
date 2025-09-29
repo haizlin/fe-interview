@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.29) —— 第2358天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [事件委托机制在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6329)  
+## :clock430: 今天的知识点   (2025.09.30) —— 第2359天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [Web Workers在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6330)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2357天 (2025.09.28)  
-    	 :one: [ECMAScript] [跨域资源共享（CORS）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6328)  
+- 第2358天 (2025.09.29)  
+    	 :one: [ECMAScript] [事件委托机制在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6329)  
  
 	
 - **[查看全部](category/history.md)**

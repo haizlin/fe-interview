@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.29) —— 2358 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [事件委托机制在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6329)  
+## :clock430: Today's Knowledge Points (2025.09.30) —— 2359 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [Web Workers在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6330)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2357 days (2025.09.28)  
-    	 :one: [ECMAScript] [跨域资源共享（CORS）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6328)  
+- 2358 days (2025.09.29)  
+    	 :one: [ECMAScript] [事件委托机制在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6329)  
  
 	
 - **[All](category/history.md)**

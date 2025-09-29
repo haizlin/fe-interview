@@ -2,6 +2,8 @@
 
 
 
+- 第2359天 (2025-09-30)  
+    - [ECMAScript] [Web Workers在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6330)
 - 第2358天 (2025-09-29)  
     - [ECMAScript] [事件委托机制在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6329)
 - 第2357天 (2025-09-28)  
