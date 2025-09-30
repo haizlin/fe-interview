@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.09.30) —— 2359 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [Web Workers在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6330)  
+## :clock430: Today's Knowledge Points (2025.10.01) —— 2360 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [同源策略（Same-Origin Policy）在JavaScript中的作用是什么？为什么它很重要？](https://github.com/haizlin/fe-interview/issues/6331)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2358 days (2025.09.29)  
-    	 :one: [ECMAScript] [事件委托机制在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6329)  
+- 2359 days (2025.09.30)  
+    	 :one: [ECMAScript] [Web Workers在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6330)  
  
 	
 - **[All](category/history.md)**

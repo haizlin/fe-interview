@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.09.30) —— 第2359天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [Web Workers在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6330)  
+## :clock430: 今天的知识点   (2025.10.01) —— 第2360天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [同源策略（Same-Origin Policy）在JavaScript中的作用是什么？为什么它很重要？](https://github.com/haizlin/fe-interview/issues/6331)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2358天 (2025.09.29)  
-    	 :one: [ECMAScript] [事件委托机制在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6329)  
+- 第2359天 (2025.09.30)  
+    	 :one: [ECMAScript] [Web Workers在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6330)  
  
 	
 - **[查看全部](category/history.md)**
