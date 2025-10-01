@@ -2,6 +2,8 @@
 
 
 
+- 第2361天 (2025-10-02)  
+    - [ECMAScript] [什么是Symbol数据类型？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6332)
 - 第2360天 (2025-10-01)  
     - [ECMAScript] [同源策略（Same-Origin Policy）在JavaScript中的作用是什么？为什么它很重要？](https://github.com/haizlin/fe-interview/issues/6331)
 - 第2359天 (2025-09-30)  
