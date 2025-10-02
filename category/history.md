@@ -2,6 +2,8 @@
 
 
 
+- 第2362天 (2025-10-03)  
+    - [ECMAScript] [请解释并给出JavaScript中生成器（Generator）函数的示例和用法](https://github.com/haizlin/fe-interview/issues/6333)
 - 第2361天 (2025-10-02)  
     - [ECMAScript] [什么是Symbol数据类型？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6332)
 - 第2360天 (2025-10-01)  

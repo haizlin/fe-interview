@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.02) —— 第2361天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [什么是Symbol数据类型？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6332)  
+## :clock430: 今天的知识点   (2025.10.03) —— 第2362天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中生成器（Generator）函数的示例和用法](https://github.com/haizlin/fe-interview/issues/6333)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2360天 (2025.10.01)  
-    	 :one: [ECMAScript] [同源策略（Same-Origin Policy）在JavaScript中的作用是什么？为什么它很重要？](https://github.com/haizlin/fe-interview/issues/6331)  
+- 第2361天 (2025.10.02)  
+    	 :one: [ECMAScript] [什么是Symbol数据类型？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6332)  
  
 	
 - **[查看全部](category/history.md)**
