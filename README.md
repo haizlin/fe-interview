@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.03) —— 第2362天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中生成器（Generator）函数的示例和用法](https://github.com/haizlin/fe-interview/issues/6333)  
+## :clock430: 今天的知识点   (2025.10.04) —— 第2363天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [迭代器（Iterator）和可迭代对象（Iterable）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6334)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2361天 (2025.10.02)  
-    	 :one: [ECMAScript] [什么是Symbol数据类型？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6332)  
+- 第2362天 (2025.10.03)  
+    	 :one: [ECMAScript] [请解释并给出JavaScript中生成器（Generator）函数的示例和用法](https://github.com/haizlin/fe-interview/issues/6333)  
  
 	
 - **[查看全部](category/history.md)**
