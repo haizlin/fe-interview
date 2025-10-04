@@ -2,6 +2,8 @@
 
 
 
+- 第2364天 (2025-10-05)  
+    - [ECMAScript] [异步迭代器（Async Iterator）和异步可迭代对象（Async Iterable）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6335)
 - 第2363天 (2025-10-04)  
     - [ECMAScript] [迭代器（Iterator）和可迭代对象（Iterable）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6334)
 - 第2362天 (2025-10-03)  

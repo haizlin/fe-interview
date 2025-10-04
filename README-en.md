@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.04) —— 2363 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [迭代器（Iterator）和可迭代对象（Iterable）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6334)  
+## :clock430: Today's Knowledge Points (2025.10.05) —— 2364 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [异步迭代器（Async Iterator）和异步可迭代对象（Async Iterable）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6335)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2362 days (2025.10.03)  
-    	 :one: [ECMAScript] [请解释并给出JavaScript中生成器（Generator）函数的示例和用法](https://github.com/haizlin/fe-interview/issues/6333)  
+- 2363 days (2025.10.04)  
+    	 :one: [ECMAScript] [迭代器（Iterator）和可迭代对象（Iterable）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6334)  
  
 	
 - **[All](category/history.md)**
