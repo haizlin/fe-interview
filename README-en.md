@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.06) —— 2365 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释JavaScript中的尾调用优化（Tail Call Optimization）及其作用](https://github.com/haizlin/fe-interview/issues/6336)  
+## :clock430: Today's Knowledge Points (2025.10.07) —— 2366 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释DOM（文档对象模型）在JavaScript中的作用及其结构](https://github.com/haizlin/fe-interview/issues/6337)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2364 days (2025.10.05)  
-    	 :one: [ECMAScript] [异步迭代器（Async Iterator）和异步可迭代对象（Async Iterable）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6335)  
+- 2365 days (2025.10.06)  
+    	 :one: [ECMAScript] [请解释JavaScript中的尾调用优化（Tail Call Optimization）及其作用](https://github.com/haizlin/fe-interview/issues/6336)  
  
 	
 - **[All](category/history.md)**

@@ -2,6 +2,8 @@
 
 
 
+- 第2366天 (2025-10-07)  
+    - [ECMAScript] [请解释DOM（文档对象模型）在JavaScript中的作用及其结构](https://github.com/haizlin/fe-interview/issues/6337)
 - 第2365天 (2025-10-06)  
     - [ECMAScript] [请解释JavaScript中的尾调用优化（Tail Call Optimization）及其作用](https://github.com/haizlin/fe-interview/issues/6336)
 - 第2364天 (2025-10-05)  

@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.06) —— 第2365天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释JavaScript中的尾调用优化（Tail Call Optimization）及其作用](https://github.com/haizlin/fe-interview/issues/6336)  
+## :clock430: 今天的知识点   (2025.10.07) —— 第2366天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释DOM（文档对象模型）在JavaScript中的作用及其结构](https://github.com/haizlin/fe-interview/issues/6337)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2364天 (2025.10.05)  
-    	 :one: [ECMAScript] [异步迭代器（Async Iterator）和异步可迭代对象（Async Iterable）在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6335)  
+- 第2365天 (2025.10.06)  
+    	 :one: [ECMAScript] [请解释JavaScript中的尾调用优化（Tail Call Optimization）及其作用](https://github.com/haizlin/fe-interview/issues/6336)  
  
 	
 - **[查看全部](category/history.md)**
