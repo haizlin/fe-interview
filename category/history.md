@@ -2,6 +2,8 @@
 
 
 
+- 第2367天 (2025-10-08)  
+    - [ECMAScript] [如何通过JavaScript动态地创建、添加、移除和替换DOM节点？](https://github.com/haizlin/fe-interview/issues/6338)
 - 第2366天 (2025-10-07)  
     - [ECMAScript] [请解释DOM（文档对象模型）在JavaScript中的作用及其结构](https://github.com/haizlin/fe-interview/issues/6337)
 - 第2365天 (2025-10-06)  

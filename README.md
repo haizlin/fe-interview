@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.07) —— 第2366天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释DOM（文档对象模型）在JavaScript中的作用及其结构](https://github.com/haizlin/fe-interview/issues/6337)  
+## :clock430: 今天的知识点   (2025.10.08) —— 第2367天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何通过JavaScript动态地创建、添加、移除和替换DOM节点？](https://github.com/haizlin/fe-interview/issues/6338)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2365天 (2025.10.06)  
-    	 :one: [ECMAScript] [请解释JavaScript中的尾调用优化（Tail Call Optimization）及其作用](https://github.com/haizlin/fe-interview/issues/6336)  
+- 第2366天 (2025.10.07)  
+    	 :one: [ECMAScript] [请解释DOM（文档对象模型）在JavaScript中的作用及其结构](https://github.com/haizlin/fe-interview/issues/6337)  
  
 	
 - **[查看全部](category/history.md)**

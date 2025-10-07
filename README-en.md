@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.07) —— 2366 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释DOM（文档对象模型）在JavaScript中的作用及其结构](https://github.com/haizlin/fe-interview/issues/6337)  
+## :clock430: Today's Knowledge Points (2025.10.08) —— 2367 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何通过JavaScript动态地创建、添加、移除和替换DOM节点？](https://github.com/haizlin/fe-interview/issues/6338)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2365 days (2025.10.06)  
-    	 :one: [ECMAScript] [请解释JavaScript中的尾调用优化（Tail Call Optimization）及其作用](https://github.com/haizlin/fe-interview/issues/6336)  
+- 2366 days (2025.10.07)  
+    	 :one: [ECMAScript] [请解释DOM（文档对象模型）在JavaScript中的作用及其结构](https://github.com/haizlin/fe-interview/issues/6337)  
  
 	
 - **[All](category/history.md)**
