@@ -2,6 +2,8 @@
 
 
 
+- 第2368天 (2025-10-09)  
+    - [ECMAScript] [请解释事件冒泡和事件捕获的概念，并给出示例](https://github.com/haizlin/fe-interview/issues/6339)
 - 第2367天 (2025-10-08)  
     - [ECMAScript] [如何通过JavaScript动态地创建、添加、移除和替换DOM节点？](https://github.com/haizlin/fe-interview/issues/6338)
 - 第2366天 (2025-10-07)  
