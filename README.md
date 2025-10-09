@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.09) —— 第2368天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释事件冒泡和事件捕获的概念，并给出示例](https://github.com/haizlin/fe-interview/issues/6339)  
+## :clock430: 今天的知识点   (2025.10.10) —— 第2369天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何阻止事件冒泡和默认事件？](https://github.com/haizlin/fe-interview/issues/6340)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2367天 (2025.10.08)  
-    	 :one: [ECMAScript] [如何通过JavaScript动态地创建、添加、移除和替换DOM节点？](https://github.com/haizlin/fe-interview/issues/6338)  
+- 第2368天 (2025.10.09)  
+    	 :one: [ECMAScript] [请解释事件冒泡和事件捕获的概念，并给出示例](https://github.com/haizlin/fe-interview/issues/6339)  
  
 	
 - **[查看全部](category/history.md)**

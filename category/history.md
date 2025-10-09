@@ -2,6 +2,8 @@
 
 
 
+- 第2369天 (2025-10-10)  
+    - [ECMAScript] [如何阻止事件冒泡和默认事件？](https://github.com/haizlin/fe-interview/issues/6340)
 - 第2368天 (2025-10-09)  
     - [ECMAScript] [请解释事件冒泡和事件捕获的概念，并给出示例](https://github.com/haizlin/fe-interview/issues/6339)
 - 第2367天 (2025-10-08)  
