@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.10) —— 2369 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何阻止事件冒泡和默认事件？](https://github.com/haizlin/fe-interview/issues/6340)  
+## :clock430: Today's Knowledge Points (2025.10.11) —— 2370 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中事件委托的示例和用法](https://github.com/haizlin/fe-interview/issues/6341)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2368 days (2025.10.09)  
-    	 :one: [ECMAScript] [请解释事件冒泡和事件捕获的概念，并给出示例](https://github.com/haizlin/fe-interview/issues/6339)  
+- 2369 days (2025.10.10)  
+    	 :one: [ECMAScript] [如何阻止事件冒泡和默认事件？](https://github.com/haizlin/fe-interview/issues/6340)  
  
 	
 - **[All](category/history.md)**

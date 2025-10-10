@@ -2,6 +2,8 @@
 
 
 
+- 第2370天 (2025-10-11)  
+    - [ECMAScript] [请解释并给出JavaScript中事件委托的示例和用法](https://github.com/haizlin/fe-interview/issues/6341)
 - 第2369天 (2025-10-10)  
     - [ECMAScript] [如何阻止事件冒泡和默认事件？](https://github.com/haizlin/fe-interview/issues/6340)
 - 第2368天 (2025-10-09)  
