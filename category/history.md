@@ -2,6 +2,8 @@
 
 
 
+- 第2371天 (2025-10-12)  
+    - [ECMAScript] [如何使用JavaScript实现自定义事件？](https://github.com/haizlin/fe-interview/issues/6342)
 - 第2370天 (2025-10-11)  
     - [ECMAScript] [请解释并给出JavaScript中事件委托的示例和用法](https://github.com/haizlin/fe-interview/issues/6341)
 - 第2369天 (2025-10-10)  

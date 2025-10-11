@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.11) —— 第2370天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中事件委托的示例和用法](https://github.com/haizlin/fe-interview/issues/6341)  
+## :clock430: 今天的知识点   (2025.10.12) —— 第2371天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何使用JavaScript实现自定义事件？](https://github.com/haizlin/fe-interview/issues/6342)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2369天 (2025.10.10)  
-    	 :one: [ECMAScript] [如何阻止事件冒泡和默认事件？](https://github.com/haizlin/fe-interview/issues/6340)  
+- 第2370天 (2025.10.11)  
+    	 :one: [ECMAScript] [请解释并给出JavaScript中事件委托的示例和用法](https://github.com/haizlin/fe-interview/issues/6341)  
  
 	
 - **[查看全部](category/history.md)**
