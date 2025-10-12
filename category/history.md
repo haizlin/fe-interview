@@ -2,6 +2,8 @@
 
 
 
+- 第2372天 (2025-10-13)  
+    - [ECMAScript] [请解释并给出JavaScript中事件监听器的添加和移除方法](https://github.com/haizlin/fe-interview/issues/6343)
 - 第2371天 (2025-10-12)  
     - [ECMAScript] [如何使用JavaScript实现自定义事件？](https://github.com/haizlin/fe-interview/issues/6342)
 - 第2370天 (2025-10-11)  
