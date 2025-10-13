@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.13) —— 第2372天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中事件监听器的添加和移除方法](https://github.com/haizlin/fe-interview/issues/6343)  
+## :clock430: 今天的知识点   (2025.10.14) —— 第2373天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [什么是事件代理（Event Delegation）？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6344)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2371天 (2025.10.12)  
-    	 :one: [ECMAScript] [如何使用JavaScript实现自定义事件？](https://github.com/haizlin/fe-interview/issues/6342)  
+- 第2372天 (2025.10.13)  
+    	 :one: [ECMAScript] [请解释并给出JavaScript中事件监听器的添加和移除方法](https://github.com/haizlin/fe-interview/issues/6343)  
  
 	
 - **[查看全部](category/history.md)**

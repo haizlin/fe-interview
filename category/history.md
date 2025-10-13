@@ -2,6 +2,8 @@
 
 
 
+- 第2373天 (2025-10-14)  
+    - [ECMAScript] [什么是事件代理（Event Delegation）？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6344)
 - 第2372天 (2025-10-13)  
     - [ECMAScript] [请解释并给出JavaScript中事件监听器的添加和移除方法](https://github.com/haizlin/fe-interview/issues/6343)
 - 第2371天 (2025-10-12)  
