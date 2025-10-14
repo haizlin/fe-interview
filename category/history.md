@@ -2,6 +2,8 @@
 
 
 
+- 第2374天 (2025-10-15)  
+    - [ECMAScript] [如何处理JavaScript中的事件冒泡和事件捕获的优先级问题？](https://github.com/haizlin/fe-interview/issues/6345)
 - 第2373天 (2025-10-14)  
     - [ECMAScript] [什么是事件代理（Event Delegation）？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6344)
 - 第2372天 (2025-10-13)  
