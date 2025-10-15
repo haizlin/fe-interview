@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.15) —— 第2374天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何处理JavaScript中的事件冒泡和事件捕获的优先级问题？](https://github.com/haizlin/fe-interview/issues/6345)  
+## :clock430: 今天的知识点   (2025.10.16) —— 第2375天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中键盘事件和鼠标事件的示例和用法](https://github.com/haizlin/fe-interview/issues/6346)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2373天 (2025.10.14)  
-    	 :one: [ECMAScript] [什么是事件代理（Event Delegation）？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6344)  
+- 第2374天 (2025.10.15)  
+    	 :one: [ECMAScript] [如何处理JavaScript中的事件冒泡和事件捕获的优先级问题？](https://github.com/haizlin/fe-interview/issues/6345)  
  
 	
 - **[查看全部](category/history.md)**

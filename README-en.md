@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.15) —— 2374 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何处理JavaScript中的事件冒泡和事件捕获的优先级问题？](https://github.com/haizlin/fe-interview/issues/6345)  
+## :clock430: Today's Knowledge Points (2025.10.16) —— 2375 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中键盘事件和鼠标事件的示例和用法](https://github.com/haizlin/fe-interview/issues/6346)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2373 days (2025.10.14)  
-    	 :one: [ECMAScript] [什么是事件代理（Event Delegation）？它在JavaScript中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6344)  
+- 2374 days (2025.10.15)  
+    	 :one: [ECMAScript] [如何处理JavaScript中的事件冒泡和事件捕获的优先级问题？](https://github.com/haizlin/fe-interview/issues/6345)  
  
 	
 - **[All](category/history.md)**

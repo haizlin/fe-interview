@@ -2,6 +2,8 @@
 
 
 
+- 第2375天 (2025-10-16)  
+    - [ECMAScript] [请解释并给出JavaScript中键盘事件和鼠标事件的示例和用法](https://github.com/haizlin/fe-interview/issues/6346)
 - 第2374天 (2025-10-15)  
     - [ECMAScript] [如何处理JavaScript中的事件冒泡和事件捕获的优先级问题？](https://github.com/haizlin/fe-interview/issues/6345)
 - 第2373天 (2025-10-14)  
