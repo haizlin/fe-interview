@@ -2,6 +2,8 @@
 
 
 
+- 第2376天 (2025-10-17)  
+    - [ECMAScript] [如何使用JavaScript的调试工具进行代码调试？](https://github.com/haizlin/fe-interview/issues/6347)
 - 第2375天 (2025-10-16)  
     - [ECMAScript] [请解释并给出JavaScript中键盘事件和鼠标事件的示例和用法](https://github.com/haizlin/fe-interview/issues/6346)
 - 第2374天 (2025-10-15)  

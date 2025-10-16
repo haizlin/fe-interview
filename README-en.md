@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.16) —— 2375 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中键盘事件和鼠标事件的示例和用法](https://github.com/haizlin/fe-interview/issues/6346)  
+## :clock430: Today's Knowledge Points (2025.10.17) —— 2376 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何使用JavaScript的调试工具进行代码调试？](https://github.com/haizlin/fe-interview/issues/6347)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2374 days (2025.10.15)  
-    	 :one: [ECMAScript] [如何处理JavaScript中的事件冒泡和事件捕获的优先级问题？](https://github.com/haizlin/fe-interview/issues/6345)  
+- 2375 days (2025.10.16)  
+    	 :one: [ECMAScript] [请解释并给出JavaScript中键盘事件和鼠标事件的示例和用法](https://github.com/haizlin/fe-interview/issues/6346)  
  
 	
 - **[All](category/history.md)**
