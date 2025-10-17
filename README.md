@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.17) —— 第2376天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何使用JavaScript的调试工具进行代码调试？](https://github.com/haizlin/fe-interview/issues/6347)  
+## :clock430: 今天的知识点   (2025.10.18) —— 第2377天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释JavaScript中的内存泄漏问题及其解决方法](https://github.com/haizlin/fe-interview/issues/6348)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2375天 (2025.10.16)  
-    	 :one: [ECMAScript] [请解释并给出JavaScript中键盘事件和鼠标事件的示例和用法](https://github.com/haizlin/fe-interview/issues/6346)  
+- 第2376天 (2025.10.17)  
+    	 :one: [ECMAScript] [如何使用JavaScript的调试工具进行代码调试？](https://github.com/haizlin/fe-interview/issues/6347)  
  
 	
 - **[查看全部](category/history.md)**

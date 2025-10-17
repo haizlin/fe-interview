@@ -2,6 +2,8 @@
 
 
 
+- 第2377天 (2025-10-18)  
+    - [ECMAScript] [请解释JavaScript中的内存泄漏问题及其解决方法](https://github.com/haizlin/fe-interview/issues/6348)
 - 第2376天 (2025-10-17)  
     - [ECMAScript] [如何使用JavaScript的调试工具进行代码调试？](https://github.com/haizlin/fe-interview/issues/6347)
 - 第2375天 (2025-10-16)  

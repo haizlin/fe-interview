@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.17) —— 2376 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何使用JavaScript的调试工具进行代码调试？](https://github.com/haizlin/fe-interview/issues/6347)  
+## :clock430: Today's Knowledge Points (2025.10.18) —— 2377 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释JavaScript中的内存泄漏问题及其解决方法](https://github.com/haizlin/fe-interview/issues/6348)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2375 days (2025.10.16)  
-    	 :one: [ECMAScript] [请解释并给出JavaScript中键盘事件和鼠标事件的示例和用法](https://github.com/haizlin/fe-interview/issues/6346)  
+- 2376 days (2025.10.17)  
+    	 :one: [ECMAScript] [如何使用JavaScript的调试工具进行代码调试？](https://github.com/haizlin/fe-interview/issues/6347)  
  
 	
 - **[All](category/history.md)**
