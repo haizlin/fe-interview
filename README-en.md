@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.19) —— 2378 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何使用JavaScript的Profiler工具进行性能分析？](https://github.com/haizlin/fe-interview/issues/6349)  
+## :clock430: Today's Knowledge Points (2025.10.20) —— 2379 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中代码压缩和混淆的示例和用法](https://github.com/haizlin/fe-interview/issues/6350)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2377 days (2025.10.18)  
-    	 :one: [ECMAScript] [请解释JavaScript中的内存泄漏问题及其解决方法](https://github.com/haizlin/fe-interview/issues/6348)  
+- 2378 days (2025.10.19)  
+    	 :one: [ECMAScript] [如何使用JavaScript的Profiler工具进行性能分析？](https://github.com/haizlin/fe-interview/issues/6349)  
  
 	
 - **[All](category/history.md)**

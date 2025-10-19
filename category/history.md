@@ -2,6 +2,8 @@
 
 
 
+- 第2379天 (2025-10-20)  
+    - [ECMAScript] [请解释并给出JavaScript中代码压缩和混淆的示例和用法](https://github.com/haizlin/fe-interview/issues/6350)
 - 第2378天 (2025-10-19)  
     - [ECMAScript] [如何使用JavaScript的Profiler工具进行性能分析？](https://github.com/haizlin/fe-interview/issues/6349)
 - 第2377天 (2025-10-18)  
