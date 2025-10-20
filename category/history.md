@@ -2,6 +2,8 @@
 
 
 
+- 第2380天 (2025-10-21)  
+    - [ECMAScript] [如何优化JavaScript中的循环和条件语句以提高性能？](https://github.com/haizlin/fe-interview/issues/6351)
 - 第2379天 (2025-10-20)  
     - [ECMAScript] [请解释并给出JavaScript中代码压缩和混淆的示例和用法](https://github.com/haizlin/fe-interview/issues/6350)
 - 第2378天 (2025-10-19)  
