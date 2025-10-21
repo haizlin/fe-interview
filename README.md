@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.21) —— 第2380天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何优化JavaScript中的循环和条件语句以提高性能？](https://github.com/haizlin/fe-interview/issues/6351)  
+## :clock430: 今天的知识点   (2025.10.22) —— 第2381天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中懒加载和预加载的示例和用法](https://github.com/haizlin/fe-interview/issues/6352)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2379天 (2025.10.20)  
-    	 :one: [ECMAScript] [请解释并给出JavaScript中代码压缩和混淆的示例和用法](https://github.com/haizlin/fe-interview/issues/6350)  
+- 第2380天 (2025.10.21)  
+    	 :one: [ECMAScript] [如何优化JavaScript中的循环和条件语句以提高性能？](https://github.com/haizlin/fe-interview/issues/6351)  
  
 	
 - **[查看全部](category/history.md)**

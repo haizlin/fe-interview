@@ -2,6 +2,8 @@
 
 
 
+- 第2381天 (2025-10-22)  
+    - [ECMAScript] [请解释并给出JavaScript中懒加载和预加载的示例和用法](https://github.com/haizlin/fe-interview/issues/6352)
 - 第2380天 (2025-10-21)  
     - [ECMAScript] [如何优化JavaScript中的循环和条件语句以提高性能？](https://github.com/haizlin/fe-interview/issues/6351)
 - 第2379天 (2025-10-20)  
