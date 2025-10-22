@@ -2,6 +2,8 @@
 
 
 
+- 第2382天 (2025-10-23)  
+    - [ECMAScript] [如何减少JavaScript文件的大小和加载时间？](https://github.com/haizlin/fe-interview/issues/6353)
 - 第2381天 (2025-10-22)  
     - [ECMAScript] [请解释并给出JavaScript中懒加载和预加载的示例和用法](https://github.com/haizlin/fe-interview/issues/6352)
 - 第2380天 (2025-10-21)  
