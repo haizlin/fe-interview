@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.23) —— 2382 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何减少JavaScript文件的大小和加载时间？](https://github.com/haizlin/fe-interview/issues/6353)  
+## :clock430: Today's Knowledge Points (2025.10.24) —— 2383 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请解释并给出JavaScript中代码分割和按需加载的示例和用法](https://github.com/haizlin/fe-interview/issues/6354)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2381 days (2025.10.22)  
-    	 :one: [ECMAScript] [请解释并给出JavaScript中懒加载和预加载的示例和用法](https://github.com/haizlin/fe-interview/issues/6352)  
+- 2382 days (2025.10.23)  
+    	 :one: [ECMAScript] [如何减少JavaScript文件的大小和加载时间？](https://github.com/haizlin/fe-interview/issues/6353)  
  
 	
 - **[All](category/history.md)**
