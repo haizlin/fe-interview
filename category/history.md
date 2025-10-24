@@ -2,6 +2,8 @@
 
 
 
+- 第2384天 (2025-10-25)  
+    - [ECMAScript] [如何使用JavaScript的缓存机制来提高性能？](https://github.com/haizlin/fe-interview/issues/6355)
 - 第2383天 (2025-10-24)  
     - [ECMAScript] [请解释并给出JavaScript中代码分割和按需加载的示例和用法](https://github.com/haizlin/fe-interview/issues/6354)
 - 第2382天 (2025-10-23)  
