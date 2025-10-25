@@ -2,6 +2,8 @@
 
 
 
+- 第2385天 (2025-10-26)  
+    - [ECMAScript] [请列举ESNext中引入的一些新特性或提案，并解释其作用](https://github.com/haizlin/fe-interview/issues/6356)
 - 第2384天 (2025-10-25)  
     - [ECMAScript] [如何使用JavaScript的缓存机制来提高性能？](https://github.com/haizlin/fe-interview/issues/6355)
 - 第2383天 (2025-10-24)  

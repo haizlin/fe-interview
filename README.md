@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.25) —— 第2384天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [如何使用JavaScript的缓存机制来提高性能？](https://github.com/haizlin/fe-interview/issues/6355)  
+## :clock430: 今天的知识点   (2025.10.26) —— 第2385天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请列举ESNext中引入的一些新特性或提案，并解释其作用](https://github.com/haizlin/fe-interview/issues/6356)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2383天 (2025.10.24)  
-    	 :one: [ECMAScript] [请解释并给出JavaScript中代码分割和按需加载的示例和用法](https://github.com/haizlin/fe-interview/issues/6354)  
+- 第2384天 (2025.10.25)  
+    	 :one: [ECMAScript] [如何使用JavaScript的缓存机制来提高性能？](https://github.com/haizlin/fe-interview/issues/6355)  
  
 	
 - **[查看全部](category/history.md)**
