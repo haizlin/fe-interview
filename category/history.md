@@ -2,6 +2,8 @@
 
 
 
+- 第2386天 (2025-10-27)  
+    - [ECMAScript] [什么是TC39委员会？它在JavaScript标准制定中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6357)
 - 第2385天 (2025-10-26)  
     - [ECMAScript] [请列举ESNext中引入的一些新特性或提案，并解释其作用](https://github.com/haizlin/fe-interview/issues/6356)
 - 第2384天 (2025-10-25)  

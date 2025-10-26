@@ -40,8 +40,8 @@
 | :coffee: 汇总 | [周](category/week.md) | [历史题目](category/history.md)  |
 
 
-## :clock430: 今天的知识点   (2025.10.26) —— 第2385天  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请列举ESNext中引入的一些新特性或提案，并解释其作用](https://github.com/haizlin/fe-interview/issues/6356)  
+## :clock430: 今天的知识点   (2025.10.27) —— 第2386天  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [什么是TC39委员会？它在JavaScript标准制定中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6357)  
  
   
 ### :camel: 历史题目
@@ -53,8 +53,8 @@
     …………  
 
 
-- 第2384天 (2025.10.25)  
-    	 :one: [ECMAScript] [如何使用JavaScript的缓存机制来提高性能？](https://github.com/haizlin/fe-interview/issues/6355)  
+- 第2385天 (2025.10.26)  
+    	 :one: [ECMAScript] [请列举ESNext中引入的一些新特性或提案，并解释其作用](https://github.com/haizlin/fe-interview/issues/6356)  
  
 	
 - **[查看全部](category/history.md)**

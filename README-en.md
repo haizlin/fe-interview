@@ -40,8 +40,8 @@
 | :coffee: Summary | [week](category/week.md) | [history](category/history.md)  |
 
 
-## :clock430: Today's Knowledge Points (2025.10.26) —— 2385 days  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [请列举ESNext中引入的一些新特性或提案，并解释其作用](https://github.com/haizlin/fe-interview/issues/6356)  
+## :clock430: Today's Knowledge Points (2025.10.27) —— 2386 days  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:one: [ECMAScript] [什么是TC39委员会？它在JavaScript标准制定中的作用是什么？](https://github.com/haizlin/fe-interview/issues/6357)  
  
   
 ### :camel: History
@@ -52,8 +52,8 @@
     …………  
 
 
-- 2384 days (2025.10.25)  
-    	 :one: [ECMAScript] [如何使用JavaScript的缓存机制来提高性能？](https://github.com/haizlin/fe-interview/issues/6355)  
+- 2385 days (2025.10.26)  
+    	 :one: [ECMAScript] [请列举ESNext中引入的一些新特性或提案，并解释其作用](https://github.com/haizlin/fe-interview/issues/6356)  
  
 	
 - **[All](category/history.md)**
